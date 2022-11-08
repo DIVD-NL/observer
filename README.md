@@ -1,9 +1,9 @@
 # The Observer project
-1.8 Billion domains were discovered andd indexed since 2016.
+1.8 Billion domains have been discovered and indexed since 2016.
 
 ## Observed domain name changes
-The DIVD Observer tracked 84,594,450 domain name changes in 595 top level domains in the last 12 months.
-40,988,977 domains were deleted and 43,605,473 new domains were added. 
+The DIVD Observer tracked 84,594,450 domain name changes in 595 top-level domains in the last 12 months. 
+40,988,977 domains were removed, and 43,605,473 new domains were added.
 
 |TLD          |Added domains|Deleted domains|Total domains on 2022-11-01|
 |-------------|-------------|---------------|---------------------------|
