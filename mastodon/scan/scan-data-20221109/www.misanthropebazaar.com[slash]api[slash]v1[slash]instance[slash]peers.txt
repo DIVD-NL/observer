@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 76778b96e9b883d7-BRU
+Date: Wed, 09 Nov 2022 15:22:41 GMT
+Expires: Wed, 09 Nov 2022 16:22:41 GMT
+Location: https://misanthropebazaar.com/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aNVaC%2Bfebb%2FOSmrUwAt6Axx4%2BVK531FsJhiI0R9CkNbQx4eF%2BXsL8bH6tRXV4K0XnyQ9vQPkrD%2BuxhJ9EtZ43PIaHTfo6P1qk7ydVitDvJmhRbP9HZ22DWyMh2Y1o8%2F%2FvKyUj7yyAGbDDNz4"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+
+0
+

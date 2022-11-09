@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://post.habitattt.it; img-src 'self' https: data: blob: https://post.habitattt.it; style-src 'self' https://post.habitattt.it 'nonce-rfhtTxdfaia2n5HO4ax4ag=='; media-src 'self' https: data: https://post.habitattt.it; frame-src 'self' https:; manifest-src 'self' https://post.habitattt.it; connect-src 'self' data: blob: https://post.habitattt.it https://post.habitattt.it wss://post.habitattt.it; script-src 'self' https://post.habitattt.it; child-src 'self' blob: https://post.habitattt.it; worker-src 'self' blob: https://post.habitattt.it
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:36 GMT
+Etag: W/"426055d024b882a172aa96bf9fda29af"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.724803Z
+X-Request-Id: 14edfb13-beb7-4fe7-8316-740d5d0a4984
+X-Runtime: 0.007529
+X-Xss-Protection: 0
+
+a1
+["todon.nl","venera.social","hackers.town","mastodon.social","digipres.club","mograph.social","post.lurk.org","social.coop","merveilles.town","mastodon.bida.im"]
+0
+

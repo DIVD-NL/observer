@@ -1,0 +1,18 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors 'none' ;frame-src 'none' ;font-src 'self' ;media-src 'self' ;img-src 'self' data: blob: *.tile.openstreetmap.org ;connect-src 'self' * blob: https://events.open-society.ch wss://events.open-society.ch ;style-src 'self' ;script-src 'self' 'unsafe-eval' 'sha256-4RS22DYeB7U14dra4KcQYxmwt5HkOInieXK1NUMBmQI=' ;default-src 'none';base-uri 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:48 GMT
+Referrer-Policy: same-origin
+Server: nginx/1.14.2
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: FyXyf-qUc3xkub0AAY5B
+X-Xss-Protection: 0
+
+{"errors":[{"message":"No query document supplied"}]}

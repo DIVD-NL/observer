@@ -1,0 +1,96 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:05:12 GMT
+Server: LiteSpeed
+Vary: Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/7.4.33
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Not Found - Powerlot</title>
+  <link rel="shortcut icon" href="https://gs.powerlot.net/theme/neo-gnu/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/theme/base/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/theme/neo-gnu/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gs.powerlot.net/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://gs.powerlot.net/opensearch/people" title="Powerlot People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://gs.powerlot.net/opensearch/notice" title="Powerlot Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://gs.powerlot.net/main/public">
+      <img class="logo u-photo p-name" src="https://gs.powerlot.net/theme/neo-gnu/logo.png" alt="Powerlot"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://gs.powerlot.net/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="nav_login">
+       <a href="https://gs.powerlot.net/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://gs.powerlot.net/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://gs.powerlot.net/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>Powerlot</strong> is a social network. It runs on <a href="https://www.gnu.org/software/social/">GNU social</a>, version 1.2.0-beta4, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>
+     <img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15"/>
+ All Powerlot content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+   </div>
+  </div>
+ </body>
+<!-- 57ms --></html>

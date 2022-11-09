@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.saveker.org; img-src 'self' https: data: blob: https://mastodon.saveker.org; style-src 'self' https://mastodon.saveker.org 'nonce-USZYeP3OKlaEbrBRQedQJA=='; media-src 'self' https: data: https://mastodon.saveker.org; frame-src 'self' https:; manifest-src 'self' https://mastodon.saveker.org; connect-src 'self' data: blob: https://mastodon.saveker.org https://mastodon.saveker.org wss://mastodon.saveker.org; script-src 'self' https://mastodon.saveker.org 'unsafe-eval'; child-src 'self' blob: https://mastodon.saveker.org; worker-src 'self' blob: https://mastodon.saveker.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:02 GMT
+Etag: W/"42a95af86363294f2a8279328b64f05e"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=15768000; includeSubdomains; preload
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T01:25:00.168185Z
+X-Request-Id: 87d80da8-9869-4943-a388-964be1138d3e
+X-Runtime: 0.012869
+X-Xss-Protection: 0
+
+168
+["ioc.exchange","noagendasocial.nl","librem.one","toot.cafe","neat.computer","social.anoxinon.de","toot.mattedwards.org","fosstodon.org","chaos.social","det.social","sully.site","mastodon.social","podcastindex.social","helladoge.com","spinster.xyz","hackers.town","mstdn.social","pdx.social","social.coop","robot.rodeo","noagendasocial.com","infosec.exchange"]
+0
+

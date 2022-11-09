@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.rosaceae.net; img-src 'self' https: data: blob: https://mstdn.rosaceae.net; style-src 'self' https://mstdn.rosaceae.net 'nonce-ltB0k+nISEYwzgIU4s/rbA=='; media-src 'self' https: data: https://mstdn.rosaceae.net; frame-src 'self' https:; manifest-src 'self' https://mstdn.rosaceae.net; connect-src 'self' data: blob: https://mstdn.rosaceae.net https://mstdn.rosaceae.net wss://mstdn.rosaceae.net; script-src 'self' https://mstdn.rosaceae.net; child-src 'self' blob: https://mstdn.rosaceae.net; worker-src 'self' blob: https://mstdn.rosaceae.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:48 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.828418Z
+X-Request-Id: 0547de2f-8f32-4c4f-89dc-ca26937e36fe
+X-Runtime: 0.011665
+X-Xss-Protection: 0
+
+0
+

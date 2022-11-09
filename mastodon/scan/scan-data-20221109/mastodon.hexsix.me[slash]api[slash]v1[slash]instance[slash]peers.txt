@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b184e1f2dd2-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.hexsix.me; img-src 'self' https: data: blob: https://mastodon.hexsix.me; style-src 'self' https://mastodon.hexsix.me 'nonce-rTHyPPX4msCgFD49XWGKMw=='; media-src 'self' https: data: https://mastodon.hexsix.me; frame-src 'self' https:; manifest-src 'self' https://mastodon.hexsix.me; connect-src 'self' data: blob: https://mastodon.hexsix.me https://mstd-media.hexsix.me wss://mastodon.hexsix.me; script-src 'self' https://mastodon.hexsix.me; child-src 'self' blob: https://mastodon.hexsix.me; worker-src 'self' blob: https://mastodon.hexsix.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:25 GMT
+Etag: W/"dc5fe2903f02ebf5930c5f2fa6b210d8"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=c%2FKQP3Vuze8J%2Bhl%2FOJguF6GlB%2BIt924A1FoH%2Fb%2B9i3aLIyMT7H4hrx3JeRjixQ4dx5rkUSwm%2F2%2FaR0M87pKVZRYFZ8Ua0HnXaDRsLrQhKXtaVf0Nq%2FojsiC%2B80%2FFGolByyLlEM0%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T11:30:00.068592Z
+X-Request-Id: 037fe621-6757-4399-a2fb-2b8bbe27ee3a
+X-Runtime: 0.098612
+X-Xss-Protection: 0
+
+38f
+["twtr.vrij.social","china.al","mastodon.social","photog.social","allships.run","mastodon.ml","friendica.jb-net.us","friendica.ellih.eu","seaofog.com","eihei.net","donotban.com","slashine.onl","malu.today","mastodon.scot","moresci.sale","a.gup.pe","digforfire.org","rhabarberbarbara.bar","mastodon.art","mstdn.social","ieji.de","metaxx.social","botsin.space","go5.dev","nofan.xyz","bikeshed.party","trpg.cloud","spinster.xyz","zone.liolok.com","acg.mn","douchi.space","squeet.me","pullopen.xyz","taruntarun.net","ap.gjcloak.top","friendica.utzer.de","fairy.id","hello.2heng.xin","g0v.social","qoto.org","nerdculture.de","poa.st","ioc.exchange","rinne.masto.host","pawoo.net","mastodon.online","me.ns.ci","mastodon.li","bgme.me","together.chaoyu.us","wxw.moe","mstdn.jp","ramen-fsm.eu.org","ovo.st","social.caa-ins.org","alive.bar","tea.codes","o3o.ca","mastodon.top","dragon-fly.club","mastodon.lol","m.cmx.im"]
+0
+

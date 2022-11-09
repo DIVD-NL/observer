@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778724ac2a83c7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.stallman.au; img-src 'self' https: data: blob: https://social.stallman.au; style-src 'self' https://social.stallman.au 'nonce-tRGQbPKWIb0y+e+AItk2Zw=='; media-src 'self' https: data: https://social.stallman.au; frame-src 'self' https:; manifest-src 'self' https://social.stallman.au; connect-src 'self' data: blob: https://social.stallman.au https://social.stallman.au wss://social.stallman.au; script-src 'self' https://social.stallman.au; child-src 'self' blob: https://social.stallman.au; worker-src 'self' blob: https://social.stallman.au
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:40 GMT
+Etag: W/"e286d252868ba281c7762a1a178512b8"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=w5kDCBaxYol45XY5%2BhY7VBMtuksLD0QKXRms5e%2FLxRF1SaswhsO0VnXu5QEATTIeLVpqunymmiu8m4NteAg4PiL8qz8gybOT08PN6uxYGcMXtMlEdy%2BnmfIUBZicKRFt%2BiBpKsU%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.915520Z
+X-Request-Id: 390b263a-9ded-41e2-8d03-d31b9e2e726a
+X-Runtime: 0.039612
+X-Xss-Protection: 0
+
+["mastodon-relay.moew.science","federation.stream","en.relay.friendi.ca","biscuit.town","mastodon.opportunis.me","seaofog.com","fairy.id","mas.to","eveningzoo.club","shortstackran.ch","iddqd.social","kiwifarms.cc","social.platypush.tech","libretooth.gr","poa.st","social.node001.net","nicecrew.digital","fet.bar","m.gtk.pw","post.wznmickey.com","toot.mantyke.icu","o3o.ca","mastodon.scot","cx.cx","bgme.me","todon.eu","retirenow.top","alive.bar","linuxrocks.online","kafeneio.social","pawoo.net","okadon.masto.host","m.cmx.im","thefire.work","misskey.ranranhome.info","mastodon.ktachibana.party","mastodon.nz","submarin.online","misskey.levome-dol.com","fedi.nullob.si","lesbian.energy","me.ns.ci","ramen-fsm.eu.org","mstdn.social","1234.as","pokemon.men","mona.do","wxw.moe","misskey.cf","friendica.ambag.es","friendica.hellquist.eu","mastodon.xyz","fri.aethercom.de","frnd.nanoscopic.de","quitter.pl","herzbu.de","social.jmueller.eu","friendl.y-y.li","friendica.mifritscher.de","social.dorf-post.de","friendica.ucy.de","friendica.ru","vicedomini.cloud","friendica.oldkid.digital","friendica.me","friendica.philipp.info","friendica.hashy-net.de","fr.readthefinemanual.net","soc.citizen4.eu","friendica.mschmidt-et.de","keybored.me","social.digitalcastle.me","librenet.co.za","friendica.nz","social.outsourcedmath.com","kudabiverse.com","scl.clttr.info","friend.geoffray-levasseur.org","social.softmetz.de","friendica.togart.de","f.kretschmann.social","anarchydica.net","friendica.offsite.guru","friendica.bachgau.social","social.johnassel.de","f.freinetz.ch","fed.sonnenmulde.at","f.iroiro.party","friendica.opensocial.space","philos.fkn-systems.de","schmaker.eu","letus.inspiredlife.fun","social.fedinet.de","www.urbanmind.net","friendica.a-zwenkau.de","g1zm0.social","follow.schmaller.de","friendica.myportal.social","social.badabam.net","horizin.de","friendica.opencloud.lu","f.praschnig.com","friendica.ingram-braun.net","social.yl.ms","nerdica.net","talkabout.cf","friendicarg.nsupdate.info","opensocial.at","hullblasters.club","friendica.eskimo.com","social.tromdienste.de","friendica.ironbug.org","walls.social","pztrn.online","social.lucentinian.com","redeyes.club","social.cyano.at","convenient.email","space.rick.gr","friendica.vrije-mens.org","friendica.utzer.de","poliverso.org","social.anacreonte.eu","friendica.kommune4.de","social.cool110.xyz","rud.life","venera.social","social.thierrytalbert.fr","nsfw.wnymathguy.com","social.chadwaltercummings.me","mastodon.online","friends.wimmer-edv.de","fabler.su","t2.thotsofa304.club","social.tyngsboroughma.net","la-verite-vaincra.com","lastfree.space","v2.ebano.social","friend.snet.blog","mamot.fr","friendica.dezucked.com","fosstodon.org","social.gl-como.it","chaos.social","nrw.social","friendica.daniel-siepmann.de","bne.social","mstdn.fr","fedi.lynnesbian.space","social.msitc.de","meow.social","social.tulsa.ok.us","mastodon.social","mstdn.starnix.network","freeradical.zone","mb.neurario.com","social.dropbear.xyz","social.trom.tf","social.agb-web.de","ruhr.social","norden.social","friendica.heikosblog.eu","petroskowo.pl","fediscience.org","qoto.org","social.tchncs.de","mastodon.acc.umu.se","mastodon.chasalin.nl","tooting.ch","norrebro.space","piratenpartei.social","openbiblio.social","social.anoxinon.de"]

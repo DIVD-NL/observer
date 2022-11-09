@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 219
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:18:50 GMT
+Location: https://susurrando.com/error503.php
+Server: Apache/2.4.41 (Ubuntu)
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://susurrando.com/error503.php">here</a>.</p>
+</body></html>

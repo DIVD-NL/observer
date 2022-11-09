@@ -1,0 +1,15 @@
+HTTP/1.1 302 Moved Temporarily
+Connection: close
+Content-Length: 142
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:00 GMT
+Location: https://social.arazil.net/api/v1/instance/peers
+Server: openresty
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>

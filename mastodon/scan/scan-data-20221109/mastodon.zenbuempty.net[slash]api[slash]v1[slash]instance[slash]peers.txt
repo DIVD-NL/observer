@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:28 GMT
+Etag: W/"144fed570adaf379ed013884a91c7a42"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.064510Z
+X-Request-Id: 2ef3b573-31bd-46ed-b48b-82125b0fd301
+X-Runtime: 0.338641
+X-Xss-Protection: 1; mode=block
+
+d0
+["social.yl.ms","mstdn.itmedia.co.jp","toot.blue","mstdn.jp","kancolle.social","pawoo.net","social.tchncs.de","si.pmpm.pw","takibi.work","mastodon.social","plus.haruk.in","mastodon.cloud","mstdn.b-shock.org"]
+0
+

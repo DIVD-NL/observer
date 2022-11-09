@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://sekhen.ddns.net; img-src 'self' https: data: blob: https://sekhen.ddns.net; style-src 'self' https://sekhen.ddns.net 'nonce-QGwJ2cS1UdospbMuXhCzgg=='; media-src 'self' https: data: https://sekhen.ddns.net; frame-src 'self' https:; manifest-src 'self' https://sekhen.ddns.net; connect-src 'self' data: blob: https://sekhen.ddns.net https://sekhen.ddns.net wss://sekhen.ddns.net; script-src 'self' https://sekhen.ddns.net; child-src 'self' blob: https://sekhen.ddns.net; worker-src 'self' blob: https://sekhen.ddns.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:26 GMT
+Etag: W/"3509a1c8f2b35cab7c6bf142fb450cac"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:05:00.450825Z
+X-Request-Id: a344c4b7-96be-4348-9eb3-5e6c409ce762
+X-Runtime: 0.008712
+X-Xss-Protection: 0
+
+3a5
+["mastodon.social","mastodon.online","mastodon.lol","mstdn.seerr.dev","chaos.social","hcommons.social","econtwitter.net","lor.sh","eldritch.cafe","mastodontti.fi","mastodon.cloud","mastodon.scot","jaesharp.social","mastodon.world","octodon.social","ieji.de","eupolicy.social","toot.community","infosec.exchange","mastodon.com.tr","pleroma.jamesp.org","mk.starnix.network","mastodon.sdf.org","mk.chocoflan.net","leafposter.club","linuxrocks.online","cybercrusade.xyz","mk.gabe.rocks","chudbuds.lol","beefyboys.win","poa.st","gleasonator.com","fediverse.pl","sleepy.cafe","gly.one","mstdn.social","djsumdog.com","freespeechextremist.com","rojogato.com","social.mrhands.horse","noc.social","nicecrew.digital","seal.cafe","eveningzoo.club","pl.seahorse.sh","hub.natehiggers.online","social.anoxinon.de","nightshift.social","mstdn.starnix.network","mas.to","mastodon.technology","mastodonapp.uk","a.gup.pe","floss.social","fosstodon.org"]
+0
+

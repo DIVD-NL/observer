@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766f7591b83cf-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://don.fetus.jp; img-src 'self' https: data: blob: https://don.fetus.jp; style-src 'self' https://don.fetus.jp 'nonce-c/t3O6o6KqWiwGZoYmJCgw=='; media-src 'self' https: data: https://don.fetus.jp; frame-src 'self' https:; manifest-src 'self' https://don.fetus.jp; connect-src 'self' data: blob: https://don.fetus.jp https://don.fetus.jp wss://don.fetus.jp; script-src 'self' https://don.fetus.jp; child-src 'self' blob: https://don.fetus.jp; worker-src 'self' blob: https://don.fetus.jp
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:42 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2QdjLMPD7owSoP4XC3NQteKV4jkuj%2FbqhmxnOt8yO0dkPMfVyJRkBsaM4rhZBlkhVWJdAZk7XRsrUsJVbzrXFii7rqS12rPcvxaTPe%2BdDPfOOR3vmBh6TqaKR4aZUbk%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.331717Z
+X-Request-Id: aa3b1b6b-b8db-4603-80a2-d4800e0119f1
+X-Runtime: 0.327788
+X-Xss-Protection: 0
+
+0
+

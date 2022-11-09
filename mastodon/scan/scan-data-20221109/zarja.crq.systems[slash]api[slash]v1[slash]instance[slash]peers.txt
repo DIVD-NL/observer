@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://zarja.crq.systems; img-src 'self' https: data: blob: https://zarja.crq.systems; style-src 'self' https://zarja.crq.systems 'nonce-hyiNLazIhpreXO/sV6jN8g=='; media-src 'self' https: data: https://zarja.crq.systems; frame-src 'self' https:; manifest-src 'self' https://zarja.crq.systems; connect-src 'self' data: blob: https://zarja.crq.systems https://zarja.crq.systems wss://zarja.crq.systems; script-src 'self' https://zarja.crq.systems; child-src 'self' blob: https://zarja.crq.systems; worker-src 'self' blob: https://zarja.crq.systems
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:23:03 GMT
+Etag: W/"2bf9cd85fd73467d2595d63648641584"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.409024Z
+X-Request-Id: 00ad3837-f9c3-4154-afb1-0309d8663591
+X-Runtime: 0.130824
+X-Xss-Protection: 0
+
+53a
+["social.network.europa.eu","mindly.social","mastodon.com.tr","pleroma.jamesp.org","mstdn.media","theres.life","1210.nl","hachyderm.io","mk.starnix.network","mastodon.sdf.org","mastodon.radio","ravenation.club","mk.chocoflan.net","mastodon.gamedev.place","c.im","linuxrocks.online","cybercrusade.xyz","mastodontech.de","leafposter.club","stuifbergen.com","chudbuds.lol","mk.gabe.rocks","nobigtech.es","chaos.social","beefyboys.win","gly.one","hcommons.social","poa.st","freespeechextremist.com","gleasonator.com","eldritch.cafe","mastodontti.fi","econtwitter.net","sleepy.cafe","fediverse.pl","social.linux.pizza","mastodont.cat","blog.rodbina.org","mastodon.cloud","tinker.crq.systems","jaesharp.social","rojogato.com","djsumdog.com","social.mrhands.horse","noc.social","nerdculture.de","tech.lgbt","nicecrew.digital","seal.cafe","mastodon.world","ulman.social","pl.seahorse.sh","sfba.social","eveningzoo.club","wandering.shop","octodon.social","hub.natehiggers.online","ieji.de","mastodon.scot","social.anoxinon.de","eupolicy.social","lor.sh","toot.community","framapiaf.org","mas.to","nightshift.social","mstdn.starnix.network","mastodonapp.uk","socel.net","a.gup.pe","mstdn.social","mastodon.technology","mastodon.online","mastodon.lol","xarxa.cloud","mastodon.social","mastodon.art","infosec.exchange","fosstodon.org","floss.social"]
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.giratina.net; img-src 'self' https: data: blob: https://mstdn.giratina.net; style-src 'self' https://mstdn.giratina.net 'nonce-oboK5uX3+3s1p6FAULkYhQ=='; media-src 'self' https: data: https://mstdn.giratina.net; frame-src 'self' https:; manifest-src 'self' https://mstdn.giratina.net; connect-src 'self' data: blob: https://mstdn.giratina.net https://mstdn.giratina.net wss://mstdn.giratina.net; script-src 'self' https://mstdn.giratina.net; child-src 'self' blob: https://mstdn.giratina.net; worker-src 'self' blob: https://mstdn.giratina.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:30 GMT
+Etag: W/"39a15fa99b55ea308a7b32121669d4e2"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 297
+X-Ratelimit-Reset: 2022-11-09T14:25:00.933502Z
+X-Request-Id: 98f257ca-7bde-4803-8755-81353a6317fa
+X-Runtime: 0.011311
+X-Xss-Protection: 0
+
+36b
+["mastodon.motcha.tech","relay.toot.yukimochi.jp","mstdn.kemono-friends.info","labo.wovs.tk","fedibird.com","yakumo.foundation","mstdn.jp","gaku-tab-love.com","mk.yopo.work","submarin.online","p1.a9z.dev","misskey.nokotaro.com","mastodon.social","pulpunte-chinpun.xyz","msk.porubu.com","fosstodon.org","mstdn.asterism.xyz","misskey.io","umaskey.net","aachen.social","hax.technology","misskey.zerozaski.tech","mstdn.plusminus.io","relay.mstdn-jp.site","misskey.ranranhome.info","sushi.ski","msk.ilnk.info","mewl.me","snowdin.town","mstdn.y-zu.org","toot.blue","mstdn.beer","misskey.sda1.net","mi.growthers.dev","tablegame.mstdn.cloud","pawoo.net","msk.hoshisaki-h.com","honi.club","miwkey.miwpayou0808.info","simkey.net","mk.f72u.net","mstdn.home.neso.tech","abyss.fun","layer8.space","a.gup.pe","mastodon.me.uk","drizzle-damp.net","toot.yukimochi.jp","mstdn.starnix.network"]
+0
+

@@ -1,0 +1,58 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Accept-Ranges: bytes
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:03 GMT
+Server: Apache
+Strict-Transport-Security: max-age=15768000
+Upgrade: h2
+Vary: accept-language,accept-charset
+
+3c0
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Access forbidden!</title>
+<link rev="made" href="mailto:you@example.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Access forbidden!</h1>
+<p>
+
+
+  
+
+    You don't have permission to access the requested object.
+    It is either read-protected or not readable by the server.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:you@example.com">webmaster</a>.
+
+</p>
+
+<h2>Error 403</h2>
+<address>
+  <a href="/">mastodon.peshane.net</a><br />
+  <span>Apache</span>
+</address>
+</body>
+</html>
+
+
+0
+

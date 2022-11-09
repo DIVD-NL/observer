@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:16:18 GMT
+Location: http://ww1.thecriminaliraq.com
+Server: Cowboy
+Set-Cookie: sid=75bcb4ba-6041-11ed-af05-006b13354086; path=/; domain=.thecriminaliraq.com; expires=Mon, 27 Nov 2090 18:30:25 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

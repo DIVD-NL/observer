@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self'; style-src 'self' 'sha256-xnifK0WnajdVtYMQwSZBOG+Fgh+666u3gKAy2L2Jaew='; frame-ancestors 'none'; base-uri 'self'; form-action 'self';
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:20:44 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000;
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Powered-By: microblogpub
+X-Request-Id: fa62e54198d5f6c3
+X-Xss-Protection: 1; mode=block
+
+16
+{"detail":"Not Found"}
+0
+

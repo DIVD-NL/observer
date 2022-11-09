@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Server: LiteSpeed
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.33
+
+<html>
+<head><title>System Unavailable</title></head>
+<body>
+Apologies but this site is unavailable at the moment. Please try again later.
+</body>
+</html>

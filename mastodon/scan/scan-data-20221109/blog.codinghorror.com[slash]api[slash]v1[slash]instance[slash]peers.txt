@@ -1,0 +1,63 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Accept-Ranges: bytes
+Age: 284538
+Alt-Svc: clear
+Cache-Control: no-cache, max-age=0, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:10 GMT
+Etag: W/"5fe-pYVSY66522i3BphEIOAVnjqyiwQ"
+Ghost-Age: 0
+Ghost-Cache: MISS
+Ghost-Fastly: true
+Server: openresty
+Status: 404 Not Found
+Vary: Accept-Encoding, Cookie
+Via: 1.1 varnish, 1.1 varnish
+X-Cache: HIT, HIT
+X-Cache-Hits: 9, 1
+X-Request-Id: e64ca9e059a62fe55aef5826f43857b9
+X-Request-Id: e64ca9e059a62fe55aef5826f43857b9
+X-Served-By: cache-ams21064-AMS, cache-bru1480066-BRU
+X-Timer: S1668005831.662059,VS0,VE1
+
+<!doctype html>
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)| IEMobile |!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>404 — Page not found</title>
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="https://blog.codinghorror.com/public/ghost.min.css?v=59807e6cec"/>
+
+  </head>
+  <body>
+    <main role="main" id="main">
+      <div class="gh-app">
+          <div class="gh-viewport">
+              <div class="gh-view">
+                <section class="error-content error-404 js-error-container">
+                  <section class="error-details">
+                    <section class="error-message">
+                      <h1 class="error-code">404</h1>
+                      <h2 class="error-description">Page not found</h2>
+                      <a class="error-link" href="https://blog.codinghorror.com">Go to the front page →</a>
+                    </section>
+                  </section>
+                </section>
+
+              </div>
+          </div>
+      </div>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:30 GMT
+Server: nginx
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+X-Response-Type: json
+
+132
+[
+    "friends.dialogundsinn.com",
+    "gfk.social",
+    "podcast.gfk.social",
+    "hub.hubzilla.de",
+    "libranet.de",
+    "pirati.ca",
+    "piratenpartei.social",
+    "dialogundsinn.de",
+    "writing.exchange",
+    "friendica.hashy-net.de",
+    "queer.garden",
+    "empathiebullshit.de",
+    "loma.ml"
+]
+0
+

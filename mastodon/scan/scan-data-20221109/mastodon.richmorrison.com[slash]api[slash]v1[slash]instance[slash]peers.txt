@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.richmorrison.com; img-src 'self' https: data: blob: https://mastodon.richmorrison.com; style-src 'self' https://mastodon.richmorrison.com 'nonce-208JbqMbp2px1wKEHEHGWw=='; media-src 'self' https: data: https://mastodon.richmorrison.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.richmorrison.com; connect-src 'self' data: blob: https://mastodon.richmorrison.com https://mastodon.richmorrison.com wss://mastodon.richmorrison.com; script-src 'self' https://mastodon.richmorrison.com; child-src 'self' blob: https://mastodon.richmorrison.com; worker-src 'self' blob: https://mastodon.richmorrison.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:07 GMT
+Etag: W/"738505aa58f8716a1dfc6dbbb73d1b5c"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.593803Z
+X-Request-Id: df4744b6-235e-464b-903a-c9c18b32c02c
+X-Runtime: 0.078662
+X-Xss-Protection: 0
+
+679
+["toot.community","mastodon.ie","toot.thoughtworks.com","relay.chocoflan.net","freespeechextremist.com","mastodon-relay.thedoodleproject.net","mastodon.iriseden.eu","mas.to","relay.intahnet.co.uk","selfy.army","miss.mouse.services","mamot.fr","psyopvict.im","relay.toot.yukimochi.jp","mastodon.lol","mastodon.bloonface.com","misskey.io","mastodon.liferuler2001.co.uk","relay.social.tigwali.fr","gameliberty.club","phpc.social","relay.minecloud.ro","mastodon.world","eientei.org","toot.cafe","robot.rodeo","fedibird.com","mstdn.co.uk","poa.st","spacey.space","a.gup.pe","layer8.space","social.futurnumerique.com","democracy.town","tech.lgbt","federated.press","qoto.org","relay.101010.pl","blop.social","poly.cybre.city","pleroma.nylarea.com","toot.teaandkittens.com","varishangout.net","mstdn.social","bolha.us","haha.rocks","troet.cafe","mastodon.social","social.horrorhub.club","frennet.xyz","fosstodon.org","mastodon.green","wuff.space","social.johnassel.de","101010.pl","dice.camp","mastodon.nz","social.undrground.org","noc.social","infosec.exchange","outpoa.st","universeodon.com","respublicae.eu","writing.exchange","mastodon.top","shitpost.cloud","fedi.pawlicker.com","mementomori.social","mstdn.kemono-friends.info","mastodonapp.uk","mastodon.holeyfox.co","pony.social","mstdn.jp","todon.eu","novo-atlantis.null.media","mastodo.fi","mastodon.online","pleroma.maciej.website","mk.szkod.ovh","dobbs.town","refusal.biz","mastodon.com.br","shitposter.club","mstdn.ca","scicomm.xyz","social.handholding.io","neko.ci","bae.st","mastodon.uy","seal.cafe","fedi.safewebbox.com","mastodon.la","mastodon.uno","mastodon.art","fediscience.org","sigmoid.social"]
+0
+

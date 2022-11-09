@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Connection: close
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:18 GMT
+Server: Apache
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+X-Account-Management-Status: none
+X-Response-Type: json
+
+[
+    "friendica.cracrayol.org",
+    "shelter.moe",
+    "ludosphere.fr",
+    "mastodon.tetaneutral.net",
+    "piaille.fr",
+    "raru.re",
+    "mstdn.jp",
+    "icosahedron.website",
+    "mastodon.art",
+    "mastodon.social",
+    "oldbytes.space",
+    "mastodon.kleph.eu",
+    "rivals.space",
+    "social.imirhil.fr",
+    "framapiaf.org",
+    "toot.portes-imaginaire.org",
+    "pirati.ca",
+    "social.zoski.fr",
+    "mastodon.gamedev.place",
+    "social.nah.re",
+    "octodon.social",
+    "eldritch.cafe",
+    "mamot.fr",
+    "mastodon.neilzone.co.uk",
+    "mastodon.stefofficiel.me",
+    "loma.ml",
+    "journa.host"
+]

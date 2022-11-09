@@ -1,0 +1,62 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 1700
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:50:56 GMT
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="viewport-fit=cover, initial-scale=1" />
+		<title>You shouldn't surf here</title>
+		<link href="http://198.19.254.10:8001/block/style.css?bb2fe23430d6b7db224d21e2d8f55f66f3aa61fe" type="text/css" rel="stylesheet">
+		<script type="text/javascript">
+		
+		function goBackOrCloseTab(e)
+		{
+			window.history.back();
+			//we used ontouchstart to go back. So as soon as user touches 'Go back', previous page is loaded
+			//and the touch may activate a link of the previous page.
+			e.stopPropagation();
+			e.preventDefault();
+			
+			//if the user can't go back close the window
+			window.close();
+		}
+		
+		var reason_code = 'harmful';
+		
+		function callback_strings(sh)
+		{
+			var strs = sh[reason_code];
+			if (strs && strs["reason"])
+				document.title=strs["reason"];
+			for (var k in strs) {
+				var el = document.getElementById(k);
+				if (el)
+					el.innerHTML = strs[k];
+			}
+		}
+		
+		</script>
+	</head>
+
+	<body>
+		<h1>F-Secure Freedome</h1>
+		<section>
+			<h1 id="reason">You shouldn't surf here</h1>
+			<p><em>befree.nohost.me</em></p>
+			<p id="details">This website was marked as harmful. We recommend you do not enter this website.</p>
+     		<div class="buttonContainer">
+                <a id="goBackOrCloseTabButton" href="#" class="button" ontouchstart="goBackOrCloseTab(event)" onclick="goBackOrCloseTab(event)">Close</a>
+            </div>
+		</section>
+	</body>
+	<div class="footer">
+        </div>
+
+    <!-- Load localization strings -->
+    <script type="text/javascript" src="http://198.19.254.10:8001/block/lang/strings.js?bb2fe23430d6b7db224d21e2d8f55f66f3aa61fe"></script>
+
+</html>

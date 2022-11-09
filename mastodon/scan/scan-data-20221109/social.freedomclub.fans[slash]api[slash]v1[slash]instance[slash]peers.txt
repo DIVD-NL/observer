@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767785669983d494-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.freedomclub.fans; img-src 'self' https: data: blob: https://social.freedomclub.fans; style-src 'self' https://social.freedomclub.fans 'nonce-HXuA/0rElpJ0kc6mVpVkJw=='; media-src 'self' https: data: https://social.freedomclub.fans; frame-src 'self' https:; manifest-src 'self' https://social.freedomclub.fans; connect-src 'self' data: blob: https://social.freedomclub.fans https://social.freedomclub.fans wss://social.freedomclub.fans; script-src 'self' https://social.freedomclub.fans; child-src 'self' blob: https://social.freedomclub.fans; worker-src 'self' blob: https://social.freedomclub.fans
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:27 GMT
+Etag: W/"38160e905ec000972a7ed7ef89ecf360"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bZPbql7gHSgwp5mk2BlDAbIr9%2BFCz9PW1MdkEwRge%2FTZ1Dr3rVPYUtqky%2BZGr0y3%2B%2FuNpWOrV5AH9Hywf5DCpkzdlZ%2FaWjwwFT8Ue3S7VZzWV72QH%2F2J%2FRB4QCaSKTrtqOtxCZ%2FUYd3%2FMQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.856009Z
+X-Request-Id: 13529921-ed49-45a6-95f8-a6e6bcc738ae
+X-Runtime: 0.006805
+X-Xss-Protection: 0
+
+792
+["www.librepunk.club","xirion.net","vulpine.club","icosahedron.website","bsd.network","sleeping.town","rage.love","mystic.lgbt","majak.de","ptwg.xyz","social.mecanis.me","teh.entar.net","mastodon.world","toot.site","im-in.space","a.gup.pe","misc.name","hellsite.site","restless.systems","queer.garden","nitecrew.rip","sometimes.social","estrogen.network","sigmoid.social","chaos.social","oldbytes.space","trollian.space","mastodon.gamedev.place","shrike.club","myasstodon.xyz","monads.online","xn--xxa.computer","social.lol","masto.ai","wetdry.world","glauca.space","mythago.space","octodon.social","ruby.social","tane.codes","someone.elses.computer","mastodon.neilzone.co.uk","social.cryptography.dog","emily.news","scholar.social","social.coop","freeradical.zone","jaesharp.social","k.iim.gay","aus.social","mastodon.lol","mond-basis.eu","mastodon.green","cathode.church","m.rakyll.org","eigenmagic.net","campaign.openworlds.info","simonwillison.net","know.me.uk","mastodon.notasquirrel.dev","kafeneio.social","libretooth.gr","layer8.space","ap.maladaptive.art","halifaxsocial.ca","toot.thoughtworks.com","kolektiva.social","glitterkitten.co.uk","queer.party","merveilles.town","iscute.moe","jade.moe","mastodon.online","lonely.town","queer.af","toot.cat","dog.lgbt","mashed.cloud","flimpie.net","laserdisc.party","toot.theresnotime.io","wikis.world","vocalounge.cafe","movsw.0x0.st","plush.city","crimew.gay","types.pl","akko.chir.rs","chitter.xyz","trans.enby.town","botsin.space","sauropods.win","akko.disqordia.space","mas.to","mastodon.art","skeletons.gay","social.tar.black","snowdin.town","tech.lgbt","chickenfan.club","dan.mastohon.com","tacobelllabs.net","foo.sx","mastodon.social","catcatnya.com","fedi.underscore.world","fosstodon.org","dragon.style","weirder.earth","benzo.fans","mstdn.social","cztwitter.cz","is.nota.live","amastodon.uk","hackers.town","monsterfuckers.online","hachyderm.io","60228.dev","infosec.exchange"]
+0
+

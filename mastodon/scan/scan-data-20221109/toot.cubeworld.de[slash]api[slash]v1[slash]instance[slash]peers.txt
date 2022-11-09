@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.cubeworld.de; img-src 'self' https: data: blob: https://toot.cubeworld.de; style-src 'self' https://toot.cubeworld.de 'nonce-aAma6ISc4t3uZf6k1pmfEQ=='; media-src 'self' https: data: https://toot.cubeworld.de; frame-src 'self' https:; manifest-src 'self' https://toot.cubeworld.de; connect-src 'self' data: blob: https://toot.cubeworld.de https://files.example.com wss://toot.cubeworld.de; script-src 'self' https://toot.cubeworld.de; child-src 'self' blob: https://toot.cubeworld.de; worker-src 'self' blob: https://toot.cubeworld.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:53 GMT
+Etag: W/"e739d1928fc11e7a1cbb4c9bf1a61d59"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.233548Z
+X-Request-Id: 35135fb7-fe90-4061-8a01-897e34edc54d
+X-Runtime: 0.064566
+X-Xss-Protection: 0
+
+5fc
+["mastodon.scot","det.social","social.anoxinon.de","social.thierrytalbert.fr","social.linux.pizza","nicfab.it","mastodon.technology","pirati.ca","friendica.mnementh.co.uk","social.weho.st","mastodon.ar.al","mstdn.io","livellosegreto.it","video.lemediatv.fr","gs.leftic.club","mstdn.fr","a.gup.pe","slashine.onl","allships.run","ovo.st","twtr.vrij.social","twtr.plus","botsin.space","troet.cafe","social.anon-groups.de","norden.social","todon.nl","mastodon.zaclys.com","social.tchncs.de","tooter.social","peertube.stream","pouet.chapril.org","mastodon.radio","boitam.eu","climatejustice.social","forum.friendi.ca","social.tromdienste.de","framapiaf.org","social.trom.tf","soc.schuerz.at","anonsys.net","f.freinetz.ch","podlibre.social","mstdn.social","friendica.opensocial.space","chat.noelle.codes","elekk.xyz","libranet.de","venera.social","abid.cc","bonn.social","social.bund.de","mastodon.xsoftware.it","mastodon.uno","sociale.network","mastodon.tetaneutral.net","aus.social","comm.network","nobigtech.es","plume.nogafam.es","gleasonator.com","misskey.io","p1.a9z.dev","social.network.europa.eu","mamot.fr","minidisc.tokyo","mastodontech.de","tooting.ch","nerdica.net","quitter.pl","mastodon.pirateparty.be","floss.social","mastodon.cloud","beta.birdsite.live","activism.openworlds.info","mastodon.online","masto.pt","mastodon.xyz","digitalcourage.social","chaos.social","snabelen.no","mastodon.social","toot.community","masto.1146.nohost.me","fosstodon.org","sfba.social","mastodon.opencloud.lu","eupolicy.social","mastodon.ie"]
+0
+

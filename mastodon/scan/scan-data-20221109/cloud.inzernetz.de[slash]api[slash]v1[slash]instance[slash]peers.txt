@@ -1,0 +1,98 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=XLgC8gd6Ng6RNNDA4vn%2F6C%2BjuCvRrnWqg5R%2FhdSO%2Bj%2FbKsqMrFwOJkjWmsgyzL%2F87n7xItShzN2tRaiGlaqY6TZF0%2FSJdNwj0140ZbhshAVw0skKxY66Eu8iRN2yvVIo; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc8pg8e4omsc=348a4085bdf0afce2d7354889ed6abf9; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=31536000
+Upgrade: h2,h2c
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: Y2u-1tzB5T9BrdW-lyetMwAAAgw
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="Nk3x6jggTSETYyi+rdFRSJqxRNPzwO3Ah8FK4luRg3Q=:Wh61jHpKPVUjN3z82f5lKqvVK6a+64+FxJsz1jnZrEA=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=0">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=0">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=0">
+		<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-0">
+<link rel="stylesheet" href="/core/css/guest.css?v=a058f08d-0">
+		<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/index.php/core/js/oc.js?v=a058f08d"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/core-common.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/core-main.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/core-files_fileinfo.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/core-files_client.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/core/js/backgroundjobs.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/core-login.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/apps/encryption/js/encryption.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/files_sharing-main.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/dist/accessibility-accessibilityoca.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/apps/files_rightclick/js/script.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/apps/files_rightclick/js/files.js?v=a058f08d-0"></script>
+<script nonce="TmszeDZqZ2dUU0VUWXlpK3JkRlJTSnF4Uk5QendPM0FoOEZLNGx1UmczUT06V2g2MWpIcEtQVlVqTjN6ODJmNWxLcXZWSzZhKzY0K0Z4SnN6MWpuWnJFQT0=" defer src="/apps/theming/js/theming.js?v=a058f08d-0"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Nextcloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://cloud.inzernetz.de/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.inzernetz.de/index.php/apps/theming/icon?v=0"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=0"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC43LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC43IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5pbnplcm5ldHouZGVcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiJjNzQ4ZThmYzU4OGI1NGZjNWFmMzhjNDQ4MWExOWQyMCJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWUsInZlcnNpb25pbmciOnRydWV9LCJhY3Rpdml0eSI6eyJhcGl2MiI6WyJmaWx0ZXJzIiwiZmlsdGVycy1hcGkiLCJwcmV2aWV3cyIsInJpY2gtc3RyaW5ncyJdfSwiY2lyY2xlcyI6eyJ2ZXJzaW9uIjoiMjQuMC4xIiwic3RhdHVzIjp7Imdsb2JhbFNjYWxlIjpmYWxzZX0sInNldHRpbmdzIjp7ImZyb250ZW5kRW5hYmxlZCI6dHJ1ZSwiYWxsb3dlZENpcmNsZXMiOjI2MjE0MywiYWxsb3dlZFVzZXJUeXBlcyI6MzEsIm1lbWJlcnNMaW1pdCI6LTF9LCJjaXJjbGUiOnsiY29uc3RhbnRzIjp7ImZsYWdzIjp7IjEiOiJTaW5nbGUiLCIyIjoiUGVyc29uYWwiLCI0IjoiU3lzdGVtIiwiOCI6IlZpc2libGUiLCIxNiI6Ik9wZW4iLCIzMiI6Ikludml0ZSIsIjY0IjoiSm9pbiBSZXF1ZXN0IiwiMTI4IjoiRnJpZW5kcyIsIjI1NiI6IlBhc3N3b3JkIFByb3RlY3RlZCIsIjUxMiI6Ik5vIE93bmVyIiwiMTAyNCI6IkhpZGRlbiIsIjIwNDgiOiJCYWNrZW5kIiwiNDA5NiI6IkxvY2FsIiwiODE5MiI6IlJvb3QiLCIxNjM4NCI6IkNpcmNsZSBJbnZpdGUiLCIzMjc2OCI6IkZlZGVyYXRlZCIsIjY1NTM2IjoiTW91bnQgcG9pbnQifSwic291cmNlIjp7ImNvcmUiOnsiMSI6Ik5leHRjbG91ZCBVc2VyIiwiMiI6Ik5leHRjbG91ZCBHcm91cCIsIjQiOiJFbWFpbCBBZGRyZXNzIiwiOCI6IkNvbnRhY3QiLCIxNiI6IkNpcmNsZSIsIjEwMDAwIjoiTmV4dGNsb3VkIEFwcCJ9LCJleHRyYSI6eyIxMDAwMSI6IkNpcmNsZXMgQXBwIiwiMTAwMDIiOiJBZG1pbiBDb21tYW5kIExpbmUifX19LCJjb25maWciOnsiY29yZUZsYWdzIjpbMSwyLDRdLCJzeXN0ZW1GbGFncyI6WzUxMiwxMDI0LDIwNDhdfX0sIm1lbWJlciI6eyJjb25zdGFudHMiOnsibGV2ZWwiOnsiMSI6Ik1lbWJlciIsIjQiOiJNb2RlcmF0b3IiLCI4IjoiQWRtaW4iLCI5IjoiT3duZXIifX0sInR5cGUiOnsiMCI6InNpbmdsZSIsIjEiOiJ1c2VyIiwiMiI6Imdyb3VwIiwiNCI6Im1haWwiLCI4IjoiY29udGFjdCIsIjE2IjoiY2lyY2xlIiwiMTAwMDAiOiJhcHAifX19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9jbG91ZC5pbnplcm5ldHouZGVcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjMxLCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjp0cnVlLCJpbmNvbWluZyI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX19fSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjEwLCJlbmZvcmNlTm9uQ29tbW9uUGFzc3dvcmQiOnRydWUsImVuZm9yY2VOdW1lcmljQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VTcGVjaWFsQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6ZmFsc2UsImFwaSI6eyJnZW5lcmF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5pbnplcm5ldHouZGVcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvY2xvdWQuaW56ZXJuZXR6LmRlXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNC4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6dHJ1ZX0sInRoZW1pbmciOnsibmFtZSI6Ik5leHRjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuY29tIiwic2xvZ2FuIjoiYSBzYWZlIGhvbWUgZm9yIGFsbCB5b3VyIGRhdGEiLCJjb2xvciI6IiMwMDgyYzkiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzAwODJjOSIsImxvZ28iOiJodHRwczpcL1wvY2xvdWQuaW56ZXJuZXR6LmRlXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCIsImJhY2tncm91bmQiOiJodHRwczpcL1wvY2xvdWQuaW56ZXJuZXR6LmRlXC9jb3JlXC9pbWdcL2JhY2tncm91bmQucG5nP3Y9MCIsImJhY2tncm91bmQtcGxhaW4iOmZhbHNlLCJiYWNrZ3JvdW5kLWRlZmF1bHQiOnRydWUsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvY2xvdWQuaW56ZXJuZXR6LmRlXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCIsImZhdmljb24iOiJodHRwczpcL1wvY2xvdWQuaW56ZXJuZXR6LmRlXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmV4dGNsb3VkIiwidXJsIjoiaHR0cHM6XC9cL25leHRjbG91ZC5jb20iLCJzbG9nYW4iOiJhIHNhZmUgaG9tZSBmb3IgYWxsIHlvdXIgZGF0YSIsImNvbG9yIjoiIzAwODJjOSIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6IjAifQ==">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener" class="entity-name">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:46 GMT
+Etag: W/"970da48d9fa26dc4e6548c35ea046b0a"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T22:30:00.455475Z
+X-Request-Id: a8b21b88-23e3-4431-8442-3fa1fa4b261c
+X-Runtime: 0.028650
+X-Xss-Protection: 1; mode=block
+
+117
+["schwanksta.com","dan.mastohon.com","fosstodon.org","mastodon.world","simonwillison.net","mastodon.yupgup.com","li.mnino.us","journa.host","social.coop","mastodon.online","weirder.earth","mastodon.social","wandering.shop","qoto.org","mastodonapp.uk","a.gup.pe","mastodon.cloud"]
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://kitty.town; img-src 'self' https: data: blob: https://kitty.town; style-src 'self' https://kitty.town 'nonce-FocZKYawG88eiXWDMEu94g=='; media-src 'self' https: data: https://kitty.town; frame-src 'self' https:; manifest-src 'self' https://kitty.town; connect-src 'self' data: blob: https://kitty.town https://cdn.masto.host wss://kitty.town; script-src 'self' https://kitty.town; child-src 'self' blob: https://kitty.town; worker-src 'self' blob: https://kitty.town
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:48 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.474541Z
+X-Request-Id: e4cec19e-8492-4124-a41b-e8489948db5e
+X-Runtime: 0.007129
+X-Xss-Protection: 0
+
+0
+

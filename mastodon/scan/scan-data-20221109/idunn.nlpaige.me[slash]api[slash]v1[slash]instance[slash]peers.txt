@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:32 GMT
+Etag: W/"47-eYF+ygv+3snAf1UXu8BA/yAeZN8"
+Server: nginx/1.10.3 (Ubuntu)
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+47
+{"error":"NotFoundHttpError","message":"Route not found.","status":404}
+0
+

@@ -1,0 +1,477 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=14400, must-revalidate
+Cf-Apo-Via: origin,resnok
+Cf-Cache-Status: MISS
+Cf-Edge-Cache: cache,platform=wordpress
+Cf-Ray: 76778b6bb883b9bf-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:35 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://www.chefblogger.me/wp-json/>; rel="https://api.w.org/"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MRdYXunOW7IzrF8MQAnifq6ZEb7JzrP1O1BWtG5C1kAt4UNgHm%2FQT%2FFZBAyt%2BYlJtf1JsPeJ4oqpoPCvopoSrEyTMdyy6v1qDI3NQgwTcmpEp9pRIudN4tgzNQfO1%2FRhlQyvoeQ%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Vary: Accept-Encoding
+
+11985
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://www.chefblogger.me/xmlrpc.php" />
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7045536204714770" crossorigin="anonymous"></script>
+<meta name="p:domain_verify" content="05a7d026e18b9a2ff7689cc96bcad789" />
+
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stat.ericmaechler.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<title>404 Nicht gefunden | Chefblogger Magazin über Wordpress, Social Media, eCommerce und Online Marketing</title>
+<style id="et-divi-userfonts">@font-face { font-family: "Lato Bold"; font-display: swap;  src: url("https://www.chefblogger.me/wp-content/uploads/et-fonts/Lato-Bold.ttf") format("truetype"); }@font-face { font-family: "OpenSans-Variable-Font"; font-display: swap;  src: url("https://www.chefblogger.me/wp-content/uploads/et-fonts/OpenSans-VariableFont_wdthwght.ttf") format("truetype"); }</style><meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//assets.pinterest.com' />
+<link rel="alternate" type="application/rss+xml" title="Chefblogger Magazin über Wordpress, Social Media, eCommerce und Online Marketing &raquo; Feed" href="https://www.chefblogger.me/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chefblogger Magazin über Wordpress, Social Media, eCommerce und Online Marketing &raquo; Kommentar-Feed" href="https://www.chefblogger.me/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chefblogger.me\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<meta content="Divi Child v.1.0.0" name="generator" /> <script>
+				var divimegapro_singleton = [];
+				divimegapro_singleton['header'] = false;
+				divimegapro_singleton['content'] = false;
+				divimegapro_singleton['footer'] = false;
+				var divimegapro_singleton_enabled = ( divimegapro_singleton['header'] || divimegapro_singleton['content'] || divimegapro_singleton['footer'] ) ? true : false;
+				</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.chefblogger.me/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.chefblogger.me/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css' href='https://www.chefblogger.me/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.15' type='text/css' media='' />
+<link rel='stylesheet' id='font-awesome-css' href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pinterest_js-css' href='//assets.pinterest.com/js/pinit.js?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='quicksharing_style-css' href='https://www.chefblogger.me/wp-content/plugins/quick-sharing/css/quicksharing_style-1.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='threemasmart_style-css' href='https://www.chefblogger.me/wp-content/plugins/smart-threema/css/threemasmart_style.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.chefblogger.me/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-syntax-css-css' href='https://www.chefblogger.me/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.chefblogger.me/wp-content/themes/Divi/style-static.min.css?ver=4.19.0' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.chefblogger.me/wp-content/themes/divi-child/style.css?ver=4.19.0' type='text/css' media='all' />
+<link rel='stylesheet' id='DiviMegaPro-main-css' href='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/css/main.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='DiviMegaPro-main-media-query-css' href='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/css/main-media-query.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='DiviMegaPro-tippy-animations-css' href='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/libraries/tippy/css/animations.css?ver=6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.chefblogger.me/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/quick-sharing/mastodon.js?ver=6.1' id='quicksharing_mastodon-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/js/popper-1.16.1.min.js?ver=1.9.7' id='DiviMegaPro-popper-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/js/tippy-5.2.1.min.js?ver=1.9.7' id='DiviMegaPro-tippy-js'></script>
+<link rel="https://api.w.org/" href="https://www.chefblogger.me/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chefblogger.me/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.chefblogger.me/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<style>#google_language_translator{width:auto!important;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}#flags{display:none;}#google_language_translator{color:transparent;}body{top:0px!important;}#goog-gt-tt{display:none!important;}#glt-translate-trigger{left:20px;right:auto;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#f89406;}.goog-te-gadget .goog-te-combo{width:100%;}</style>
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-1526735-42'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+gtag('config', 'UA-1526735-42'); 
+</script>
+
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-CT4TGYW2N2'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+gtag('config', 'G-CT4TGYW2N2'); 
+</script>
+
+<meta demo='WP Smart SEO Plugin'>
+
+<meta name="robots" content="index, follow">
+<title> ≫ chefblogger.me WordPress DIVI WooCommerce</title>
+<meta name="description" content="" />
+<meta property="og:type" content="website">
+<meta property="og:title" content=" ≫ chefblogger.me WordPress DIVI WooCommerce" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content=" ≫ chefblogger.me WordPress DIVI WooCommerce" />
+<meta name="twitter:description" content="" />
+
+<meta demo='wpseo.de Plugin '>
+
+<meta name="robots" content="">
+<title> ≫ chefblogger.me WordPress DIVI WooCommerce</title>
+<meta name="description" content="" />
+<meta property="og:type" content="website">
+<meta property="og:title" content=" ≫ chefblogger.me WordPress DIVI WooCommerce" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="" />
+<meta property="og:image:alt" content="" />
+<meta property="og:url" content="" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content=" ≫ chefblogger.me WordPress DIVI WooCommerce" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="" />
+
+
+<script type="text/javascript">HappyForms = {};</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /> <script type="text/javascript">
+		var ajax_url = 'https://www.chefblogger.me/wp-admin/admin-ajax.php';
+		</script>
+<meta name="onesignal" content="wordpress-plugin" />
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://www.chefblogger.me");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '20a39a75-6331-4cf1-a93f-75dcf0727f7d';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Danke  fürs Anmelden";
+oneSignal_options['path'] = "https://www.chefblogger.me/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.1a908d8f-b1c2-454b-a8c2-6bb9d82d2555";
+oneSignal_options['promptOptions'] = { };
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7045536204714770" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<script type="text/javascript">
+var elm=document.getElementsByTagName("html")[0];
+elm.style.display="none";
+document.addEventListener("DOMContentLoaded",function(event) {elm.style.display="block"; });
+</script>
+<script type="text/javascript">
+(function($) {
+ 
+$(window).load(function() {
+// Disable YouTube Related Videos
+$('.fluid-width-video-wrapper').each(function() {
+var src = $(this).find('iframe').attr('src');
+$(this).find('iframe').attr('src', src + '&amp;rel=0');
+});
+});
+ 
+$(document).ready(function() {
+// Open project promo in new tab.
+$('.single-project .et_pb_promo').find('a').attr('target', '_blank');
+});
+ 
+})(jQuery);
+</script>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stat.kmu-angebote.ch/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<link rel="icon" href="https://www.chefblogger.me/wp-content/uploads/2015/03/cropped-cb-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.chefblogger.me/wp-content/uploads/2015/03/cropped-cb-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.chefblogger.me/wp-content/uploads/2015/03/cropped-cb-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.chefblogger.me/wp-content/uploads/2015/03/cropped-cb-favicon-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.chefblogger.me/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1667741792" /><link rel="stylesheet" id="et-core-unified-cpt-12110-cached-inline-styles" href="https://www.chefblogger.me/wp-content/et-cache/12110/et-core-unified-cpt-12110.min.css?ver=1667741792" /></head>
+<body class="error404 et-tb-has-template et-tb-has-header et-tb-has-footer et-tb-footer-disabled et_color_scheme_orange et_pb_button_helper_class et_cover_background et_pb_gutter windows et_pb_gutters3 et_smooth_scroll et_right_sidebar et_divi_theme et-db">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page-container">
+<div id="et-boc" class="et-boc">
+<header class="et-l et-l--header">
+<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_header et_section_regular et_pb_section--with-menu">
+<div class="et_pb_row et_pb_row_1_tb_header et_pb_row--with-menu">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_0_tb_header">
+<a href="https://www.chefblogger.me/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="1920" height="187" src="https://www.chefblogger.me/wp-content/uploads/2022/02/chefblogger-logo-2asdf.png" alt="" title="chefblogger-logo-2asdf" srcset="https://www.chefblogger.me/wp-content/uploads/2022/02/chefblogger-logo-2asdf.png 1920w, https://www.chefblogger.me/wp-content/uploads/2022/02/chefblogger-logo-2asdf-1280x125.png 1280w, https://www.chefblogger.me/wp-content/uploads/2022/02/chefblogger-logo-2asdf-980x95.png 980w, https://www.chefblogger.me/wp-content/uploads/2022/02/chefblogger-logo-2asdf-480x47.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1920px, 100vw" class="wp-image-14971" /></span></a>
+</div>
+</div><div class="et_pb_column et_pb_column_2_3 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-centered">
+<div class="et_pb_menu_inner_container clearfix">
+<div class="et_pb_menu__wrap">
+<div class="et_pb_menu__menu">
+<nav class="et-menu-nav"><ul id="menu-hauptmenu" class="et-menu nav"><li class="et_pb_menu_page_id-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3607"><a href="https://www.chefblogger.me/">Home</a></li>
+<li class="et_pb_menu_page_id-28 menu-item menu-item-type-post_type menu-item-object-page menu-item-3619"><a href="https://www.chefblogger.me/wer-ist-der-chefblogger/">Wer ist der Chefblogger</a></li>
+<li class="et_pb_menu_page_id-1928 menu-item menu-item-type-post_type menu-item-object-page menu-item-8771"><a href="https://www.chefblogger.me/blog/">Blog</a></li>
+<li class="mega-menu et_pb_menu_page_id-8755 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8755"><a href="https://www.chefblogger.me/blog/">Kategorie</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-8773 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8773"><a href="https://www.chefblogger.me/blog/">WordPress</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-1 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3624"><a href="https://www.chefblogger.me/category/allgemein/">Allgemein</a></li>
+<li class="et_pb_menu_page_id-7 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3625"><a href="https://www.chefblogger.me/category/technik/">Technik</a></li>
+<li class="et_pb_menu_page_id-2 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3626"><a href="https://www.chefblogger.me/category/design/">Design</a></li>
+<li class="et_pb_menu_page_id-5 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3628"><a href="https://www.chefblogger.me/category/konzept/">Konzept</a></li>
+<li class="et_pb_menu_page_id-9 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3629"><a href="https://www.chefblogger.me/category/wordpress-plugins/">WordPress Plugins</a></li>
+<li class="et_pb_menu_page_id-4 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3630"><a href="https://www.chefblogger.me/category/interessantes/">Interessantes</a></li>
+<li class="et_pb_menu_page_id-8 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3631"><a href="https://www.chefblogger.me/category/vermarktung/">Vermarktung</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-8772 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8772"><a href="https://www.chefblogger.me/blog/">Themen</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-3 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3627"><a href="https://www.chefblogger.me/category/design/font-design/">Font / Schrift</a></li>
+<li class="et_pb_menu_page_id-6 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3632"><a href="https://www.chefblogger.me/category/social-media/">Social Media</a></li>
+<li class="et_pb_menu_page_id-10 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3633"><a href="https://www.chefblogger.me/category/youtube/">Youtube</a></li>
+<li class="et_pb_menu_page_id-519 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4236"><a href="https://www.chefblogger.me/category/ecommerce/">eCommerce</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-8774 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8774"><a href="https://www.chefblogger.me/blog/">Geschmischtes</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-536 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4695"><a href="https://www.chefblogger.me/category/kolumne/">Kolumne</a></li>
+<li class="et_pb_menu_page_id-586 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7154"><a href="https://www.chefblogger.me/category/events/">Events</a></li>
+<li class="et_pb_menu_page_id-8459 menu-item menu-item-type-post_type menu-item-object-page menu-item-8462"><a href="https://www.chefblogger.me/webinar/">Webinar</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-1527 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4958"><a href="https://www.chefblogger.me/anleitungen/">Anleitungen</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-1527 menu-item menu-item-type-post_type menu-item-object-page menu-item-11891"><a href="https://www.chefblogger.me/anleitungen/">Anleitungen</a></li>
+<li class="et_pb_menu_page_id-9644 menu-item menu-item-type-custom menu-item-object-custom menu-item-9644"><a href="https://www.youtube.com/channel/UC_uYCcEGRoJXOHzi0dWxO3A">Youtube Kanal</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-533 menu-item menu-item-type-post_type menu-item-object-page menu-item-3620"><a href="https://www.chefblogger.me/archiv/">Archiv</a></li>
+<li class="et_pb_menu_page_id-14481 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14481"><a href="#">Themen</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-822 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-15078"><a href="https://www.chefblogger.me/tag/ecamm-live/">Ecamm Live</a></li>
+<li class="et_pb_menu_page_id-759 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14482"><a href="https://www.chefblogger.me/tag/divi/">DIVI</a></li>
+<li class="et_pb_menu_page_id-520 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14483"><a href="https://www.chefblogger.me/tag/woocommerce/">WooCommerce</a></li>
+<li class="et_pb_menu_page_id-406 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14484"><a href="https://www.chefblogger.me/tag/wordpress/">WordPress</a></li>
+<li class="et_pb_menu_page_id-809 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14485"><a href="https://www.chefblogger.me/tag/tiktok/">TikTok</a></li>
+<li class="et_pb_menu_page_id-515 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14486"><a href="https://www.chefblogger.me/tag/social-media/">Social Media</a></li>
+<li class="et_pb_menu_page_id-517 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14488"><a href="https://www.chefblogger.me/tag/youtube/">Youtube</a></li>
+<li class="et_pb_menu_page_id-141 menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-14487"><a href="https://www.chefblogger.me/tag/facebook/">Facebook</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-15241 menu-item menu-item-type-custom menu-item-object-custom menu-item-15241"><a href="https://discord.gg/bqedWEp">Discord</a></li>
+</ul></nav>
+</div>
+<button type="button" class="et_pb_menu__icon et_pb_menu__search-button"></button>
+<div class="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="mobile_menu_bar"></span>
+</div>
+</div>
+</div>
+<div class="et_pb_menu__search-container et_pb_menu__search-container--disabled">
+<div class="et_pb_menu__search">
+<form role="search" method="get" class="et_pb_menu__search-form" action="https://www.chefblogger.me/">
+<input type="search" class="et_pb_menu__search-input" placeholder="Suche …" name="s" title="Suchen nach:" />
+</form>
+<button type="button" class="et_pb_menu__icon et_pb_menu__close-search-button"></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</header>
+<div id="et-main-area">
+<div id="main-content">
+<div class="container">
+<div id="content-area" class="clearfix">
+<div id="left-area">
+<article id="post-0" class="et_pb_post not_found">
+<div class="entry">
+<h1 class="not-found-title">Keine Ergebnisse gefunden</h1>
+<p>Die angefragte Seite konnte nicht gefunden werden. Verfeinern Sie Ihre Suche oder verwenden Sie die Navigation oben, um den Beitrag zu finden.</p>
+</div>
+</article>
+</div>
+<div id="sidebar">
+<div id="glt_widget-2" class="et_pb_widget widget_glt_widget"><h4 class="widgettitle">Translate:</h4><div id="google_language_translator" class="default-language-de"></div></div>
+<div id="recent-posts-6" class="et_pb_widget widget_recent_entries">
+<h4 class="widgettitle">Neueste Beiträge</h4>
+<ul>
+<li>
+<a href="https://www.chefblogger.me/2022/11/04/wie-verbindet-man-wordpress-blog-webseite-mit-dem-fediverse/">Wie verbindet man WordPress Blog Webseite mit dem Fediverse?</a>
+</li>
+<li>
+<a href="https://www.chefblogger.me/2022/11/01/wordpress-6-1-und-wpml-warnung-achtung/">WordPress 6.1 und WPML Warnung!! ACHTUNG</a>
+</li>
+<li>
+<a href="https://www.chefblogger.me/2022/10/31/mastodon-wie-deaktiviere-ich-die-benachrichtigungs-toene/">Mastodon Wie deaktiviere ich die Benachrichtigungs Töne?</a>
+</li>
+<li>
+<a href="https://www.chefblogger.me/2022/10/31/mastodon-welche-posts-troet-funktionen-gibt-es/">Mastodon Welche Posts Tröt Funktionen gibt es?</a>
+</li>
+<li>
+<a href="https://www.chefblogger.me/2022/10/31/wie-bedient-man-mastodon/">Wie bedient man Mastodon?</a>
+</li>
+</ul>
+</div><div id="custom_html-50" class="widget_text et_pb_widget widget_custom_html"><h4 class="widgettitle">Discord Server</h4><div class="textwidget custom-html-widget"><a href="https://discord.gg/bqedWEp" target="_blank" rel="noopener"><img src="https://www.chefblogger.me/wp-content/uploads/2020/09/discord-button.jpg"></a></div></div><div id="custom_html-53" class="widget_text et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="https://discord.com/widget?id=750253822080974889&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div></div><div id="recent-comments-7" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Neueste Kommentare</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Eric-Oliver Mächler</span> bei <a href="https://www.chefblogger.me/2022/08/22/google-font-dsgvo-sicher-in-wordpress-divi-einbauen/#comment-102389">Google Font DSGVO sicher in WordPress DIVI einbauen</a></li><li class="recentcomments"><span class="comment-author-link">Felix Martins</span> bei <a href="https://www.chefblogger.me/2022/08/22/google-font-dsgvo-sicher-in-wordpress-divi-einbauen/#comment-102388">Google Font DSGVO sicher in WordPress DIVI einbauen</a></li><li class="recentcomments"><span class="comment-author-link">Eric-Oliver Mächler</span> bei <a href="https://www.chefblogger.me/2022/10/19/herunterfallende-text-animation-mit-gsap-bibliothek-css-und-javascript-anleitung/#comment-102174">Herunterfallende Text Animation mit GSAP Bibliothek (CSS und Javascript Anleitung)</a></li><li class="recentcomments"><span class="comment-author-link">Eric-Oliver Mächler</span> bei <a href="https://www.chefblogger.me/2022/10/29/paypal-hat-gelogen-agb-wurden-heimlich-angepasst-die-2500-busse-wurde-eingefuehrt/#comment-102171">Paypal hat gelogen &#8211; AGB wurden heimlich angepasst &#8211; die 2500$ Busse wurde eingeführt</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://sfba.social/users/andre' rel='external nofollow ugc' class='url'>André</a></span> bei <a href="https://www.chefblogger.me/2022/10/29/paypal-hat-gelogen-agb-wurden-heimlich-angepasst-die-2500-busse-wurde-eingefuehrt/#comment-102170">Paypal hat gelogen &#8211; AGB wurden heimlich angepasst &#8211; die 2500$ Busse wurde eingeführt</a></li></ul></div><div id="custom_html-47" class="widget_text et_pb_widget widget_custom_html"><h4 class="widgettitle">Webinare</h4><div class="textwidget custom-html-widget"><a href="https://www.ericmaechler.live/events/" target="_blank" rel="noopener"><img src="https://www.chefblogger.me/wp-content/uploads/2019/07/webinar-ads-wordpress-2019.jpg"></a>
+</div></div><div id="custom_html-44" class="widget_text et_pb_widget widget_custom_html"><h4 class="widgettitle">DIVI Theme</h4><div class="textwidget custom-html-widget"><a href="https://www.elegantthemes.com/affiliates/idevaffiliate.php?id=53036_1_1_3" target="_blank" rel="nofollow noopener"><img src="https://www.chefblogger.me/wp-content/uploads/2019/02/elegantthemes300x250.gif"></a></div></div><div id="custom_html-45" class="widget_text et_pb_widget widget_custom_html"><h4 class="widgettitle">Hosting</h4><div class="textwidget custom-html-widget"><a href="https://order.cyon.ch/affiliate/cyon_webhosting_ad5bef4d-34f5-4cad-8219-3e38c52d9232" target="_blank" rel="noopener"><img src="https://www.chefblogger.me/banner/ad-cyon.png"></a></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+				var divimegapro_singleton = [];
+				divimegapro_singleton['header'] = false;
+				divimegapro_singleton['content'] = false;
+				divimegapro_singleton['footer'] = false;
+				var divimegapro_singleton_enabled = ( divimegapro_singleton['header'] || divimegapro_singleton['content'] || divimegapro_singleton['footer'] ) ? true : false;
+				</script>
+<div class="divimegapro-wrapper"><style type="text/css"></style><style type="text/css">
+								.dmp-13993 .tippy-svg-arrow {
+									fill:#333 !important;
+								}
+								.dmp-13993 .tippy-arrow,
+								.dmp-13993 .tippy-svg-arrow {
+									-webkit-transform: scale( 1, 1);  /* Saf3.1+, Chrome */
+									 -moz-transform: scale( 1, 1);  /* FF3.5+ */
+									  -ms-transform: scale( 1, 1);  /* IE9 */
+									   -o-transform: scale( 1, 1);  /* Opera 10.5+ */
+										  transform: scale( 1, 1);
+								}
+								.tippy-popper.dmp-13993[x-placement^=top] .tippy-arrow {
+									border-top-color:#333 !important;
+								}
+								.tippy-popper.dmp-13993[x-placement^=bottom] .tippy-arrow {
+									border-bottom-color:#333 !important;
+								}
+								.tippy-popper.dmp-13993[x-placement^=left] .tippy-arrow {
+									border-left-color:#333 !important;
+								}
+								.tippy-popper.dmp-13993[x-placement^=right] .tippy-arrow {
+									border-right-color:#333 !important;
+								}
+								</style></div> <script>
+					var ajaxurl = "https://www.chefblogger.me/wp-admin/admin-ajax.php"
+					, diviAjaxUrl = 'https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/includes/ajax-handler-wp.php'
+					, diviLifeisMobileDevice = "false"
+					, diviLifeisTabletDevice = "false";
+					</script>
+<div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="Afrikaans"><a href="#" title="Afrikaans" class="nturl notranslate af flag Afrikaans"></a></li><li id="Albanian"><a href="#" title="Albanian" class="nturl notranslate sq flag Albanian"></a></li><li id="Amharic"><a href="#" title="Amharic" class="nturl notranslate am flag Amharic"></a></li><li id="Arabic"><a href="#" title="Arabic" class="nturl notranslate ar flag Arabic"></a></li><li id="Armenian"><a href="#" title="Armenian" class="nturl notranslate hy flag Armenian"></a></li><li id="Azerbaijani"><a href="#" title="Azerbaijani" class="nturl notranslate az flag Azerbaijani"></a></li><li id="Basque"><a href="#" title="Basque" class="nturl notranslate eu flag Basque"></a></li><li id="Belarusian"><a href="#" title="Belarusian" class="nturl notranslate be flag Belarusian"></a></li><li id="Bengali"><a href="#" title="Bengali" class="nturl notranslate bn flag Bengali"></a></li><li id="Bosnian"><a href="#" title="Bosnian" class="nturl notranslate bs flag Bosnian"></a></li><li id="Bulgarian"><a href="#" title="Bulgarian" class="nturl notranslate bg flag Bulgarian"></a></li><li id="Catalan"><a href="#" title="Catalan" class="nturl notranslate ca flag Catalan"></a></li><li id="Cebuano"><a href="#" title="Cebuano" class="nturl notranslate ceb flag Cebuano"></a></li><li id="Chichewa"><a href="#" title="Chichewa" class="nturl notranslate ny flag Chichewa"></a></li><li id="Chinese (Simplified)"><a href="#" title="Chinese (Simplified)" class="nturl notranslate zh-CN flag Chinese (Simplified)"></a></li><li id="Chinese (Traditional)"><a href="#" title="Chinese (Traditional)" class="nturl notranslate zh-TW flag Chinese (Traditional)"></a></li><li id="Corsican"><a href="#" title="Corsican" class="nturl notranslate co flag Corsican"></a></li><li id="Croatian"><a href="#" title="Croatian" class="nturl notranslate hr flag Croatian"></a></li><li id="Czech"><a href="#" title="Czech" class="nturl notranslate cs flag Czech"></a></li><li id="Danish"><a href="#" title="Danish" class="nturl notranslate da flag Danish"></a></li><li id="Dutch"><a href="#" title="Dutch" class="nturl notranslate nl flag Dutch"></a></li><li id="English"><a href="#" title="English" class="nturl notranslate en flag united-states"></a></li><li id="Esperanto"><a href="#" title="Esperanto" class="nturl notranslate eo flag Esperanto"></a></li><li id="Estonian"><a href="#" title="Estonian" class="nturl notranslate et flag Estonian"></a></li><li id="Filipino"><a href="#" title="Filipino" class="nturl notranslate tl flag Filipino"></a></li><li id="Finnish"><a href="#" title="Finnish" class="nturl notranslate fi flag Finnish"></a></li><li id="French"><a href="#" title="French" class="nturl notranslate fr flag French"></a></li><li id="Frisian"><a href="#" title="Frisian" class="nturl notranslate fy flag Frisian"></a></li><li id="Galician"><a href="#" title="Galician" class="nturl notranslate gl flag Galician"></a></li><li id="Georgian"><a href="#" title="Georgian" class="nturl notranslate ka flag Georgian"></a></li><li id="German"><a href="#" title="German" class="nturl notranslate de flag German"></a></li><li id="Greek"><a href="#" title="Greek" class="nturl notranslate el flag Greek"></a></li><li id="Gujarati"><a href="#" title="Gujarati" class="nturl notranslate gu flag Gujarati"></a></li><li id="Haitian"><a href="#" title="Haitian" class="nturl notranslate ht flag Haitian"></a></li><li id="Hausa"><a href="#" title="Hausa" class="nturl notranslate ha flag Hausa"></a></li><li id="Hawaiian"><a href="#" title="Hawaiian" class="nturl notranslate haw flag Hawaiian"></a></li><li id="Hebrew"><a href="#" title="Hebrew" class="nturl notranslate iw flag Hebrew"></a></li><li id="Hindi"><a href="#" title="Hindi" class="nturl notranslate hi flag Hindi"></a></li><li id="Hmong"><a href="#" title="Hmong" class="nturl notranslate hmn flag Hmong"></a></li><li id="Hungarian"><a href="#" title="Hungarian" class="nturl notranslate hu flag Hungarian"></a></li><li id="Icelandic"><a href="#" title="Icelandic" class="nturl notranslate is flag Icelandic"></a></li><li id="Igbo"><a href="#" title="Igbo" class="nturl notranslate ig flag Igbo"></a></li><li id="Indonesian"><a href="#" title="Indonesian" class="nturl notranslate id flag Indonesian"></a></li><li id="Irish"><a href="#" title="Irish" class="nturl notranslate ga flag Irish"></a></li><li id="Italian"><a href="#" title="Italian" class="nturl notranslate it flag Italian"></a></li><li id="Japanese"><a href="#" title="Japanese" class="nturl notranslate ja flag Japanese"></a></li><li id="Javanese"><a href="#" title="Javanese" class="nturl notranslate jw flag Javanese"></a></li><li id="Kannada"><a href="#" title="Kannada" class="nturl notranslate kn flag Kannada"></a></li><li id="Kazakh"><a href="#" title="Kazakh" class="nturl notranslate kk flag Kazakh"></a></li><li id="Khmer"><a href="#" title="Khmer" class="nturl notranslate km flag Khmer"></a></li><li id="Korean"><a href="#" title="Korean" class="nturl notranslate ko flag Korean"></a></li><li id="Kurdish"><a href="#" title="Kurdish" class="nturl notranslate ku flag Kurdish"></a></li><li id="Kyrgyz"><a href="#" title="Kyrgyz" class="nturl notranslate ky flag Kyrgyz"></a></li><li id="Lao"><a href="#" title="Lao" class="nturl notranslate lo flag Lao"></a></li><li id="Latin"><a href="#" title="Latin" class="nturl notranslate la flag Latin"></a></li><li id="Latvian"><a href="#" title="Latvian" class="nturl notranslate lv flag Latvian"></a></li><li id="Lithuanian"><a href="#" title="Lithuanian" class="nturl notranslate lt flag Lithuanian"></a></li><li id="Luxembourgish"><a href="#" title="Luxembourgish" class="nturl notranslate lb flag Luxembourgish"></a></li><li id="Macedonian"><a href="#" title="Macedonian" class="nturl notranslate mk flag Macedonian"></a></li><li id="Malagasy"><a href="#" title="Malagasy" class="nturl notranslate mg flag Malagasy"></a></li><li id="Malayalam"><a href="#" title="Malayalam" class="nturl notranslate ml flag Malayalam"></a></li><li id="Malay"><a href="#" title="Malay" class="nturl notranslate ms flag Malay"></a></li><li id="Maltese"><a href="#" title="Maltese" class="nturl notranslate mt flag Maltese"></a></li><li id="Maori"><a href="#" title="Maori" class="nturl notranslate mi flag Maori"></a></li><li id="Marathi"><a href="#" title="Marathi" class="nturl notranslate mr flag Marathi"></a></li><li id="Mongolian"><a href="#" title="Mongolian" class="nturl notranslate mn flag Mongolian"></a></li><li id="Myanmar (Burmese)"><a href="#" title="Myanmar (Burmese)" class="nturl notranslate my flag Myanmar (Burmese)"></a></li><li id="Nepali"><a href="#" title="Nepali" class="nturl notranslate ne flag Nepali"></a></li><li id="Norwegian"><a href="#" title="Norwegian" class="nturl notranslate no flag Norwegian"></a></li><li id="Pashto"><a href="#" title="Pashto" class="nturl notranslate ps flag Pashto"></a></li><li id="Persian"><a href="#" title="Persian" class="nturl notranslate fa flag Persian"></a></li><li id="Polish"><a href="#" title="Polish" class="nturl notranslate pl flag Polish"></a></li><li id="Portuguese"><a href="#" title="Portuguese" class="nturl notranslate pt flag Portuguese"></a></li><li id="Punjabi"><a href="#" title="Punjabi" class="nturl notranslate pa flag Punjabi"></a></li><li id="Romanian"><a href="#" title="Romanian" class="nturl notranslate ro flag Romanian"></a></li><li id="Russian"><a href="#" title="Russian" class="nturl notranslate ru flag Russian"></a></li><li id="Serbian"><a href="#" title="Serbian" class="nturl notranslate sr flag Serbian"></a></li><li id="Shona"><a href="#" title="Shona" class="nturl notranslate sn flag Shona"></a></li><li id="Sesotho"><a href="#" title="Sesotho" class="nturl notranslate st flag Sesotho"></a></li><li id="Sindhi"><a href="#" title="Sindhi" class="nturl notranslate sd flag Sindhi"></a></li><li id="Sinhala"><a href="#" title="Sinhala" class="nturl notranslate si flag Sinhala"></a></li><li id="Slovak"><a href="#" title="Slovak" class="nturl notranslate sk flag Slovak"></a></li><li id="Slovenian"><a href="#" title="Slovenian" class="nturl notranslate sl flag Slovenian"></a></li><li id="Samoan"><a href="#" title="Samoan" class="nturl notranslate sm flag Samoan"></a></li><li id="Scots Gaelic"><a href="#" title="Scots Gaelic" class="nturl notranslate gd flag Scots Gaelic"></a></li><li id="Somali"><a href="#" title="Somali" class="nturl notranslate so flag Somali"></a></li><li id="Spanish"><a href="#" title="Spanish" class="nturl notranslate es flag Spanish"></a></li><li id="Sundanese"><a href="#" title="Sundanese" class="nturl notranslate su flag Sundanese"></a></li><li id="Swahili"><a href="#" title="Swahili" class="nturl notranslate sw flag Swahili"></a></li><li id="Swedish"><a href="#" title="Swedish" class="nturl notranslate sv flag Swedish"></a></li><li id="Tajik"><a href="#" title="Tajik" class="nturl notranslate tg flag Tajik"></a></li><li id="Tamil"><a href="#" title="Tamil" class="nturl notranslate ta flag Tamil"></a></li><li id="Telugu"><a href="#" title="Telugu" class="nturl notranslate te flag Telugu"></a></li><li id="Thai"><a href="#" title="Thai" class="nturl notranslate th flag Thai"></a></li><li id="Turkish"><a href="#" title="Turkish" class="nturl notranslate tr flag Turkish"></a></li><li id="Ukrainian"><a href="#" title="Ukrainian" class="nturl notranslate uk flag Ukrainian"></a></li><li id="Urdu"><a href="#" title="Urdu" class="nturl notranslate ur flag Urdu"></a></li><li id="Uzbek"><a href="#" title="Uzbek" class="nturl notranslate uz flag Uzbek"></a></li><li id="Vietnamese"><a href="#" title="Vietnamese" class="nturl notranslate vi flag Vietnamese"></a></li><li id="Welsh"><a href="#" title="Welsh" class="nturl notranslate cy flag Welsh"></a></li><li id="Xhosa"><a href="#" title="Xhosa" class="nturl notranslate xh flag Xhosa"></a></li><li id="Yiddish"><a href="#" title="Yiddish" class="nturl notranslate yi flag Yiddish"></a></li><li id="Yoruba"><a href="#" title="Yoruba" class="nturl notranslate yo flag Yoruba"></a></li><li id="Zulu"><a href="#" title="Zulu" class="nturl notranslate zu flag Zulu"></a></li></ul></div><div id='glt-footer'></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'de', includedLanguages:'af,sq,am,ar,hy,az,eu,be,bn,bs,bg,ca,ceb,ny,zh-CN,zh-TW,co,hr,cs,da,nl,en,eo,et,tl,fi,fr,fy,gl,ka,de,el,gu,ht,ha,haw,iw,hi,hmn,hu,is,ig,id,ga,it,ja,jw,kn,kk,km,ko,ku,ky,lo,la,lv,lt,lb,mk,mg,ml,ms,mt,mi,mr,mn,my,ne,no,ps,fa,pl,pt,pa,ro,ru,sr,sn,st,sd,si,sk,sl,sm,gd,so,es,su,sw,sv,tg,ta,te,th,tr,uk,ur,uz,vi,cy,xh,yi,yo,zu', autoDisplay: false}, 'google_language_translator');}</script><link rel='stylesheet' id='emailoctopus_frontend-css' href='https://www.chefblogger.me/wp-content/plugins/emailoctopus/public/css/legacy-frontend.css?ver=3.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.chefblogger.me\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.15' id='scripts-js'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit' id='scripts-google-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/wp-syntax/js/wp-syntax.js?ver=1.1' id='wp-syntax-js-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.chefblogger.me\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.chefblogger.me\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.chefblogger.me\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"3386b1e537","subscription_failed":"Bitte \u00fcberpr\u00fcfen Sie die Felder unten aus, um sicherzustellen, dass Sie die richtigen Informationen eingegeben.","et_ab_log_nonce":"97445ff6c7","fill_message":"Bitte f\u00fcllen Sie die folgenden Felder aus:","contact_error_message":"Bitte folgende Fehler beheben:","invalid":"Ung\u00fcltige E-Mail","captcha":"Captcha","prev":"Vorherige","previous":"Vorherige","next":"Weiter","wrong_captcha":"Sie haben die falsche Zahl im Captcha eingegeben.","wrong_checkbox":"Kontrollk\u00e4stchen","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"","unique_test_id":"","ab_bounce_rate":"","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.chefblogger.me\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/js/scripts.min.js?ver=4.19.0' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/js/smoothscroll.js?ver=4.19.0' id='smoothscroll-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.19.0' id='fitvids-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-includes/js/comment-reply.min.js?ver=6.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.19.0' id='jquery-mobile-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.19.0' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.19.0' id='easypiechart-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.19.0' id='salvattore-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/js/main.js?ver=1.9.7' id='DiviMegaPro-main-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/divi-mega-pro/assets/js/main.helper.js?ver=1.9.7' id='DiviMegaPro-main-helper-js'></script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/core/admin/js/common.js?ver=4.19.0' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' id='emailoctopus_frontend-js-extra'>
+/* <![CDATA[ */
+var emailoctopus = {"ajaxurl":"https:\/\/www.chefblogger.me\/wp-admin\/admin-ajax.php","sending":"Sending"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/plugins/emailoctopus/public/js/legacy-frontend.js?ver=3.0.1' id='emailoctopus_frontend-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-motion-js-extra'>
+/* <![CDATA[ */
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.19.0' id='et-builder-modules-script-motion-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-sticky-js-extra'>
+/* <![CDATA[ */
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.chefblogger.me/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.19.0' id='et-builder-modules-script-sticky-js'></script>
+<style id="et-builder-module-design-cached-inline-styles">@font-face{font-family:"Lato Bold";font-display:swap;src:url("https://www.chefblogger.me/wp-content/uploads/et-fonts/Lato-Bold.ttf") format("truetype")}@font-face{font-family:"OpenSans-Variable-Font";font-display:swap;src:url("https://www.chefblogger.me/wp-content/uploads/et-fonts/OpenSans-VariableFont_wdthwght.ttf") format("truetype")}.et_pb_section_0.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_row_1{background-color:#fdb932;z-index:99999!important;position:relative}.et_pb_row_1,body #page-container .et-db #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1.et_pb_row{width:100%;max-width:2560px}.et_pb_image_0{max-width:65%;text-align:center}.et_pb_menu_0.et_pb_menu ul li a{font-size:16px;color:#000000!important}.et_pb_menu_0.et_pb_menu{background-color:#fdb932}.et_pb_menu_0{z-index:500;position:relative}.et_pb_menu_0.et_pb_menu ul li.current-menu-item a{color:#000000!important}.et_pb_menu_0.et_pb_menu .nav li ul,.et_pb_menu_0.et_pb_menu .et_mobile_menu,.et_pb_menu_0.et_pb_menu .et_mobile_menu ul{background-color:#fdb932!important}.et_pb_menu_0 .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_0 .et_pb_menu__logo-slot{width:auto;max-width:100%}.et_pb_menu_0 .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_0 .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{height:auto;max-height:none}.et_pb_menu_0 .mobile_nav .mobile_menu_bar:before{color:#035682}.et_pb_menu_0 .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_0 .et_pb_menu__icon.et_pb_menu__close-search-button{font-size:26px;color:#035682}.et_pb_menu_0 .et_pb_menu__icon.et_pb_menu__cart-button{font-size:29px;color:#035682}@media only screen and (max-width:980px){.et_pb_image_0 .et_pb_image_wrap img{width:auto}}@media only screen and (max-width:767px){.et_pb_image_0 .et_pb_image_wrap img{width:auto}}</style>
+<span class="et_pb_scroll_top et-pb-icon"></span>
+<script>(function(){var js = "window['__CF$cv$params']={r:'76778b6bb883b9bf',m:'Hxwp9oz8dBxrDZJcsOnY9zptkbSXtMp3YmcvctiNjPo-1668007355-0-AWsASt9g5/9qjRhSQRaO+iSosf5+EbD7ljQ0+77uR+5kN3AJtb9zMwg9papSrtAXjLjsPranIA+8EnJB1qnYhfzMIfVgPd9WlXHw0NLOm3Yk3yyUirhEtJAkQnXuXR1YuO4IwonqBGhBN4FjnVT5zoQ=',s:[0xacee723005,0x6bf0d7e83a],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"76778b6bb883b9bf","version":"2022.11.0","r":1,"token":"ca0dbdcb8b5b41f7b2fb37ca5c9ecd43","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+0
+

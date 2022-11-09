@@ -1,0 +1,29 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766f76d2383e3-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://don.gomasy.jp; img-src 'self' https: data: blob: https://don.gomasy.jp; style-src 'self' https://don.gomasy.jp 'nonce-GIUcN7cKbd03/+4Ny6VJlA=='; media-src 'self' https: data: https://don.gomasy.jp; frame-src 'self' https:; manifest-src 'self' https://don.gomasy.jp; connect-src 'self' data: blob: https://don.gomasy.jp https://m.gmsy.in wss://don.gomasy.jp; script-src 'self' https://don.gomasy.jp 'unsafe-eval'; child-src 'self' blob: https://don.gomasy.jp; worker-src 'self' blob: https://don.gomasy.jp
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LMK%2B1xJECMU5J7slfcF297eLUddJabBUMQQAh9gzyvFcmrkolHFFQi0mHnC%2Bwo%2FOAlgKgCVNa3UzOrlOBGvafXKicNd6P6Ig5fnQ0DCFyS6cdVAvFjYkiZDcYVViXB%2BX"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.693686Z
+X-Request-Id: 96041acc-15b0-43c5-84ab-6039150da683
+X-Runtime: 0.004041
+X-Served-By: 2401:2500:102:3024:153:126:176:17
+X-Xss-Protection: 0
+
+0
+

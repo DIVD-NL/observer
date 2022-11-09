@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://missgreeney.masto.host; img-src 'self' https: data: blob: https://missgreeney.masto.host; style-src 'self' https://missgreeney.masto.host 'nonce-QS3SVx3ngCiD2OYcbSzLuQ=='; media-src 'self' https: data: https://missgreeney.masto.host; frame-src 'self' https:; manifest-src 'self' https://missgreeney.masto.host; connect-src 'self' data: blob: https://missgreeney.masto.host https://cdn.masto.host wss://missgreeney.masto.host; script-src 'self' https://missgreeney.masto.host; child-src 'self' blob: https://missgreeney.masto.host; worker-src 'self' blob: https://missgreeney.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:57 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.457653Z
+X-Request-Id: 555cf2db-edf1-4d51-9984-20fb34cce65c
+X-Runtime: 0.004458
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,450 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, max-age=0, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:07 GMT
+Etag: W/"56b9-EDgd+ZtCNCQtsqljuaq5HouM8Nc"
+Server: nginx/1.23.2
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding
+
+56b9
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Florian Jensen&#x27;s Blog</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css?v=294cf535d4" />
+
+    <meta name="generator" content="Ghost 5.22" />
+    <link rel="alternate" type="application/rss+xml" title="Florian Jensen&#x27;s Blog" href="https://florianjensen.com/rss/" />
+    <script defer src="https://cdn.jsdelivr.net/ghost/portal@~2.19/umd/portal.min.js" data-ghost="https://florianjensen.com/" data-key="60a4939e7d1458ca9bc80140dd" data-api="https://florianjensen.com/ghost/api/content/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style>
+    <script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="60a4939e7d1458ca9bc80140dd" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://florianjensen.com/" crossorigin="anonymous"></script>
+    <script defer src="/public/cards.min.js?v=294cf535d4"></script>
+    <link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=294cf535d4">
+    <script defer src="/public/member-attribution.min.js?v=294cf535d4"></script>
+    <link rel="stylesheet" href="/assets/css/prism.css">
+<style>
+    pre[class*=language-] {
+        margin: 1.75em 0;
+    }
+</style><style>:root {--ghost-accent-color: #15171A;}</style>
+
+</head>
+<body class="">
+
+    <div class="site-wrapper">
+
+        
+
+<header class="site-header">
+    <div class="outer site-nav-main">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left-wrapper">
+        <div class="site-nav-left">
+                <a class="site-nav-logo" href="https://florianjensen.com"><img src="https://florianjensen.com/content/images/2019/08/logo.png" alt="Florian Jensen&#x27;s Blog" /></a>
+            <div class="site-nav-content">
+                    <ul class="nav">
+    <li class="nav-home"><a href="https://florianjensen.com/">Home</a></li>
+</ul>
+
+            </div>
+        </div>
+    </div>
+    <div class="site-nav-right">
+            <div class="social-links">
+                    <a class="social-link social-link-fb" href="https://www.facebook.com/florian.jensen" title="Facebook" target="_blank" rel="noopener"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16 0c8.837 0 16 7.163 16 16s-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0zm5.204 4.911h-3.546c-2.103 0-4.443.885-4.443 3.934.01 1.062 0 2.08 0 3.225h-2.433v3.872h2.509v11.147h4.61v-11.22h3.042l.275-3.81h-3.397s.007-1.695 0-2.187c0-1.205 1.253-1.136 1.329-1.136h2.054V4.911z" /></svg></a>
+                <a rel="me" class="social-link social-link-ms" href="https://social.florianjensen.com/@florian" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.4144 232.00976"><path d="M107.86523 0C78.203984.2425 49.672422 3.4535937 33.044922 11.089844c0 0-32.97656262 14.752031-32.97656262 65.082031 0 11.525-.224375 25.306175.140625 39.919925 1.19750002 49.22 9.02375002 97.72843 54.53124962 109.77343 20.9825 5.55375 38.99711 6.71547 53.505856 5.91797 26.31125-1.45875 41.08203-9.38867 41.08203-9.38867l-.86914-19.08984s-18.80171 5.92758-39.91796 5.20508c-20.921254-.7175-43.006879-2.25516-46.390629-27.94141-.3125-2.25625-.46875-4.66938-.46875-7.20313 0 0 20.536953 5.0204 46.564449 6.21289 15.915.73001 30.8393-.93343 45.99805-2.74218 29.07-3.47125 54.38125-21.3818 57.5625-37.74805 5.0125-25.78125 4.59961-62.916015 4.59961-62.916015 0-50.33-32.97461-65.082031-32.97461-65.082031C166.80539 3.4535938 138.255.2425 108.59375 0h-.72852zM74.296875 39.326172c12.355 0 21.710234 4.749297 27.896485 14.248047l6.01367 10.080078 6.01563-10.080078c6.185-9.49875 15.54023-14.248047 27.89648-14.248047 10.6775 0 19.28156 3.753672 25.85156 11.076172 6.36875 7.3225 9.53907 17.218828 9.53907 29.673828v60.941408h-24.14454V81.869141c0-12.46875-5.24453-18.798829-15.73828-18.798829-11.6025 0-17.41797 7.508516-17.41797 22.353516v32.375002H96.207031V85.423828c0-14.845-5.815468-22.353515-17.417969-22.353516-10.49375 0-15.740234 6.330079-15.740234 18.798829v59.148439H38.904297V80.076172c0-12.455 3.171016-22.351328 9.541015-29.673828 6.568751-7.3225 15.172813-11.076172 25.851563-11.076172z" fill="#fff"/></svg>
+</a>
+                <a class="social-link social-link-gh" href="https://github.com/flosoft" target="_blank" rel="noopener"><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M896 128q209 0 385.5 103t279.5 279.5 103 385.5q0 251-146.5 451.5t-378.5 277.5q-27 5-40-7t-13-30q0-3 .5-76.5t.5-134.5q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-119-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-85-13.5q-45 113-8 204-79 87-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-39 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 88.5t.5 54.5q0 18-13 30t-40 7q-232-77-378.5-277.5t-146.5-451.5q0-209 103-385.5t279.5-279.5 385.5-103zm-477 1103q3-7-7-12-10-3-13 2-3 7 7 12 9 6 13-2zm31 34q7-5-2-16-10-9-16-3-7 5 2 16 10 10 16 3zm30 45q9-7 0-19-8-13-17-6-9 5 0 18t17 7zm42 42q8-8-4-19-12-12-20-3-9 8 4 19 12 12 20 3zm57 25q3-11-13-16-15-4-19 7t13 15q15 6 19-6zm63 5q0-13-17-11-16 0-16 11 0 13 17 11 16 0 16-11zm58-10q-2-11-18-9-16 3-14 15t18 8 14-14z" fill="#fff"/></svg>
+</a>
+                <a class="social-link social-link-lk" href="https://www.linkedin.com/in/fjensen/" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+</a>
+                <a class="social-link social-link-is" href="https://www.instagram.com/flosoft/" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+</a>
+            </div>
+
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+    </div>
+</nav>
+    </div>
+</div></header>
+
+<main id="site-main" class="site-main outer error-content">
+    <div class="inner">
+        <section class="error-message">
+            <h1 class="error-code">404</h1>
+            <p class="error-description">Page not found</p>
+            <a class="error-link" href="https://florianjensen.com">Go to the front page →</a>
+        </section>
+
+            <div class="post-feed">
+                <article class="post-card post tag-tesla tag-docker tag-linux tag-networking ">
+
+    <a class="post-card-image-link" href="/2022/08/20/sharing-your-eta-with-teslaeta/">
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/08/TeslaETA-map.png 300w,
+                    /content/images/size/w600/2022/08/TeslaETA-map.png 600w,
+                    /content/images/size/w1000/2022/08/TeslaETA-map.png 1000w,
+                    /content/images/size/w2000/2022/08/TeslaETA-map.png 2000w"
+            sizes="(max-width: 1000px) 400px, 700px"
+            loading="lazy"
+            src="/content/images/size/w600/2022/08/TeslaETA-map.png"
+            alt="Sharing your ETA with TeslaETA"
+        />
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/2022/08/20/sharing-your-eta-with-teslaeta/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">Tesla</div>
+                <h2 class="post-card-title">Sharing your ETA with TeslaETA</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>A quick guide on how to run TeslaETA to share your ETA with your friends, leveraging TeslaLogger.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+            
+                    <div class="author-name-tooltip">
+                        Florian Jensen
+                    </div>
+            
+                    <a href="/author/florian/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2019/03/avatar-1.jpg" alt="Florian Jensen" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/florian/">Florian Jensen</a></span>
+                <span class="post-card-byline-date"><time datetime="2022-08-20">20 Aug 2022</time> <span class="bull">&bull;</span> 2 min read</span>
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+                <article class="post-card post tag-linux tag-docker tag-tech tag-tesla tag-networking tag-ssl ">
+
+    <a class="post-card-image-link" href="/2022/08/20/teslalogger-in-the-cloud/">
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/08/verbrauch_en.png 300w,
+                    /content/images/size/w600/2022/08/verbrauch_en.png 600w,
+                    /content/images/size/w1000/2022/08/verbrauch_en.png 1000w,
+                    /content/images/size/w2000/2022/08/verbrauch_en.png 2000w"
+            sizes="(max-width: 1000px) 400px, 700px"
+            loading="lazy"
+            src="/content/images/size/w600/2022/08/verbrauch_en.png"
+            alt="TeslaLogger in the Cloud"
+        />
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/2022/08/20/teslalogger-in-the-cloud/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">Linux</div>
+                <h2 class="post-card-title">TeslaLogger in the Cloud</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>A guide on how to run TeslaLogger in the Cloud using Traefik 2 as frontend server with IPv6 as a bonus - all on Docker.</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+            
+                    <div class="author-name-tooltip">
+                        Florian Jensen
+                    </div>
+            
+                    <a href="/author/florian/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2019/03/avatar-1.jpg" alt="Florian Jensen" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/florian/">Florian Jensen</a></span>
+                <span class="post-card-byline-date"><time datetime="2022-08-20">20 Aug 2022</time> <span class="bull">&bull;</span> 8 min read</span>
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+                <article class="post-card post tag-tinc tag-tech tag-linux tag-vpn featured ">
+
+    <a class="post-card-image-link" href="/2022/08/18/tinc-mesh-vpn-on-ubuntu-22-04-lts/">
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/08/uriel-sc-11KDtiUWRq4-unsplash.jpg 300w,
+                    /content/images/size/w600/2022/08/uriel-sc-11KDtiUWRq4-unsplash.jpg 600w,
+                    /content/images/size/w1000/2022/08/uriel-sc-11KDtiUWRq4-unsplash.jpg 1000w,
+                    /content/images/size/w2000/2022/08/uriel-sc-11KDtiUWRq4-unsplash.jpg 2000w"
+            sizes="(max-width: 1000px) 400px, 700px"
+            loading="lazy"
+            src="/content/images/size/w600/2022/08/uriel-sc-11KDtiUWRq4-unsplash.jpg"
+            alt="tinc 1.1 on Ubuntu 22.04 LTS (incl. ARM64)"
+        />
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/2022/08/18/tinc-mesh-vpn-on-ubuntu-22-04-lts/">
+
+            <header class="post-card-header">
+                    <div class="post-card-primary-tag">tinc</div>
+                <h2 class="post-card-title">tinc 1.1 on Ubuntu 22.04 LTS (incl. ARM64)</h2>
+            </header>
+
+            <section class="post-card-excerpt">
+                    <p>As you may have noticed, I'm a huge fan of tinc. I've been running it for over a decade on my networks between my servers and my routers. However, as</p>
+            </section>
+
+        </a>
+
+        <footer class="post-card-meta">
+            <ul class="author-list">
+                <li class="author-list-item">
+            
+                    <div class="author-name-tooltip">
+                        Florian Jensen
+                    </div>
+            
+                    <a href="/author/florian/" class="static-avatar">
+                        <img class="author-profile-image" src="/content/images/size/w100/2019/03/avatar-1.jpg" alt="Florian Jensen" />
+                    </a>
+                </li>
+            </ul>
+            <div class="post-card-byline-content">
+                <span><a href="/author/florian/">Florian Jensen</a></span>
+                <span class="post-card-byline-date"><time datetime="2022-08-18">18 Aug 2022</time> <span class="bull">&bull;</span> 2 min read</span>
+            </div>
+        </footer>
+
+    </div>
+
+</article>
+            </div>
+    </div>
+</main>
+
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="https://florianjensen.com">Florian Jensen&#x27;s Blog</a> &copy; 2022</section>
+                <nav class="site-footer-nav">
+                    <a href="https://florianjensen.com">Latest Posts</a>
+                    <a href="https://www.facebook.com/florian.jensen" target="_blank" rel="noopener">Facebook</a>
+                    
+                    <a href="https://ghost.org/" target="_blank" rel="noopener">Ghost</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <div class="subscribe-notification subscribe-success-message">
+        <a class="subscribe-close-button" href="javascript:;"></a>
+        You've successfully subscribed to Florian Jensen&#x27;s Blog!
+    </div>
+    <div class="subscribe-notification subscribe-failure-message">
+        <a class="subscribe-close-button" href="javascript:;"></a>
+        Could not sign up! Invalid sign up link.
+    </div>
+
+    <div id="subscribe" class="subscribe-overlay">
+        <a class="subscribe-close-overlay" href="#"></a>
+        <a class="subscribe-close-button" href="#"></a>
+        <div class="subscribe-overlay-content">
+                <img class="subscribe-overlay-logo" src="https://florianjensen.com/content/images/2019/08/logo.png" alt="Florian Jensen&#x27;s Blog" />
+            <div class="subscribe-form">
+                <h1 class="subscribe-overlay-title">Subscribe to Florian Jensen&#x27;s Blog</h1>
+                <p class="subscribe-overlay-description">Stay up to date! Get all the latest & greatest posts delivered straight to your inbox</p>
+                <form data-members-form="subscribe">
+                    <div class="form-group">
+                        <input class="subscribe-email" data-members-email placeholder="youremail@example.com"
+                            autocomplete="false" />
+                        <button class="button primary" type="submit">
+                            <span class="button-content">Subscribe</span>
+                            <span class="button-loader"><svg version="1.1" id="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+    y="0px" width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+    <path opacity="0.2" fill="#000" d="M20.201,5.169c-8.254,0-14.946,6.692-14.946,14.946c0,8.255,6.692,14.946,14.946,14.946
+s14.946-6.691,14.946-14.946C35.146,11.861,28.455,5.169,20.201,5.169z M20.201,31.749c-6.425,0-11.634-5.208-11.634-11.634
+c0-6.425,5.209-11.634,11.634-11.634c6.425,0,11.633,5.209,11.633,11.634C31.834,26.541,26.626,31.749,20.201,31.749z" />
+    <path fill="#000" d="M26.013,10.047l1.654-2.866c-2.198-1.272-4.743-2.012-7.466-2.012h0v3.312h0
+C22.32,8.481,24.301,9.057,26.013,10.047z">
+        <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 20 20" to="360 20 20"
+            dur="0.5s" repeatCount="indefinite" />
+    </path>
+</svg></span>
+                        </button>
+                    </div>
+                    <div class="message-success">
+                        <strong>Great!</strong> Check your inbox and click the link to confirm your subscription.
+                    </div>
+                    <div class="message-error">
+                        Please enter a valid email address!
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script
+        src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        crossorigin="anonymous">
+    </script>
+    <script src="/assets/built/casper.js?v=294cf535d4"></script>
+
+    <script>
+        // Parse the URL parameter
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+        // Give the parameter a variable name
+        var action = getParameterByName('action');
+        var success = getParameterByName('success');
+
+        $(document).ready(function () {
+            if (action == 'subscribe' && (success === null || success === 'true')) {
+                $('body').addClass('subscribe-success');
+            }
+
+            if (action == 'subscribe' && success === 'false') {
+                $('body').addClass('subscribe-failure');
+            }
+
+            $('.subscribe-notification .subscribe-close-button').click(function () {
+                $('.subscribe-notification').addClass('close');
+            });
+
+            // Reset form on opening subscrion overlay
+            $('.subscribe-button').click(function() {
+                $('.subscribe-overlay form').removeClass();
+                $('.subscribe-email').val('');
+            });
+        });
+    </script>
+
+    
+
+    <script src="/assets/js/prism.js"></script>
+<script src="https://talk.florianjensen.com/assets/js/embed.js" async onload="
+var articles = document.getElementsByClassName('post-full post');
+  if (articles.length === 1) {
+    var coral = document.createElement('div');
+    coral.setAttribute('id', 'coral_thread');
+    articles[0].appendChild(coral);
+    
+    document.getElementById('coral_thread').appendChild(
+        Coral.createStreamEmbed({
+            id: 'coral_thread',
+            autoRender: true,
+            rootURL: 'https://talk.florianjensen.com',
+            // Uncomment these lines and replace with the ID of the
+            // story's ID and URL from your CMS to provide the
+            // tightest integration. Refer to our documentation at
+            // https://docs.coralproject.net for all the configuration
+            // options.
+            // storyID: '{{id}}',
+            // storyURL: '{{url}}',
+        }))
+  }
+  
+  
+"></script>
+
+</body>
+</html>
+
+0
+

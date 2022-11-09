@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.critzo.xyz; img-src 'self' https: data: blob: https://social.critzo.xyz; style-src 'self' https://social.critzo.xyz 'nonce-eR6EIcSHBItFu+ZyLomnVA=='; media-src 'self' https: data: https://social.critzo.xyz; frame-src 'self' https:; manifest-src 'self' https://social.critzo.xyz; connect-src 'self' data: blob: https://social.critzo.xyz https://social.critzo.xyz wss://social.critzo.xyz; script-src 'self' https://social.critzo.xyz; child-src 'self' blob: https://social.critzo.xyz; worker-src 'self' blob: https://social.critzo.xyz
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:09 GMT
+Etag: W/"db10fe0760898b8a5c6f54428565e62f"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.875208Z
+X-Request-Id: efab3657-70b0-4ded-bbf4-ca8687f2e0d6
+X-Runtime: 0.015792
+X-Xss-Protection: 1; mode=block
+
+2bc
+["someone.elses.computer","scholar.social","social.coop","mastodon.mit.edu","social.blogsofwar.com","mastodon.technology","awscommunity.social","mstdn.io","mas.to","todon.eu","fosstodon.org","fedi.lowpassfilter.link","port87.social","cheeseburger.social","eeeeeeeee.eu","pleroma.1d4.us","anonsys.net","commiespace.duckdns.org","floss.social","wake.st","mastodon.lol","social.fellr.net","sfba.social","octodon.social","sueden.social","glasgow.social","mastodon.bida.im","1210.nl","writing.exchange","mastodon.online","eldritch.cafe","social.tchncs.de","mamot.fr","mstdn.social","aana.site","glitterkitten.co.uk","mastodon.art","mastodon.ar.al","infosec.exchange","cybervillains.com","mastodon.social"]
+0
+

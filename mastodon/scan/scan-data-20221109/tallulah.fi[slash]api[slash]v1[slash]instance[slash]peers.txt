@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://tallulah.fi; img-src 'self' https: data: blob: https://tallulah.fi; style-src 'self' https://tallulah.fi 'nonce-hIw0Y47VkU/YY21XsFgj3A=='; media-src 'self' https: data: https://tallulah.fi; frame-src 'self' https:; manifest-src 'self' https://tallulah.fi; connect-src 'self' data: blob: https://tallulah.fi https://tallulah.fi wss://tallulah.fi; script-src 'self' https://tallulah.fi; child-src 'self' blob: https://tallulah.fi; worker-src 'self' blob: https://tallulah.fi
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:28 GMT
+Etag: W/"55c4233df390819d274896a8333bc0b2"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.655937Z
+X-Request-Id: 65a7ea44-90cf-4427-9b60-4c30b3577dde
+X-Runtime: 0.017093
+X-Xss-Protection: 0
+
+b4
+["cybre.town","cysioland.pl","social.tulsa.ok.us","kamu.social","vmst.io","masto.henkkalaukka.fi","botsin.space","mstdn.husku.net","mastodon.ie","mastodon.social","mastodontti.fi"]
+0
+

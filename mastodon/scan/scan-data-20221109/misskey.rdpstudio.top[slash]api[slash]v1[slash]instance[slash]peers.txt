@@ -1,0 +1,26 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d79ffbeb9a1-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:13:03 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YjLVgVLQwyGyc65p4fFVCI%2F5iYYts%2FNqbbam3%2BH2fHfnyvau6LAQomdYK6Sod6Dzn%2BwRMs1hTtFhHykhsNA%2FoLikxScCoxg%2FPRpOM8aaFlSzK4VZCqaJghv%2B3GIQaSqLIEhd0bck694%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=0
+
+700
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.Server unable to read htaccess file, denying access to be safe</p>
+<hr>
+<address>Apache Server at misskey.rdpstudio.top Port 80</address>
+<script>(function(){var js = "window['__CF$cv$params']={r:'76777d79ffbeb9a1',m:'uluUHtQPczZiJUazhPvzSMZi4ayPIiSqAkPAx1rgQXo-1668006783-0-ASdSfLgbaV89N5Pmp5/ukqW1oyhkvhwVck2W4R5Jj0lKHAIg5w+x0NadMkMC4URfnLfCFl4UGGosrfcJMWH6XXZrsH11mbhFisejaKdPg+ulZfUlgpwa1ptPyJTOsrwWf3Rn/sp1RqlC0cpHdXVq4wA=',s:[0xd966432c86,0xf1819673d3],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body></html>
+
+0
+

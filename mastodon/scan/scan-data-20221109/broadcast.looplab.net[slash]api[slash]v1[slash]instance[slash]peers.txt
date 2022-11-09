@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://broadcast.looplab.net; img-src 'self' https: data: blob: https://broadcast.looplab.net; style-src 'self' https://broadcast.looplab.net 'nonce-8z8OV9CDGBqfLKrU13K5TA=='; media-src 'self' https: data: https://broadcast.looplab.net; frame-src 'self' https:; manifest-src 'self' https://broadcast.looplab.net; connect-src 'self' data: blob: https://broadcast.looplab.net https://broadcast.looplab.net wss://broadcast.looplab.net; script-src 'self' https://broadcast.looplab.net; child-src 'self' blob: https://broadcast.looplab.net; worker-src 'self' blob: https://broadcast.looplab.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.252715Z
+X-Request-Id: 4b4c5644-ee79-42a3-9623-472867a1e283
+X-Runtime: 0.015994
+X-Xss-Protection: 0
+
+0
+

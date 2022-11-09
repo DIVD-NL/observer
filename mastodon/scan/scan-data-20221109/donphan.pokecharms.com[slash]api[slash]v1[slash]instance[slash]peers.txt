@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://donphan.pokecharms.com; img-src 'self' https: data: blob: https://donphan.pokecharms.com; style-src 'self' https://donphan.pokecharms.com 'nonce-l9hrOFqEsdoEpPQRNdTEAQ=='; media-src 'self' https: data: https://donphan.pokecharms.com; frame-src 'self' https:; manifest-src 'self' https://donphan.pokecharms.com; connect-src 'self' data: blob: https://donphan.pokecharms.com https://cdn.masto.host wss://donphan.pokecharms.com; script-src 'self' https://donphan.pokecharms.com; child-src 'self' blob: https://donphan.pokecharms.com; worker-src 'self' blob: https://donphan.pokecharms.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:42 GMT
+Etag: W/"ab90594fc351df90bd83a5754fe76223"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.514381Z
+X-Request-Id: f6e205cb-5bf4-4b8f-a510-15c9f88f7aae
+X-Runtime: 0.004566
+X-Xss-Protection: 0
+
+19d
+["sfba.social","kcmo.social","genomic.social","data-folks.masto.host","a.gup.pe","yharnam.singles","m.beiting.org","mastodon.ar.al","social.spacebear.ee","mastodon.pirateparty.be","toot.cafe","social.lol","infosec.exchange","social.juanlu.space","mastodon.gamedev.place","octodon.social","mastodon.online","simonwillison.net","mastodon.nl","mastodonapp.uk","postpandemicparty.org","mastodon.social","ruby.social"]
+0
+

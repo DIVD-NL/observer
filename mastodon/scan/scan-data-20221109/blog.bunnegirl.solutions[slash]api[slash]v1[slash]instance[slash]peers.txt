@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:10 GMT
+Etag: W/"62c6ac38-157"
+Server: nginx
+Vary: Accept-Encoding
+
+157
+<!DOCTYPE html>
+<html>
+    <iframe src="https://cloudways-static-content.s3.us-east-1.amazonaws.com/error_page/maintenance-domain-mapping.html" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+</html>
+0
+

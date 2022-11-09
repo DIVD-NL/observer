@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777a9f9f44b9bd-BRU
+Date: Wed, 09 Nov 2022 15:11:06 GMT
+Location: https://computerclub.online/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lEb1ZZ0F2PQyzkQZx4MXTo8u02pxVtcJ%2BC4abYGZCd0WAa1pl72N1QD9uPstwr5AFWkbB902gjIy3Fsw0dgnaxDzroYGa5Q%2F1DEAJYSicYjjXu0BWNAtrtkGpJWJ5WbHMHL%2BfmR5z1TIIH673OFS"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=0
+X-Contextid: XEslnpQE/GACwGZal
+Content-Length: 0
+

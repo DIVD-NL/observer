@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://mastodon.lrdf.fr; font-src 'self' https://mastodon.lrdf.fr; img-src 'self' data: blob: https://mastodon.lrdf.fr; style-src 'self' https://mastodon.lrdf.fr 'nonce-ARp3jT1LsLgaoPULBBhTGg=='; media-src 'self' data: https://mastodon.lrdf.fr; frame-src 'self' https:; child-src 'self' blob: https://mastodon.lrdf.fr; worker-src 'self' blob: https://mastodon.lrdf.fr; connect-src 'self' blob: data: wss://mastodon.lrdf.fr https://mastodon.lrdf.fr; manifest-src 'self' https://mastodon.lrdf.fr
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:47 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.492825Z
+X-Request-Id: 3a1a1b1d-7c0d-4b2c-895b-e83f2a16d828
+X-Runtime: 0.031230
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,34 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778ba44bbc83db-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:45 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jsJi2pXxbdczDjdqkXsGsA9WPyOIdBfCWhmhtoaQPzprTPRkJr%2B17T4pQUj1WVb4LLTSr4v4N3ZZ3pO%2FUMB46%2FT8eYKAljXZk%2FbRy8Yd4XrskrrcMNSNB4iFlCtizrbQaID9FfUjYm8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.0000005507609e-06
+Vary: Accept-Encoding,User-Agent
+X-Powered-By: PHP/7.4.33
+X-Turbo-Charged-By: LiteSpeed
+
+585
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<head>
+<title>HTTP Error 403</title>
+</head>
+<body>
+<h1>Error 403</h1>
+<p>We're sorry, but we could not fulfill your request for
+/api/v1/instance/peers on this server.</p>
+<p>An invalid request was received from your browser. This may be caused by a malfunctioning proxy server or browser privacy software.</p>
+<p>Your technical support key is: <strong>c169-49b0-1756-6707</strong></p>
+<p>You can use this key to <a href="https://www.ioerror.us/bb2-support-key?key=c169-49b0-1756-6707">fix this problem yourself</a>.</p>
+<p>If you are unable to fix the problem yourself, please contact <a href="/cdn-cgi/l/email-protection#c1a8afa7aeeaafaeb2b1a0ac81afaeb2b1a0acefb1a4b5b3a8aaa0aba0afa5a4b3efa2aeac">info at petrikajander.com</a> and be sure to provide the technical support key shown above.</p>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"76778ba44bbc83db","version":"2022.11.0","r":1,"token":"4c4faa4a8bcf4a2ba7e915a56c7b4d6a","si":100}' crossorigin="anonymous"></script>
+
+0
+

@@ -1,0 +1,15 @@
+HTTP/1.0 404 Not Found
+Cache-Control: no-store, no-cache, must-revalidate
+Connection: Upgrade, close
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:09:19 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=8b13f473c7757a6ddb2ebdd1db46856e; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=600000
+Strict-Transport-Security: max-age=15768000
+Upgrade: h2,h2c
+Vary: User-Agent
+
+{"error":"not implemented"}

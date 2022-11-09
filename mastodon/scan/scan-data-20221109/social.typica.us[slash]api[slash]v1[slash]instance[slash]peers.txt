@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.typica.us; img-src 'self' https: data: blob: https://social.typica.us; style-src 'self' https://social.typica.us 'nonce-GNWl6MSekW3IlNYFcYTvvg=='; media-src 'self' https: data: https://social.typica.us; frame-src 'self' https:; manifest-src 'self' https://social.typica.us; connect-src 'self' data: blob: https://social.typica.us https://social.typica.us wss://social.typica.us; script-src 'self' https://social.typica.us; child-src 'self' blob: https://social.typica.us; worker-src 'self' blob: https://social.typica.us
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:51 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.354475Z
+X-Request-Id: 03c9b8c3-ec14-470b-8ec6-2ea469977c97
+X-Runtime: 0.006965
+X-Xss-Protection: 0
+
+0
+

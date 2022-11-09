@@ -1,0 +1,34 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 754
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:16:09 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: PHPSESSID=cnsf0lfnjca71fql32lg7g3ua2; path=/; secure; HttpOnly; SameSite=Lax
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>    <title>
+		Error    </title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon"/><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+
+	
+	<link rel="stylesheet" href="/css/normalize.min.css"/>
+	<link rel="stylesheet" href="/css/milligram.min.css"/>
+	<link rel="stylesheet" href="/css/cake.css"/>
+
+			</head>
+<body>
+<div class="error-container">
+		<h2>Not Found</h2>
+<p class="error">
+    <strong>Error: </strong>
+    The requested address <strong>'/api/v1/instance/peers'</strong> was not found on this server.</p>
+	<a href="javascript:history.back()">Zpět</a></div>
+</body>
+</html>

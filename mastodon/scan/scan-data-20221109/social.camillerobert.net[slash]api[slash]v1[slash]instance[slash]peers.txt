@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:18:00 GMT
+Server: Apache
+Strict-Transport-Security: max-age=16000000
+Upgrade: h2
+Vary: Accept-Encoding
+
+24f
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/clients/0eb6351dc10d02f9ba205e36212cfe14/web/camillerobert.net/social/boot.php:515
+Stack trace:
+#0 /home/clients/0eb6351dc10d02f9ba205e36212cfe14/web/camillerobert.net/social/src/App.php(184): startup()
+#1 /home/clients/0eb6351dc10d02f9ba205e36212cfe14/web/camillerobert.net/social/index.php(27): Friendica\App-&gt;__construct('/home/clients/0...')
+#2 {main}
+  thrown in <b>/home/clients/0eb6351dc10d02f9ba205e36212cfe14/web/camillerobert.net/social/boot.php</b> on line <b>515</b><br />
+
+0
+

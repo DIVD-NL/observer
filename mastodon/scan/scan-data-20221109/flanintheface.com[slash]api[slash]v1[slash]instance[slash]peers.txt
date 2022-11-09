@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://flanintheface.com; img-src 'self' https: data: blob: https://flanintheface.com; style-src 'self' https://flanintheface.com 'nonce-vMop1Gz0VYevD9CoYwxgrg=='; media-src 'self' https: data: https://flanintheface.com; frame-src 'self' https:; manifest-src 'self' https://flanintheface.com; connect-src 'self' data: blob: https://flanintheface.com https://cdn.masto.host wss://flanintheface.com; script-src 'self' https://flanintheface.com; child-src 'self' blob: https://flanintheface.com; worker-src 'self' blob: https://flanintheface.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:07 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.053343Z
+X-Request-Id: 23e9aea5-7dba-46c8-851b-bd338649da7c
+X-Runtime: 0.006079
+X-Xss-Protection: 0
+
+0
+

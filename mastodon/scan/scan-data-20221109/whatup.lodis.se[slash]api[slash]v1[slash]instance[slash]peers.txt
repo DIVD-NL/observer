@@ -1,0 +1,13 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:18 GMT
+Server: nginx/1.16.1
+X-Request-Id: FyXz1irgX7b6jMcABveh
+
+{"errors":[{"message":"No query document supplied"}]}

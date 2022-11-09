@@ -1,0 +1,21 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors 'none' ;frame-src 'none' ;font-src 'self' ;media-src 'self' ;img-src 'self' data: blob: *.tile.openstreetmap.org ;connect-src 'self' * blob: https://mobilizon.extinctionrebellion.fr wss://mobilizon.extinctionrebellion.fr ;style-src 'self' ;script-src 'self' 'unsafe-eval' 'sha256-4RS22DYeB7U14dra4KcQYxmwt5HkOInieXK1NUMBmQI=' ;default-src 'none';base-uri 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:13 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Referrer-Policy: same-origin
+Server: Cowboy
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: FyXzV5hYZ-p_TOEAOzrh
+X-Robots-Tag: none
+X-Xss-Protection: 0
+
+{"errors":[{"message":"No query document supplied"}]}

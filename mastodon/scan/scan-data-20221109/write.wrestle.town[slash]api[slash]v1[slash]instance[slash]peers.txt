@@ -1,0 +1,14 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 182
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:27 GMT
+Server: nginx/1.14.0 (Ubuntu)
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>

@@ -1,0 +1,93 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Age: 1
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:59 GMT
+Etag: 1639672365-ssl-df
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Nf-Request-Id: 01GHEF1P7ZM77TCYX9BXTQM75Z
+
+e48
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8"> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oops, page not found! | Lewis Dale</title>
+
+        <meta name="author" content="Lewis Dale" /> 
+        <meta name="description" content="You&#39;ve tried to access a page that does not exist" />
+        <meta name="generator" content="Eleventy" />
+
+        <meta property="og:title" content="Oops, page not found! | Lewis Dale—lewisdale.dev" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="lewisdale.dev" />
+		<meta property="og:description" content="You&#39;ve tried to access a page that does not exist, a post by Lewis Dale" />
+		<meta property="og:image" content="https://screenshots.lewisdale.dev/https%3A%2F%2Flewisdale.dev%2F404.html%2Fog-image.html/opengraph" />
+		<meta property="og:url" content="https://lewisdale.dev/404.html" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@lewisdaleuk" />
+		<meta name="twitter:image" content="https://screenshots.lewisdale.dev/https%3A%2F%2Flewisdale.dev%2F404.html%2Fog-image.html/opengraph" />
+
+        <link rel="stylesheet" type="text/css" href="/styles/globals.css" />
+        <link rel="stylesheet" type="text/css" href="/styles/cube.css" />
+        <link rel="alternate" type="application/rss+xml" 
+            title="RSS Feed for lewisdale.dev/blog" 
+            href="/blog/feed.xml" />
+        
+    </head>
+    <body class="flow">            
+        <header class="flow text-center pt-size-1">
+            <a href="/" class="heading inline spooky:hidden mx-auto py-size-1">lewisdale.<span class="lower">dev</span></a>
+            <a href="/" class="heading hidden spooky:block spooky:text-size-4 mx-auto mt-none">Boo-isdale.<span class="lower">dev</span></a>
+
+            <fieldset id="scheme-switcher" class="mx-auto max-w-fit row">
+                <legend>
+                    Colour scheme
+                </legend>
+                <label for="light">
+                    <input type="radio" name="mode" id="light" value="light">
+                    Light
+                </label>
+
+                <label for="dark">
+                    <input type="radio" name="mode" id="dark" value="dark">
+                    Dark
+                </label>
+
+                
+            </fieldset>
+            <nav class="wrapper-md">
+                <ul class="row font-semibold spooky:text-size-1" data-grid-cols="5">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/reading-list">Reading list</a></li>
+                    <li><a rel="me" href="https://dapchat.online/@lewisdaleuk">Mastodon</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="stack wrapper p-size-0">
+            
+<div class="flow region centered">
+<h1>Oops!</h1>
+
+<img class="max-w-90" src="/img/confused-john-travolta.gif" alt="Animated GIF of the meme of John Travolta looking around confused" />
+
+<p class="text-2xl margin-auto">It looks like the page you were looking for doesn't exist. You might want to try <a href="/blog">the blog</a>, <a href="/reading-list">my reading list</a>, or <a href="/">the home page</a>.</p>
+        </main>
+        
+        <script type="text/javascript" src="/js/scheme-switcher.js" defer></script>
+        <footer class="text-center my-size-3">
+            Copyright &copy; 2022 Lewis Dale
+        </footer>
+    </body>
+</html>
+
+0
+

@@ -1,0 +1,19 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:22 GMT
+Server: nginx
+Tk: N
+X-Frame-Options: ALLOWALL
+X-Powered-By: Express
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668007293
+X-Sso-Wat: You've just been SSOed
+
+0
+

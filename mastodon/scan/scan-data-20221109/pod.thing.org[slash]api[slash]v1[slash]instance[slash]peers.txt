@@ -1,0 +1,47 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:16:31 GMT
+Server: Apache/2.4.38 (Debian)
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Via: 1.1 pod.thing.org
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: sameorigin
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 9c92dd60-ed45-4865-bc3e-2a1020e78272
+X-Runtime: 0.006745
+X-Xss-Protection: 1; mode=block
+
+2ea
+<!DOCTYPE html>
+<html>
+<head>
+<title>The page you were looking for doesn't exist (404)
+</title>
+<meta charset='utf-8'>
+<link href='/assets/favicon-e2960af7cc57eb324213b3a590bb2842fd9bb010a9aecf68c5133993a53e93fe.png' rel='shortcut icon'>
+<link href='/assets/apple-touch-icon-c88af90ee9657791102c49a5a66f106589803ec9ceef6b9ed9244f344a3c4f91.png' rel='apple-touch-icon'>
+<link rel="stylesheet" media="all" href="/assets/error_pages-48909d2cf5935a96714f5ecdfe1fe39c726a717078b824c9cf1a0bbdc8660139.css" />
+
+</head>
+<body class='error-404' id='error_404'>
+<div class='transparent big-number'>
+404
+</div>
+<h3>
+These are not the kittens you're looking for. Move along.
+</h3>
+
+<p>
+<a href='javascript:history.back()'>
+Go Back?
+</a>
+</p>
+</body>
+</html>
+
+0
+

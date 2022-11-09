@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 288
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:15:00 GMT
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: RZGSMOC_ROUTEID=.abic00; path=/
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 0
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.54 (Debian) Server at abicloud00.rzgierskopp.de Port 443</address>
+</body></html>

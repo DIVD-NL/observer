@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 215
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:16:42 GMT
+Location: https://error.princesa.company/
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://error.princesa.company/">here</a>.</p>
+</body></html>

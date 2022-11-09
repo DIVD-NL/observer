@@ -1,0 +1,1167 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:35 GMT
+Display: staticcontent_sol, orig_site_sol
+Expires: Tue, 08 Nov 2022 15:22:37 UTC
+Link: <https://www.francemediasnumerique.net/wp-json/>; rel="https://api.w.org/"
+Pagespeed: off
+Pragma: no-cache
+Server: Apache/2.4.53 (Debian)
+Set-Cookie: PHPSESSID=cg3qq8dm9fe2q90edfgddbaq4c; path=/
+Vary: Accept-Encoding,Origin
+X-Middleton-Display: staticcontent_sol, orig_site_sol
+X-Sol: orig
+
+23351
+<!doctype html>
+<html dir="ltr" lang="fr-FR"
+	prefix="og: https://ogp.me/ns#" >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Page non trouvée &#8211; France Medias Numerique</title>
+
+        <script>
+        window.onload = () => {
+            if(document.getElementById(`jitwp_shortcode`)){
+                const roomName = document.getElementById(`jitwp_shortcode`).getAttribute(`roomname`) ;
+                const jwt = document.getElementById(`jitwp_shortcode`).getAttribute(`jwt`);
+                const width = document.getElementById(`jitwp_shortcode`).getAttribute(`width`) || `800px`;
+                const height = document.getElementById(`jitwp_shortcode`).getAttribute(`height`) || `600px`;
+                const userName = document.getElementById(`jitwp_shortcode`).getAttribute(`username`);
+                const userEmail = document.getElementById(`jitwp_shortcode`).getAttribute(`useremail`);
+                const domain = `jitsi2.rteamwins.biz/`;
+                let options = {};
+
+                roomName ? options.roomName = roomName : null;
+                width ? options.width = width : null;
+                height ? options.height = height : null;
+                jwt ? options.jwt = jwt : null;
+                userName || userEmail ? options.userInfo = {} : null;
+                //Below doesn't work - https://github.com/jitsi/jitsi-meet/issues/5018
+                userName ? options.userInfo.displayName = userName : null;
+                userEmail ? options.userInfo.email = userEmail : null;
+                
+                options.parentNode = document.getElementById(`jitwp_shortcode`)
+
+                const api = new JitsiMeetExternalAPI(domain, options);
+                //Quick Fix - https://github.com/jitsi/jitsi-meet/issues/5018
+                userName ? api.executeCommand (`displayName`, userName) : null;
+                console.log(options);
+            }
+        }
+        </script> 
+        		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:11.111111111111% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}		</style>
+		
+		<!-- All in One SEO 4.2.6.1 - aioseo.com -->
+		<meta name="robots" content="noindex" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.2.6.1 " />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.francemediasnumerique.net\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.francemediasnumerique.net\/","name":"Accueil","description":"L' info pas comme les autres !","url":"https:\/\/www.francemediasnumerique.net\/"},"nextItem":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/","name":"Not Found","url":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/"},"previousItem":"https:\/\/www.francemediasnumerique.net\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.francemediasnumerique.net\/#organization","name":"France Medias Numerique","url":"https:\/\/www.francemediasnumerique.net\/"},{"@type":"WebPage","@id":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/#webpage","url":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/","inLanguage":"fr-FR","isPartOf":{"@id":"https:\/\/www.francemediasnumerique.net\/#website"},"breadcrumb":{"@id":"https:\/\/www.francemediasnumerique.net\/api\/v1\/instance\/peers\/#breadcrumblist"}},{"@type":"WebSite","@id":"https:\/\/www.francemediasnumerique.net\/#website","url":"https:\/\/www.francemediasnumerique.net\/","name":"France Medias Numerique","description":"L' info pas comme les autres !","inLanguage":"fr-FR","publisher":{"@id":"https:\/\/www.francemediasnumerique.net\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+
+<!-- Open Graph Meta Tags generated by Blog2Social 699 - https://www.blog2social.com -->
+<meta property="og:title" content="France Medias Numerique"/>
+<meta property="og:description" content="L&#039; info pas comme les autres !"/>
+<meta property="og:url" content="https://www.francemediasnumerique.net/api/v1/instance/peers"/>
+<meta property="og:type" content="website"/>
+<!-- Open Graph Meta Tags generated by Blog2Social 699 - https://www.blog2social.com -->
+
+<!-- Twitter Card generated by Blog2Social 699 - https://www.blog2social.com -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="France Medias Numerique"/>
+<meta name="twitter:description" content="L&#039; info pas comme les autres !"/>
+<!-- Twitter Card generated by Blog2Social 699 - https://www.blog2social.com -->
+<link rel='dns-prefetch' href='//client.crisp.chat' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//jitsi2.rteamwins.biz' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.francemediasnumerique.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.francemediasnumerique.net/wp-includes/css/dist/block-library/style.min.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.1' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.francemediasnumerique.net/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='peepso-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/templates/css/template.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-icons-new-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/icons.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-backend-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/backend.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-new-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/frontend-comp.css?ver=5.3.0.0' media='all' />
+<style id='peepso-new-inline-css'>
+
+            @media screen and (min-width: 980px) {
+                .ps-navbar__menu-item {
+                    position: relative;
+                }
+            }
+            html[dir=rtl] .ps-notif__box {
+                left: 0;
+                right: auto;
+            }
+        
+</style>
+<link rel='stylesheet' id='peepsoreactions-dynamic-css' href='https://www.francemediasnumerique.net/wp-content/peepso/plugins/foundation/reactions-1645474216.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-blogposts-dynamic-css' href='https://www.francemediasnumerique.net/wp-content/peepso/plugins/foundation/blogposts-1645474216.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-markdown-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/markdown/markdown.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.francemediasnumerique.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' media='all' />
+<link rel='stylesheet' id='events-manager-css' href='https://www.francemediasnumerique.net/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.1.4' media='all' />
+<style id='events-manager-inline-css'>
+body .em { --font-family : inherit; --font-weight : inherit; --font-size : 1em; --line-height : inherit; }
+</style>
+<link rel='stylesheet' id='google-language-translator-css' href='https://www.francemediasnumerique.net/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.15' media='' />
+<link rel='stylesheet' id='isf_style-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/social_follow/files/css/style-frond_end.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='isf_pack_social_follow-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/social_follow/files/css/pack_social_follow.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_font-awesome-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/font-awesome.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_socicon-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/socicon.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_style-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/style-front_end.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_templates-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/templates.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_show_effects_css-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/animate.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='ism_ns_theme_pack-css' href='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/css/news-letter-themes-style.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='newsletter-font-css' href='https://fonts.googleapis.com/css?family=Raleway&#038;ver=6.1' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.francemediasnumerique.net/wp-includes/css/dashicons.min.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='thickbox-css' href='https://www.francemediasnumerique.net/wp-includes/js/thickbox/thickbox.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.0.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.0.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.0.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='jitsi-meet-wp-css' href='https://www.francemediasnumerique.net/wp-content/plugins/webinar-and-video-conference-with-jitsi-meet/blocks/dist/blocks.style.build.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css' href='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/bootstrap/css/bootstrap.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css' href='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/font-awesome/css/font-awesome.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='magazinenp-google-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i&#038;ver=6.1' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/owl-carousel/owl.carousel.min.css?ver=2.3.4' media='all' />
+<link rel='stylesheet' id='magazinenp-main-style-css' href='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/css/magazinenp.css?ver=1.1.12' media='all' />
+<link rel='stylesheet' id='magazinenp-style-css' href='https://www.francemediasnumerique.net/wp-content/themes/magazineplus/style.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='peepso-moods-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/moods.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='peepso-giphy-css' href='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/css/giphy.css?ver=5.3.0.0' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.francemediasnumerique.net/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.43' media='all' />
+<link rel='stylesheet' id='jquery-ui-style-css' href='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.min.css?ver=7.0.0' media='all' />
+<link rel='stylesheet' id='wcfm_fa_icon_css-css' href='https://www.francemediasnumerique.net/wp-content/plugins/wc-frontend-manager/assets/fonts/font-awesome/css/wcfmicon.min.css?ver=6.6.5' media='all' />
+<link rel='stylesheet' id='wcfm_core_css-css' href='https://www.francemediasnumerique.net/wp-content/plugins/wc-frontend-manager/assets/css/min/wcfm-style-core.css?ver=6.6.5' media='all' />
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2' id='jquery-ui-sortable-js'></script>
+<script id='jquery-ui-datepicker-js-extra'>
+var wcfm_datepicker_params = {"closeText":"Done","currentText":"Today","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"monthStatus":"Show a different month","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"yy-mm-dd","firstDay":"1","isRTL":""};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2' id='jquery-ui-dialog-js'></script>
+<script id='events-manager-js-extra'>
+var EM = {"ajaxurl":"https:\/\/www.francemediasnumerique.net\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.francemediasnumerique.net\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"fr","dateFormat":"yy-mm-dd","ui_css":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","show24hours":"1","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"datepicker":{"format":"d\/m\/Y","locale":"fr"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"bookingInProgress":"Veuillez patienter pendant que la r\u00e9servation est soumise.","tickets_save":"Enregistrer le billet","bookingajaxurl":"https:\/\/www.francemediasnumerique.net\/wp-admin\/admin-ajax.php","bookings_export_save":"Exporter les r\u00e9servations","bookings_settings_save":"Enregistrer","booking_delete":"Confirmez-vous vouloir le supprimer\u00a0?","booking_offset":"30","bb_full":"Complet","bb_book":"R\u00e9servez maintenant","bb_booking":"R\u00e9servation en cours...","bb_booked":"R\u00e9servation soumis","bb_error":"R\u00e9servation erreur. R\u00e9essayer\u00a0?","bb_cancel":"Annuler","bb_canceling":"Annulation en cours...","bb_cancelled":"Annul\u00e9e","bb_cancel_error":"Annulation erreur. R\u00e9essayer\u00a0?","txt_search":"Recherche","txt_searching":"Recherche en cours...","txt_loading":"Chargement en cours..."};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.1.4' id='events-manager-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/events-manager/includes/external/flatpickr/l10n/fr.min.js?ver=6.1.4' id='em-flatpickr-localization-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/js/front_end_header.js' id='ism_front_end_h-js'></script>
+<script src='https://apis.google.com/js/plusone.js' id='ism_plusone-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/js/json2.js' id='ism_json2-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/indeed-social-media/files/js/jstorage.js' id='ism_jstorage-js'></script>
+<script src='https://jitsi2.rteamwins.biz/external_api.js?ver=6.1' id='jitsi-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.francemediasnumerique.net/wp-json/" /><style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator{clear:both;}#flags{width:165px;}#flags a{display:inline-block;margin-right:2px;}#google_language_translator a{display:none!important;}.goog-te-gadget{color:transparent!important;}.goog-te-gadget{font-size:0px!important;}.goog-branding{display:none;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}.goog-te-banner-frame{visibility:hidden!important;}body{top:0px!important;}#goog-gt-tt{display:none!important;}#glt-translate-trigger{left:20px;right:auto;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#f89406;}.goog-te-gadget .goog-te-combo{width:100%;}</style><script src="https://apis.google.com/js/platform.js" async defer></script><!-- Pixel Code for https://socialproof.jv-net.me/ -->
+<script async src="https://socialproof.jv-net.me/pixel/p44ra6tvn2qwpcyy3rz3l6j2cti744yl"></script>
+<!-- END Pixel Code -->
+
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = 'www.themoneytizer.com';
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.quantcast.com'
+    .concat('/choice/', '6Fv0cGNfc_bw8', '/', host, '/choice.js');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = { ...args[3], tag_version: 'V2' };
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) --><div id="90951-6"><script src="//ads.themoneytizer.com/s/gen.js?type=6"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=90951&formatId=6"></script></div>
+        <style class="magazinenp-dynamic-css">
+
+            
+        </style>
+
+        	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.wpa-field--website_address, .adverts-field-name-website_address { display: none !important }</style>		<style>
+						.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+
+					</style>
+		                <script id="auto-cmp-tmzr"  type="text/javascript" async="true">
+                    (function() {
+                    var host = 'www.themoneytizer.com';
+                    var element = document.createElement('script');
+                    var firstScript = document.getElementsByTagName('script')[0];
+                    var url = 'https://cmp.quantcast.com'
+                        .concat('/choice/', '6Fv0cGNfc_bw8', '/', host, '/choice.js');
+                    var uspTries = 0;
+                    var uspTriesLimit = 3;
+                    element.async = true;
+                    element.type = 'text/javascript';
+                    element.src = url;
+
+                    firstScript.parentNode.insertBefore(element, firstScript);
+
+                    function makeStub() {
+                        var TCF_LOCATOR_NAME = '__tcfapiLocator';
+                        var queue = [];
+                        var win = window;
+                        var cmpFrame;
+
+                        function addFrame() {
+                        var doc = win.document;
+                        var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                        if (!otherCMP) {
+                            if (doc.body) {
+                            var iframe = doc.createElement('iframe');
+
+                            iframe.style.cssText = 'display:none';
+                            iframe.name = TCF_LOCATOR_NAME;
+                            doc.body.appendChild(iframe);
+                            } else {
+                            setTimeout(addFrame, 5);
+                            }
+                        }
+                        return !otherCMP;
+                        }
+
+                        function tcfAPIHandler() {
+                        var gdprApplies;
+                        var args = arguments;
+
+                        if (!args.length) {
+                            return queue;
+                        } else if (args[0] === 'setGdprApplies') {
+                            if (
+                            args.length > 3 &&
+                            args[2] === 2 &&
+                            typeof args[3] === 'boolean'
+                            ) {
+                            gdprApplies = args[3];
+                            if (typeof args[2] === 'function') {
+                                args[2]('set', true);
+                            }
+                            }
+                        } else if (args[0] === 'ping') {
+                            var retr = {
+                            gdprApplies: gdprApplies,
+                            cmpLoaded: false,
+                            cmpStatus: 'stub'
+                            };
+
+                            if (typeof args[2] === 'function') {
+                            args[2](retr);
+                            }
+                        } else {
+                            if(args[0] === 'init' && typeof args[3] === 'object') {
+                            args[3] = { ...args[3], tag_version: 'V2' };
+                            }
+                            queue.push(args);
+                        }
+                        }
+
+                        function postMessageEventHandler(event) {
+                        var msgIsString = typeof event.data === 'string';
+                        var json = {};
+
+                        try {
+                            if (msgIsString) {
+                            json = JSON.parse(event.data);
+                            } else {
+                            json = event.data;
+                            }
+                        } catch (ignore) {}
+
+                        var payload = json.__tcfapiCall;
+
+                        if (payload) {
+                            window.__tcfapi(
+                            payload.command,
+                            payload.version,
+                            function(retValue, success) {
+                                var returnMsg = {
+                                __tcfapiReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: payload.callId
+                                }
+                                };
+                                if (msgIsString) {
+                                returnMsg = JSON.stringify(returnMsg);
+                                }
+                                if (event && event.source && event.source.postMessage) {
+                                event.source.postMessage(returnMsg, '*');
+                                }
+                            },
+                            payload.parameter
+                            );
+                        }
+                        }
+
+                        while (win) {
+                        try {
+                            if (win.frames[TCF_LOCATOR_NAME]) {
+                            cmpFrame = win;
+                            break;
+                            }
+                        } catch (ignore) {}
+
+                        if (win === window.top) {
+                            break;
+                        }
+                        win = win.parent;
+                        }
+                        if (!cmpFrame) {
+                        addFrame();
+                        win.__tcfapi = tcfAPIHandler;
+                        win.addEventListener('message', postMessageEventHandler, false);
+                        }
+                    };
+
+                    makeStub();
+
+                    var uspStubFunction = function() {
+                        var arg = arguments;
+                        if (typeof window.__uspapi !== uspStubFunction) {
+                        setTimeout(function() {
+                            if (typeof window.__uspapi !== 'undefined') {
+                            window.__uspapi.apply(window.__uspapi, arg);
+                            }
+                        }, 500);
+                        }
+                    };
+
+                    var checkIfUspIsReady = function() {
+                        uspTries++;
+                        if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                        console.warn('USP is not accessible');
+                        } else {
+                        clearInterval(uspInterval);
+                        }
+                    };
+
+                    if (typeof window.__uspapi === 'undefined') {
+                        window.__uspapi = uspStubFunction;
+                        var uspInterval = setInterval(checkIfUspIsReady, 6000);
+                    }
+                    })();
+                </script>
+            <style type="text/css">
+.paypal-donations { text-align: center !important }
+</style>
+</head>
+
+<body class="error404 theme-body theme-magazinenp plg-peepso woocommerce-no-js group-blog title-style4 magazinenp-image-hover-effect-theme_default right full_width_content_layout hfeed wcfm-theme-magazineplus">
+
+<script>window.pushMST_config={"vapidPK":"BDbud988VQWfQk9dQcKDjW8zlVnGJCOPcTvIWFyd_PKRB1OJN7SkVxSAs4lOxXiFvZ-Sg02n7RmjDlMNvxjY47U","enableOverlay":true,"swPath":"/sw.js","i18n":{}};
+  var pushmasterTag = document.createElement('script');
+  pushmasterTag.src = "https://cdn.pushmaster-cdn.xyz/scripts/publishers/620b8edd0254130009f7616d/SDK.js";
+  pushmasterTag.setAttribute('defer','');
+
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(pushmasterTag, firstScriptTag);
+</script>
+<div id="zadarmaScripts"></div>
+<script>
+(function() {
+  var script = document.createElement('script');
+  script.src = 'https://my.zadarma.com/callmewidget/v2.0.8/loader.js';
+  document.getElementById('zadarmaScripts').appendChild(script);
+}());
+</script><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header">
+		<div class="mnp-top-header">
+    <div class="container">
+        <div class="row gutter-10">
+                            <div class="col col-sm mnp-date-section">
+                    <div class="date">
+                        <ul>
+                            <li>
+                                <i class="mnp-icon fa fa-clock"></i>&nbsp;&nbsp;mercredi, novembre 9, 2022                            </li>
+                        </ul>
+                    </div>
+                </div>
+            
+                            <div class="col-auto mnp-social-profiles official">
+                    
+		<ul class="clearfix">
+								<li><a target="_blank" href="https://www.facebook.com/francemediasnumerique/"
+						   class="fab fa-facebook-f"></a></li>
+									<li><a target="_blank" href="https://twitter.com/MohamedTahiri_"
+						   class="fab fa-twitter"></a></li>
+									<li><a target="_blank" href="https://www.linkedin.com/in/mohamed-tahiri-4a1242201/"
+						   class="fab fa-linkedin"></a></li>
+									<li><a target="_blank" href="https://vk.com/tahirimohamed"
+						   class="fab fa-instagram"></a></li>
+									<li><a target="_blank" href="https://tube.francemediasnumerique.net/c/france_media_numerique/videos"
+						   class="fab fa-youtube"></a></li>
+									<li><a target="_blank" href="https://t.me/francemediasnumerique"
+						   class="fab fa-pinterest"></a></li>
+						</ul>
+	                </div>
+                    </div>
+    </div>
+</div><nav class="mnp-bottom-header navbar navbar-expand-lg d-block mnp-sticky1">
+	<div class="navigation-bar">
+		<div class="navigation-bar-top">
+			<div class="container">
+									<div class="mnp-home-icon"><a href="https://www.francemediasnumerique.net/" rel="home"><i
+								class="fa fa-home"></i></a></div>
+
+				
+				<button class="navbar-toggler menu-toggle collapsed" type="button" data-toggle="collapse"
+						data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
+						aria-label="Toggle navigation"></button>
+									<button class="search-toggle"></button>
+							</div>
+
+			<div class="search-bar">
+				<div class="container">
+					<div id="magazinenp-search-block" class="search-block off">
+						<form action="https://www.francemediasnumerique.net/" method="get" class="search-form">
+	<label class="assistive-text"> Search </label>
+	<div class="input-group">
+		<input type="search" value="" placeholder="Search" class="form-control s" name="s">
+		<div class="input-group-prepend">
+			<button class="btn btn-theme">Search</button>
+		</div>
+	</div>
+</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="navbar-main">
+			<div class="container">
+									<div class="mnp-home-icon"><a href="https://www.francemediasnumerique.net/" rel="home"><i
+								class="fa fa-home"></i></a></div>
+
+								<div class="collapse navbar-collapse" id="navbarCollapse">
+					<div id="site-navigation"
+						 class="main-navigation nav-uppercase"
+						 role="navigation">
+						<ul class="nav-menu navbar-nav d-lg-block"><li id="menu-item-19309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19309"><a href="https://www.francemediasnumerique.net/adverts/">Annonces</a>
+<ul class="sub-menu">
+	<li id="menu-item-19312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19312"><a href="https://www.francemediasnumerique.net/adverts/ajouter/">Ajouter</a></li>
+	<li id="menu-item-19313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19313"><a href="https://www.francemediasnumerique.net/adverts/manage/">Gérer</a></li>
+</ul>
+</li>
+<li id="menu-item-19771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19771"><a href="https://www.francemediasnumerique.net/shop/">Boutique</a>
+<ul class="sub-menu">
+	<li id="menu-item-19766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19766"><a href="https://www.francemediasnumerique.net/vendor-register/">Inscription du Vendeur</a></li>
+</ul>
+</li>
+<li id="menu-item-20035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20035"><a href="https://www.francemediasnumerique.net/?page_id=20029">Censurée</a></li>
+<li id="menu-item-18977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18977"><a href="https://www.francemediasnumerique.net/evenements/">Évènements</a>
+<ul class="sub-menu">
+	<li id="menu-item-18978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18978"><a href="https://www.francemediasnumerique.net/evenements/categories/">Catégories</a></li>
+	<li id="menu-item-18979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18979"><a href="https://www.francemediasnumerique.net/evenements/emplacements/">Emplacements</a></li>
+	<li id="menu-item-18980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18980"><a href="https://www.francemediasnumerique.net/evenements/etiquettes/">Étiquettes</a></li>
+	<li id="menu-item-18981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18981"><a href="https://www.francemediasnumerique.net/evenements/mes-reservations/">Mes réservations</a></li>
+</ul>
+</li>
+<li id="menu-item-18982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18982"><a href="https://www.francemediasnumerique.net/soutenir-faire-un-don/">Faire un don</a></li>
+<li id="menu-item-19594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19594"><a href="https://www.francemediasnumerique.net/internet-libre/">Internet Libre</a></li>
+<li id="menu-item-19953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19953"><a href="https://jitsi2.rteamwins.biz/francemediasnumerique">Le Live</a></li>
+<li id="menu-item-19493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19493"><a href="https://www.francemediasnumerique.net/videos/">Vidéos</a></li>
+<li id="menu-item-19566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19566"><a href="https://www.francemediasnumerique.net/khoukha-culinaire/">RECETTES DU MONDE</a></li>
+</ul>					</div>
+				</div>
+									<div class="nav-search">
+						<button class="search-toggle"></button>
+					</div>
+							</div>
+		</div>
+	</div>
+
+</nav>
+    <div id="breadcrumb">
+        <div class="container">
+            <div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="https://www.francemediasnumerique.net/" rel="home" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">404 Not Found</span><meta itemprop="position" content="2" /></li></ul></div>        </div>
+    </div>
+
+	</header>
+
+		<div id="content"
+		 class="site-content">
+		<div class="container">
+						<div class="row justify-content-center site-content-row">
+		<!-- #start of primary div--><div id="primary" class="content-area col-lg-8 "> 		<main id="main" class="site-main">
+
+					<div class="type-page">
+			<div class="error-404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .entry-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. May be please check the URL for typing errors or start a new search to find the page you are looking for.</p>
+
+					<form action="https://www.francemediasnumerique.net/" method="get" class="search-form">
+	<label class="assistive-text"> Search </label>
+	<div class="input-group">
+		<input type="search" value="" placeholder="Search" class="form-control s" name="s">
+		<div class="input-group-prepend">
+			<button class="btn btn-theme">Search</button>
+		</div>
+	</div>
+</form>
+
+				</div><!-- .page-content -->
+			</div><!-- .error-404 -->
+		</div><!-- .type-page -->
+		
+		</main><!-- #main -->
+		</div><!-- #end of primary div-->
+<aside id="secondary" class="col-lg-4 widget-area">
+    <div class="sticky-sidebar">
+        <section id="glt_widget-2" class="widget widget_glt_widget"><div class="widget-title-wrapper"><h3 class="widget-title">Translate:</h3></div><div id="flags" class="size18"><ul id="sortable" class="ui-sortable" style="float:left"><li id='Arabic'><a href='#' title='Arabic' class='nturl notranslate ar flag Arabic'></a></li><li id='Belarusian'><a href='#' title='Belarusian' class='nturl notranslate be flag Belarusian'></a></li><li id='Dutch'><a href='#' title='Dutch' class='nturl notranslate nl flag Dutch'></a></li><li id='English'><a href='#' title='English' class='nturl notranslate en flag united-states'></a></li><li id='French'><a href='#' title='French' class='nturl notranslate fr flag French'></a></li><li id='German'><a href='#' title='German' class='nturl notranslate de flag German'></a></li><li id='Irish'><a href='#' title='Irish' class='nturl notranslate ga flag Irish'></a></li><li id='Norwegian'><a href='#' title='Norwegian' class='nturl notranslate no flag Norwegian'></a></li><li id='Portuguese'><a href='#' title='Portuguese' class='nturl notranslate pt flag Portuguese'></a></li><li id='Russian'><a href='#' title='Russian' class='nturl notranslate ru flag Russian'></a></li><li id='Spanish'><a href='#' title='Spanish' class='nturl notranslate es flag Spanish'></a></li><li id='Swedish'><a href='#' title='Swedish' class='nturl notranslate sv flag Swedish'></a></li></ul></div><div id="google_language_translator" class="default-language-fr"></div></section>      <section id="mailpoet_form-2" class="widget widget_mailpoet_form">
+  
+      <div class="widget-title-wrapper"><h3 class="widget-title">Abonnez-vous à notre newsletter</h3></div>
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div
+    id="mailpoet_form_1"
+    class="
+      mailpoet_form
+      mailpoet_form_widget
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "
+      >
+    
+    <style type="text/css">
+     #mailpoet_form_1 .mailpoet_form {  }
+#mailpoet_form_1 form { margin-bottom: 0; }
+#mailpoet_form_1 p.mailpoet_form_paragraph.last { margin-bottom: 0px; }
+#mailpoet_form_1 h2.mailpoet-heading { margin: -10px 0 10px 0; }
+#mailpoet_form_1 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_1 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_1 .mailpoet_checkbox {  }
+#mailpoet_form_1 .mailpoet_submit {  }
+#mailpoet_form_1 .mailpoet_divider {  }
+#mailpoet_form_1 .mailpoet_message {  }
+#mailpoet_form_1 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_1 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_1{border-radius: 24px;background: linear-gradient(180deg,rgb(70,219,232) 0%,rgb(197,222,213) 100%);text-align: left;}#mailpoet_form_1 form.mailpoet_form {padding: 40px;}#mailpoet_form_1{width: 100%;}#mailpoet_form_1 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mailpoet_form_1 .mailpoet_validate_success {color: #00d084}
+        #mailpoet_form_1 input.parsley-success {color: #00d084}
+        #mailpoet_form_1 select.parsley-success {color: #00d084}
+        #mailpoet_form_1 textarea.parsley-success {color: #00d084}
+      
+        #mailpoet_form_1 .mailpoet_validate_error {color: #cf2e2e}
+        #mailpoet_form_1 input.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 select.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-errors-list {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-required {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-custom-error-message {color: #cf2e2e}
+      #mailpoet_form_1 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_1 {background: linear-gradient(180deg,rgb(70,219,232) 0%,rgb(197,222,213) 100%);}} @media (min-width: 500px) {#mailpoet_form_1 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form
+      target="_self"
+      method="post"
+      action="https://www.francemediasnumerique.net/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_widget"
+      novalidate
+      data-delay=""
+      data-exit-intent-enabled=""
+      data-font-family=""
+      data-cookie-expiration-time=""
+    >
+      <input type="hidden" name="data[form_id]" value="1" />
+      <input type="hidden" name="token" value="889ad84f6e" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Veuillez laisser ce champ vide<input type="email" name="data[email]"/></label><h2 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: center; color: #ffffff; font-size: 50px; line-height: 1"><strong><span style="font-family: Concert One" data-font="Concert One" class="mailpoet-has-font">Restons en contact !</span></strong></h2>
+<p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: center; color: #ffffff; font-size: 20px; line-height: 1"><span style="font-family: Concert One" data-font="Concert One" class="mailpoet-has-font">Nous aimerions vous tenir au courant de nos dernières nouvelles et offres</span> <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60e.png" alt="😎" class="wp-smiley" style="height: 1em;max-height: 1em" /></p>
+<div class="mailpoet_paragraph "><style>input[name="data[form_field_MjNlYTIwMDM4Y2UxX2ZpcnN0X25hbWU=]"]::placeholder{color:#5b8ba7;opacity: 1;}</style><label for="form_first_name_1" class="mailpoet-screen-reader-text" style="font-size: 20px;line-height: 24px&quot;;font-weight: bold;"data-automation-id="form_first_name_label" >Quel est votre nom ?</label><input type="text" autocomplete="given-name" class="mailpoet_text" id="form_first_name_1" name="data[form_field_MjNlYTIwMDM4Y2UxX2ZpcnN0X25hbWU=]" title="Quel est votre nom ?" value="" style="width:100%;background-color:#ffffff;border-style:solid;border-radius:4px !important;border-width:0px;border-color:#313131;padding:12px;margin: 0 auto 0 0;font-family:&#039;Ubuntu&#039;;font-size:20px;line-height:1.5;height:auto;color:#5b8ba7;" data-automation-id="form_first_name"  placeholder="Quel est votre nom ?" data-parsley-names='[&quot;Veuillez sp\u00e9cifier un nom valide.&quot;,&quot;Les adresses dans les noms ne sont pas autoris\u00e9es, veuillez ajouter votre nom \u00e0 la place.&quot;]'/></div>
+<div class="mailpoet_paragraph "><style>input[name="data[form_field_ZTgxMDIwZTZhNDFkX2xhc3RfbmFtZQ==]"]::placeholder{color:#5b8ba7;opacity: 1;}</style><label for="form_last_name_1" class="mailpoet-screen-reader-text" style="font-size: 20px;line-height: 24px&quot;;font-weight: bold;"data-automation-id="form_last_name_label" >Et votre nom de famille ?</label><input type="text" autocomplete="family-name" class="mailpoet_text" id="form_last_name_1" name="data[form_field_ZTgxMDIwZTZhNDFkX2xhc3RfbmFtZQ==]" title="Et votre nom de famille ?" value="" style="width:100%;background-color:#ffffff;border-style:solid;border-radius:4px !important;border-width:0px;border-color:#313131;padding:12px;margin: 0 auto 0 0;font-family:&#039;Ubuntu&#039;;font-size:20px;line-height:1.5;height:auto;color:#5b8ba7;" data-automation-id="form_last_name"  placeholder="Et votre nom de famille ?" data-parsley-names='[&quot;Veuillez sp\u00e9cifier un nom valide.&quot;,&quot;Les adresses dans les noms ne sont pas autoris\u00e9es, veuillez ajouter votre nom \u00e0 la place.&quot;]'/></div>
+<div class="mailpoet_paragraph "><style>input[name="data[form_field_MDMwYjRjMDE4ZGIwX2VtYWls]"]::placeholder{color:#5b8ba7;opacity: 1;}</style><label for="form_email_1" class="mailpoet-screen-reader-text" style="font-size: 20px;line-height: 24px&quot;;font-weight: bold;"data-automation-id="form_email_label" >Adresse e-mail <span class="mailpoet_required">*</span></label><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_1" name="data[form_field_MDMwYjRjMDE4ZGIwX2VtYWls]" title="Adresse e-mail" value="" style="width:100%;background-color:#ffffff;border-style:solid;border-radius:4px !important;border-width:0px;border-color:#313131;padding:12px;margin: 0 auto 0 0;font-family:&#039;Ubuntu&#039;;font-size:20px;line-height:1.5;height:auto;color:#5b8ba7;" data-automation-id="form_email"  placeholder="Adresse e-mail *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Cette valeur doit être un e-mail valide." data-parsley-errors-container=".mailpoet_error_email_" data-parsley-required-message="Ce champ est nécessaire."/></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Tenez-moi au courant !" data-automation-id="subscribe-submit-button" data-font-family='Ubuntu' style="width:100%;background-color:#ff6900;border-style:solid;border-radius:40px !important;border-width:0px;padding:12px;margin: 0 auto 0 0;font-family:&#039;Ubuntu&#039;;font-size:24px;line-height:1.5;height:auto;color:#ffffff;border-color:transparent;font-weight:bold;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+<p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: center; color: #ffffff; font-size: 14px; line-height: 1.2"><span style="font-family: Concert One" data-font="Concert One" class="mailpoet-has-font">Nous ne spammons pas ! Consultez notre <a href="#">politique de confidentialité</a> pour plus d’informations.</span></p>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Vérifiez votre boite de réception ou votre répertoire d’indésirables pour confirmer votre abonnement.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+  </div>
+
+      </section>
+  <section id="media_image-3" class="widget widget_media_image"><img width="300" height="300" src="https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-300x300.png" class="image wp-image-21293  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-300x300.png 300w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-1024x1024.png 1024w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-150x150.png 150w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-768x768.png 768w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-310x310.png 310w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-105x105.png 105w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-600x600.png 600w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image-100x100.png 100w, https://www.francemediasnumerique.net/wp-content/uploads/2022/10/image.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></section><section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="widget-title-wrapper"><h3 class="widget-title">Faire un Don</h3></div><div class="textwidget custom-html-widget"><form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="U4QVE4PE8GKYE" />
+<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Bouton Faites un don avec PayPal" />
+<img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" />
+</form>
+</div></section><section id="shortcode-widget-2" class="widget shortcode_widget">						<div class="textwidget">Contacter France Médias Numérique par téléphone
+Pour toutes vos questions relatives aux campagnes de publicité sur France Médias Numérique, vous pouvez joindre un commercial directement au 06 19 25 75 88.
+Si vous êtes une agence de communication ou une entreprise avec des budgets publicités élevés, vous obtiendrez sans doute un numéro direct pour échanger avec un conseiller. 
+Conservez-le précieusement.
+
+
+         <style>
+             #player636bc5bccca07.h5vp_player { width: 100%; border-radius: 0px; overflow: hidden; }        </style>
+        <div id="h5vp_player">
+            <div data-unique-id="636bc5bccca31" id="player636bc5bccca07" class="h5vp_player h5vp_player_initializer" data-settings="{&quot;options&quot;:{&quot;controls&quot;:&quot;&quot;,&quot;loop&quot;:{&quot;active&quot;:true},&quot;muted&quot;:false,&quot;hideControls&quot;:false,&quot;autoplay&quot;:false},&quot;infos&quot;:{&quot;source&quot;:&quot;&quot;,&quot;poster&quot;:&quot;&quot;,&quot;skin&quot;:&quot;default&quot;,&quot;pause_other&quot;:&quot;&quot;}}">
+                <video playsinline poster=""  >
+                    <source src="" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+        </div>
+			</section><section id="themoneytizer_widget-2" class="widget widget_themoneytizer_widget"><div class="widget-title-wrapper"><h3 class="widget-title">Pub moneytizer</h3></div><div id="90951-2"><script src="//ads.themoneytizer.com/s/gen.js"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=90951&formatId=2" ></script></div></section><section id="text-3" class="widget widget_text"><div class="widget-title-wrapper"><h3 class="widget-title">ActivityPub</h3></div>			<div class="textwidget"><p>Vous avez la possibilité de suivre france medias numérique maintenant, avec votre client ActivityPub, telle que friendica ou mastodon. Il suffit de copier coller le suivant url dans le champs de recherche:<a href="https://www.francemediasnumerique.net/profile/?moatahiri/">https://www.francemediasnumerique.net/profile/?moatahiri/</a> et vous recevez nos publications directement sur votre fil de communication.</p>
+<p>&nbsp;</p>
+</div>
+		</section><section id="text-2" class="widget widget_text"><div class="widget-title-wrapper"><h3 class="widget-title">A propos France Medias Numerique</h3></div>			<div class="textwidget"><p>Le web journal numérique dont le seul programme politique est la liberté de la presse, la Loi fondamentale dans son libellé et sa signification ( !), le renouveau constitutionnel démocratique à la base et les droits de l’homme.</p>
+<p>Ce web journal numérique a écrit l’histoire, se place au-dessus du parlement, des partis, des élections douteuses et des entreprises. Il grandit de semaine en semaine et ne cède pas.</p>
+</div>
+		</section>    </div>
+</aside>
+</div><!-- row -->
+		</div><!-- .container -->
+	</div><!-- #content .site-content--><div class="mnp-you-missed-posts">
+	<div class="container">
+		<section class="related-posts">
+			<div class="widget-title-wrapper"><h2 class="magazinenp-title">Vous avez raté</h2></div>			<div class="row gutter-parent-10">
+									<div class="col-sm-6 col-lg-3 post-col">
+						<div class="mnp-post-boxed">
+							<div class="mnp-post-image-wrap">
+								<div class="featured-mnp-post-image">
+									<a href="https://www.francemediasnumerique.net/2022/10/urgent-demission-de-lambassadeur-de-france-en-ukraine/" class="mnp-post-image"
+									   style="background-image: url('https://www.francemediasnumerique.net/wp-content/uploads/2022/10/ambassade-ukraine-scaled.jpg');"></a>
+								</div>
+								
+									<div class="entry-meta category-meta">
+										<div class="cat-links">			<a class="mnp-category-item mnp-cat-1269"
+			   href="https://www.francemediasnumerique.net/category/ukraine/" rel="category tag">Ukraine</a>
+
+			</div>									</div>
+															</div>
+							<div class="post-content">
+								<h3 class="entry-title"><a href="https://www.francemediasnumerique.net/2022/10/urgent-demission-de-lambassadeur-de-france-en-ukraine/">Urgent : démission de l&#8217;ambassadeur de France en Ukraine : l&#8217;ambassadeur a démenti l&#8217;information.</a></h3>																	<div class="entry-meta">
+										<div class="date created-date"><a href="https://www.francemediasnumerique.net/2022/10/urgent-demission-de-lambassadeur-de-france-en-ukraine/" title="Urgent : démission de l&#8217;ambassadeur de France en Ukraine : l&#8217;ambassadeur a démenti l&#8217;information."><i class="mnp-icon fa fa-clock"></i>3 semaines ago</a> </div> <div class="by-author vcard author"><a href="https://www.francemediasnumerique.net/author/cathy/"><i class="mnp-icon fa fa-user-circle"></i>Cathy Neubauer</a> </div>									</div>
+															</div>
+						</div>
+					</div>
+									<div class="col-sm-6 col-lg-3 post-col">
+						<div class="mnp-post-boxed">
+							<div class="mnp-post-image-wrap">
+								<div class="featured-mnp-post-image">
+									<a href="https://www.francemediasnumerique.net/2022/09/le-traitement-du-covid-ce-sera-ca/" class="mnp-post-image"
+									   style="background-image: url('https://www.francemediasnumerique.net/wp-content/uploads/2022/09/medicament.jpg');"></a>
+								</div>
+								
+									<div class="entry-meta category-meta">
+										<div class="cat-links">			<a class="mnp-category-item mnp-cat-20"
+			   href="https://www.francemediasnumerique.net/category/covid19/" rel="category tag">Covid19</a>
+
+			</div>									</div>
+															</div>
+							<div class="post-content">
+								<h3 class="entry-title"><a href="https://www.francemediasnumerique.net/2022/09/le-traitement-du-covid-ce-sera-ca/">Le traitement du Covid, ce sera ça !</a></h3>																	<div class="entry-meta">
+										<div class="date created-date"><a href="https://www.francemediasnumerique.net/2022/09/le-traitement-du-covid-ce-sera-ca/" title="Le traitement du Covid, ce sera ça !"><i class="mnp-icon fa fa-clock"></i>2 mois ago</a> </div> <div class="by-author vcard author"><a href="https://www.francemediasnumerique.net/author/fmn/"><i class="mnp-icon fa fa-user-circle"></i>fmn</a> </div>									</div>
+															</div>
+						</div>
+					</div>
+									<div class="col-sm-6 col-lg-3 post-col">
+						<div class="mnp-post-boxed">
+							<div class="mnp-post-image-wrap">
+								<div class="featured-mnp-post-image">
+									<a href="https://www.francemediasnumerique.net/2022/09/21251/" class="mnp-post-image"
+									   style="background-image: url('https://www.francemediasnumerique.net/wp-content/uploads/2022/09/transparence.png');"></a>
+								</div>
+								
+									<div class="entry-meta category-meta">
+										<div class="cat-links">			<a class="mnp-category-item mnp-cat-1321"
+			   href="https://www.francemediasnumerique.net/category/cour-europeenne-des-comptes/" rel="category tag">Cour Européenne des Comptes</a>
+
+			</div>									</div>
+															</div>
+							<div class="post-content">
+								<h3 class="entry-title"><a href="https://www.francemediasnumerique.net/2022/09/21251/">Le rapport spécial 19/22 de la Cour européenne des comptes</a></h3>																	<div class="entry-meta">
+										<div class="date created-date"><a href="https://www.francemediasnumerique.net/2022/09/21251/" title="Le rapport spécial 19/22 de la Cour européenne des comptes"><i class="mnp-icon fa fa-clock"></i>2 mois ago</a> </div> <div class="by-author vcard author"><a href="https://www.francemediasnumerique.net/author/fmn/"><i class="mnp-icon fa fa-user-circle"></i>fmn</a> </div>									</div>
+															</div>
+						</div>
+					</div>
+									<div class="col-sm-6 col-lg-3 post-col">
+						<div class="mnp-post-boxed">
+							<div class="mnp-post-image-wrap">
+								<div class="featured-mnp-post-image">
+									<a href="https://www.francemediasnumerique.net/2022/09/redonner-du-sens-a-sa-vie/" class="mnp-post-image"
+									   style="background-image: url('https://www.francemediasnumerique.net/wp-content/uploads/2022/09/sens-a-sa-viejpg.jpg');"></a>
+								</div>
+								
+									<div class="entry-meta category-meta">
+										<div class="cat-links">			<a class="mnp-category-item mnp-cat-25"
+			   href="https://www.francemediasnumerique.net/category/monde/" rel="category tag">Monde</a>
+
+			</div>									</div>
+															</div>
+							<div class="post-content">
+								<h3 class="entry-title"><a href="https://www.francemediasnumerique.net/2022/09/redonner-du-sens-a-sa-vie/">Redonner du Sens à Sa Vie.</a></h3>																	<div class="entry-meta">
+										<div class="date created-date"><a href="https://www.francemediasnumerique.net/2022/09/redonner-du-sens-a-sa-vie/" title="Redonner du Sens à Sa Vie."><i class="mnp-icon fa fa-clock"></i>2 mois ago</a> </div> <div class="by-author vcard author"><a href="https://www.francemediasnumerique.net/author/lore/"><i class="mnp-icon fa fa-user-circle"></i>Lore</a> </div>									</div>
+															</div>
+						</div>
+					</div>
+											</div>
+		</section>
+	</div>
+</div>
+<footer id="colophon" class="site-footer" >
+		<div class="widget-area">
+		<div class="container">
+			<div class="row">
+									<div class="col-sm-6 col-lg-3">
+											</div>
+									<div class="col-sm-6 col-lg-3">
+						<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget-title-wrapper"><h3 class="widget-title">Livechat</h3></div><div class="textwidget custom-html-widget"><!-- mibew button --><a id="mibew-agent-button" href="https://livechat.jv-net.me/chat?locale=en&amp;group=1" target="_blank" onclick="Mibew.Objects.ChatPopups['6213e817ef695dde'].open();return false;" rel="noopener"><img src="https://livechat.jv-net.me/b?i=mibew&amp;lang=en&amp;group=1" border="0" alt="" /></a><script type="text/javascript" src="https://livechat.jv-net.me/js/compiled/chat_popup.js"></script><script type="text/javascript">Mibew.ChatPopup.init({"id":"6213e817ef695dde","url":"https:\/\/livechat.jv-net.me\/chat?locale=en&group=1","preferIFrame":true,"modSecurity":false,"forceSecure":true,"style":"","width":640,"height":480,"resizable":true,"styleLoader":"https:\/\/livechat.jv-net.me\/chat\/style\/popup\/\/force_secure"});</script><!-- / mibew button --></div></section>					</div>
+									<div class="col-sm-6 col-lg-3">
+						<section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-title-wrapper"><h3 class="widget-title">Liens Utiles</h3></div><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-19034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19034"><a href="https://www.francemediasnumerique.net/activity/">Activité récente</a></li>
+<li id="menu-item-17498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17498"><a href="https://www.francemediasnumerique.net/politique-de-confidentialite/">Politique de confidentialité</a></li>
+</ul></div></section>					</div>
+									<div class="col-sm-6 col-lg-3">
+						<section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="myZadarmaCallmeWidget11687"></div>
+<script>
+  var myZadarmaCallmeWidget11687;
+  var myZadarmaCallmeWidgetFn11687 = function() {
+    myZadarmaCallmeWidget11687 = new ZadarmaCallmeWidget("myZadarmaCallmeWidget11687");
+    myZadarmaCallmeWidget11687.create({
+"widgetId": "PJYcfym9cnp4L757C2zJy6r5nzT3F7pbTceSJcS3Js7j8m4kRcbhVxNX2evfded6ef59Dx44KhruammzLzy2k5L9mZCr7Mjzdeb3dbc97443b1d3300302b5b121a43d", "sipId":"344183_0", "domElement":"myZadarmaCallmeWidget11687" }, { "shape":"square", "language":"fr", "width":"0", "dtmf":true, "dtmf_position": "top","dtmf_time_to_disappear": "60", "font": "'Trebuchet MS','Helvetica CY',sans-serif", "color_call": "rgb(255, 255, 255)", "color_bg_call": "rgb(126, 211, 33)", "color_border_call": "rgb(191, 233, 144)", "color_connection": "rgb(255, 255, 255)", "color_bg_connection": "rgb(33, 211, 166)", "color_border_connection": "rgb(144, 233, 211)", "color_calling": "rgb(255, 255, 255)", "color_border_calling": "rgb(255, 218, 128)", "color_bg_calling": "rgb(255, 181, 0)", "color_ended": "rgb(255, 255, 255)", "color_bg_ended": "rgb(164,164,164)", "color_border_ended": "rgb(210, 210, 210)"
+    });
+  };
+
+  if (window.addEventListener) {
+    window.addEventListener('load', myZadarmaCallmeWidgetFn11687, false);
+  } else if (window.attachEvent) {
+    window.attachEvent('onload', myZadarmaCallmeWidgetFn11687);
+  }
+</script></div></section>					</div>
+							</div>
+		</div>
+	</div>
+<div class="site-info bottom-footer">
+	<div class="container">
+		<div class="row">
+							<div class="col-lg-auto order-lg-2 ml-auto">
+					<div class="mnp-social-profiles official">
+						
+		<ul class="clearfix">
+								<li><a target="_blank" href="https://www.facebook.com/francemediasnumerique/"
+						   class="fab fa-facebook-f"></a></li>
+									<li><a target="_blank" href="https://twitter.com/MohamedTahiri_"
+						   class="fab fa-twitter"></a></li>
+									<li><a target="_blank" href="https://www.linkedin.com/in/mohamed-tahiri-4a1242201/"
+						   class="fab fa-linkedin"></a></li>
+									<li><a target="_blank" href="https://vk.com/tahirimohamed"
+						   class="fab fa-instagram"></a></li>
+									<li><a target="_blank" href="https://tube.francemediasnumerique.net/c/france_media_numerique/videos"
+						   class="fab fa-youtube"></a></li>
+									<li><a target="_blank" href="https://t.me/francemediasnumerique"
+						   class="fab fa-pinterest"></a></li>
+						</ul>
+						</div>
+				</div>
+						<div class="copyright col-lg order-lg-1 text-lg-left">
+				Copyright ©2021 - 2022 France Medias Numérique Tous droits réservés  | Theme by <a href="https://mantrabrain.com" target="_blank" title="Mantrabrain">Mantrabrain</a>			</div>
+		</div>
+	</div>
+</div>
+</footer>
+<div class="back-to-top"><a title="Go to Top" href="#masthead"></a></div></div><!-- #page --><div id='glt-footer'></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'fr', includedLanguages:'ar,be,nl,en,fr,de,ga,no,pt,ru,es,sv', autoDisplay: false}, 'google_language_translator');}</script><!-- Matomo --><script>
+var _paq = window._paq = window._paq || [];
+_paq.push(['disableCookies']);
+_paq.push(['trackAllContentImpressions']);_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/www.francemediasnumerique.net\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src="\/\/www.francemediasnumerique.net\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Code -->	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='mailpoet_public-css' href='https://www.francemediasnumerique.net/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.a09bafc3.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='bplugins-plyrio-css' href='https://www.francemediasnumerique.net/wp-content/plugins/html5-video-player/css/player-style.css?ver=2.5.8' media='all' />
+<link rel='stylesheet' id='h5vp-public-css' href='https://www.francemediasnumerique.net/wp-content/plugins/html5-video-player/dist/public.css?ver=2.5.8' media='all' />
+<script src='https://www.francemediasnumerique.net/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"https:\/\/www.francemediasnumerique.net\/wp-json\/","nonce":"e4cc673481","versionString":"wp\/v2\/"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/api-request.min.js?ver=6.1' id='wp-api-request-js'></script>
+<script id='wp-api-js-extra'>
+var wpApiSettings = {"root":"https:\/\/www.francemediasnumerique.net\/wp-json\/","nonce":"e4cc673481"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/wp-api.min.js?ver=6.1' id='wp-api-js'></script>
+<script id='peepso-core-js-extra'>
+var peepsodata = {"is_admin":"","home_url":"https:\/\/www.francemediasnumerique.net","site_url":"https:\/\/www.francemediasnumerique.net","rest_url":"https:\/\/www.francemediasnumerique.net\/wp-json\/peepso\/v1\/","rest_nonce":"e4cc673481","ajaxurl":"https:\/\/www.francemediasnumerique.net\/wp-admin\/admin-ajax.php","ajaxurl_legacy":"https:\/\/www.francemediasnumerique.net\/peepsoajax\/","version":"5.3.0.0","postsize":"4000","readmore_min":"1000","readmore_min_single":"2000","currentuserid":"0","userid":"0","objectid":"0","objecttype":"","date_format":"d MM yy","members_page":"https:\/\/www.francemediasnumerique.net\/members\/","members_hide_before_search":"0","open_in_new_tab":"1","hide_url_only":"0","loading_gif":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif","upload_size":"134217728","peepso_nonce":"f4b1f82941","ajax_exception_text":"Something went wrong. Please contact the administrator.","label_error":"Erreur","label_notice":"Note","label_done":"Done!","mark_all_as_read_text":"Mark all as read","mark_all_as_read_confirm_text":"\u00cates-vous certain de vouloir marquer toutes les notifications comme lues\u00a0?","show_unread_only_text":"Afficher seulement les non lus","show_all_text":"Tout afficher","view_all_text":"Afficher tout","read_more_text":"Lire plus","mime_type_error":"Le type de fichier que vous avez t\u00e9l\u00e9charg\u00e9 n\u2019est pas autoris\u00e9.","login_dialog_title":"Veuillez vous identifier pour continuer","login_dialog":"<div class=\"ps-landing__form psf-login psf-login--inline\">\n  <form class=\"ps-form ps-form--login ps-js-form-login\" action=\"\" onsubmit=\"return false;\" method=\"post\" name=\"login\" id=\"ps-form-login-main\">\n    <div class=\"ps-form__row\">\n      <!-- Login -->\n      <div class=\"ps-form__field ps-form__field--icon ps-js-username-field\">\n        <div class=\"ps-input__wrapper--icon\">\n            <input class=\"ps-input ps-input--sm ps-input--icon\" type=\"text\" name=\"username\" placeholder=\"Username or Email\" mouseev=\"true\"\n              autocomplete=\"off\" keyev=\"true\" clickev=\"true\" \/>\n                        <i class=\"gcis gci-user\"><\/i>\n                    <\/div>\n              <\/div>\n\n      <!-- Password -->\n      <div class=\"ps-form__field ps-form__field--icon ps-js-password-field\">\n        <input class=\"ps-input ps-input--sm ps-input--icon \"\n            type=\"password\" name=\"password\" placeholder=\"Mot de passe\" mouseev=\"true\"\n            autocomplete=\"off\" keyev=\"true\" clickev=\"true\" \/>\n        <i class=\"gcis gci-key\"><\/i>\n      <\/div>\n\n            \n      <!-- Submit form -->\n      <div class=\"ps-form__field ps-form__field--submit ps-js-password-field\">\n                <button type=\"submit\"\n            class=\"ps-btn ps-btn--sm ps-btn--action ps-btn--login ps-btn--loading \"\n            >\n          <span>Connexion<\/span>\n          <img src=\"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif\">\n        <\/button>\n      <\/div>\n    <\/div>\n\n    <!-- Remember password -->\n    <div class=\"ps-checkbox ps-checkbox--login\">\n      <input class=\"ps-checkbox__input\" type=\"checkbox\" alt=\"Se souvenir de moi\" value=\"yes\" name=\"remember\" id=\"ps-form-login-main-remember\" >\n      <label class=\"ps-checkbox__label\" for=\"ps-form-login-main-remember\">Se souvenir de moi<\/label>\n    <\/div>\n\n    <div class=\"psf-login__links\">\n      \n            <a class=\"psf-login__link psf-login__link--register\" href=\"https:\/\/www.francemediasnumerique.net\/register\/\">S\u2019inscrire<\/a>\n      \n      <a class=\"psf-login__link psf-login__link--recover\" href=\"https:\/\/www.francemediasnumerique.net\/password-recover\/\">Mot de passe oubli\u00e9<\/a>\n\n            <a class=\"psf-login__link psf-login__link--activation ps-js-register-activation\" href=\"https:\/\/www.francemediasnumerique.net\/register\/?resend\">Renvoyer le code d\u2019activation<\/a>\n          <\/div>\n\n    <div class=\"ps-alert errlogin calert clear alert-error\" style=\"display:none\"><\/div>\n    <input type=\"hidden\" name=\"option\" value=\"ps_users\" \/>\n    <input type=\"hidden\" name=\"task\" value=\"-user-login\" \/>\n    <input type=\"hidden\" name=\"redirect_to\" value=\"\" \/>\n    <input type=\"hidden\" name=\"security\" value=\"70390c1e89\" \/><input type=\"hidden\" name=\"_wp_http_referer\" value=\"\/api\/v1\/instance\/peers\" \/>\n      <\/form>\n  <\/div>\n\n<script>\n    (function() {\n        function initLoginForm( $ ) {\n            peepso.login.initForm( $('.ps-js-form-login') );\n\n            $(function() {\n\n                var $nav = $('.wp-social-login-widget');\n                var $wrap = $('.ps-js--wsl');\n                var $btn = $('.ps-js--wsl .ps-btn');\n                var $vlinks = $('.ps-js--wsl .wp-social-login-provider-list');\n                var $hlinks = $('.ps-js--wsl .hidden-links');\n                var $hdrop = $('.ps-js--wsl .ps-widget--wsl-dropdown');\n\n                var numOfItems = 0;\n                var totalSpace = 0;\n                var breakWidths = [];\n\n                \/\/ Get initial state\n                $vlinks.children().outerWidth(function(i, w) {\n                    totalSpace += w;\n                    numOfItems += 1;\n                    breakWidths.push(totalSpace);\n                });\n\n                var availableSpace, numOfVisibleItems, requiredSpace;\n\n                function check() {\n                    \/\/ Get instant state\n                    availableSpace = $vlinks.width() - 40;\n                    numOfVisibleItems = $vlinks.children().length;\n                    requiredSpace = breakWidths[numOfVisibleItems - 1];\n\n                    \/\/ There is not enought space\n                    if (requiredSpace > availableSpace) {\n                        $vlinks.children().last().prependTo($hlinks);\n                        numOfVisibleItems -= 1;\n                        check();\n                        \/\/ There is more than enough space\n                    } else if (availableSpace > breakWidths[numOfVisibleItems]) {\n                        $hlinks.children().first().appendTo($vlinks);\n                        numOfVisibleItems += 1;\n                    }\n\n                    \/\/ Update the button accordingly\n                    $btn.attr(\"count\", numOfItems - numOfVisibleItems);\n                    if (numOfVisibleItems === numOfItems) {\n                        $btn.addClass('hidden');\n                        $wrap.removeClass('has-more');\n                    } else $btn.removeClass('hidden'), $wrap.addClass('has-more');\n                }\n\n                \/\/ Window listeners\n                $(window).resize(function() {\n                    check();\n                });\n\n                $btn.on('click', function() {\n                    $hlinks.toggleClass('hidden');\n                    $hdrop.toggleClass('hidden');\n                });\n\n                check();\n\n            });\n        }\n\n        \/\/ naively check if jQuery exist to prevent error\n        var timer = setInterval(function() {\n            if ( window.jQuery && window.peepso ) {\n                clearInterval( timer );\n                initLoginForm( window.jQuery );\n            }\n        }, 1000 );\n\n    })();\n<\/script>\n","login_with_email":"","like_text":" personne aime \u00e7a","like_text_plural":" personnes aiment \u00e7a","profile_unsaved_notice":"Il y a des modifications non enregistr\u00e9es sur cette page.","profile_saving_notice":"Le syst\u00e8me est en train de sauver vos modifications.","comments_unsaved_notice":"Any unsaved comments will be discarded. Are you sure?","activity_limit_page_load":"1","activity_limit_below_fold":"3","loadmore_enable":"0","loadmore_repeat":"0","get_latest_interval":"30000","external_link_warning":"0","external_link_warning_page":"https:\/\/www.francemediasnumerique.net\/external-link\/","external_link_whitelist":"\n\n--peepso-url--\nhttps:\/\/www.facebook.com\/sharer.php\nhttps:\/\/twitter.com\/share\nhttps:\/\/www.linkedin.com\/shareArticle\nhttps:\/\/www.reddit.com\/submit\nhttps:\/\/pinterest.com\/pin\/create\/link\/\nhttps:\/\/api.whatsapp.com\/send\nhttps:\/\/t.me\/share\/url\nhttps:\/\/www.google.com\/bookmarks\/mark","trim_url":"0","trim_url_https":"0","notification_ajax_delay_min":"5000","notification_ajax_delay":"30000","notification_ajax_delay_multiplier":"1.5","notification_header":"<div class=\"ps-notif__box-title\">Notifications<\/div>\n<div class=\"ps-notif__box-actions\">\n\t<a href=\"https:\/\/www.francemediasnumerique.net\/profile\/?\/about\/notifications\/\">R\u00e9glages<\/a>\n<\/div>","notification_url":"https:\/\/www.francemediasnumerique.net\/notifications\/","sse":"0","sse_url":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/sse.php","sse_domains":["https:\/\/www.francemediasnumerique.net"],"sse_backend_delay":"5000","sse_backend_timeout":"30000","sse_backend_keepalive":"5","auto_rtl":"","show_powered_by":"","powered_by":"","_et_no_asyncscript":"var ETBuilderBackendDynamic = {","modules":[],"elements":{"post":{"text_save":"Sauvegarder","text_saved":"Enregistr\u00e9","html_saved_notice":"\n\t\t\t\t<div class=\"ps-stream__save-tooltip\"><span>Post saved! See your saved posts <a href=\"https:\/\/www.francemediasnumerique.net\/activity\/#saved\" onclick=\"window.location = 'https:\/\/www.francemediasnumerique.net\/activity\/#saved'; setTimeout(window.location.reload(), 500);\">here<\/a><\/span><\/div>\n\t\t\t","text_subscribe":"Follow","text_unsubscribe":"Abonnements","html_subscribed_notice":"\n\t\t\t\t<div class=\"ps-stream__follow-tooltip\"><span>Post followed! See the followed content <a href=\"https:\/\/www.francemediasnumerique.net\/activity\/#following\" onclick=\"window.location = 'https:\/\/www.francemediasnumerique.net\/activity\/#following'; setTimeout(window.location.reload(), 500);\">here<\/a><\/span><\/div>\n\t\t\t"}},"sections":{"search":{"show_images":null,"show_empty_sections":null,"text_no_results":"Aucun r\u00e9sultat."}},"upload":{"maxSize":134217728,"textErrorMaxSize":"Le poids de votre image t\u00e9l\u00e9vers\u00e9e est trop gros. Le poids maximum est <strong>128 Mo<\/strong>."},"avatar":{"_wpnonce":"1894d988ce","templateDialog2":"","textErrorFileType":"The file type you uploaded is not allowed. Only JPEG, PNG, and WEBP allowed.","uploadNonce":"05a854c0b2","uploadMaxSize":134217728,"templateDialog":"","textErrorFileSize":"Le poids de votre image t\u00e9l\u00e9vers\u00e9e est trop gros. Le poids maximum est <strong>128 Mo<\/strong>."},"cover":{"_wpnonce":"3132a1d455","templateDialog":"","textErrorFileType":"The file type you uploaded is not allowed. Only JPEG, PNG, and WEBP allowed."},"dialog":{"text_title_default":"Dialogue","text_title_error":"Erreur","text_title_confirm":"Confirmez","text_button_cancel":"Annuler","text_button_ok":"Ok","template":"\n<div class=\"ps-modal__wrapper\">\n\t\t<div class=\"ps-modal__container\">\n\t\t<div class=\"ps-modal {{= data.opts.wide ? 'ps-modal--wide' : '' }}\">\n\t\t\t<div class=\"ps-modal__inner\">\n\t\t\t\t<div class=\"ps-modal__header ps-js-header\">\n\t\t\t\t\t<div class=\"ps-modal__title ps-js-title\">{{= data.opts.title }}<\/div>\n\t\t\t\t\t<a href=\"#\" class=\"ps-modal__close ps-js-close\"><i class=\"gcis gci-times\"><\/i><\/a>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"ps-modal__body ps-js-body\">\n\t\t\t\t\t<div class=\"ps-modal__content\">{{= data.html }}<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t{{ if (data.opts.actions) { }}\n\t\t\t\t<div class=\"ps-modal__footer ps-js-footer\">\n\t\t\t\t\t<div class=\"ps-modal__actions\">\n\t\t\t\t\t\t{{ var actions = data.opts.actions; for (var i = 0; i < actions.length; i++) { }}\n\t\t\t\t\t\t<button class=\"ps-btn ps-btn--sm {{= actions[i].primary ? 'ps-btn--action' : '' }} {{= actions[i].class || '' }}\"\n\t\t\t\t\t\t\t\t{{ if (actions[i].iconHover) { }}\n\t\t\t\t\t\t\t\tdata-mouseover-icon=\"{{= actions[i].iconHover }}\"\n\t\t\t\t\t\t\t\t{{ } }}\n\t\t\t\t\t\t>\n\t\t\t\t\t\t\t{{ if (actions[i].icon) { }}\n\t\t\t\t\t\t\t<i class=\"{{= actions[i].icon }}\"><\/i>\n\t\t\t\t\t\t\t{{ } }}\n\t\t\t\t\t\t\t{{= actions[i].label }}\n\t\t\t\t\t\t\t{{ if (actions[i].loading) { }}\n\t\t\t\t\t\t\t<img src=\"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif\"\n\t\t\t\t\t\t\t\tclass=\"ps-js-loading\" alt=\"loading\" style=\"padding-left:5px; display:none\" \/>\n\t\t\t\t\t\t\t{{ } }}\n\t\t\t\t\t\t<\/button>\n\t\t\t\t\t\t{{ } }}\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t{{ } }}\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"},"activity":{"hide_from_guest":0,"is_permalink":0,"template_no_more":"<div class=\"ps-alert\">Il n\u2019y a rien de plus \u00e0 afficher.<\/div>\n","template_load_more":"<div class=\"ps-posts__action\">\n\t<button class=\"ps-btn ps-btn--full ps-btn--action\"><i class=\"gcis gci-arrow-circle-down\"><\/i><span>Afficher plus<\/span><\/button>\n<\/div>\n","template_report":"<form class=\"ps-form ps-form--vertical ps-form--report\">\n\t<div class=\"ps-form__row\">\n\t\t<select class=\"ps-input ps-input--sm ps-input--select ps-js-report-type\">\n<option value=\"\">- S\u00e9lectionnez la raison -<\/option>\n<option value=\"Spamming\">Spamming<\/option><option value=\"Advertisement\">Advertisement<\/option><option value=\"Profanity\">Profanity<\/option><option value=\"Inappropriate Content\/Abusive\">Inappropriate Content\/Abusive<\/option><option value=\"Other\" data-need-reason=\"1\">Autre<\/option><\/select>\n<div class=\"ps-js-report-desc\"><textarea class=\"ps-input ps-input--textarea\" maxlength=\"250\" placeholder=\"Signaler la description...\"><\/textarea><div class=\"ps-form__chars-count ps-js-counter\"><\/div><\/div><div class=\"ps-alert ps-alert--abort ps-js-report-error\" style=\"display:none\"><\/div>\t\t<div class=\"ps-alert ps-js-error\" style=\"display:none\"><\/div>\n\t<\/div>\n<\/form>\n\n<script type=\"text\/template\" data-name=\"opts\">{\"title\":\"Signaler du contenu \\u00e0 l\\u2019administrateur\",\"actions\":[{\"label\":\"Annuler\",\"class\":\"ps-js-cancel\"},{\"label\":\"Envoyer le rapport\",\"class\":\"ps-js-submit\",\"loading\":true,\"primary\":true}],\"text_select_reason\":\"ERROR: Please select a report reason.\",\"text_fill_description\":\"ERROR: Please provide the necessary report details.\"}<\/script>\n","template_repost":"<div id=\"repost-dialog\">\n\t<div class=\"dialog-title\">\n\t\tPartager cet article\t<\/div>\n\t<div class=\"dialog-content\">\n\t\t<form class=\"ps-form ps-form--repost ps-form--vertical\">\n\t\t\t<div class=\"ps-form__row\">\n\t\t\t\t<textarea id=\"share-post-box\" class=\"ps-input ps-input--textarea\" placeholder=\"Allez-y, dites ce qui vous passe par la t\u00eate.\"><\/textarea>\n\t\t\t<\/div>\n\t\t\t<div class=\"ps-form__row\">\n\t\t\t\t<div class=\"ps-dropdown ps-dropdown--menu ps-js-dropdown ps-js-dropdown--privacy\">\n\t\t\t\t\t<button class=\"ps-btn ps-btn--sm ps-dropdown__toggle ps-js-dropdown-toggle\" data-value=\"\">\n\t\t\t\t\t\t<span class=\"dropdown-value\"><i class=\"gcis gci-globe-americas\"><\/i><\/span>\n\t\t\t\t\t<\/button>\n\t\t\t\t\t<input type=\"hidden\" id=\"repost_acc\" name=\"repost_acc\" value=\"10\" \/>\n\t\t\t\t\t<div class=\"ps-dropdown__menu ps-js-dropdown-menu\"><a href=\"#\" data-option-value=\"10\" onclick=\"return \"><i class=\"gcis gci-globe-americas\"><\/i><span>Public<\/span><\/a><a href=\"#\" data-option-value=\"20\" onclick=\"return \"><i class=\"gcis gci-user-friends\"><\/i><span>Membres du site<\/span><\/a><a href=\"#\" data-option-value=\"40\" onclick=\"return \"><i class=\"gcis gci-lock\"><\/i><span>Seulement moi<\/span><\/a><\/div>\t\t\t\t<\/div>\n\t\t\t\t<input type=\"hidden\" id=\"postbox-post-id\" name=\"post_id\" value=\"{post-id}\" \/>\n\t\t\t<\/div>\n\t\t\t<div class=\"ps-form__row\">\n\t\t\t\t<blockquote>\n\t\t\t\t\t{post-content}\n\t\t\t\t<\/blockquote>\n\t\t\t<\/div>\n\t\t<\/form>\n\t<\/div>\n\t<div class=\"dialog-action\">\n\t\t<button type=\"button\" name=\"rep_cacel\" class=\"ps-btn ps-btn--sm\" onclick=\"pswindow.hide(); return false;\">Annuler<\/button>\n\t\t<button type=\"button\" name=\"rep_submit\" class=\"ps-btn ps-btn--sm ps-btn--action\" onclick=\"activity.submit_repost(); return false;\">Partager<\/button>\n\t<\/div>\n<\/div>\n"},"embed":{"enable":1,"enable_non_ssl":0},"hovercard":{"template":"<div class=\"ps-hovercard\">\n\t<div class=\"ps-hovercard__inner\">\n\t\t<div class=\"ps-hovercard__header ps-js-cover\">\n\t\t\t<div class=\"ps-hovercard__overlay\">\n\t\t\t\t<div class=\"ps-avatar ps-avatar--hovercard\">\n\t\t\t\t\t<img class=\"ps-js-avatar\" \/>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"ps-hovercard__name ps-js-name\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ps-hovercard__footer\">\n\t\t\t<div class=\"ps-hovercard__details\">\n\t\t\t\t<span class=\"ps-hovercard__count ps-hovercard__count--views\">\n\t\t\t\t\t<i class=\"ps-icon-eye\"><\/i>\n\t\t\t\t\t<span class=\"ps-js-views\">0<\/span>\n\t\t\t\t<\/span>\n\t\t\t\t<span class=\"ps-hovercard__count ps-hovercard__count--likes\">\n\t\t\t\t\t<i class=\"ps-icon-thumbs-up\"><\/i>\n\t\t\t\t\t<span class=\"ps-js-likes\">0<\/span>\n\t\t\t\t<\/span>\n\t\t\t\t<a href=\"#\" class=\"ps-hovercard__actions ps-js-link\">\n\t\t\t\t\tConsulter le profil\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ps-hovercard__loading ps-js-loading\">\n\t\t\t<i class=\"gcis gci-circle-notch gci-spin\"><\/i>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"},"datetime":{"text":{"am":" ","pm":" ","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"]}},"hashtags":{"url":"https:\/\/www.francemediasnumerique.net\/activity\/?hashtag\/","everything":0,"min_length":3,"max_length":16,"must_start_with_letter":0},"blogposts":{"delete_post_warning":"Supprimer cette publication r\u00e9initialisera les j\u2019aime et commentaires laiss\u00e9s sur le message de blog. Si l\u2019int\u00e9gration de commentaire est activ\u00e9e, une nouvelle publication d\u2019activit\u00e9 sera automatiquement cr\u00e9\u00e9e."},"markdown":{"highlight-js":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/js\/markdown\/highlight.min.js?ver=5.3.0.0","highlight-css":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/css\/markdown\/highlight.min.css?ver=5.3.0.0","no_paragraph":1,"enable_heading":1},"user":{"template_report":"<form class=\"ps-form ps-form--vertical ps-form--report\">\n\t<div class=\"ps-form__row\">\n\t\t<select class=\"ps-input ps-input--sm ps-input--select ps-js-report-type\">\n<option value=\"\">- S\u00e9lectionnez la raison -<\/option>\n<option value=\"Spamming\">Spamming<\/option><option value=\"Advertisement\">Advertisement<\/option><option value=\"Profanity\">Profanity<\/option><option value=\"Inappropriate Content\/Abusive\">Inappropriate Content\/Abusive<\/option><option value=\"Other\" data-need-reason=\"1\">Autre<\/option><\/select>\n<div class=\"ps-js-report-desc\"><textarea class=\"ps-input ps-input--textarea\" maxlength=\"250\" placeholder=\"Signaler la description...\"><\/textarea><div class=\"ps-form__chars-count ps-js-counter\"><\/div><\/div><div class=\"ps-alert ps-alert--abort ps-js-report-error\" style=\"display:none\"><\/div>\t\t<div class=\"ps-alert ps-js-error\" style=\"display:none\"><\/div>\n\t<\/div>\n<\/form>\n\n\n<script type=\"text\/template\" data-name=\"opts\">{\"title\":\"Signaler du contenu \\u00e0 l\\u2019administrateur\",\"actions\":[{\"label\":\"Annuler\",\"class\":\"ps-js-cancel\"},{\"label\":\"Envoyer le rapport\",\"class\":\"ps-js-submit\",\"loading\":true,\"primary\":true}],\"text_select_reason\":\"Erreur: S\\u2019il vous pla\\u00eet s\\u00e9lectionnez le Motif du rapport.\",\"text_fill_description\":\"ERREUR : veuillez donner une raison au signalement.\"}<\/script>\n"},"location":{"api_key":null,"template_selector":"<div class=\"ps-location ps-js-location-wrapper\">\n\t<div class=\"ps-location__inner ps-js-location\">\n\t\t<div class=\"ps-location__loading ps-js-location-loading\" style=\"display:none\">\n\t\t\t<img src=\"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif\" alt=\"\" \/>\n\t\t<\/div>\n\t\t<div class=\"ps-location__box ps-js-location-result\">\n\t\t\t<div class=\"ps-location__list ps-js-location-list\">\n\t\t\t\t<div class=\"ps-location__select ps-js-location-placeholder\"><i class=\"gcis gci-map-marked-alt\"><\/i> Saisir le nom de l\u2019emplacement\u2026<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ps-location__view ps-js-location-map\"><\/div>\n\t\t\t<div class=\"ps-location__actions\">\n\t\t\t\t<a href=\"#\" class=\"ps-btn ps-btn--sm ps-btn--action ps-js-select\">S\u00e9lectionner<\/a>\n\t\t\t\t<a href=\"#\" class=\"ps-btn ps-btn--sm ps-btn--abort ps-js-remove\">Supprimer<\/a>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"ps-location-fragment ps-js-location-fragment\" style=\"display:none\">\n\t\t<a href=\"#\" class=\"ps-location__list-item ps-js-location-listitem\" data-place-id=\"{place_id}\" onclick=\"return false;\">\n\t\t\t<strong class=\"ps-js-location-listitem-name\">{name}<\/strong>\n\t\t\t<span>{description}<\/span>\n\t\t<\/a>\n\t<\/div>\n<\/div>\n","template_postbox":"<div class=\"ps-postbox__location-inner ps-js-location-wrapper\">\n\t<div class=\"ps-postbox__location-box\">\n\t\t<div class=\"ps-postbox__location-field ps-input__wrapper ps-input__wrapper--icon\">\n\t\t\t<input type=\"text\" class=\"ps-input ps-input--icon ps-postbox__location-input\"\n\t\t\t\tplaceholder=\"Saisir votre emplacement\" value=\"\" \/>\n\t\t\t<i class=\"gcis gci-map-marked-alt\"><\/i>\n\t\t<\/div>\n\t\t<div class=\"ps-postbox__location-search\">\n\t\t\t<div class=\"ps-postbox__location-list ps-js-location-result\"\n\t\t\t\tdata-no-items=\"Aucun emplacement trouv\u00e9\"><\/div>\n\t\t\t<div class=\"ps-postbox__location-map ps-js-location-map\"><\/div>\n\t\t\t<div class=\"ps-loading\" style=\"display: none\">\n\t\t\t\t<div class=\"ps-postbox__location-item ps-postbox__location-item--loading ps-js-postbox-location-item ps-js-location-loading\">\n\t\t\t\t\t<img src=\"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif\" alt=\"\" \/>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ps-postbox__location-actions ps-js-location-action\" style=\"display:block\">\n\t\t\t\t<button class=\"ps-btn ps-btn--sm ps-btn--action ps-postbox__location-action ps-js-select\" style=\"display:none\">\n\t\t\t\t\t<i class=\"gcis gci-map-marker-alt\"><\/i><span>S\u00e9lectionner<\/span>\n\t\t\t\t<\/button>\n\t\t\t\t<button class=\"ps-btn ps-btn--sm ps-btn--abort ps-postbox__location-action ps-js-remove\" style=\"display:none\">\n\t\t\t\t\t<i class=\"gcis gci-times\"><\/i><span>Supprimer<\/span>\n\t\t\t\t<\/button>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t<script type=\"text\/template\" class=\"ps-js-location-fragment\">\n\t\t<div class=\"ps-postbox__location-item {{= data.place_id ? 'ps-js-location-listitem' : '' }}\" data-place-id=\"{{= data.place_id }}\" >\n\t\t\t<p class=\"ps-js-location-listitem-name\">{{= data.name }}<\/p>\n\t\t\t<span>{{= data.description || '&nbsp;' }}<\/span>\n\t\t<\/div>\n\t<\/script>\n<\/div>\n"},"wordfilter":{"keywords":["xfruqjgfibtwi"," fstymjwxfruqjgfibtwi"],"shift":5,"mask":"*","type":1,"filter_posts":1,"filter_comments":1},"vip":{"popoverEnable":false,"popoverTemplate":"<div class=\"ps-vip__dropdown\">\n\t{{ if ( data === 'loading' ) { }}\n\t<div style=\"width:100px; text-align:center\">\n\t\t<img src=\"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif\" \/>\n\t<\/div>\n\t{{ } else { }}\n\t{{ _.each( data, function( item ) { }}\n\t<div class=\"ps-vip-dropdown__item\">\n\t\t<img src=\"{{= item.icon_url }}\" alt=\"{{= item.title }}\" title=\"{{= item.title }}\" class=\"ps-vip__icon\" \/>\n\t\t<div class=\"ps-vip-dropdown-item__content\">\n\t\t\t<strong>{{= item.title }}<\/strong>\n\t\t\t<span>{{= item.content }}<\/span>\n\t\t<\/div>\n\t<\/div>\n\t{{ }); }}\n\t{{ } }}\n<\/div>\n","hovercardTemplate":"{{ if ( _.isObject( data.vip ) && ! _.isArray( data.vip ) ) { }}\n<div class=\"ps-hovercard__vip\">\n\t{{ _.each( data.vip, function( item ) { }}\n\t<span class=\"ps-hovercard__vip-item ps-vip__tooltip-trigger\"><img src=\"{{= item.icon_url }}\" alt=\"{{= item.title }}\" class=\"ps-vip__icon\"><\/span>\n\t<div class=\"ps-vip__tooltip\">\n\t\t<span class=\"ps-vip__tooltip-title\">{{= item.title }}<\/span>\n\t\t{{ if ( item.content ) { }}\n\t\t<span class=\"ps-vip__tooltip-desc\"> - {{= item.content }}<\/span>\n\t\t{{ } }}\n\t<\/div>\n\t{{ }); }}\n<\/div>\n{{ } }}\n"},"polls":{"textPostboxPlaceholder":"Say something about this poll...","textOptionPlaceholder":"Option %d"}};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/core.min.js?ver=5.3.0.0' id='peepso-core-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/modules.min.js?ver=5.3.0.0' id='peepso-modules-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/elements.min.js?ver=5.3.0.0' id='peepso-elements-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/sections.min.js?ver=5.3.0.0' id='peepso-sections-js'></script>
+<script id='peepso-window-js-extra'>
+var peepsowindowdata = {"label_confirm":"Confirmez","label_confirm_delete":"Supprimer la confirmation","label_confirm_delete_content":"Confirmez-vous vouloir effacer ceci\u00a0?","label_yes":"Oui","label_no":"Non","label_delete":"Supprimer","label_cancel":"Annuler","label_okay":"D\u2019accord"};
+</script>
+<script id='peepso-bundle-js-extra'>
+var peepsolightboxdata = {"template":"<div class=\"ps-lightbox ps-js-lightbox\">\n\t<div class=\"ps-lightbox__inner ps-lightbox-padding\">\n\t\t<div class=\"ps-lightbox__container ps-lightbox-wrapper\">\n\t\t\t<div class=\"ps-lightbox__view ps-lightbox-content\">\n\t\t\t\t<div class=\"ps-lightbox__object ps-lightbox-object\"><\/div>\n\t\t\t\t<button class=\"ps-lightbox__nav ps-lightbox__nav--left ps-lightbox-arrow-prev\"><i class=\"gcis gci-chevron-left\"><\/i><\/button>\n\t\t\t\t<button class=\"ps-lightbox__nav ps-lightbox__nav--right ps-lightbox-arrow-next\"><i class=\"gcis gci-chevron-right\"><\/i><\/button>\n\t\t\t\t<div class=\"ps-lightbox__zoom ps-lightbox-imagelink\">\n\t\t\t\t\t<a target=\"_blank\">\n\t\t\t\t\t\t<i class=\"gcis gci-expand-arrows-alt\"><\/i>\n\t\t\t\t\t\tVoir l\u2019image compl\u00e8te\t\t\t\t\t<\/a>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"ps-lightbox__actions ps-lightbox-toolbar\">\n\t\t\t\t\t<div class=\"ps-lightbox__action ps-lightbox-toolbar-actions\">\n\t\t\t\t\t\t<button class=\"ps-lightbox-data-toggle\">\n\t\t\t\t\t\t\t<i class=\"gcis gci-comments\"><\/i>\n\t\t\t\t\t\t\tCommentaires\t\t\t\t\t\t<\/button>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"ps-lightbox__loading ps-lightbox__spinner ps-lightbox-spinner\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ps-lightbox__side\"><div class=\"ps-lightbox__side-inner ps-lightbox-data\"><\/div><\/div>\n\t\t\t<div class=\"ps-lightbox__close ps-lightbox-close\" aria-label=\"Fermer\"><i class=\"gcis gci-times\"><\/i><\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"};
+var peepsotimedata = {"ts":"1668010956","now":"Juste maintenant","min_1":"il y a %s minute","min_2":"il y a %s minutes","min_3":"il y a %s minutes","hour_1":"il y a %s heure","hour_2":"il y a %s heures","hour_3":"il y a %s heures","day_1":"il y a %s jour","day_2":"il y a %s jours","day_3":"il y a %s jours","week_1":"il y a %s semaine","week_2":"il y a %s semaines","week_3":"il y a %s semaines","month_1":"il y a %s mois","month_2":"il y a %s mois","month_3":"il y a %s mois","year_1":"il y a %s an","year_2":"il y a %s ans","year_3":"il y a %s ans"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/bundle.min.js?ver=5.3.0.0' id='peepso-bundle-js'></script>
+<script id='peepso-member-js-extra'>
+var peepsomemberdata = {"ban_popup_title":"Bannir cet utilisateur","ban_popup_content":"<form id=\"form_ban_user\" class=\"ps-form--ban\">\n\t<div class=\"ps-form__row\">\n\t\t<div class=\"ps-form__label\">\n\t\t\t<div class=\"ps-checkbox\">\n\t\t\t\t<div class=\"ps-checkbox ps-checkbox--radio\">\n\t\t\t\t\t<input class=\"ps-checkbox__input\" type=\"radio\" name=\"ban_type\" id=\"ban-period\" value=\"ban_period\" checked=\"checked\">\n\t\t\t\t\t<label class=\"ps-checkbox__label\" for=\"ban-period\">Bannir cet utilisateur jusqu\u2019au<\/label>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ps-form__field\">\n\t\t\t<input type=\"text\" class=\"ps-input ps-input--sm\" width=\"auto\" name=\"ban_period_date\" value=\"10 novembre 2022\" data-date-start-date=\"10 novembre 2022\" \/>\n\t\t\t<div id=\"ban-period-empty\" class=\"ps-text--danger ps-form__helper\" style=\"display:none\">Merci de remplir la date<\/div>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"ps-form__row\">\n\t\t<div class=\"ps-form__label ps-full\">\n\t\t\t<div class=\"ps-checkbox ps-checkbox--radio\">\n\t\t\t\t<input class=\"ps-checkbox__input\" type=\"radio\" name=\"ban_type\" id=\"ban-forever\" value=\"ban_forever\">\n\t\t\t\t<label class=\"ps-checkbox__label\" for=\"ban-forever\">Bannir cet utilisateur pour toujours<\/label>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/form>\n","ban_popup_save":"Bannir cet utilisateur","ban_popup_cancel":"Annuler"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/member.min.js?ver=5.3.0.0' id='peepso-member-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/activitystream.min.js?ver=5.3.0.0' id='peepso-activitystream-js'></script>
+<script id='peepso-comment-js-extra'>
+var peepsocommentdata = {"label_reply":"R\u00e9pondre","label_view":"Voir les r\u00e9ponses","icon_reply":"ps-icon-plus","icon_view":"ps-icon-eye"};
+var peepsocommentdata = {"label_reply":"R\u00e9pondre","label_view":"Voir les r\u00e9ponses","icon_reply":"ps-icon-plus","icon_view":"ps-icon-eye"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/comment.min.js?ver=5.3.0.0' id='peepso-comment-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/form.min.js?ver=5.3.0.0' id='peepso-form-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/activity.min.js?ver=5.3.0.0' id='peepso-activity-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/image-scale.min.js?ver=5.3.0.0' id='image-scale-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/modal-comments.min.js?ver=5.3.0.0' id='peepso-modal-comments-js'></script>
+<script id='peepsoreactions-js-extra'>
+var peepsoreactionsdata = {"ajaxloader":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/peepso-core\/assets\/images\/ajax-loader.gif"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/reactions.min.js?ver=5.3.0.0' id='peepsoreactions-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/hashtags.min.js?ver=5.3.0.0' id='peepso-hashtags-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/page-autoload.min.js?ver=5.3.0.0' id='peepso-page-autoload-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/blogposts.min.js?ver=5.3.0.0' id='peepso-blogposts-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/markdown.min.js?ver=5.3.0.0' id='peepso-markdown-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/wp-embed.min.js?ver=6.1' id='wp-embed-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/follower.min.js?ver=5.3.0.0' id='peepso_-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/www.francemediasnumerique.net\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script id='crisp-js-before'>
+    window.$crisp=[];
+    CRISP_RUNTIME_CONFIG = {
+      locale : 'fr-fr'
+    };
+    CRISP_WEBSITE_ID = '0aa847c9-32e1-4a95-876e-772b556abf5c';
+</script>
+<script  async src='https://client.crisp.chat/l.js?ver=6.1' id='crisp-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.15' id='scripts-js'></script>
+<script src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit' id='scripts-google-js'></script>
+<script id='thickbox-js-extra'>
+var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"https:\/\/www.francemediasnumerique.net\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/www.francemediasnumerique.net\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.0' id='wc-add-to-cart-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d6576c8bf297f8380912421eac8821eb","fragment_name":"wc_fragments_d6576c8bf297f8380912421eac8821eb","request_timeout":"5000"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.0' id='wc-cart-fragments-js'></script>
+<script id='ppcp-smart-button-js-extra'>
+var PayPalCommerceGateway = {"script_attributes":{"data-partner-attribution-id":"Woo_PPCP"},"data_client_id":{"set_attribute":false,"endpoint":"\/?wc-ajax=ppc-data-client-id","nonce":"572779ed90","user":0,"has_subscriptions":false},"redirect":"https:\/\/www.francemediasnumerique.net\/checkout\/","context":"mini-cart","ajax":{"change_cart":{"endpoint":"\/?wc-ajax=ppc-change-cart","nonce":"1ee76565f4"},"create_order":{"endpoint":"\/?wc-ajax=ppc-create-order","nonce":"f80ae907e4"},"approve_order":{"endpoint":"\/?wc-ajax=ppc-approve-order","nonce":"125bad6a19"},"vault_paypal":{"endpoint":"\/?wc-ajax=ppc-vault-paypal","nonce":"0923c76f51"}},"enforce_vault":"","can_save_vault_token":"","is_free_trial_cart":"","vaulted_paypal_email":"","bn_codes":{"checkout":"Woo_PPCP","cart":"Woo_PPCP","mini-cart":"Woo_PPCP","product":"Woo_PPCP"},"payer":null,"button":{"wrapper":"#ppc-button-ppcp-gateway","mini_cart_wrapper":"#ppc-button-minicart","cancel_wrapper":"#ppcp-cancel","url":"https:\/\/www.paypal.com\/sdk\/js?client-id=AbHhbO3bgaDIeKdK-4fS8kfq0DSshrx8QdCbeHdjgWWJk1E-CEszg8JonBl4X1f5kdYUfezH75EgaE7u&currency=EUR&integration-date=2022-04-13&components=buttons,funding-eligibility,messages&vault=false&commit=false&intent=capture&disable-funding=card&enable-funding=venmo,paylater","mini_cart_style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal","tagline":false,"height":35},"style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal","tagline":false}},"separate_buttons":{"card":{"id":"ppcp-card-button-gateway","wrapper":"#ppc-button-ppcp-card-button-gateway","style":{"shape":"rect"}}},"hosted_fields":{"wrapper":"#ppcp-hosted-fields","labels":{"credit_card_number":"","cvv":"","mm_yy":"MM\/YY","fields_not_valid":"Unfortunately, your credit card details are not valid.","card_not_supported":"Unfortunately, we do not support your credit card.","cardholder_name_required":"Cardholder's first and last name are required, please fill the checkout form required fields."},"valid_cards":["mastercard","visa","amex","american-express","master-card"],"contingency":"SCA_WHEN_REQUIRED"},"messages":{"wrapper":"#ppcp-messages","amount":0,"placement":"product","style":{"layout":"text","logo":{"type":"primary","position":"left"},"text":{"color":"black"},"color":"blue","ratio":"1x1"}},"labels":{"error":{"generic":"Something went wrong. Please try again or choose another payment source.","required":{"generic":"Required form fields are not filled.","field":"%s est obligatoire.","elements":{"terms":"Veuillez lire et accepter les conditions g\u00e9n\u00e9rales pour poursuivre votre commande."}}},"billing_field":"%s de facturation","shipping_field":"%s de livraison"},"order_id":"0","single_product_buttons_enabled":"1","mini_cart_buttons_enabled":"1","basic_checkout_validation_enabled":"1"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=1.9.4' id='ppcp-smart-button-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/bootstrap/js/bootstrap.min.js?ver=4.0.0' id='bootstrap-script-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/owl-carousel/owl.carousel.min.js?ver=2.3.4' id='owl-carousel-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/match-height/jquery.matchHeight-min.js?ver=0.7.2' id='jquery-match-height-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/js/skip-link-focus-fix.js?ver=20151215' id='magazinenp-skip-link-focus-fix-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/jquery.marquee/jquery.marquee.min.js?ver=6.1' id='jquery-marquee-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/vendor/sticky/jquery.sticky.js?ver=1.0.4' id='jquery-sticky-js'></script>
+<script id='magazinenp-scripts-js-extra'>
+var magazinenp_script = {"ticker_direction":"left"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazinenp/assets/js/magazinenp.js?ver=1.1.12' id='magazinenp-scripts-js'></script>
+<script id='peepsotags-js-extra'>
+var peepsotagsdata = {"parser":"@peepso_user_(\\d+)(?:\\(([^\\)]+)\\))?","template":"@peepso_user_<%= id %>(<%= title %>)"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/usertags.min.js?ver=5.3.0.0' id='peepsotags-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/location.min.js?ver=5.3.0.0' id='peepsolocation-js-js'></script>
+<script id='peepso-postbox-js-extra'>
+var psdata_postbox = {"template":"","max_chars":"4000"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/moods.min.js?ver=5.3.0.0' id='peepso-moods-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/wordfilter/bundle.min.js?ver=5.3.0.0' id='peepso-wordfilter-js'></script>
+<script id='peepso-giphy-js-extra'>
+var peepsogiphydata = {"dialogGiphyTemplate":"<div class=\"ps-giphy ps-giphy--slider ps-js-giphy-container\">\n\t<div class=\"ps-giphy__search\">\n\t\t<input type=\"text\" class=\"ps-input ps-input--sm ps-giphy__input ps-js-giphy-query\"\n\t\tplaceholder=\"Search...\" style=\"display:none\" \/>\n\t\t<div class=\"ps-giphy__powered\">\n\t\t\t<a href=\"https:\/\/giphy.com\/\" target=\"_blank\"><\/a>\n\t\t<\/div>\n\t<\/div>\n\n\t<div class=\"ps-giphy__loading ps-loading ps-js-giphy-loading\">\n\t\t<i class=\"gcis gci-circle-notch gci-spin\"><\/i>\n\t<\/div>\n\n\t<div class=\"ps-giphy__slider ps-js-slider\">\n\t\t<div class=\"ps-giphy__slides ps-js-giphy-list\"><\/div>\n\n\t\t<script type=\"text\/template\" class=\"ps-js-giphy-list-item\">\n\t\t\t<div class=\"ps-giphy__slide ps-giphy__slides-item ps-js-giphy-item\">\n\t\t\t\t<img class=\"ps-giphy__slide-image\" src=\"{{= data.preview }}\" data-id=\"{{= data.id }}\" data-url=\"{{= data.src }}\" \/>\n\t\t\t<\/div>\n\t\t<\/script>\n\n\t\t<div class=\"ps-giphy__nav ps-giphy__nav--left ps-js-giphy-nav-left\"><i class=\"gcis gci-chevron-left\"><\/i><\/div>\n\t\t<div class=\"ps-giphy__nav ps-giphy__nav--right ps-js-giphy-nav-right\"><i class=\"gcis gci-chevron-right\"><\/i><\/div>\n\t<\/div>\n<\/div>\n","giphy_api_key":"3o6Zt9GewH6JbI812w","giphy_rating":"","giphy_rendition_posts":"original","giphy_rendition_comments":"fixed_width","giphy_rendition_messages":"fixed_width","giphy_display_limit":"25"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/giphy.min.js?ver=5.3.0.0' id='peepso-giphy-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/vip/bundle.min.js?ver=5.3.0.0' id='peepso-vip-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/polls/bundle.min.js?ver=5.3.0.0' id='peepsopolls-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/peepso-core/assets/js/jquery.autosize.min.js?ver=5.3.0.0' id='peepso-resize-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/wc-frontend-manager/includes/libs/jquery-blockui/jquery.blockUI.min.js?ver=6.6.5' id='jquery-blockui_js-js'></script>
+<script id='wcfm_core_js-js-extra'>
+var wcfm_notification_sound = {"file":"https:\/\/www.francemediasnumerique.net\/wp-content\/plugins\/wc-frontend-manager\/assets\/sounds\/notification.mp3"};
+var wcfm_core_dashboard_messages = {"product_approve_confirm":"\u00cates-vous s\u00fbr et que vous souhaitez approuver \/ publier ce \u00abproduit\u00bb?","product_reject_confirm":"Are you sure and want to reject this 'Product'?\nReason:","product_archive_confirm":"Are you sure and want to archive this 'Product'?","multiblock_delete_confirm":"Are you sure and want to delete this 'Block'?\nYou can't undo this action ...","article_delete_confirm":"\u00cates-vous s\u00fbr de vouloir supprimer cet 'Article'?\nVous ne pouvez pas annuler cette action ...","product_delete_confirm":"\u00cates-vous s\u00fbr de vouloir supprimer ce 'Produit'? Vous ne pouvez pas annuler cette action ...","message_delete_confirm":"\u00cates-vous s\u00fbr de vouloir supprimer ce 'Message''? Vous ne pouvez pas annuler cette action ...","order_delete_confirm":"\u00cates-vous s\u00fbr de vouloir supprimer cette 'commande'? Vous ne pouvez pas annuler cette action ...","enquiry_delete_confirm":"\u00cates-vous s\u00fbr et que vous souhaitez supprimer cette 'Demande'?\nVous ne pouvez pas annuler cette action ...","support_delete_confirm":"\u00cates-vous s\u00fbr et que vous souhaitez supprimer ce \u00abticket de support\u00bb?\nVous ne pouvez pas annuler cette action ...","follower_delete_confirm":"\u00cates-vous s\u00fbr de vouloir supprimer ce 'Follower'?\nVous ne pouvez pas annuler cette action ...","following_delete_confirm":"\u00cates-vous s\u00fbr et que vous voulez supprimer ce 'suivant'?\nVous ne pouvez pas annuler cette action ...","resource_delete_confirm":"Are you sure and want to delete this 'Resource'?\nYou can't undo this action ...","auction_bid_delete_confirm":"Are you sure and want to delete this 'Bid'?\nYou can't undo this action ...","order_mark_complete_confirm":"Etes-vous s\u00fbr que vous voulez marquer compl\u00e8te cette commande ?","booking_mark_complete_confirm":"\u00cates-vous s\u00fbr de vouloir marquer cette r\u00e9servation, comme confirm\u00e9e ?","booking_mark_decline_confirm":"Are you sure and want to 'Mark as Declined' this Booking?","appointment_mark_complete_confirm":"Etes-vous s\u00fbr de vouloir marquer ce rendez-vous comme 'complet' ?","add_new":"Ajouter","select_all":"Tout s\u00e9lectionner","select_none":"Ne rien s\u00e9lectionner","any_attribute":"Tous","add_attribute_term":"Saisissez un nom pour le nouvel attribut du terme\u00a0:","wcfmu_upgrade_notice":"Veuillez mettre \u00e0 jour votre gestionnaire frontend WC vers la version Ultimate et profiter de cette fonctionnalit\u00e9.","pdf_invoice_upgrade_notice":"Installez WC frontend Manager Ultimate et WooCommerce PDF factures et des bordereaux d'emballage pour b\u00e9n\u00e9ficier de cette fonctionnalit\u00e9.","wcfm_bulk_action_no_option":"Veuillez s\u00e9lectionner quelques articles","wcfm_bulk_action_confirm":"Etes-vous s\u00fbr et que vous voulez faire cela?\nVous ne pouvez pas annuler cette action...","review_status_update_confirm":"Es-tu s\u00fbr de vouloir faire \u00e7a?","everywhere":"Partout ailleurs","required_message":"Ce champ est requis.","choose_select2":"Choisir ","category_attribute_mapping":"All Attributes","search_page_select2":"Search for a page ...","search_attribute_select2":"Search for an attribute ...","search_product_select2":"Filter by product ...","search_taxonomy_select2":"Filter by category ...","choose_category_select2":"Choose Categories ...","choose_listings_select2":"Choisissez les listes...","choose_tags_select2":"Choose Tags ...","choose_vendor_select2":"Choose Magasin ...","no_category_select2":"Aucune cat\u00e9gorie","select2_searching":"Recherche\u2026","select2_no_result":"Aucun r\u00e9sultat correspondant trouv\u00e9.","select2_loading_more":"Chargement ...","select2_minimum_input":"Nombre minimum de caract\u00e8res","wcfm_product_popup_next":"Suivant","wcfm_product_popup_previous":"Pr\u00e9c\u00e9dent","wcfm_multiblick_addnew_help":"Add New Block","wcfm_multiblick_remove_help":"Remove Block","wcfm_multiblick_collapse_help":"Toggle Block","wcfm_multiblick_sortable_help":"Drag to re-arrange blocks","sell_this_item_confirm":"Do you want to add this item(s) to your store?","bulk_no_itm_selected":"Please select some product first!","user_non_logged_in":"Please login to the site first!","shiping_method_not_selected":"Please select a shipping method","shiping_method_not_found":"Shipping method not found","shiping_zone_not_found":"Shipping zone not found","shipping_method_del_confirm":"Are you sure you want to delete this 'Shipping Method'?\nYou can't undo this action ...","variation_auto_generate_confirm":"Are you sure you want to link all variations? This will create a new variation for each and every possible combination of variation attributes (max 50 per run)."};
+var wcfm_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp-admin\/admin-ajax.php","shop_url":"https:\/\/www.francemediasnumerique.net\/shop\/","wcfm_is_allow_wcfm":"","wcfm_is_vendor":"","is_user_logged_in":"","wcfm_allow_tinymce_options":"undo redo | insert | styleselect | bold italic | alignleft aligncenter alignright alignjustify |  bullist numlist outdent indent | link image | ltr rtl","unread_message":"0","unread_enquiry":"0","wcfm_is_allow_new_message_check":"","wcfm_new_message_check_duration":"60000","wcfm_is_desktop_notification":"1","is_mobile_desktop_notification":"","wcfm_is_allow_external_product_analytics":"","is_mobile":"1","is_tablet":"","wcfm_ajax_nonce":"6241feeb37"};
+var wcfm_enquiry_manage_messages = {"no_name":"Le nom est requis.","no_email":"Le champ Email est requis.","no_enquiry":"Merci de r\u00e9diger votre demande avant de la soumettre.","no_reply":"Please insert your reply before submit.","enquiry_saved":"Votre demande a \u00e9t\u00e9 envoy\u00e9e avec succ\u00e8s.","enquiry_published":"R\u00e9ponse \u00e0 la demande publi\u00e9e avec succ\u00e8s.","enquiry_reply_saved":"Your reply successfully sent."};
+var wcfmu_products_manage_messages = {"no_title":"Veuillez ins\u00e9rer le titre avant de soumettre.","no_excerpt":"Please insert Product Short Description before submit.","no_description":"Please insert Product Description before submit.","sku_unique":"La r\u00e9f\u00e9rence du produit doit \u00eatre unique.","variation_sku_unique":"La variation de code du produit SKU doit \u00eatre unique.","product_saved":"Produit sauvegard\u00e9 avec succ\u00e8s.","product_pending":"Produit soumis avec succ\u00e8s pour mod\u00e9ration.","product_published":"Produit publi\u00e9 avec succ\u00e8s.","set_stock":"Set Stock","increase_stock":"Increase Stock","regular_price":"Prix de vente","regular_price_increase":"Regular price increase by","regular_price_decrease":"Regular price decrease by","sales_price":"Prix de vente","sales_price_increase":"Sale price increase by","sales_price_decrease":"Sale price decrease by","length":"Longueur","width":"Largeur  ","height":"Hauteur","weight":"Poids","download_limit":"Limite de t\u00e9l\u00e9chargement","download_expiry":"Expiration du t\u00e9l\u00e9chargement"};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/wc-frontend-manager/assets/js/min/wcfm-script-core.js?ver=6.6.5' id='wcfm_core_js-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazineplus/assets/vendor/easy-tabs/jquery.easytabs.js?ver=1.0.5' id='magazineplus-easytabs-js'></script>
+<script src='https://www.francemediasnumerique.net/wp-content/themes/magazineplus/assets/js/main.js?ver=1.0.5' id='magazineplus-script-main-js'></script>
+<script id='mailpoet_public-js-extra'>
+var MailPoetForm = {"ajax_url":"https:\/\/www.francemediasnumerique.net\/wp-admin\/admin-ajax.php","is_rtl":""};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=3.102.1' id='mailpoet_public-js'></script>
+<script id='mailpoet_public-js-after'>
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'Une erreur est survenue lors du traitement de la demande, veuillez réessayer plus tard.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/html5-video-player/js/plyr.js?ver=2.5.8' id='bplugins-plyrio-js'></script>
+<script id='h5vp-public-js-extra'>
+var h5vp = {"pauseOther":""};
+</script>
+<script src='https://www.francemediasnumerique.net/wp-content/plugins/html5-video-player/dist/public.js?ver=2.5.8' id='h5vp-public-js'></script>
+
+</body>
+</html>
+0
+

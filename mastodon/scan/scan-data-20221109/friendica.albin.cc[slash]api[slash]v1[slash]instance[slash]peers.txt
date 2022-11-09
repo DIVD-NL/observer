@@ -1,0 +1,22 @@
+HTTP/1.1 303 See Other
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:51:53 GMT
+Location: https://albinsocial.com/api/v1/instance/peers
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx/1.14.2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: ba988294-9d78-4827-9324-8556a7e8afc5
+X-Runtime: 0.010770
+X-Xss-Protection: 1; mode=block
+
+6f
+<html><body>You are being <a href="https://albinsocial.com/api/v1/instance/peers">redirected</a>.</body></html>
+0
+

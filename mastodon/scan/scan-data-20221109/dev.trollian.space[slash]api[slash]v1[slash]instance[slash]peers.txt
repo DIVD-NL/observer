@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://dev.trollian.space; font-src 'self' https://dev.trollian.space; img-src 'self' data: blob: https://dev.trollian.space; style-src 'self' https://dev.trollian.space 'nonce-irMUqxkJD/ci4knPxEIJPw=='; media-src 'self' data: https://dev.trollian.space; frame-src 'self' https:; child-src 'self' blob: https://dev.trollian.space; worker-src 'self' blob: https://dev.trollian.space; connect-src 'self' blob: data: wss://dev.trollian.space https://dev.trollian.space; manifest-src 'self' https://dev.trollian.space
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:36 GMT
+Etag: W/"4f53cda18c2baa0c0354bb5f9a3ecbe5"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:05:00.473238Z
+X-Request-Id: 64cc19a0-edbc-4205-af7f-4877dd6ed0ea
+X-Runtime: 0.036172
+X-Xss-Protection: 0
+
+2
+[]
+0
+

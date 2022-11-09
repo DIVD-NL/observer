@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677848dbc072e3e-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.andrewstaylor.com; img-src 'self' https: data: blob: https://social.andrewstaylor.com; style-src 'self' https://social.andrewstaylor.com 'nonce-UlI3+bb3h8O+MSh2SOQ5XQ=='; media-src 'self' https: data: https://social.andrewstaylor.com; frame-src 'self' https:; manifest-src 'self' https://social.andrewstaylor.com; connect-src 'self' data: blob: https://social.andrewstaylor.com https://social.andrewstaylor.com wss://social.andrewstaylor.com; script-src 'self' https://social.andrewstaylor.com; child-src 'self' blob: https://social.andrewstaylor.com; worker-src 'self' blob: https://social.andrewstaylor.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:52 GMT
+Etag: W/"667277ed070c997c07315dae8f28961f"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6E%2FEa7zW7N7K0av5JwmUi7pCQBgHu61JWlaUp%2Bp%2B9Qq%2F8vZZBfnG7Ha4A9yrsD5cj65av%2FCxGCYK4QosgqYGdGmvIUntdTA68cTyNkV4DAhBme%2B8vOr8iZtT9rLSqGdq9qPF3vQXW8Q%2BaN8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T07:10:00.127051Z
+X-Request-Id: 69627cdc-c050-4f05-a6ed-a80ef9c7cf6d
+X-Runtime: 0.005414
+X-Xss-Protection: 0
+
+25a
+["aus.social","mastodon.ie","mastodon.online","mastodon.nl","social.jmueller.eu","quitter.pl","fri.aethercom.de","friendica.mschmidt-et.de","friendica.mifritscher.de","friendica.offsite.guru","masto.pt","redeyes.club","petroskowo.pl","t2.thotsofa304.club","friendica.opencloud.lu","friendica.myportal.social","friendica.ucy.de","friendica.togart.de","f.kretschmann.social","mastodon.green","mastodon.social","f.iroiro.party","kudabiverse.com","oldbytes.space","chaos.social","ioc.exchange","friendica.kommune4.de","f.freinetz.ch","hachyderm.io","fosstodon.org","follow.schmaller.de","infosec.exchange"]
+0
+

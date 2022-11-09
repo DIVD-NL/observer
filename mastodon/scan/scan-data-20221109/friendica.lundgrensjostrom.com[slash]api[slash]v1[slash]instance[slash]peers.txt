@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 234
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:19 GMT
+Server: Apache/2.4.54 (Debian)
+X-Account-Management-Status: none
+X-Response-Type: json
+
+[
+    "friendica.lundgrensjostrom.com",
+    "pleroma.lundgrensjostrom.com",
+    "pixelfed.lundgrensjostrom.com",
+    "piratenpartei.social",
+    "pirati.ca",
+    "loma.ml",
+    "friendica.heikosblog.eu",
+    "friendica.hashy-net.de"
+]

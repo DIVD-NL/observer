@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.lepetitcloud.com; img-src 'self' https: data: blob: https://mastodon.lepetitcloud.com; style-src 'self' https://mastodon.lepetitcloud.com 'nonce-vTc2rkGd/5GPg1y3vwEdAA=='; media-src 'self' https: data: https://mastodon.lepetitcloud.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.lepetitcloud.com; connect-src 'self' data: blob: https://mastodon.lepetitcloud.com https://files.example.com wss://mastodon.lepetitcloud.com; script-src 'self' https://mastodon.lepetitcloud.com; child-src 'self' blob: https://mastodon.lepetitcloud.com; worker-src 'self' blob: https://mastodon.lepetitcloud.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:41 GMT
+Etag: W/"ad69a855ff1769f7ee0bc500640a051b"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.776776Z
+X-Request-Id: 6ca51c26-6824-4e3d-a46d-fba0fbd62576
+X-Runtime: 0.029859
+X-Xss-Protection: 0
+
+38
+["climatejustice.social","framapiaf.org","mstdn.social"]
+0
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 927
+Cache-Control: private, max-age=0, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:00 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+["mastodon.sdf.org","mastodo.ru","mastodon.g2od.ch","qoto.org","shitpost.poridge.club","mastodon.nl","s.lono.space","eldritch.cafe","mastodon.social","social.linux.pizza","octodon.social","soc.ua-fediland.de","magicalmirro.red","aus.social","quietplace.xyz","dindon.one","mast.lono.ml","noagendasocial.com","loma.ml","social.restless.systems","social.tchncs.de","dresden.network","social.bau-ha.us","friendica.heikosblog.eu","troet.cafe","norden.social","mastodon.ml","mas.to","meow.social","expired.mentality.rip","mastodon.cloud","red.niboe.info","freeradical.zone","social.mykolayiv.dcomm.net.ua","fedibird.com","mastodon.technology","digitalcourage.social","mastodon.lol","m.cmx.im","mastodon.online","toot.community","chaos.social","md.ilyamikcoder.com","honk.any-key.press","lor.sh","zhub.link","mstdn.social","icosahedron.website","layer8.space","mindly.social","nobl.ink","obo.sh","social.fellr.net","kolektiva.social"]

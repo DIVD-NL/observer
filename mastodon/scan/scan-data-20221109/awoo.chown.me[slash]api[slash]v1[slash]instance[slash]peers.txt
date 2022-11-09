@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://awoo.chown.me; img-src 'self' https: data: blob: https://awoo.chown.me; style-src 'self' https://awoo.chown.me 'nonce-NTJ6+IFFf0MrmHaAIDcwVA=='; media-src 'self' https: data: https://awoo.chown.me; frame-src 'self' https:; manifest-src 'self' https://awoo.chown.me; connect-src 'self' data: blob: https://awoo.chown.me https://dumpster.chown.me wss://awoo.chown.me; script-src 'self' https://awoo.chown.me; child-src 'self' blob: https://awoo.chown.me; worker-src 'self' blob: https://awoo.chown.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:04 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.858925Z
+X-Request-Id: c194e756-570a-4b8c-a427-00a62e94ca22
+X-Runtime: 0.013036
+X-Xss-Protection: 0
+
+0
+

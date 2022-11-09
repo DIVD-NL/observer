@@ -1,0 +1,29 @@
+HTTP/1.1 302 Found
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-TExFdUhhNjYxUGFsTU9iOEF6N0JJWVFxMmgyZGpXaHhaVFNUeDVqSVlhVT06VGVadGErZmlzcEhOYXA2Sk1IQ1ZWY2RsdEhydTVqMEpWV1Arcy91Y0Q0bz0='; style-src 'self' 'unsafe-inline'; frame-src *; img-src * data: blob:; font-src 'self' data:; media-src *; connect-src *; object-src 'none'; base-uri 'self';
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:19:37 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://next.sonsofbattlefield.de/login
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: oclh0iwaaofk=a938829ac4db49a28ad1edb0e33fb2d8; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=4gkeEfqpVUDhaceF8Qv1qIB63lJ5F%2FUGqCMH6u7usQXA3BvZvGris7GNn4OPzgxNGJum0fHSKYOa%2F%2FLcR5FEthroke1jhpQy%2BRkZd%2FcuF%2BR9O6vWclJ%2B%2FaZY4Mgcwtny; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oclh0iwaaofk=2d6db75ab04fdc6f4e911339c4a2d313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oclh0iwaaofk=2d6db75ab04fdc6f4e911339c4a2d313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: oclh0iwaaofk=2d6db75ab04fdc6f4e911339c4a2d313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oclh0iwaaofk=2d6db75ab04fdc6f4e911339c4a2d313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oclh0iwaaofk=2d6db75ab04fdc6f4e911339c4a2d313; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/8.1.12
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

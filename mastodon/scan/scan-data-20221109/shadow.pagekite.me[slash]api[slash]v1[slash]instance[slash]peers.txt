@@ -1,0 +1,9 @@
+HTTP/1.1 503 Unavailable
+Connection: close
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Expires: 0
+Pragma: no-cache
+X-Pagekite-Uuid: 3517687ad6371b86f39a6eb85096399177bdaa77
+
+<html><frameset cols="*"><frame target="_top" src="https://pagekite.net/offline/?&amp;where=FE&amp;proto=http&amp;domain=shadow.pagekite.me&amp;relay=::ffff:69.164.211.158" /><noframes><h1>Sorry! (fe)</h1><p>The HTTP <a href="https://pagekite.net/"><i>PageKite</i></a> for <b>shadow.pagekite.me</b> is unavailable at the moment.</p><p>Please try again later.</p><!--  --></noframes></frameset></html>

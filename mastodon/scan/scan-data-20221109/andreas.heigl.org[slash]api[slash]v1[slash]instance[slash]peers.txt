@@ -1,0 +1,401 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:01 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://andreas.heigl.org/wp-json/>; rel="https://api.w.org/"
+Server: nginx/1.14.0 (Ubuntu)
+
+bdfd
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Page not found &raquo; andreas.heigl.org</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://andreas.heigl.org/wp/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://andreas.heigl.org/content/themes/twentythirteen/js/html5.js?ver=3.7.0"></script>
+	<![endif]-->
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found &raquo; andreas.heigl.org" />
+	<meta property="og:site_name" content="andreas.heigl.org" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://andreas.heigl.org/#website","url":"https://andreas.heigl.org/","name":"andreas.heigl.org","description":"","publisher":{"@id":"https://andreas.heigl.org/#/schema/person/9941af2d0d0b38327d96199daca0b2ef"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://andreas.heigl.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":["Person","Organization"],"@id":"https://andreas.heigl.org/#/schema/person/9941af2d0d0b38327d96199daca0b2ef","name":"Andreas Heigl","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://andreas.heigl.org/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8660ba783a600b9516bbe6793972b49a?s=96&d=identicon&r=g","contentUrl":"https://secure.gravatar.com/avatar/8660ba783a600b9516bbe6793972b49a?s=96&d=identicon&r=g","caption":"Andreas Heigl"},"logo":{"@id":"https://andreas.heigl.org/#/schema/person/image/"},"description":"father, husband, developer, architectural daughtsman, brother, master of forestry sciences, scout, rescue diver","sameAs":["http://andreas.heigl.org","https://twitter.com/heiglandreas"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="andreas.heigl.org &raquo; Feed" href="https://andreas.heigl.org/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/andreas.heigl.org\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://andreas.heigl.org/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://andreas.heigl.org/wp/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #141412;--wp--preset--color--red: #bc360a;--wp--preset--color--medium-orange: #db572f;--wp--preset--color--light-orange: #ea9629;--wp--preset--color--yellow: #fbca3c;--wp--preset--color--dark-brown: #220e10;--wp--preset--color--medium-brown: #722d19;--wp--preset--color--light-brown: #eadaa6;--wp--preset--color--beige: #e8e5ce;--wp--preset--color--off-white: #f7f5e7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='semantic-linkbacks-css-css' href='https://andreas.heigl.org/plugins/semantic-linkbacks/css/semantic-linkbacks.css?ver=3.10.3' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://andreas.heigl.org/content/themes/twentythirteen/style.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='child-theme-css-css' href='https://andreas.heigl.org/content/themes/andreas-heigl-org/style.css?ver=6.1' media='all' />
+
+<link rel='stylesheet' id='genericons-css' href='https://andreas.heigl.org/content/themes/twentythirteen/genericons/genericons.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css' href='https://andreas.heigl.org/content/themes/andreas-heigl-org/style.css?ver=20201208' media='all' />
+<link rel='stylesheet' id='twentythirteen-block-style-css' href='https://andreas.heigl.org/content/themes/twentythirteen/css/blocks.css?ver=20190102' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css' href='https://andreas.heigl.org/content/themes/twentythirteen/css/ie.css?ver=20150214' media='all' />
+<![endif]-->
+<script src='https://andreas.heigl.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://andreas.heigl.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://andreas.heigl.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://andreas.heigl.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://andreas.heigl.org/wp/wp-includes/wlwmanifest.xml" />
+<script src='https://andreas.heigl.org/wp/wp-content/plugins/anti-captcha/anti-captcha-0.3.js.php?ver=14ea0d5b0cf49525d1866cb1e95ada5d' id='anti-captcha-js'></script>
+<style type="text/css" media="screen">input#akismet_privacy_check { float: left; margin: 7px 7px 7px 0; width: 13px; }</style>	<style type="text/css" id="twentythirteen-header-css">
+		.site-header {
+		background: url(https://andreas.heigl.org/wp/../uploads/2018/04/veere2011.png) no-repeat scroll top;
+		background-size: 1600px auto;
+	}
+	@media (max-width: 767px) {
+		.site-header {
+			background-size: 768px auto;
+		}
+	}
+	@media (max-width: 359px) {
+		.site-header {
+			background-size: 360px auto;
+		}
+	}
+			</style>
+	</head>
+
+<body class="error404 wp-embed-responsive single-author">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header">
+			<a class="home-link" href="https://andreas.heigl.org/" title="andreas.heigl.org" rel="home">
+				<h1 class="site-title">andreas.heigl.org</h1>
+				<h2 class="site-description"></h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation">
+					<button class="menu-toggle">Menu</button>
+					<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+					<div class="menu-menu-1-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-541"><a href="https://andreas.heigl.org/">Home</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="https://andreas.heigl.org/about/">Imprint – Privacy Policy</a></li>
+<li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543"><a href="https://heiglandreas.github.io/slidedeck">Slides and Talks</a></li>
+<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://andreas.heigl.org/publickey/">PGP/GPG</a></li>
+<li id="menu-item-830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-830"><a href="#">Wishlists</a>
+<ul class="sub-menu">
+	<li id="menu-item-831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="https://www.goodreads.com/review/list/126440999-andreas?shelf=to-read">Books &#8211; via Goodreads</a></li>
+	<li id="menu-item-706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-706"><a href="https://hei.gl/wishlist">Stuff &#8211; via Amazon</a></li>
+</ul>
+</li>
+<li id="menu-item-827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="https://hei.gl/appointmentwithandreas">Book a chat</a></li>
+</ul></div>					<form role="search" method="get" class="search-form" action="https://andreas.heigl.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<header class="page-header">
+				<h1 class="page-title">Not Found</h1>
+			</header>
+
+			<div class="page-wrapper">
+				<div class="page-content">
+					<h2>This is somewhat embarrassing, isn&rsquo;t it?</h2>
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					<form role="search" method="get" class="search-form" action="https://andreas.heigl.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</div><!-- .page-content -->
+			</div><!-- .page-wrapper -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>November 2022</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td id="today">9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://andreas.heigl.org/2022/10/">&laquo; Oct</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="https://www.zend.com/de/store/education/certification/yellow-pages.php/show/search#show-ClientCandidateID=ZEND020196"><img src="http://andreas.heigl.org/uploads/2018/05/zce-2017-small.gif" alt="Zend Certified Engineer PHP 2017"/></a>
+
+<a rel="me" href="https://phpc.social/@heiglandreas">@heiglandreas@phpc.social</a></div>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><nav aria-label="Tags"><div class="tagcloud"><ul class='wp-tag-cloud' role='list'>
+	<li><a href="https://andreas.heigl.org/tag/105/" class="tag-cloud-link tag-link-35 tag-link-position-1" style="font-size: 8pt;" aria-label="10.5 (1 item)">10.5</a></li>
+	<li><a href="https://andreas.heigl.org/tag/apache/" class="tag-cloud-link tag-link-21 tag-link-position-2" style="font-size: 10.571428571429pt;" aria-label="apache (2 items)">apache</a></li>
+	<li><a href="https://andreas.heigl.org/tag/apple/" class="tag-cloud-link tag-link-31 tag-link-position-3" style="font-size: 10.571428571429pt;" aria-label="apple (2 items)">apple</a></li>
+	<li><a href="https://andreas.heigl.org/tag/applescript/" class="tag-cloud-link tag-link-28 tag-link-position-4" style="font-size: 8pt;" aria-label="applescript (1 item)">applescript</a></li>
+	<li><a href="https://andreas.heigl.org/tag/category/" class="tag-cloud-link tag-link-15 tag-link-position-5" style="font-size: 8pt;" aria-label="category (1 item)">category</a></li>
+	<li><a href="https://andreas.heigl.org/tag/certificate/" class="tag-cloud-link tag-link-110 tag-link-position-6" style="font-size: 10.571428571429pt;" aria-label="certificate (2 items)">certificate</a></li>
+	<li><a href="https://andreas.heigl.org/tag/ci/" class="tag-cloud-link tag-link-146 tag-link-position-7" style="font-size: 10.571428571429pt;" aria-label="ci (2 items)">ci</a></li>
+	<li><a href="https://andreas.heigl.org/tag/color/" class="tag-cloud-link tag-link-16 tag-link-position-8" style="font-size: 8pt;" aria-label="color (1 item)">color</a></li>
+	<li><a href="https://andreas.heigl.org/tag/composer/" class="tag-cloud-link tag-link-131 tag-link-position-9" style="font-size: 10.571428571429pt;" aria-label="composer (2 items)">composer</a></li>
+	<li><a href="https://andreas.heigl.org/tag/contact/" class="tag-cloud-link tag-link-9 tag-link-position-10" style="font-size: 8pt;" aria-label="contact (1 item)">contact</a></li>
+	<li><a href="https://andreas.heigl.org/tag/css/" class="tag-cloud-link tag-link-26 tag-link-position-11" style="font-size: 8pt;" aria-label="css (1 item)">css</a></li>
+	<li><a href="https://andreas.heigl.org/tag/dev/" class="tag-cloud-link tag-link-129 tag-link-position-12" style="font-size: 14.857142857143pt;" aria-label="Development (5 items)">Development</a></li>
+	<li><a href="https://andreas.heigl.org/tag/entropy/" class="tag-cloud-link tag-link-36 tag-link-position-13" style="font-size: 8pt;" aria-label="entropy (1 item)">entropy</a></li>
+	<li><a href="https://andreas.heigl.org/tag/error/" class="tag-cloud-link tag-link-51 tag-link-position-14" style="font-size: 10.571428571429pt;" aria-label="error (2 items)">error</a></li>
+	<li><a href="https://andreas.heigl.org/tag/fileinfo/" class="tag-cloud-link tag-link-38 tag-link-position-15" style="font-size: 8pt;" aria-label="fileinfo (1 item)">fileinfo</a></li>
+	<li><a href="https://andreas.heigl.org/tag/gpg/" class="tag-cloud-link tag-link-149 tag-link-position-16" style="font-size: 12.285714285714pt;" aria-label="gpg (3 items)">gpg</a></li>
+	<li><a href="https://andreas.heigl.org/tag/hello/" class="tag-cloud-link tag-link-5 tag-link-position-17" style="font-size: 8pt;" aria-label="hello (1 item)">hello</a></li>
+	<li><a href="https://andreas.heigl.org/tag/hyphenate/" class="tag-cloud-link tag-link-41 tag-link-position-18" style="font-size: 8pt;" aria-label="hyphenate (1 item)">hyphenate</a></li>
+	<li><a href="https://andreas.heigl.org/tag/hyphenation/" class="tag-cloud-link tag-link-30 tag-link-position-19" style="font-size: 8pt;" aria-label="hyphenation (1 item)">hyphenation</a></li>
+	<li><a href="https://andreas.heigl.org/tag/hyphenator/" class="tag-cloud-link tag-link-40 tag-link-position-20" style="font-size: 10.571428571429pt;" aria-label="hyphenator (2 items)">hyphenator</a></li>
+	<li><a href="https://andreas.heigl.org/tag/impressum/" class="tag-cloud-link tag-link-8 tag-link-position-21" style="font-size: 8pt;" aria-label="impressum (1 item)">impressum</a></li>
+	<li><a href="https://andreas.heigl.org/tag/java/" class="tag-cloud-link tag-link-11 tag-link-position-22" style="font-size: 13.714285714286pt;" aria-label="java (4 items)">java</a></li>
+	<li><a href="https://andreas.heigl.org/tag/javascript/" class="tag-cloud-link tag-link-24 tag-link-position-23" style="font-size: 10.571428571429pt;" aria-label="Javascript (2 items)">Javascript</a></li>
+	<li><a href="https://andreas.heigl.org/tag/ldap/" class="tag-cloud-link tag-link-64 tag-link-position-24" style="font-size: 12.285714285714pt;" aria-label="ldap (3 items)">ldap</a></li>
+	<li><a href="https://andreas.heigl.org/tag/leopard/" class="tag-cloud-link tag-link-37 tag-link-position-25" style="font-size: 10.571428571429pt;" aria-label="leopard (2 items)">leopard</a></li>
+	<li><a href="https://andreas.heigl.org/tag/libmagic-php/" class="tag-cloud-link tag-link-34 tag-link-position-26" style="font-size: 8pt;" aria-label="libmagic php (1 item)">libmagic php</a></li>
+	<li><a href="https://andreas.heigl.org/tag/mac/" class="tag-cloud-link tag-link-32 tag-link-position-27" style="font-size: 12.285714285714pt;" aria-label="mac (3 items)">mac</a></li>
+	<li><a href="https://andreas.heigl.org/tag/notice/" class="tag-cloud-link tag-link-50 tag-link-position-28" style="font-size: 8pt;" aria-label="notice (1 item)">notice</a></li>
+	<li><a href="https://andreas.heigl.org/tag/phar/" class="tag-cloud-link tag-link-148 tag-link-position-29" style="font-size: 10.571428571429pt;" aria-label="phar (2 items)">phar</a></li>
+	<li><a href="https://andreas.heigl.org/tag/php/" class="tag-cloud-link tag-link-10 tag-link-position-30" style="font-size: 22pt;" aria-label="php (18 items)">php</a></li>
+	<li><a href="https://andreas.heigl.org/tag/php5/" class="tag-cloud-link tag-link-43 tag-link-position-31" style="font-size: 8pt;" aria-label="php5 (1 item)">php5</a></li>
+	<li><a href="https://andreas.heigl.org/tag/phpunit/" class="tag-cloud-link tag-link-45 tag-link-position-32" style="font-size: 8pt;" aria-label="phpunit (1 item)">phpunit</a></li>
+	<li><a href="https://andreas.heigl.org/tag/plugin/" class="tag-cloud-link tag-link-29 tag-link-position-33" style="font-size: 8pt;" aria-label="plugin (1 item)">plugin</a></li>
+	<li><a href="https://andreas.heigl.org/tag/prototype/" class="tag-cloud-link tag-link-25 tag-link-position-34" style="font-size: 8pt;" aria-label="prototype (1 item)">prototype</a></li>
+	<li><a href="https://andreas.heigl.org/tag/qa/" class="tag-cloud-link tag-link-44 tag-link-position-35" style="font-size: 8pt;" aria-label="QA (1 item)">QA</a></li>
+	<li><a href="https://andreas.heigl.org/tag/signing/" class="tag-cloud-link tag-link-150 tag-link-position-36" style="font-size: 10.571428571429pt;" aria-label="signing (2 items)">signing</a></li>
+	<li><a href="https://andreas.heigl.org/tag/tdd/" class="tag-cloud-link tag-link-48 tag-link-position-37" style="font-size: 8pt;" aria-label="tdd (1 item)">tdd</a></li>
+	<li><a href="https://andreas.heigl.org/tag/test/" class="tag-cloud-link tag-link-47 tag-link-position-38" style="font-size: 8pt;" aria-label="test (1 item)">test</a></li>
+	<li><a href="https://andreas.heigl.org/tag/travis/" class="tag-cloud-link tag-link-144 tag-link-position-39" style="font-size: 12.285714285714pt;" aria-label="travis (3 items)">travis</a></li>
+	<li><a href="https://andreas.heigl.org/tag/tvbrowser/" class="tag-cloud-link tag-link-27 tag-link-position-40" style="font-size: 8pt;" aria-label="tvbrowser (1 item)">tvbrowser</a></li>
+	<li><a href="https://andreas.heigl.org/tag/unit/" class="tag-cloud-link tag-link-46 tag-link-position-41" style="font-size: 8pt;" aria-label="unit (1 item)">unit</a></li>
+	<li><a href="https://andreas.heigl.org/tag/unserialize/" class="tag-cloud-link tag-link-49 tag-link-position-42" style="font-size: 8pt;" aria-label="unserialize (1 item)">unserialize</a></li>
+	<li><a href="https://andreas.heigl.org/tag/webserver/" class="tag-cloud-link tag-link-22 tag-link-position-43" style="font-size: 8pt;" aria-label="webserver (1 item)">webserver</a></li>
+	<li><a href="https://andreas.heigl.org/tag/wordpress/" class="tag-cloud-link tag-link-14 tag-link-position-44" style="font-size: 10.571428571429pt;" aria-label="wordpress (2 items)">wordpress</a></li>
+	<li><a href="https://andreas.heigl.org/tag/yubikey/" class="tag-cloud-link tag-link-155 tag-link-position-45" style="font-size: 10.571428571429pt;" aria-label="yubikey (2 items)">yubikey</a></li>
+</ul>
+</div>
+</nav></aside><aside id="categories-1" class="widget widget_categories"><h3 class="widget-title">Categories</h3><nav aria-label="Categories">
+			<ul>
+					<li class="cat-item cat-item-1"><a href="https://andreas.heigl.org/cat/default/">Allgemein</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="https://andreas.heigl.org/cat/dev/wp/authldap/">authLdap</a>
+</li>
+	<li class="cat-item cat-item-130"><a href="https://andreas.heigl.org/cat/community/">Community</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="https://andreas.heigl.org/cat/datetime/">DateTime</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://andreas.heigl.org/cat/dev/">Development</a>
+</li>
+	<li class="cat-item cat-item-145"><a href="https://andreas.heigl.org/cat/devops/">DevOps</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="https://andreas.heigl.org/cat/dev/gallery/">gallery</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="https://andreas.heigl.org/cat/dev/javascript/">JavaScript</a>
+</li>
+	<li class="cat-item cat-item-128"><a href="https://andreas.heigl.org/cat/joind-in/">joind.in</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="https://andreas.heigl.org/cat/mac-2/">Mac</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="https://andreas.heigl.org/cat/dev/mysql/">MySQL</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="https://andreas.heigl.org/cat/dev/php/">PHP</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="https://andreas.heigl.org/cat/php-ug/">php.ug</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://andreas.heigl.org/cat/dev/wp/">Wordpress</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="https://andreas.heigl.org/cat/dev/zf/">Zend Framework</a>
+</li>
+			</ul>
+
+			</nav></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3><nav aria-label="Archives">
+			<ul>
+					<li><a href='https://andreas.heigl.org/2022/10/'>October 2022</a></li>
+	<li><a href='https://andreas.heigl.org/2022/08/'>August 2022</a></li>
+	<li><a href='https://andreas.heigl.org/2022/04/'>April 2022</a></li>
+	<li><a href='https://andreas.heigl.org/2022/03/'>March 2022</a></li>
+	<li><a href='https://andreas.heigl.org/2022/02/'>February 2022</a></li>
+	<li><a href='https://andreas.heigl.org/2021/11/'>November 2021</a></li>
+	<li><a href='https://andreas.heigl.org/2021/06/'>June 2021</a></li>
+	<li><a href='https://andreas.heigl.org/2021/03/'>March 2021</a></li>
+	<li><a href='https://andreas.heigl.org/2020/07/'>July 2020</a></li>
+	<li><a href='https://andreas.heigl.org/2020/04/'>April 2020</a></li>
+	<li><a href='https://andreas.heigl.org/2020/01/'>January 2020</a></li>
+	<li><a href='https://andreas.heigl.org/2019/05/'>May 2019</a></li>
+	<li><a href='https://andreas.heigl.org/2019/04/'>April 2019</a></li>
+	<li><a href='https://andreas.heigl.org/2019/02/'>February 2019</a></li>
+	<li><a href='https://andreas.heigl.org/2019/01/'>January 2019</a></li>
+	<li><a href='https://andreas.heigl.org/2018/10/'>October 2018</a></li>
+	<li><a href='https://andreas.heigl.org/2018/06/'>June 2018</a></li>
+	<li><a href='https://andreas.heigl.org/2018/04/'>April 2018</a></li>
+	<li><a href='https://andreas.heigl.org/2018/01/'>January 2018</a></li>
+	<li><a href='https://andreas.heigl.org/2017/12/'>December 2017</a></li>
+	<li><a href='https://andreas.heigl.org/2017/10/'>October 2017</a></li>
+	<li><a href='https://andreas.heigl.org/2017/07/'>July 2017</a></li>
+	<li><a href='https://andreas.heigl.org/2017/05/'>May 2017</a></li>
+	<li><a href='https://andreas.heigl.org/2017/01/'>January 2017</a></li>
+	<li><a href='https://andreas.heigl.org/2016/12/'>December 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/11/'>November 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/07/'>July 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/06/'>June 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/05/'>May 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/04/'>April 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2016/03/'>March 2016</a></li>
+	<li><a href='https://andreas.heigl.org/2015/12/'>December 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/11/'>November 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/09/'>September 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/08/'>August 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/07/'>July 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/05/'>May 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2015/03/'>March 2015</a></li>
+	<li><a href='https://andreas.heigl.org/2014/06/'>June 2014</a></li>
+	<li><a href='https://andreas.heigl.org/2014/04/'>April 2014</a></li>
+	<li><a href='https://andreas.heigl.org/2014/02/'>February 2014</a></li>
+	<li><a href='https://andreas.heigl.org/2013/12/'>December 2013</a></li>
+	<li><a href='https://andreas.heigl.org/2013/11/'>November 2013</a></li>
+	<li><a href='https://andreas.heigl.org/2013/10/'>October 2013</a></li>
+	<li><a href='https://andreas.heigl.org/2013/06/'>June 2013</a></li>
+	<li><a href='https://andreas.heigl.org/2013/03/'>March 2013</a></li>
+	<li><a href='https://andreas.heigl.org/2012/09/'>September 2012</a></li>
+	<li><a href='https://andreas.heigl.org/2012/06/'>June 2012</a></li>
+	<li><a href='https://andreas.heigl.org/2012/03/'>March 2012</a></li>
+	<li><a href='https://andreas.heigl.org/2011/09/'>September 2011</a></li>
+	<li><a href='https://andreas.heigl.org/2011/07/'>July 2011</a></li>
+	<li><a href='https://andreas.heigl.org/2011/06/'>June 2011</a></li>
+	<li><a href='https://andreas.heigl.org/2011/05/'>May 2011</a></li>
+	<li><a href='https://andreas.heigl.org/2011/04/'>April 2011</a></li>
+	<li><a href='https://andreas.heigl.org/2010/11/'>November 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2010/10/'>October 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2010/09/'>September 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2010/08/'>August 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2010/06/'>June 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2010/04/'>April 2010</a></li>
+	<li><a href='https://andreas.heigl.org/2009/06/'>June 2009</a></li>
+	<li><a href='https://andreas.heigl.org/2009/04/'>April 2009</a></li>
+	<li><a href='https://andreas.heigl.org/2009/01/'>January 2009</a></li>
+	<li><a href='https://andreas.heigl.org/2008/08/'>August 2008</a></li>
+	<li><a href='https://andreas.heigl.org/2008/05/'>May 2008</a></li>
+	<li><a href='https://andreas.heigl.org/2008/02/'>February 2008</a></li>
+			</ul>
+
+			</nav></aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+												<a href="https://wordpress.org/" class="imprint">
+					Proudly powered by WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["disableCookies"]);
+  _paq.push(['setDocumentTitle', '404/URL = '+String(document.location.pathname+document.location.search).replace(/\//g,'%2f') + '/From = ' + String(document.referrer).replace(/\//g,'%2f')]);
+_paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.heigl.org/";
+    _paq.push(['setTrackerUrl', u+'js/index.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'js/index.php'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<link rel='stylesheet' id='basecss-css' href='https://andreas.heigl.org/plugins/eu-cookie-law/css/style.css?ver=6.1' media='all' />
+<script src='https://andreas.heigl.org/wp/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='https://andreas.heigl.org/wp/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script src='https://andreas.heigl.org/wp/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script src='https://andreas.heigl.org/content/themes/twentythirteen/js/functions.js?ver=20171218' id='twentythirteen-script-js'></script>
+<script id='eucookielaw-scripts-js-extra'>
+var eucookielaw_data = {"euCookieSet":"","autoBlock":"0","expireTimer":"90","scrollConsent":"1","networkShareURL":"","isCookiePage":"1","isRefererWebsite":""};
+</script>
+<script src='https://andreas.heigl.org/plugins/eu-cookie-law/js/scripts.js?ver=3.1.6' id='eucookielaw-scripts-js'></script>
+<!-- Eu Cookie Law 3.1.6 --><div class="pea_cook_wrapper pea_cook_bottomright" style="color:#FFFFFF;background:rgb(0,0,0);background: rgba(0,0,0,0.85);"><p>By continuing to use the site, you agree to the use of cookies. That includes scrolling or clicking links. (Sorry for the inconvenience…) <a style="color:#FFFFFF;" href="#" id="fom">more information</a> <button id="pea_cook_btn" class="pea_cook_btn">Accept</button></p></div><div class="pea_cook_more_info_popover"><div class="pea_cook_more_info_popover_inner" style="color:#FFFFFF;background-color: rgba(0,0,0,0.9);"><p>The cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this. That includes scrolling or clicking links. (Sorry for the inconvenience…)</p><p><a style="color:#FFFFFF;" href="#" id="pea_close">Close</a></p></div></div></body>
+</html>
+
+0
+

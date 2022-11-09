@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.ctsollars.com wss://social.ctsollars.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:08 GMT
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXznArDS-z_yAUANExB
+X-Xss-Protection: 1; mode=block
+
+985
+["friendica.utzer.de","cybre.space","rollenspiel.group","social.grimneko.de","toot.site","mastodon.cloud","forum.friendi.ca","mastodon.social","scl.clttr.info","social.starshipjennings.com","friendica.jb-net.us","queer.party","friends.regenpfeifer.net","mamot.fr","gruene.social","social.tchncs.de","nightly.fedibird.com","hello.2heng.xin","elekk.xyz","lor.sh","fulda.social","mastodon.scot","social.hp-gauster.name","fika.grin.hu","pirati.ca","banana.dog","friendica.schuerz.at","sharebright.net","uelfte.club","www.librepunk.club","social.wideboys.org","social.isurf.ca","libranet.de","friendica.valvin.fr","monads.online","f.freinetz.ch","rollenspiel.social","mastodon.slightlycyberpunk.com","eeeeeeeee.eu","mastodon.art","trailblazer.social","squeet.me","anarchism.space","nrw.social","philos.fkn-systems.de","mstdn.progressiv.dev","freindal.hallertau.social","federate.hopto.org","toot.wales","friendica.mrpetovan.com","framapiaf.org","fri.bitcast.info","mastodon.technology","eldritch.cafe","zotum.net","mastodon.xyz","troet.cafe","loma.ml","social.linux.pizza","meld.de","friendica.exon.name","alive.bar","o3o.ca","koyu.space","mastodon.pirateparty.be","hispagatos.space","bitcoinhackers.org","bgme.me","misskey.de","friends.toot.koeln","dis-le.de","mastodon.nl","functional.cafe","pisma.bgzashtita.es","opensocial.at","machteburch.social","distrotoot.com","hentai.baby","friendica.vrije-mens.org","nerdica.net","mastodon.ml","friendica.argentwolf.org","the.shitposting.network","mastodon.uno","theres.life","social.diekershoff.de","social.franssen.xyz","social.byoblu.com","blog.ctsollars.com","baraag.net","mastodon.online","fed.sonnenmulde.at","social.coop","platinum.fedibird.com","social.librem.one","toot.berlin","mstdn.jp","hellquist.eu","friendica.wapnitsky.com","hostux.social","fedibird.com","chaos.social","friendica.xyz","pouet.chapril.org","horche.demkontinuum.de","unmedicated.schizoid.social","shitposting.army","venera.social","mastodon.madrid","sneed.network","relay.schizoid.social","f.praschnig.com","a.rathersafe.space","social.privacytools.io","mastodont.cat","mastodon.bida.im","hunk.city","freespeech.firedragonstudios.com","todon.eu","f.haeder.net","mstdn.social","fosstodon.org","friendicarg.nsupdate.info","social.anoxinon.de","social.levelxstudios.org","social.snopyta.org","librenet.co.za","anonsys.net","social.yl.ms","rivals.space","thisis.mylegendary.quest","kolektiva.social","friendica.charla.mx"]
+0
+

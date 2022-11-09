@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 33
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767784d1ab53f959-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:03 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hQvVOiKs2%2FvhXDc6wWV8eQ8TFVauKxcH596nRcfCRzO7kofOc1X2wakBNr71rEqAhMz1UIAf7Y833te7hMlXCowtoELpPBqdDSsP4rbbBFUODTaB5uETN%2FtSCVegRf%2BIiDk%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+["mastodon.social","shelter.moe"]

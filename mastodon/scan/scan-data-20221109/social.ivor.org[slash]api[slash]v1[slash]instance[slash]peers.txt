@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://social.ivor.org; font-src 'self' https://social.ivor.org; img-src 'self' data: blob: https://social.ivor.org https://ivorsocial.files.fedi.monster; style-src 'self' https://social.ivor.org 'nonce-igdjkuVCnCKiFTNZAk75fA=='; media-src 'self' data: https://social.ivor.org https://ivorsocial.files.fedi.monster; frame-src 'self' https:; child-src 'self' blob: https://social.ivor.org; worker-src 'self' blob: https://social.ivor.org; connect-src 'self' blob: data: wss://social.ivor.org https://social.ivor.org https://ivorsocial.files.fedi.monster; manifest-src 'self' https://social.ivor.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:41 GMT
+Etag: W/"bd17f6606d7519e06d084d2286883987"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T18:05:00.079393Z
+X-Request-Id: 930f92d3-68a5-4bf4-9a0f-7f2bd0d2d2dd
+X-Runtime: 0.015013
+X-Xss-Protection: 0
+
+4f0
+["mastodon.coffee","dizl.de","mastodonmusic.social","social.freetalklive.com","botsin.space","notjustbikes.com","icosahedron.website","social.tchncs.de","mamot.fr","troet.cafe","chaos.social","masto.ai","metalhead.club","hrmtc.io","lor.sh","econtwitter.net","sfba.social","toot.wales","mastodon.xyz","toot.community","mafoo.org.uk","masto.pt","mastodon.cloud","mstdn.social","mas.to","climatejustice.social","mastodon.ie","kith.kitchen","mastodon.green","kitzmiller.social","m.beiting.org","mastodon.ar.al","mastodon.art","zeroes.ca","oliphant.social","liberdon.com","art0.us","f.freinetz.ch","fosstodon.org","mastodon.mit.edu","seocommunity.social","henshaw.social","mastodon.j15r.com","journa.host","netmonkey.xyz","infosec.exchange","mastodon.se","aus.social","mastodont.cat","mastodon.thebeeches.house","social.linux.pizza","mastodon.lol","hachyderm.io","tech.lgbt","pfalz.social","mastodon.nu","indieweb.social","mastodon.uno","mastodon.me.uk","piaille.fr","layer8.space","c.im","tooot.im","mastodonapp.uk","noc.social","mastodon.sdf.org","queer.af","mastodon.social","mastodon.gamedev.place","octodon.social","cryptotooter.com","overheard.social","queer.party","tilde.zone","mastodon.world","growers.social","meow.social","mastodon.online","fediscience.org"]
+0
+

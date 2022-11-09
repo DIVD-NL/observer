@@ -1,0 +1,334 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:20:50 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://tigwali.fr/wp-json/>; rel="https://api.w.org/"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Set-Cookie: SSOwAuthRedirect=; Path=/yunohost/sso/; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+784c
+<!DOCTYPE html>
+<html class="html" lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v14.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page non trouvée - Tigwali</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:title" content="Page non trouvée - Tigwali" />
+	<meta property="og:site_name" content="Tigwali" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tigwali.fr/#organization","name":"Tigwali","url":"https://tigwali.fr/","sameAs":["https://www.facebook.com/Tigwali-105101521180231/"],"logo":{"@type":"ImageObject","@id":"https://tigwali.fr/#logo","inLanguage":"fr-FR","url":"https://tigwali.fr/wp-content/uploads/2020/04/profile-facebook-07-07-scaled.jpg","width":2560,"height":2560,"caption":"Tigwali"},"image":{"@id":"https://tigwali.fr/#logo"}},{"@type":"WebSite","@id":"https://tigwali.fr/#website","url":"https://tigwali.fr/","name":"Tigwali","description":"Il y a rarement une bonne raison de sacrifier sa vie priv\u00e9e.","publisher":{"@id":"https://tigwali.fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://tigwali.fr/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tigwali &raquo; Flux" href="https://tigwali.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tigwali &raquo; Flux des commentaires" href="https://tigwali.fr/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tigwali.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.14"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://tigwali.fr/wp-includes/css/dist/block-library/style.min.css?ver=5.3.14' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://tigwali.fr/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.14' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://tigwali.fr/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://tigwali.fr/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://tigwali.fr/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.3.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://tigwali.fr/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.8.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://tigwali.fr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.8.0' media='all' />
+<link rel='stylesheet' id='eael-general-css'  href='https://tigwali.fr/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.4.2' media='all' />
+<script src='https://tigwali.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='https://tigwali.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://tigwali.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tigwali.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tigwali.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.14" />
+<link rel="icon" href="https://tigwali.fr/wp-content/uploads/2020/02/cropped-petit-logo-site-04-scaled-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tigwali.fr/wp-content/uploads/2020/02/cropped-petit-logo-site-04-scaled-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://tigwali.fr/wp-content/uploads/2020/02/cropped-petit-logo-site-04-scaled-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tigwali.fr/wp-content/uploads/2020/02/cropped-petit-logo-site-04-scaled-2-270x270.png" />
+<script async defer data-website-id="73b8e011-8a19-4fce-9f8d-e9d9bd6030bf" src="https://analytics.tigwali.fr/umami.js"></script><!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#30327d}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#30327d}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#30327d}.thumbnail:hover .link-post-svg-icon{background-color:#30327d}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#30327d}.widget-title{border-color:#30327d}blockquote{border-color:#30327d}#searchform-dropdown{border-color:#30327d}.dropdown-menu .sub-menu{border-color:#30327d}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#30327d}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#30327d}.social-widget li.oceanwp-email a:hover{border-color:#30327d}#respond #cancel-comment-reply-link:hover{border-color:#30327d}body .contact-info-widget.big-icons li:hover i{border-color:#30327d}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#30327d}blockquote,.wp-block-quote{border-left-color:#30327d}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#30327d}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#1d123e}body,.has-parallax-footer:not(.separate-layout) #main{background-color:#c8afaf}a:hover{color:#983861}a:hover .owp-icon use{stroke:#983861}.page-header,.has-transparent-header .page-header{padding:0}#scroll-top:hover{background-color:#cc3fa1}/* Blog CSS */.blog-entry.thumbnail-entry .blog-entry-comments,.blog-entry.thumbnail-entry .blog-entry-comments a{color:rgba(171,171,171,0)}.blog-entry.thumbnail-entry .blog-entry-date{color:#707070}.single-post .background-image-page-header .page-header-inner,.single-post .background-image-page-header .site-breadcrumbs{text-align:left}/* Header CSS */#site-header{border-color:#471a42}#site-header.medium-header .top-header-wrap,.is-sticky #site-header.medium-header.is-transparent .top-header-wrap,#searchform-header-replace{background-color:#b6afc8}#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header .oceanwp-mobile-menu-icon a{line-height:43px}#site-header.medium-header #site-navigation-wrap,#site-header.medium-header .oceanwp-mobile-menu-icon,.is-sticky #site-header.medium-header.is-transparent #site-navigation-wrap,.is-sticky #site-header.medium-header.is-transparent .oceanwp-mobile-menu-icon,#site-header.medium-header.is-transparent .is-sticky #site-navigation-wrap,#site-header.medium-header.is-transparent .is-sticky .oceanwp-mobile-menu-icon{background-color:#471a42}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:500px}@media (max-width:480px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:264px}}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:500px}@media (max-width:480px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:471px}}#site-logo.has-responsive-logo .responsive-logo-link img{max-height:50px}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#983861}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#983861}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #983861,-10px 0 #983861}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#e2e2e2}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#e2e2e2}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#99828a}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#99828a}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#996c7c}@media (max-width:480px){#top-bar-nav,#site-navigation-wrap,.oceanwp-social-menu,.after-header-content{display:none}.center-logo #site-logo{float:none;position:absolute;left:50%;padding:0;-webkit-transform:translateX(-50%);transform:translateX(-50%)}#site-header.center-header #site-logo,.oceanwp-mobile-menu-icon,#oceanwp-cart-sidebar-wrap{display:block}body.vertical-header-style #outer-wrap{margin:0 !important}#site-header.vertical-header{position:relative;width:100%;left:0 !important;right:0 !important}#site-header.vertical-header .has-template >#site-logo{display:block}#site-header.vertical-header #site-header-inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;align-items:center;padding:0;max-width:90%}#site-header.vertical-header #site-header-inner >*:not(.oceanwp-mobile-menu-icon){display:none}#site-header.vertical-header #site-header-inner >*{padding:0 !important}#site-header.vertical-header #site-header-inner #site-logo{display:block;margin:0;width:50%;text-align:left}body.rtl #site-header.vertical-header #site-header-inner #site-logo{text-align:right}#site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{width:50%;text-align:right}body.rtl #site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{text-align:left}#site-header.vertical-header .vertical-toggle,body.vertical-header-style.vh-closed #site-header.vertical-header .vertical-toggle{display:none}#site-logo.has-responsive-logo .custom-logo-link{display:none}#site-logo.has-responsive-logo .responsive-logo-link{display:block}.is-sticky #site-logo.has-sticky-logo .responsive-logo-link{display:none}.is-sticky #site-logo.has-responsive-logo .sticky-logo-link{display:block}#top-bar.has-no-content #top-bar-social.top-bar-left,#top-bar.has-no-content #top-bar-social.top-bar-right{position:inherit;left:auto;right:auto;float:none;height:auto;line-height:1.5em;margin-top:0;text-align:center}#top-bar.has-no-content #top-bar-social li{float:none;display:inline-block}.owp-cart-overlay,#side-panel-wrap a.side-panel-btn{display:none !important}}body .sidr a:hover,body .sidr-class-dropdown-toggle:hover,body .sidr-class-dropdown-toggle .fa,body .sidr-class-menu-item-has-children.active >a,body .sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,#mobile-dropdown ul li a:hover,#mobile-dropdown ul li a .dropdown-toggle:hover,#mobile-dropdown .menu-item-has-children.active >a,#mobile-dropdown .menu-item-has-children.active >a >.dropdown-toggle,#mobile-fullscreen ul li a:hover,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a:hover{color:#983861}#mobile-fullscreen a.close:hover .close-icon-inner,#mobile-fullscreen a.close:hover .close-icon-inner::after{background-color:#983861}/* Footer Widgets CSS */#footer-widgets{padding:0 0 30px 0}#footer-widgets{background-color:#000000}/* Footer Bottom CSS */#footer-bottom{background-color:#000000}#footer-bottom,#footer-bottom p{color:#ffffff}/* Sidebar CSS */.widget-area{background-color:#ffffff}.widget-area{padding:38px 20px 0 20px!important}.widget-area .sidebar-box{background-color:rgba(247,247,247,0.84)}.widget-area .sidebar-box{padding:5px 11px 5px 11px}/* Typography CSS */body{font-size:16px;color:#1c1c1c}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Architects Daughter}.sidebar-box .widget-title{font-family:Roboto Condensed}.sidebar-box,.footer-box{font-family:Roboto Condensed}
+</style><script type="text/javascript" src="/ynh_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynh_overlay.css"></link><script type="text/javascript" src="/ynhtheme/custom_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynhtheme/custom_overlay.css"></link></head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile medium-header-style content-full-width content-max-width page-header-disabled has-breadcrumbs elementor-default elementor-kit-35" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="medium-header hidden-menu effect-one clr" data-height="159" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+		
+
+<div id="site-header-inner" class="clr">
+
+	
+		<div class="top-header-wrap clr">
+			<div class="container clr">
+				<div class="top-header-inner clr">
+
+					
+						<div class="top-col clr col-1 logo-col">
+
+							
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://tigwali.fr/" class="custom-logo-link" rel="home"><img width="2560" height="517" src="https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1.png" class="custom-logo" alt="Tigwali" srcset="https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1.png 2560w, https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1-300x61.png 300w, https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1-1024x207.png 1024w, https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1-768x155.png 768w, https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1-1536x310.png 1536w, https://tigwali.fr/wp-content/uploads/2020/02/cropped-bandeau-logo-06-scaled-1-2048x414.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+
+						</div>
+
+						
+				</div>
+			</div>
+		</div>
+
+		
+	<div class="bottom-header-wrap clr">
+
+					<div id="site-navigation-wrap" class="clr center-menu">
+			
+			
+							<div class="container clr">
+				
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-principal" class="main-menu dropdown-menu sf-menu"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21"><a href="https://tigwali.fr/" class="menu-link"><span class="text-wrap">Accueil</span></a></li><li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-77"><a href="https://tigwali.fr/services/" class="menu-link"><span class="text-wrap">Services<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://tigwali.fr/services/" class="menu-link"><span class="text-wrap">Liste des services</span></a></li>	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="https://tigwali.fr/tigwapad/" class="menu-link"><span class="text-wrap">Pad</span></a></li>	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="https://tigwali.fr/tigwadrop/" class="menu-link"><span class="text-wrap">Drop</span></a></li>	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://tigwali.fr/tigwanote/" class="menu-link"><span class="text-wrap">Note</span></a></li>	<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="https://tigwali.fr/tigwavote/" class="menu-link"><span class="text-wrap">Vote</span></a></li>	<li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="https://tigwali.fr/tigwavisio/" class="menu-link"><span class="text-wrap">Visio</span></a></li>	<li id="menu-item-1487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1487"><a href="https://tigwali.fr/tigwadraw/" class="menu-link"><span class="text-wrap">Draw</span></a></li></ul>
+</li><li id="menu-item-1023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1023"><a href="https://tigwali.fr/articles-par-categories/" class="menu-link"><span class="text-wrap">Articles</span></a></li><li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://tigwali.fr/le-guide/" class="menu-link"><span class="text-wrap">Le Guide</span></a></li><li id="menu-item-995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995"><a href="https://tigwali.fr/liste-des-alternatives/" class="menu-link"><span class="text-wrap">Liste des Alternatives</span></a></li><li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://tigwali.fr/qui-sommes-nous/" class="menu-link"><span class="text-wrap">Qui sommes-nous ?</span></a></li><li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr" >
+	
+<form role="search" method="get" class="searchform" action="https://tigwali.fr/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Rechercher sur ce site</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Rechercher" name="s">
+			</label>
+	</form>
+</div><!-- #searchform-dropdown -->
+
+			</nav><!-- #site-navigation -->
+
+							</div>
+				
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+		
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu"  aria-label="Menu mobile">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Fermer</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+		
+	</div>
+
+</div><!-- #site-header-inner -->
+
+
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+						
+						<div id="content-wrap" class="container clr">
+
+							
+							<div id="primary" class="content-area clr">
+
+								
+								<div id="content" class="clr site-content">
+
+									
+									<article class="entry clr">
+
+										
+												<div class="error404-content clr">
+													
+													<h2 class="error-title">Oups, cette page n’existe pas !</h2>
+													<p class="error-text">Nous sommes désolés, mais la page que vous cherchez n’existe plus.<br />Peut-être vous pouvez essayer une nouvelle recherche.</p>
+													
+<form role="search" method="get" class="searchform" action="https://tigwali.fr/">
+	<label for="ocean-search-form-2">
+		<span class="screen-reader-text">Rechercher sur ce site</span>
+		<input type="search" id="ocean-search-form-2" class="field" autocomplete="off" placeholder="Rechercher" name="s">
+			</label>
+	</form>
+													<a class="error-btn button" href="https://tigwali.fr/">Revenir à l’accueil</a>
+
+												</div><!-- .error404-content -->
+
+												
+									</article><!-- .entry -->
+
+									
+								</div><!-- #content -->
+
+								
+							</div><!-- #primary -->
+
+							
+						</div><!-- #content-wrap -->
+
+						
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright - Tigwali 2020 			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+<div id="sidr-close">
+	<a href="javascript:void(0)" class="toggle-sidr-close" aria-label="Fermer le menu sur mobile">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">Fermer le menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Rechercher sur ce site" method="get" action="https://tigwali.fr/" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-3" type="search" name="s" autocomplete="off" placeholder="Rechercher" />
+		<button aria-label="Envoyer la recherche" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+
+<script src='https://tigwali.fr/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script>
+var oceanwpLocalize = {"nonce":"f4e6cc2ae3","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select"};
+</script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/vendors/sidr.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/sidebar-mobile-menu.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.3.5'></script>
+<script src='https://tigwali.fr/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.3.5'></script>
+<script>
+var localize = {"ajaxurl":"https:\/\/tigwali.fr\/wp-admin\/admin-ajax.php","nonce":"3e47f3fb74","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Grand mobile","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Grande tablette","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script src='https://tigwali.fr/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.4.2'></script>
+<script src='https://tigwali.fr/wp-includes/js/wp-embed.min.js?ver=5.3.14'></script>
+</body>
+</html>
+
+0
+

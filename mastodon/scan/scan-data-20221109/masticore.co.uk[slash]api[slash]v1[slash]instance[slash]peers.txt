@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://masticore.co.uk; img-src 'self' https: data: blob: https://masticore.co.uk; style-src 'self' https://masticore.co.uk 'nonce-6p/u9gxI/mPHPulKUvDTaQ=='; media-src 'self' https: data: https://masticore.co.uk; frame-src 'self' https:; manifest-src 'self' https://masticore.co.uk; connect-src 'self' data: blob: https://masticore.co.uk https://masticore.co.uk wss://masticore.co.uk; script-src 'self' https://masticore.co.uk 'unsafe-eval'; child-src 'self' blob: https://masticore.co.uk; worker-src 'self' blob: https://masticore.co.uk
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:42 GMT
+Etag: W/"b7fffcbebd81f5609389a61195b04493"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.967211Z
+X-Request-Id: 1b8127cc-0130-43ea-8661-b81d8b40a1f9
+X-Runtime: 0.005383
+X-Xss-Protection: 0
+
+3d5
+["kafeneio.social","mastodon.ie","mastodon.green","mastodon.cloud","mastodonapp.uk","masthead.social","1210.nl","fediscience.org","mastodon.online","mastodon.social","mastodon.gamedev.place","click.ba.it","muenchen.social","mindly.social","mastodon.scot","mendeddrum.org","social.anoxinon.de","vmst.io","mastodon.world","mastodon.pass-vault.ru","meow.social","tooting.ch","eupolicy.social","scicomm.xyz","toot.wales","queer.party","sarcasm.stream","hackers.town","masto.ai","ruby.social","earfolds.com","fosstodon.org","dice.camp","mstdn.dk","mastodon.art","twit.social","mathstodon.xyz","qoto.org","kolektiva.social","toot.bike","glasgow.social","todon.nl","indieweb.social","circumstances.run","lakedistrict.social","hachyderm.io","sunny.garden","tooot.im","mastodon.sdf.org","mastodon.lol","sfba.social","mastodontti.fi","social.linux.pizza","pettingzoo.co","social.coop","aus.social","infosec.exchange","mas.to","mastodon.me.uk","mstdn.social","social.xbm.se","toot.community"]
+0
+

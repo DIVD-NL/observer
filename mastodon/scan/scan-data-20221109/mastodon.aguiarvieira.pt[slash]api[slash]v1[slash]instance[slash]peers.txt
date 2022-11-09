@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.aguiarvieira.pt; img-src 'self' https: data: blob: https://mastodon.aguiarvieira.pt; style-src 'self' https://mastodon.aguiarvieira.pt 'nonce-bmp7M2OOoosYyyEjT+qGcw=='; media-src 'self' https: data: https://mastodon.aguiarvieira.pt; frame-src 'self' https:; manifest-src 'self' https://mastodon.aguiarvieira.pt; connect-src 'self' data: blob: https://mastodon.aguiarvieira.pt https://mastodon.aguiarvieira.pt wss://mastodon.aguiarvieira.pt; script-src 'self' https://mastodon.aguiarvieira.pt; child-src 'self' blob: https://mastodon.aguiarvieira.pt; worker-src 'self' blob: https://mastodon.aguiarvieira.pt
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:50 GMT
+Etag: W/"1fcb8ab9cb16d2e2530251a41a9c4397"
+Permissions-Policy: interest-cohort=()
+Server: openresty
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.572165Z
+X-Request-Id: 503998b8-e003-40d1-8430-1a8ed6f6ebbb
+X-Runtime: 0.004395
+X-Served-By: mastodon.aguiarvieira.pt
+X-Xss-Protection: 0
+
+3c8
+["social.skrep.in","toot.dice.quest","masto.pt","en.osm.town","forcedconversation.com","sunny.garden","sms.cybik.moe","ioc.exchange","social.tulsa.ok.us","tech.lgbt","mastodon.scot","botsin.space","weirder.earth","pegelinux.top","social.scribblers.club","masto.namwen.me","mastodon.coffee","noc.social","topspicy.social","quietplace.xyz","expired.mentality.rip","mastodon.ml","begovoy.social","lor.sh","mstdn.io","soc.ua-fediland.de","friends.deko.cloud","famline.ru","social.net.ua","rollenspiel.social","net4sw.com","twipped.social","indiepocalypse.social","social.linux.pizza","joingeeksocial.com","social.opendesktop.org","mastodon.ie","troet.cafe","qoto.org","mastodon.org.uk","dice.camp","pixelfed.social","metalhead.club","floss.social","mas.to","meta.masto.host","mastodon.top","hachyderm.io","c.im","sigmoid.social","freeradical.zone","mstdn.social","mastodon.online","fosstodon.org","layer8.space","mastodon.social","kinky.business","mastodon.gamedev.place"]
+0
+

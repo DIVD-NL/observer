@@ -1,0 +1,26 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://masto.werefox.cafe; font-src 'self' https://masto.werefox.cafe; img-src 'self' data: blob: https://masto.werefox.cafe; style-src 'self' https://masto.werefox.cafe 'nonce-UDh2/PY3Af279TCwGQJ4YA=='; media-src 'self' data: https://masto.werefox.cafe; frame-src 'self' https:; child-src 'self' blob: https://masto.werefox.cafe; worker-src 'self' blob: https://masto.werefox.cafe; connect-src 'self' blob: data: wss://masto.werefox.cafe https://masto.werefox.cafe; manifest-src 'self' https://masto.werefox.cafe
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:48 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.275629Z
+X-Request-Id: 002720bb-6a24-4774-ad99-5eb14ca5c6a1
+X-Runtime: 0.006053
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

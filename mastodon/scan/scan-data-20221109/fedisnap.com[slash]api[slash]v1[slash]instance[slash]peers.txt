@@ -1,0 +1,92 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:58:03 GMT
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=63072000
+
+12f8
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>FediSnap</title>
+	<link rel="manifest" href="/manifest.json">
+
+	<meta property="og:site_name" content="FediSnap">
+	<meta property="og:title" content="FediSnap">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://fedisnap.com/api/v1/instance/peers">
+	
+	<meta name="medium" content="image">
+	<meta name="theme-color" content="#10c5f8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="canonical" href="https://fedisnap.com/api/v1/instance/peers">
+	<link href="/css/app.css?id=140a427d89c3aae4f78e87cf6ec7eef3" rel="stylesheet" data-stylesheet="light">
+	<script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":true,"uploader":{"max_photo_size":"15000","max_caption_length":"150","album_limit":"4","image_quality":"80","max_collection_length":250,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif,video\/mp4,image\/webp","enforce_account_limit":true},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":false,"rec":false,"loops":false,"top":false,"polls":false,"cached_public_timeline":false,"gps":false,"spa":true,"emc":true},"site":{"name":"FediSnap","domain":"fedisnap.com","url":"https:\/\/fedisnap.com","description":"FediSnap\u306f\u3001\u30a4\u30e9\u30b9\u30c8\u30fb\u5199\u771f\u30fb\u52d5\u753b\u306b\u3088\u308b\u3001\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u305f\u3081\u306e\u5206\u6563\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u3059\u3002"},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"timelines":{"local":true,"network":true},"mobile_apis":true,"stories":true,"video":true,"import":{"instagram":true,"mastodon":false,"pixelfed":false},"label":{"covid":{"enabled":true,"org":"visit the WHO website","url":"https:\/\/www.who.int\/emergencies\/diseases\/novel-coronavirus-2019\/advice-for-public"}}}}};</script>
+	</head>
+<body>
+	<nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+	<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="/" title="Logo">
+				<img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+				<span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">FediSnap</span>
+			</a>
+
+			<div class="collapse navbar-collapse">
+			
+			
+				<ul class="navbar-nav ml-auto">
+					<li>
+						<a class="nav-link font-weight-bold text-dark" href="/login" title="Login">
+							Login
+						</a>
+					</li>
+											</ul>
+			</div>
+	</div>
+</nav>
+	<main id="content">
+		<div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+	</main>
+	<footer>
+    <div class="container py-5">
+        <p class="text-center text-uppercase font-weight-bold small text-justify">
+          <a href="https://fedisnap.com/site/about" class="text-dark p-2">このサーバーについて</a>
+          <a href="https://fedisnap.com/site/help" class="text-dark p-2">ヘルプ</a>
+          <a href="https://fedisnap.com/site/terms" class="text-dark p-2">利用規約</a>
+          <a href="https://fedisnap.com/site/privacy" class="text-dark p-2">プライバシーポリシー</a>
+          <a href="https://fedisnap.com/site/language" class="text-dark p-2">言語</a>
+                  </p>
+        <p class="text-center text-muted small mb-0">
+          <span class="text-muted">© 2022 fedisnap.com</span>
+          <span class="mx-2">·</span>
+          <a href="https://pixelfed.org" class="text-muted font-weight-bold" rel="noopener">Powered by Pixelfed</a>
+          <span class="mx-2">·</span>
+          <span class="text-muted">v0.11.4</span>
+        </p>
+    </div>
+  </footer>
+  	<script type="text/javascript" src="/js/manifest.js?id=9ba42a85f6a0413c7493b02f749e3cc7"></script>
+	<script type="text/javascript" src="/js/vendor.js?id=898bcd5e9be546c8b5699fe37805770e"></script>
+	<script type="text/javascript" src="/js/app.js?id=855c8b0847137dd56c72229ad305c032"></script>
+	<script type="text/javascript" src="/js/components.js?id=35beb0748dd5518371686a5f00348fbf"></script>
+	</body>
+</html>
+
+0
+

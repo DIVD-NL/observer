@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://tried-to-do.science; img-src 'self' https: data: blob: https://tried-to-do.science; style-src 'self' https://tried-to-do.science 'nonce-kTHJw7J7JoYaOmgE3Q093w=='; media-src 'self' https: data: https://tried-to-do.science; frame-src 'self' https:; manifest-src 'self' https://tried-to-do.science; connect-src 'self' data: blob: https://tried-to-do.science https://tried-to-do.science wss://tried-to-do.science; script-src 'self' https://tried-to-do.science; child-src 'self' blob: https://tried-to-do.science; worker-src 'self' blob: https://tried-to-do.science
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:09 GMT
+Etag: W/"9c1bbe855c1281e16543562b0281a209"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T22:25:00.167766Z
+X-Request-Id: 46d8bf1a-c20d-4057-876d-90cafa0df79d
+X-Runtime: 0.003600
+X-Xss-Protection: 0
+
+1a0
+["dog.lgbt","awoo.chat","yiff.life","m.brokep.com","glauca.space","fightforthefuture.org","mastodon.sdf.org","adam.ac","pony.social","ioc.exchange","chaos.social","tech.lgbt","verified.mastodonmedia.xyz","toot.community","mas.to","vulpine.club","anticapitalist.party","mstdn.social","masto.namwen.me","nondeterministic.computer","know.me.uk","mastodon.social","infosec.exchange","mastodon.nzoss.nz","mastodonapp.uk"]
+0
+

@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767784230ab32e08-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:36 GMT
+Last-Modified: Mon, 19 Sep 2022 13:55:19 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iY9o%2FNlAvIXV3%2B4seuU6PYe1ED9xNvZIrhAg3Gtxcw%2FP6%2BFrktCmsm06VaEWp1AkxYdm197ciuTB%2BFeykFmAk176GqhN5LVXec9td4z1NwslkEpIzHSbUFWiM31Rx4XO"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Robots-Tag: noindex, nofollow, nosnippet, noarchive
+
+4c
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is a VPN endpoint.</p>
+</body>
+</html>
+0
+

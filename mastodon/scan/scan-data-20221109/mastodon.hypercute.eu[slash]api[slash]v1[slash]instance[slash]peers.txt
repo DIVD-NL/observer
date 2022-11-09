@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:27 GMT
+Etag: W/"86ff663e075aaedd809641809663cb88"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.847980Z
+X-Request-Id: 5136554f-fdd9-4202-a9f1-7eca3586d7ea
+X-Runtime: 0.021823
+X-Xss-Protection: 0
+
+465
+["friends.wimmer-edv.de","rollenspiel.group","friendica.offsite.guru","friends.deko.cloud","keybored.me","friendica.ucy.de","fr.readthefinemanual.net","friendica.mrpetovan.com","herzbu.de","pirati.ca","f.freinetz.ch","friendica.hellquist.eu","quitter.pl","friendica.ru","f.haeder.net","friend.geoffray-levasseur.org","friendica.a-zwenkau.de","friendica.eskimo.com","friendica.mschmidt-et.de","social.yl.ms","social.cool110.xyz","philos.fkn-systems.de","friendica.bachgau.social","schmaker.eu","friendica.hashy-net.de","friendica.ellih.eu","friendica.testitfor.me","friendica.mifritscher.de","social.trom.tf","friendica.me","friendica.ambag.es","kudabiverse.com","convenient.email","scl.clttr.info","f.xn--7s9hd.ws","fri.aethercom.de","dehawara.de","f.praschnig.com","lastfree.space","f.kretschmann.social","friendica.multisum.info","g1zm0.social","follow.schmaller.de","anonsys.net","friendica.ironbug.org","poliverso.org","letus.inspiredlife.fun","wiesbaden.social","librenet.co.za","vicedomini.cloud","pztrn.online","friendica.kommune4.de","social.softmetz.de","mastodon.social","social.outsourcedmath.com","friendica.xyz"]
+0
+

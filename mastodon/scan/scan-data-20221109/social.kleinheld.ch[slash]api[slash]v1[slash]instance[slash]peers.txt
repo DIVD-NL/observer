@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 9
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Methods: GET, OPTIONS, PUT, POST
+Cache-Control: no-cache
+Content-Security-Policy: default-src https: wss:; img-src https: 'unsafe-inline' data:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; media-src https: data: 'unsafe-inline'; font-src 'self' data: https:;
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:48 GMT
+Etag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+Expect-Ct: enforce, max-age=36000000
+Pragma: no-cache
+Referrer-Policy: origin
+Strict-Transport-Security: max-age=36000000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+Not Found

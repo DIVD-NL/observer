@@ -1,0 +1,483 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:36 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://www.frederickcalica.com/wp-json/micropub/1.0/media>; rel="micropub_media", <https://www.frederickcalica.com/wp-json/micropub/1.0/endpoint>; rel="micropub", <https://www.frederickcalica.com/wp-json/>; rel="https://api.w.org/"
+Server: Apache
+Upgrade: h2
+Vary: Accept-Encoding,Cookie,User-Agent
+
+d6d1
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://microformats.org/profile/specs" />
+<link rel="profile" href="http://microformats.org/profile/hatom" />
+
+<title>Page not found &#8211; Stray Thoughts</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Stray Thoughts &raquo; Feed" href="https://www.frederickcalica.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stray Thoughts &raquo; Comments Feed" href="https://www.frederickcalica.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.frederickcalica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.frederickcalica.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.frederickcalica.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='indieweb-css' href='https://www.frederickcalica.com/wp-content/plugins/indieweb/static/css/indieweb.css?ver=3.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='semantic-linkbacks-css-css' href='https://www.frederickcalica.com/wp-content/plugins/semantic-linkbacks/css/semantic-linkbacks.css?ver=3.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sempress-style-css' href='https://www.frederickcalica.com/wp-content/themes/sempress/style.css?ver=6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.frederickcalica.com/wp-content/themes/sempress/js/html5shiv.min.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.frederickcalica.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.frederickcalica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.frederickcalica.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.frederickcalica.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.frederickcalica.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+      <link rel="microsub" href="https://aperture.p3k.io/microsub/753">
+      		<style type="text/css" id="sempress-custom-colors">
+			body { text-shadow: 0 1px 0 #ffffff; }
+			body, a { color: #555555; }
+			.widget, #access {
+				border-bottom: 1px solid inherit;
+				-moz-box-shadow: inherit 0 1px 0 0;
+				-webkit-box-shadow: inherit 0 1px 0 0;
+				box-shadow: inherit 0 1px 0 0;
+			}
+			article.comment {
+				border-top: 1px solid inherit;
+				-moz-box-shadow: inherit 0 -1px 0 0;
+				-webkit-box-shadow: inherit 0 -1px 0 0;
+				box-shadow: inherit 0 -1px 0 0;
+			}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.frederickcalica.com/wp-content/themes/sempress/img/noise.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="micropub_media" href="https://www.frederickcalica.com/wp-json/micropub/1.0/media" />
+<link rel="micropub" href="https://www.frederickcalica.com/wp-json/micropub/1.0/endpoint" />
+<!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
+</head>
+
+<body class="error404 custom-background multi-column single-author custom-header" itemscope="" itemtype="http://schema.org/Blog http://schema.org/WebPage">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page">
+	<header id="branding" role="banner">
+				<h1 id="site-title" itemprop="name" class="p-name"><a href="https://www.frederickcalica.com/" title="Stray Thoughts" rel="home" itemprop="url" class="u-url url">Stray Thoughts</a></h1>
+		<h2 id="site-description" itemprop="description" class="p-summary e-content">about everything and nothing</h2>
+
+					<img src="https://www.frederickcalica.com/wp-content/uploads/2022/04/cropped-IMG_3050-scaled-1.jpg" height="200" width="950" alt="header image" id="site-image" />
+		
+		<nav id="access" role="navigation">
+			<h1 class="assistive-text section-heading"><a href="#access" title="Main menu">Main menu</a></h1>
+			<a class="skip-link screen-reader-text" href="#content" title="Skip to content">Skip to content</a>
+
+			<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-3337684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3337684"><a href="https://www.frederickcalica.com/">Stream</a></li>
+<li id="menu-item-3337697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3337697"><a href="#">Kinds</a>
+<ul class="sub-menu">
+	<li id="menu-item-3337686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337686"><a href="https://www.frederickcalica.com/kind/note/">📔 Notes</a></li>
+	<li id="menu-item-3337687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337687"><a href="https://www.frederickcalica.com/kind/article/">📄 Articles</a></li>
+	<li id="menu-item-3337688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337688"><a href="https://www.frederickcalica.com/kind/reply/">💬 Replies</a></li>
+	<li id="menu-item-3337689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337689"><a href="https://www.frederickcalica.com/kind/photo/">📷 Photos</a></li>
+	<li id="menu-item-3337690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337690"><a href="https://www.frederickcalica.com/kind/like/">👍 Likes</a></li>
+	<li id="menu-item-3337691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337691"><a href="https://www.frederickcalica.com/kind/repost/">♺ Reposts</a></li>
+	<li id="menu-item-3337692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337692"><a href="https://www.frederickcalica.com/kind/checkin/">🚩 Checkins</a></li>
+	<li id="menu-item-3337693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337693"><a href="https://www.frederickcalica.com/kind/bookmark/">🔖 Bookmarks</a></li>
+	<li id="menu-item-3337694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337694"><a href="https://www.frederickcalica.com/kind/jam/">♫ Jams</a></li>
+	<li id="menu-item-3337695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337695"><a href="https://www.frederickcalica.com/kind/read/">📖 Reads</a></li>
+	<li id="menu-item-3337696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3337696"><a href="https://www.frederickcalica.com/kind/watch/">🎬 Watches</a></li>
+</ul>
+</li>
+<li id="menu-item-3337685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3337685"><a href="https://www.frederickcalica.com/about/">About</a></li>
+</ul></div>		</nav><!-- #access -->
+	</header><!-- #branding -->
+
+	<div id="main">
+
+	<section id="primary" class="full-width">
+		<main id="content" role="main" class="">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title p-entry-title">Well this is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content e-entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help.</p>
+
+					<form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" role="search" method="get" class="search-form" action="https://www.frederickcalica.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<meta itemprop="target" content="https://www.frederickcalica.com/?s={search} "/></form>
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.frederickcalica.com/2022/11/08/3338610/">(no title)</a>
+									</li>
+											<li>
+					<a href="https://www.frederickcalica.com/2022/11/08/3338609/">(no title)</a>
+									</li>
+											<li>
+					<a href="https://www.frederickcalica.com/2022/11/08/3338605/">(no title)</a>
+									</li>
+											<li>
+					<a href="https://www.frederickcalica.com/2022/11/08/3338604/">(no title)</a>
+									</li>
+											<li>
+					<a href="https://www.frederickcalica.com/2022/11/06/3338514/">(no title)</a>
+									</li>
+					</ul>
+
+		</div>
+					<div class="widget">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+								<li class="cat-item cat-item-268"><a href="https://www.frederickcalica.com/category/plurk/">Plurk</a> (2,754)
+</li>
+	<li class="cat-item cat-item-284"><a href="https://www.frederickcalica.com/category/foursquare/">Foursquare</a> (2,743)
+</li>
+	<li class="cat-item cat-item-45"><a href="https://www.frederickcalica.com/category/twitter/">Twitter</a> (747)
+</li>
+	<li class="cat-item cat-item-41"><a href="https://www.frederickcalica.com/category/instagram/">Instagram</a> (459)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.frederickcalica.com/category/uncategorized/">Uncategorized</a> (410)
+</li>
+	<li class="cat-item cat-item-40"><a href="https://www.frederickcalica.com/category/g-archive/">G+ archive</a> (365)
+</li>
+	<li class="cat-item cat-item-286"><a href="https://www.frederickcalica.com/category/tv/">TV</a> (235)
+</li>
+	<li class="cat-item cat-item-300"><a href="https://www.frederickcalica.com/category/posse/">POSSE</a> (146)
+</li>
+	<li class="cat-item cat-item-298"><a href="https://www.frederickcalica.com/category/tumblr/">Tumblr</a> (94)
+</li>
+	<li class="cat-item cat-item-289"><a href="https://www.frederickcalica.com/category/films/">Films</a> (64)
+</li>
+						</ul>
+					</div>
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://www.frederickcalica.com/2022/11/'> November 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/10/'> October 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/09/'> September 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/08/'> August 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/07/'> July 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/06/'> June 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/05/'> May 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/04/'> April 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/03/'> March 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/02/'> February 2022 </option>
+	<option value='https://www.frederickcalica.com/2022/01/'> January 2022 </option>
+	<option value='https://www.frederickcalica.com/2021/12/'> December 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/11/'> November 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/09/'> September 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/08/'> August 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/07/'> July 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/06/'> June 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/05/'> May 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/04/'> April 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/03/'> March 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/02/'> February 2021 </option>
+	<option value='https://www.frederickcalica.com/2021/01/'> January 2021 </option>
+	<option value='https://www.frederickcalica.com/2020/12/'> December 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/11/'> November 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/10/'> October 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/09/'> September 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/08/'> August 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/07/'> July 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/06/'> June 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/05/'> May 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/04/'> April 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/03/'> March 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/02/'> February 2020 </option>
+	<option value='https://www.frederickcalica.com/2020/01/'> January 2020 </option>
+	<option value='https://www.frederickcalica.com/2019/12/'> December 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/11/'> November 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/10/'> October 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/09/'> September 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/08/'> August 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/07/'> July 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/06/'> June 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/05/'> May 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/04/'> April 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/03/'> March 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/02/'> February 2019 </option>
+	<option value='https://www.frederickcalica.com/2019/01/'> January 2019 </option>
+	<option value='https://www.frederickcalica.com/2018/12/'> December 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/11/'> November 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/10/'> October 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/09/'> September 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/08/'> August 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/07/'> July 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/06/'> June 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/05/'> May 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/04/'> April 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/03/'> March 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/02/'> February 2018 </option>
+	<option value='https://www.frederickcalica.com/2018/01/'> January 2018 </option>
+	<option value='https://www.frederickcalica.com/2017/12/'> December 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/11/'> November 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/10/'> October 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/09/'> September 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/08/'> August 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/07/'> July 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/06/'> June 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/05/'> May 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/04/'> April 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/03/'> March 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/02/'> February 2017 </option>
+	<option value='https://www.frederickcalica.com/2017/01/'> January 2017 </option>
+	<option value='https://www.frederickcalica.com/2016/12/'> December 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/11/'> November 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/10/'> October 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/09/'> September 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/08/'> August 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/07/'> July 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/06/'> June 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/05/'> May 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/04/'> April 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/03/'> March 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/02/'> February 2016 </option>
+	<option value='https://www.frederickcalica.com/2016/01/'> January 2016 </option>
+	<option value='https://www.frederickcalica.com/2015/12/'> December 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/11/'> November 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/10/'> October 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/09/'> September 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/08/'> August 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/07/'> July 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/06/'> June 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/05/'> May 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/04/'> April 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/03/'> March 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/02/'> February 2015 </option>
+	<option value='https://www.frederickcalica.com/2015/01/'> January 2015 </option>
+	<option value='https://www.frederickcalica.com/2014/12/'> December 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/11/'> November 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/10/'> October 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/09/'> September 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/08/'> August 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/07/'> July 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/06/'> June 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/05/'> May 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/04/'> April 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/03/'> March 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/02/'> February 2014 </option>
+	<option value='https://www.frederickcalica.com/2014/01/'> January 2014 </option>
+	<option value='https://www.frederickcalica.com/2013/12/'> December 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/11/'> November 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/10/'> October 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/09/'> September 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/08/'> August 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/07/'> July 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/06/'> June 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/05/'> May 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/04/'> April 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/03/'> March 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/02/'> February 2013 </option>
+	<option value='https://www.frederickcalica.com/2013/01/'> January 2013 </option>
+	<option value='https://www.frederickcalica.com/2012/12/'> December 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/11/'> November 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/10/'> October 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/09/'> September 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/08/'> August 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/07/'> July 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/06/'> June 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/05/'> May 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/04/'> April 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/03/'> March 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/02/'> February 2012 </option>
+	<option value='https://www.frederickcalica.com/2012/01/'> January 2012 </option>
+	<option value='https://www.frederickcalica.com/2011/12/'> December 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/11/'> November 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/10/'> October 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/09/'> September 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/08/'> August 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/07/'> July 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/06/'> June 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/05/'> May 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/04/'> April 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/03/'> March 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/02/'> February 2011 </option>
+	<option value='https://www.frederickcalica.com/2011/01/'> January 2011 </option>
+	<option value='https://www.frederickcalica.com/2010/12/'> December 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/11/'> November 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/10/'> October 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/09/'> September 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/08/'> August 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/07/'> July 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/06/'> June 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/05/'> May 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/04/'> April 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/03/'> March 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/02/'> February 2010 </option>
+	<option value='https://www.frederickcalica.com/2010/01/'> January 2010 </option>
+	<option value='https://www.frederickcalica.com/2009/12/'> December 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/11/'> November 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/10/'> October 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/09/'> September 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/08/'> August 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/07/'> July 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/06/'> June 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/05/'> May 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/04/'> April 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/03/'> March 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/02/'> February 2009 </option>
+	<option value='https://www.frederickcalica.com/2009/01/'> January 2009 </option>
+	<option value='https://www.frederickcalica.com/2008/12/'> December 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/11/'> November 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/10/'> October 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/09/'> September 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/08/'> August 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/07/'> July 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/06/'> June 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/05/'> May 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/04/'> April 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/03/'> March 2008 </option>
+	<option value='https://www.frederickcalica.com/2008/02/'> February 2008 </option>
+	<option value='https://www.frederickcalica.com/2007/12/'> December 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/08/'> August 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/07/'> July 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/06/'> June 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/04/'> April 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/03/'> March 2007 </option>
+	<option value='https://www.frederickcalica.com/2007/01/'> January 2007 </option>
+	<option value='https://www.frederickcalica.com/2006/12/'> December 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/11/'> November 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/10/'> October 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/08/'> August 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/07/'> July 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/06/'> June 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/05/'> May 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/04/'> April 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/03/'> March 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/02/'> February 2006 </option>
+	<option value='https://www.frederickcalica.com/2006/01/'> January 2006 </option>
+	<option value='https://www.frederickcalica.com/2005/12/'> December 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/11/'> November 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/10/'> October 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/09/'> September 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/08/'> August 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/07/'> July 2005 </option>
+	<option value='https://www.frederickcalica.com/2005/03/'> March 2005 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://www.frederickcalica.com/tag/beda2015/" class="tag-cloud-link tag-link-46 tag-link-position-1" style="font-size: 10.276422764228pt;" aria-label="#beda2015 (4 items)">#beda2015</a>
+<a href="https://www.frederickcalica.com/tag/apple-tv/" class="tag-cloud-link tag-link-288 tag-link-position-2" style="font-size: 10.731707317073pt;" aria-label="Apple TV (5 items)">Apple TV</a>
+<a href="https://www.frederickcalica.com/tag/donotdisturb/" class="tag-cloud-link tag-link-305 tag-link-position-3" style="font-size: 8pt;" aria-label="donotdisturb (1 item)">donotdisturb</a>
+<a href="https://www.frederickcalica.com/tag/epilogue/" class="tag-cloud-link tag-link-96 tag-link-position-4" style="font-size: 9.0243902439024pt;" aria-label="epilogue (2 items)">epilogue</a>
+<a href="https://www.frederickcalica.com/tag/fb/" class="tag-cloud-link tag-link-102 tag-link-position-5" style="font-size: 9.7073170731707pt;" aria-label="fb (3 items)">fb</a>
+<a href="https://www.frederickcalica.com/tag/flashbackfriday/" class="tag-cloud-link tag-link-104 tag-link-position-6" style="font-size: 9.0243902439024pt;" aria-label="FlashbackFriday (2 items)">FlashbackFriday</a>
+<a href="https://www.frederickcalica.com/tag/ft/" class="tag-cloud-link tag-link-108 tag-link-position-7" style="font-size: 11.414634146341pt;" aria-label="ft (7 items)">ft</a>
+<a href="https://www.frederickcalica.com/tag/geek/" class="tag-cloud-link tag-link-114 tag-link-position-8" style="font-size: 9.0243902439024pt;" aria-label="geek (2 items)">geek</a>
+<a href="https://www.frederickcalica.com/tag/hbo-go/" class="tag-cloud-link tag-link-291 tag-link-position-9" style="font-size: 15.853658536585pt;" aria-label="HBO Go (47 items)">HBO Go</a>
+<a href="https://www.frederickcalica.com/tag/ifttt/" class="tag-cloud-link tag-link-130 tag-link-position-10" style="font-size: 19.040650406504pt;" aria-label="IFTTT (172 items)">IFTTT</a>
+<a href="https://www.frederickcalica.com/tag/kingofromcom/" class="tag-cloud-link tag-link-143 tag-link-position-11" style="font-size: 9.0243902439024pt;" aria-label="kingofromcom (2 items)">kingofromcom</a>
+<a href="https://www.frederickcalica.com/tag/music/" class="tag-cloud-link tag-link-161 tag-link-position-12" style="font-size: 14.146341463415pt;" aria-label="music (23 items)">music</a>
+<a href="https://www.frederickcalica.com/tag/netflix/" class="tag-cloud-link tag-link-290 tag-link-position-13" style="font-size: 17.219512195122pt;" aria-label="Netflix (83 items)">Netflix</a>
+<a href="https://www.frederickcalica.com/tag/nostalgia/" class="tag-cloud-link tag-link-168 tag-link-position-14" style="font-size: 9.0243902439024pt;" aria-label="nostalgia (2 items)">nostalgia</a>
+<a href="https://www.frederickcalica.com/tag/nowplaying/" class="tag-cloud-link tag-link-171 tag-link-position-15" style="font-size: 9.0243902439024pt;" aria-label="nowplaying (2 items)">nowplaying</a>
+<a href="https://www.frederickcalica.com/tag/parenting/" class="tag-cloud-link tag-link-180 tag-link-position-16" style="font-size: 8pt;" aria-label="parenting (1 item)">parenting</a>
+<a href="https://www.frederickcalica.com/tag/photography/" class="tag-cloud-link tag-link-183 tag-link-position-17" style="font-size: 8pt;" aria-label="photography (1 item)">photography</a>
+<a href="https://www.frederickcalica.com/tag/police/" class="tag-cloud-link tag-link-189 tag-link-position-18" style="font-size: 8pt;" aria-label="police (1 item)">police</a>
+<a href="https://www.frederickcalica.com/tag/pongpagong/" class="tag-cloud-link tag-link-190 tag-link-position-19" style="font-size: 8pt;" aria-label="pongpagong (1 item)">pongpagong</a>
+<a href="https://www.frederickcalica.com/tag/prime-video/" class="tag-cloud-link tag-link-287 tag-link-position-20" style="font-size: 12.439024390244pt;" aria-label="Prime Video (11 items)">Prime Video</a>
+<a href="https://www.frederickcalica.com/tag/privatejournal/" class="tag-cloud-link tag-link-296 tag-link-position-21" style="font-size: 8pt;" aria-label="privatejournal (1 item)">privatejournal</a>
+<a href="https://www.frederickcalica.com/tag/procrastination/" class="tag-cloud-link tag-link-194 tag-link-position-22" style="font-size: 9.0243902439024pt;" aria-label="procrastination (2 items)">procrastination</a>
+<a href="https://www.frederickcalica.com/tag/programmer/" class="tag-cloud-link tag-link-195 tag-link-position-23" style="font-size: 9.0243902439024pt;" aria-label="programmer (2 items)">programmer</a>
+<a href="https://www.frederickcalica.com/tag/programming/" class="tag-cloud-link tag-link-196 tag-link-position-24" style="font-size: 9.0243902439024pt;" aria-label="programming (2 items)">programming</a>
+<a href="https://www.frederickcalica.com/tag/puppylove/" class="tag-cloud-link tag-link-197 tag-link-position-25" style="font-size: 8pt;" aria-label="puppylove (1 item)">puppylove</a>
+<a href="https://www.frederickcalica.com/tag/qcontinuum/" class="tag-cloud-link tag-link-198 tag-link-position-26" style="font-size: 8pt;" aria-label="Qcontinuum (1 item)">Qcontinuum</a>
+<a href="https://www.frederickcalica.com/tag/randomthoughts/" class="tag-cloud-link tag-link-202 tag-link-position-27" style="font-size: 8pt;" aria-label="randomthoughts (1 item)">randomthoughts</a>
+<a href="https://www.frederickcalica.com/tag/reactions/" class="tag-cloud-link tag-link-203 tag-link-position-28" style="font-size: 10.731707317073pt;" aria-label="reactions (5 items)">reactions</a>
+<a href="https://www.frederickcalica.com/tag/retailtherapy/" class="tag-cloud-link tag-link-205 tag-link-position-29" style="font-size: 8pt;" aria-label="retailtherapy (1 item)">retailtherapy</a>
+<a href="https://www.frederickcalica.com/tag/science/" class="tag-cloud-link tag-link-208 tag-link-position-30" style="font-size: 8pt;" aria-label="Science (1 item)">Science</a>
+<a href="https://www.frederickcalica.com/tag/sciencefiction/" class="tag-cloud-link tag-link-211 tag-link-position-31" style="font-size: 8pt;" aria-label="sciencefiction (1 item)">sciencefiction</a>
+<a href="https://www.frederickcalica.com/tag/sentisabado/" class="tag-cloud-link tag-link-214 tag-link-position-32" style="font-size: 9.7073170731707pt;" aria-label="SentiSabado (3 items)">SentiSabado</a>
+<a href="https://www.frederickcalica.com/tag/tf/" class="tag-cloud-link tag-link-230 tag-link-position-33" style="font-size: 11.983739837398pt;" aria-label="tf (9 items)">tf</a>
+<a href="https://www.frederickcalica.com/tag/toastto21yearsofbsb/" class="tag-cloud-link tag-link-238 tag-link-position-34" style="font-size: 8pt;" aria-label="ToastTo21YearsOfBSB (1 item)">ToastTo21YearsOfBSB</a>
+<a href="https://www.frederickcalica.com/tag/travel/" class="tag-cloud-link tag-link-239 tag-link-position-35" style="font-size: 8pt;" aria-label="travel (1 item)">travel</a>
+<a href="https://www.frederickcalica.com/tag/trekking/" class="tag-cloud-link tag-link-240 tag-link-position-36" style="font-size: 8pt;" aria-label="trekking (1 item)">trekking</a>
+<a href="https://www.frederickcalica.com/tag/tropicalboy/" class="tag-cloud-link tag-link-241 tag-link-position-37" style="font-size: 8pt;" aria-label="tropicalboy (1 item)">tropicalboy</a>
+<a href="https://www.frederickcalica.com/tag/twitter/" class="tag-cloud-link tag-link-244 tag-link-position-38" style="font-size: 22pt;" aria-label="Twitter (568 items)">Twitter</a>
+<a href="https://www.frederickcalica.com/tag/videoke/" class="tag-cloud-link tag-link-247 tag-link-position-39" style="font-size: 9.0243902439024pt;" aria-label="videoke (2 items)">videoke</a>
+<a href="https://www.frederickcalica.com/tag/vintagetech/" class="tag-cloud-link tag-link-249 tag-link-position-40" style="font-size: 8pt;" aria-label="vintagetech (1 item)">vintagetech</a>
+<a href="https://www.frederickcalica.com/tag/walalang/" class="tag-cloud-link tag-link-250 tag-link-position-41" style="font-size: 9.0243902439024pt;" aria-label="walalang (2 items)">walalang</a>
+<a href="https://www.frederickcalica.com/tag/writingtips/" class="tag-cloud-link tag-link-257 tag-link-position-42" style="font-size: 8pt;" aria-label="writingtips (1 item)">writingtips</a>
+<a href="https://www.frederickcalica.com/tag/xmen/" class="tag-cloud-link tag-link-258 tag-link-position-43" style="font-size: 8pt;" aria-label="XMen (1 item)">XMen</a>
+<a href="https://www.frederickcalica.com/tag/xptext/" class="tag-cloud-link tag-link-301 tag-link-position-44" style="font-size: 8pt;" aria-label="xptext (1 item)">xptext</a>
+<a href="https://www.frederickcalica.com/tag/yawn/" class="tag-cloud-link tag-link-259 tag-link-position-45" style="font-size: 8pt;" aria-label="yawn (1 item)">yawn</a></div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</main><!-- #content -->
+	</section><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+		<div id="site-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<meta itemprop="name" content="Stray Thoughts" />
+			<meta itemprop="url" content="https://www.frederickcalica.com/" />
+					</div>
+		<div id="site-generator">
+						This site is powered by <a href="http://wordpress.org/" rel="generator">WordPress</a> and styled with <a href="http://notiz.blog/projects/sempress/">SemPress</a>		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://www.frederickcalica.com/wp-content/themes/sempress/js/functions.js?ver=1.5.1' id='sempress-script-js'></script>
+
+</body>
+</html>
+
+0
+

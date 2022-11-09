@@ -1,0 +1,13 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:51:53 GMT
+Server: Apache
+X-Account-Management-Status: none
+X-Powered-By: PleskLin
+
+68
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}
+0
+

@@ -1,0 +1,17 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767780b31f86f969-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:15 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6ii3saCBEp0ALIIUziro4nWKi2edRXXM9fY%2F9dC80ZfVE9FwveUNYipGHqts%2B2m0lP%2F0%2BKVTM7IIgJfowzO1pB7Sb04iCKOc2x67e8zAWu2Qv2yKDlMIC%2BHPElzN7s66qQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/7.4.30
+
+0
+

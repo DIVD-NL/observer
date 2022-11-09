@@ -1,0 +1,274 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:15 GMT
+Server: Caddy
+Server: nginx/1.14.2
+
+14ec
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  
+  <title>404 Page not found - skalnik</title>
+
+  
+  
+  <meta name="description" content="Follow &lt;a href=&#34;https://micro.blog/skalnik&#34;&gt;@skalnik on Micro.blog&lt;/a&gt;." />
+  <meta name="author" content="Mike Skalnik" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://blog.skalnik.com/app.min.css" />
+
+  
+
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/theme.png" />
+
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/twitter.svg" />
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/github.svg" />
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/instagram.svg" />
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/microdotblog.svg" />
+  
+  <link rel="preload" as="image" href="https://blog.skalnik.com/buymeacoffee.svg" />
+  
+
+  
+  <link rel="icon" href="https://blog.skalnik.com/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://blog.skalnik.com/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="404 Page not found" />
+<meta property="og:description" content="Follow &lt;a href=&#34;https://micro.blog/skalnik&#34;&gt;@skalnik on Micro.blog&lt;/a&gt;." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://blog.skalnik.com/404.html" />
+
+
+  
+  <meta itemprop="name" content="404 Page not found">
+<meta itemprop="description" content="Follow &lt;a href=&#34;https://micro.blog/skalnik&#34;&gt;@skalnik on Micro.blog&lt;/a&gt;.">
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="404 Page not found"/>
+<meta name="twitter:description" content="Follow &lt;a href=&#34;https://micro.blog/skalnik&#34;&gt;@skalnik on Micro.blog&lt;/a&gt;."/>
+
+  
+  
+  
+  <link rel="me" href="https://micro.blog/skalnik" />
+
+
+
+
+<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+<link rel="micropub" href="https://micro.blog/micropub" />
+<link rel="microsub" href="https://micro.blog/microsub" />
+<link rel="webmention" href="https://micro.blog/webmention" />
+<link rel="subscribe" href="https://micro.blog/users/follow" />
+
+
+
+	<meta name="twitter:card" content="summary" />
+
+  <meta name="twitter:title" content="404 Page not found" />
+
+<meta name="twitter:description" content="" />
+
+
+
+	
+
+
+	<meta property="og:title" content="404 Page not found" />
+
+
+<meta property="og:description" content="Follow &lt;a href=&#34;https://micro.blog/skalnik&#34;&gt;@skalnik on Micro.blog&lt;/a&gt;." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.skalnik.com/404.html" />
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+	<script async defer data-domain="blog.skalnik.com" src="https://plausible.io/js/plausible.js"></script>
+
+
+</head>
+
+
+  <body class="not-ready" data-menu="true">
+    <header class="header">
+  
+  <p class="logo">
+    <a class="site-name" href="https://blog.skalnik.com/">skalnik</a><a class="btn-dark"></a>
+  </p>
+  
+
+  <script>
+    let bodyClx = document.body.classList;
+    let btnDark = document.querySelector('.btn-dark');
+    let sysDark = window.matchMedia('(prefers-color-scheme: dark)');
+    let darkVal = localStorage.getItem('dark');
+
+    let setDark = (isDark) => {
+      bodyClx[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark ? 'yes' : 'no');
+    };
+
+    setDark(darkVal ? darkVal === 'yes' : sysDark.matches);
+    requestAnimationFrame(() => bodyClx.remove('not-ready'));
+
+    btnDark.addEventListener('click', () => setDark(!bodyClx.contains('dark')));
+    sysDark.addEventListener('change', (event) => setDark(event.matches));
+  </script>
+
+  
+  
+  
+  <nav class="menu">
+    
+			
+				<a class="" role="presentation" href="/photos/">Photos</a>
+			
+		
+			
+				<a class="" role="presentation" href="/archive/">Archive</a>
+			
+		
+			
+				<a class="" role="presentation" href="/about/">About</a>
+			
+		
+  </nav>
+  
+
+  
+  <nav class="social">
+    
+    
+      
+      <a
+        class="twitter"
+        style="--url: url(./twitter.svg)"
+        href="https://twitter.com/skalnik"
+        target="_blank"
+      ></a>
+      
+    
+    
+      
+      <a
+        class="github"
+        style="--url: url(./github.svg)"
+        href="https://github.com/skalnik"
+        target="_blank"
+      ></a>
+      
+    
+    
+      
+    
+    
+      
+      <a
+        class="microdotblog"
+        style="--url: url(./microdotblog.svg)"
+        href="https://micro.blog/skalnik"
+        target="_blank"
+      ></a>
+      
+    
+    
+      
+    
+  </nav>
+  
+</header>
+
+
+    <main class="main">
+<h1 class="title-404">404</h1>
+</main>
+
+    <footer class="footer">
+  <p>&copy; 2022 <a href="https://blog.skalnik.com/">Mike Skalnik</a></p>
+  <p>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</p>
+  <p>Hosted by <a href="https://micro.blog/" rel="noopener" target="_blank">Micro.blog</a>
+  </p>
+</footer>
+
+    
+
+    
+  </body>
+</html>
+
+0
+

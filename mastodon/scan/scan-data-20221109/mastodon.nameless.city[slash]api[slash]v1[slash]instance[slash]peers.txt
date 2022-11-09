@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.nameless.city; img-src 'self' https: data: blob: https://mastodon.nameless.city; style-src 'self' https://mastodon.nameless.city 'nonce-4xcjd9fJx5Hc0gsBc5eGCw=='; media-src 'self' https: data: https://mastodon.nameless.city; frame-src 'self' https:; manifest-src 'self' https://mastodon.nameless.city; connect-src 'self' data: blob: https://mastodon.nameless.city https://mastodon.nameless.city wss://mastodon.nameless.city; script-src 'self' https://mastodon.nameless.city 'unsafe-eval'; child-src 'self' blob: https://mastodon.nameless.city; worker-src 'self' blob: https://mastodon.nameless.city
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:54 GMT
+Etag: W/"07faea0d11ff012218c49cc2c057549f"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.678187Z
+X-Request-Id: b67b39dc-276b-40a6-bea6-0b1818a9a0cc
+X-Runtime: 0.010236
+X-Xss-Protection: 0
+
+61b
+["neenster.org","social.afront.org","masto.ashfurrow.com","mas.to","linuxrocks.online","tilde.zone","leds.social","idlethumbs.social","mastodon.coffee","equestria.social","social.tarasis.net","social.pixels.pizza","glitterkitten.co.uk","merveilles.town","kolektiva.social","masto.chronos-tachyon.net","tech.lgbt","socialnotwork.net","towns.gay","ptwg.xyz","teh.entar.net","v.st","mspsocial.net","mastodon.cloud","im-in.space","restless.systems","sunbeam.city","framapiaf.org","sometimes.social","sigmoid.social","social.makerforums.info","mastodon.gamedev.place","dice.camp","mstdn.social","xn--xxa.computer","social.lol","mastodon.me.uk","wetdry.world","social.okoyono.de","post.lurk.org","ruby.social","tane.codes","someone.elses.computer","mastodon.neilzone.co.uk","mastodon.nz","scholar.social","social.cryptography.dog","social.coop","halibut.com","freeradical.zone","counter.social","glauca.space","vocalounge.cafe","foo.sx","cztwitter.cz","social.tchncs.de","infosec.exchange","majak.de","mastodon.world","mastodon.scot","mamot.fr","mastodon.sphericalk.at","mastodon.sdf.org","snug.town","mastodon.xyz","mastodon.nl","hackers.town","vis.social","mastodon.technology","mastodon.nu","aus.social","astrodon.social","mastodon.art","bildung.social","strangeparts.com","bne.social","qoto.org","mastodon.online","chaos.social","toots.cordelya.net","diode.zone","octodon.social","botsin.space","c.im","mastodon.social","queer.party","oldbytes.space","hachyderm.io","fosstodon.org","radiosocial.de","topspicy.social","raspberrypi.social","social.mythic-beasts.com"]
+0
+

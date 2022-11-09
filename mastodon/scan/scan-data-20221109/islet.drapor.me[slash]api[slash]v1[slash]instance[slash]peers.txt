@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://islet.drapor.me; img-src 'self' https: data: blob: https://islet.drapor.me; style-src 'self' 'unsafe-inline' https://islet.drapor.me; media-src 'self' https: data: https://islet.drapor.me; frame-src 'self' https:; manifest-src 'self' https://islet.drapor.me; connect-src 'self' data: blob: https://islet.drapor.me https://islet.drapor.me wss://islet.drapor.me; script-src 'self' https://islet.drapor.me; child-src 'self' blob: https://islet.drapor.me; worker-src 'self' blob: https://islet.drapor.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:40 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.130405Z
+X-Request-Id: f0ef72c0-0090-4bf8-a427-71ed1dab2444
+X-Runtime: 0.006578
+X-Xss-Protection: 1; mode=block
+
+0
+

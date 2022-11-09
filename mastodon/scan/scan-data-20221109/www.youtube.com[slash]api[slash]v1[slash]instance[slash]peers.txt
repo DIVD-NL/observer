@@ -1,0 +1,26 @@
+HTTP/1.1 302 Found
+Connection: close
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/binary
+Cross-Origin-Opener-Policy-Report-Only: same-origin-allow-popups; report-to="youtube_main"
+Date: Wed, 09 Nov 2022 15:22:48 GMT
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Location: https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fapi%2Fv1%2Finstance%2Fpeers%3Fcbrd%3D1&gl=BE&m=0&pc=yt&hl=nl&src=1
+P3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=nl for more info."
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+Pragma: no-cache
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+Server: ESF
+Set-Cookie: YSC=iIWr5lZGmK8; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none
+Set-Cookie: VISITOR_INFO1_LIVE=; Domain=.youtube.com; Expires=Thu, 13-Feb-2020 15:22:48 GMT; Path=/; Secure; HttpOnly; SameSite=none
+Set-Cookie: __Secure-YEC=CgtLbFh2X044VWpKQSjIi6-bBg%3D%3D; Domain=.youtube.com; Expires=Sat, 09-Dec-2023 15:22:47 GMT; Path=/; Secure; HttpOnly; SameSite=lax
+Set-Cookie: CONSENT=PENDING+594; expires=Fri, 08-Nov-2024 15:22:48 GMT; path=/; domain=.youtube.com; Secure
+Strict-Transport-Security: max-age=31536000
+Vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Content-Length: 0
+

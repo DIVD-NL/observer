@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:53 GMT
+Location: https://kuukkanen.net/api/v1/instance/peers
+Permissions-Policy: fullscreen=(), autoplay=()
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

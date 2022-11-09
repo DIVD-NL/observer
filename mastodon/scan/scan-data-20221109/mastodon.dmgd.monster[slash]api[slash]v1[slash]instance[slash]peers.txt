@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.dmgd.monster; img-src 'self' https: data: blob: https://mastodon.dmgd.monster; style-src 'self' https://mastodon.dmgd.monster 'nonce-2OIXkn7+IzOnfhdxvHz1Fw=='; media-src 'self' https: data: https://mastodon.dmgd.monster; frame-src 'self' https:; manifest-src 'self' https://mastodon.dmgd.monster; connect-src 'self' data: blob: https://mastodon.dmgd.monster https://mastodon.dmgd.monster wss://mastodon.dmgd.monster; script-src 'self' https://mastodon.dmgd.monster; child-src 'self' blob: https://mastodon.dmgd.monster; worker-src 'self' blob: https://mastodon.dmgd.monster
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:12 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.134791Z
+X-Request-Id: fd233583-b2ad-4767-88d8-aa1091a5206b
+X-Runtime: 0.011753
+X-Xss-Protection: 0
+
+0
+

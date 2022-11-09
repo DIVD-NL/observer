@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:11:28 GMT
+Server: nginx
+X-Backend: web3
+X-Frontend: frontend1
+X-Trace-Id: ti_05c39e1846e8b3e3f9370cd562167420
+
+220
+<!DOCTYPE html>
+<html>
+<head>
+<title>No page found</title>
+<link rel="stylesheet" type="text/css" href="https://www.fastmailusercontent.com/filestorage/css/main.css" />
+</head>
+<body>
+<a name="Top"></a>
+<h1>No page found</h1>
+<p>We couldn't find a page for the link you visited. Please check that you have the correct link and try again.</p>
+<p>If you are the owner of this domain, you can setup a page here by <a href="https://www.fastmail.help/hc/en-us/articles/1500000280141">creating a page/website in your account</a>.</p>
+</body>
+</html>
+
+0
+

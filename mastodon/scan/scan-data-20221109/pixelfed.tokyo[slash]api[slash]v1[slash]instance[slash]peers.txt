@@ -1,0 +1,91 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:29 GMT
+Server: nginx/1.14.0 (Ubuntu)
+
+1433
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>Pixelfed.Tokyo</title>
+	<link rel="manifest" href="/manifest.json">
+
+	<meta property="og:site_name" content="Pixelfed.Tokyo">
+	<meta property="og:title" content="Pixelfed.Tokyo">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://pixelfed.tokyo/api/v1/instance/peers">
+	
+	<meta name="medium" content="image">
+	<meta name="theme-color" content="#10c5f8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="canonical" href="https://pixelfed.tokyo/api/v1/instance/peers">
+	<link href="/css/app.css?id=66c10c9502955c88d471277fface8c32" rel="stylesheet" data-stylesheet="light">
+	<script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":true,"uploader":{"max_photo_size":"17000","max_caption_length":"150","album_limit":"6","image_quality":"85","max_collection_length":100,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif,video\/mp4,video\/m4v,image\/webp","enforce_account_limit":false},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":false,"rec":false,"loops":false,"top":false,"polls":false,"cached_public_timeline":false,"gps":false,"spa":true,"emc":true},"site":{"name":"Pixelfed.Tokyo","domain":"pixelfed.tokyo","url":"https:\/\/pixelfed.tokyo","description":"Pixelfed.Tokyo\u306f\u6771\u4eac\u306b\u30b5\u30fc\u30d0\u30fc\u3092\u7f6e\u304fPixefed\u30b5\u30fc\u30d0\u30fc\u3067\u3059\u3002\u81ea\u7531\u3067\u30aa\u30fc\u30d7\u30f3\u306a\u30a4\u30e1\u30fc\u30b8\u30b7\u30a7\u30a2\u306e\u5834\u3092\u5e83\u304f\u63d0\u4f9b\u3059\u308b\u76ee\u7684\u3067\u7dad\u6301\u30fb\u7ba1\u7406\u3055\u308c\u3066\u3044\u307e\u3059\u3002\r\nPixelfed.Tokyo is a Pixelfed server located in Tokyo, Japan. It is maintained with the aim of providing a free and open forum for image sharing."},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"timelines":{"local":true,"network":true},"mobile_apis":true,"stories":true,"video":true,"import":{"instagram":true,"mastodon":false,"pixelfed":false},"label":{"covid":{"enabled":true,"org":"visit the WHO website","url":"https:\/\/www.who.int\/emergencies\/diseases\/novel-coronavirus-2019\/advice-for-public"}}}}};</script>
+	</head>
+<body>
+	<nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+	<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="/" title="Logo">
+				<img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+				<span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">Pixelfed.Tokyo</span>
+			</a>
+
+			<div class="collapse navbar-collapse">
+			
+			
+				<ul class="navbar-nav ml-auto">
+					<li>
+						<a class="nav-link font-weight-bold text-dark" href="/login" title="Login">
+							Login
+						</a>
+					</li>
+											</ul>
+			</div>
+	</div>
+</nav>
+	<main id="content">
+		<div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+	</main>
+	<footer>
+    <div class="container py-5">
+        <p class="text-center text-uppercase font-weight-bold small text-justify">
+          <a href="https://pixelfed.tokyo/site/about" class="text-dark p-2">このサーバーについて</a>
+          <a href="https://pixelfed.tokyo/site/help" class="text-dark p-2">ヘルプ</a>
+          <a href="https://pixelfed.tokyo/site/terms" class="text-dark p-2">利用規約</a>
+          <a href="https://pixelfed.tokyo/site/privacy" class="text-dark p-2">プライバシーポリシー</a>
+          <a href="https://pixelfed.tokyo/site/language" class="text-dark p-2">Language</a>
+                  </p>
+        <p class="text-center text-muted small mb-0">
+          <span class="text-muted">© 2022 pixelfed.tokyo</span>
+          <span class="mx-2">·</span>
+          <a href="https://pixelfed.org" class="text-muted font-weight-bold" rel="noopener">Powered by Pixelfed</a>
+          <span class="mx-2">·</span>
+          <span class="text-muted">v0.11.4</span>
+        </p>
+    </div>
+  </footer>
+  	<script type="text/javascript" src="/js/manifest.js?id=5ebf5f52b571313e55587bf61ebd2706"></script>
+	<script type="text/javascript" src="/js/vendor.js?id=4b8baeff156b0f280596a985b98255bc"></script>
+	<script type="text/javascript" src="/js/app.js?id=855c8b0847137dd56c72229ad305c032"></script>
+	<script type="text/javascript" src="/js/components.js?id=35beb0748dd5518371686a5f00348fbf"></script>
+	</body>
+</html>
+
+0
+

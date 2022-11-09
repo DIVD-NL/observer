@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.eurotrib.com; img-src 'self' https: data: blob: https://social.eurotrib.com; style-src 'self' https://social.eurotrib.com 'nonce-zl/yT/NaMI7H7FUcm20ECA=='; media-src 'self' https: data: https://social.eurotrib.com; frame-src 'self' https:; manifest-src 'self' https://social.eurotrib.com; connect-src 'self' data: blob: https://social.eurotrib.com https://social.eurotrib.com wss://social.eurotrib.com; script-src 'self' https://social.eurotrib.com; child-src 'self' blob: https://social.eurotrib.com; worker-src 'self' blob: https://social.eurotrib.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:19 GMT
+Etag: W/"93fd11a818e7ffd84356899ed1cecc1e"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.514060Z
+X-Request-Id: 27dc9284-15a4-4695-a587-d6ccd6479bd9
+X-Runtime: 0.008070
+X-Xss-Protection: 0
+
+3d
+["zirk.us","eupolicy.social","mastodon.social","mastodon.ie"]
+0
+

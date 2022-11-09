@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.qowala.org; img-src 'self' https: data: blob: https://mastodon.qowala.org; style-src 'self' https://mastodon.qowala.org 'nonce-ghVXadUM1ETpTsFramSFiA=='; media-src 'self' https: data: https://mastodon.qowala.org; frame-src 'self' https:; manifest-src 'self' https://mastodon.qowala.org; connect-src 'self' data: blob: https://mastodon.qowala.org https://mastodon.qowala.org wss://mastodon.qowala.org; script-src 'self' https://mastodon.qowala.org; child-src 'self' blob: https://mastodon.qowala.org; worker-src 'self' blob: https://mastodon.qowala.org
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:12:06 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.682773Z
+X-Request-Id: de649c5b-6f25-440e-9940-7bf36883be26
+X-Runtime: 0.006571
+X-Xss-Protection: 1; mode=block
+
+0
+

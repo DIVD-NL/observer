@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://gonottowittenberg.masto.host; img-src 'self' https: data: blob: https://gonottowittenberg.masto.host; style-src 'self' https://gonottowittenberg.masto.host 'nonce-RwYmNmKEFYCvJ9eBVAFGSA=='; media-src 'self' https: data: https://gonottowittenberg.masto.host; frame-src 'self' https:; manifest-src 'self' https://gonottowittenberg.masto.host; connect-src 'self' data: blob: https://gonottowittenberg.masto.host https://cdn.masto.host wss://gonottowittenberg.masto.host; script-src 'self' https://gonottowittenberg.masto.host; child-src 'self' blob: https://gonottowittenberg.masto.host; worker-src 'self' blob: https://gonottowittenberg.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:04:07 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.216395Z
+X-Request-Id: b592c16c-2578-42e6-a6f4-604de033b962
+X-Runtime: 0.006960
+X-Xss-Protection: 0
+
+0
+

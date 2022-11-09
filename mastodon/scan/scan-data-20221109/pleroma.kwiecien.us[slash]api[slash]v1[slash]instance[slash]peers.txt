@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1344
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.kwiecien.us wss://pleroma.kwiecien.us;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:04 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzfw6BZVRtZkYAAZLD
+X-Xss-Protection: 1; mode=block
+
+["social.jlamothe.net","mastodon.me.uk","dice.camp","bae.st","epistolary.org","a2mi.social","retr0.id","bladerunner.social","oldbytes.space","toot.community","chat.brainbaking.com","sfba.social","mckellar.social","commiespace.duckdns.org","mastodon.scot","mastodon.online","pleroma.ecliptik.com","toot-lab.reclaim.technology","universeodon.com","toot.cat","hackers.town","mastodon.ar.al","totalnoob.club","social.chinwag.org","sunbeam.city","sauropods.win","home.social","friends.johalla.org","mastodon.radio","lgbt.io","tech.lgbt","mastodon.social","mstdn.social","photog.social","pleroma.atyh.cc","tilde.zone","mastodonapp.uk","nonexiste.net","botsin.space","indieweb.social","merveilles.town","fosstodon.org","botta.social","post.lurk.org","puto.gspot.lol","edolas.world","101010.pl","notacult.social","hachyderm.io","mastodon.sdf.org","meow.social","social.mythic-beasts.com","raspberrypi.social","retro.social","weirder.earth","mk.slipfox.xyz","port87.social","cathode.church","social.bau-ha.us","m.rakyll.org","mastodon.matrix.org","writing.exchange","social.teci.world","mastodon.org.uk","bitcoinhackers.org","bsd.network","waytoohip.com","hsnl.social","toot.wales","occult.institute","polyglot.city","rollenspiel.social","piggo.space","mas.to","eeeeeeeee.eu","sunny.garden","mastodon.art","chaos.social","pleroma.1d4.us","liberdon.com"]

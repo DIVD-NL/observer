@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://are.waffles.fun; img-src 'self' https: data: blob: https://are.waffles.fun; style-src 'self' https://are.waffles.fun 'nonce-7qaOPvVY5nfIMUncc+WShQ=='; media-src 'self' https: data: https://are.waffles.fun; frame-src 'self' https:; manifest-src 'self' https://are.waffles.fun; connect-src 'self' data: blob: https://are.waffles.fun https://are.waffles.fun wss://are.waffles.fun; script-src 'self' https://are.waffles.fun; child-src 'self' blob: https://are.waffles.fun; worker-src 'self' blob: https://are.waffles.fun
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:02 GMT
+Etag: W/"bdf3d934f3e8627ee4b1ae5736be8be0"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.105672Z
+X-Request-Id: 20086948-1efd-43d4-a665-9c8de5dd89d8
+X-Runtime: 0.015756
+X-Xss-Protection: 0
+
+25
+["mastodon.online","mastodon.social"]
+0
+

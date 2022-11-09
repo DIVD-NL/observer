@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.schutte.me; img-src 'self' https: data: blob: https://social.schutte.me; style-src 'self' https://social.schutte.me 'nonce-XzRW8DtPfsjsXaq67dDn2w=='; media-src 'self' https: data: https://social.schutte.me; frame-src 'self' https:; manifest-src 'self' https://social.schutte.me; connect-src 'self' data: blob: https://social.schutte.me https://cdn.masto.host wss://social.schutte.me; script-src 'self' https://social.schutte.me; child-src 'self' blob: https://social.schutte.me; worker-src 'self' blob: https://social.schutte.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:30 GMT
+Etag: W/"459e3cfd2db576bb1dc9d02668c52f85"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.694715Z
+X-Request-Id: b6774a9b-8052-45ab-a2ef-120fda86a298
+X-Runtime: 0.008770
+X-Xss-Protection: 0
+
+463
+["social.linux.pizza","robot.rodeo","nerdculture.de","elekk.xyz","f.kretschmann.social","kudabiverse.com","friendica.myportal.social","anarchydica.net","friendica.mschmidt-et.de","friendica.kommune4.de","wandering.shop","herzbu.de","friendica.offsite.guru","fandom.garden","fri.aethercom.de","friendica.mifritscher.de","fr.readthefinemanual.net","botsin.space","social.jmueller.eu","mastodon.world","code4lib.social","infosec.exchange","journa.host","friendica.opencloud.lu","redeyes.club","friendica.togart.de","friendica.ironbug.org","friendica.ambag.es","friendica.ucy.de","petroskowo.pl","f.iroiro.party","your.sensor.community","researchbuzz.masto.host","glammr.us","pztrn.online","follow.schmaller.de","mas.to","mastodon.online","cloudisland.nz","kolektiva.social","mstdn.social","toot.community","vis.social","fediscience.org","sometimes.social","fosstodon.org","glasgow.social","clacks.link","social.tchncs.de","dice.camp","mastodonapp.uk","aus.social","f.freinetz.ch","mastodon.ie","sueden.social","mastodon.murkworks.net","mastodon.cloud","mastodon.sdf.org","dragonscave.space","octodon.social","mastodon.social"]
+0
+

@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767765fac9cb2e5c-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:57:00 GMT
+Location: https://barkle.chat/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=N%2FkGNzB2FJy2IGeMaPDUXlwJvL5ijwacLmHoYsNsSJ3m54NE1pGGbdP%2BQWFmvOwjfHKxtGxwlGmIeubCvfCpWp4Ko1ILIIx%2F%2Bf5lRR%2FJxAKdecQgaTt7akSLlFaZU9fylw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+f9
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://barkle.chat/api/v1/instance/peers">here</a>.</p>
+</body></html>
+
+0
+

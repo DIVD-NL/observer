@@ -1,0 +1,24 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://blabla.maravitti.fr; img-src 'self' https: data: blob: https://blabla.maravitti.fr; style-src 'self' https://blabla.maravitti.fr 'nonce-ldIcY0OhBr/xPPRi78iLyw=='; media-src 'self' https: data: https://blabla.maravitti.fr; frame-src 'self' https:; manifest-src 'self' https://blabla.maravitti.fr; connect-src 'self' data: blob: https://blabla.maravitti.fr https://maravitti.files.fedi.monster wss://blabla.maravitti.fr; script-src 'self' https://blabla.maravitti.fr; child-src 'self' blob: https://blabla.maravitti.fr; worker-src 'self' blob: https://blabla.maravitti.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.613458Z
+X-Request-Id: 2ebef45a-4566-476a-9fa9-3a2bcdf97d90
+X-Runtime: 0.006718
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

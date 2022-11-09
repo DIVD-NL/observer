@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:17:53 GMT
+Server: Apache/2.4.54 (cPanel) OpenSSL/1.1.1q mod_bwlimited/1.4
+
+1c2
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Halcyon / ?</title>
+<link rel="shortcut icon" href="/assets/images/favicon.ico">
+<link rel="stylesheet" href="/assets/css/404.css" media="all">
+</head>
+<body>
+<article>
+<h1>404</h1>
+<h2>Sorry, something went wrong.</h2>
+</article>
+</body>
+</html>
+0
+

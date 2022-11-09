@@ -1,0 +1,75 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:22 GMT
+Server: nginx
+X-Account-Management-Status: none
+X-Powered-By: PHP/8.0.25
+X-Powered-By: PleskLin
+X-Response-Type: json
+
+4cf
+[
+    "friendica.realmat.de",
+    "hemmer.land",
+    "pirati.ca",
+    "loma.ml",
+    "piratenpartei.social",
+    "friendica.xyz",
+    "social.tchncs.de",
+    "anonsys.net",
+    "f.freinetz.ch",
+    "social.trom.tf",
+    "soc.schuerz.at",
+    "social.agb-web.de",
+    "graz.social",
+    "social.yl.ms",
+    "mastodon.social",
+    "troet.cafe",
+    "nerdica.net",
+    "friendica.heikosblog.eu",
+    "space.rick.gr",
+    "social.fedinet.de",
+    "social.cologne",
+    "social.softmetz.de",
+    "friendica.opensocial.space",
+    "frnd.nanoscopic.de",
+    "friendica.utzer.de",
+    "chaos.social",
+    "friendica.bachgau.social",
+    "medievalist.masto.host",
+    "embassy.social",
+    "norden.social",
+    "social.anon-groups.de",
+    "det.social",
+    "hifish.social",
+    "freiburg.social",
+    "mastodon.lol",
+    "dresden.network",
+    "bildung.social",
+    "mastodontech.de",
+    "rollenspiel.social",
+    "mastodon.bayern",
+    "bonn.social",
+    "sueden.social",
+    "literatur.social",
+    "cave.mancave.de",
+    "delmenhorst.social",
+    "friendica.hashy-net.de",
+    "mieth.social",
+    "metalhead.club",
+    "mastodon.green",
+    "wien.rocks",
+    "medibubble.org",
+    "muenchen.social",
+    "hessen.social",
+    "mas.to"
+]
+0
+

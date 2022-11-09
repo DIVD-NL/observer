@@ -1,0 +1,87 @@
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ch: viewport-width
+Accept-Ch: dpr
+Accept-Ch: device-memory
+Accept-Ch: rtt
+Accept-Ch: downlink
+Accept-Ch: ect
+Accept-Ch: ua
+Accept-Ch: ua-full-version
+Accept-Ch: ua-platform
+Accept-Ch: ua-platform-version
+Accept-Ch: ua-arch
+Accept-Ch: ua-model
+Accept-Ch: ua-mobile
+Accept-Ch-Lifetime: 30
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:35 GMT
+Server: nginx
+Vary: Accept-Encoding
+X-Language: dutch
+X-Redirect: zeropark_yahoo
+X-Template: tpl_CleanPeppermintBlack_twoclick
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>itmedia.co</title>
+            <link href="//d38psrni17bvxu.cloudfront.net/themes/saledefault.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="//d38psrni17bvxu.cloudfront.net/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link href="//d38psrni17bvxu.cloudfront.net/themes/assets/zeropark.css" rel="stylesheet" type="text/css" media="screen"/>
+    <meta name="description" content="Dit domein kan te koop zijn!" />
+</head>
+
+<body>
+<div>
+    
+
+    
+<style>
+	.sale_link_bold {
+		color: rgb(0,0,0);
+		text-align: right;
+		font: 14px arial, sans-serif;
+		height: 20px;
+		padding: 10px 0 5px 0;
+		width: 900px;
+		max-width:96%;
+		margin: 0 auto;
+		z-index: 20;
+	}
+
+	.sale_link_bold a {
+		font-weight: bold;
+		text-decoration: underline;
+		color: rgb(0,0,0);
+		font-size: 14px;
+	}
+
+	.sale_link_bold a:hover {
+		color: rgb(100,100,100);
+	}
+</style>
+
+
+
+<div id="sale_link_bold" class="sale_link_bold">
+	        <a href="https://www.mydomaincontact.com/index.php?domain_name=itmedia.co" target="_blank">
+			Koop dit domein.
+	</a>
+</div>
+</div>
+
+<div id="content">
+    <iframe id="iframe" frameBorder="0" src="https://brigi-jar.com/lander?dn=itmedia.co&feedid=c29bc710-7228-11ec-932e-0a0baae9769b&tag=1"></iframe>
+    </div>
+
+<script>
+    (function () {
+        document.getElementById("content").style.top = document.getElementById("content").previousElementSibling.clientHeight + "px";
+    })();
+</script>
+</body>
+</html>

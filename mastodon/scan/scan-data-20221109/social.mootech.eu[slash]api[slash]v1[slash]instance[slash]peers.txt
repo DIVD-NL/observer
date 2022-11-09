@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.mootech.eu; img-src 'self' https: data: blob: https://social.mootech.eu; style-src 'self' https://social.mootech.eu 'nonce-W1SB1Mgp5JH1QK3oMLR5Pg=='; media-src 'self' https: data: https://social.mootech.eu; frame-src 'self' https:; manifest-src 'self' https://social.mootech.eu; connect-src 'self' data: blob: https://social.mootech.eu https://social.mootech.eu wss://social.mootech.eu; script-src 'self' https://social.mootech.eu; child-src 'self' blob: https://social.mootech.eu; worker-src 'self' blob: https://social.mootech.eu
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:06 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.289920Z
+X-Request-Id: c1858d9e-e4cb-4272-bf4e-fd904461b6f4
+X-Runtime: 0.022119
+X-Xss-Protection: 0
+
+0
+

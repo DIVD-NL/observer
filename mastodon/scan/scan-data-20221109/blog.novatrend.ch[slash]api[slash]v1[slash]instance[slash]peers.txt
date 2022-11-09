@@ -1,0 +1,638 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy-Report-Only: 
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:13 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://blog.novatrend.ch/wp-json/>; rel="https://api.w.org/"
+Server: LiteSpeed
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.33
+
+116c0
+<!DOCTYPE html>
+
+<html class="no-js" lang="de-DE">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+
+		<title>Seite nicht gefunden &#8211; NOVATREND Blog</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="NOVATREND Blog &raquo; Feed" href="https://blog.novatrend.ch/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NOVATREND Blog &raquo; Kommentar-Feed" href="https://blog.novatrend.ch/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.novatrend.ch\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='jquery-ui-css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/base/jquery-ui.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://blog.novatrend.ch/wp-includes/css/dist/block-library/style.min.css?ver=6.1' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://blog.novatrend.ch/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://blog.novatrend.ch/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://blog.novatrend.ch/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #cd2653;--wp--preset--color--primary: #000000;--wp--preset--color--secondary: #6d6d6d;--wp--preset--color--subtle-background: #dcd7ca;--wp--preset--color--background: #ffffff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 26.25px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 21px;--wp--preset--font-size--larger: 32px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='collapscore-css-css' href='https://blog.novatrend.ch/wp-content/plugins/jquery-collapse-o-matic/css/core_style.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css' href='https://blog.novatrend.ch/wp-content/plugins/jquery-collapse-o-matic/css/light_style.css?ver=1.6' media='all' />
+<link rel='stylesheet' id='steempress_sp-css' href='https://blog.novatrend.ch/wp-content/plugins/steempress/public/css/steempress_sp-public.css?ver=2.6.3' media='all' />
+<link rel='stylesheet' id='bodhi-svgs-attachment-css' href='https://blog.novatrend.ch/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='semantic-linkbacks-css-css' href='https://blog.novatrend.ch/wp-content/plugins/semantic-linkbacks/css/semantic-linkbacks.css?ver=3.10.3' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css' href='https://blog.novatrend.ch/wp-content/themes/twentytwenty/style.css?ver=2.1' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #cd2653; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #cd2653; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #cd2653; }.fill-children-accent,.fill-children-accent * { fill: #cd2653; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dcd7ca; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dcd7ca; }.wp-block-table.is-style-stripes { border-bottom-color: #dcd7ca; }.wp-block-latest-posts.is-grid li { border-top-color: #dcd7ca; }:root .has-subtle-background-color { color: #dcd7ca; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #e22658; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #e22658; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #ffffff; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #ffffff; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dbdbdb; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dbdbdb; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css' href='https://blog.novatrend.ch/wp-content/themes/twentytwenty/print.css?ver=2.1' media='print' />
+<link rel='stylesheet' id='twentytwenty-jetpack-css' href='https://blog.novatrend.ch/wp-content/plugins/jetpack/modules/theme-tools/compat/twentytwenty.css?ver=11.5.1' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://blog.novatrend.ch/wp-content/plugins/jetpack/css/jetpack.css?ver=11.5.1' media='all' />
+<script src='https://blog.novatrend.ch/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://blog.novatrend.ch/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://blog.novatrend.ch/wp-content/plugins/steempress/public/js/iframeResizer.min.js?ver=6.1' id='steempress_spiframeResizer-js'></script>
+<script src='https://blog.novatrend.ch/wp-content/plugins/steempress/public/js/steempress_sp-public.js?ver=2.6.3' id='steempress_sppublic_js-js'></script>
+<script src='https://blog.novatrend.ch/wp-content/themes/twentytwenty/assets/js/index.js?ver=2.1' id='twentytwenty-js-js' async></script>
+<link rel="https://api.w.org/" href="https://blog.novatrend.ch/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.novatrend.ch/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.novatrend.ch/wp-includes/wlwmanifest.xml" />
+<!-- Stream WordPress user activity plugin v3.9.1 -->
+	<style>img#wpstats{display:none}</style>
+			<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+			<style id="wp-custom-css">
+			
+
+a{color:#ef7d00;}
+button:not(.toggle), .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type=button], input[type=reset], input[type=submit], .bg-accent, .bg-accent-hover:hover, .bg-accent-hover:focus, :root .has-accent-background-color, .comment-reply-link {
+    background-color: #ef7d00;
+}
+
+body:not(.overlay-header) .primary-menu>li>a, body:not(.overlay-header) .primary-menu>li>.icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #1e72c6;
+	  font-weight: bold;
+}
+
+.social-icons a, #site-footer button:not(.toggle), #site-footer .button, #site-footer .faux-button, #site-footer .wp-block-button__link, #site-footer .wp-block-file__button, #site-footer input[type="button"], #site-footer input[type="reset"], #site-footer input[type="submit"] {
+    background-color: #ef7d00;
+}
+
+		</style>
+		
+	</head>
+
+	<body class="error404 custom-background wp-custom-logo wp-embed-responsive enable-search-modal has-no-pagination not-showing-comments show-avatars footer-top-visible reduced-spacing">
+
+		<a class="skip-link screen-reader-text" href="#site-content">Direkt zum Inhalt wechseln</a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+		<header id="site-header" class="header-footer-group">
+
+			<div class="header-inner section-inner">
+
+				<div class="header-titles-wrapper">
+
+					
+						<button class="toggle search-toggle mobile-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+							<span class="toggle-inner">
+								<span class="toggle-icon">
+									<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>								</span>
+								<span class="toggle-text">Suchen</span>
+							</span>
+						</button><!-- .search-toggle -->
+
+					
+					<div class="header-titles">
+
+						<div class="site-logo faux-heading"><a href="https://blog.novatrend.ch/" class="custom-logo-link" rel="home"><img width="99" height="23" style="height: 23px;" src="https://blog.novatrend.ch/wp-content/uploads/2016/03/novatrend-1.png" class="custom-logo" alt="NOVATREND" decoding="async" /></a><span class="screen-reader-text">NOVATREND Blog</span></div>
+					</div><!-- .header-titles -->
+
+					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+						<span class="toggle-inner">
+							<span class="toggle-icon">
+								<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>							</span>
+							<span class="toggle-text">Menü</span>
+						</span>
+					</button><!-- .nav-toggle -->
+
+				</div><!-- .header-titles-wrapper -->
+
+				<div class="header-navigation-wrapper">
+
+					
+							<nav class="primary-menu-wrapper" aria-label="Horizontal">
+
+								<ul class="primary-menu reset-list-style">
+
+								<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-90"><a href="https://blog.novatrend.ch">Blog</a></li>
+<li id="menu-item-5071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071"><a href="https://meet.novatrend.ch">Jitsi &#8211; Meet &#8211; bei Novatrend</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="https://blog.novatrend.ch/category/news/">News</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://blog.novatrend.ch/deine-themen-roadmap/">Deine Themen Roadmap</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://blog.novatrend.ch/ueber-uns/">Über uns</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="https://novatrend.ch">zur NOVATREND Site</a></li>
+
+								</ul>
+
+							</nav><!-- .primary-menu-wrapper -->
+
+						
+						<div class="header-toggles hide-no-js">
+
+						
+							<div class="toggle-wrapper search-toggle-wrapper">
+
+								<button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+									<span class="toggle-inner">
+										<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>										<span class="toggle-text">Suchen</span>
+									</span>
+								</button><!-- .search-toggle -->
+
+							</div>
+
+							
+						</div><!-- .header-toggles -->
+						
+				</div><!-- .header-navigation-wrapper -->
+
+			</div><!-- .header-inner -->
+
+			<div class="search-modal cover-modal header-footer-group" data-modal-target-string=".search-modal" role="dialog" aria-modal="true" aria-label="Search">
+
+	<div class="search-modal-inner modal-inner">
+
+		<div class="section-inner">
+
+			<form role="search" aria-label="Suche nach:" method="get" class="search-form" action="https://blog.novatrend.ch/">
+	<label for="search-form-1">
+		<span class="screen-reader-text">Suche nach:</span>
+		<input type="search" id="search-form-1" class="search-field" placeholder="Suche &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Suchen" />
+</form>
+
+			<button class="toggle search-untoggle close-search-toggle fill-children-current-color" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field">
+				<span class="screen-reader-text">Suche schließen</span>
+				<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>			</button><!-- .search-toggle -->
+
+		</div><!-- .section-inner -->
+
+	</div><!-- .search-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+		</header><!-- #site-header -->
+
+		
+<div class="menu-modal cover-modal header-footer-group" data-modal-target-string=".menu-modal">
+
+	<div class="menu-modal-inner modal-inner">
+
+		<div class="menu-wrapper section-inner">
+
+			<div class="menu-top">
+
+				<button class="toggle close-nav-toggle fill-children-current-color" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" data-set-focus=".menu-modal">
+					<span class="toggle-text">Menü schließen</span>
+					<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>				</button><!-- .nav-toggle -->
+
+				
+					<nav class="mobile-menu" aria-label="Mobile">
+
+						<ul class="modal-menu reset-list-style">
+
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-90"><div class="ancestor-wrapper"><a href="https://blog.novatrend.ch">Blog</a></div><!-- .ancestor-wrapper --></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071"><div class="ancestor-wrapper"><a href="https://meet.novatrend.ch">Jitsi &#8211; Meet &#8211; bei Novatrend</a></div><!-- .ancestor-wrapper --></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><div class="ancestor-wrapper"><a href="https://blog.novatrend.ch/category/news/">News</a></div><!-- .ancestor-wrapper --></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><div class="ancestor-wrapper"><a href="https://blog.novatrend.ch/deine-themen-roadmap/">Deine Themen Roadmap</a></div><!-- .ancestor-wrapper --></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><div class="ancestor-wrapper"><a href="https://blog.novatrend.ch/ueber-uns/">Über uns</a></div><!-- .ancestor-wrapper --></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><div class="ancestor-wrapper"><a href="https://novatrend.ch">zur NOVATREND Site</a></div><!-- .ancestor-wrapper --></li>
+
+						</ul>
+
+					</nav>
+
+					
+			</div><!-- .menu-top -->
+
+			<div class="menu-bottom">
+
+				
+					<nav aria-label="Erweiterte Social-Media-Links">
+						<ul class="social-menu reset-list-style social-icons fill-children-current-color">
+
+							<li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a href="http://twitter.com/novatrend_ch"><span class="screen-reader-text">Twitter</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg></a></li>
+
+						</ul>
+					</nav><!-- .social-menu -->
+
+				
+			</div><!-- .menu-bottom -->
+
+		</div><!-- .menu-wrapper -->
+
+	</div><!-- .menu-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+<main id="site-content">
+
+	<div class="section-inner thin error404-content">
+
+		<h1 class="entry-title">Die Seite konnte nicht gefunden werden</h1>
+
+		<div class="intro-text"><p>Die gesuchte Seite konnte nicht gefunden werden. Sie wurde möglicherweise entfernt, umbenannt oder existierte von vornherein nicht.</p></div>
+
+		<form role="search" aria-label="404 - Datei nicht gefunden" method="get" class="search-form" action="https://blog.novatrend.ch/">
+	<label for="search-form-2">
+		<span class="screen-reader-text">Suche nach:</span>
+		<input type="search" id="search-form-2" class="search-field" placeholder="Suche &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Suchen" />
+</form>
+
+	</div><!-- .section-inner -->
+
+</main><!-- #site-content -->
+
+
+	<div class="footer-nav-widgets-wrapper header-footer-group">
+
+		<div class="footer-inner section-inner">
+
+							<div class="footer-top has-social-menu">
+										
+						<nav aria-label="Social-Media-Links" class="footer-social-wrapper">
+
+							<ul class="social-menu footer-social reset-list-style social-icons fill-children-current-color">
+
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a href="http://twitter.com/novatrend_ch"><span class="screen-reader-text">Twitter</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg></a></li>
+
+							</ul><!-- .footer-social -->
+
+						</nav><!-- .footer-social-wrapper -->
+
+									</div><!-- .footer-top -->
+
+			
+			
+				<aside class="footer-widgets-outer-wrapper">
+
+					<div class="footer-widgets-wrapper">
+
+						
+							<div class="footer-widgets column-one grid-item">
+								
+		<div class="widget widget_recent_entries"><div class="widget-content">
+		<h2 class="widget-title subheading heading-size-3">Neueste Beiträge</h2><nav aria-label="Neueste Beiträge">
+		<ul>
+											<li>
+					<a href="https://blog.novatrend.ch/2022/10/10/animationen-und-pixel-art-mit-pixelorama-erstellen/">Animationen und Pixel-Art mit Pixelorama erstellen</a>
+									</li>
+											<li>
+					<a href="https://blog.novatrend.ch/2022/09/12/eine-wordpress-site-in-ein-html-archiv-verwandeln/">Eine WordPress Site in ein HTML Archiv verwandeln</a>
+									</li>
+											<li>
+					<a href="https://blog.novatrend.ch/2022/08/08/invidious-und-nitter-als-frontend-fuer-youtube-und-twitter/">Invidious und Nitter als Frontend für YouTube und Twitter</a>
+									</li>
+											<li>
+					<a href="https://blog.novatrend.ch/2022/07/11/einfache-und-sichere-cloud-backup-loesung-fuer-laptop-workstation-und-smartphone-jetzt-kostenlos-in-deinem-webhosting-enthalten/">Einfache und sichere Cloud Backup Lösung für Laptop, Workstation und Smartphone &#8211; jetzt kostenlos in deinem Webhosting!</a>
+									</li>
+											<li>
+					<a href="https://blog.novatrend.ch/2022/06/13/drop-shipping-mit-wordpress-woocommerce-und-aliexpress/">Drop-Shipping mit WordPress WooCommerce und AliExpress</a>
+									</li>
+					</ul>
+
+		</nav></div></div><div class="widget widget_recent_comments"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Neueste Kommentare</h2><nav aria-label="Neueste Kommentare"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://blog.novatrend.ch/author/hagengraf' rel='external nofollow ugc' class='url'>hagengraf</a></span> bei <a href="https://blog.novatrend.ch/2020/10/12/pixelfed-das-instagram-im-fediverse/#comment-2147">Pixelfed &#8211; das „Instagram“ im Fediverse?</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://www.rennertweb.de/' rel='external nofollow ugc' class='url'>rennertweb</a></span> bei <a href="https://blog.novatrend.ch/2020/10/12/pixelfed-das-instagram-im-fediverse/#comment-2144">Pixelfed &#8211; das „Instagram“ im Fediverse?</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://mastodontech.de/@svanschu' rel='external nofollow ugc' class='url'>svanschu</a></span> bei <a href="https://blog.novatrend.ch/2018/12/17/von-flickr-zu-piwigo/#comment-2133">Von Flickr zu Piwigo</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://mastodontech.de/@svanschu' rel='external nofollow ugc' class='url'>svanschu</a></span> bei <a href="https://blog.novatrend.ch/2018/12/17/von-flickr-zu-piwigo/#comment-2132">Von Flickr zu Piwigo</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://fimidi.com/@cybertyperch' rel='external nofollow ugc' class='url'>Christiane Viatte</a></span> bei <a href="https://blog.novatrend.ch/2018/12/17/von-flickr-zu-piwigo/#comment-2131">Von Flickr zu Piwigo</a></li></ul></nav></div></div><div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><div class="textwidget custom-html-widget"><a href="https://www.bloggerei.de/" title="Bloggerei.de">
+<a rel="me" href="https://fimidi.com/@hagen">Mastodon Hagen</a><img src="https://www.bloggerei.de/bgpublicon.jpg" style="border:0; width:80px; height:15px;" alt="Blogverzeichnis - Bloggerei.de" /></a><br>
+<img src="https://api.thegreenwebfoundation.org/greencheckimage/novatrend.ch" alt="This website is hosted Green - checked by thegreenwebfoundation.org"><br></div></div></div><div class="widget widget_block widget_categories"><div class="widget-content"><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-1"><a href="https://blog.novatrend.ch/category/allgemein/">Allgemein</a> (49)
+</li>
+	<li class="cat-item cat-item-206"><a href="https://blog.novatrend.ch/category/analytics/">Analytics</a> (6)
+</li>
+	<li class="cat-item cat-item-541"><a href="https://blog.novatrend.ch/category/api/">API</a> (5)
+</li>
+	<li class="cat-item cat-item-667"><a href="https://blog.novatrend.ch/category/apps/">Apps</a> (3)
+</li>
+	<li class="cat-item cat-item-591"><a href="https://blog.novatrend.ch/category/automatisierung/">Automatisierung</a> (16)
+</li>
+	<li class="cat-item cat-item-122"><a href="https://blog.novatrend.ch/category/backup/">Backup</a> (7)
+</li>
+	<li class="cat-item cat-item-168"><a href="https://blog.novatrend.ch/category/betriebssysteme/">Betriebssysteme</a> (15)
+</li>
+	<li class="cat-item cat-item-355"><a href="https://blog.novatrend.ch/category/blockchain/">Blockchain</a> (8)
+</li>
+	<li class="cat-item cat-item-142"><a href="https://blog.novatrend.ch/category/cloud/">Cloud</a> (16)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://blog.novatrend.ch/category/content-management-systeme/">Content Management Systeme</a> (173)
+</li>
+	<li class="cat-item cat-item-303"><a href="https://blog.novatrend.ch/category/datenbanken/">Datenbanken</a> (12)
+</li>
+	<li class="cat-item cat-item-393"><a href="https://blog.novatrend.ch/category/datenschutz/">Datenschutz</a> (13)
+</li>
+	<li class="cat-item cat-item-118"><a href="https://blog.novatrend.ch/category/e-commerce/">E-Commerce</a> (12)
+</li>
+	<li class="cat-item cat-item-192"><a href="https://blog.novatrend.ch/category/editoren/">Editoren</a> (9)
+</li>
+	<li class="cat-item cat-item-200"><a href="https://blog.novatrend.ch/category/frameworks/">Frameworks</a> (10)
+</li>
+	<li class="cat-item cat-item-228"><a href="https://blog.novatrend.ch/category/google-adwords/">Google AdWords</a> (2)
+</li>
+	<li class="cat-item cat-item-56"><a href="https://blog.novatrend.ch/category/groupware/">Groupware</a> (6)
+</li>
+	<li class="cat-item cat-item-33"><a href="https://blog.novatrend.ch/category/infrastruktur/">Infrastruktur</a> (99)
+</li>
+	<li class="cat-item cat-item-113"><a href="https://blog.novatrend.ch/category/konferenzsysteme/">Konferenzsysteme</a> (6)
+</li>
+	<li class="cat-item cat-item-349"><a href="https://blog.novatrend.ch/category/kryptowaehrungen/">Kryptowährungen</a> (4)
+</li>
+	<li class="cat-item cat-item-718"><a href="https://blog.novatrend.ch/category/marketing/">Marketing</a> (5)
+</li>
+	<li class="cat-item cat-item-28"><a href="https://blog.novatrend.ch/category/messenger/">Messenger</a> (16)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://blog.novatrend.ch/category/news/">News</a> (22)
+</li>
+	<li class="cat-item cat-item-55"><a href="https://blog.novatrend.ch/category/open-xchange/">Open-Xchange</a> (8)
+</li>
+	<li class="cat-item cat-item-54"><a href="https://blog.novatrend.ch/category/ox/">OX</a> (9)
+</li>
+	<li class="cat-item cat-item-46"><a href="https://blog.novatrend.ch/category/performance/">Performance</a> (12)
+</li>
+	<li class="cat-item cat-item-654"><a href="https://blog.novatrend.ch/category/programmieren/">Programmieren</a> (6)
+</li>
+	<li class="cat-item cat-item-676"><a href="https://blog.novatrend.ch/category/projektmanagement/">Projektmanagement</a> (1)
+</li>
+	<li class="cat-item cat-item-34"><a href="https://blog.novatrend.ch/category/seafolly-ch/">seafolly.ch</a> (26)
+</li>
+	<li class="cat-item cat-item-36"><a href="https://blog.novatrend.ch/category/security/">Security</a> (28)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://blog.novatrend.ch/category/server/">Server</a> (55)
+</li>
+	<li class="cat-item cat-item-131"><a href="https://blog.novatrend.ch/category/services/">Services</a> (46)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://blog.novatrend.ch/category/shared-hosting/">Shared Hosting</a> (149)
+</li>
+	<li class="cat-item cat-item-728"><a href="https://blog.novatrend.ch/category/sicherheit/">Sicherheit</a> (2)
+</li>
+	<li class="cat-item cat-item-125"><a href="https://blog.novatrend.ch/category/site-builder/">Site Builder</a> (60)
+</li>
+	<li class="cat-item cat-item-7"><a href="https://blog.novatrend.ch/category/soziale-netze/">Soziale Netze</a> (32)
+</li>
+	<li class="cat-item cat-item-59"><a href="https://blog.novatrend.ch/category/streaming-server/">Streaming Server</a> (1)
+</li>
+	<li class="cat-item cat-item-274"><a href="https://blog.novatrend.ch/category/tools/">Tools</a> (27)
+</li>
+	<li class="cat-item cat-item-632"><a href="https://blog.novatrend.ch/category/umwelt/">Umwelt</a> (2)
+</li>
+	<li class="cat-item cat-item-184"><a href="https://blog.novatrend.ch/category/verschluesselung/">Verschlüsselung</a> (16)
+</li>
+	<li class="cat-item cat-item-394"><a href="https://blog.novatrend.ch/category/web-academy/">Web Academy</a> (1)
+</li>
+	<li class="cat-item cat-item-100"><a href="https://blog.novatrend.ch/category/webdesign/">Webdesign</a> (127)
+</li>
+	<li class="cat-item cat-item-45"><a href="https://blog.novatrend.ch/category/webserver/">Webserver</a> (25)
+</li>
+	<li class="cat-item cat-item-237"><a href="https://blog.novatrend.ch/category/wunschthema/">Wunschthema</a> (88)
+</li>
+</ul></div></div>							</div>
+
+						
+						
+							<div class="footer-widgets column-two grid-item">
+								<div class="widget widget_tag_cloud"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Schlagwörter</h2><nav aria-label="Schlagwörter"><div class="tagcloud"><a href="https://blog.novatrend.ch/tag/android/" class="tag-cloud-link tag-link-135 tag-link-position-1" style="font-size: 11.92pt;" aria-label="Android (8 Einträge)">Android<span class="tag-link-count"> (8)</span></a>
+<a href="https://blog.novatrend.ch/tag/apache/" class="tag-cloud-link tag-link-47 tag-link-position-2" style="font-size: 13.376pt;" aria-label="Apache (11 Einträge)">Apache<span class="tag-link-count"> (11)</span></a>
+<a href="https://blog.novatrend.ch/tag/bootstrap/" class="tag-cloud-link tag-link-93 tag-link-position-3" style="font-size: 9.12pt;" aria-label="Bootstrap (4 Einträge)">Bootstrap<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/cpanel/" class="tag-cloud-link tag-link-70 tag-link-position-4" style="font-size: 13.376pt;" aria-label="cPanel (11 Einträge)">cPanel<span class="tag-link-count"> (11)</span></a>
+<a href="https://blog.novatrend.ch/tag/css/" class="tag-cloud-link tag-link-102 tag-link-position-5" style="font-size: 11.92pt;" aria-label="CSS (8 Einträge)">CSS<span class="tag-link-count"> (8)</span></a>
+<a href="https://blog.novatrend.ch/tag/domainname/" class="tag-cloud-link tag-link-83 tag-link-position-6" style="font-size: 9.12pt;" aria-label="domainname (4 Einträge)">domainname<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/drupal/" class="tag-cloud-link tag-link-42 tag-link-position-7" style="font-size: 18.416pt;" aria-label="Drupal (33 Einträge)">Drupal<span class="tag-link-count"> (33)</span></a>
+<a href="https://blog.novatrend.ch/tag/drupal-8/" class="tag-cloud-link tag-link-12 tag-link-position-8" style="font-size: 15.84pt;" aria-label="Drupal 8 (19 Einträge)">Drupal 8<span class="tag-link-count"> (19)</span></a>
+<a href="https://blog.novatrend.ch/tag/drupal-9/" class="tag-cloud-link tag-link-663 tag-link-position-9" style="font-size: 9.12pt;" aria-label="Drupal 9 (4 Einträge)">Drupal 9<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/drush/" class="tag-cloud-link tag-link-90 tag-link-position-10" style="font-size: 9.12pt;" aria-label="drush (4 Einträge)">drush<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/e-mail/" class="tag-cloud-link tag-link-150 tag-link-position-11" style="font-size: 9.12pt;" aria-label="E-Mail (4 Einträge)">E-Mail<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/facebook/" class="tag-cloud-link tag-link-17 tag-link-position-12" style="font-size: 10.8pt;" aria-label="Facebook (6 Einträge)">Facebook<span class="tag-link-count"> (6)</span></a>
+<a href="https://blog.novatrend.ch/tag/fediverse/" class="tag-cloud-link tag-link-417 tag-link-position-13" style="font-size: 10.016pt;" aria-label="Fediverse (5 Einträge)">Fediverse<span class="tag-link-count"> (5)</span></a>
+<a href="https://blog.novatrend.ch/tag/forum/" class="tag-cloud-link tag-link-11 tag-link-position-14" style="font-size: 9.12pt;" aria-label="Forum (4 Einträge)">Forum<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/ftp/" class="tag-cloud-link tag-link-91 tag-link-position-15" style="font-size: 9.12pt;" aria-label="FTP (4 Einträge)">FTP<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/gutenberg/" class="tag-cloud-link tag-link-313 tag-link-position-16" style="font-size: 10.8pt;" aria-label="Gutenberg (6 Einträge)">Gutenberg<span class="tag-link-count"> (6)</span></a>
+<a href="https://blog.novatrend.ch/tag/html/" class="tag-cloud-link tag-link-103 tag-link-position-17" style="font-size: 10.016pt;" aria-label="HTML (5 Einträge)">HTML<span class="tag-link-count"> (5)</span></a>
+<a href="https://blog.novatrend.ch/tag/https/" class="tag-cloud-link tag-link-50 tag-link-position-18" style="font-size: 9.12pt;" aria-label="https (4 Einträge)">https<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/ios/" class="tag-cloud-link tag-link-137 tag-link-position-19" style="font-size: 9.12pt;" aria-label="iOS (4 Einträge)">iOS<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/javascript/" class="tag-cloud-link tag-link-64 tag-link-position-20" style="font-size: 12.928pt;" aria-label="JavaScript (10 Einträge)">JavaScript<span class="tag-link-count"> (10)</span></a>
+<a href="https://blog.novatrend.ch/tag/joomla/" class="tag-cloud-link tag-link-23 tag-link-position-21" style="font-size: 17.072pt;" aria-label="Joomla (25 Einträge)">Joomla<span class="tag-link-count"> (25)</span></a>
+<a href="https://blog.novatrend.ch/tag/joomla-4/" class="tag-cloud-link tag-link-348 tag-link-position-22" style="font-size: 13.712pt;" aria-label="Joomla 4 (12 Einträge)">Joomla 4<span class="tag-link-count"> (12)</span></a>
+<a href="https://blog.novatrend.ch/tag/mastodon/" class="tag-cloud-link tag-link-306 tag-link-position-23" style="font-size: 10.8pt;" aria-label="Mastodon (6 Einträge)">Mastodon<span class="tag-link-count"> (6)</span></a>
+<a href="https://blog.novatrend.ch/tag/mysql/" class="tag-cloud-link tag-link-88 tag-link-position-24" style="font-size: 11.36pt;" aria-label="MySQL (7 Einträge)">MySQL<span class="tag-link-count"> (7)</span></a>
+<a href="https://blog.novatrend.ch/tag/nextcloud/" class="tag-cloud-link tag-link-253 tag-link-position-25" style="font-size: 9.12pt;" aria-label="Nextcloud (4 Einträge)">Nextcloud<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/node-js/" class="tag-cloud-link tag-link-61 tag-link-position-26" style="font-size: 11.92pt;" aria-label="Node.js (8 Einträge)">Node.js<span class="tag-link-count"> (8)</span></a>
+<a href="https://blog.novatrend.ch/tag/os-x/" class="tag-cloud-link tag-link-136 tag-link-position-27" style="font-size: 9.12pt;" aria-label="OS X (4 Einträge)">OS X<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/ox-app-suite/" class="tag-cloud-link tag-link-57 tag-link-position-28" style="font-size: 9.12pt;" aria-label="OX App Suite (4 Einträge)">OX App Suite<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/php/" class="tag-cloud-link tag-link-63 tag-link-position-29" style="font-size: 14.496pt;" aria-label="PHP (14 Einträge)">PHP<span class="tag-link-count"> (14)</span></a>
+<a href="https://blog.novatrend.ch/tag/python/" class="tag-cloud-link tag-link-32 tag-link-position-30" style="font-size: 10.016pt;" aria-label="Python (5 Einträge)">Python<span class="tag-link-count"> (5)</span></a>
+<a href="https://blog.novatrend.ch/tag/softaculous/" class="tag-cloud-link tag-link-338 tag-link-position-31" style="font-size: 9.12pt;" aria-label="Softaculous (4 Einträge)">Softaculous<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/ssh/" class="tag-cloud-link tag-link-99 tag-link-position-32" style="font-size: 10.016pt;" aria-label="SSH (5 Einträge)">SSH<span class="tag-link-count"> (5)</span></a>
+<a href="https://blog.novatrend.ch/tag/ssl/" class="tag-cloud-link tag-link-67 tag-link-position-33" style="font-size: 11.36pt;" aria-label="SSL (7 Einträge)">SSL<span class="tag-link-count"> (7)</span></a>
+<a href="https://blog.novatrend.ch/tag/terminal/" class="tag-cloud-link tag-link-223 tag-link-position-34" style="font-size: 9.12pt;" aria-label="Terminal (4 Einträge)">Terminal<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/tls/" class="tag-cloud-link tag-link-68 tag-link-position-35" style="font-size: 11.36pt;" aria-label="TLS (7 Einträge)">TLS<span class="tag-link-count"> (7)</span></a>
+<a href="https://blog.novatrend.ch/tag/twitter/" class="tag-cloud-link tag-link-53 tag-link-position-36" style="font-size: 11.92pt;" aria-label="Twitter (8 Einträge)">Twitter<span class="tag-link-count"> (8)</span></a>
+<a href="https://blog.novatrend.ch/tag/ubuntu/" class="tag-cloud-link tag-link-115 tag-link-position-37" style="font-size: 11.36pt;" aria-label="Ubuntu (7 Einträge)">Ubuntu<span class="tag-link-count"> (7)</span></a>
+<a href="https://blog.novatrend.ch/tag/update/" class="tag-cloud-link tag-link-40 tag-link-position-38" style="font-size: 11.36pt;" aria-label="Update (7 Einträge)">Update<span class="tag-link-count"> (7)</span></a>
+<a href="https://blog.novatrend.ch/tag/webhosting/" class="tag-cloud-link tag-link-86 tag-link-position-39" style="font-size: 12.48pt;" aria-label="Webhosting (9 Einträge)">Webhosting<span class="tag-link-count"> (9)</span></a>
+<a href="https://blog.novatrend.ch/tag/website/" class="tag-cloud-link tag-link-26 tag-link-position-40" style="font-size: 10.016pt;" aria-label="Website (5 Einträge)">Website<span class="tag-link-count"> (5)</span></a>
+<a href="https://blog.novatrend.ch/tag/wiki/" class="tag-cloud-link tag-link-272 tag-link-position-41" style="font-size: 8pt;" aria-label="Wiki (3 Einträge)">Wiki<span class="tag-link-count"> (3)</span></a>
+<a href="https://blog.novatrend.ch/tag/wikipedia/" class="tag-cloud-link tag-link-273 tag-link-position-42" style="font-size: 9.12pt;" aria-label="Wikipedia (4 Einträge)">Wikipedia<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/woocommerce/" class="tag-cloud-link tag-link-236 tag-link-position-43" style="font-size: 9.12pt;" aria-label="WooCommerce (4 Einträge)">WooCommerce<span class="tag-link-count"> (4)</span></a>
+<a href="https://blog.novatrend.ch/tag/wordpress/" class="tag-cloud-link tag-link-10 tag-link-position-44" style="font-size: 22pt;" aria-label="WordPress (69 Einträge)">WordPress<span class="tag-link-count"> (69)</span></a>
+<a href="https://blog.novatrend.ch/tag/zertifikat/" class="tag-cloud-link tag-link-76 tag-link-position-45" style="font-size: 10.8pt;" aria-label="Zertifikat (6 Einträge)">Zertifikat<span class="tag-link-count"> (6)</span></a></div>
+</nav></div></div><div class="widget widget_archive"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Archive</h2><nav aria-label="Archive">
+			<ul>
+					<li><a href='https://blog.novatrend.ch/2022/10/'>Oktober 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/09/'>September 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/08/'>August 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/07/'>Juli 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/06/'>Juni 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/05/'>Mai 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/04/'>April 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/03/'>März 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/02/'>Februar 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2022/01/'>Januar 2022</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/12/'>Dezember 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/11/'>November 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/10/'>Oktober 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/09/'>September 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/08/'>August 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/07/'>Juli 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/06/'>Juni 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/05/'>Mai 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/04/'>April 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/03/'>März 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/02/'>Februar 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2021/01/'>Januar 2021</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/12/'>Dezember 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/11/'>November 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/10/'>Oktober 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/09/'>September 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/08/'>August 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/07/'>Juli 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/06/'>Juni 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/05/'>Mai 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/04/'>April 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/03/'>März 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/02/'>Februar 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2020/01/'>Januar 2020</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/12/'>Dezember 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/11/'>November 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/10/'>Oktober 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/09/'>September 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/08/'>August 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/07/'>Juli 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/06/'>Juni 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/05/'>Mai 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/04/'>April 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/03/'>März 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/02/'>Februar 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2019/01/'>Januar 2019</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/12/'>Dezember 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/11/'>November 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/10/'>Oktober 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/09/'>September 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/08/'>August 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/07/'>Juli 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/06/'>Juni 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/05/'>Mai 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/04/'>April 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/03/'>März 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/02/'>Februar 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2018/01/'>Januar 2018</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/12/'>Dezember 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/11/'>November 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/10/'>Oktober 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/09/'>September 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/08/'>August 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/07/'>Juli 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/06/'>Juni 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/05/'>Mai 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/04/'>April 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/03/'>März 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/02/'>Februar 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2017/01/'>Januar 2017</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/12/'>Dezember 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/11/'>November 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/10/'>Oktober 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/09/'>September 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/08/'>August 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/07/'>Juli 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/06/'>Juni 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/05/'>Mai 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/04/'>April 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/03/'>März 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/02/'>Februar 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2016/01/'>Januar 2016</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/12/'>Dezember 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/11/'>November 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/10/'>Oktober 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/09/'>September 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/08/'>August 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/07/'>Juli 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/06/'>Juni 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/05/'>Mai 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/04/'>April 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/03/'>März 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/02/'>Februar 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2015/01/'>Januar 2015</a></li>
+	<li><a href='https://blog.novatrend.ch/2014/12/'>Dezember 2014</a></li>
+	<li><a href='https://blog.novatrend.ch/2014/11/'>November 2014</a></li>
+	<li><a href='https://blog.novatrend.ch/2014/10/'>Oktober 2014</a></li>
+			</ul>
+
+			</nav></div></div>							</div>
+
+						
+					</div><!-- .footer-widgets-wrapper -->
+
+				</aside><!-- .footer-widgets-outer-wrapper -->
+
+			
+		</div><!-- .footer-inner -->
+
+	</div><!-- .footer-nav-widgets-wrapper -->
+
+	
+			<footer id="site-footer" class="header-footer-group">
+
+				<div class="section-inner">
+
+					<div class="footer-credits">
+
+						<p class="footer-copyright">&copy;
+							2022							<a href="https://blog.novatrend.ch/">NOVATREND Blog</a>
+						</p><!-- .footer-copyright -->
+
+						
+						<p class="powered-by-wordpress">
+							<a href="https://de.wordpress.org/">
+								Powered by WordPress							</a>
+						</p><!-- .powered-by-wordpress -->
+
+					</div><!-- .footer-credits -->
+
+					<a class="to-the-top" href="#site-header">
+						<span class="to-the-top-long">
+							Nach oben <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-long -->
+						<span class="to-the-top-short">
+							Hoch <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-short -->
+					</a><!-- .to-the-top -->
+
+				</div><!-- .section-inner -->
+
+			</footer><!-- #site-footer -->
+
+		<script src='https://blog.novatrend.ch/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='https://blog.novatrend.ch/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2' id='jquery-ui-tabs-js'></script>
+<script id='collapseomatic-js-js-before'>
+const com_options = {"colomatduration":"fast","colomatslideEffect":"slideFade","colomatpauseInit":"","colomattouchstart":""}
+</script>
+<script src='https://blog.novatrend.ch/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.7.0' id='collapseomatic-js-js'></script>
+<script id='qppr_frontend_scripts-js-extra'>
+var qpprFrontData = {"linkData":[],"siteURL":"https:\/\/blog.novatrend.ch","siteURLq":"https:\/\/blog.novatrend.ch"};
+</script>
+<script src='https://blog.novatrend.ch/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3' id='qppr_frontend_scripts-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		<script src='https://stats.wp.com/e-202245.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'108811503',post:'0',tz:'1',srv:'blog.novatrend.ch',j:'1:11.5.1'} ]);
+		_stq.push([ 'clickTrackerInit', '108811503', '0' ]);
+	</script>
+	</body>
+</html>
+
+0
+

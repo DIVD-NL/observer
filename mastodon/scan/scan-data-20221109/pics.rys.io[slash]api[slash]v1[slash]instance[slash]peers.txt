@@ -1,0 +1,102 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:13 GMT
+Permissions-Policy: interest-cohort=()
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+12f8
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>pixelfed</title>
+	<link rel="manifest" href="/manifest.json">
+
+	<meta property="og:site_name" content="pixelfed">
+	<meta property="og:title" content="pixelfed">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://pics.rys.io/api/v1/instance/peers">
+	
+	<meta name="medium" content="image">
+	<meta name="theme-color" content="#10c5f8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="canonical" href="https://pics.rys.io/api/v1/instance/peers">
+	<link href="/css/app.css?id=f2e24fbb268e9946443459877f623d98" rel="stylesheet" data-stylesheet="light">
+	<script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":false,"uploader":{"max_photo_size":"15000","max_caption_length":"500","album_limit":"4","image_quality":80,"max_collection_length":18,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif","enforce_account_limit":true},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":false,"rec":false,"loops":false,"top":false,"polls":false,"cached_public_timeline":false,"gps":false,"spa":true,"emc":false},"site":{"name":"pixelfed","domain":"pics.rys.io","url":"https:\/\/pics.rys.io","description":"Pixelfed is an image sharing platform, an ethical alternative to centralized platforms."},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"timelines":{"local":true,"network":true},"mobile_apis":true,"stories":false,"video":false,"import":{"instagram":false,"mastodon":false,"pixelfed":false},"label":{"covid":{"enabled":true,"org":"visit the WHO website","url":"https:\/\/www.who.int\/emergencies\/diseases\/novel-coronavirus-2019\/advice-for-public"}}}}};</script>
+	<script type="text/javascript" src="/ynh_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynh_overlay.css"><script type="text/javascript" src="/ynhtheme/custom_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynhtheme/custom_overlay.css"></head>
+<body>
+	<nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+	<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="/" title="Logo">
+				<img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+				<span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">pixelfed</span>
+			</a>
+
+			<div class="collapse navbar-collapse">
+			
+			
+				<ul class="navbar-nav ml-auto">
+					<li>
+						<a class="nav-link font-weight-bold text-dark" href="/login" title="Login">
+							Login
+						</a>
+					</li>
+											</ul>
+			</div>
+	</div>
+</nav>
+	<main id="content">
+		<div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+	</main>
+	<footer>
+    <div class="container py-5">
+        <p class="text-center text-uppercase font-weight-bold small text-justify">
+          <a href="https://pics.rys.io/site/about" class="text-dark p-2">About</a>
+          <a href="https://pics.rys.io/site/help" class="text-dark p-2">Help</a>
+          <a href="https://pics.rys.io/site/terms" class="text-dark p-2">Terms</a>
+          <a href="https://pics.rys.io/site/privacy" class="text-dark p-2">Privacy</a>
+          <a href="https://pics.rys.io/site/language" class="text-dark p-2">Language</a>
+        </p>
+        <p class="text-center text-muted small mb-0">
+          <span class="text-muted">© 2022 pics.rys.io</span>
+          <span class="mx-2">·</span>
+          <a href="https://pixelfed.org" class="text-muted font-weight-bold" rel="noopener">Powered by Pixelfed</a>
+          <span class="mx-2">·</span>
+          <span class="text-muted">v0.11.3</span>
+        </p>
+    </div>
+  </footer>
+  	<script type="text/javascript" src="/js/manifest.js?id=a298b1dc4eac00125187fb43f0ae8416"></script>
+	<script type="text/javascript" src="/js/vendor.js?id=81240eb42d2f62ea6368d88a29c16892"></script>
+	<script type="text/javascript" src="/js/app.js?id=855c8b0847137dd56c72229ad305c032"></script>
+	<script type="text/javascript" src="/js/components.js?id=35beb0748dd5518371686a5f00348fbf"></script>
+	</body>
+</html>
+
+0
+

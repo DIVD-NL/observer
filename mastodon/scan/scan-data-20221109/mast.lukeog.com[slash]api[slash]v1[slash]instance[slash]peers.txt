@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mast.lukeog.com; img-src 'self' https: data: blob: https://mast.lukeog.com; style-src 'self' https://mast.lukeog.com 'nonce-l5wHiFU5QomUixPJ9oTmQQ=='; media-src 'self' https: data: https://mast.lukeog.com; frame-src 'self' https:; manifest-src 'self' https://mast.lukeog.com; connect-src 'self' data: blob: https://mast.lukeog.com https://files.example.com wss://mast.lukeog.com; script-src 'self' https://mast.lukeog.com 'unsafe-eval'; child-src 'self' blob: https://mast.lukeog.com; worker-src 'self' blob: https://mast.lukeog.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:36 GMT
+Etag: W/"70e141bcb4b5ab6806501d909fb38169"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.854292Z
+X-Request-Id: 1c37efa1-1499-487e-a9ef-5b8e52110810
+X-Runtime: 0.005266
+X-Xss-Protection: 0
+
+b51
+["labyrinth.social","c.im","botsin.space","noisemakerbot.social","saturation.social","yip.yip.yip.yip.yip.computer","genart.social","social.xbm.se","x0r.be","kitty.town","velocipederider.com","misc.name","toot.community","notacult.social","sunny.garden","thetooter.co.uk","noc.social","soziale.cloud","dragonscave.space","sully.site","peoplemaking.games","sciences.social","dice.camp","mastodonapp.uk","sfba.social","thebene.fit","wandering.shop","socialclub.nyc","usne.social","lor.sh","ms1.me","glasgow.social","pgh.social","mastodon.social","toot.bike","social.eden.one","mstdn.dk","nerdculture.de","msto.andrewbaker.uk","elekk.xyz","wpbuilds.social","twit.social","social.anji.nl","social.tulsa.ok.us","sudo.cat","artisan.chat","todon.eu","newsie.social","snapp.social","sigmoid.social","freiburg.social","masto.social","mastodon.gamedev.place","makervine.net","someone.elses.computer","silversword.online","circumstances.run","fediscience.org","dosgame.club","williamsonday.buzz","mastodon.coffee","libretooth.gr","seo.chat","kafeneio.social","mastodon.neilzone.co.uk","mastodon.sdf.org","artraige.masto.host","sociale.network","vancity.social","glammr.us","mastodon.nz","social.dropbear.xyz","masto.lema.org","mastodon.art","fandom.ink","tooot.im","mastodon.se","masto.pt","masthead.social","wien.rocks","universeodon.com","1210.nl","bitfudge.com","mastodon-belgium.be","writing.exchange","social.lol","tech.lgbt","click.ba.it","vran.as","mastodon.org.uk","mastodon.pass-vault.ru","mastodon.green","religion.masto.host","mastodon.nu","ieji.de","social.cryptography.dog","mastodon.davidpeach.co.uk","mastodon.lol","odenwald.social","hachyderm.io","mastodontti.fi","mindly.social","genomic.social","mastodon.me.uk","a.gup.pe","data-folks.masto.host","zirk.us","jbstans.social","photog.social","social.tchncs.de","plush.city","meow.social","dan.mastohon.com","ruby.social","triangletoot.party","floss.social","socel.net","unbound.social","hulvr.com","socks.masto.host","social.linux.pizza","tilde.zone","sunbeam.city","wake.st","todon.nl","researchbuzz.masto.host","mastodon.cloud","mamot.fr","retro.social","kolektiva.social","law.builders","cooler.mom","xoxo.zone","pettingzoo.co","med-mastodon.com","toot.wales","climatejustice.social","mastodon.design","zzz.rocks","wikis.world","econtwitter.net","chaos.social","det.social","merveilles.town","mastodon.triggerphra.se","infosec.exchange","dresden.network","boing.world","mstdn.social","mastodon.world","cursoryreview.org","socl.bz","journa.host","aus.social","misskey.ai","octodon.social","layer8.space","mastodon.scot","mastodon.nl","meowr.me","mastodon.online","qoto.org","hackers.town","mas.to","mastodon.uno","masto.ai","digiwake.net","fedi.vern.cc","mathstodon.xyz","intahnet.co.uk","indieweb.social","ioc.exchange","awscommunity.social","scholar.social","mastodon.ie","fosstodon.org","freeradical.zone","social.coop","counter.social"]
+0
+

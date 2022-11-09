@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:59 GMT
+Etag: W/"8d8e53471cb861d508e2518d28c0b2c5"
+Permissions-Policy: interest-cohort=()
+Server: Ecko
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.469458Z
+X-Request-Id: 2a1b5cb6-6ec2-445a-a291-7047590080b9
+X-Runtime: 0.007790
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+2
+[]
+0
+

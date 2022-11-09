@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.tasmantis.net; img-src 'self' https: data: blob: https://mastodon.tasmantis.net; style-src 'self' https://mastodon.tasmantis.net 'nonce-oYDPd7ZyEHPjWBMv6NNNxg=='; media-src 'self' https: data: https://mastodon.tasmantis.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.tasmantis.net; connect-src 'self' data: blob: https://mastodon.tasmantis.net https://mastodon.tasmantis.net wss://mastodon.tasmantis.net; script-src 'self' https://mastodon.tasmantis.net; child-src 'self' blob: https://mastodon.tasmantis.net; worker-src 'self' blob: https://mastodon.tasmantis.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:19 GMT
+Etag: W/"90219b3633d3a19de516fdceeabd3fe9"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:45:00.892812Z
+X-Request-Id: 5146f239-d9f6-4dba-966f-0db890eedf5f
+X-Runtime: 0.006988
+X-Xss-Protection: 0
+
+2b0
+["seal.cafe","leadslinger.org","undergamer.quest","shitpost.racing","lizards.live","shitposter.club","netzsphaere.xyz","outerheaven.club","dumbopinions.xyz","leafposter.club","eientei.org","fediverse.pl","social.handholding.io","niscii.xyz","pleroma.skyshanty.xyz","kurosawa.moe","kompost.cz","pasta.wtf","kiwifarms.cc","nicecrew.digital","shitpost.cloud","varishangout.net","hidamari.apartments","freecumextremist.com","sperg.city","sleepy.cafe","quietplace.xyz","detroitriotcity.com","gleasonator.com","pleroma.kitsunemimi.club","noagendasocial.com","mastodon.online","glindr.org","noc.social","sneed.vip","mastodon.social","journa.host","calobar.club","bae.st","poa.st","chudbuds.lol"]
+0
+

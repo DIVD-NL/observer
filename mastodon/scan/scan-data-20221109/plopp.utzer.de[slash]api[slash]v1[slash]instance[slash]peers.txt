@@ -1,0 +1,437 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:16:24 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://plopp.utzer.de/wp-json/>; rel="https://api.w.org/"
+Server: nginx
+Strict-Transport-Security: max-age=31556926
+X-Powered-By: PHP/8.1.12
+
+df24
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="profile" href="http://microformats.org/profile/specs" />
+	<link rel="profile" href="http://microformats.org/profile/hatom" />
+
+	<title>Page not found &#8211; plopp</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="plopp &raquo; Feed" href="https://plopp.utzer.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="plopp &raquo; Comments Feed" href="https://plopp.utzer.de/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/plopp.utzer.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://plopp.utzer.de/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://plopp.utzer.de/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #0073aa;--wp--preset--color--lighter-blue: #229fd8;--wp--preset--color--blue-jeans: #5bc0eb;--wp--preset--color--orioles-orange: #fa5b0f;--wp--preset--color--usc-gold: #ffcc00;--wp--preset--color--gargoyle-gas: #fde74c;--wp--preset--color--yellow: #fff9c0;--wp--preset--color--android-green: #9bc53d;--wp--preset--color--very-light-gray: #eee;--wp--preset--color--very-dark-gray: #444;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://plopp.utzer.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://plopp.utzer.de/wp-includes/css/dashicons.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='autonomie-style-css' href='https://plopp.utzer.de/wp-content/themes/autonomie/style.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='autonomie-print-style-css' href='https://plopp.utzer.de/wp-content/themes/autonomie/assets/css/print.css?ver=1.0.0' type='text/css' media='print' />
+<link rel='stylesheet' id='autonomie-narrow-style-css' href='https://plopp.utzer.de/wp-content/themes/autonomie/assets/css/narrow-width.css?ver=1.0.0' type='text/css' media='(max-width: 800px)' />
+<link rel='stylesheet' id='autonomie-default-style-css' href='https://plopp.utzer.de/wp-content/themes/autonomie/assets/css/default-width.css?ver=1.0.0' type='text/css' media='(min-width: 800px)' />
+<link rel='stylesheet' id='autonomie-wide-style-css' href='https://plopp.utzer.de/wp-content/themes/autonomie/assets/css/wide-width.css?ver=1.0.0' type='text/css' media='(min-width: 1000px)' />
+<script src='https://plopp.utzer.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://plopp.utzer.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://plopp.utzer.de/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://plopp.utzer.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://plopp.utzer.de/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<script type="text/javascript"> 
+
+/**  all layers have to be in this global array - in further process each map will have something like vectorM[map_ol3js_n][layer_n] */
+var vectorM = [[]];
+
+
+/** put translations from PHP/mo to JavaScript */
+var translations = [];
+
+/** global GET-Parameters */
+var HTTP_GET_VARS = [];
+
+</script><!-- OSM plugin V6.0.1: did not add geo meta tags. --> 
+
+<meta name="supported-color-schemes" content="light dark">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
+
+<body class="error404 wp-embed-responsive multi-column" itemscope="" itemtype="https://schema.org/Blog https://schema.org/WebPage" itemid="https://plopp.utzer.de/api/v1/instance/peers">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page">
+	<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+		<header id="site-header" class="site-header">
+		<div class="site-branding">
+						<div id="site-title">
+				<a href="https://plopp.utzer.de/" title="plopp" rel="home" itemprop="url" class="u-url url">
+				plopp				</a>
+			</div>
+
+			<form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" role="search" method="get" class="search-form" action="https://plopp.utzer.de/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" enterkeyhint="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<meta itemprop="target" content="https://plopp.utzer.de/?s={s} "/></form>		</div>
+
+		<nav id="site-navigation" class="site-navigation">
+			<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false">Primary Menu</button>
+
+			<div class="menu"><ul>
+<li ><a href="https://plopp.utzer.de/">Home</a></li><li class="page_item page-item-13"><a href="https://plopp.utzer.de/impressum-und-datenschutz/">Impressum und Datenschutz</a></li>
+<li class="page_item page-item-1153"><a href="https://plopp.utzer.de/links/">Links</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #site-header -->
+
+		<main id="primary" class="">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title p-name">Well this is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content e-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help.</p>
+
+					<form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" role="search" method="get" class="search-form" action="https://plopp.utzer.de/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" enterkeyhint="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<meta itemprop="target" content="https://plopp.utzer.de/?s={s} "/></form>
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://plopp.utzer.de/2022/10/30/podcast-empfehlung-legion-hacking-anonymous-trailer/">Podcast Empfehlung: Legion: Hacking Anonymous – Trailer</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/09/22/podcast-empfehlung-uniper-eine-fossile-bad-bank/">Podcast Empfehlung: Uniper: &#8220;Eine fossile Bad Bank&#8221;</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/08/27/downtime-friendica-utzer-de/">Downtime Friendica.utzer.de</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/08/10/podcast-empfehlung-killed-in-action-deutschland-im-krieg/">Podcast Empfehlung: Killed in Action &#8211; Deutschland im Krieg</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/07/29/podcast-empfehlung-naga-die-neuentdeckung-der-antike-im-sudan%ef%bf%bc/">Podcast Empfehlung: Naga &#8211; Die Neuentdeckung der Antike im Sudan￼</a>
+									</li>
+					</ul>
+
+		</div>
+					<div class="widget">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-12"><a href="https://plopp.utzer.de/category/media/">media</a> (234)
+<ul class='children'>
+	<li class="cat-item cat-item-69"><a href="https://plopp.utzer.de/category/media/podcast_suggestion/">podcast_suggestion</a> (232)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://plopp.utzer.de/category/uncategorized/">uncategorized</a> (8)
+</li>
+	<li class="cat-item cat-item-3"><a href="https://plopp.utzer.de/category/random/">random</a> (5)
+<ul class='children'>
+	<li class="cat-item cat-item-899"><a href="https://plopp.utzer.de/category/random/fun/">fun</a> (1)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://plopp.utzer.de/category/technology/">technology</a> (3)
+</li>
+	<li class="cat-item cat-item-37"><a href="https://plopp.utzer.de/category/politic/">politic</a> (2)
+</li>
+	<li class="cat-item cat-item-895"><a href="https://plopp.utzer.de/category/tipps/">tipps</a> (1)
+</li>
+	<li class="cat-item cat-item-51"><a href="https://plopp.utzer.de/category/food/">food</a> (1)
+</li>
+	<li class="cat-item cat-item-913"><a href="https://plopp.utzer.de/category/huhner/">Hühner</a> (1)
+</li>
+						</ul>
+					</div>
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://plopp.utzer.de/2022/10/'> October 2022 </option>
+	<option value='https://plopp.utzer.de/2022/09/'> September 2022 </option>
+	<option value='https://plopp.utzer.de/2022/08/'> August 2022 </option>
+	<option value='https://plopp.utzer.de/2022/07/'> July 2022 </option>
+	<option value='https://plopp.utzer.de/2022/05/'> May 2022 </option>
+	<option value='https://plopp.utzer.de/2022/02/'> February 2022 </option>
+	<option value='https://plopp.utzer.de/2021/11/'> November 2021 </option>
+	<option value='https://plopp.utzer.de/2021/10/'> October 2021 </option>
+	<option value='https://plopp.utzer.de/2021/09/'> September 2021 </option>
+	<option value='https://plopp.utzer.de/2021/08/'> August 2021 </option>
+	<option value='https://plopp.utzer.de/2021/07/'> July 2021 </option>
+	<option value='https://plopp.utzer.de/2021/06/'> June 2021 </option>
+	<option value='https://plopp.utzer.de/2021/05/'> May 2021 </option>
+	<option value='https://plopp.utzer.de/2021/04/'> April 2021 </option>
+	<option value='https://plopp.utzer.de/2021/03/'> March 2021 </option>
+	<option value='https://plopp.utzer.de/2021/01/'> January 2021 </option>
+	<option value='https://plopp.utzer.de/2020/12/'> December 2020 </option>
+	<option value='https://plopp.utzer.de/2020/11/'> November 2020 </option>
+	<option value='https://plopp.utzer.de/2020/10/'> October 2020 </option>
+	<option value='https://plopp.utzer.de/2020/09/'> September 2020 </option>
+	<option value='https://plopp.utzer.de/2020/08/'> August 2020 </option>
+	<option value='https://plopp.utzer.de/2020/07/'> July 2020 </option>
+	<option value='https://plopp.utzer.de/2020/06/'> June 2020 </option>
+	<option value='https://plopp.utzer.de/2020/04/'> April 2020 </option>
+	<option value='https://plopp.utzer.de/2020/03/'> March 2020 </option>
+	<option value='https://plopp.utzer.de/2020/02/'> February 2020 </option>
+	<option value='https://plopp.utzer.de/2020/01/'> January 2020 </option>
+	<option value='https://plopp.utzer.de/2019/12/'> December 2019 </option>
+	<option value='https://plopp.utzer.de/2019/11/'> November 2019 </option>
+	<option value='https://plopp.utzer.de/2019/10/'> October 2019 </option>
+	<option value='https://plopp.utzer.de/2019/09/'> September 2019 </option>
+	<option value='https://plopp.utzer.de/2019/08/'> August 2019 </option>
+	<option value='https://plopp.utzer.de/2019/07/'> July 2019 </option>
+	<option value='https://plopp.utzer.de/2019/06/'> June 2019 </option>
+	<option value='https://plopp.utzer.de/2019/05/'> May 2019 </option>
+	<option value='https://plopp.utzer.de/2019/04/'> April 2019 </option>
+	<option value='https://plopp.utzer.de/2019/03/'> March 2019 </option>
+
+		</select>
+
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://plopp.utzer.de/tag/armut/" class="tag-cloud-link tag-link-355 tag-link-position-1" style="font-size: 9.0700636942675pt;" aria-label="Armut (7 items)">Armut</a>
+<a href="https://plopp.utzer.de/tag/bildung/" class="tag-cloud-link tag-link-103 tag-link-position-2" style="font-size: 9.9617834394904pt;" aria-label="Bildung (9 items)">Bildung</a>
+<a href="https://plopp.utzer.de/tag/br/" class="tag-cloud-link tag-link-73 tag-link-position-3" style="font-size: 13.171974522293pt;" aria-label="BR (22 items)">BR</a>
+<a href="https://plopp.utzer.de/tag/brexit/" class="tag-cloud-link tag-link-50 tag-link-position-4" style="font-size: 8pt;" aria-label="Brexit (5 items)">Brexit</a>
+<a href="https://plopp.utzer.de/tag/china/" class="tag-cloud-link tag-link-176 tag-link-position-5" style="font-size: 9.9617834394904pt;" aria-label="China (9 items)">China</a>
+<a href="https://plopp.utzer.de/tag/corona/" class="tag-cloud-link tag-link-676 tag-link-position-6" style="font-size: 10.675159235669pt;" aria-label="Corona (11 items)">Corona</a>
+<a href="https://plopp.utzer.de/tag/coronavirus/" class="tag-cloud-link tag-link-621 tag-link-position-7" style="font-size: 9.515923566879pt;" aria-label="Coronavirus (8 items)">Coronavirus</a>
+<a href="https://plopp.utzer.de/tag/deutschland/" class="tag-cloud-link tag-link-59 tag-link-position-8" style="font-size: 14.063694267516pt;" aria-label="Deutschland (28 items)">Deutschland</a>
+<a href="https://plopp.utzer.de/tag/deutschlandfunk/" class="tag-cloud-link tag-link-65 tag-link-position-9" style="font-size: 15.668789808917pt;" aria-label="Deutschlandfunk (43 items)">Deutschlandfunk</a>
+<a href="https://plopp.utzer.de/tag/doku/" class="tag-cloud-link tag-link-46 tag-link-position-10" style="font-size: 8.6242038216561pt;" aria-label="Doku (6 items)">Doku</a>
+<a href="https://plopp.utzer.de/tag/dokumentation/" class="tag-cloud-link tag-link-47 tag-link-position-11" style="font-size: 13.171974522293pt;" aria-label="Dokumentation (22 items)">Dokumentation</a>
+<a href="https://plopp.utzer.de/tag/eu/" class="tag-cloud-link tag-link-441 tag-link-position-12" style="font-size: 10.31847133758pt;" aria-label="EU (10 items)">EU</a>
+<a href="https://plopp.utzer.de/tag/europa/" class="tag-cloud-link tag-link-96 tag-link-position-13" style="font-size: 10.675159235669pt;" aria-label="Europa (11 items)">Europa</a>
+<a href="https://plopp.utzer.de/tag/flucht/" class="tag-cloud-link tag-link-184 tag-link-position-14" style="font-size: 9.515923566879pt;" aria-label="Flucht (8 items)">Flucht</a>
+<a href="https://plopp.utzer.de/tag/fluchtlinge/" class="tag-cloud-link tag-link-129 tag-link-position-15" style="font-size: 8.6242038216561pt;" aria-label="Flüchtlinge (6 items)">Flüchtlinge</a>
+<a href="https://plopp.utzer.de/tag/forschung/" class="tag-cloud-link tag-link-78 tag-link-position-16" style="font-size: 12.636942675159pt;" aria-label="Forschung (19 items)">Forschung</a>
+<a href="https://plopp.utzer.de/tag/frauen/" class="tag-cloud-link tag-link-109 tag-link-position-17" style="font-size: 8pt;" aria-label="Frauen (5 items)">Frauen</a>
+<a href="https://plopp.utzer.de/tag/freiheit/" class="tag-cloud-link tag-link-40 tag-link-position-18" style="font-size: 9.9617834394904pt;" aria-label="Freiheit (9 items)">Freiheit</a>
+<a href="https://plopp.utzer.de/tag/geschichte/" class="tag-cloud-link tag-link-67 tag-link-position-19" style="font-size: 13.617834394904pt;" aria-label="Geschichte (25 items)">Geschichte</a>
+<a href="https://plopp.utzer.de/tag/gesundheit/" class="tag-cloud-link tag-link-125 tag-link-position-20" style="font-size: 11.299363057325pt;" aria-label="Gesundheit (13 items)">Gesundheit</a>
+<a href="https://plopp.utzer.de/tag/hitler/" class="tag-cloud-link tag-link-25 tag-link-position-21" style="font-size: 8.6242038216561pt;" aria-label="Hitler (6 items)">Hitler</a>
+<a href="https://plopp.utzer.de/tag/internet/" class="tag-cloud-link tag-link-322 tag-link-position-22" style="font-size: 8.6242038216561pt;" aria-label="Internet (6 items)">Internet</a>
+<a href="https://plopp.utzer.de/tag/klimaschutz/" class="tag-cloud-link tag-link-260 tag-link-position-23" style="font-size: 9.0700636942675pt;" aria-label="Klimaschutz (7 items)">Klimaschutz</a>
+<a href="https://plopp.utzer.de/tag/klimawandel/" class="tag-cloud-link tag-link-147 tag-link-position-24" style="font-size: 11.299363057325pt;" aria-label="Klimawandel (13 items)">Klimawandel</a>
+<a href="https://plopp.utzer.de/tag/krieg/" class="tag-cloud-link tag-link-108 tag-link-position-25" style="font-size: 10.675159235669pt;" aria-label="Krieg (11 items)">Krieg</a>
+<a href="https://plopp.utzer.de/tag/media/" class="tag-cloud-link tag-link-243 tag-link-position-26" style="font-size: 9.515923566879pt;" aria-label="media (8 items)">media</a>
+<a href="https://plopp.utzer.de/tag/medien/" class="tag-cloud-link tag-link-64 tag-link-position-27" style="font-size: 21.197452229299pt;" aria-label="Medien (180 items)">Medien</a>
+<a href="https://plopp.utzer.de/tag/mensch/" class="tag-cloud-link tag-link-127 tag-link-position-28" style="font-size: 8.6242038216561pt;" aria-label="Mensch (6 items)">Mensch</a>
+<a href="https://plopp.utzer.de/tag/menschen/" class="tag-cloud-link tag-link-210 tag-link-position-29" style="font-size: 11.566878980892pt;" aria-label="Menschen (14 items)">Menschen</a>
+<a href="https://plopp.utzer.de/tag/nachrichten/" class="tag-cloud-link tag-link-79 tag-link-position-30" style="font-size: 9.0700636942675pt;" aria-label="Nachrichten (7 items)">Nachrichten</a>
+<a href="https://plopp.utzer.de/tag/ndr/" class="tag-cloud-link tag-link-75 tag-link-position-31" style="font-size: 12.458598726115pt;" aria-label="NDR (18 items)">NDR</a>
+<a href="https://plopp.utzer.de/tag/podcast/" class="tag-cloud-link tag-link-13 tag-link-position-32" style="font-size: 22pt;" aria-label="Podcast (222 items)">Podcast</a>
+<a href="https://plopp.utzer.de/tag/politik/" class="tag-cloud-link tag-link-38 tag-link-position-33" style="font-size: 12.28025477707pt;" aria-label="Politik (17 items)">Politik</a>
+<a href="https://plopp.utzer.de/tag/radiowissen/" class="tag-cloud-link tag-link-665 tag-link-position-34" style="font-size: 9.0700636942675pt;" aria-label="radioWissen (7 items)">radioWissen</a>
+<a href="https://plopp.utzer.de/tag/rassismus/" class="tag-cloud-link tag-link-41 tag-link-position-35" style="font-size: 8.6242038216561pt;" aria-label="Rassismus (6 items)">Rassismus</a>
+<a href="https://plopp.utzer.de/tag/technik/" class="tag-cloud-link tag-link-95 tag-link-position-36" style="font-size: 9.515923566879pt;" aria-label="Technik (8 items)">Technik</a>
+<a href="https://plopp.utzer.de/tag/umwelt/" class="tag-cloud-link tag-link-368 tag-link-position-37" style="font-size: 8.6242038216561pt;" aria-label="Umwelt (6 items)">Umwelt</a>
+<a href="https://plopp.utzer.de/tag/umweltschutz/" class="tag-cloud-link tag-link-123 tag-link-position-38" style="font-size: 8.6242038216561pt;" aria-label="Umweltschutz (6 items)">Umweltschutz</a>
+<a href="https://plopp.utzer.de/tag/us/" class="tag-cloud-link tag-link-332 tag-link-position-39" style="font-size: 9.9617834394904pt;" aria-label="US (9 items)">US</a>
+<a href="https://plopp.utzer.de/tag/usa/" class="tag-cloud-link tag-link-42 tag-link-position-40" style="font-size: 12.815286624204pt;" aria-label="USA (20 items)">USA</a>
+<a href="https://plopp.utzer.de/tag/verbrechen/" class="tag-cloud-link tag-link-112 tag-link-position-41" style="font-size: 10.942675159236pt;" aria-label="Verbrechen (12 items)">Verbrechen</a>
+<a href="https://plopp.utzer.de/tag/virus/" class="tag-cloud-link tag-link-619 tag-link-position-42" style="font-size: 9.0700636942675pt;" aria-label="Virus (7 items)">Virus</a>
+<a href="https://plopp.utzer.de/tag/wdr/" class="tag-cloud-link tag-link-102 tag-link-position-43" style="font-size: 12.28025477707pt;" aria-label="WDR (17 items)">WDR</a>
+<a href="https://plopp.utzer.de/tag/wissen/" class="tag-cloud-link tag-link-71 tag-link-position-44" style="font-size: 8.6242038216561pt;" aria-label="Wissen (6 items)">Wissen</a>
+<a href="https://plopp.utzer.de/tag/wissenschaft/" class="tag-cloud-link tag-link-94 tag-link-position-45" style="font-size: 16.025477707006pt;" aria-label="Wissenschaft (47 items)">Wissenschaft</a></div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</main><!-- #content -->
+
+	<footer id="colophon">
+			<div id="sidebar">
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><h2 class="widget-title">Suche</h2><form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" role="search" method="get" class="search-form" action="https://plopp.utzer.de/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" enterkeyhint="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<meta itemprop="target" content="https://plopp.utzer.de/?s={s} "/></form></aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h2 class="widget-title">Tags</h2><div class="tagcloud"><a href="https://plopp.utzer.de/tag/armut/" class="tag-cloud-link tag-link-355 tag-link-position-1" style="font-size: 9.0700636942675pt;" aria-label="Armut (7 items)">Armut<span class="tag-link-count"> (7)</span></a>
+<a href="https://plopp.utzer.de/tag/bildung/" class="tag-cloud-link tag-link-103 tag-link-position-2" style="font-size: 9.9617834394904pt;" aria-label="Bildung (9 items)">Bildung<span class="tag-link-count"> (9)</span></a>
+<a href="https://plopp.utzer.de/tag/br/" class="tag-cloud-link tag-link-73 tag-link-position-3" style="font-size: 13.171974522293pt;" aria-label="BR (22 items)">BR<span class="tag-link-count"> (22)</span></a>
+<a href="https://plopp.utzer.de/tag/brexit/" class="tag-cloud-link tag-link-50 tag-link-position-4" style="font-size: 8pt;" aria-label="Brexit (5 items)">Brexit<span class="tag-link-count"> (5)</span></a>
+<a href="https://plopp.utzer.de/tag/china/" class="tag-cloud-link tag-link-176 tag-link-position-5" style="font-size: 9.9617834394904pt;" aria-label="China (9 items)">China<span class="tag-link-count"> (9)</span></a>
+<a href="https://plopp.utzer.de/tag/corona/" class="tag-cloud-link tag-link-676 tag-link-position-6" style="font-size: 10.675159235669pt;" aria-label="Corona (11 items)">Corona<span class="tag-link-count"> (11)</span></a>
+<a href="https://plopp.utzer.de/tag/coronavirus/" class="tag-cloud-link tag-link-621 tag-link-position-7" style="font-size: 9.515923566879pt;" aria-label="Coronavirus (8 items)">Coronavirus<span class="tag-link-count"> (8)</span></a>
+<a href="https://plopp.utzer.de/tag/deutschland/" class="tag-cloud-link tag-link-59 tag-link-position-8" style="font-size: 14.063694267516pt;" aria-label="Deutschland (28 items)">Deutschland<span class="tag-link-count"> (28)</span></a>
+<a href="https://plopp.utzer.de/tag/deutschlandfunk/" class="tag-cloud-link tag-link-65 tag-link-position-9" style="font-size: 15.668789808917pt;" aria-label="Deutschlandfunk (43 items)">Deutschlandfunk<span class="tag-link-count"> (43)</span></a>
+<a href="https://plopp.utzer.de/tag/doku/" class="tag-cloud-link tag-link-46 tag-link-position-10" style="font-size: 8.6242038216561pt;" aria-label="Doku (6 items)">Doku<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/dokumentation/" class="tag-cloud-link tag-link-47 tag-link-position-11" style="font-size: 13.171974522293pt;" aria-label="Dokumentation (22 items)">Dokumentation<span class="tag-link-count"> (22)</span></a>
+<a href="https://plopp.utzer.de/tag/eu/" class="tag-cloud-link tag-link-441 tag-link-position-12" style="font-size: 10.31847133758pt;" aria-label="EU (10 items)">EU<span class="tag-link-count"> (10)</span></a>
+<a href="https://plopp.utzer.de/tag/europa/" class="tag-cloud-link tag-link-96 tag-link-position-13" style="font-size: 10.675159235669pt;" aria-label="Europa (11 items)">Europa<span class="tag-link-count"> (11)</span></a>
+<a href="https://plopp.utzer.de/tag/flucht/" class="tag-cloud-link tag-link-184 tag-link-position-14" style="font-size: 9.515923566879pt;" aria-label="Flucht (8 items)">Flucht<span class="tag-link-count"> (8)</span></a>
+<a href="https://plopp.utzer.de/tag/fluchtlinge/" class="tag-cloud-link tag-link-129 tag-link-position-15" style="font-size: 8.6242038216561pt;" aria-label="Flüchtlinge (6 items)">Flüchtlinge<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/forschung/" class="tag-cloud-link tag-link-78 tag-link-position-16" style="font-size: 12.636942675159pt;" aria-label="Forschung (19 items)">Forschung<span class="tag-link-count"> (19)</span></a>
+<a href="https://plopp.utzer.de/tag/frauen/" class="tag-cloud-link tag-link-109 tag-link-position-17" style="font-size: 8pt;" aria-label="Frauen (5 items)">Frauen<span class="tag-link-count"> (5)</span></a>
+<a href="https://plopp.utzer.de/tag/freiheit/" class="tag-cloud-link tag-link-40 tag-link-position-18" style="font-size: 9.9617834394904pt;" aria-label="Freiheit (9 items)">Freiheit<span class="tag-link-count"> (9)</span></a>
+<a href="https://plopp.utzer.de/tag/geschichte/" class="tag-cloud-link tag-link-67 tag-link-position-19" style="font-size: 13.617834394904pt;" aria-label="Geschichte (25 items)">Geschichte<span class="tag-link-count"> (25)</span></a>
+<a href="https://plopp.utzer.de/tag/gesundheit/" class="tag-cloud-link tag-link-125 tag-link-position-20" style="font-size: 11.299363057325pt;" aria-label="Gesundheit (13 items)">Gesundheit<span class="tag-link-count"> (13)</span></a>
+<a href="https://plopp.utzer.de/tag/hitler/" class="tag-cloud-link tag-link-25 tag-link-position-21" style="font-size: 8.6242038216561pt;" aria-label="Hitler (6 items)">Hitler<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/internet/" class="tag-cloud-link tag-link-322 tag-link-position-22" style="font-size: 8.6242038216561pt;" aria-label="Internet (6 items)">Internet<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/klimaschutz/" class="tag-cloud-link tag-link-260 tag-link-position-23" style="font-size: 9.0700636942675pt;" aria-label="Klimaschutz (7 items)">Klimaschutz<span class="tag-link-count"> (7)</span></a>
+<a href="https://plopp.utzer.de/tag/klimawandel/" class="tag-cloud-link tag-link-147 tag-link-position-24" style="font-size: 11.299363057325pt;" aria-label="Klimawandel (13 items)">Klimawandel<span class="tag-link-count"> (13)</span></a>
+<a href="https://plopp.utzer.de/tag/krieg/" class="tag-cloud-link tag-link-108 tag-link-position-25" style="font-size: 10.675159235669pt;" aria-label="Krieg (11 items)">Krieg<span class="tag-link-count"> (11)</span></a>
+<a href="https://plopp.utzer.de/tag/media/" class="tag-cloud-link tag-link-243 tag-link-position-26" style="font-size: 9.515923566879pt;" aria-label="media (8 items)">media<span class="tag-link-count"> (8)</span></a>
+<a href="https://plopp.utzer.de/tag/medien/" class="tag-cloud-link tag-link-64 tag-link-position-27" style="font-size: 21.197452229299pt;" aria-label="Medien (180 items)">Medien<span class="tag-link-count"> (180)</span></a>
+<a href="https://plopp.utzer.de/tag/mensch/" class="tag-cloud-link tag-link-127 tag-link-position-28" style="font-size: 8.6242038216561pt;" aria-label="Mensch (6 items)">Mensch<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/menschen/" class="tag-cloud-link tag-link-210 tag-link-position-29" style="font-size: 11.566878980892pt;" aria-label="Menschen (14 items)">Menschen<span class="tag-link-count"> (14)</span></a>
+<a href="https://plopp.utzer.de/tag/nachrichten/" class="tag-cloud-link tag-link-79 tag-link-position-30" style="font-size: 9.0700636942675pt;" aria-label="Nachrichten (7 items)">Nachrichten<span class="tag-link-count"> (7)</span></a>
+<a href="https://plopp.utzer.de/tag/ndr/" class="tag-cloud-link tag-link-75 tag-link-position-31" style="font-size: 12.458598726115pt;" aria-label="NDR (18 items)">NDR<span class="tag-link-count"> (18)</span></a>
+<a href="https://plopp.utzer.de/tag/podcast/" class="tag-cloud-link tag-link-13 tag-link-position-32" style="font-size: 22pt;" aria-label="Podcast (222 items)">Podcast<span class="tag-link-count"> (222)</span></a>
+<a href="https://plopp.utzer.de/tag/politik/" class="tag-cloud-link tag-link-38 tag-link-position-33" style="font-size: 12.28025477707pt;" aria-label="Politik (17 items)">Politik<span class="tag-link-count"> (17)</span></a>
+<a href="https://plopp.utzer.de/tag/radiowissen/" class="tag-cloud-link tag-link-665 tag-link-position-34" style="font-size: 9.0700636942675pt;" aria-label="radioWissen (7 items)">radioWissen<span class="tag-link-count"> (7)</span></a>
+<a href="https://plopp.utzer.de/tag/rassismus/" class="tag-cloud-link tag-link-41 tag-link-position-35" style="font-size: 8.6242038216561pt;" aria-label="Rassismus (6 items)">Rassismus<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/technik/" class="tag-cloud-link tag-link-95 tag-link-position-36" style="font-size: 9.515923566879pt;" aria-label="Technik (8 items)">Technik<span class="tag-link-count"> (8)</span></a>
+<a href="https://plopp.utzer.de/tag/umwelt/" class="tag-cloud-link tag-link-368 tag-link-position-37" style="font-size: 8.6242038216561pt;" aria-label="Umwelt (6 items)">Umwelt<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/umweltschutz/" class="tag-cloud-link tag-link-123 tag-link-position-38" style="font-size: 8.6242038216561pt;" aria-label="Umweltschutz (6 items)">Umweltschutz<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/us/" class="tag-cloud-link tag-link-332 tag-link-position-39" style="font-size: 9.9617834394904pt;" aria-label="US (9 items)">US<span class="tag-link-count"> (9)</span></a>
+<a href="https://plopp.utzer.de/tag/usa/" class="tag-cloud-link tag-link-42 tag-link-position-40" style="font-size: 12.815286624204pt;" aria-label="USA (20 items)">USA<span class="tag-link-count"> (20)</span></a>
+<a href="https://plopp.utzer.de/tag/verbrechen/" class="tag-cloud-link tag-link-112 tag-link-position-41" style="font-size: 10.942675159236pt;" aria-label="Verbrechen (12 items)">Verbrechen<span class="tag-link-count"> (12)</span></a>
+<a href="https://plopp.utzer.de/tag/virus/" class="tag-cloud-link tag-link-619 tag-link-position-42" style="font-size: 9.0700636942675pt;" aria-label="Virus (7 items)">Virus<span class="tag-link-count"> (7)</span></a>
+<a href="https://plopp.utzer.de/tag/wdr/" class="tag-cloud-link tag-link-102 tag-link-position-43" style="font-size: 12.28025477707pt;" aria-label="WDR (17 items)">WDR<span class="tag-link-count"> (17)</span></a>
+<a href="https://plopp.utzer.de/tag/wissen/" class="tag-cloud-link tag-link-71 tag-link-position-44" style="font-size: 8.6242038216561pt;" aria-label="Wissen (6 items)">Wissen<span class="tag-link-count"> (6)</span></a>
+<a href="https://plopp.utzer.de/tag/wissenschaft/" class="tag-cloud-link tag-link-94 tag-link-position-45" style="font-size: 16.025477707006pt;" aria-label="Wissenschaft (47 items)">Wissenschaft<span class="tag-link-count"> (47)</span></a></div>
+</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2><form action="https://plopp.utzer.de" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="51">food&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="913">Hühner&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="12">media&nbsp;&nbsp;(234)</option>
+	<option class="level-1" value="69">&nbsp;&nbsp;&nbsp;podcast_suggestion&nbsp;&nbsp;(232)</option>
+	<option class="level-0" value="37">politic&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="3">random&nbsp;&nbsp;(5)</option>
+	<option class="level-1" value="899">&nbsp;&nbsp;&nbsp;fun&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="18">technology&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="895">tipps&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1">uncategorized&nbsp;&nbsp;(8)</option>
+</select>
+</form>
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">Vorherige Posts</h2>
+		<ul>
+											<li>
+					<a href="https://plopp.utzer.de/2022/10/30/podcast-empfehlung-legion-hacking-anonymous-trailer/">Podcast Empfehlung: Legion: Hacking Anonymous – Trailer</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/09/22/podcast-empfehlung-uniper-eine-fossile-bad-bank/">Podcast Empfehlung: Uniper: &#8220;Eine fossile Bad Bank&#8221;</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/08/27/downtime-friendica-utzer-de/">Downtime Friendica.utzer.de</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/08/10/podcast-empfehlung-killed-in-action-deutschland-im-krieg/">Podcast Empfehlung: Killed in Action &#8211; Deutschland im Krieg</a>
+									</li>
+											<li>
+					<a href="https://plopp.utzer.de/2022/07/29/podcast-empfehlung-naga-die-neuentdeckung-der-antike-im-sudan%ef%bf%bc/">Podcast Empfehlung: Naga &#8211; Die Neuentdeckung der Antike im Sudan￼</a>
+									</li>
+					</ul>
+
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Letzte Kommentare</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://social.yl.ms/profile/utzer' rel='external nofollow ugc' class='u-url url'>utzer</a></span> on <a href="https://plopp.utzer.de/2021/10/26/podcast-empfehlung-junge-turken-unter-druck-job-und-freiheit-verzweifelt-gesucht/comment-page-1/#comment-145">Podcast Empfehlung: Junge Türken unter Druck &#8211; Job und Freiheit verzweifelt gesucht</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://social.yl.ms/profile/utzer' rel='external nofollow ugc' class='u-url url'>utzer</a></span> on <a href="https://plopp.utzer.de/2021/10/22/podcast-empfehlung-magda-goebbels-von-der-first-lady-des-dritten-reichs-zur-kindsmorderin/comment-page-1/#comment-140">Podcast Empfehlung: Magda Goebbels: Von der “First Lady” des Dritten Reichs zur Kindsmörderin</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://bildung.social/users/Nachbarschaft' rel='external nofollow ugc' class='u-url url'>Nachbarschaft</a></span> on <a href="https://plopp.utzer.de/2021/08/07/podcast-empfehlung-die-vermeintliche-bremer-bamf-affare-hochgezogen-aufgebauscht-verpufft/comment-page-1/#comment-121">Podcast Empfehlung: Die vermeintliche Bremer Bamf-Affäre &#8211; Hochgezogen, aufgebauscht, verpufft</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://social.yl.ms/profile/utzer' rel='external nofollow ugc' class='u-url url'>utzer</a></span> on <a href="https://plopp.utzer.de/2021/05/21/podcast-empfehlung-nukleare-katastrophen-was-hat-man-daraus-gelernt/comment-page-1/#comment-71">Podcast Empfehlung: Nukleare Katastrophen &#8211; Was hat man daraus gelernt?</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://social.yl.ms/profile/utzer' rel='external nofollow ugc' class='u-url url'>utzer</a></span> on <a href="https://plopp.utzer.de/2021/05/20/podcast-empfehlung-wissenschaft-im-exil-neuanfang-ohne-ende/comment-page-1/#comment-70">Podcast Empfehlung: Wissenschaft im Exil &#8211; Neuanfang ohne Ende</a></li></ul></aside><aside id="text-2" class="widget widget_text"><h2 class="widget-title">Spezielle RSS Feed</h2>			<div class="textwidget"><p><a href="https://plopp.utzer.de/category/media/podcast_suggestion/feed/">Podcastempfehlungen</a> (zum Abonnieren für Deinen Player)</p>
+</div>
+		</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">Admin</h2>
+		<ul>
+						<li><a href="https://plopp.utzer.de/wp-login.php">Log in</a></li>
+			<li><a href="https://plopp.utzer.de/feed/">Entries feed</a></li>
+			<li><a href="https://plopp.utzer.de/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</aside><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://plopp.utzer.de">Home</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-17"><a href="https://plopp.utzer.de/impressum-und-datenschutz/">Impressum und Datenschutz</a></li>
+<li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a href="https://plopp.utzer.de/links/">Links</a></li>
+</ul></div></aside>		</div><!-- #secondary .widget-area -->
+
+		
+			</div>
+
+		<div id="site-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<meta itemprop="name" content="plopp" />
+			<meta itemprop="url" content="https://plopp.utzer.de/" />
+					</div>
+
+		<div id="site-generator">
+						This site is powered by <a href="https://wordpress.org/" rel="generator">WordPress</a> and styled with the <a href="https://notiz.blog/projects/autonomie/">Autonomie</a> theme		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src='https://plopp.utzer.de/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/plopp.utzer.de\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://plopp.utzer.de/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script src='https://plopp.utzer.de/wp-content/themes/autonomie/assets/js/navigation.js?ver=1.0.0' id='autonomie-navigation-js'></script>
+<script src='https://plopp.utzer.de/wp-content/themes/autonomie/assets/js/skip-link-focus-fix.js?ver=1.0.0' id='autonomie-skip-link-focus-fix-js'></script>
+<script src='https://plopp.utzer.de/wp-content/themes/autonomie/assets/js/share.js?ver=1.0.0' id='autonomie-share-js'></script>
+
+</body>
+</html>
+
+0
+

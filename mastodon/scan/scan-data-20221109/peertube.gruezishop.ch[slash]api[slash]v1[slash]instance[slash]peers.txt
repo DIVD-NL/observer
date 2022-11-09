@@ -1,0 +1,509 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:48 GMT
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Wed, 09 Nov 2022 15:14:48 GMT
+P3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Pragma: no-cache
+Server: Apache
+Set-Cookie: 13f6204b29a054ba9f1df67edefa4999=q2c729kj9m5e7vb7jciom2r939; path=/; secure; HttpOnly
+Set-Cookie: 71ddb71a644a10651592cc46f855d6d4=de-DE; expires=Thu, 09-Nov-2023 15:14:48 GMT; Max-Age=31536000; path=/; secure; HttpOnly
+Set-Cookie: language=de; expires=Fri, 09-Dec-2022 15:14:48 GMT; Max-Age=2592000; path=/; domain=peertube.gruezishop.ch
+Set-Cookie: currency=CHF; expires=Fri, 09-Dec-2022 15:14:48 GMT; Max-Age=2592000; path=/; domain=peertube.gruezishop.ch
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/7.4.25
+
+7a04
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<base href="https://peertube.gruezishop.ch/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="title" content="Die angeforderte Seite wurde leider nicht gefunden." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Die angeforderte Seite wurde leider nicht gefunden.</title>
+	<link href="http://gruezishop.ch/api/v1/instance/peers" rel="canonical" />
+	<link href="/templates/pmjbootstraptemplate/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/mijoshopjquery/mijoshopjquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/mijoshopjquery/mijoshopjquery/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_mijoshop/opencart/vqmod/vqcache/vq2-catalog_view_theme_default_stylesheet_stylesheet.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_mijoshop/opencart/catalog/view/theme/default/stylesheet/special-promotions/discount-total.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" rel="stylesheet" type="text/css" />
+	<link href="/templates/pmjbootstraptemplate/css/font-awesome.min.css?854cbd7db58dee7fa1ab62ed7218ba76" rel="stylesheet" type="text/css" />
+	<link href="/templates/pmjbootstraptemplate/css/pmj-style16.min.css?854cbd7db58dee7fa1ab62ed7218ba76" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"f4381e6cb7a75191a3b6ad6c22341abd","system.paths":{"root":"","base":""},"system.keepalive":{"interval":3600000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/system/js/mootools-core.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/ui/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/ui/jquery-ui-timepicker-addon.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/ui/external/jquery.cookie.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/colorbox/jquery.colorbox.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/tabs_site.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/jquery.total-storage.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/jquery.cycle.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/mijoshopjquery/mijoshopjquery/nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+	<script src="/components/com_mijoshop/opencart/vqmod/vqcache/vq2-catalog_view_javascript_common.js" type="text/javascript"></script>
+	<script src="/components/com_mijoshop/opencart/catalog/view/javascript/special-promotions/script.js" type="text/javascript"></script>
+	<script src="/templates/pmjbootstraptemplate/js/bootstrap.bundle.min.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/templates/pmjbootstraptemplate/js/bootstrap.menuoffscreen.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/templates/pmjbootstraptemplate/js/prefixfree.min.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/templates/pmjbootstraptemplate/js/soundmanager2-jsmin.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<script src="/templates/pmjbootstraptemplate/js/gruezishop.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?854cbd7db58dee7fa1ab62ed7218ba76" type="text/javascript"></script>
+
+	</head>
+<body class="pmjbody-115">
+	
+		<div class="container frame d-flex flex-column">
+		<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+		<div class="container">
+			<a class="navbar-brand" href="/"><img src="/images/gruezishop/ShopLogoSchriftW030.png" alt="Gruezishop" style="" /></a>
+	  
+
+<div class="custom mr-1"  >
+	<div class="btn btn-sm btn-light text-primary d-none d-md-block" style="min-width: 206px; text-align: left;" data-toggle="modal" data-target="#cartModal"><i class="fa fa-shopping-cart fa-lg"></i><span class="sr-only">Warenkorb</span> <span class="g_cart_total"></span></div>
+<div class="btn btn-sm btn-light text-primary d-block d-md-none" data-toggle="modal" data-target="#cartModal"><i class="fa fa-shopping-cart fa-lg"></i><span class="sr-only">Warenkorb</span></div>
+<div id="cartModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="cartModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+<div class="modal-content">&nbsp;</div>
+</div>
+</div>
+<script type="text/javascript">jQuery('#cartModal').appendTo("body");
+jQuery.ajax({
+  url:carturl,
+  type:'GET',
+  dataType: "html",
+  success: function(data){
+    jQuery('#cartModal .modal-content').html(jQuery(data).find('#g_content').html());
+    jQuery('.g_cart_total').html(jQuery(data).find('.g_cart_total').text());
+  }
+});</script></div>
+
+
+<div class="custom mr-auto"  >
+	<div class="input-group d-none d-sm-block"><label class="sr-only" for="navbarSearch">Suchen</label>
+<div class="input-group">
+<div class="input-group-prepend"><button id="navbarSearchButton" class="btn btn-sm btn-secondary"><i class="fa fa-search"></i><span class="sr-only">Suchen</span></button></div>
+<input type="text" class="form-control-sm" id="navbarSearch" placeholder="Suchen" /></div>
+<div id="g_search"></div>
+</div>
+<div><button type="button" class="btn btn-sm btn-light text-primary d-sm-none" data-toggle="modal" data-target="#searchModalSmall"><i class="fa fa-search"></i><span class="sr-only">Suchen</span></button></div>
+<div class="modal fade" id="searchModalSmall" tabindex="-1" role="dialog" aria-labelledby="searchModalSmallTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="searchModalSmallTitle">Suchen</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Schliessen"> <span aria-hidden="true">×</span> </button></div>
+<div class="modal-body text-center">
+<div class="input-group d-sm-none ml-auto"><label class="sr-only" for="navbarSearchSmall">Suchen</label>
+<div class="input-group"><input type="text" class="form-control-sm" id="navbarSearchSmall" placeholder="Suchen" />
+<div class="input-group-append"><button id="navbarSearchSmallButton" class="btn btn-sm btn-secondary">Suchen</button></div>
+</div>
+<div id="g_search_small"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery('#searchModalSmall').appendTo("body");
+//Search
+jQuery('#navbarSearch, #navbarSearchSmall').keydown(function(e) {
+  if (e.keyCode == 13) {
+    searchSubmit();
+  }
+});
+jQuery('#navbarSearchButton, #navbarSearchSmallButton').on('click', function(e) {
+  searchSubmit();
+});
+function searchSubmit() {
+  url = '?option=com_mijoshop&route=product/search';
+  var search = jQuery('#navbarSearch').val() + jQuery('#navbarSearchSmall').val();
+  console.log('button: ' + search);
+  if (search) {
+    console.log('button: ' + search);
+    url += '&search=' + encodeURIComponent(search);
+    location = url;
+  }
+}</script></div>
+
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarPMJ" aria-controls="navbarPMJ" aria-expanded="false" aria-label="Menu ausklappen">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	  <div class="collapse navbar-collapse" id="navbarPMJ">
+		<ul class="navbar-nav ml-auto">
+	<li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="loginDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		Anmelden		</a>
+		<div class="dropdown-menu" aria-labelledby="loginDropdown">
+			<form action="/" method="post" id="login-form" class="px-4 py-3">
+								
+									<div class="input-group mb-3 w-100">
+						<div class="input-group-prepend">
+							<span class="input-group-text" id="username-addon" data-toggle="tooltip" data-placement="top" title="Benutzername"><i class="fa fa-user"></i></span>
+						</div>
+						<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="Benutzername" aria-label="Benutzername" aria-describedby="username-addon" />
+					</div>
+								
+									<div class="input-group mb-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text" id="password-addon" data-toggle="tooltip" data-placement="top" title="Passwort"><i class="fa fa-lock"></i></span>
+						</div>
+						<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Passwort" aria-label="Passwort" aria-describedby="password-addon" />
+					</div>
+								
+								
+									<div class="input-group mt-3">
+					<div id="form-login-remember" class="custom-control custom-checkbox mb-2">
+						<input id="modlgn-remember" type="checkbox" name="remember" class="custom-control-input" value="yes">
+						<label class="custom-control-label" for="modlgn-remember">Angemeldet bleiben</label>
+					</div>
+					</div>
+								<div class="input-group">
+					<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Anmelden</button>
+				</div>
+				
+				<div class="dropdown-divider"></div>
+				
+												<a class="dropdown-item text-primary pl-0" href="/account/register">
+					Registrieren				</a>
+								<a class="dropdown-item text-primary pl-0" href="/account/forgotten">
+					Passwort vergessen?				</a>
+				<input type="hidden" name="option" value="com_users" />
+				<input type="hidden" name="task" value="user.login" />
+				<input type="hidden" name="return" value="aHR0cHM6Ly9wZWVydHViZS5ncnVlemlzaG9wLmNoL2FwaS92MS9pbnN0YW5jZS9wZWVycw==" />
+				<input type="hidden" name="f4381e6cb7a75191a3b6ad6c22341abd" value="1" />				
+							</form>
+		</div>
+	</li>
+</ul>
+	</div>
+  
+		</div>
+		
+</nav>
+<!-- rows -->
+		<div id="contentRow" class="row pt-2">
+			
+		<!-- columns -->
+					<div id="contentColumn" class="col-md-12 col-lg-12">
+				
+				<!-- positions -->
+																			<div class="content">
+							<div id="system-message-container">
+	</div>
+
+							  	
+	<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/components/com_mijoshop/opencart/catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/components/com_mijoshop/opencart/catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="/components/com_mijoshop/opencart/catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+
+<div id="container_oc">
+<div id="shopMenu" class="row" data-toggle="sticky-onscroll"><div class="container">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarShopMenu" aria-controls="navbarShopMenu" aria-expanded="false" aria-label="Menu ausklappen">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarShopMenu">
+    <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Genre        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/99-blues-jazz">Blues / Jazz</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/82-country">Country</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/98-diverses">Diverses</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/102-folklore">Folklore</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/94-hoerspiel-maerchen">Hörspiel / Märchen</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/117-humor-komoedie">Humor/Komödie</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/71-jodel">Jodel</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/46-children">Kinder</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/40-compilation">Kompilation</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/126-nostalgie-eifach-gueti-musig">Nostalgie - Eifach gueti Musig</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/59-oldies">Oldies</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/115-pop-rock">Pop/Rock</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/37-rock">Rock</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/38-schlager">Schlager</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/80-tango">Tango</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/44-popular-folk">Volkstümlich / Schlager</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/39-volksmusik-traditionell">Volksmusik / Traditionell</a>
+                                    </div>
+      </li>
+                      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sprache        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/49-german-dialects">Deutsch &amp; Dialekte</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/53-english">Englisch</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/50-french">Französisch</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/58-instrumental">Instrumental</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/48-italian">Italiensch</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/54-spanish">Spanisch</a>
+                                    </div>
+      </li>
+                      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Instrumente        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/72-akkordeon-ch-oergeli">Akkordeon / CH-Örgeli</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/106-blasinstrumente-innerschwyzer-stil">Blasinstrumente / Innerschwyzer Stil</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/63-brass-music">Blasmusik</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/73-chor">Chor</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/92-floete">Flöte</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/122-orchester">Orchester</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/81-saxophone">Saxophone</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/100-trompete">Trompete</a>
+                                    </div>
+      </li>
+                      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Interpreten        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/62-calimeros">Calimeros</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/61-carlo-brunner">Carlo Brunner</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/69-combox">ComBox</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/111-diana">Diana</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/120-franz-arnold-s-wiudae-baerg">Franz Arnold's Wiudä Bärg</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/78-fricktaler-musikanten">Fricktaler Musikanten</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/109-geschwister-biberstein">Geschwister Biberstein</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/43-kapelle-oberalp">Kapelle Oberalp</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/83-laendlerbuebe-biel">Ländlerbuebe Biel</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/70-louis-menar">Louis Menar</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/108-maja-brunner">Maja Brunner</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/123-marcel-zumbrunn">Marcel Zumbrunn</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/96-martin-nauer">Martin Nauer</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/89-peter-zinsli">Peter Zinsli</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/107-radys">Radys</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/116-res-schmid">Res Schmid</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/65-roland-eberhart">Roland Eberhart</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/90-romanticas">Romanticas</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/91-salvo">Salvo</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/114-sarah-jane">Sarah-Jane</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/87-swiss-laendler-gamblers-slg">Swiss Ländler Gamblers (SLG)</a>
+                                    </div>
+      </li>
+                      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Serien        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/129-eifach-gueti-musig">Eifach gueti Musig!</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/97-herzlichst">Herzlichst</a>
+                                        <a class="dropdown-item" href="https://peertube.gruezishop.ch/category/76-s-bescht-us-d-schwiiz">s'Bescht .. us d Schwiiz</a>
+                                    </div>
+      </li>
+                      <li class="nav-item">
+        <a class="nav-link" href="https://peertube.gruezishop.ch/category/86-nice-price">Nice Price</a>
+      </li>
+                      <li class="nav-item">
+        <a class="nav-link" href="https://peertube.gruezishop.ch/category/34-archiv">Archiv</a>
+      </li>
+                      <li class="nav-item">
+        <a class="nav-link" href="https://peertube.gruezishop.ch/category/121-aus-der-werbung">Aus der Werbung</a>
+      </li>
+              </ul>
+  </div>
+</nav>
+</div></div>
+<div class="modal fade" id="notificationModal" tabindex="-1" role="dialog" aria-labelledby="notificationModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+    <div class="modal-content">
+      <div class="modal-body p-0">
+        <button type="button" class="btn btn-sm btn-primary rounded-circle text-light float-right mr-2 mt-2" data-dismiss="modal" aria-label="Schliessen">
+          <span aria-hidden="true"><i class="fa fa-times"></i></span>
+        </button>
+        <div id="notification"></div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div id="content_oc">  <div class="box_oc">
+  <div class="box-heading"><h1 class="mijoshop_heading_h1">Die angeforderte Seite wurde leider nicht gefunden.</h1></div>
+  <div class="box-content">
+  <div class="content_oc">Die angeforderte Seite wurde leider nicht gefunden.</div>
+  <div class="buttons">
+    <div class="right"><a href="https://peertube.gruezishop.ch/" class="btn btn-primary">Weiter</a></div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+ <!-- Piwik --><script type="text/javascript">var _paq = _paq || [];
+_paq.push(["setEcommerceView",productSKU = false,productName = false,categoryName = false,price = false]);
+_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);
+(function() {var u=(("https:" == document.location.protocol) ? "https://analytics.gruezishop.ch/" : "http://analytics.gruezishop.ch/");_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setSiteId", "1"]);var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);})();</script><!-- End Piwik Code -->			
+<div id="footer_oc" style="display:none;">
+    <div class="column">
+    <h3>Informationen</h3>
+    <ul>
+            <li><a href="https://peertube.gruezishop.ch/impressum">Impressum</a></li>
+            <li><a href="https://peertube.gruezishop.ch/lieferkonditionen">Lieferkonditionen</a></li>
+            <li><a href="https://peertube.gruezishop.ch/datenschutz">Datenschutzbestimmungen</a></li>
+            <li><a href="https://peertube.gruezishop.ch/agb">AGB</a></li>
+          </ul>
+  </div>
+    <div class="column">
+    <h3>Kundenservice</h3>
+    <ul>
+      <li><a href="https://peertube.gruezishop.ch/information/contact">Kontakt</a></li>
+      <li><a href="https://peertube.gruezishop.ch/retouren">Retouren</a></li>
+      <li><a href="https://peertube.gruezishop.ch/uebersicht">Übersicht</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h3>Extras</h3>
+    <ul>
+      <li><a href="https://peertube.gruezishop.ch/product/manufacturer">Marken</a></li>
+      <li><a href="https://peertube.gruezishop.ch/geschenkgutscheine">Geschenkgutscheine</a></li>
+      <li><a href="https://peertube.gruezishop.ch/affiliate/account">Partner</a></li>
+      <li><a href="https://peertube.gruezishop.ch/aktionen">Angebote</a></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h3>Mein Konto</h3>
+    <ul>
+      <li><a href="https://peertube.gruezishop.ch/mein-konto">Mein Konto</a></li>
+      <li><a href="https://peertube.gruezishop.ch/bestellungen">Auftragshistorie</a></li>
+      <li><a href="https://peertube.gruezishop.ch/wunschzettel">Wunschzettel</a></li>
+      <li><a href="https://peertube.gruezishop.ch/newsletter">Newsletter</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+						</div>
+																	
+			</div>
+				
+		</div>
+		<div id="bottomRow" class="breakout mt-auto bg-dark">
+	<div class="container"><div class="row">		
+		<!-- columns -->
+					<div id="bottomColumn1" class="col-md-3 pt-2">
+				
+				<!-- positions -->
+																											<div class="moduletable">
+
+					<h3>Information</h3>
+		
+			<ul class="nav flex-column nav-pills ">
+<li class="nav-item item-212"><a href="/lieferkonditionen" class="nav-link ">Lieferkonditionen</a></li><li class="nav-item item-213"><a href="/datenschutz" class="nav-link ">Datenschutz</a></li><li class="nav-item item-214"><a href="/agb" class="nav-link ">AGB</a></li><li class="nav-item item-211"><a href="/impressum" class="nav-link ">Impressum</a></li><li class="nav-item item-373"><a href="/faq" class="nav-link ">FAQ</a></li></ul>
+
+		</div>
+
+																		
+			</div>
+					<div id="bottomColumn2" class="col-md-3 pt-2">
+				
+				<!-- positions -->
+																											<div class="moduletable">
+
+					<h3>Kundenservice</h3>
+		
+			<ul class="nav flex-column nav-pills ">
+<li class="nav-item item-219"><a href="/kontakt" class="nav-link ">Kontakt</a></li><li class="nav-item item-220"><a href="/retouren" class="nav-link ">Retouren</a></li><li class="nav-item item-221"><a href="/uebersicht" class="nav-link ">Übersicht</a></li></ul>
+
+		</div>
+
+																		
+			</div>
+					<div id="bottomColumn3" class="col-md-3 pt-2">
+				
+				<!-- positions -->
+																											<div class="moduletable">
+
+					<h3>Extras</h3>
+		
+			<ul class="nav flex-column nav-pills ">
+<li class="nav-item item-225"><a href="/geschenkgutscheine" class="nav-link ">Geschenkgutscheine</a></li><li class="nav-item item-227"><a href="/aktionen" class="nav-link ">Aktionen</a></li><li class="nav-item item-366"><a href="/radiosender-partners" class="nav-link ">Radiosender / Partners</a></li><li class="nav-item item-356"><a href="/werbemittel" class="nav-link ">Werbemittel</a></li></ul>
+
+		</div>
+
+																		
+			</div>
+					<div id="bottomColumn4" class="col-md-3 pt-2">
+				
+				<!-- positions -->
+																											<div class="moduletable">
+
+					<h3>Mein Konto</h3>
+		
+			<ul class="nav flex-column nav-pills ">
+<li class="nav-item item-205"><a href="/mein-konto" class="nav-link ">Mein Konto</a></li><li class="nav-item item-206"><a href="/downloads" class="nav-link ">Downloads</a></li><li class="nav-item item-232"><a href="/bestellungen" class="nav-link ">Bestellungen</a></li><li class="nav-item item-233"><a href="/wunschzettel" class="nav-link ">Wunschzettel</a></li><li class="nav-item item-234"><a href="/newsletter" class="nav-link ">Newsletter</a></li><li class="nav-item item-343"><a href="/warenkorb" class="nav-link ">Warenkorb</a></li></ul>
+
+		</div>
+
+																		
+			</div>
+				
+	</div></div>	</div>
+<footer class="breakout footer">
+	<div class="container"><div class="row">				<div class="col-lg-10 text-lg-left">
+			&copy; 2022 GrueziShop		</div>
+				<div class="col-lg-2 text-lg-right">
+			<a href="https://pmj.rocks" title="Template by PMJ" rel="nofollow" target="_blank"><i class="fa fa-paperclip"></i> PMJ</a>		</div>
+		</div></div></footer>	</div>
+	<script type="text/javascript">
+/* Bootstrap 4 Sticky Nav by https://bootbites.com/articles/freebie-sticky-bootstrap-navbar-scroll-bootstrap-4/ */
+
+jQuery(document).ready(function() {
+	/* Custom */
+	var stickyToggle = function(sticky, stickyWrapper, scrollElement) {
+		var stickyHeight = sticky.outerHeight();
+		var stickyTop = stickyWrapper.offset().top;
+		if (scrollElement.scrollTop() >= stickyTop)
+		{
+			stickyWrapper.height(stickyHeight);
+			sticky.addClass("is-sticky").addClass('fixed-top');
+		}
+		else
+		{
+			sticky.removeClass("is-sticky").removeClass('fixed-top');
+			stickyWrapper.height('auto');
+		}
+	};
+
+	/* Find all data-toggle="sticky-onscroll" elements */
+	jQuery('[data-toggle="sticky-onscroll"]').each(function() {
+		var sticky = jQuery(this);
+		var stickyWrapper = jQuery('<div>').addClass('sticky-wrapper'); /* insert hidden element to maintain actual top offset on page */
+		sticky.before(stickyWrapper);
+		sticky.addClass('sticky');
+
+		/* Scroll & resize events */
+		jQuery(window).on('scroll.sticky-onscroll resize.sticky-onscroll', function() {
+			stickyToggle(sticky, stickyWrapper, jQuery(this));
+		});
+
+		/* On page load */
+		stickyToggle(sticky, stickyWrapper, jQuery(window));
+	});
+});
+
+jQuery(function () {
+	jQuery('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+	
+</body>
+</html>
+0
+

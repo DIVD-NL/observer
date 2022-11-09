@@ -1,0 +1,182 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:19:22 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=151ktddqldiph1canrdnk0ft15; path=/
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>¡Página no encontrada! : Red Social La Nueva Tierra</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<!-- 
+	Open Source Social Network (Ossn) https://www.opensource-socialnetwork.org/     
+	BY Informatikon Technologies (http://informatikon.com/)
+	BY SOFTLAB24 (https://www.softlab24.com/)
+	-->    
+<link rel="stylesheet" type="text/css" href="https://social.proyectolanuevatierra.com/components/LatestMembers/vendor/css/balloon.css" />
+<link rel="stylesheet" type="text/css" href="https://social.proyectolanuevatierra.com/cache/css/1635422678/view/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="https://social.proyectolanuevatierra.com/cache/css/1635422678/view/ossn.default.css" />
+<script src="https://social.proyectolanuevatierra.com/cache/js/1635422678/view/ossn.es.language.js"></script>
+<script src="https://social.proyectolanuevatierra.com/vendors/jquery/jquery-1.11.1.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script src="https://social.proyectolanuevatierra.com/vendors/jquery/jquery-arhandler-1.1-min.js"></script>
+<script src="https://social.proyectolanuevatierra.com/components/OssnAutoPagination/vendors/jquery.scrolling.js?ossn_cache=4e42f9bc"></script>
+<script src="//apis.google.com/js/platform.js"></script>
+<script src="https://social.proyectolanuevatierra.com/cache/js/1635422678/view/opensource.socialnetwork.js"></script>
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans:400italic,700,400" />
+<script src="https://social.proyectolanuevatierra.com/themes/facebook/vendors/bootstrap/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.css" /><script>
+$(document).ready(function() {
+	$('body').click(function(e) {
+		var clicked_target = e.target.className.substring(0, 6);
+		if (clicked_target != 'btn bt') {
+			Ossn.NotificationBoxClose();
+			if (clicked_target != 'fa fa-') {
+				$('.ossn-notifications-notification').attr('onClick', 'Ossn.NotificationShow(this)');
+				$('.ossn-notifications-messages').attr('onClick', 'Ossn.NotificationMessagesShow(this)');
+				$('.ossn-notifications-friends').attr('onClick', 'Ossn.NotificationFriendsShow(this)');
+			}
+		}
+	});
+});
+</script>
+<script>
+$(document).ready(function() {
+	$('body').click(function(e) {
+		if($('#master-moji .emojii-container-main').is(':visible') &&  e.target.className != 'ossn-chat-icon-smile' && e.target.className != 'fa fa-smile-o'  && e.target.className != 'emojii' && e.target.innerHTML != 'ðŸ˜‰') {
+		    $('#master-moji .emojii-container-main').hide();
+		}
+	});
+});
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+    <script>
+         	
+	Ossn.site_url = 'https://social.proyectolanuevatierra.com/';
+	Ossn.Config = {"token":{"ossn_ts":1668007162,"ossn_token":"a575673d4a001c51430d58143589051e"},"cache":{"last_cache":"4e42f9bc","ossn_cache":"1"}};
+	Ossn.Init();
+  $(document).ready(function(){	    
+		$(".ossn-wall-item .post-contents img").fancybox({
+			'titleShow'     : false,
+            top: '75px',  
+            afterClose: function(){
+  			 	 $(".ossn-wall-item .post-contents img").show();
+			},        
+		});
+	});		
+    </script>
+</head>
+
+<body>
+
+	<div class="ossn-halt ossn-light"></div>
+	<div class="ossn-message-box"></div>
+	<div class="ossn-viewer" style="display:none"></div>
+    
+    <div class="opensource-socalnetwork">
+    	    	 <div class="ossn-page-container">
+			  <style>
+	header {
+    	background-color: #3b5998;
+    	border-bottom: 1px solid #29487d;
+    	color: #fff;
+  	  	z-index: 1;
+    	padding: 5px;
+   		/*height: 85px;*/
+	}
+	.sitename-header {
+    	font-size: 30px;
+    	font-weight: bold;
+    	margin-top: 15px;
+	}
+	header label {
+		    font-size: 12px;
+	}
+	header input[type='password'],
+	header input[type='text']{
+			    padding: 3px 10px !important;
+    			color: #000 !important;
+			    margin-bottom: 2px !important;
+	}
+	header a {
+	 font-size: 12px;
+    	color: #fff;
+	}
+	header input[type='submit']{
+		margin-top: 25px!important;
+   	    padding: 3px 8px !important;
+	    background: #718dc7 !important;
+	}
+</style>
+<header>	
+		<div class="container">
+        	<div class="col-md-6">
+            	<div class="sitename-header">
+                	Red Social La Nueva Tierra                </div>
+            </div>	
+            <div class="col-md-6">
+            	<form id="ossn-login" action="https://social.proyectolanuevatierra.com/action/user/login" class="ossn-form" method="post"  enctype='multipart/form-data'><fieldset> <input type="hidden" name="ossn_ts" value="1668007162" />
+ <input type="hidden" name="ossn_token" value="a575673d4a001c51430d58143589051e" /> 
+<div class="row">
+	<div class="col-md-5">
+         <label>Nombre de usuario </label>
+   		 <input type="text" name="username"/>
+         <a href="https://social.proyectolanuevatierra.com/resetlogin">Restablecer su contraseña</a>
+    </div>
+	<div class="col-md-5">
+    <label> Contraseña </label>
+    <input type="password" name="password"/>
+    </div>    
+    <div class="col-md-2">
+    	<input type="submit" value="Iniciar sesión" class="btn btn-primary"/>
+    </div>
+</div>
+
+</fieldset></form>            </div>
+        </div>
+</header>          <div class="ossn-inner-page">    
+  	  		  <div class="container">
+       <div class="row">
+       		<div class="ossn-layout-contents">
+            	 <div class="ossn-system-messages">
+   <div class="row">
+	   <div class="col-md-11 ossn-system-messages-inner">
+    		   		</div>
+	</div>
+</div>    				 <div class="row">
+	<div class="col-md-11 ossn-page-contents">
+ 			<div class="ossn-error-page">
+				<i class="fa fa-exclamation-triangle"></i>
+    			<div class="error-heading">404</div>
+    			<div class="error-text">La página solicitada no está disponible o puede haber sido eliminada.</div>
+			</div>   
+    </div>
+</div>             </div>    
+        </div> 
+	   <footer>
+    <div class="col-md-11">
+        <div class="footer-contents">
+            <div class="ossn-footer-menu">
+                <a class="menu-footer-a_copyrights" href="https://social.proyectolanuevatierra.com/">&copy; COPYRIGHT Red Social La Nueva Tierra</a><a class="menu-footer-about" href="https://social.proyectolanuevatierra.com/site/about">Acerca de</a><a class="menu-footer-site" href="https://social.proyectolanuevatierra.com/site/terms">Términos y Condiciones</a><a class="menu-footer-privacy" href="https://social.proyectolanuevatierra.com/site/privacy">Privacidad</a><a class="menu-footer-Contact" href="https://social.proyectolanuevatierra.com/contact">Contacta con nosotros</a><a class="menu-footer-powered" href="https://www.opensource-socialnetwork.org/">Powered by the Open Source Social Network.</a>            </div>
+                    </div>
+    </div>
+</footer>
+                               
+</div>          </div>    
+		</div>
+    </div>
+               
+</body>
+</html>

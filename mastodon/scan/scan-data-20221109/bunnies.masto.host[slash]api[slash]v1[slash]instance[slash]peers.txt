@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bunnies.masto.host; img-src 'self' https: data: blob: https://bunnies.masto.host; style-src 'self' https://bunnies.masto.host 'nonce-eih6Dkjb1/tR5V4CVx2eBA=='; media-src 'self' https: data: https://bunnies.masto.host; frame-src 'self' https:; manifest-src 'self' https://bunnies.masto.host; connect-src 'self' data: blob: https://bunnies.masto.host https://cdn.masto.host wss://bunnies.masto.host; script-src 'self' https://bunnies.masto.host; child-src 'self' blob: https://bunnies.masto.host; worker-src 'self' blob: https://bunnies.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Etag: W/"3ce6fad70779fbccd8aa22e0d228a0ca"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.838472Z
+X-Request-Id: cf5165b1-d581-4783-a757-666f487839d8
+X-Runtime: 0.004891
+X-Xss-Protection: 0
+
+2fa
+["mastodon.online","friendica.togart.de","friendica.hashy-net.de","friend.geoffray-levasseur.org","friendica.offsite.guru","friendica.mifritscher.de","kudabiverse.com","f.kretschmann.social","t2.thotsofa304.club","herzbu.de","social.tromdienste.de","friendica.myportal.social","friendica.ucy.de","poliverso.org","fri.aethercom.de","friendica.ambag.es","friendica.ironbug.org","fr.readthefinemanual.net","redeyes.club","friendica.daniel-siepmann.de","f.iroiro.party","follow.schmaller.de","quitter.pl","fabler.su","petroskowo.pl","pztrn.online","social.jmueller.eu","friendica.mschmidt-et.de","social.anacreonte.eu","friendica.opencloud.lu","friendica.kommune4.de","f.freinetz.ch","anarchydica.net","social.tyngsboroughma.net","mastodon.social","v2.ebano.social"]
+0
+

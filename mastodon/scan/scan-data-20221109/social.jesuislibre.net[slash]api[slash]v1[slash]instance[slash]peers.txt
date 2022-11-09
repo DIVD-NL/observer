@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.jesuislibre.net; img-src 'self' https: data: blob: https://social.jesuislibre.net; style-src 'self' https://social.jesuislibre.net 'nonce-p72dkaNGmFw7Tz1/IYZutw=='; media-src 'self' https: data: https://social.jesuislibre.net; frame-src 'self' https:; manifest-src 'self' https://social.jesuislibre.net; connect-src 'self' data: blob: https://social.jesuislibre.net https://social.jesuislibre.net wss://social.jesuislibre.net; script-src 'self' https://social.jesuislibre.net; child-src 'self' blob: https://social.jesuislibre.net; worker-src 'self' blob: https://social.jesuislibre.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:43 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.125286Z
+X-Request-Id: 78452182-06fd-4945-9cac-bf2085394efe
+X-Runtime: 0.007033
+X-Xss-Protection: 0
+
+0
+

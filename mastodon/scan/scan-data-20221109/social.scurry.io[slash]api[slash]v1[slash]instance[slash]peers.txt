@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.scurry.io wss://social.scurry.io;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:31 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzr1ia2sQWOX4AALkh
+X-Xss-Protection: 1; mode=block
+
+245
+["octodon.social","ruhr.social","simian.rodeo","graz.social","vulpine.club","jawns.club","freiburg.social","mastodon.ie","toots.dgplug.org","mastodon.cloud","mastodon.nz","infosec.exchange","mastodon.online","col.social","layer8.space","social.coop","troet.cafe","home.social","mastodon.social","mstdn.social","friendica.jb-net.us","queer.party","mastodontech.de","botsin.space","merveilles.town","fosstodon.org","raspberrypi.social","troettroet.de","friend.camp","mastodon.cisti.org","social.tchncs.de","pixelfed.social","sparkly.uni.horse","mas.to","mastodon.art","chaos.social"]
+0
+

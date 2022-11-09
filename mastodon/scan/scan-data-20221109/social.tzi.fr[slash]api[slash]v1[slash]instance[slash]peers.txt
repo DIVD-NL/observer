@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.tzi.fr; img-src 'self' https: data: blob: https://social.tzi.fr; style-src 'self' https://social.tzi.fr 'nonce-pyBtCQtQpwKLKYLzVsHvwg=='; media-src 'self' https: data: https://social.tzi.fr; frame-src 'self' https:; manifest-src 'self' https://social.tzi.fr; connect-src 'self' data: blob: https://social.tzi.fr https://cdn.masto.host wss://social.tzi.fr; script-src 'self' https://social.tzi.fr; child-src 'self' blob: https://social.tzi.fr; worker-src 'self' blob: https://social.tzi.fr
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:51 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.304713Z
+X-Request-Id: 0cd2c78b-a278-408e-b867-cb08cb7c2039
+X-Runtime: 0.007891
+X-Xss-Protection: 0
+
+0
+

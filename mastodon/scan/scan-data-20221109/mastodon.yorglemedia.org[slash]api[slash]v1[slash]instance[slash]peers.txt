@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.yorglemedia.org; img-src 'self' https: data: blob: https://mastodon.yorglemedia.org; style-src 'self' https://mastodon.yorglemedia.org 'nonce-skCRz5NZ/yW6XzD/E5/Upw=='; media-src 'self' https: data: https://mastodon.yorglemedia.org; frame-src 'self' https:; manifest-src 'self' https://mastodon.yorglemedia.org; connect-src 'self' data: blob: https://mastodon.yorglemedia.org https://mastodon.yorglemedia.org wss://mastodon.yorglemedia.org; script-src 'self' https://mastodon.yorglemedia.org; child-src 'self' blob: https://mastodon.yorglemedia.org; worker-src 'self' blob: https://mastodon.yorglemedia.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:32 GMT
+Etag: W/"c8c1fe2d6db2395a991ae363e8391ec4"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.676711Z
+X-Request-Id: 01bf40b1-33bc-4da0-8fee-598189b25ce6
+X-Runtime: 0.019486
+X-Xss-Protection: 0
+
+26
+["masthead.social","social.tchncs.de"]
+0
+

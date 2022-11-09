@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:48 GMT
+Etag: W/"a382fff323cbce8da2bd637a6ca2cb15"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T15:20:00.228615Z
+X-Request-Id: 7fc109b3-ddb4-4d2f-96b4-9a9262cc43a0
+X-Runtime: 0.005086
+X-Xss-Protection: 1; mode=block
+
+b6
+["fosstodon.org","mastodon.lol","sfba.social","mastodon.art","mstdn.social","mastodon.ninja","mastodon.social","toot.community","mastodon.nl","mastodon.online","mastodon-belgium.be"]
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.pachamamita.de; img-src 'self' https: data: blob: https://mastodon.pachamamita.de; style-src 'self' https://mastodon.pachamamita.de 'nonce-RV5dUAw78F03pEbLQYrQkw=='; media-src 'self' https: data: https://mastodon.pachamamita.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.pachamamita.de; connect-src 'self' data: blob: https://mastodon.pachamamita.de https://mastodon.pachamamita.de wss://mastodon.pachamamita.de; script-src 'self' https://mastodon.pachamamita.de; child-src 'self' blob: https://mastodon.pachamamita.de; worker-src 'self' blob: https://mastodon.pachamamita.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:01 GMT
+Etag: W/"88fa3cdc6fd7425fdf92aab6c45552f2"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.265105Z
+X-Request-Id: 118947a2-d55c-444e-8a71-d7f9a88b38f6
+X-Runtime: 0.007876
+X-Xss-Protection: 0
+
+67a
+["kirche.social","mas.to","am.pirateradio.social","podcasts.social","climatejustice.social","mastodon.ar.al","mastodon.green","mstdn.io","mastodon.ostertag.team","nerdculture.de","subversive.zone","mastodon.g2od.ch","freiburg.social","mastodon.nu","social.eden.one","wien.rocks","social.tromdienste.de","social.cologne","aipi.social","zug.network","medibubble.org","bildung.social","floss.social","aut.social","fediverse.one","m.tpshd.de","docviper.de","pfalz.social","flokinet.social","literatur.social","social.finkhaeuser.de","feuerwehr.social","pleroma.kalterwinter.info","mastodon.flying-snail.de","kif.rocks","legal.social","mastodon.stuttgart.international","hub.debenny.de","social.dev-wiki.de","gruene.social","metalhead.club","netzkms.de","dizl.de","fosstodon.org","qoto.org","mastodon.bayern","nrw.social","krefeld.life","toot.community","machteburch.social","deppenkessel.de","social.bau-ha.us","muenchen.social","social.anoxinon.de","kanoa.de","kosmos.social","xn--baw-joa.social","norden.social","botsin.space","mastodon.art","mstdn.jp","infosec.exchange","ruhr.social","fedi.at","hessen.social","c.im","mamot.fr","nahe.social","friendica.daniel-siepmann.de","rls.social","mastodontech.de","mastodon.xyz","sueden.social","dresden.network","social.kabi.tk","rollenspiel.social","social.bund.de","loma.ml","swiss.social","social.coop","social.linux.pizza","mobilize.berlin","todon.eu","mastodon.cloud","troet.wandel.social","layer8.space","mstdn.social","det.social","chaos.social","linuxrocks.online","digitalcourage.social","mastodon.online","social.tchncs.de","openbiblio.social","troet.cafe","fediscience.org","anonsys.net","mastodon.social"]
+0
+

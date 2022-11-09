@@ -1,0 +1,109 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx
+Set-Cookie: ocdy1pyiq7cm=320193c0e57ae92e7646505fa0b46bd8; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=oUag9w9PwyQcD3%2FSBB0PV%2Bxw09McVLLahteSfU0tsTZgEIJENxAg0W0gLOaVGDAIhi5f5OvDB9ETaMXSKzZkW4lI23mBK4jDF3SZL9ztQM9OYP53xLysPxu9le1xWZ3Q; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocdy1pyiq7cm=1d1ea3f020928325ebc378f2a9578587; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: Y2u-1rkeIEwAAFw2srIAAAAF
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="de" data-locale="de" >
+	<head
+ data-requesttoken="TtoA36PWqkuNhys27Jjd0MhNubJKXftpPUXqmhETk9M=:N/FYkNCQywDc/1wZray5n7x6+uQkL7ULUhOy9VBV+JY=">
+		<meta charset="utf-8">
+		<title>
+		Musikkapelle Buxheim		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#009130">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=74">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=74">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#009130">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=74">
+		<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=35c36e89-74">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-74">
+<link rel="stylesheet" href="/core/css/guest.css?v=35217dc8-74">
+		<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/index.php/core/js/oc.js?v=35217dc8"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/core-common.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/core-main.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/core/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/core-files_fileinfo.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/core-files_client.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/core/js/backgroundjobs.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/core-login.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/encryption/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/encryption/js/encryption.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/files_sharing/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/files_sharing-main.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/accessibility/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/dist/accessibility-accessibilityoca.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/files_rightclick/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/files_rightclick/js/script.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/files_rightclick/js/files.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/theming/l10n/de.js?v=35217dc8-74"></script>
+<script nonce="VHRvQTM2UFdxa3VOaHlzMjdKamQwTWhOdWJKS1hmdHBQVVhxbWhFVGs5TT06Ti9GWWtOQ1F5d0RjLzF3WnJheTVuN3g2K3VRa0w3VUxVaE95OVZCVitKWT0=" defer src="/apps/theming/js/theming.js?v=35217dc8-74"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Musikkapelle Buxheim"/><meta property="og:description" content=""/><meta property="og:site_name" content="Musikkapelle Buxheim"/><meta property="og:url" content="https://cloud.musikkapellebuxheim.de/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.musikkapellebuxheim.de/index.php/apps/theming/icon?v=74"/><style>:root { --color-primary-text: #ffffff; }</style><link rel="stylesheet" href="/index.php/apps/theming/styles?v=74"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			Diese Anwendung benötigt JavaScript zum ordnungsgemäßen Betrieb. Bitte <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">aktiviere JavaScript</a> und lade die Seite neu.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC42LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC42IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5tdXNpa2thcGVsbGVidXhoZWltLmRlXC9vY3NcL3YyLnBocFwvYXBwc1wvZmlsZXNcL2FwaVwvdjFcL2RpcmVjdEVkaXRpbmciLCJldGFnIjoiZjA0MDMwZmMwNWNlYmJiMmFiOGI5OGYxOTVhMzcwYjkifSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sImNpcmNsZXMiOnsidmVyc2lvbiI6IjI0LjAuMSIsInN0YXR1cyI6eyJnbG9iYWxTY2FsZSI6ZmFsc2V9LCJzZXR0aW5ncyI6eyJmcm9udGVuZEVuYWJsZWQiOnRydWUsImFsbG93ZWRDaXJjbGVzIjoyNjIxNDMsImFsbG93ZWRVc2VyVHlwZXMiOjMxLCJtZW1iZXJzTGltaXQiOi0xfSwiY2lyY2xlIjp7ImNvbnN0YW50cyI6eyJmbGFncyI6eyIxIjoiRWluemVsbiIsIjIiOiJQZXJzXHUwMGY2bmxpY2giLCI0IjoiU3lzdGVtIiwiOCI6IlNpY2h0YmFyIiwiMTYiOiJPZmZlbiIsIjMyIjoiRWlubGFkZW4iLCI2NCI6IkJldHJpdHRzYW5mcmFnZSIsIjEyOCI6IkZyZXVuZGUiLCIyNTYiOiJQYXNzd29ydGdlc2NoXHUwMGZjdHp0IiwiNTEyIjoiS2VpbiBCZXNpdHplciIsIjEwMjQiOiJWZXJzdGVja3QiLCIyMDQ4IjoiQmFja2VuZCIsIjQwOTYiOiJMb2thbCIsIjgxOTIiOiJSb290IiwiMTYzODQiOiJFaW5sYWR1bmcgenUgS3JlaXMiLCIzMjc2OCI6IkZlZGVyYXRlZCIsIjY1NTM2IjoiRWluaFx1MDBlNG5nZXB1bmt0In0sInNvdXJjZSI6eyJjb3JlIjp7IjEiOiJOZXh0Y2xvdWQtQmVudXR6ZXIiLCIyIjoiTmV4dGNsb3VkLUdydXBwZSIsIjQiOiJFLU1haWwtQWRyZXNzZSIsIjgiOiJLb250YWt0IiwiMTYiOiJLcmVpcyIsIjEwMDAwIjoiTmV4dGNsb3VkLUFwcCJ9LCJleHRyYSI6eyIxMDAwMSI6IkNpcmNsZXMgQXBwIiwiMTAwMDIiOiJBZG1pbiBDb21tYW5kIExpbmUifX19LCJjb25maWciOnsiY29yZUZsYWdzIjpbMSwyLDRdLCJzeXN0ZW1GbGFncyI6WzUxMiwxMDI0LDIwNDhdfX0sIm1lbWJlciI6eyJjb25zdGFudHMiOnsibGV2ZWwiOnsiMSI6Ik1pdGdsaWVkIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbmlzdHJhdG9yIiwiOSI6IkVpZ2VudFx1MDBmY21lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLm11c2lra2FwZWxsZWJ1eGhlaW0uZGVcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjMxLCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjp0cnVlLCJpbmNvbWluZyI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX19fSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjEwLCJlbmZvcmNlTm9uQ29tbW9uUGFzc3dvcmQiOnRydWUsImVuZm9yY2VOdW1lcmljQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VTcGVjaWFsQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6ZmFsc2UsImFwaSI6eyJnZW5lcmF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5tdXNpa2thcGVsbGVidXhoZWltLmRlXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLm11c2lra2FwZWxsZWJ1eGhlaW0uZGVcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjE0LjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjp0cnVlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjp0cnVlfSwicmVnaXN0cmF0aW9uIjp7ImVuYWJsZWQiOnRydWUsImFwaVJvb3QiOiJcL29jc1wvdjIucGhwXC9hcHBzXC9yZWdpc3RyYXRpb25cL2FwaVwvdjFcLyIsImFwaUxldmVsIjoidjEifSwidGhlbWluZyI6eyJuYW1lIjoiTXVzaWtrYXBlbGxlIEJ1eGhlaW0iLCJ1cmwiOiJodHRwczpcL1wvbXVzaWtrYXBlbGxlYnV4aGVpbS5kZSIsInNsb2dhbiI6IiIsImNvbG9yIjoiIzAwOTEzMCIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDkxMzAiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDkxMzAiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA5MTMwIiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC5tdXNpa2thcGVsbGVidXhoZWltLmRlXC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NzQiLCJiYWNrZ3JvdW5kIjoiIzAwOTEzMCIsImJhY2tncm91bmQtcGxhaW4iOnRydWUsImJhY2tncm91bmQtZGVmYXVsdCI6dHJ1ZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC5tdXNpa2thcGVsbGVidXhoZWltLmRlXC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NzQiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLm11c2lra2FwZWxsZWJ1eGhlaW0uZGVcL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dXNlU3ZnPTEmdj03NCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTXVzaWtrYXBlbGxlIEJ1eGhlaW0iLCJ1cmwiOiJodHRwczpcL1wvbXVzaWtrYXBlbGxlYnV4aGVpbS5kZSIsInNsb2dhbiI6IiIsImNvbG9yIjoiIzAwOTEzMCIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6Ijc0In0=">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Musikkapelle Buxheim								</h1>
+																	<img src="/index.php/apps/theming/image/logo?useSvg=1&amp;v=74"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins" class="alternative-logins">
+                    <a class="button register-button" href="/index.php/apps/registration/" >
+                Registrieren            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://musikkapellebuxheim.de" target="_blank" rel="noreferrer noopener" class="entity-name">Musikkapelle Buxheim</a>			</p>
+		</footer>
+	</body>
+</html>

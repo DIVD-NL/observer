@@ -1,0 +1,1243 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Countrycode: BE
+Date: Wed, 09 Nov 2022 15:22:50 GMT
+Surrogate-Control: content="ESI/1.0"
+Via: 1.1 b1ad21a1c87634925e5dc35bca5ca612.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: oQ4ZsEDFvx9G6RnvclnUHACoaEyMMDMOPJ3QvJo3GrLaX0rIdQANrA==
+X-Amz-Cf-Pop: CDG50-C1
+X-Cache: Error from cloudfront
+X-Clientip: 193.105.73.176
+
+14377
+ <!DOCTYPE html>
+<html lang="es">
+ <head>
+   <script>
+ var country = 'BE';
+ var isSpainOrLatamUser = true;
+</script>
+ <title>No se ha encontrado la página</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="Publicación de noticias sobre gadgets y tecnología. Últimas tecnologías en electrónica de consumo y novedades tecnológicas en móviles, tablets, informática, etc">
+      <meta name="robots" content="noodp">
+<meta property="fb:admins" content="100000716994885">
+<meta property="fb:pages" content="41267802635">
+<meta property="fb:app_id" content="355823546895">
+<meta name="application-name" content="Xataka">
+<meta name="msapplication-tooltip" content="Gadgets y tecnología: últimas tecnologías en electrónica de consumo - XATAKA">
+<meta name="msapplication-starturl" content="https://www.xataka.com">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="msapplication-task" content="name=Lo mejor;action-uri=https://www.xataka.com/lomejor;icon-uri=https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-lomejor-icon.ico">
+ <script>
+ window.ga = window.ga || function () { (window.ga.q = window.ga.q || []).push(arguments); };
+ window.googletag = window.googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ window.dataLayer = [{"site":"XTK","siteSection":"errorPage","vertical":"Technology","amp":"no"}];
+ window.dataLayer[0].visitor_country = country;
+ googletag.cmd.push(function(){ googletag.pubads().setTargeting("site", "XTK").setTargeting("siteSection", "errorPage").setTargeting("vertical", "Technology").setTargeting("amp", "no").setTargeting('visitor_country', country); });
+</script>
+   <script type="text/javascript">
+
+ var gdprAppliesGlobally = true;
+
+ (function() {
+  function n() {
+   if (!window.frames.__cmpLocator) {
+    if (document.body && document.body.firstChild) {
+     var e = document.body;
+     var t = document.createElement("iframe");
+     t.style.display = "none";
+     t.name = "__cmpLocator";
+     t.title = "cmpLocator";
+     e.insertBefore(t, e.firstChild)
+    } else {
+     setTimeout(n, 5)
+    }
+   }
+  }
+
+  function e(e, t, n) {
+   if (typeof n !== "function") {
+    return
+   }
+   if (!window.__cmpBuffer) {
+    window.__cmpBuffer = []
+   }
+   if (e === "ping") {
+    n({
+     gdprAppliesGlobally: window.gdprAppliesGlobally,
+     cmpLoaded: false
+    }, true)
+   } else {
+    window.__cmpBuffer.push({
+     command: e,
+     parameter: t,
+     callback: n
+    })
+   }
+  }
+  e.stub = true;
+
+  function t(r) {
+   if (!window.__cmp || window.__cmp.stub !== true) {
+    return
+   }
+   if (!r.data) {
+    return
+   }
+   var a = typeof r.data === "string";
+   var e;
+   try {
+    e = a ? JSON.parse(r.data) : r.data
+   } catch (t) {
+    return
+   }
+   if (e.__cmpCall) {
+    var o = e.__cmpCall;
+    window.__cmp(o.command, o.parameter, function(e, t) {
+     var n = {
+      __cmpReturn: {
+       returnValue: e,
+       success: t,
+       callId: o.callId
+      }
+     };
+     r.source.postMessage(a ? JSON.stringify(n) : n, "*")
+    })
+   }
+  }
+  if (typeof window.__cmp !== "function") {
+   window.__cmp = e;
+   if (window.addEventListener) {
+    window.addEventListener("message", t, false)
+   } else {
+    window.attachEvent("onmessage", t)
+   }
+  }
+  n()
+ })();
+
+
+ (function(e) {
+  var t = document.createElement("script");
+  t.id = "spcloader";
+  t.type = "text/javascript";
+  t.async = true;
+  t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+  t.charset = "utf-8";
+  var n = document.getElementsByTagName("script")[0];
+  n.parentNode.insertBefore(t, n)
+ })("7bd10a97-724f-47b3-8e9f-867f0dea61c8");
+
+ function scrollListener(e) {
+  var o = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight || 0,
+   n = Math.max(document.body.scrollHeight || 0, document.documentElement.scrollHeight || 0, document.body.offsetHeight || 0, document.documentElement.offsetHeight || 0, document.body.clientHeight || 0, document.documentElement.clientHeight || 0);
+  30 <= (window.pageYOffset || document.body.scrollTop || document.documentElement.scrollTop || 0) / (n - o) * 100 && (Didomi.setUserAgreeToAll(), window.removeEventListener("scroll", scrollListener))
+ }
+
+ window.didomiOnReady = window.didomiOnReady || [], window.didomiOnReady.push(function(e) {
+  e.notice.isVisible() && window.addEventListener("scroll", scrollListener)
+ });
+
+</script>
+<script type="didomi/javascript">
+ if (!window.frames['__tcfapiLocator']) {
+  if (document.head) {
+   var head = document.head,
+   iframe = document.createElement('iframe');
+   iframe.style.cssText = 'display:none';
+   iframe.name = '__tcfapiLocator';
+   head.appendChild(iframe);
+  }
+ }
+</script><script>
+ window.WSL2 = window.WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.enableDidomiOverlay = 1;
+</script>
+
+ <script type="didomi/javascript" async="async" data-vendor="didomi:google" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+  window.ga = window.ga || function () { (window.ga.q = window.ga.q || []).push(arguments); };
+  window.googletag = window.googletag || {};
+  googletag.cmd = googletag.cmd || [];
+ </script><script>
+   var apstagSlots = [       {
+   slotID: 'div-gpt-top',
+   slotName: '/1018282/XTK-TOP-portada',
+   sizes: [[1000,250],[970,250],[728,90]]
+  },
+   {
+   slotID: 'div-gpt-lat',
+   slotName: '/1018282/XTK-LAT-portada',
+   sizes: [[300,600],[300,250],[160,600]]
+  },
+   {
+   slotID: 'div-gpt-lat2',
+   slotName: '/1018282/XTK-LAT2-portada',
+   sizes: [[300,600],[300,250],[160,600]]
+  },
+   {
+   slotID: 'div-gpt-cen',
+   slotName: '/1018282/XTK-CEN-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+   {
+   slotID: 'div-gpt-cen2',
+   slotName: '/1018282/XTK-CEN2-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+   {
+   slotID: 'div-gpt-bot2',
+   slotName: '/1018282/XTK-BOT2-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+ ];
+  </script> <script async src="https://img.weblogssl.com/LPbackend/vendor/prebid-gdpr-v6.21.1.js?v=ccfcadcb"></script>
+<script type="didomi/javascript" data-vendor="didomi:google">
+ var PREBID_TIMEOUT = 3000;
+ var adUnits = [{"code":"div-gpt-top","mediaTypes":{"banner":{"sizes":[[1000,250],[970,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651982"}},{"bidder":"criteo","params":{"zoneId":"1079587"}},{"bidder":"appnexus","params":{"placementId":"11286623"}},{"bidder":"ix","params":{"siteId":"309129","size":[970,250]}},{"bidder":"ix","params":{"siteId":"309129","size":[728,90]}},{"bidder":"ix","params":{"siteId":"309129","size":[970,90]}},{"bidder":"richaudience","params":{"pid":"SbWjYDXIu3","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a969d1b018282d0265bd20a143100ae"}}]},{"code":"div-gpt-lat","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651992"}},{"bidder":"criteo","params":{"zoneId":"1079592"}},{"bidder":"appnexus","params":{"placementId":"11286624"}},{"bidder":"ix","params":{"siteId":"310892","size":[300,600]}},{"bidder":"ix","params":{"siteId":"310892","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310892","size":[160,600]}},{"bidder":"richaudience","params":{"pid":"u1Z52cybzB","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a96903e018282d02a5bd20a0bb100b6"}}]},{"code":"div-gpt-lat2","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651986"}},{"bidder":"criteo","params":{"zoneId":"1079590"}},{"bidder":"appnexus","params":{"placementId":"11286625"}},{"bidder":"ix","params":{"siteId":"310894","size":[300,600]}},{"bidder":"ix","params":{"siteId":"310894","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310894","size":[160,600]}},{"bidder":"richaudience","params":{"pid":"522VPN3mAm","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a96954e018282d02eb5d20a108500b1"}}]},{"code":"div-gpt-cen","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652000"}},{"bidder":"criteo","params":{"zoneId":"1079594"}},{"bidder":"appnexus","params":{"placementId":"11286626"}},{"bidder":"ix","params":{"siteId":"310896","size":[970,250]}},{"bidder":"ix","params":{"siteId":"310896","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310896","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"0e32PFT7Uc","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a96954e018282d02eb5d20a048900af"}}]},{"code":"div-gpt-cen2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652158"}},{"bidder":"criteo","params":{"zoneId":"1079589"}},{"bidder":"appnexus","params":{"placementId":"11286627"}},{"bidder":"ix","params":{"siteId":"310898","size":[970,250]}},{"bidder":"ix","params":{"siteId":"310898","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310898","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"b3zJGcnH8c","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a969d1b018282d0265bd20a081900ac"}}]},{"code":"div-gpt-bot2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652162"}},{"bidder":"criteo","params":{"zoneId":"1079588"}},{"bidder":"appnexus","params":{"placementId":"11286628"}},{"bidder":"ix","params":{"siteId":"310900","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310900","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"IEb4gGgCc2","supplyType":"site"}},{"bidder":"yahoossp","params":{"dcn":"8a96954e018282d02eb5d1fafd170061","pos":"8a96903e018282d02a5bd20a00f600b4"}}]}];
+ var pbjs = pbjs || {};
+ pbjs.que = pbjs.que || [];
+   googletag.cmd.push(function() { googletag.pubads().disableInitialLoad(); });
+  pbjs.bidderSettings = {
+ rubicon: { bidCpmAdjustment: function(bidCpm) { return 0.9 * bidCpm; } }
+};
+
+pbjs.que.push(function() {
+    
+   pbjs.setConfig({
+    consentManagement: { cmpApi: 'iab', timeout: 2000, defaultGdprScope : true },
+    priceGranularity: 'dense'
+   });
+   });
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({ pubID: '3500', adServer: 'googletag', bidTimeout: 2e3 });
+
+(function() {
+ var bidders = ['a9', 'prebid'];
+ var requestManager = { adserverRequestSent: false };
+
+ bidders.forEach(function(bidder) { requestManager[bidder] = false; });
+
+ function allBiddersBack() {
+  return bidders.reduce(function (p, c) { return p && requestManager[c]; }, true);
+ }
+
+  function sendAdserverRequest() {
+    if (requestManager.adserverRequestSent === true) { return; }
+    requestManager.adserverRequestSent = true;
+    pbjs.adserverRequestSent = true;
+    googletag.cmd.push(function() {
+           apstag.setDisplayBids();
+      googletag.pubads().setRequestNonPersonalizedAds(window.ConsentforGoogleIs);
+               pbjs.onEvent('setTargeting', function() { googletag.pubads().refresh(); });
+             pbjs.setTargetingForGPTAsync();
+              });
+  }
+
+ function headerBidderBack(bidder) {
+  if (requestManager.adserverRequestSent === true) { return; }
+  if (bidders.indexOf(bidder) >= 0) { requestManager[bidder] = true; }
+  if (allBiddersBack()) { sendAdserverRequest(); }
+ }
+
+ function requestBids(apstagSlots, adUnits, bidTimeout) {
+  
+  pbjs.que.push(function() {
+   pbjs.addAdUnits(adUnits);
+   pbjs.requestBids({ bidsBackHandler: function (bidResponses) { headerBidderBack('prebid'); } });
+  });
+
+     apstag.fetchBids({ slots: apstagSlots, timeout: bidTimeout }, function(bids) { headerBidderBack('a9'); });
+   }
+
+ requestBids(apstagSlots, adUnits, PREBID_TIMEOUT)
+ setTimeout(function() { sendAdserverRequest(); }, PREBID_TIMEOUT);
+
+ })();
+
+</script>
+ <script>
+  googletag.cmd.push(function() {
+                googletag.defineSlot('/1018282/XTK-TOP-portada', [[1000,250],[970,250],[728,90]], 'div-gpt-top')                 .setTargeting('pos', 'top').setTargeting('fold', 'atf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XTK-LAT-portada', [[300,600],[300,250],[160,600]], 'div-gpt-lat')                 .setTargeting('pos', '1').setTargeting('fold', 'atf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XTK-LAT2-portada', [[300,600],[300,250],[160,600]], 'div-gpt-lat2')                 .setTargeting('pos', '2').setTargeting('fold', 'btf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XTK-CEN-portada', [[970,250],[728,90],[300,250]], 'div-gpt-cen')                 .setTargeting('pos', 'cen1').setTargeting('fold', 'mtf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XTK-CEN2-portada', [[970,250],[728,90],[300,250]], 'div-gpt-cen2')                 .setTargeting('pos', 'nat1').setTargeting('fold', 'mtf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XTK-BOT2-portada', [[970,250],[728,90],[300,250]], 'div-gpt-bot2')                 .setTargeting('pos', 'footer').setTargeting('fold', 'btf')   .addService(googletag.pubads());
+       googletag.defineOutOfPageSlot('/1018282/XTK-INT-portada', 'div-gpt-int')                 .setTargeting('pos', 'inread').setTargeting('fold', 'mtf')   .addService(googletag.pubads());       googletag.defineSlot('/1018282/XTK-INT2-portada', [1,1], 'div-gpt-int2')               .addService(googletag.pubads());
+ 
+     googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+ });
+</script>
+  
+   <script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@type":"WebPage","headline":"No se ha encontrado la p\u00e1gina","url":"https:\/\/www.xataka.com"}
+ </script>
+<!--[if gte IE 9]>
+<link rel="shortcut icon" type="image/x-icon" href="https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-home-icon.ico">
+<link rel=icon type="image/ico" href="https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-home-icon.ico">
+<![endif]-->
+<link rel="shortcut icon" href="https://img.weblogssl.com/css/xataka/p/common/favicon.ico" type="image/ico">
+<link rel="apple-touch-icon" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-57-precomposed.png">
+<link rel="preconnect" href="https://static.sunmedia.tv/" crossorigin>
+<link rel="dns-prefetch" href="https://static.sunmedia.tv/">
+<link rel="preconnect" href="https://static.criteo.net/" crossorigin>
+<link rel="dns-prefetch" href="https://static.criteo.net/">
+<link rel="preconnect" href="https://ib.adnxs.com/" crossorigin>
+<link rel="dns-prefetch" href="https://ib.adnxs.com/">
+<link rel="preconnect" href="https://bidder.criteo.com/" crossorigin>
+<link rel="dns-prefetch" href="https://bidder.criteo.com/">
+<link rel="preload" as="style" href="https://img.weblogssl.com/css/xataka/p/skin-site-xataka-d/main.css?v=1667991649">
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xataka/p/v6/ie7.css">
+<![endif]-->
+      <link rel="canonical" href="https://www.xataka.com">
+ <link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xataka/p/skin-site-xataka-d/main.css?v=1667991649">
+ </head>
+ <body class="js-desktop js-body prod">
+    <script>dataLayer.push({ contentGroup1: '404' });</script>
+   <script type="didomi/javascript">
+ function sendcomscore() {
+
+ var s = document.createElement("script"),
+ el = document.getElementsByTagName("script")[0];
+ s.setAttribute("data-vendor", "iab:77");
+ s.setAttribute("type", "text/javascript");
+ s.text = 'var cs_ucfr = ""; \
+ if (Didomi.getUserStatusForVendor(77)) { \
+  var cs_ucfr = "1"; \
+ } else if (Didomi.getUserStatusForVendor(77) == false) { \
+  var cs_ucfr = "0"; \
+ } \
+ \
+ var _comscore = _comscore || []; \
+ var configs = { \
+  c1: "2", \
+  c2: "6035191", \
+  cs_ucfr: cs_ucfr \
+ }; \
+ var keyword = keyword || ""; \
+ if (keyword) { \
+  configs.options = { \
+   url_append: "comscorekw=" + keyword \
+  }; \
+ } \
+ _comscore.push(configs); \
+ var s = document.createElement("script"), \
+ el = document.getElementsByTagName("script")[0]; \
+ \
+ s.src = "https://sb.scorecardresearch.com/cs/6035191/beacon.js"; \
+ \
+ window.didomiEventListeners = []; \
+ \
+ el.parentNode.insertBefore(s, el);';
+ el.parentNode.insertBefore(s, el);
+}
+
+if(Didomi.getUserStatusForVendor(77) == undefined){
+
+ window.didomiEventListeners = window.didomiEventListeners || [];
+ window.didomiEventListeners.push({
+  event: 'consent.changed',
+  listener: function(context) {
+
+  sendcomscore()
+  }
+ });
+} else {
+ sendcomscore()
+}</script>
+
+   <div class="customize-me">
+   <div class="head-content-favs">
+    <div class="head-container head-container-with-ad head-container-with-corner m-favicons-compact m-head-masthead">
+ <div class="head head-with-ad is-init">
+  <div class="head-favicons-container">
+ <nav class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a id="favicons-toggle" href="https://www.webedia.es/" data-target="#head-favicons"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+ </nav>
+</div>
+  <div class="masthead-site-lead ">
+ <div class="masthead-container">
+  <div class="masthead-logo">
+   <h1 class="masthead-logo-brand">
+    <a href="/" class="masthead-brand">Xataka</a>
+   </h1>
+     </div>
+       <nav class="masthead-actions">
+    <ul class="masthead-actions-list">
+     <li class="masthead-actions-list-item"><a href="#sections" class="masthead-actions-menu m-v1 js-toggle" data-searchbox="#search-field-1">Menú</a></li>
+     <li class="masthead-actions-list-item"><a href="#headlines" class="masthead-actions-nuevo m-v1 js-toggle">Nuevo</a></li>
+    </ul>
+   </nav>
+   </div>
+</div>
+     <div class="masthead-site-nav-container js-nano-container">
+ <nav class="masthead-site-nav ">
+     <a class="masthead-nav-search js-toggle" data-searchbox="#search-field-2" href="#search"></a>
+    <ul class="masthead-nav-topics">
+                      <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/analisis">ANÁLISIS</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/seleccion">XATAKA SELECCIÓN</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/moviles">MÓVILES</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/medicina-y-salud">CIENCIA</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.getrevue.co/profile/xataka">NEWSLETTER</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/la-cacharreria/search">LA CACHARRERÍA</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/consejos/mejores-guias-compra-moviles-informatica-audio-tecnologia-xataka">GUÍAS DE COMPRA</a>
+     </li>
+         </ul>
+  <ul class="masthead-nav-social">
+    <li class="masthead-nav-social-item"><a href="https://www.twitch.tv/elstream" class="masthead-nav-social-anchor masthead-social-twitch" rel="nofollow">Twitch</a></li>
+    <li class="masthead-nav-social-item"><a href="https://www.tiktok.com/@xataka" class="masthead-nav-social-anchor masthead-social-tiktok" rel="nofollow">Tiktok</a></li>
+    <li class="masthead-nav-social-item"><a href="https://telegram.me/xataka" class="masthead-nav-social-anchor masthead-social-telegram" rel="nofollow">Telegram</a></li>
+    <li class="masthead-nav-social-item"><a href="https://instagram.com/xataka" class="masthead-nav-social-anchor masthead-social-instagram" rel="nofollow">Instagram</a></li>
+    <li class="masthead-nav-social-item"><a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="masthead-nav-social-anchor masthead-social-youtube" rel="nofollow">Youtube</a></li>
+    <li class="masthead-nav-social-item"><a href="https://twitter.com/xataka" class="masthead-nav-social-anchor masthead-social-twitter" rel="nofollow">Twitter</a></li>
+ </ul>
+ </nav>
+</div>
+   </div>
+</div>
+ <div class="masthead-nav-brandsections js-branded-tabs">
+ <div class="masthead-nav-brandsections-inner">
+  <span class="masthead-nav-brandsections-prev js-prev-btn-container" style="display:none;">
+   <button class="masthead-nav-brandsections-prev-btn js-prev-btn"></button>
+  </span>
+  <span class="masthead-nav-brandsections-next js-next-btn-container" style="display:none;">
+   <button class="masthead-nav-brandsections-next-btn js-next-btn"></button>
+  </span>
+  <ul class="masthead-nav-brandsections-list js-tabs-list">
+   <li class="masthead-nav-brandsections-item">PARTNERS</li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Innovación LG" href="/tecnologialg" class="masthead-nav-brandsections-link tecnologialg">
+      Innovación LG
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Innovación Volvo" href="/innovacionvolvo" class="masthead-nav-brandsections-link innovacionvolvo">
+      Innovación Volvo
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Tecnologia Midea" href="/tecnologiamidea" class="masthead-nav-brandsections-link tecnologiamidea">
+      Tecnologia Midea
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Hyundai Full Electric" href="/fullelectric" class="masthead-nav-brandsections-link fullelectric">
+      Hyundai Full Electric
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Hola, somos HONOR" href="/holasomoshonor" class="masthead-nav-brandsections-link holasomoshonor">
+      Hola, somos HONOR
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Planeta Fantasy" href="/planetafantasy" class="masthead-nav-brandsections-link planetafantasy">
+      Planeta Fantasy
+     </a>
+    </li>
+     </ul>
+ </div>
+</div>
+
+    <div class="page-container">
+     <div class="content-container">
+      <main>
+       <div class='article m-is-error'>
+	<div class='article-header'>
+		<h1>Lo sentimos!</h1>
+	</div>
+	<div class='article-content'>
+		<div class='blob'>
+			<h2>La página que buscas no existe</h2>
+			<p>Quizá has escrito mal la dirección, o la hemos roto nosotros.</p>
+			<p>Puedes mirar en los <a href="/archivos">archivos de Xataka</a> o usar este buscador para encontrar lo que quieres:</p>
+		</div>
+		<div class='article-asset-normal'>
+			<div class='asset-content'>
+				<div class='search-box search-box-block'>
+					<div class='search-form js-search-form'>
+						<input id='search-field-4' type='text' placeholder="Buscar en " data-container='#search-container-4' class='search-container-4'>
+						<button class='search-button js-search-button' data-field='#search-field-4'>Buscar</button>
+					</div>
+				</div>
+				<section id='search-container-4' class='js-search-results'></section>
+			</div>
+		</div>
+	</div>
+</div>
+      </main>
+      <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Footer = {'moduleConf' : 'c1'};
+</script>
+ <footer class="foot js-foot">
+ <div class="wrapper foot-wrapper foot-wrapper-show">
+  <div id="newsletter" class="newsletter-box">
+   <div class="menu-follow foot-menu-follow">
+    <span class="item-meta foot-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a href="http://twitter.com/xataka" class="icon-twitter link-twitter" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+ </li>
+ <li>
+  <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+ </li>
+ <li>
+  <a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a>
+ </li>
+ <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+ <li>
+  <a href="https://flipboard.com/@xataka" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+ </li>
+ <li>
+  <a href="https://www.linkedin.com/company/11275845/" class="icon-linkedin link-linkedin" rel="nofollow">LinkedIn</a>
+ </li>
+ <li>
+  <a class="icon-tiktok link-tiktok" href="https://www.tiktok.com/@xataka" rel="nofollow">Tiktok</a>
+ </li>
+</ul>
+   </div>
+  </div>
+  <nav class="menu-categories foot-menu-categories">
+   <p class="nav-heading">En Xataka hablamos de...</p>
+   <ul>
+   <li><a class="list-item foot-list-item" href="/categoria/componentes">Componentes</a></li>   <li><a class="list-item foot-list-item" href="/categoria/ordenadores">Ordenadores</a></li>   <li><a class="list-item foot-list-item" href="/categoria/analisis">Análisis</a></li>   <li><a class="list-item foot-list-item" href="/categoria/medicina-y-salud">Medicina y Salud</a></li>   <li><a class="list-item foot-list-item" href="/categoria/moviles">Móviles</a></li>   <li><a class="list-item foot-list-item" href="/categoria/tablets">Tablets</a></li>    <li><a class="list-item foot-list-item" href="/tag/apple">Apple</a></li>   <li><a class="list-item foot-list-item" href="/tag/inteligencia-artificial">Inteligencia artificial</a></li>   <li><a class="list-item foot-list-item" href="/tag/despeja-la-x">Despeja la X</a></li>   <li><a class="list-item foot-list-item" href="/tag/samsung">Samsung</a></li>   <li><a class="list-item foot-list-item" href="/tag/telefono-android">Teléfono Android</a></li>   <li><a class="list-item foot-list-item" href="/tag/telefono-samsung">Teléfono Samsung</a></li> </ul>   <p class="view-even-more"><a href="/archivos" class="btn">Ver más temas</a></p>
+  </nav>
+     <script>
+ document.write('\
+  <div class="search-box foot-search">\
+   <div class="search-form js-search-form">\
+    <input id="search-field-3" type="text" placeholder="Buscar en Xataka" class="search-container-3" data-container="#search-container-3">\
+    <button class="search-button js-search-button" data-field="#search-field-3">Buscar</button>\
+   </div>\
+  </div>')
+</script>   <div id="search-container-3" class="js-search-results"></div>
+   </div>
+</footer>
+<script>
+ (function() {
+  var form = document.createElement('form');
+  form.method = 'POST';
+  form.classList.add('js-subscription', 'newsletter-form', 'foot-newsletter-form');
+  form.setAttribute('data-url', "https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka");
+  form.innerHTML = '<p class="nav-heading">Recibe un email al día con los artículos de Xataka: </p>\
+   <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">\
+   <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>';
+  var newsletterContainer = document.getElementById('newsletter');
+  newsletterContainer.insertBefore(form, newsletterContainer.firstChild);
+ })();
+</script>
+<div class="foot-external js-foot-external">
+ <div class="wrapper foot-wrapper">
+  <header class="foot-head">
+   <a class="backlink foot-backlink" href="#">Subir</a>
+   <p class="webedia-brand foot-webedia-brand">
+ <a href="https://www.webedia.es/" class="webedia-logo foot-webedia-logo"><span>Webedia</span></a>
+</p>
+  </header>
+    <div class="menu-external foot-menu-external">
+   <div class="spain-blogs">
+          <div class="links-category">
+    <p class="channel-title"> Tecnología </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka</a></li><li><a class="list-item foot-list-item"  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li><li><a class="list-item foot-list-item"  href="//www.xatakafoto.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Foto</a></li><li><a class="list-item foot-list-item"  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Android</a></li><li><a class="list-item foot-list-item"  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Smart Home</a></li><li><a class="list-item foot-list-item"  href="//www.xatakawindows.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Windows</a></li><li><a class="list-item foot-list-item"  href="//www.xatakaciencia.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Ciencia</a></li><li><a class="list-item foot-list-item"  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Applesfera</a></li><li><a class="list-item foot-list-item"  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Genbeta</a></li><li><a class="list-item foot-list-item"  href="//magnet.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Magnet</a></li><li><a class="list-item foot-list-item"  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Mundo Xiaomi</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Videojuegos </p><ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos</a></li><li><a class="list-item foot-list-item"  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vida Extra</a></li><li><span class="list-item foot-list-item">Millenium</span></li><li><a class="list-item foot-list-item"  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos PC</a></li><li><a class="list-item foot-list-item"  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos Guías</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Entretenimiento </p><ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine</a></li><li><a class="list-item foot-list-item"  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Espinof</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Gastronomía </p><ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Estilo de vida </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vitónica</a></li><li><a class="list-item foot-list-item"  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Trendencias</a></li><li><a class="list-item foot-list-item"  href="//www.trendenciashombre.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li><li><a class="list-item foot-list-item"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Decoesfera</a></li><li><a class="list-item foot-list-item"  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Compradiccion</a></li><li><a class="list-item foot-list-item"  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Poprosa</a></li></ul>
+  </div>
+ 
+   </div>
+       <div class="latam-blogs">
+     <p class="channel-title">Latinoamérica</p>
+           <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.xataka.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka México</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.lat#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos LATAM</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com.mx#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine México</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar México</a></li></ul>
+  </div>
+ 
+    </div>
+     </div>
+ </div>
+</div>
+ <aside id="head-favicons" class="head-favicons-container m-is-later js-head-favicons m-favicons-compact">
+ <div class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a class="js-group-toggle" href="#" data-target="#head-network"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+  <ul class="head-favicons-list">
+                                 <li>
+      <a class="favicon tec-xataka
+              favicon-current
+       " rel="nofollow" href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-vidaextra
+       "  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Vida Extra</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-espinof
+       "  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Espinof</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-genbeta
+       "  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Genbeta</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-directoalpaladar
+       "  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Directo al Paladar</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakaciencia
+       "  href="//www.xatakaciencia.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Ciencia</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendencias
+       "  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Trendencias</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-applesfera
+       "  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Applesfera</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakamovil
+       "  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Móvil</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-decoesfera
+       " rel="nofollow" href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Decoesfera</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-vitonica
+       " rel="nofollow" href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Vitónica</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakafoto
+       "  href="//www.xatakafoto.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Foto</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendenciashombre
+       "  href="//www.trendenciashombre.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Trendencias Hombre</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakandroid
+       "  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Android</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakahome
+       "  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Smart Home</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakawindows
+       "  href="//www.xatakawindows.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Windows</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-magnet
+       "  href="//magnet.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Magnet</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-compradiccion
+       "  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Compradiccion</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-3djuegos
+       "  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-sensacine
+       "  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Sensacine</span>
+      </a>
+     </li>
+                          <li>
+      <span class="favicon tech-millenium ">
+       <span>Millenium</span>
+      </span>
+     </li>
+                          <li>
+      <a class="favicon est-poprosa
+       "  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Poprosa</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-mundoxiaomi
+       "  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Mundo Xiaomi</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegospc
+       "  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos PC</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegosguias
+       "  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos Guías</span>
+      </a>
+     </li>
+         </ul>
+ </div>
+</aside>
+<aside class="favicons-expanded-container js-favicons-expand" id="head-network">
+ <div class="favicons-expanded">
+           <div class="favicons-expanded-inner">
+    <ul><li><h4>Tecnología</h4></li><li><a class="favicon tec-xataka"  rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka
+     </a></li><li><a class="favicon tec-xatakamovil"  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Móvil
+     </a></li><li><a class="favicon tec-xatakafoto"  href="//www.xatakafoto.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Foto
+     </a></li><li><a class="favicon tec-xatakandroid"  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Android
+     </a></li><li><a class="favicon tec-xatakahome"  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Smart Home
+     </a></li><li><a class="favicon tec-xatakawindows"  href="//www.xatakawindows.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Windows
+     </a></li><li><a class="favicon tec-xatakaciencia"  href="//www.xatakaciencia.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Ciencia
+     </a></li><li><a class="favicon tec-applesfera"  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Applesfera
+     </a></li><li><a class="favicon tec-genbeta"  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Genbeta
+     </a></li><li><a class="favicon tec-magnet"  href="//magnet.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Magnet
+     </a></li><li><a class="favicon tec-mundoxiaomi"  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Mundo Xiaomi
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Videojuegos</h4></li><li><a class="favicon tech-3djuegos"  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos
+     </a></li><li><a class="favicon tec-vidaextra"  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Vida Extra
+     </a></li><li><span class="favicon tech-millenium"><span></span>Millenium</span></li><li><a class="favicon tec-3djuegospc"  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos PC
+     </a></li><li><a class="favicon tec-3djuegosguias"  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos Guías
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Entretenimiento</h4></li><li><a class="favicon oci-sensacine"  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Sensacine
+     </a></li><li><a class="favicon oci-espinof"  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Espinof
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Gastronomía</h4></li><li><a class="favicon est-directoalpaladar"  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Directo al Paladar
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Estilo de vida</h4></li><li><a class="favicon est-vitonica"  rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Vitónica
+     </a></li><li><a class="favicon est-trendencias"  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Trendencias
+     </a></li><li><a class="favicon est-trendenciashombre"  href="//www.trendenciashombre.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Trendencias Hombre
+     </a></li><li><a class="favicon est-decoesfera"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Decoesfera
+     </a></li><li><a class="favicon tec-compradiccion"  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Compradiccion
+     </a></li><li><a class="favicon est-poprosa"  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Poprosa
+     </a></li></ul>
+  </div>
+ 
+ </div>
+ </aside>
+
+
+   <section id="sections" class="head-menu-container head-menu-sections ">
+ <a href="#sections" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#sections" class="close close-corner js-toggle js-menu-close">Inicio</a>
+  <div id="opt-in"></div>
+     <div class="head-menu-partners">
+    <p class="nav-heading">Partners</p>
+    <ul>
+           <li><a class="head-list-item head-brand-link head-brand-tecnologialg js-track-header-event" href="/tecnologialg">
+          Innovación LG
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-innovacionvolvo js-track-header-event" href="/innovacionvolvo">
+          Innovación Volvo
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-tecnologiamidea js-track-header-event" href="/tecnologiamidea">
+          Tecnologia Midea
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-fullelectric js-track-header-event" href="/fullelectric">
+          Hyundai Full Electric
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-holasomoshonor js-track-header-event" href="/holasomoshonor">
+          Hola, somos HONOR
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-planetafantasy js-track-header-event" href="/planetafantasy">
+          Planeta Fantasy
+         </a></li>         </ul>
+   </div>
+       <div class="head-menu-extras">
+    <p class="nav-heading">Destacamos</p>
+    <ul>
+                     <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="https://premios.xataka.com/">
+      Premios Xataka
+      </a></li>
+                          <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="/black-friday">
+      Black Friday
+      </a></li>
+         </ul>
+   </div>
+       <div id="sections-search"></div>
+   <script>
+    document.getElementById("sections-search").innerHTML = '\
+     <div class="head-menu-search">\
+      <div class="head-search-form js-search-form">\
+       <input id="search-field-1" type="text" placeholder="Buscar en Xataka" class="search-container-1" data-container="#search-container-1">\
+       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>\
+      </div>\
+     </div>';
+   </script>
+    <div id="search-container-1" class="js-search-results"></div>
+    <div id="sections-login-wrapper" class="sections-login">
+   <div id="js-login" class="user-card"></div>
+  </div>
+  <nav class="head-menu-categories">
+    <ul>
+           <li><a class="head-list-item js-track-header-event" href="/categoria/componentes">Componentes</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/ordenadores">Ordenadores</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/analisis">Análisis</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/medicina-y-salud">Medicina y Salud</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/moviles">Móviles</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/tablets">Tablets</a></li>                <li><a class="head-list-item js-track-header-event" href="/tag/apple">Apple</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/inteligencia-artificial">Inteligencia artificial</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/despeja-la-x">Despeja la X</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/telefono-android">Teléfono Android</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/samsung">Samsung</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/telefono-samsung">Teléfono Samsung</a></li>         </ul>
+    <p class="head-more-item">
+     <a href="/archivos" class="btn js-track-header-event">Ver más temas</a>
+    </p>
+  </nav>
+  <aside class="head-menu-follow">
+   <span class="head-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a href="http://twitter.com/xataka" class="icon-twitter link-twitter" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+ </li>
+ <li>
+  <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+ </li>
+ <li>
+  <a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a>
+ </li>
+ <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+ <li>
+  <a href="https://flipboard.com/@xataka" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+ </li>
+ <li>
+  <a href="https://www.linkedin.com/company/11275845/" class="icon-linkedin link-linkedin" rel="nofollow">LinkedIn</a>
+ </li>
+ <li>
+  <a class="icon-tiktok link-tiktok" href="https://www.tiktok.com/@xataka" rel="nofollow">Tiktok</a>
+ </li>
+ <li id="sections-newsletter">
+  <a href="#head-menu-newsletter" class="icon-email link-email js-toggle-subscribe">E-mail</a>
+ </li>
+</ul>
+  </aside>
+  <section id="head-menu-newsletter" class="head-menu-newsletter">
+   <a href="#head-menu-newsletter" class="close close-corner js-toggle-subscribe"></a>
+   <form class="newsletter-form head-newsletter-form js-subscription" method="post" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka" data-id="#head-menu-newsletter">
+    <h3 class="newsletter-heading">Recibe un email al día con los artículos de Xataka: </h3>
+    <p><input class="newsletter-input js-email" type="email" placeholder="Tu correo electrónico">
+    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>
+   </form>
+  </section>
+  <nav class="head-menu-extras">
+   <ul class="head-list">
+         <li><a class="head-list-item section-tv js-track-header-event" href="https://www.youtube.com/user/xatakatv?sub_confirmation=1">Xataka
+      <span>TV</span>
+    </a></li>
+        <li><a class="head-list-item section-lomejor js-track-header-event" href="/lomejor">Lo mejor</a></li>
+    <li><a class="head-list-item section-staff js-track-header-event" href="/quienes-somos">Equipo editorial</a></li>
+    <li><a class="head-list-item section-contact js-track-header-event" href="/contacto">Contacta con nosotros</a></li>
+    <li id="sections-login">
+     <span id="login"></span>
+    </li>
+   </ul>
+  </nav>
+     <aside class="head-menu-external">
+    <p class="nav-heading">Más sitios que te gustarán</p>
+    <ul>
+                       <li><a class="head-list-item js-track-header-event"  href="https://www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vidaextra</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Android</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Applesfera</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Genbeta</a></li>         </ul>
+   </aside>
+    <div class="head-menu-channels">
+   <h3>Explora en nuestros medios</h3>
+   <ul>
+         <li><a href="#head-channel-tecnologia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Tecnología
+        <span class="head-item-meta m-desc">Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...</span></a><ul id="head-channel-tecnologia" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event" rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka</a></li><li><a class="head-list-item tec-xatakamovil js-track-header-event"   href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li><li><a class="head-list-item tec-xatakafoto js-track-header-event"   href="//www.xatakafoto.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Foto</a></li><li><a class="head-list-item tec-xatakandroid js-track-header-event"   href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Android</a></li><li><a class="head-list-item tec-xatakahome js-track-header-event"   href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Smart Home</a></li><li><a class="head-list-item tec-xatakawindows js-track-header-event"   href="//www.xatakawindows.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Windows</a></li><li><a class="head-list-item tec-xatakaciencia js-track-header-event"   href="//www.xatakaciencia.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Ciencia</a></li><li><a class="head-list-item tec-applesfera js-track-header-event"   href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Applesfera</a></li><li><a class="head-list-item tec-genbeta js-track-header-event"   href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Genbeta</a></li><li><a class="head-list-item tec-magnet js-track-header-event"   href="//magnet.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Magnet</a></li><li><a class="head-list-item tec-mundoxiaomi js-track-header-event"   href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Mundo Xiaomi</a></li></ul></li>         <li><a href="#head-channel-videojuegos" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Videojuegos
+        <span class="head-item-meta m-desc">Consolas, juegos, PC, PS4, Switch, Nintendo 3DS y Xbox...</span></a><ul id="head-channel-videojuegos" class="head-channel-list"><li><a class="head-list-item tech-3djuegos js-track-header-event"   href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos</a></li><li><a class="head-list-item tec-vidaextra js-track-header-event"   href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vida Extra</a></li><li><span class="head-list-item tech-millenium js-track-header-event">Millenium</span></li><li><a class="head-list-item tec-3djuegospc js-track-header-event"   href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos PC</a></li><li><a class="head-list-item tec-3djuegosguias js-track-header-event"   href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos Guías</a></li></ul></li>         <li><a href="#head-channel-entretenimiento" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Entretenimiento
+        <span class="head-item-meta m-desc">Series, cine, estrenos en cartelera, premios, rodajes, nuevas películas, televisión...</span></a><ul id="head-channel-entretenimiento" class="head-channel-list"><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine</a></li><li><a class="head-list-item oci-espinof js-track-header-event"   href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Espinof</a></li></ul></li>         <li><a href="#head-channel-gastronomia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Gastronomía
+        <span class="head-item-meta m-desc">Recetas, recetas de cocina fácil, pinchos, tapas, postres...</span></a><ul id="head-channel-gastronomia" class="head-channel-list"><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li></ul></li>         <li><a href="#head-channel-Estilodevida" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Estilo de vida
+        <span class="head-item-meta m-desc">Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...</span></a><ul id="head-channel-Estilodevida" class="head-channel-list"><li><a class="head-list-item est-vitonica js-track-header-event" rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vitónica</a></li><li><a class="head-list-item est-trendencias js-track-header-event"   href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Trendencias</a></li><li><a class="head-list-item est-trendenciashombre js-track-header-event"   href="//www.trendenciashombre.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li><li><a class="head-list-item est-decoesfera js-track-header-event" rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Decoesfera</a></li><li><a class="head-list-item tec-compradiccion js-track-header-event"   href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Compradiccion</a></li><li><a class="head-list-item est-poprosa js-track-header-event"   href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Poprosa</a></li></ul></li>         <li><a href="#head-channel-latinoamerica" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Latinoamérica
+        <span class="head-item-meta m-desc">Publicaciones de México...</span></a><ul id="head-channel-latinoamerica" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka México</a></li><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar México</a></li><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com.mx#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine México</a></li><li><a class="head-list-item tec-3djuegoslat js-track-header-event"   href="//www.3djuegos.lat#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos LATAM</a></li></ul></li>       </ul>
+  </div>
+  <nav class="head-menu-links">
+   <ul class="head-list">
+         <li><a class="head-list-item js-track-header-event" href="https://weblogs.webedia.es/aviso-legal.html">Aviso legal</a></li>
+        <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+    <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/cookies">Condiciones de uso de cookies</a></li>
+    <li><a class="head-list-item js-track-header-event" href="mailto:publicidad@webedia-group.com">Publicidad</a></li>
+   </ul>
+  </nav>
+ </div>
+</section>
+<div id="headlines" class="head-menu-container head-menu-new m-menu-right">
+ <a href="#headlines" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#headlines" class="close close-corner js-toggle">Inicio</a>
+       <p class="nav-heading">Reciente</p>
+    <ul id="recent-posts">
+    <li><a href="/ordenadores/ibm-da-salto-triple-osprey-nuevo-ordenador-cuantico-grande-mundo-433-cubits" class="head-new-item">
+  IBM da un salto triple con el Osprey, el nuevo ordenador cuántico más grande del mundo con 433 cúbits
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T15:00:27Z"></time></span></a></li> <li><a href="/energia/contratar-tarifa-tur-tarea-imposible-conflicto-a-energeticas-no-les-interesa-que-te-cambies" class="head-new-item">
+  Contratar la tarifa TUR es tarea imposible por un conflicto: a las energéticas no les interesa que te cambies
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T14:36:27Z"></time></span></a></li> <li><a href="https://www.xatakahome.com/a-fondo/que-fue-televisores-curvos-tecnologia-que-no-supo-convencer-que-encontro-su-nicho-monitores?utm_source=xataka&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+  Qué fue de los televisores curvos, una tecnología que no supo convencer pero que encontró su nicho en monitores 
+  <span class="head-item-meta">
+   en Xataka Smart Home <time class="js-header-post" datetime="2022-11-09T14:50:19Z"></time></span></a></li> <li><a href="/otros/mineria-aguas-profundas-lleva-anos-siendo-objeto-disputa-ahora-esta-a-punto-hacerse-realidad" class="head-new-item">
+  La minería en aguas profundas lleva años siendo objeto de disputa. Ahora está a punto de hacerse realidad
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T14:00:35Z"></time></span></a></li> <li><a href="/ecologia-y-naturaleza/llega-nueva-dana-eso-no-importante-importnate-que-va-a-pasar-justo-despues" class="head-new-item">
+  Sí, llega una nueva DANA, pero eso no es lo importante: lo importante es lo que va a pasar justo después
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T13:30:26Z"></time></span></a></li> <li><a href="/relojes-inteligentes/polar-ignite-3-caracteristicas-precio-ficha-tecnica" class="head-new-item">
+  Polar Ignite 3: el nuevo smartwatch de Polar suma pantalla AMOLED y mejor análisis del sueño
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T13:00:33Z"></time></span></a></li> <li><a href="/otros/pantalla-que-se-estira-para-hacerse-grande-asi-ultimo-curioso-prototipo-lg" class="head-new-item">
+  Una pantalla que se estira para hacerse aún más grande: así es el último y curioso prototipo de LG 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T12:30:27Z"></time></span></a></li> <li><a href="/movilidad/llegar-cargar-acera-solucion-para-popularizar-coche-electrico-quienes-no-tienen-garaje" class="head-new-item">
+  Llegar y cargar en la acera: la solución para popularizar el coche eléctrico entre quienes no tienen garaje
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T12:00:36Z"></time></span></a></li> <li><a href="/empresas-y-economia/meta-anuncia-mayor-numero-despidos-su-historia-zuckerberg-le-echa-culpa-al-fin-pandemia" class="head-new-item">
+  Meta anuncia un despido histórico de 11.000 trabajadores. Zuckerberg le ha echado la culpa al fin de la pandemia
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T11:38:43Z"></time></span></a></li> <li><a href="/espacio/nasa-pospone-otra-vez-lanzamiento-artemis-culpable-ahora-tormenta-tropical" class="head-new-item">
+  La NASA pospone (otra vez) el lanzamiento de Artemis: el culpable ahora es una tormenta tropical
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T11:30:24Z"></time></span></a></li> <li><a href="/moviles/realme-10-caracteristicas-precio-ficha-tecnica" class="head-new-item">
+  Realme 10: un golpe de batería y diseño en uno de los gama media más golosos de Realme
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T11:00:22Z"></time></span></a></li> <li><a href="/videojuegos/comision-europea-va-a-investigar-profundidad-compra-activision-blizzard-tiene-preocupaciones-preliminares" class="head-new-item">
+  La Comisión Europea va a investigar "en profundidad" la compra de Activision Blizzard. Y ya tiene "preocupaciones preliminares"
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T10:30:24Z"></time></span></a></li> <li><a href="/medicina-y-salud/demencias-occidente-se-han-desplomado-30-ultimos-anos-ahora-empezamos-a-saber-que" class="head-new-item">
+  Las demencias en Occidente se han desplomado hasta un 30% en los últimos años. Ahora empezamos a saber por qué
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T10:00:45Z"></time></span></a></li> <li><a href="/cine-y-tv/mundo-avatar-no-se-tira-nada-james-cameron-reciclara-borrador-guion-que-desecho-para-avatar-2" class="head-new-item">
+  En el mundo de 'Avatar' no se tira nada: James Cameron reciclará un borrador de guión que desechó para 'Avatar 2'  
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T09:30:23Z"></time></span></a></li> <li><a href="/realidad-virtual-aumentada/estas-gafas-realidad-virtual-mortales-mueres-juego-te-matan-vida-real" class="head-new-item">
+  Estas gafas de realidad virtual son mortales: si mueres en el juego, te matan en la vida real 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T09:00:33Z"></time></span></a></li> <li><a href="/moviles/alguien-se-ha-molestado-crear-iphone-plegable-resultado-espectacular" class="head-new-item">
+  Alguien se ha molestado en crear un iPhone plegable. El resultado es espectacular
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T08:29:48Z"></time></span></a></li> <li><a href="https://www.espinof.com/series-de-ficcion/anillos-poder-me-sobra-amazon-cancela-carnival-row-a-traicion-para-compensar-lanza-trailer-fecha-estreno-su-temporada-2?utm_source=xataka&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+  Con 'Los anillos de poder' me sobra: Amazon cancela 'Carnival Row' a traición y para compensar lanza el tráiler y la fecha de estreno de su temporada 2  
+  <span class="head-item-meta">
+   en Espinof <time class="js-header-post" datetime="2022-11-09T09:10:22Z"></time></span></a></li> <li><a href="/seleccion/semanas-black-mediamarkt-siete-mejores-ofertas-tecnologia-que-puedes-comprar" class="head-new-item">
+  Semanas Black de MediaMarkt: siete mejores ofertas en tecnología que puedes comprar
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T08:02:20Z"></time></span></a></li> <li><a href="/empresas-y-economia/nvidia-no-esta-dispuesta-a-dejar-venderle-chips-a-china-asi-como-esta-esquivando-sanciones-eeuu" class="head-new-item">
+  NVIDIA no está dispuesta a dejar de venderle chips a China. Así es como está esquivando las sanciones de EEUU
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T22:03:19Z"></time></span></a></li> <li><a href="/fotografia-y-video/gopro-hero11-black-mini-caracteristicas-precio-ficha-tecnica" class="head-new-item">
+  GoPro HERO11 Black Mini: la versión compacta de la cámara insignia de GoPro conserva su enorme sensor
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T19:30:03Z"></time></span></a></li>  </ul>
+  <p class="head-more-item"><a href="#" class="btn" id="view-more" data-blog="xataka">Ver más artículos</a></p>
+     <div class="head-menu-video">
+    <p class="nav-heading"> Xataka
+     <span>TV</span>
+    </p>
+    <ul id="recent-videos">
+          <li><a href="https://www.xataka.com/medicina-y-salud/tenis-santa-marta-mucho-que-tenis-tecnologia-deporte-para-mejorar-condicion-personas-discapacidad" class="head-new-item"><span class="head-new-video-thumb"><img alt="Tecnolog&#x00ED;a&#x20;y&#x20;deporte&#x20;para&#x20;ayudar&#x20;a&#x20;gente&#x20;con&#x20;discapacidad,&#x20;as&#x00ED;&#x20;es&#x20;la&#x20;Escuela&#x20;de&#x20;Tenis&#x20;de&#x20;Santa&#x20;Marta" src="https://img.youtube.com/vi/YQSqTj2NJHI/mqdefault.jpg"></span><span class="head-new-video-desc">Tecnología y deporte para ayudar a gente con discapacidad, así es la Escuela de Tenis de Santa Marta</span></a></li>     <li><a href="https://www.xataka.com/cine-y-tv/god-of-war-ragnarok-nueva-superproduccion-ps5-demuestra-que-no-necesariamente-problema" class="head-new-item"><span class="head-new-video-thumb"><img alt="GOD&#x20;OF&#x20;WAR&#x3A;&#x20;RAGNAROK&#x20;&#x7C;&#x20;4&#x20;cosas&#x20;que&#x20;ME&#x20;HAN&#x20;GUSTADO&#x20;y&#x20;2&#x20;que&#x20;NO&#x20;&#x28;sin&#x20;spoilers&#x29;" src="https://img.youtube.com/vi/GE6rnMLq3sg/mqdefault.jpg"></span><span class="head-new-video-desc">GOD OF WAR: RAGNAROK | 4 cosas que ME HAN GUSTADO y 2 que NO (sin spoilers)</span></a></li>     <li><a href="https://www.xataka.com/analisis/iphone-14-vs-iphone-14-plus-vs-iphone-14-pro-vs-iphone-14-pro-max-comparativa-a-fondo" class="head-new-item"><span class="head-new-video-thumb"><img alt="iPhone&#x20;14&#x20;&#x00BF;CU&#x00C1;L&#x20;ME&#x20;COMPRO&#x3F;&#x20;&#x7C;&#x20;Que&#x0301;&#x20;iPhone&#x20;comprar&#x3A;&#x20;14,&#x20;14&#x20;PLUS,&#x20;14&#x20;PRO&#x20;o&#x20;14&#x20;PRO&#x20;MAX" src="https://img.youtube.com/vi/yGJRn5IFLj0/mqdefault.jpg"></span><span class="head-new-video-desc">iPhone 14 ¿CUÁL ME COMPRO? | Qué iPhone comprar: 14, 14 PLUS, 14 PRO o 14 PRO MAX</span></a></li>    </ul>
+    <p class="head-more-item"><a href="#" class="btn" id="view-more-videos" data-blog="xataka">Ver más vídeos</a></p>
+   </div>
+   </div>
+</div>
+<nav id="search" class="head-menu-container head-menu-searchapp">
+</nav>
+<script>
+ document.getElementById("search").innerHTML = '\
+ <a href="#search" class="head-menu-toggler js-toggle"></a>\
+ <div class="head-menu">\
+  <a href="#search" class="close close-corner js-toggle">Inicio</a>\
+  <h2>Buscar</h2>\
+  <div class="head-menu-search">\
+   <div class="head-search-form js-search-form">\
+    <input id="search-field-2" type="text" placeholder="Buscar en Xataka" class="search-container-2" data-container="#search-container-2">\
+    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>\
+   </div>\
+  </div>\
+  <section id="search-container-2" class="js-search-results"></section>\
+ </div>';
+</script>
+<nav class="nav nav-list nav-register" id="nav-twitter-register"></nav>
+<div id="react-login"></div>
+<nav class="nav nav-list nav-login" id="nav-login"></nav>
+<nav class="nav nav-list nav-register" id="nav-register"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover"></nav>
+<nav class="nav nav-list nav-login" id="nav-pick"></nav>
+<div id="js-edit-user-profile-form"></div>
+<div id="js-user-comments"></div>
+<div id="js-modal-user-deactivate"></div>
+
+  
+     </div>
+    </div>
+   </div>
+  </div>
+   <div id="div-gpt-int" style="width:1px; height:1px;">
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int"); });
+  </script>
+ </div>
+   <div id="div-gpt-int2" style="width:1px; height:1px;">
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int2"); });
+  </script>
+ </div>
+   <script>
+ var WSL2 = WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.fbapikey = "355823546895";
+ WSL2.config.fbApiVersion = "v8.0";
+ WSL2.config.siteName = "Xataka";
+ WSL2.config.jsPath = "https://img.weblogssl.com/LPbackend/prod/v2/js";
+ WSL2.config.gtmContainerId = "GTM-T9QSQ3V";
+ WSL2.config.gtmContainerIdGlobal = "GTM-TWST58M";
+ WSL2.config.imagePath = "https://img.weblogssl.com/css/xataka/p/v6";
+ WSL2.config.desktopSiteUrl = "https://www.xataka.com";
+ WSL2.config.cookieDomain = "";
+ WSL2.config.enableEditorialRecommendations = "1";
+ WSL2.config.s3ImagePath = "https://i.blogs.es";
+ WSL2.config.socialTwitter = "xataka";
+ WSL2.config.enableUniformSocialShareGallery = "1";
+ WSL2.config.twitterSocial = "xataka";
+ WSL2.config.enableCen2AdInComments = 0;
+ WSL2.config.enableGiphyInComments = 0;
+ WSL2.config.enablePinterestSharing = 0;
+ WSL2.config.enableAdblockEcommerce = 1;
+ WSL2.config.adminUrl = "https://admin.xataka.com";
+ WSL2.config.blogDomain = "xataka.com";
+ WSL2.config.blogMeta = {
+  siteName: "xataka",
+  mnemonic: "XTK",
+  blogDomain: "xataka.com"
+ };
+ WSL2.config.showMxSiteFloatingBox = 1;
+ WSL2.config.enableGoogleAnalytics = 0;
+ WSL2.config.enableWebVitals = 0;
+ WSL2.config.enableAdblockMonetization = 1;
+ WSL2.config.insuradsLink = "https://cdn.insurads.com/bootstrap/ABIGJPGF.js";
+ WSL2.config.uniformDateTimeFormat = "Y-m-d\TH:i:s\Z";
+ WSL2.config.enableDailymotionAutoplay = "1";
+ WSL2.config.dailymotionAutoplayLimit = 0;
+ WSL2.config.enableWebpImage = "0";
+ WSL2.config.enableGoogleAnalyticsCD21 = "1";
+ WSL2.config.productSiteUrl = "https://www.xataka.com";
+ WSL2.config.homepageVersion = "v4";
+ WSL2.config.desktopDailymotionPlayerId = "";
+ WSL2.config.mobileDailymotionPlayerId = "";
+</script>
+<script>
+ function injectScript(src, type = 'text/javascript') {
+  var script = document.createElement('script');
+  script.src = src;
+  script.async = true;
+  script.type = type;
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(script, firstScriptTag);
+ }
+
+ if (document.querySelectorAll('div.js-dailymotion').length) {
+  if ('ES' === window.country) {
+   injectScript('https://img.weblogssl.com/LPbackend/prod/v2/js/dailymotion-ccfcadcb.js', 'didomi/javascript');	
+  } else {
+   injectScript('https://img.weblogssl.com/LPbackend/prod/v2/js/dailymotion-ccfcadcb.js');
+  }
+ }
+</script>
+<script>
+ WSL2.config.enableNanomediaHeader = 1;
+ WSL2.config.device = "desktop";
+ WSL2.config.useTimeAbbreviations = "0";
+ </script>
+  <script async src="https://img.weblogssl.com/LPbackend/prod/v2/js/main-ccfcadcb.js"></script>
+      <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Recommendations = WSLModules.Recommendations || {};
+  WSLModules.Recommendations.Editorial = {
+   endpoint: "https://recommendations.weblogssl.com/editorial/xataka",
+   version: "v1"
+  }
+ </script>
+  <div id="dialog"></div>
+<div class="ui-widget-overlay video-light-box-overlay" id="ui-widget-overlay" style="display:none;"></div>
+ <script>
+  (function(d) {
+   if ('ES' !== country) {
+    return;
+   }
+
+   var b = d.body;
+   var e = d.createElement('script');
+   e.id = 'parsely-cfg';
+   e.src = '//cdn.parsely.com/keys/xataka.com/p.js';
+   e.async = true;
+   e.setAttribute('data-parsely-site', "xataka.com");
+   b.appendChild(e);
+  })(document);
+ </script>
+<script type="text/x-template" id="js-adblock-products">
+ [{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B07HNMN7TM\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07HNMN7TM&linkCode=am2&tag=xataka-banner-adblock-21&linkId=c15e517dfbcb4a08faa05675bda2b286","title":"Cecotec Conga Serie 3090","asin":"B07HNMN7TM","image":"https:\/\/img.weblogssl.com\/g\/images\/cecotec_conga_serie_3090.jpg","price":"279,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B01ETRGE7M\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01ETRGE7M&linkCode=am2&tag=xataka-banner-adblock-21&linkId=646320bec1696956a1736eea987b18cd","title":"Fire TV Stick","asin":"B01ETRGE7M","image":"https:\/\/img.weblogssl.com\/g\/images\/fire_tv_stick%20.png","price":"39,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B077QHRLPB\/ref=as_li_tl?ie=UTF8&tag=xataka-banner-adblock-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B077QHRLPB&linkId=a05ce0d1e76a7fca419a3cbce5747c30","title":"Xiaomi Mi Scooter M365","asin":"B077QHRLPB","image":"https:\/\/img.weblogssl.com\/g\/images\/xiaomi_mi_scooter_m365.png","price":"361,55","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B07NRK942P\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07NRK942P&linkCode=am2&tag=xataka-banner-adblock-21&linkId=618d66850401498557c7309cbea08404","title":"Xiaomi Mi 9","asin":"B07NRK942P","image":"https:\/\/img.weblogssl.com\/g\/images\/xaomi9.jpg","price":"388,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B07GDR2PH9\/?tag=xataka-banner-adblock-21","title":"Auriculares bluetooth cancelaci\u00f3n de ruido","asin":"B07GDR2PH9","image":"https:\/\/img.weblogssl.com\/g\/images\/Sony_WH-1000XM3S.jpg","price":"324,98","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B016H0R7SE\/?tag=xataka-banner-adblock-21","title":"Philips Hue White","asin":"B016H0R7SE","image":"https:\/\/img.weblogssl.com\/g\/images\/Philips_Hue_White.jpg","price":"67,01","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/SanDisk-Ultra-Android-microSDXC-adaptador\/dp\/B0758NHWS8\/?tag=xataka-banner-adblock-21","title":"Tarjeta de memoria microSDXC de 256 GB","asin":"B0758NHWS8","image":"https:\/\/img.weblogssl.com\/g\/images\/Tarjeta_de_memoria_microSDXC.jpg","price":"39,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Xiaomi-Redmi-Note-Ranura-h%C3%ADbrida\/dp\/B07PB8TYCJ\/?tag=xataka-banner-adblock-21","title":"Xiaomi Redmi Note 7 16 cm (6.3\") 4 GB 64 GB","asin":"B07PB8TYCJ","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi_Redmi_Note_ES.jpg","price":"170,00","currency":"EUR"}]
+</script>
+ <script type="didomi/javascript" data-vendor="iab:184" >
+  !function(t,e,a){"use strict";var i=t.scimhtiraidem||{};function s(t){var e=i[a]||{};i[a]=e,e[t]||(e[t]=function(){i._queue[a].push({method:t,args:Array.prototype.slice.apply(arguments)})})}t.googletag=t.googletag||{},t.googletag.cmd=t.googletag.cmd||[],t.googletag.cmd.push(function(){var e=t.localStorage.getItem("mics_sgmts"),a=JSON.parse(e),i=a||{};Object.keys(i).forEach(function(e){t.googletag.pubads().setTargeting("mics_"+e,i[e].map(String))})});var r="init call config push pushDefault addProperties addProperty onFinish onStart _reset".split(" ");i._queue=i._queue||{},i._names=i._names||[],i._names.push(a),i._queue[a]=i._queue[a]||[],i._startTime=(new Date).getTime(),i._snippetVersion="2.0";for(var o=0;o<r.length;o++)s(r[o]);t.scimhtiraidem=i,t[a]=i[a];var n=e.createElement("script");n.setAttribute("type","text/javascript"),n.setAttribute("src","https://static.mediarithmics.com/tag/2/tag.min.js"),n.setAttribute("async","true"),e.getElementsByTagName("script")[0].parentNode.appendChild(n)}(window,document,"webediaMics");
+
+  webediaMics.init("xataka-sp-2020");
+  webediaMics.call("syncFeeds");
+
+  var gen_data = {
+
+   //UTILS
+
+   global_container : function (str) {
+    var j = 0;
+    if (Object.keys(dataLayer).length > 0) {
+     dataLayer.forEach(function(item, index) {
+      if (item[str]) j = index;
+     });
+    }
+    return (dataLayer[j][str]) ? dataLayer[j][str] : null;
+   },
+
+   dateISO: function (date) {
+    var dateiso;
+    Date.parse(date) ? dateiso = new Date(date).toISOString() : dateiso = "";
+    return dateiso;
+   },
+
+   //EXTRACTION FUNCTIONS
+   extract_post: function() {
+    var post = {}
+    if (this.global_container("postId")) post["postId"] = this.global_container("postId");
+    if (this.global_container("publishedDate")) post["publishedDate"] = this.global_container("publishedDate");
+    if (this.global_container("site")) post["site"] = this.global_container("site");
+    this.global_container("partner") ?  post["partner"] = this.global_container("videoContent") : post["partner"] = false;
+    if (this.global_container("blockLength")) post["blockLength"] = this.global_container("blockLength");
+    if (this.global_container("mapping")) post["mapping"] = this.global_container("mapping");
+    if (this.global_container("elementsInPage") && this.global_container("elementsInPage").length > 0) post["elementsInPage"] = this.global_container("elementsInPage");
+    if (this.global_container("modifiedDate")) post["modifiedDate"] = this.dateISO(this.global_container("modifiedDate"));
+    if (this.global_container("categories") && this.global_container("categories").length > 0) post["categories"] = this.global_container("categories");
+    if (this.global_container("tags") && this.global_container("tags").length > 0) post["tags"] = this.global_container("tags");
+    if (this.global_container("postType")) post["postType"] = this.global_container("postType");
+    return post;
+   },
+
+   extract_category:function() {
+    var catPage = {}
+    if (this.global_container("site")) catPage["site"] = this.global_container("site");
+    if (this.global_container("mapping")) catPage["mapping"] = this.global_container("mapping");
+    if (this.global_container("categories") && this.global_container("categories").length > 0) catPage["categories"] = this.global_container("categories");
+    return catPage
+   },
+
+   extract_data : function () {
+    var data = {}
+    data['pageTitle'] = document.title;
+    data['urlPath'] = window.location.pathname;
+    if (this.global_container("siteSection")) data["name"] = this.global_container("siteSection");
+    if (this.global_container("vertical")) data["vertical"] = this.global_container("vertical");
+    data["channel_id"] = this.global_container("site") + "_ES";
+    this.global_container("videoContent") ? data["has_video"] = this.global_container("videoContent") : data["has_video"] = false;
+    if (data["name"] === "postPage" || data["name"] == "postpage"){
+     data['weblogs'] = this.extract_post();
+    }
+    else if (data["name"] == "categorypage"){
+     data['weblogs'] = this.extract_category();
+    }
+
+    if (this.global_container("brandClub")) data['brandClub'] = this.global_container("brandClub")
+
+    return data;
+   }
+  };
+
+  var extracted_data = gen_data.extract_data();
+  var event_type = (gen_data.global_container("site_route")) ? gen_data.global_container("site_route") : 'error_event_datalayer_empty';
+  if (gen_data.global_container("user_id")) {
+   webediaMics.addProperty("$user_account_id", gen_data.global_container("user_id"));
+   webediaMics.addProperty("$compartment_id", "1539");
+  }
+  webediaMics.push(event_type, extracted_data);
+ </script>
+  </body>
+</html>
+
+
+0
+

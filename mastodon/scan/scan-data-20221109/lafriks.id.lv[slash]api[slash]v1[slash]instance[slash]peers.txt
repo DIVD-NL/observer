@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://lafriks.id.lv; img-src 'self' https: data: blob: https://lafriks.id.lv; style-src 'self' https://lafriks.id.lv 'nonce-thS+EkndMcRK1madQGUceQ=='; media-src 'self' https: data: https://lafriks.id.lv; frame-src 'self' https:; manifest-src 'self' https://lafriks.id.lv; connect-src 'self' data: blob: https://lafriks.id.lv https://lafriks.id.lv wss://lafriks.id.lv; script-src 'self' https://lafriks.id.lv; child-src 'self' blob: https://lafriks.id.lv; worker-src 'self' blob: https://lafriks.id.lv
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:56 GMT
+Etag: W/"af5e64f240344ecd4f1b9a872ef0e911"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.899609Z
+X-Request-Id: d77f63d9-7106-4417-b9d3-f4be605938a9
+X-Runtime: 0.177621
+X-Xss-Protection: 0
+
+2ee
+["mastodon.xyz","social.gitea.io","chaos.social","social.weho.st","pouet.chapril.org","video.lemediatv.fr","gs.leftic.club","mstdn.fr","todon.nl","mastodon.zaclys.com","peertube.stream","tooter.social","boitam.eu","forum.friendi.ca","framapiaf.org","podlibre.social","mstdn.social","mastodon.online","chat.noelle.codes","elekk.xyz","mamot.fr","mastodon.cloud","leafposter.club","social.anoxinon.de","mstdn.starnix.network","poa.st","linuxrocks.online","pleroma.jamesp.org","rojogato.com","mastodon.sdf.org","mastodon.nzoss.nz","social.linux.pizza","octodon.social","fosstodon.org","floss.social","mas.to","mastd.racing","this.mouse.rocks","mastodon.social","mastodon.technology","horizin.de","friendica.mnementh.co.uk","queer.garden","fediverse.one"]
+0
+

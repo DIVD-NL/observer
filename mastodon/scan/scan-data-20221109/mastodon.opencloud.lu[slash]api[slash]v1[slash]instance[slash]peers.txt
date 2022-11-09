@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.opencloud.lu; img-src 'self' https: data: blob: https://mastodon.opencloud.lu; style-src 'self' 'unsafe-inline' https://mastodon.opencloud.lu; media-src 'self' https: data: https://mastodon.opencloud.lu; frame-src 'self' https:; manifest-src 'self' https://mastodon.opencloud.lu; connect-src 'self' data: blob: https://mastodon.opencloud.lu https://mastodon.opencloud.lu wss://mastodon.opencloud.lu; script-src 'self' https://mastodon.opencloud.lu; child-src 'self' blob: https://mastodon.opencloud.lu; worker-src 'self' blob: https://mastodon.opencloud.lu
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:02 GMT
+Server: nginx/1.14.2
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: 4fac7274-2aa4-44d2-81a8-02afb226d737
+X-Runtime: 0.011142
+X-Xss-Protection: 1; mode=block
+
+0
+

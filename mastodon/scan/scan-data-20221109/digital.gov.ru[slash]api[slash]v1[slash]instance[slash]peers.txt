@@ -1,0 +1,39 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:38 GMT
+Server: nginx
+X-Sp-Crid: 78593409:1
+
+32b
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+  <script>
+    function copy() {
+        document.oncopy = function(event) {
+            let report = {
+                report: {
+                    datetime: "2022-11-09 14:57:38 +0000",
+                    ip: "193.105.73.176",
+                    id: "cvX4oloPICg1"
+                }
+            };
+            event.clipboardData.setData("text", JSON.stringify(report));
+            event.preventDefault();
+        };
+        document.execCommand("copy");
+    }
+  </script>
+  <h1 align="center">Forbidden</h1>
+  <p align="center">If you are not a bot, please copy the report and send it to our support team.</p>
+  <p align="center"><button onclick="copy()">Copy</button></p>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.tran.tw; img-src 'self' https: data: blob: https://mastodon.tran.tw; style-src 'self' https://mastodon.tran.tw 'nonce-W37KzlYqxZ7pRKbwzY4qfQ=='; media-src 'self' https: data: https://mastodon.tran.tw; frame-src 'self' https:; manifest-src 'self' https://mastodon.tran.tw; connect-src 'self' data: blob: https://mastodon.tran.tw https://mastodon.tran.tw wss://mastodon.tran.tw; script-src 'self' https://mastodon.tran.tw; child-src 'self' blob: https://mastodon.tran.tw; worker-src 'self' blob: https://mastodon.tran.tw
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:24 GMT
+Etag: W/"d19d4d7cae922658e6d8906e46da95ea"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: openresty
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 246
+X-Ratelimit-Reset: 2022-11-09T12:00:00.059819Z
+X-Request-Id: 3f4c82b5-658c-4ac5-9c43-1004100ccc1d
+X-Runtime: 0.007451
+X-Served-By: mastodon.tran.tw
+X-Xss-Protection: 1; mode=block
+
+e6f
+["mstdn.eule.wtf","social.fedinet.de","mastodon.flying-snail.de","tooting.ch","friendica.produnis.de","edi.social","social.server17.net","mastodon.arch-linux.cz","m.sclo.nl","social.home.ftt.gmbh","social.anoxinon.de","a0s.de","social.bau-ha.us","ieji.de","social.diva.exchange","mastodon.scot","toot.svenbrier.eu","photog.social","social.lol","indieweb.social","sndr.social","meow.social","ilyamikcoder.com","social.ksite.de","spd.social","kirche.social","masthead.social","freunde.ma-nic.de","toot.berlin","selfhosted.social","wandzeitung.xyz","talk.stayas.one","infosec.exchange","social.la10cy.net","chaos.social","netzkms.de","d-64.social","fedisabled.social","freeradical.zone","hespere.de","mstdn.social","mastodon.ostertag.team","mastodon.lol","qoto.org","kosmos.social","flokinet.social","linuxrocks.online","fediscience.org","eay.social","eupublic.social","mstdn.media","social.saarland","rollenspiel.social","a.gup.pe","mstdn.jp","saptodon.org","mastodon.hamster.science","social.unraidcloud.de","pl.tkammer.de","darmstadt.social","outerheaven.club","forfuture.social","corteximplant.com","todon.nl","social.eden.one","circus.town","chrispelli.fun","treehouse.technopagans.de","mastodon.xy-space.de","social.anon-groups.de","toot.wales","loma.ml","netz.darknight-coffee.org","radiosocial.de","botsin.space","toot.community","m.geraffel.net","toot.jaehne.cloud","muenster.im","wue.social","mastodon.matrix.org","kanoa.de","tech.lgbt","mastodon.com.tr","bremen.team","social.saufpark.tv","openbiblio.social","queer.party","mas.to","hock.one","mathstodon.xyz","pfalz.social","swiss.social","hachyderm.io","social.teamx.cc","kraud.social","hub.uckermark.social","odenwald.social","pixelfed.social","osna.social","ist.social","graz.social","barcamp.social","anonsys.net","tube.tchncs.de","layer8.space","muenchen.social","legal.social","aachen.social","nerdculture.de","vis.social","podcasts.social","writing.exchange","gruene.social","xn--trt-tna.wala2x.de","mstdn.io","fulda.social","kolektiva.social","squeet.me","mastodon.uno","bonn.social","mastodon.cc","brandenburg.social","digitalcourage.social","bitcoinhackers.org","social.antifa.gmbh","bearologics.social","f.freinetz.ch","nahe.social","social.zwoelfdreifuenfundvierzig.net","toot.houbahouba.de","literatur.social","awscommunity.social","uwu.social","tw.c-p-b.com","talk.mls20.de","machteburch.social","home.social","lustigetiernamenbubble.de","det.social","fandom.ink","social.bund.de","mastodon.art","weatherby2378.social","toot.kartonrad.de","wetdry.world","schle.nz","hessen.social","scicomm.xyz","semiosen.de","mastodon.top","birdsite.wilde.cloud","social.tchncs.de","swiss-talk.net","suchtbasis.de","norden.social","lsbt.me","soziale.cloud","nrw.social","meteo.social","mastodon.stuttgart.international","ioc.exchange","frankfurt.social","mastodon.xyz","bildung.social","f-ckendehoelle.de","skinnyver.se","ravenation.club","mastodon.nl","hemmer.land","misskey.bubbletea.dev","mastodon.popps.org","lain.com","fosstodon.org","fnordon.de","social.xenofem.me","berlin.social","mastodon.online","social.linux.pizza","en.osm.town","docviper.de","freiburg.social","dizl.de","social.cologne","todon.eu","toot.gru.social","code-in-space.dev","mastodon.freifunk-minden.de","masto.ai","troet.cafe","mastodon.green","mastodon.social","kif.rocks","climatejustice.social","europe.social","mastodon.world","mastodon.nu","mastodontech.de","medibubble.org","mieke.club","wien.rocks","sueden.social","bawue.social","social.anufrij.de","ruby.social","meinmuenster.land","metalhead.club","mastodon.retr0.party","mastodon.radio","ruhr.social","fimidi.com","mastodon.cloud","zug.network","herkenhoff.com","dresden.network","social.dev-wiki.de"]
+0
+

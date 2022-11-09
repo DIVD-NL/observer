@@ -1,0 +1,116 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.14.2
+Set-Cookie: oc_sessionPassphrase=Ukw33nt5L8CdJbO1mvXk9bCvtweqb3vf82wNlW7kitrwbqXEBfy4pE0%2BJTFgpZJOxK3Pinh5CTZvi1NTpyMjQ7ctQyrvT%2BKqaEJIBmJFfoP%2BH4Wuuk9vrdiPiulsC5EV; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc0jhrx4q2xr=amlbq39dpmspcjtqdlhhnusb7i; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="09nz09W48EA01scS+Q4WHtg5StWMbDjuN5IX376t3gg=:loupibT2vncGk5VR1l9TV5pwBJT0AV6vfsNnjNHKvV8=">
+		<meta charset="utf-8">
+		<title>
+		Neuman Cloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#8EC9BD">
+		<link rel="icon" href="/apps/theming/favicon?v=5">
+		<link rel="apple-touch-icon" href="/apps/theming/icon?v=5">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#8EC9BD">
+		<link rel="manifest" href="/apps/theming/manifest?v=5">
+		<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=7d23ff90-5">
+<link rel="stylesheet" href="/core/css/guest.css?v=16d1882f-5">
+		<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/core/js/dist/main.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/core/js/dist/files_fileinfo.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/core/js/dist/files_client.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/js/core/merged-template-prepend.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/files_sharing/js/dist/main.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/files_videoplayer/js/main.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/files_rightclick/js/script.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/files_rightclick/js/files.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/apps/theming/js/theming.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=" defer src="/core/js/dist/login.js?v=16d1882f-5"></script>
+<script nonce="MDluejA5VzQ4RUEwMXNjUytRNFdIdGc1U3RXTWJEanVONUlYMzc2dDNnZz06bG91cGliVDJ2bmNHazVWUjFsOVRWNXB3QkpUMEFWNnZmc05uak5IS3ZWOD0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","admin_audit":"/apps/admin_audit","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_external":"/apps/files_external","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","news":"/apps/news","nextcloud_announcements":"/apps/nextcloud_announcements","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","video_converter":"/apps/video_converter","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005847;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"22.2.0.2","versionstring":"22.2.0","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/22\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":true,"defaultInternalExpireDate":7,"defaultInternalExpireDateEnforced":false,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"Neuman Cloud","name":"Neuman Cloud","productName":"Nextcloud","title":"Neuman Cloud","baseUrl":"https:\/\/cloud.neuman.fi\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/22\/go.php?to=PLACEHOLDER","slogan":"Everything in its place","logoClaim":"","shortFooter":"<a href=\"https:\/\/cloud.neuman.fi\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Neuman Cloud<\/a> \u2013 Everything in its place","longFooter":"<a href=\"https:\/\/cloud.neuman.fi\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Neuman Cloud<\/a> \u2013 Everything in its place","folder":""};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Neuman Cloud"/><meta property="og:description" content="Everything in its place"/><meta property="og:site_name" content="Neuman Cloud"/><meta property="og:url" content="https://cloud.neuman.fi/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.neuman.fi/apps/theming/icon?v=5"/><link rel="stylesheet" href="/apps/theming/styles?v=5"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjIuMi4wLjIiLCJ2ZXJzaW9uc3RyaW5nIjoiMjIuMi4wIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiJjNzQ4ZThmYzU4OGI1NGZjNWFmMzhjNDQ4MWExOWQyMCJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWUsInZlcnNpb25pbmciOnRydWV9LCJhY3Rpdml0eSI6eyJhcGl2MiI6WyJmaWx0ZXJzIiwiZmlsdGVycy1hcGkiLCJwcmV2aWV3cyIsInJpY2gtc3RyaW5ncyJdfSwiY2lyY2xlcyI6eyJ2ZXJzaW9uIjoiMjIuMS4xIiwic3RhdHVzIjp7Imdsb2JhbFNjYWxlIjpmYWxzZX0sInNldHRpbmdzIjp7ImZyb250ZW5kRW5hYmxlZCI6dHJ1ZSwiYWxsb3dlZENpcmNsZXMiOjEzMTA3MSwiYWxsb3dlZFVzZXJUeXBlcyI6MzEsIm1lbWJlcnNMaW1pdCI6LTF9LCJjaXJjbGUiOnsiY29uc3RhbnRzIjp7ImZsYWdzIjp7IjEiOiJTaW5nbGUiLCIyIjoiUGVyc29uYWwiLCI0IjoiU3lzdGVtIiwiOCI6IlZpc2libGUiLCIxNiI6Ik9wZW4iLCIzMiI6Ikludml0ZSIsIjY0IjoiSm9pbiBSZXF1ZXN0IiwiMTI4IjoiRnJpZW5kcyIsIjI1NiI6IlBhc3N3b3JkIFByb3RlY3RlZCIsIjUxMiI6Ik5vIE93bmVyIiwiMTAyNCI6IkhpZGRlbiIsIjIwNDgiOiJCYWNrZW5kIiwiNDA5NiI6IkxvY2FsIiwiODE5MiI6IlJvb3QiLCIxNjM4NCI6IkNpcmNsZSBJbnZpdGUiLCIzMjc2OCI6IkZlZGVyYXRlZCIsIjY1NTM2IjoiTW91bnQgcG9pbnQifSwic291cmNlIjp7ImNvcmUiOnsiMSI6Ik5leHRjbG91ZCBVc2VyIiwiMiI6Ik5leHRjbG91ZCBHcm91cCIsIjQiOiJFbWFpbCBBZGRyZXNzIiwiOCI6IkNvbnRhY3QiLCIxNiI6IkNpcmNsZSIsIjEwMDAwIjoiTmV4dGNsb3VkIEFwcCJ9LCJleHRyYSI6eyIxMDAwMSI6IkNpcmNsZXMgQXBwIiwiMTAwMDIiOiJBZG1pbiBDb21tYW5kIExpbmUifX19LCJjb25maWciOnsiY29yZUZsYWdzIjpbMSwyLDRdLCJzeXN0ZW1GbGFncyI6WzUxMiwxMDI0LDIwNDhdfX0sIm1lbWJlciI6eyJjb25zdGFudHMiOnsibGV2ZWwiOnsiMSI6Ik1lbWJlciIsIjQiOiJNb2RlcmF0b3IiLCI4IjoiQWRtaW4iLCI5IjoiT3duZXIifX0sInR5cGUiOnsiMCI6InNpbmdsZSIsIjEiOiJ1c2VyIiwiMiI6Imdyb3VwIiwiNCI6Im1haWwiLCI4IjoiY29udGFjdCIsIjE2IjoiY2lyY2xlIiwiMTAwMDAiOiJhcHAifX19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sIm5vdGVzIjp7ImFwaV92ZXJzaW9uIjpbIjAuMiIsIjEuMiJdLCJ2ZXJzaW9uIjoiNC4zLjEifSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjEwLCJlbmZvcmNlTm9uQ29tbW9uUGFzc3dvcmQiOnRydWUsImVuZm9yY2VOdW1lcmljQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VTcGVjaWFsQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6ZmFsc2UsImFwaSI6eyJnZW5lcmF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvY2xvdWQubmV1bWFuLmZpXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xMi4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGlvbkVuYWJsZWQiOnRydWV9LCJmaWxlc19zaGFyaW5nIjp7InNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fSwiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6dHJ1ZSwiZGF5cyI6NywiZW5mb3JjZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfX0sInRoZW1pbmciOnsibmFtZSI6Ik5ldW1hbiBDbG91ZCIsInVybCI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcLyIsInNsb2dhbiI6IkV2ZXJ5dGhpbmcgaW4gaXRzIHBsYWNlIiwiY29sb3IiOiIjOEVDOUJEIiwiY29sb3ItdGV4dCI6IiMwMDAwMDAiLCJjb2xvci1lbGVtZW50IjoiIzhFQzlCRCIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiIzhFQzlCRCIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiM4RUM5QkQiLCJsb2dvIjoiaHR0cHM6XC9cL2Nsb3VkLm5ldW1hbi5maVwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTUiLCJiYWNrZ3JvdW5kIjoiIzhFQzlCRCIsImJhY2tncm91bmQtcGxhaW4iOnRydWUsImJhY2tncm91bmQtZGVmYXVsdCI6dHJ1ZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj01IiwiZmF2aWNvbiI6Imh0dHBzOlwvXC9jbG91ZC5uZXVtYW4uZmlcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj01In0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmV1bWFuIENsb3VkIiwidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLm5ldW1hbi5maVwvIiwic2xvZ2FuIjoiRXZlcnl0aGluZyBpbiBpdHMgcGxhY2UiLCJjb2xvciI6IiM4RUM5QkQiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjp0cnVlLCJjYWNoZUJ1c3RlciI6IjUifQ==">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Neuman Cloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://cloud.neuman.fi/" target="_blank" rel="noreferrer noopener" class="entity-name">Neuman Cloud</a> – Everything in its place			</p>
+		</footer>
+	</body>
+</html>

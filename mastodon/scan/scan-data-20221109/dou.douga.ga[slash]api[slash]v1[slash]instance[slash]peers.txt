@@ -1,0 +1,31 @@
+HTTP/1.1 203 
+Connection: close
+Content-Length: 634
+Age: 0
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:51 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: JSESSIONID=92356BC0A8FF21FFBC9E788A1E55CECC; Path=/; HttpOnly
+X-Server: ip-172-31-4-37
+
+<html> 
+  <head>
+    <title>douga.ga</title>
+    <meta http-equiv="refresh" content="1; URL=http://domain.dot.tk/p/?d=DOUGA.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005869335"/>
+    <script type="text/javascript">
+    <!--
+      function redir(){ var $fwd = 'http://domain.dot.tk/p/?d=DOUGA.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005869335'; if(window.parent){ window.parent.location=$fwd; }else{ window.location=$fwd; }}
+    //-->
+    </script>
+  </head>
+  <body onload="redir()">
+    <script language="text/javascript">
+    <!--
+      window.setTimeout('redir();', 50 * 1);
+    //-->
+    </script>
+  </body>
+</html>

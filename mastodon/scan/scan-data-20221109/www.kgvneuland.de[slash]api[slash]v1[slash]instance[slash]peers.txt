@@ -1,0 +1,73 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 3376
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:39 GMT
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Generator: ejoMOD
+Pragma: no-cache
+Server: Apache
+
+<!DOCTYPE html>
+<html dir="ltr" lang="UTF-8">
+<head>
+	<base href="https://www.kgvneuland.de/">
+	<meta charset="UTF-8">
+	<meta name="language" content="de">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+	<meta name="date" content="2022-11-09T16:22:39+01:00">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache, no-store">
+	<meta http-equiv="expires" content="Sat, 01 Jan 2000 00:00:00 GMT">
+	<meta name="generator" content="ejoMOD (c) E.J.Minhorst, Dresden">
+	<title>ejoMOD (c) E.J.Minhorst, Dresden - Error 404: Not Found</title>
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+	<style type="text/css">
+		html,body{height:100%;margin:0;padding:0}
+		body{color:#003300;background:#F3F7E9;font-size:9px;font-size:0.9em;font-family:sans-serif;height:95%;text-align:center;background-image:url("act/web/errorpage/broken-col.png");background-repeat:no-repeat;background-size:contain;background-position:center center;background-attachment:fixed}
+		.wrp{height: 70%;width:100%}
+		.tbl{display:table;height:100%;width:100%;max-width:800px;margin: 0 auto}
+		.cl1{display:table-cell;vertical-align:middle;text-align:right;width:30%;min-width:80px}
+		.cl2{display:table-cell;vertical-align:middle;width:70%}
+		.cl1 img{width:100%;height:auto;max-width:180px}
+		a{color:#A74200;border-bottom:1px dashed #A74200;;text-decoration:none}
+		a:hover{color:#FF0000;border-bottom:1px solid #FF0000}
+		a:before{content:"\25BA";margin-left:0.2em;margin-right:0.1em}
+		a:after{content:"";padding-right:0.1em}
+		h1,h2,h3{line-height:1em;margin-top:1em;margin-bottom:0;font-weight:bold;text-align:center}
+		h2{font-size:140%}
+		h3{font-size:100%;line-height:1.1em}
+		p{line-height:1em;margin-top:.5em;margin-bottom:0}
+		.inf{padding:20px;display:block;max-width:400px}
+		.nvt a{display:inline-block;white-space:nowrap}
+		.nvt{font-size: 90%;line-height:1.6em}
+		.aif{color:#417941;font-size: 80%;line-height:1.1em;font-style:italic;margin-top:1em}
+		.rem{font-size:smaller;font-weight:normal;font-style:italic}
+		.ftr{font-size:75%;line-height:1.3em}
+		.ftr a:before{content:""}
+		@media screen and (min-width:601px){body{font-size:11px;font-size:1.1em}}
+	</style>
+</head>
+
+<body>
+<h2>Dokument nicht gefunden<br><span style="font-size:smaller">(Error 404: Not Found)</span></h2>
+<div class="wrp">
+<div class="tbl">
+	<div class="cl1"><img src="act/web/errorpage/logo190x220.png"></div>
+	<div class="cl2">
+	<div class="inf">
+		<h3>Die angegebene Web-Adressse f&uuml;hrt ins Leere! Der Link ist leider ung&uuml;ltig. <br><span class="rem">(M&ouml;glicherweise auch aus veralteten Link-Favoriten - aktualisieren Sie in diesem Fall bitte Ihren Browser)</span>.</h3>
+		<p>Von hier aus haben Sie jetzt folgende M&ouml;glichkeiten:</p>
+		<p class="nvt">Zur <a href="/">Startseite</a> oder zur&uuml;ck <a href="javascript: history.back()">zur letztbesuchten Seite</a> </p>
+	</div>
+	</div>
+</div>
+	<p class="ftr"><a href="http://kgv.dd/" target="_self">KGV&nbsp;Neuland&nbsp;e.V.</a> (VR&nbsp;731)&nbsp;&middot; 01159&nbsp;Dresden, Emerich-Ambros-Ufer&nbsp;57&nbsp;&middot; (Vorstand:&nbsp;<a href="mailto:neulandpost@t-online.de">K.&nbsp;Woloschanowski</a>)</p>
+</div>
+</body>
+
+</html>

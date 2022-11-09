@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:21:48 GMT
+Location: http://ww1.autizmo.xyz/?subid1=3a47f682-6042-11ed-a622-d2538090ff68
+Server: Cowboy
+Set-Cookie: sid=3a47f682-6042-11ed-a622-d2538090ff68; path=/; domain=.autizmo.xyz; expires=Mon, 27 Nov 2090 18:35:55 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

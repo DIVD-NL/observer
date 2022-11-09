@@ -1,0 +1,51 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 1689
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:59 GMT
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: UnciaRelay/0.7.1
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Barkshark Relay: Error</title>
+        <link rel='shortcut icon', type='image/png', href='/framework/static/icon64.png' />
+        <link rel='stylesheet' type='text/css' href='/framework/style.css' />
+        <link rel='manifest' href='/framework/manifest.json' />
+        <meta charset='UTF-8' />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
+            </head>
+    <body>
+        <div id="body">
+            <div id="header" class="flex-container">
+                    <div class="page-title section"><a class="title" href='/'>Barkshark Relay</a></div>
+                    <div id="btn" class="section">                    </div>
+            </div>
+            <div id="menu" class="section">
+                <div class="title-item item">Menu</div>
+                <div id="items">
+<div class="item"><a href='/'>Home</a></div>
+<div class="item"><a href='/about'>About</a></div>                </div>
+            </div>
+            <div id="content-body" class="section">
+    <center>
+        <font size='8'>
+            HTTP 404
+        </font>
+        <br />
+        Not Found
+    </center>
+            </div>
+            <div id="footer" class="grid-container section">
+                <div class="avatar">                </div>
+                <div class="user">                </div>
+                <div class="source">
+                    <a href='https://git.barkshark.xyz/izaliamae/uncia' target='_new'>UnciaRelay/0.1.1</a>
+                </div>
+            </div>
+        </div>
+        <script type='application/javascript' src='/framework/static/menu.js'>        </script>
+    </body>
+</html>

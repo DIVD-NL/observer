@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.jeckyll.net; img-src 'self' https: data: blob: https://mastodon.jeckyll.net; style-src 'self' https://mastodon.jeckyll.net 'nonce-x2231LHHLbSQGwv7B1UWGQ=='; media-src 'self' https: data: https://mastodon.jeckyll.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.jeckyll.net; connect-src 'self' data: blob: https://mastodon.jeckyll.net https://mastodon.jeckyll.net wss://mastodon.jeckyll.net; script-src 'self' https://mastodon.jeckyll.net; child-src 'self' blob: https://mastodon.jeckyll.net; worker-src 'self' blob: https://mastodon.jeckyll.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:31 GMT
+Etag: W/"788534862c0813e367119ab8cf4e3620"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.686536Z
+X-Request-Id: 070ff1b7-e17c-4359-9906-ac3e95126223
+X-Runtime: 0.007427
+X-Xss-Protection: 0
+
+c2
+["noc.social","botsin.space","social.nodered.org","mastodon.me.uk","kicou.info","mastodon.social","mastodon.radio","mastodon.uno","fosstodon.org","tech.lgbt","mstdn.social","noagendasocial.com"]
+0
+

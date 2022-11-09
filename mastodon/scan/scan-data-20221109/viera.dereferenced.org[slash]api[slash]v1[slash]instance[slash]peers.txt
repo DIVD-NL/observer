@@ -1,0 +1,11 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 14
+Access-Control-Allow-Headers: Authorization, Content-Type
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:08 GMT
+Server: nginx
+
+404: Not Found

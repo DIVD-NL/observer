@@ -1,0 +1,41 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:39 GMT
+Server: nginx/1.14.2
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: sameorigin
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: fa17ad39-a60b-4531-b7ef-b291bda03970
+X-Runtime: 0.007500
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The page you were looking for doesn't exist (404)
+</title>
+<meta charset='utf-8'>
+<link href='/assets/favicon-158d223c914fb4936d3b14294dbc3f0d4d87ffced0694cc013cca43910ef2324.png' rel='shortcut icon'>
+<link href='/assets/apple-touch-icon-9f7c9cc3923b4817fbb25bfeb0dd5fd34638827fd9c82b5a03f7b68e6e90806f.png' rel='apple-touch-icon'>
+<link rel="stylesheet" media="all" href="/assets/error_pages-1bb0aac3c7dd20e047bc9a32d6bd6495e37707ec28db9945cbdd8a1d97415395.css" />
+
+</head>
+<body class='error-404' id='error_404'>
+<div class='transparent big-number'>
+404
+</div>
+<h3>
+These are not the kittens you're looking for. Move along.
+</h3>
+<p>
+<a href='javascript:history.back()'>
+Go Back?
+</a>
+</p>
+
+</body>
+</html>

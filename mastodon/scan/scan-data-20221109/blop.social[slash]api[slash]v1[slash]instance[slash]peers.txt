@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://blop.social; img-src 'self' https: data: blob: https://blop.social; style-src 'self' https://blop.social 'nonce-7rSE+23Y/BgWJ2DhpNn8Qw=='; media-src 'self' https: data: https://blop.social; frame-src 'self' https:; manifest-src 'self' https://blop.social; connect-src 'self' data: blob: https://blop.social https://blop.social wss://blop.social; script-src 'self' https://blop.social; child-src 'self' blob: https://blop.social; worker-src 'self' blob: https://blop.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:16 GMT
+Etag: W/"fc7fe787cf47715f6ac8fc661a1e3fcd"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.685999Z
+X-Request-Id: 5539d3c5-f945-4fb8-b07b-cd39022a674f
+X-Runtime: 0.016682
+X-Xss-Protection: 0
+
+257
+["tbo.social","mastodon.art","anonsys.net","eeeeeeeee.eu","uncorking.me","commiespace.duckdns.org","pleroma.1d4.us","mastodon.green","mastodon.online","mas.to","framapiaf.org","fosstodon.org","social.growyourown.services","epicyon.libreserver.org","mastodon.me.uk","port87.social","social.bennypowers.dev","queer.group","chaos.social","toot.party","tech.lgbt","mastodon.sdf.org","nerdculture.de","eldritch.cafe","rollenspiel.social","stuifbergen.com","sfba.social","mastodon.world","1210.nl","dice.camp","mastodon.social","burningnebula.net","m.gavinbrown.xyz","rage.love","mstdn.io","mstdn.social"]
+0
+

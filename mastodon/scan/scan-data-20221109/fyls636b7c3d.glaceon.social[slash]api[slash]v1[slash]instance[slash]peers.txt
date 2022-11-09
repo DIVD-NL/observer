@@ -1,0 +1,18 @@
+HTTP/1.1 429 Too Many Requests
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:53:54 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 0
+X-Ratelimit-Reset: 2022-11-09T14:55:00.641013Z
+X-Request-Id: 7713f5d5-b83e-447c-b48c-fe030e64e045
+X-Runtime: 0.004245
+
+1d
+{"error":"Too many requests"}
+0
+

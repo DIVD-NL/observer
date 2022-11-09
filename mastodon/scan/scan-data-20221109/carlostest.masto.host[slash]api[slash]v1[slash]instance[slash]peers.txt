@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://carlostest.masto.host; img-src 'self' https: data: blob: https://carlostest.masto.host; style-src 'self' https://carlostest.masto.host 'nonce-3Qq16eh6ndGVAoTGJ70toA=='; media-src 'self' https: data: https://carlostest.masto.host; frame-src 'self' https:; manifest-src 'self' https://carlostest.masto.host; connect-src 'self' data: blob: https://carlostest.masto.host https://cdn.masto.host wss://carlostest.masto.host; script-src 'self' https://carlostest.masto.host; child-src 'self' blob: https://carlostest.masto.host; worker-src 'self' blob: https://carlostest.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:20 GMT
+Etag: W/"3d57ae4da3a4dec86da588a3711ef53c"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.999053Z
+X-Request-Id: d4509e86-b941-4e0e-a858-c2a759d446cc
+X-Runtime: 0.008376
+X-Xss-Protection: 0
+
+13
+["mastodon.social"]
+0
+

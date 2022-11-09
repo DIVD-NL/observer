@@ -1,0 +1,29 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677787408eef96d-BRU
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: application/json; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Date: Wed, 09 Nov 2022 15:09:37 GMT
+Etag: W/"a7-UTWj41lIvAfVmr0mifsC4igEjuE"
+Expect-Ct: max-age=0
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Origin-Agent-Cluster: ?1
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ws9LE19y3kUqwKA7B9Jq9x%2FKp5nxZZaJyDLEUgkvbzFwsD3IBqcNjHg1%2BA72yUqpMLoeHh8mHFaAEarmB6%2F1ouiAp%2FB9iB6xQyahLVmM6chJMvL4kwXrKw8PBpiR9IBk"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+
+a7
+{"path":"&#x2F;v1&#x2F;instance&#x2F;peers","title":"[[global:404.title]]","bodyClass":"page-v1 page-v1-instance page-v1-peers page-status-404 theme-xsden user-guest"}
+0
+

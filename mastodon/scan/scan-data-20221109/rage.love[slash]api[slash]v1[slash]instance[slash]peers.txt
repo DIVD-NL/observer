@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://rage.love; img-src 'self' https: data: blob: https://rage.love; style-src 'self' https://rage.love 'nonce-XbnbXjLussbxIez0bp0HDg=='; media-src 'self' https: data: https://rage.love; frame-src 'self' https:; manifest-src 'self' https://rage.love; connect-src 'self' data: blob: https://rage.love https://rage.love wss://rage.love; script-src 'self' https://rage.love; child-src 'self' blob: https://rage.love; worker-src 'self' blob: https://rage.love
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:51 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.511707Z
+X-Request-Id: 87fdd0f4-1a20-4553-b0ff-5fcba02e776c
+X-Runtime: 0.009316
+X-Xss-Protection: 0
+
+0
+

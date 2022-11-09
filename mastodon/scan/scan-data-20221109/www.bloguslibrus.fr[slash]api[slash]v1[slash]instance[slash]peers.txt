@@ -1,0 +1,29 @@
+HTTP/1.0 301 Moved Permanently
+Content-Length: 510
+Connection: close
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:31 GMT
+Location: https://bloguslibrus.fr/api/v1/instance/peers
+Server: OpenBSD httpd
+Strict-Transport-Security: max-age=31536000; preload
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>301 Moved Permanently</title>
+<style type="text/css"><!--
+body { background-color: white; color: black; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; }
+hr { border: 0; border-bottom: 1px dashed; }
+@media (prefers-color-scheme: dark) {
+body { background-color: #1E1F21; color: #EEEFF1; }
+a { color: #BAD7FF; }
+}
+--></style>
+</head>
+<body>
+<h1>301 Moved Permanently</h1>
+<hr>
+<address>OpenBSD httpd</address>
+</body>
+</html>

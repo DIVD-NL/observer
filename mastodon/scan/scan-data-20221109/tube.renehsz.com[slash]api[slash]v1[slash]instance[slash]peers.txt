@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Alt-Svc: h3=":443"; ma=86400
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:24 GMT
+Location: https://www.renehsz.com/api/v1/instance/peers
+Onion-Location: http://e7wqdhx4woyrwtiql4idwzpydjitz47qp7v7zd3wfxwofnoxejgpmqid.onion/api/v1/instance/peers
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

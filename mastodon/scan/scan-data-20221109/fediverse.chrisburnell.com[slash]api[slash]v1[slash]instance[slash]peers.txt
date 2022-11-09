@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76776785b9052dd6-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:03 GMT
+Location: https://fediverse.repc.co/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kWdHAo3GqcuPBfQlQYBFU90QOJAspJ2mYlbhYjUoSOxETUP1EwAY4mFCdVyXVUQr%2Fou8mrFDNuszNssmSnZRlVStVAETEXIEccmoiouDJ4EoBrEQoRVTJzASjhlI1emR1Ir%2Fmcqb8ddjd%2Biz8w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+
+a2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

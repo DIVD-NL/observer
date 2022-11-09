@@ -1,0 +1,115 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:08 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=OnX2tWsJfdL3a3dR6F9BUTwFx0XKh%2B7vGF7I78%2FoIe46pZRsPcXILi2%2FMZX4EA59JrNq6DaMt9bwKMNHLlrKlnex5RqM0v3kQrIIkcYdNA0IkTyWG6mhFwopnh%2BBMp9%2B; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ociuscb22pyf=8e13f79e54bdf2a4589ca54889527b8c; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/7.4
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="q+dydWJrgkFaWgorHGZUqF9TNT7Ci+Ffya97edPGP1I=:xsgIByw+9HACcTtMbSQk42k6U3qF7YoJpoQTE/iOCh0=">
+		<meta charset="utf-8">
+		<title>
+		NextChiquette		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#298BA1">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=17">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=17">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#298BA1">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=17">
+		<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-17">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=46c85d58-17">
+<link rel="stylesheet" href="/core/css/guest.css?v=ed15e259-17">
+		<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/core/js/dist/main.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/core/js/dist/files_fileinfo.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/core/js/dist/files_client.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/index.php/js/core/merged-template-prepend.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/files_sharing/js/dist/main.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/files_videoplayer/js/main.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/apporder/js/apporder.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/files_rightclick/js/script.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/files_rightclick/js/files.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/apps/theming/js/theming.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=" defer src="/core/js/dist/login.js?v=ed15e259-17"></script>
+<script nonce="cStkeWRXSnJna0ZhV2dvckhHWlVxRjlUTlQ3Q2krRmZ5YTk3ZWRQR1AxST06eHNnSUJ5dys5SEFDY1R0TWJTUWs0Mms2VTNxRjdZb0pwb1FURS9pT0NoMD0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","apporder":"/apps/apporder","bookmarks":"/apps/bookmarks","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","carnet":"/apps/carnet","cloud_federation_api":"/apps/cloud_federation_api","cms_pico":"/apps/cms_pico","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","deck":"/apps/deck","drawio":"/apps/drawio","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","mail":"/apps/mail","news":"/apps/news","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668006848;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"20.0.14.2","versionstring":"20.0.14","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/20\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10}};
+var _theme={"entity":"NextChiquette","name":"NextChiquette","title":"NextChiquette","baseUrl":"https:\/\/next.chiquette.fr","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/20\/go.php?to=PLACEHOLDER","slogan":"un serveur pour synchroniser des fichiers et partager avec les copains... exp\u00e9rience 2020!","logoClaim":"","shortFooter":"<a href=\"https:\/\/next.chiquette.fr\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">NextChiquette<\/a> \u2013 un serveur pour synchroniser des fichiers et partager avec les copains... exp\u00e9rience 2020!","longFooter":"<a href=\"https:\/\/next.chiquette.fr\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">NextChiquette<\/a> \u2013 un serveur pour synchroniser des fichiers et partager avec les copains... exp\u00e9rience 2020!","folder":""};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="NextChiquette"/><meta property="og:description" content="un serveur pour synchroniser des fichiers et partager avec les copains... expérience 2020!"/><meta property="og:site_name" content="NextChiquette"/><meta property="og:url" content="https://next.chiquette.fr/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://next.chiquette.fr/index.php/apps/theming/icon?v=17"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=17"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjAuMC4xNC4yIiwidmVyc2lvbnN0cmluZyI6IjIwLjAuMTQiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6ZmFsc2UsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MCwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQifQ==">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9uZXh0LmNoaXF1ZXR0ZS5mclwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6IjYyMjZiYTg3MzM3M2Y1ZTczYTNlZjUwNDEwNzUyM2Y3In0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9uZXh0LmNoaXF1ZXR0ZS5mclwvaW5kZXgucGhwXC9vY20iLCJyZXNvdXJjZVR5cGVzIjpbeyJuYW1lIjoiZmlsZSIsInNoYXJlVHlwZXMiOlsidXNlciIsImdyb3VwIl0sInByb3RvY29scyI6eyJ3ZWJkYXYiOiJcL3B1YmxpYy5waHBcL3dlYmRhdlwvIn19XX0sImRhdiI6eyJjaHVua2luZyI6IjEuMCJ9LCJkZWNrIjp7InZlcnNpb24iOiIxLjIuMTEiLCJjYW5DcmVhdGVCb2FyZHMiOnRydWV9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6OCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvbmV4dC5jaGlxdWV0dGUuZnJcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvbmV4dC5jaGlxdWV0dGUuZnJcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJmaWxlc19zaGFyaW5nIjp7InNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX19LCJ0aGVtaW5nIjp7Im5hbWUiOiJOZXh0Q2hpcXVldHRlIiwidXJsIjoiaHR0cHM6XC9cL25leHQuY2hpcXVldHRlLmZyIiwic2xvZ2FuIjoidW4gc2VydmV1ciBwb3VyIHN5bmNocm9uaXNlciBkZXMgZmljaGllcnMgZXQgcGFydGFnZXIgYXZlYyBsZXMgY29wYWlucy4uLiBleHBcdTAwZTlyaWVuY2UgMjAyMCEiLCJjb2xvciI6IiMyOThCQTEiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMjk4QkExIiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMjk4QkExIiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzI5OEJBMSIsImxvZ28iOiJodHRwczpcL1wvbmV4dC5jaGlxdWV0dGUuZnJcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xNyIsImJhY2tncm91bmQiOiIjMjk4QkExIiwiYmFja2dyb3VuZC1wbGFpbiI6dHJ1ZSwiYmFja2dyb3VuZC1kZWZhdWx0Ijp0cnVlLCJsb2dvaGVhZGVyIjoiaHR0cHM6XC9cL25leHQuY2hpcXVldHRlLmZyXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTciLCJmYXZpY29uIjoiaHR0cHM6XC9cL25leHQuY2hpcXVldHRlLmZyXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTcifSwidXNlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZSwic3VwcG9ydHNfZW1vamkiOmZhbHNlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmV4dENoaXF1ZXR0ZSIsInVybCI6Imh0dHBzOlwvXC9uZXh0LmNoaXF1ZXR0ZS5mciIsInNsb2dhbiI6InVuIHNlcnZldXIgcG91ciBzeW5jaHJvbmlzZXIgZGVzIGZpY2hpZXJzIGV0IHBhcnRhZ2VyIGF2ZWMgbGVzIGNvcGFpbnMuLi4gZXhwXHUwMGU5cmllbmNlIDIwMjAhIiwiY29sb3IiOiIjMjk4QkExIiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiMTcifQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									NextChiquette								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://next.chiquette.fr" target="_blank" rel="noreferrer noopener" class="entity-name">NextChiquette</a> – un serveur pour synchroniser des fichiers et partager avec les copains... expérience 2020!			</p>
+		</footer>
+	</body>
+</html>

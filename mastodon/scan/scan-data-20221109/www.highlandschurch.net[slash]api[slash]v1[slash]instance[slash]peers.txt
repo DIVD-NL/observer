@@ -1,0 +1,99 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 5255
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:37 GMT
+Pragma: no-cache
+Server: OpenBSD httpd
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css" integrity="sha384-YzEqZ2pBV0i9OmlTyoz75PqwTR8If8GsXBv7HLQclEVqIC3VxIt98/U94ES6CJTR" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="/css/vendor/open-iconic-bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+        
+        <title>
+A 404 Error has Occurred — Not Found
+</title>
+
+    </head>
+    <body>
+        <div class="container">
+        
+<div class="row"><div class="col-12"><div class="page-header">
+    <h1>Error 404&nbsp;&mdash;&nbsp;Not Found</h1>
+</div></div></div>
+
+<div><p><em>But where shall wisdom be found?<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And where is the place of understanding?<br />Mortals do not know the way to it,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and it is not found in the land of the living.<br />The deep says, &ldquo;It is not in me,&rdquo;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the sea says, &ldquo;It is not with me.&rdquo;</em>&nbsp;&mdash;&nbsp;Job 28:12-14, NRSV</p></div>
+
+
+        </div>
+        
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+          <a class="navbar-brand" href="/"><img class="align-middle" src="/img/cross_24.png" alt="[+]" />&nbsp;Highlands Presbyterian Church</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/">Welcome</a>
+  </li>
+
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarExplore" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Explore
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarExplore">
+                      <a class="dropdown-item" href="/our-pastor">Our Pastor</a>
+                      <a class="dropdown-item" href="/our-faith">Our Faith</a>
+                      <a class="dropdown-item" href="/facilities/">Facilities</a>
+                      <a class="dropdown-item" href="/calendar">Calendar</a>
+                  </div>
+              </li>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarGrow" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Grow
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarGrow">
+                      <a class="dropdown-item" href="/podcast">Sermon Podcast</a>
+                      <a class="dropdown-item" href="/videos/">Videos</a>
+                  </div>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbRALo44VK9CS3qJI_hU8gRVX7sm9wYZo2onRxYng5iCQvEEUgbepsAG1d1O5A7L11IGMy6KLU6-VX1JIEG2Gmfg=&ver=3">Give</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact">Contact</a>
+  </li>
+
+            </ul>
+            <ul class="navbar-nav my-auto">
+            
+              <li class="nav-item">
+                <a class="nav-link" href="/login?came_from=https%3A%2F%2Fwww.highlandschurch.net%2Ferror%2Fdocument">Login</a>
+  </li>
+
+            
+            </ul>
+          </div>
+        </nav>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <!-- Flash messages -->
+        
+            
+        
+        
+    </body>
+</html>

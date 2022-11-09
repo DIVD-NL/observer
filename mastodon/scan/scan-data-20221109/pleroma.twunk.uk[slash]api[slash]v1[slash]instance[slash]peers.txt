@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 186
+Accept-Ranges: bytes
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=600; must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:19 GMT
+Etag: "rky0ec56"
+Last-Modified: Sun, 06 Nov 2022 20:18:12 GMT
+Referrer-Policy: no-referrer
+Server: Caddy
+X-Content-Type-Options: nosniff
+
+<!DOCTYPE html>
+<html><head><title>Plero... what?</title></head><body><p>This Pleroma instance is no more. It was here, and now it is not. Thank you for your interest.</p></body></html>

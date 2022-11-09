@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 146
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:49 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

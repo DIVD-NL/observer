@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.snurget.com; img-src 'self' https: data: blob: https://social.snurget.com; style-src 'self' https://social.snurget.com 'nonce-lxds/vSUY4UADFkW5qs7zA=='; media-src 'self' https: data: https://social.snurget.com; frame-src 'self' https:; manifest-src 'self' https://social.snurget.com; connect-src 'self' data: blob: https://social.snurget.com https://social.snurget.com wss://social.snurget.com; script-src 'self' https://social.snurget.com; child-src 'self' blob: https://social.snurget.com; worker-src 'self' blob: https://social.snurget.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:36 GMT
+Etag: W/"f2ed5c6c463e3de2618bc27480d33bd0"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.929294Z
+X-Request-Id: b36fcc72-0e1a-4f4d-a2c9-ca07026f1392
+X-Runtime: 0.051390
+X-Xss-Protection: 0
+
+5eb
+["mstdn.social","mastodon.social","friendica.mschmidt-et.de","friendica.opensocial.space","scl.clttr.info","wiesbaden.social","friendica.oldkid.digital","f.iroiro.party","letus.inspiredlife.fun","soc.citizen4.eu","friendica.hellquist.eu","f.freinetz.ch","friendica.offsite.guru","friendica.mifritscher.de","friendica.bachgau.social","friendica.opencloud.lu","fr.readthefinemanual.net","keybored.me","space.rick.gr","soc.schuerz.at","friendica.m14xa.ru","pirati.ca","social.badabam.net","poliverso.org","fed.sonnenmulde.at","f.kretschmann.social","friendica.togart.de","opensocial.at","quitter.pl","friendica.a-zwenkau.de","kudabiverse.com","social.tromdienste.de","friendica.hashy-net.de","social.cool110.xyz","friendica.jb-net.us","f.praschnig.com","herzbu.de","friendica.ucy.de","friendica.mrpetovan.com","anarchydica.net","rud.life","vicedomini.cloud","social.softmetz.de","g1zm0.social","frnd.nanoscopic.de","social.jmueller.eu","follow.schmaller.de","friendica.nz","dehawara.de","meld.de","friendica.ru","social.outsourcedmath.com","social.dorf-post.de","friendica.ambag.es","anonsys.net","social.trom.tf","fri.aethercom.de","friendica.philipp.info","friendica.wageoffsite.com","friendl.y-y.li","pztrn.online","friendica.me","friendica.myportal.social","social.thierrytalbert.fr","social.yl.ms","social.fedinet.de","friendica.vrije-mens.org","philos.fkn-systems.de","friendica.eskimo.com","librenet.co.za","friendica.ironbug.org","nsfw.wnymathguy.com","walls.social","mastodon.art","friendicarg.nsupdate.info"]
+0
+

@@ -1,0 +1,8 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 637
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:16:59 GMT
+Server: Apache
+
+<!DOCTYPE HTML> <html lang="en"> <head> <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" /> <title>Page not found</title> <style> html {font-size: 15pt; height: 100%; } body {background: #24252d; font-family: Arial, Helvetica, sans-serif; color: #bbb; line-height: 1.5; text-align: center; display: flex; align-items: center; height: 100%; flex-direction: column; justify-content: center; } h1 {color: #fff; margin: 0; } @media screen and (max-width: 736px) {html {font-size: 11pt; } } </style> </head> <body> <h1>Page not found</h1> <p>Sorry, the requested page could not be found.</p> </body> </html>

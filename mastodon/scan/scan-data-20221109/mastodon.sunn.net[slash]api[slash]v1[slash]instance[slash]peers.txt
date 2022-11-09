@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sunn.net; img-src 'self' https: data: blob: https://mastodon.sunn.net; style-src 'self' https://mastodon.sunn.net 'nonce-QBh7ZFren+dbEQaiZ66JAA=='; media-src 'self' https: data: https://mastodon.sunn.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.sunn.net; connect-src 'self' data: blob: https://mastodon.sunn.net https://mastodon.sunn.net wss://mastodon.sunn.net; script-src 'self' https://mastodon.sunn.net; child-src 'self' blob: https://mastodon.sunn.net; worker-src 'self' blob: https://mastodon.sunn.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:18 GMT
+Etag: W/"2b75d209d05ceb4504442e354c929651"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:05:00.405018Z
+X-Request-Id: 353e612f-a38a-4256-938e-c09af29ccd79
+X-Runtime: 0.014248
+X-Xss-Protection: 0
+
+af
+["mastodon.social","mastodon.online","mastodon.matrix.org","botsin.space","fosstodon.org","noisemakerbot.social","counter.social","hofra.rocks","hostux.social","mstdn.social"]
+0
+

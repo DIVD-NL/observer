@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.chun.pro; img-src 'self' https: data: blob: https://m.chun.pro; style-src 'self' https://m.chun.pro 'nonce-73zJCOvPaSoTF1vdaupwuw=='; media-src 'self' https: data: https://m.chun.pro; frame-src 'self' https:; manifest-src 'self' https://m.chun.pro; connect-src 'self' data: blob: https://m.chun.pro https://m.chun.pro wss://m.chun.pro; script-src 'self' https://m.chun.pro; child-src 'self' blob: https://m.chun.pro; worker-src 'self' blob: https://m.chun.pro
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:14 GMT
+Etag: W/"fee872cad219e9ab7d6bfc7bb08f76dd"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:45:00.835923Z
+X-Request-Id: af5d089f-7e38-40f9-b45f-9ff050dbf476
+X-Runtime: 0.021922
+X-Xss-Protection: 0
+
+95
+["mstdn.jp","hci.social","mastodon.social","o3o.ca","dair-community.social","social.slat.org","sigmoid.social","mastodon.art","m.cmx.im","socel.net"]
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://follow.ethanmarcotte.com; img-src 'self' https: data: blob: https://follow.ethanmarcotte.com; style-src 'self' https://follow.ethanmarcotte.com 'nonce-Cbwfy1dIaiwm7ePS1hvB7A=='; media-src 'self' https: data: https://follow.ethanmarcotte.com; frame-src 'self' https:; manifest-src 'self' https://follow.ethanmarcotte.com; connect-src 'self' data: blob: https://follow.ethanmarcotte.com https://follow.ethanmarcotte.com wss://follow.ethanmarcotte.com; script-src 'self' https://follow.ethanmarcotte.com; child-src 'self' blob: https://follow.ethanmarcotte.com; worker-src 'self' blob: https://follow.ethanmarcotte.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:12 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.328067Z
+X-Request-Id: ba79a9bf-fd04-490c-8888-b812b6a45b93
+X-Runtime: 0.012444
+X-Xss-Protection: 0
+
+0
+

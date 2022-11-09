@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777c091d95b9ab-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.parastor.net; img-src 'self' https: data: blob: https://mastodon.parastor.net; style-src 'self' https://mastodon.parastor.net 'nonce-J4HOQPwukFg06GT6UWum6w=='; media-src 'self' https: data: https://mastodon.parastor.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.parastor.net; connect-src 'self' data: blob: https://mastodon.parastor.net https://mastodon.parastor.net wss://mastodon.parastor.net; script-src 'self' https://mastodon.parastor.net; child-src 'self' blob: https://mastodon.parastor.net; worker-src 'self' blob: https://mastodon.parastor.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:04 GMT
+Etag: W/"5fca44d4e50717a7d471b5d660c3cb53"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nV92%2F%2BdFiA46gTTRoM6B745k6hXu7%2FYTbANf%2BoOiGopI%2FxTxpB0wYT6pb6AxZljdqf6%2Bb7JCRrbe5CHcgZSlJ5CpfzA9cGKRjPOY%2BaBv7pn8Is3oYDJxu9%2Bq3YeR%2Fd44cVCPBo0bMyo%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=8.000002708286e-06
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T13:25:00.122537Z
+X-Request-Id: 8049c1cc-a227-4041-b3f0-7c2ed8a56272
+X-Runtime: 0.005390
+X-Served-By: mastodon.parastor.net
+X-Xss-Protection: 0
+
+b6c
+["toot.fedilab.app","relay.toot.yukimochi.jp","mastodon-relay.thedoodleproject.net","depixelated.com","fedibird.com","pythonist.as","relay.chocoflan.net","democracy.town","sushi.ski","pokemon.mastportal.info","mastodon.comwork.io","octodon.social","kancolle.social","mastodon.murkworks.net","eldritch.cafe","fediscience.org","metalhead.club","indiepocalypse.social","sauropods.win","pao.moe","godforsaken.website","social.bennypowers.dev","relay.freespeech.club","stereophonic.space","mastodon.cloud","mstdn.home.neso.tech","mastodontti.fi","mstdn.poyo.me","haha.rocks","bitcoinhackers.org","borg.social","primitivebits.social","mas.to","simonwillison.net","dice.camp","hashi.icu","social.teamx.cc","vulpine.club","mastodon.ie","gruene.social","toot.works","vmst.io","eupolicy.social","social.hispabot.freemyip.com","toot.community","barcelona.social","p1.a9z.dev","social.satan-speaks.com","berserker.town","mi.cbrx.io","mastodon.world","mastodon.uno","econtwitter.net","federated.press","journa.host","mastodon.hawaga.org.uk","kanoa.de","mstdn.mx","glitterkitten.co.uk","mastodon.holeyfox.co","nangang.travnewmatic.com","relay.fedibird.com","climatejustice.social","mastodon.online","social.nofftopia.com","mstdn.social","mstdn.plusminus.io","starbase80.wtf","anarchism.space","intahnet.co.uk","macaw.social","bluestar.social","gaku-tab-love.com","social.wildeboer.net","mementomori.social","quanta.wiki","bawue.social","drizzle-damp.net","infosec.exchange","tech.lgbt","aus.social","todon.nl","freeradical.zone","dummy.cafe","mastodon.puddle.farm","misskey.nokotaro.com","thebene.fit","nixgeek.com","mastodon.art","writing.exchange","frennet.xyz","mastodon.potproject.net","forfuture.social","winkler.social","toothole.org","social.michaelbrooks.co.uk","social.helpmedog.com","forked.io","theguidrys.us","ravenation.club","mittn.ca","mstdn.ikebuku.ro","uma.milkey.homes","appdot.net","mastodon.prettyrequiem.com","knoxodon.com","social.seattle.wa.us","pawoo.net","fenetre.dev","epistolary.org","die-partei.social","chancellor.social","akko.anemoneya.me","mastodo.fi","mastodon.uy","toot.yukimochi.jp","mastodon.gamedev.place","mamot.fr","0x40.au","kith.kitchen","msk.ilnk.info","wuff.space","mastodon.developage.de","the.crabdance.ca","social.main-angler.de","social.pjcesteves.pt","toot.bike","pleroma.gronkiewicz.dev","erratic.cc","mastodon.csparker.uk","craftcat.dev","fed.xnor.in","talk.mls20.de","itdev.social","dltq.org","loci.onl","skbo.net","tweep.club","pl.comofas.org","notk.ai","updog.no","mastodon.uk.com","qapp.cloud","masto.ai","sometimes.social","mastodon.express","social.tchncs.de","mastodon.green","mstdn.kemono-friends.info","layer8.space","fosstodon.org","mathstodon.xyz","mstdn.love","bolha.us","misskey.io","xarxa.cloud","plem.sapphic.site","cho.yukiya.me","mastodon.social","fandom.community","universeodon.com","social.full-cyber.com","mastodonapp.uk","toot.thedoodleproject.net","respublicae.eu"]
+0
+

@@ -1,0 +1,9 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Date: Wed, 09 Nov 2022 15:19:27 GMT
+Expect-Ct: max-age=31536000, enforce
+Server: Caddy
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Length: 0
+

@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://vd404.cyph.club wss://vd404.cyph.club;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:43 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzzhVCqr2yOnMAAjFx
+X-Xss-Protection: 1; mode=block
+
+529
+["friendica.utzer.de","freespeechextremist.com","queer.hacktivis.me","fedi.absturztau.be","social.xenofem.me","socnet.softgirl.online","pleroma.pixificial.xyz","fediverse.one","novoa.nagoya","detroitriotcity.com","puzzled.cc","kiwifarms.cc","xn--p1abe3d.xn--80asehdb","nerdica.net","freecumextremist.com","loli.pizza","cawfee.club","pl.comfysnug.space","baraag.net","friendica.bachgau.social","expired.mentality.rip","clubcyberia.co","paypig.org","posting.lolicon.rocks","shitposter.club","fuwa.pink","mstdn.jp","froth.zone","youjo.love","social.wideboys.org","contrapointsfan.club","gameliberty.club","pawoo.net","freewahaextremist.com","f.freinetz.ch","letsalllovela.in","udongein.xyz","gearlandia.haus","marsey.club","pl.gamers.exposed","skippers-bin.com","lain.com","weeaboo.space","pleroma.nobodyhasthe.biz","blob.cat","noagendasocial.com","social.jmueller.eu","varishangout.net","bajax.us","rdrama.cc","collapsitarian.io","outerheaven.club","poa.st","a.rathersafe.space","soc.mahodou.moe","eveningzoo.club","pl.murky.club","cum.salon","bae.st","netzsphaere.xyz","hunk.city","sleepy.cafe","pleroma.8777.ch","waifuism.life","mstdn.social","test.fedi.moe","kudabiverse.com","botsin.space","bub.waifuism.life","pl.lain.sh","strelizia.net","comfyboy.club","hidamari.apartments","anonsys.net","social.yl.ms","dobbs.town"]
+0
+

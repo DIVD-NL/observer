@@ -1,0 +1,27 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76775e628972b9a8-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:51:49 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FxSJ8vNjjE5JpknpM79Ziv4D5jyXfZPW%2FtCsfnXxQ2rok74KbkRIuLAfXvE5jwZ9V%2FaBcUVe0J5%2BjnqTZYw1jC3w%2FR%2FPZVwcjxj87Q2t0xB6eO9SaXqvbK3DJLE2FKi1RhQ93Kj3l3ts"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Response-Type: html
+
+634
+<html>
+	<head>
+		<title>Forbidden</title>
+	</head>
+	<body>
+		<h1>Forbidden</h1>
+		<p>Bots are not allowed</p>
+		<script>(function(){var js = "window['__CF$cv$params']={r:'76775e628972b9a8',m:'X.28Z0SivKrLhUsJN30haq2Xgg7sHRBnwxVAxoBBP8o-1668005509-0-AW7ZfFs1qXfUjccNVYAByTSyMaBTNeysJoyggbGMrCMC0MLgZgVkeQ5F/FS8SVqZzu7PZe54nUDYy22KxWRYJbeB2wydEVt2vH4vbuOaAHg8g4QP8FJxKLCYHbF6kwT4W3+HZF1IXHK8sj+6cf1B9ps=',s:[0xea4ed0a09d,0x2b9785d355],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+0
+

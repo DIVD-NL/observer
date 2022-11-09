@@ -1,0 +1,34 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d46cac72e0e-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:55 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VyyOedhdlPVTUId4pDVfmKV9ZyjkDuB36CG2UEOTkfDuUeirsBwyGRQyKH%2FNEadcelKyFF%2B5hQnlBlFPa6q04HrWq%2BxRDd3lm9qKlx%2B%2F96vYqYu6ydZHp3MAGNrECb4Wq17u3zbpxD1rHg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+3b7
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <title>410 Gone (サ終)</title>
+</head>
+
+<body style='text-align: center;'>
+  <img src='410.svg' alt='410 Gone' style='height: 20rem;'>
+  <h1>しなちー (misk.thinaticsystem.com) は終了しました！</h1>
+  <h2>しなちくシステムの今後は<a href='https://honi.club'><strong>ほにクラブ</strong></a>で！</h2>
+  <p><del>@<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="702418191e1104191323090304151d301d19031b5e0418191e1104191303090304151d5e131f1d">[email&#160;protected]</a></del> -> <a
+      href='https://honi.club/@ThinaticSystem'><strong>@<span class="__cf_email__" data-cfemail="45112d2c2b24312c26163c36312028052d2a2b2c6b26293027">[email&#160;protected]</span></strong></a></p>
+  <hr>ﾆﾝｼﾞﾝｴｷｽ/47.47.0
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+
+</html>
+
+0
+

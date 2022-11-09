@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.zeus.gent; img-src 'self' https: data: blob: https://mastodon.zeus.gent; style-src 'self' https://mastodon.zeus.gent 'nonce-5vemm0zTVvfOWSRqzuNAXA=='; media-src 'self' https: data: https://mastodon.zeus.gent; frame-src 'self' https:; manifest-src 'self' https://mastodon.zeus.gent; connect-src 'self' data: blob: https://mastodon.zeus.gent https://mastodon.zeus.gent wss://mastodon.zeus.gent; script-src 'self' https://mastodon.zeus.gent; child-src 'self' blob: https://mastodon.zeus.gent; worker-src 'self' blob: https://mastodon.zeus.gent
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:34 GMT
+Etag: W/"0d1dffdeb89cef4cba1998e237917bd1"
+Permissions-Policy: interest-cohort=()
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 0be40bac-09c9-4161-8b3f-daa3169e39b0
+X-Runtime: 0.005303
+X-Xss-Protection: 1; mode=block
+
+751
+["octodon.social","mastodonapp.uk","mastodon.nu","hellsite.site","kanoa.de","nerdculture.de","social.chvp.be","toot.rxn.be","infosec.exchange","icosahedron.website","mastodon.robbevanherck.be","kcore.org","nixnet.social","ilja.space","mastodon.multimob.be","mk.nixnet.social","bostonmusic.online","mapstodon.space","verkehrswende.social","social.tchncs.de","urbanists.social","mastodon.nz","pl.nudie.social","mastodon.world","mamot.fr","mstdn.io","mastodon.zaclys.com","jkpg.rocks","social.coop","post.lurk.org","framapiaf.org","en.osm.town","bae.st","wjtje.dev","sfba.social","bitcoinhackers.org","eldritch.cafe","toot.community","masto.ai","friendica.offsite.guru","social.jmueller.eu","friendica.daniel-siepmann.de","friendica.mschmidt-et.de","mastodon.ie","floss.social","mastodon.fam-ribbers.com","petroskowo.pl","mastodon.se","pztrn.online","herzbu.de","merveilles.town","aus.social","mastodon.eus","kudabiverse.com","redeyes.club","digitalcourage.social","scholar.social","wandering.shop","pewtix.com","mastodon.uno","fosstodon.org","botsin.space","weirder.earth","cybre.space","climatejustice.social","friendica.opencloud.lu","genomic.social","social.dev-wiki.de","mastodon.sdf.org","ieji.de","schelling.pt","swiss-talk.net","mastodon.muage.org","mastodon.green","mastodon.scot","mastodon.top","mastodon.iriseden.eu","birdbots.leptonics.com","dice.camp","spacey.space","mastodon.lol","chaos.social","mastodon.nl","mastodon.social","m.sclo.nl","toot.cat","mastodon.online","friendica.ucy.de","troet.cafe","mastodon-belgium.be","mas.to","mstdn.social","zeroes.ca","glitterkitten.co.uk","w3c.social","friendica.mifritscher.de","mastodont.cat","piaille.fr","tooot.im","mastodon.vlaanderen","mastodon.ninja","ursal.zone","mastodon.acc.sunet.se","friendica.myportal.social","norden.social","mastodontech.de","kafeneio.social","astrodon.social","social.deadsuperhero.com"]
+0
+

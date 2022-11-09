@@ -1,0 +1,75 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766aebb3283cb-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:29 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=enWClVQpByUXAqGRpSkRB2%2FwbjeLOvFU67R1GSub2%2F5JupwLZ0vnFvpKImeU8V61K%2FCEUqg8SVUoOARldHiLU7r8LeiM%2Fr44rrR%2FvUWdlnbLX%2FiCTfSRMNTn%2BYQYB0CDB%2Frv3mW1Mh7gBjdC4g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 991
+X-Ratelimit-Reset: 1668006013
+
+681
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>Old Gray Gamers - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						Old Gray Gamers
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.2 git-c31f219</span>
+				</a>
+			</div>
+			 
+				<div id="contact">
+					Contact: <a href="https://community.oldgraygamer.com/@scosno" class="nounderline">scosno</a><br>
+				</div>
+			
+			 
+				<div id="email">
+					Email: <a href="/cdn-cgi/l/email-protection#056c6b636a456a69616277647c62646860772b666a68" class="nounderline"><span class="__cf_email__" data-cfemail="81e8efe7eec1eeede5e6f3e0f8e6e0ece4f3afe2eeec">[email&#160;protected]</span></a><br>
+				</div>
+			
+		</footer>
+	</div>
+	
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+0
+

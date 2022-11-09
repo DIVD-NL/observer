@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766d26830b9a7-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:35 GMT
+Etag: W/"60f58c2f154a0b98985e2c0672512cb3"
+Permissions-Policy: interest-cohort=()
+Server: cloudflare
+Server-Timing: cf-q-config;dur=5.9999983932357e-06
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 3000
+X-Ratelimit-Remaining: 2999
+X-Ratelimit-Reset: 2022-11-09T10:05:00.559027Z
+X-Request-Id: a127bfb7-ad65-45fe-8c44-ba7deb21142d
+X-Runtime: 0.013196
+X-Xss-Protection: 0
+
+42c
+["friendica.opensocial.space","soc.schuerz.at","friendica.kommune4.de","social.badabam.net","friendica.opencloud.lu","friendica.jb-net.us","nsfw.wnymathguy.com","social.cyano.at","fika.grin.hu","rud.life","poliverso.org","friendica.ambag.es","social.fedinet.de","anonsys.net","walls.social","social.tromdienste.de","friendica.mifritscher.de","social.agb-web.de","friendica.mschmidt-et.de","pirati.ca","talkabout.cf","friendica.ironbug.org","friendica.hellquist.eu","friendica.togart.de","friendica.vrije-mens.org","social.digitalcastle.me","social.softmetz.de","friendica.produnis.de","utopioca.com","friendica.eskimo.com","social.johnassel.de","friendica.glasserholdings.eu","www.urbanmind.net","v2.ebano.social","philos.fkn-systems.de","sekretaerbaer.de","friendica.philipp.info","convenient.email","social.cool110.xyz","space.rick.gr","social.jmueller.eu","letus.inspiredlife.fun","social.bckr.me","friendica.heikosblog.eu","bergstrasse.social","friendica.mrpetovan.com","social.lucentinian.com","friendica.daniel-siepmann.de","frnd.nanoscopic.de","lastfree.space"]
+0
+

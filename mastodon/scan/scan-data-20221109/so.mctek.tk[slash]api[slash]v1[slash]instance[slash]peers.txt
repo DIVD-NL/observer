@@ -1,0 +1,104 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:41 GMT
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+1067
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+ <head>
+  <title>Not Found - so.mctek.tk</title>
+  <link rel="shortcut icon" href="https://so.mctek.tk/theme/neo-gnu/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/theme/base/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/theme/neo-gnu/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://so.mctek.tk/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://so.mctek.tk/opensearch/people" title="so.mctek.tk People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://so.mctek.tk/opensearch/notice" title="so.mctek.tk Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://so.mctek.tk/main/public">
+      <img class="logo u-photo p-name" src="https://so.mctek.tk/theme/neo-gnu/logo.png" alt="so.mctek.tk"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://so.mctek.tk/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="top_nav_doc_faq">
+       <a href="https://so.mctek.tk/doc/faq" title="Frequently asked questions">FAQ</a>
+      </li>
+      <li id="nav_login">
+       <a href="https://so.mctek.tk/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://so.mctek.tk/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/tos">TOS</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://so.mctek.tk/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>so.mctek.tk</strong> is a social network, courtesy of <a href="https://so.mctek.tk">so.mctek.tk</a>. It runs on <a href="https://www.gnu.org/software/social/">GNU social</a>, version 1.2.0-beta4, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>
+     <img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15"/>
+ All so.mctek.tk content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+   </div>
+  </div>
+ </body>
+<!-- 112ms --></html>
+
+0
+

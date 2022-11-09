@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://fedi.treeoflifecomic.com; img-src 'self' https: data: blob: https://fedi.treeoflifecomic.com; style-src 'self' https://fedi.treeoflifecomic.com 'nonce-ZRjlQhoL4J6TSBW6F5XLhA=='; media-src 'self' https: data: https://fedi.treeoflifecomic.com; frame-src 'self' https:; manifest-src 'self' https://fedi.treeoflifecomic.com; connect-src 'self' data: blob: https://fedi.treeoflifecomic.com https://cdn.masto.host wss://fedi.treeoflifecomic.com; script-src 'self' https://fedi.treeoflifecomic.com; child-src 'self' blob: https://fedi.treeoflifecomic.com; worker-src 'self' blob: https://fedi.treeoflifecomic.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:01 GMT
+Etag: W/"f53c412b8eec27bf9bb447ef01547473"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.224559Z
+X-Request-Id: dcdf4df9-9fc1-447f-ae3f-028224a60af2
+X-Runtime: 0.004485
+X-Xss-Protection: 0
+
+93b
+["quitter.pl","f.iroiro.party","horizin.de","opensocial.at","anarchydica.net","friendica.me","friendica.ambag.es","friend.geoffray-levasseur.org","friendica.ingram-braun.net","social.digitalcastle.me","redeyes.club","frnd.nanoscopic.de","friendica.hashy-net.de","social.jmueller.eu","g1zm0.social","social.anacreonte.eu","scl.clttr.info","social.johnassel.de","social.dorf-post.de","friendica.myportal.social","friendica.bachgau.social","kudabiverse.com","friendica.kommune4.de","friendica.nz","friendica.hellquist.eu","social.badabam.net","fri.aethercom.de","poliverso.org","friendica.togart.de","social.outsourcedmath.com","f.freinetz.ch","letus.inspiredlife.fun","herzbu.de","friendl.y-y.li","friendica.mifritscher.de","friendica.ucy.de","fed.sonnenmulde.at","friendica.dezucked.com","schmaker.eu","friendica.a-zwenkau.de","fr.readthefinemanual.net","friendica.mschmidt-et.de","f.kretschmann.social","talkabout.cf","social.yl.ms","social.cool110.xyz","friendica.opencloud.lu","f.praschnig.com","fabler.su","friendicarg.nsupdate.info","follow.schmaller.de","friendica.offsite.guru","soc.citizen4.eu","hullblasters.club","social.softmetz.de","walls.social","v2.ebano.social","nsfw.wnymathguy.com","pztrn.online","rud.life","social.chadwaltercummings.me","social.fedinet.de","friendica.vrije-mens.org","friendica.ironbug.org","social.tromdienste.de","friendica.opensocial.space","space.rick.gr","convenient.email","social.tyngsboroughma.net","friendica.daniel-siepmann.de","gearlandia.haus","waifuism.life","udongein.xyz","misskey.io","shitpisscum.mooo.com","gleasonator.com","fediverse.pl","tea.iam.slg.br","freecumextremist.com","letsalllovela.in","friendica.utzer.de","friendica.eskimo.com","social.agb-web.de","friendica.oldkid.digital","social.handholding.io","detroitriotcity.com","keybored.me","nerdica.net","t2.thotsofa304.club","philos.fkn-systems.de","social.cyano.at","sleepy.cafe","gameliberty.club","asimon.org","friendica.steampunk.social","social.msitc.de","lastfree.space","social.lucentinian.com","mb.neurario.com","social.gl-como.it","la-verite-vaincra.com","wolfgirl.bar","beefyboys.win","hidamari.apartments","social.thierrytalbert.fr","friendica.heikosblog.eu","eientei.org","petroskowo.pl","kurosawa.moe","poa.st","shitposter.club","mugicha.club","shortstackran.ch","piratenpartei.social","posting.lolicon.rocks","bae.st","varishangout.net"]
+0
+

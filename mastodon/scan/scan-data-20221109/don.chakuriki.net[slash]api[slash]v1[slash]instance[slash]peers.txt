@@ -1,0 +1,25 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 277
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Etag: "115-5bb93f5530a80"
+Last-Modified: Thu, 18 Feb 2021 03:30:34 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Upgrade: h2
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>借力</title>
+</head>
+<body>
+	<h1>借力</h1>
+	借力の公開は終了しています。Chakuwikiのコンテンツは<a href="https://chakuwiki.org/">https://chakuwiki.org/</a>で公開中です。
+</body>
+</html>

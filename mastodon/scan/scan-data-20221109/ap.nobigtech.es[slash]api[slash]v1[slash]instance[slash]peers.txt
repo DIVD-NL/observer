@@ -1,0 +1,6 @@
+HTTP/1.1 503 
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html
+
+<html><head><meta charset="utf-8"/></head><body style="font-family: mono;font-size: 1em;border: 5px dashed red;padding: 1em;height: 100%;"><center><h1 style="margin-top: 4px;">Uepa! ¡Menuda cagada!</h1><br><h3>Error 503</h3><div style="border: 3px dotted black;background: #ffeded;padding: 3em;max-width: 60em;">El <b>servicio NoGAFAM no puede responder</b> a esta aplicación o servicio web ahora mismo.<br>Seguramente este siendo causado por tareas de <b>mantenimiento</b>, <b>mejoras</b>, etc.<br><br><br>Si <b>crees que debería haber algo</b> bajo este dominio y no responde mucho tiempo, puedes probar a <a href="https://contacto.nogafam.es">contactar con el administrador</a></div></center></body></html>

@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 196
+Content-Security-Policy: default-src 'self' data: 'unsafe-eval' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.openstreetmap.org; font-src 'self' data:; img-src 'self' data: *.openstreetmap.org; frame-ancestors 'self' *.whanau.org; frame-src 'self' www.openstreetmap.org;  worker-src 'self' blob: 'unsafe-eval'; report-uri https://whanau.org/csp-report.php
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:12:30 GMT
+Server: Apache
+Strict-Transport-Security: max-age=15768000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; report=https://whanau.org/xss-report.php
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+</body></html>

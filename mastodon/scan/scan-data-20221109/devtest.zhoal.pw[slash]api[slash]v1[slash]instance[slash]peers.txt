@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:37 GMT
+Etag: W/"08c82161f4f1e78f943c3b920bc5829a"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T14:55:00.094226Z
+X-Request-Id: 5ac5e9ab-979e-4e18-9fa2-21c9a8c20cfc
+X-Runtime: 0.155484
+X-Xss-Protection: 0
+
+7b
+["relay.acg.mn","test-relay.moew.science","relay.moew.art","moe.cat","acg.mn","mastodon-relay.moew.science","fedibird.com"]
+0
+

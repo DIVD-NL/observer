@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://art-software.fr; img-src 'self' https: data: blob: https://art-software.fr; style-src 'self' https://art-software.fr 'nonce-A+ryiJH/WXpu58kZwdtj+Q=='; media-src 'self' https: data: https://art-software.fr; frame-src 'self' https:; manifest-src 'self' https://art-software.fr; connect-src 'self' data: blob: https://art-software.fr https://art-software.fr wss://art-software.fr; script-src 'self' https://art-software.fr; child-src 'self' blob: https://art-software.fr; worker-src 'self' blob: https://art-software.fr
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:02 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.223700Z
+X-Request-Id: 4509d64b-d3f9-496b-8ceb-2d178a47f499
+X-Runtime: 0.019360
+X-Xss-Protection: 0
+
+0
+

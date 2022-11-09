@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:40 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: AWSALB=AvH6/U7adwL8uVIUjVucthrNYKnMl9XzOw4b4OMqNOQo9kcBcbmQ6X5SjaOWgQDo0dX8JB2TIkUvpu2a2sUwXWuvBnybV7kQ6y3Ry+hRhOpMfF17RkGpLSCi9xJ3; Expires=Wed, 16 Nov 2022 15:22:40 GMT; Path=/
+Set-Cookie: AWSALBCORS=AvH6/U7adwL8uVIUjVucthrNYKnMl9XzOw4b4OMqNOQo9kcBcbmQ6X5SjaOWgQDo0dX8JB2TIkUvpu2a2sUwXWuvBnybV7kQ6y3Ry+hRhOpMfF17RkGpLSCi9xJ3; Expires=Wed, 16 Nov 2022 15:22:40 GMT; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding,Origin
+Via: 1.1 f7e7b00c5c66a4e43041ba24c378d07a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: kGN-a2gPIPgYeHMKsrYerpktfKzUQn7e3_2efM0ov3Y_JtmLJjwikw==
+X-Amz-Cf-Pop: MIA3-C2
+X-Cache: Error from cloudfront
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 9bc0512d-90f2-46b3-bb4b-4f39e7a2c38b
+X-Runtime: 0.017428
+X-Xss-Protection: 1; mode=block
+
+21
+{"error":"Recurso no encontrado"}
+0
+

@@ -1,0 +1,50 @@
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:20:24 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Retry-After: 3600
+Server: LiteSpeed
+Vary: Accept-Encoding,User-Agent
+X-Litespeed-Cache-Control: no-cache
+X-Litespeed-Tag: c16_HTTP.404,c16_404,c16_URL.fbf2bce9ac5db53947a1826869be42b4,c16_
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Maintenance mode</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="author" content="Stuart Butterworth v4.0" />
+		<meta name="description" content="Stuart Butterworth v4.0 - Adventures In the Weird Zone" />
+		<meta name="keywords" content="Maintenance Mode" />
+		<meta name="robots" content="index, follow" />
+		<link rel="stylesheet" id="frontend-css" href="https://stuartbutterworth.co.uk/wp-content/plugins/wp-maintenance-mode/assets/css/style.min.css?ver=2.4.2" media="all">
+	</head>
+	<body class="">
+		
+		<div class="wrap">
+							<!-- Heading -->
+				<h1>Maintenance mode</h1>
+			
+							<!-- Text -->
+				<h2><p>Sorry for the inconvenience.<br />Our website is currently undergoing scheduled maintenance.<br />Thank you for your understanding.</p></h2>
+				
+			
+			
+			
+			
+			
+					</div>
+
+		<script type='text/javascript'>
+			var wpmm_vars = {"ajax_url": "https://stuartbutterworth.co.uk/wp-admin/admin-ajax.php"};
+		</script>
+
+		<script type="text/javascript" src="https://stuartbutterworth.co.uk/wp-includes/js/jquery/jquery.min.js" id="jquery-js"></script>
+<script type="text/javascript" src="https://stuartbutterworth.co.uk/wp-content/plugins/wp-maintenance-mode/assets/js/jquery.fitvids.min.js" id="fitvids-js"></script>
+<script type="text/javascript" src="https://stuartbutterworth.co.uk/wp-content/plugins/wp-maintenance-mode/assets/js/scripts.min.js?ver=2.4.2" id="frontend-js"></script>
+	</body>
+</html>

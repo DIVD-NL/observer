@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:44 GMT
+Location: https://opensourcesecuritypodcast.com/api/v1/instance/peers
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+X-Ac: 3.ams _dca BYPASS
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767784789926d484-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.aldiserver.de; img-src 'self' https: data: blob: https://social.aldiserver.de; style-src 'self' https://social.aldiserver.de 'nonce-D7HWWwmRPbxIxC3tXfG0KQ=='; media-src 'self' https: data: https://social.aldiserver.de; frame-src 'self' https:; manifest-src 'self' https://social.aldiserver.de; connect-src 'self' data: blob: https://social.aldiserver.de https://social.aldiserver.de wss://social.aldiserver.de; script-src 'self' https://social.aldiserver.de; child-src 'self' blob: https://social.aldiserver.de; worker-src 'self' blob: https://social.aldiserver.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:49 GMT
+Etag: W/"fb157b6a05025ddce116a418d8224dc2"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RTGurEDO3dxiy5EYu%2F5Lh3zpMweFoI9z9mEBK1gRCUuCtGEoET5EWT82BPHD8j0CMsl6i2QJ5WPpENCWAxY15NiRgzHVYxQruF9WikgAjtSwmGxmbcptvYHZF61Hay2XLHOjQCstVA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:40:00.486836Z
+X-Request-Id: e8d9050f-d8f4-4b29-8471-565a499174ed
+X-Runtime: 0.009521
+X-Xss-Protection: 0
+
+ace
+["social.jmueller.eu","nsfw.wnymathguy.com","friendica.testitfor.me","social.gl-como.it","dehawara.de","friendica.bachgau.social","friendica.wageoffsite.com","snacka.uluntu.se","friendica.kommune4.de","friendica.prankgo.de","fed.sonnenmulde.at","social.alesan.io","frnd.nanoscopic.de","f.matri.ml","fr.readthefinemanual.net","anonsys.net","venera.social","friendica.chocoflan.net","bronyfurry.com","friendica.svasta.net","herzbu.de","rollenspiel.group","librenet.co.za","soc.citizen4.eu","libranet.de","dica.interfel.de","social.anoxinon.de","letus.inspiredlife.fun","social.tromdienste.de","friendica.hellquist.eu","friendica.jb-net.us","friendica.ellih.eu","friendica.some.rs","friendica.ironbug.org","etiketi.de","social.badabam.net","friendica.produnis.de","social.isurf.ca","friendica.togart.de","friendica.astatu.berlin","loma.ml","friendica.mathernalproductions.com","jv-net.digital","onlinegemein.de","opensocial.at","friendica.ennimedia.de","social.thierrytalbert.fr","vicedomini.cloud","pirati.ca","follow.schmaller.de","friendica.ucy.de","dis-le.de","friendica.philipp.info","friendica.nz","friendica.hashy-net.de","mb.neurario.com","walls.social","friendica.mrpetovan.com","social.lucentinian.com","lastfree.space","friendica.opencloud.lu","social.trom.tf","friendica.bdeshi.space","sovran.me","canic.us","friendica.utzer.de","friends.wimmer-edv.de","friendica.ru","friendica.mschmidt-et.de","friendica.m14xa.ru","convenient.email","concordia.social","808.cybercity.eu.org","f.xn--7s9hd.ws","friendica.opensocial.space","friendica.offsite.guru","la-verite-vaincra.nohost.me","f.kretschmann.social","social.digitalcastle.me","scl.clttr.info","pztrn.online","soc.k-a-i-f.ru","friendica.valvin.fr","friends.deko.cloud","amicable.social","friendica.tttproject.de","fri.aethercom.de","social.yl.ms","friendica.multisum.info","social.fedinet.de","wiesbaden.social","ibicadi.com","soc.schuerz.at","friendica.eskimo.com","philos.fkn-systems.de","g1zm0.social","friendica.ingram-braun.net","poliverso.org","friendica.vrije-mens.org","friendica.xyz","social.cyano.at","friend.pierobosio.info","social.outsourcedmath.com","friendica.verya.pe","f.iroiro.party","friendl.y-y.li","your.sensor.community","friend.geoffray-levasseur.org","social.dhbit.ca","social.softmetz.de","social.cool110.xyz","friendica.myportal.social","kudabiverse.com","f.haeder.net","quitter.pl","mordor.social","space.rick.gr","keybored.me","friendica.mifritscher.de","f.praschnig.com","fediverse.one","la-verite-vaincra.com","social.broers.me","nerdica.net","social.chadwaltercummings.me","f.freinetz.ch","schmaker.eu","friends.undeadnetwork.de","friendica.ambag.es","talkabout.cf","squeet.me","friendica.a-zwenkau.de","social.dorf-post.de","rud.life","piratenpartei.social","bildung.social"]
+0
+

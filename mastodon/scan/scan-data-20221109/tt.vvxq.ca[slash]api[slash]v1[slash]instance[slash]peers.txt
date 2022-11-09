@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://tt.vvxq.ca; img-src 'self' https: data: blob: https://tt.vvxq.ca; style-src 'self' https://tt.vvxq.ca 'nonce-7TQtbRKznuNCx1U9mAdOkg=='; media-src 'self' https: data: https://tt.vvxq.ca; frame-src 'self' https:; manifest-src 'self' https://tt.vvxq.ca; connect-src 'self' data: blob: https://tt.vvxq.ca https://tt.vvxq.ca wss://tt.vvxq.ca; script-src 'self' https://tt.vvxq.ca; child-src 'self' blob: https://tt.vvxq.ca; worker-src 'self' blob: https://tt.vvxq.ca
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:12 GMT
+Etag: W/"24d5ae3fcb46b31e70fc81d253553821"
+Permissions-Policy: interest-cohort=()
+Server: openresty
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.479639Z
+X-Request-Id: 2ec36d36-4f6d-4f0d-9705-cff517e5b7f6
+X-Runtime: 0.011406
+X-Served-By: tt.vvxq.ca
+X-Xss-Protection: 0
+
+6d3
+["mastodon.art","paypig.org","mastodon.ericlathrop.com","mastodon.matrix.org","ericmerlock.social","conf.tube","social.byoblu.com","social.linux.pizza","social.binarydad.com","fika.grin.hu","masto.1146.nohost.me","lbry.world","toot.thedoodleproject.net","masto.nogafam.es","mas.to","friends.grishka.me","todon.nl","aus.social","mstdn.social","gazette.live","my.privacymatters.pro","social.dark-alexandr.net","social.franssen.xyz","friendica.vrije-mens.org","toot.fedilab.app","mstdn.fr","wake.st","mastodon.pirateparty.be","diaspodon.fr","toot.mattedwards.org","social.weho.st","mstdn.io","epicyon.freedombone.net","anonsys.net","pixelfed.uno","mastodon.xyz","friendica.valvin.fr","meld.de","f.freinetz.ch","nerdica.net","t9.no","loma.ml","noovi.org","social.yl.ms","pleroma.libretux.com","scholar.social","hostux.social","dis-le.de","theres.life","writing.exchange","bildung.social","troet.cafe","ourempty.pub","octodon.social","social.isurf.ca","mastodon.ctseuro.com","mastodon.ml","pixelfed.social","photog.social","s10y.eu","lgbt.io","libranet.de","freeradical.zone","mamot.fr","post.lurk.org","icosahedron.website","ursal.zone","mastodon.tedomum.net","pirati.ca","tooter.social","mastodon.la","quitter.pl","m.g3l.org","mastodon.gougere.fr","social.targaryen.house","best-friends.chat","noagendasocial.com","sociale.network","chaos.social","koyu.space","esperanto.masto.host","idf.social","elekk.xyz","qoto.org","social.finkhaeuser.de","todon.eu","indieweb.social","tilde.zone","squeet.me","xarxa.cloud","social.tchncs.de","mastodon.uno","distrotoot.com","framapiaf.org","mastodon.online","floss.social","layer8.space","fosstodon.org","vis.social","snabelen.no","librem.one","mastodon.sdf.org","delroth.net","mastodon.social","mathstodon.xyz"]
+0
+

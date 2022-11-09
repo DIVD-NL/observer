@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777e112a5483e3-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.dhlyn.me; img-src 'self' https: data: blob: https://mstdn.dhlyn.me; style-src 'self' https://mstdn.dhlyn.me 'nonce-/BE3D8ygOYPYPM60Cc6nrg=='; media-src 'self' https: data: https://mstdn.dhlyn.me; frame-src 'self' https:; manifest-src 'self' https://mstdn.dhlyn.me; connect-src 'self' data: blob: https://mstdn.dhlyn.me https://static.mstdn.dhlyn.me wss://mstdn.dhlyn.me; script-src 'self' https://mstdn.dhlyn.me; child-src 'self' blob: https://mstdn.dhlyn.me; worker-src 'self' blob: https://mstdn.dhlyn.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:28 GMT
+Etag: W/"4020832712279448c22fca7e3af9529a"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=12390n2%2Bl6ZTpOYj85cbFw0VANW3h6KF06mjoxbSOmBWvf%2BCNf61xFL7o1MhRinoZamSXRRPlcbClCeLph0dgVpW0YA9Pg3SzrmJdN0T5y9hrYyKsHSUUCDfXaZBw6LzKw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.974454Z
+X-Request-Id: 38164875a4a36d7a2661cd3a269c7011
+X-Runtime: 0.008082
+X-Xss-Protection: 0
+
+514
+["udongein.xyz","ludosphere.fr","stella.ocellaris.dev","madost.one","mastodon.sdf.org","ani.work","k.lapy.link","friendica.togart.de","f.kretschmann.social","bunbers.org","mk.absturztau.be","funami.tech","tilde.zone","qdon.space","shigusegubu.club","teslam.in","kawen.space","twingyeo.kr","stella.place","sns.ikx.kr","pony.social","qoto.org","greenfield.masto.host","chaos.social","rdrama.cc","don.nzws.me","c.im","mastodon.online","bae.st","friendica.hashy-net.de","t2.thotsofa304.club","hyperpla.net","slime.global","social.jmueller.eu","friendica.ironbug.org","friendica.mschmidt-et.de","fr.readthefinemanual.net","follow.schmaller.de","fri.aethercom.de","friendica.ucy.de","f.iroiro.party","herzbu.de","anarchydica.net","pbzweihander.dev","friendica.myportal.social","petroskowo.pl","friendica.mifritscher.de","friendica.opencloud.lu","kudabiverse.com","mst.canor.kr","kokonect.link","yumeka.xyz","mstdn.nere9.help","mast.sftblw.moe","raru.re","occm.cc","jmm.kr","botsin.space","ak.kawen.space","don.naru.cafe","todon.eu","blob.cat","mstdn.jp","mastodon.art","mstdn.io","watadon.com","friendica.offsite.guru","la-verite-vaincra.com","v2.ebano.social","friendica.ambag.es","friendica.kommune4.de","fosstodon.org","redeyes.club","piratenpartei.social","mastodon.social","kurry.social","planet.moe"]
+0
+

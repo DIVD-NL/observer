@@ -1,0 +1,9 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 151
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:28 GMT
+Server: Apache
+
+Bad Request - Missing endpoint. Try `/api/v1/json/`, `/api/v1/text/`, or /api/v1/html/`.See API guide for more details - https://docs.acuparse.com/API/

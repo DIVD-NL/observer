@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:16:45 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=aad3e3d09fd6c3ab425e78bf8322f8c1; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+Vary: Accept-Encoding
+
+1b
+{"error":"not implemented"}
+0
+

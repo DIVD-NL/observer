@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.rickisen.com; img-src 'self' https: data: blob: https://mastodon.rickisen.com; style-src 'self' https://mastodon.rickisen.com 'nonce-yK8Kuz1LINBiRs4dAtRJxg=='; media-src 'self' https: data: https://mastodon.rickisen.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.rickisen.com; connect-src 'self' data: blob: https://mastodon.rickisen.com https://mastodon.rickisen.com wss://mastodon.rickisen.com; script-src 'self' https://mastodon.rickisen.com; child-src 'self' blob: https://mastodon.rickisen.com; worker-src 'self' blob: https://mastodon.rickisen.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:07 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.518957Z
+X-Request-Id: cb92e2fa-78ce-4575-8b6a-a0fc0ca8c757
+X-Runtime: 0.053154
+X-Xss-Protection: 1; mode=block
+
+0
+

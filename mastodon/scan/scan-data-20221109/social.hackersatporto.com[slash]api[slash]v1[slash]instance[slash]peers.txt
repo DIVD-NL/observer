@@ -1,0 +1,110 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677858ebe2783c7-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:34 GMT
+Link: <https://social.hackersatporto.com/main/amcd.json>; rel="acct-mgmt"; type="application/json"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dyQ%2Fdk6FMyWgG3qVLNJDGNOptO4ftkp65%2BOHMlkDsfvAFwnJhnASZzPwSLT%2Bl6r7mLpvYR4UWS%2FzUGfEcoj5Afzy6BK4%2Fva4BWN8vLd8n9qFvyJU04wmECMvXI0gi%2Bcbm0tBaMwCIqcY9rBv"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+10ed
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Not Found - Hackers at Porto</title>
+<link rel="shortcut icon" href="https://social.hackersatporto.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/theme/base/css/display.css?version=2.0.1-beta0" media="screen, projection, tv, print" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/theme/neo-quitter/css/display.css?version=2.0.1-beta0" media="screen, projection, tv, print" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/ModPlus/css/modplus.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/Embed/css/embed.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/OStatus/theme/base/css/ostatus.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=2.0.1-beta0" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/OverwriteThemeBackground/css/my_custom_theme_bg" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/Bookmark/css/bookmark.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/Event/css/event.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://social.hackersatporto.com/plugins/Poll/css/poll.css" media="" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://social.hackersatporto.com/opensearch/people" title="Hackers at Porto People Search" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://social.hackersatporto.com/opensearch/notice" title="Hackers at Porto Notice Search" />
+</head>
+<body id="error">
+<div id="wrap">
+<div id="header">
+<address id="site_contact" class="h-card">
+<a class="home bookmark" href="https://social.hackersatporto.com/main/public">
+<img class="logo u-photo p-name" src="https://social.hackersatporto.com/theme/neo-quitter/logo.png" alt="Hackers at Porto" />
+</a>
+</address>
+<div id="site_nav_global_primary">
+<form id="header-search" class="form" method="get" action="https://social.hackersatporto.com/search/notice">
+<fieldset>
+<input name="q" size="20" id="search-q" />
+<input type="submit" value="Search" />
+</fieldset>
+</form>
+<ul class="nav">
+<li id="nav_login">
+<a href="https://social.hackersatporto.com/main/login" title="Login to the site.">Login</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="core">
+<div id="aside_primary_wrapper">
+<div id="content_wrapper">
+<div id="site_nav_local_views_wrapper">
+<div id="content">
+<h1>Not Found</h1>
+<div id="page_notice" class="system_notice"></div>
+<div id="content_inner">
+<div class="error">Page not found.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul class="nav" id="site_nav_global_secondary">
+<li>
+<a href="https://social.hackersatporto.com/doc/help">Help</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/doc/about">About</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/doc/faq">FAQ</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/doc/privacy">Privacy</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/doc/source">Source</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/main/version">Version</a>
+</li>
+<li>
+<a href="https://social.hackersatporto.com/doc/contact">Contact</a>
+</li>
+</ul>
+<p><strong>Hackers at Porto</strong> is a social network. It runs on <a href="https://gnusocial.rocks/">GNU social</a>, version 2.0.1-beta0, available under the <a href="https://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+<p>
+<img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15" />
+All Hackers at Porto content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+</div>
+</div>
+</body>
+</html>
+
+0
+

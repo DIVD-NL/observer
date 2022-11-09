@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.anqou.net; img-src 'self' https: data: blob: https://mstdn.anqou.net; style-src 'self' https://mstdn.anqou.net 'nonce-3qN8NoiRiFZsvtAHcyeZdg=='; media-src 'self' https: data: https://mstdn.anqou.net; frame-src 'self' https:; manifest-src 'self' https://mstdn.anqou.net; connect-src 'self' data: blob: https://mstdn.anqou.net https://media-mstdn.anqou.net wss://mstdn.anqou.net; script-src 'self' https://mstdn.anqou.net; child-src 'self' blob: https://mstdn.anqou.net; worker-src 'self' blob: https://mstdn.anqou.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:23 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.822551Z
+X-Request-Id: 59751d94-95c3-411d-be01-9dafdeb7559d
+X-Runtime: 0.006850
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://sns.taizona.jp; img-src 'self' https: data: blob: https://sns.taizona.jp; style-src 'self' https://sns.taizona.jp 'nonce-vT9L4XyTdOlOvOWwVcoXSg=='; media-src 'self' https: data: https://sns.taizona.jp; frame-src 'self' https:; manifest-src 'self' https://sns.taizona.jp; connect-src 'self' data: blob: https://sns.taizona.jp https://s3-media.hostdon.ne.jp wss://sns.taizona.jp; script-src 'self' https://sns.taizona.jp; child-src 'self' blob: https://sns.taizona.jp; worker-src 'self' blob: https://sns.taizona.jp
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:38 GMT
+Etag: W/"ef39481f9cf283a348759856439b2da2"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Status: 200 OK
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Powered-By: Phusion Passenger(R) 6.0.14
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.141345Z
+X-Request-Id: da03afec-4bc0-4fa3-8df8-ab348ce2d81c
+X-Runtime: 0.018495
+X-Xss-Protection: 0
+
+144
+["pawoo.net","mstdn.jp","bae.st","elekk.xyz","rage.love","goblin.technology","wandering.shop","chaos.social","birb.site","someone.elses.computer","mastodon.neilzone.co.uk","mastodon.social","scholar.social","social.coop","social.cryptography.dog","fosstodon.org","freeradical.zone","counter.social","social.shadowfacts.net"]
+0
+

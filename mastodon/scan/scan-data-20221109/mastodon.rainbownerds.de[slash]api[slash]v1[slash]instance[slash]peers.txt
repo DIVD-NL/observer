@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.rainbownerds.de; img-src 'self' https: data: blob: https://mastodon.rainbownerds.de; style-src 'self' https://mastodon.rainbownerds.de 'nonce-HeplijXq6+JlCIrYgWd+jg=='; media-src 'self' https: data: https://mastodon.rainbownerds.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.rainbownerds.de; connect-src 'self' data: blob: https://mastodon.rainbownerds.de https://mastodon.rainbownerds.de wss://mastodon.rainbownerds.de; script-src 'self' https://mastodon.rainbownerds.de; child-src 'self' blob: https://mastodon.rainbownerds.de; worker-src 'self' blob: https://mastodon.rainbownerds.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:07 GMT
+Etag: W/"1f6c7c989f4d5c1b7ba0e2190cf2799a"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.740936Z
+X-Request-Id: 2979181e-2a6a-40c0-89e3-2077a7cff4a3
+X-Runtime: 0.009350
+X-Xss-Protection: 0
+
+55d
+["chaos.social","flausch.social","pirati.ca","f.freinetz.ch","nsfw.wnymathguy.com","frnd.nanoscopic.de","fedi.ml","friendica.opensocial.space","friendica.xyz","etiketi.de","friendica.ellih.eu","social.trom.tf","wiesbaden.social","friendica.vrije-mens.org","nerdica.net","friendica.hubup.pro","friendica.ironbug.org","friendica.bachgau.social","social.softmetz.de","friendica.jb-net.us","anonsys.net","social.yl.ms","f.praschnig.com","friendica.utzer.de","friendica.argentwolf.org","quitter.pl","social.jmueller.eu","friendica.mnementh.co.uk","social.fedinet.de","squeet.me","anarchydica.net","pztrn.online","social.tromdienste.de","onlinegemein.de","friendica.multisum.info","social.outsourcedmath.com","venera.social","www.social.surstroemming.de","rollenspiel.group","libranet.de","friendica.eskimo.com","ibbtown.com","scl.clttr.info","social.badabam.net","friends.wimmer-edv.de","friendica.ambag.es","fediverse.one","schmaker.eu","social.thierrytalbert.fr","fr.readthefinemanual.net","social.agb-web.de","f.haeder.net","soc.schuerz.at","social.cool110.xyz","social.dorf-post.de","follow.schmaller.de","loma.ml","friendica.oldkid.digital","space.rick.gr","vicedomini.cloud","dis-le.de","social.chadwaltercummings.me","social.johnassel.de","meld.de","horizin.de","redeyes.club","friendica.daniel-siepmann.de","t2.thotsofa304.club","steampunk.social","social.alster.space"]
+0
+

@@ -1,0 +1,9 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 34
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:36 GMT
+Server: nginx
+X-Powered-By: Express
+
+Cannot GET /api/v1/instance/peers

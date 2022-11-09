@@ -1,0 +1,96 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 3784
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:24 GMT
+Etag: "ec8-5db87a5021bc0"
+Last-Modified: Thu, 31 Mar 2022 18:15:19 GMT
+Server: Apache/2.4.41 (Ubuntu)
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Page title -->
+	<title>404 Error - PrankGo.de</title>
+	<!-- Page description -->
+	<meta name="description" content="">
+	<!-- Meta -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Favicon  -->
+	<link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png">
+	<!-- Include StyleSheets -->
+	<link rel="stylesheet" href="/css/style.min.css">
+	<!-- <link rel="stylesheet" href="css/custom.css"> -->
+	<script src="/js/modernizr.js"></script>
+</head>
+
+<body class="">
+	<!--[if lt IE 8]>
+	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+	<!-- Preloader: uncomment this if you want to show a smooth preloader while the page is loading. Don't forget to add the 'js-preload-me' class on the <body> tag. -->
+	<!-- <div class="preloader js-preloader"><div class="preloader-animation"></div></div>
+ -->
+	<!-- End of Preloader -->
+	<div class="page js-page ">
+		<!-- 404 page -->
+		<div class="js-full-page page-404">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="page-404-general">
+							<div class="page-404-error">
+								<span class="page-404-error-text">4</span>
+								<span class="page-404-error-text">0</span>
+								<span class="page-404-error-text">4</span>
+							</div>
+							<div class="page-404-info">
+								<h3 class="page-404-info-title">Seite</h3>
+								<h3 class="page-404-info-title">Nicht</h3>
+								<h3 class="page-404-info-title">Gefunden</h3>
+								<p class="page-404-info-description">Die angegebene Seite wurde nicht gefunden.</p>
+								<a href="/index.html" class="page-404-redirect">Home
+									<i class="fa fa-angle-right"></i>
+								</a>
+							</br>
+							<a href="/contacts.html" class="page-404-redirect">Kontakt 
+								<i class="fa fa-angle-right"></i>
+							</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End of 404 page -->
+	</div>
+	<script src="/js/all.js"></script>
+	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+	<!--
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+    </script>
+     -->
+</body>
+
+</html>

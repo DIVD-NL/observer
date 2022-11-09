@@ -1,0 +1,23 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d026cd02e3e-BRU
+Content-Security-Policy: frame-ancestors 'none' ;frame-src 'none' ;font-src 'self' ;media-src 'self' ;img-src 'self' data: blob: *.tile.openstreetmap.org;connect-src 'self' * blob: https://meetup.furryfederation.com wss://meetup.furryfederation.com ;style-src 'self' ;script-src 'self' 'unsafe-eval' 'sha256-4RS22DYeB7U14dra4KcQYxmwt5HkOInieXK1NUMBmQI=' ;default-src 'none';base-uri 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:44 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d6WpK3N1rtm1qEbdA23NkyUfGVj6oHqgxHBDtTt6BHj0WfEsJ4z%2Bm%2FkRRD%2F%2B1xqLZ84k4JeEVtaxjTDH1IBEVcm49THPMEtS6bj2n6kOLenIWniPUVmN2e1HdHJCyESHmxD%2BYyBNgrcXRTQ9KA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: FyXzUHr7VeNofQ8AJPeC
+X-Xss-Protection: 0
+
+{"errors":[{"message":"No query document supplied"}]}

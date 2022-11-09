@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://um.lugarzinho.top wss://um.lugarzinho.top;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:38 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.14.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzzOO5fWUOvIIAhmPx
+X-Xss-Protection: 1; mode=block
+
+27a
+["friendica.utzer.de","lgbtqia.is","colorid.es","queer.party","mastodon.com.br","plush.city","social.isurf.ca","dragon.style","friendica.valvin.fr","f.freinetz.ch","masto.pt","nsfw.wnymathguy.com","vulpine.club","masto.donte.com.br","noovi.org","loma.ml","social.outsourcedmath.com","octodon.social","dis-le.de","plural.cafe","sendero.social","weirder.earth","friendica.vrije-mens.org","nerdica.net","social.trom.tf","friendica.argentwolf.org","sleeping.town","rage.love","bantu.social","tabletop.social","transmom.love","tech.lgbt","scholar.social","f.praschnig.com","donphan.social","computerfairi.es","mstdn.social","botsin.space"]
+0
+

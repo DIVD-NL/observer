@@ -1,0 +1,40 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization, Content-Type, Idempotency-Key
+Access-Control-Allow-Methods: POST, PUT, DELETE, GET, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Access-Control-Expose-Headers: Link, X-RateLimit-Reset, X-RateLimit-Limit, X-RateLimit-Remaining, X-Request-Id
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778258b9c52e20-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.thinkof.name wss://pleroma.thinkof.name;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:22 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EZscgGkiSwCGeYa2jsKzoAsmZ4B%2BT740JACyyLbNQVVUSdWTn2L3zfpNxAd%2BaZ5667hkqiYCCHiaP5HX8AZTIF8%2F0f8lzLrEui4C%2Bi%2F5xcHufVbl%2BbzUNns56hDu%2FE9IiFsEY0rxdw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzg2CNauZq90AAAdai
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+28c
+["masto.ai","ioc.exchange","petrous.vislae.town","mastodon.coffee","social.treehouse.systems","toot.community","bytetower.social","mastodon.scot","mastodon.online","layer8.space","troet.cafe","social.tulsa.ok.us","tech.lgbt","mastodon.social","mastodon.gamedev.place","mstdn.social","sms.cybik.moe","gaminginthe.cloud","mindly.social","write.tedomum.net","synnet.io","fosstodon.org","nerdculture.de","sua.anarkis.net","floss.social","qoto.org","hachyderm.io","social.linux.pizza","freeradical.zone","video.thinkof.name","miruku.cafe","schykle.com","forcedconversation.com","metalhead.club","social.tchncs.de","noc.social","mas.to","beta.birdsite.live"]
+0
+

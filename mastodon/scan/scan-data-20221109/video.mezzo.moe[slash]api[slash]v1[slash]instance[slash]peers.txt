@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Access-Control-Allow-Origin: https://video.mezzo.moe
+Content-Security-Policy: default-src 'self'; child-src 'none'; connect-src 'self' https://api.github.com https://owncast.online; font-src 'self' data:; frame-src 'none'; img-src 'self' data: https:; manifest-src 'self'; media-src 'self' data: blob:; object-src 'none'; prefetch-src 'self'; script-src 'self' 'nonce-I7Zkg8tLa4SSRUIc3eyXIFpsiYTdaQRopRm0dlWswciRqJLRLxKslYs9TmHl9Cbr'; style-src 'self' 'unsafe-inline'; worker-src 'self' blob:; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests; report-uri https://security.mezzo.moe/csp-report;
+Date: Wed, 09 Nov 2022 15:21:52 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Origin
+X-Content-Security-Policy: default-src 'self'; child-src 'none'; connect-src 'self' https://api.github.com https://owncast.online; font-src 'self' data:; frame-src 'none'; img-src 'self' data: https:; manifest-src 'self'; media-src 'self' data: blob:; object-src 'none'; prefetch-src 'self'; script-src 'self' 'nonce-I7Zkg8tLa4SSRUIc3eyXIFpsiYTdaQRopRm0dlWswciRqJLRLxKslYs9TmHl9Cbr'; style-src 'self' 'unsafe-inline'; worker-src 'self' blob:; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests; report-uri https://security.mezzo.moe/csp-report;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Served-By: 58c08
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

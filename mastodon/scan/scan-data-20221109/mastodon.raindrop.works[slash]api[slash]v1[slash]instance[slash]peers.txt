@@ -1,0 +1,25 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777c1bbe5a83c7-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:12:07 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zb%2BneC0FW%2BBxE9rzu4zcz46BwYvcY8qfHkcsg%2FtEcF%2Fq%2FiTwBL1%2Fe5TNXpHASQNtlDzCjX0cDmyEiHp%2BuodCK3m%2BoBg15qfNgMv9IpWCOXc8lMZe6Vmm%2F2YWlqvH0gA2Il1JnEvSDd9Pyw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+16b
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Proxy Error</title>
+</head><body>
+<h1>Proxy Error</h1>
+The proxy server could not handle the request<p>Reason: <strong>Error during SSL Handshake with remote server</strong></p><p />
+<hr>
+<address>Apache/2.4.46 (Ubuntu) Server at mastodon.raindrop.works Port 443</address>
+</body></html>
+
+0
+

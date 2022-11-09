@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767783bfd9a62df6-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://salon.fika.moe; img-src 'self' https: data: blob: https://salon.fika.moe; style-src 'self' https://salon.fika.moe 'nonce-eTIORWizyVKbx/X7ZhXgLQ=='; media-src 'self' https: data: https://salon.fika.moe; frame-src 'self' https:; manifest-src 'self' https://salon.fika.moe; connect-src 'self' data: blob: https://salon.fika.moe https://s3.nl-ams.scw.cloud wss://salon.fika.moe; script-src 'self' https://salon.fika.moe; child-src 'self' blob: https://salon.fika.moe; worker-src 'self' blob: https://salon.fika.moe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:20 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TcuZ9KWFihi2lfVNzL6eedON%2BNHsGvdJwlklRd2LAE7DI9ewWGzJ4yAbzoP6QklBhoLh2455y%2BhKOlgPdNpjBT7rC93wbvrmldqA8dahm2sA%2Fwzt4Q6BFoqzhRZgk8UNdA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.534148Z
+X-Request-Id: 9a1c034a-d6ee-4854-9f6a-be8c9cbbbc33
+X-Runtime: 0.017287
+X-Xss-Protection: 0
+
+0
+

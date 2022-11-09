@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1273
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.antiniveau.eu wss://pleroma.antiniveau.eu;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:48 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 5e7aae16482dcedcd15d17d6e915018a
+X-Xss-Protection: 1; mode=block
+
+["octodon.social","bonn.social","mastodon.green","podcasts.social","mastodon.cloud","sueden.social","masto.a0s.de","infosec.exchange","layer8.space","friends.johalla.org","bildung.social","kirchner.social","mastodon.social","elbmatsch.de","rls.social","nrw.social","mastodontech.de","machteburch.social","scholar.social","medibubble.org","toot.leuchtetgruen.de","fediscience.org","social.saufpark.tv","todon.nl","f.praschnig.com","fnordon.de","social.tchncs.de","social.bitwig.community","noc.social","mas.to","beta.birdsite.live","cuties.social","ruhr.social","eupublic.social","framapiaf.org","social.dev-wiki.de","freiburg.social","climatejustice.social","soc.schuerz.at","social.softmetz.de","HoFra.rocks","friendica.bachgau.social","literatur.social","geraffel.social","mastodon.online","todon.eu","mastodon.xyz","barcamp.social","det.social","mstdn.io","troet.cafe","www.kanoa.de","mstdn.social","norden.social","netz.darknight-coffee.org","nerdculture.de","loma.ml","qoto.org","social.anoxinon.de","friendica.hubup.pro","freeradical.zone","wandzeitung.xyz","toot.fedilab.app","social.saarland","anonsys.net","social.yl.ms","metalhead.club","toot.jeena.net","f.freinetz.ch","social.eden.one","mastodon.lol","rollenspiel.social","digitalcourage.social","chaos.social"]

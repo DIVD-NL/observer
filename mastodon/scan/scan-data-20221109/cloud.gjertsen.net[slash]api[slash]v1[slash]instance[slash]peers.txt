@@ -1,0 +1,120 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob: *;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self';frame-src data: 'self' https://cloud.gjertsen.net prezi.com player.vimeo.com vine.co www.youtube.com;child-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self' https://cloud.gjertsen.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'self';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.18.0 (Ubuntu)
+Set-Cookie: oc_sessionPassphrase=VVsATBUtIO8iebiv70YozZnHJ9%2FaTTGjuIZbbMS8Jk4hWU7YPY76%2FApoi0Q%2FZBjBcifADNmLmh6TstZYnnmnuy2Y1VQcmTHO2scSN97u5oYRmuqy1YiZ1RRhiAI69A6Y; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: occ86fiypakm=m7vhef9771ivr5jv7revlpuolm; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15768000; includeSubDomains;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="N7ta2qP+aWRAFyVoy4HIQhQEFZt+OhKe+jKUarr/5/c=:D+1o45TJLyANeBFfmNGDMnVwJeE2YFHHuGPiGdONtYM=">
+		<meta charset="utf-8">
+		<title>
+		Gjertsen.net Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#B56357">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#B56357">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/apps/breezedark/css/guest.css?v=6ba08878-13">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-13">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=47cd76e4-13">
+<link rel="stylesheet" href="/core/css/guest.css?v=3ec20454-13">
+		<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/core/js/dist/main.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/core/js/dist/files_fileinfo.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/core/js/dist/files_client.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/js/core/merged-template-prepend.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/files_sharing/js/dist/main.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/breezedark/js/breezedark.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/files_videoplayer/js/main.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/rainloop/js/rainloop.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/riotchat/js/logout.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/apporder/js/apporder.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/files_rightclick/js/script.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/files_rightclick/js/files.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/apps/theming/js/theming.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=" defer src="/core/js/dist/login.js?v=3ec20454-13"></script>
+<script nonce="Tjd0YTJxUCthV1JBRnlWb3k0SElRaFFFRlp0K09oS2UraktVYXJyLzUvYz06RCsxbzQ1VEpMeUFOZUJGZm1OR0RNblZ3SmVFMllGSEh1R1BpR2RPTnRZTT0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","apporder":"/apps/apporder","bookmarks":"/apps/bookmarks","breezedark":"/apps/breezedark","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","cloud_federation_api":"/apps/cloud_federation_api","cms_pico":"/apps/cms_pico","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","deck":"/apps/deck","drawio":"/apps/drawio","duplicatefinder":"/apps/duplicatefinder","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_external":"/apps/files_external","files_markdown":"/apps/files_markdown","files_mindmap":"/apps/files_mindmap","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","forms":"/apps/forms","groupfolders":"/apps/groupfolders","integration_google":"/apps/integration_google","integration_mastodon":"/apps/integration_mastodon","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","maps":"/apps/maps","nextcloud_announcements":"/apps/nextcloud_announcements","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","rainloop":"/apps/rainloop","recommendations":"/apps/recommendations","richdocuments":"/apps/richdocuments","richdocumentscode":"/apps/richdocumentscode","riotchat":"/apps/riotchat","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","social":"/apps/social","socialsharing_diaspora":"/apps/socialsharing_diaspora","socialsharing_facebook":"/apps/socialsharing_facebook","socialsharing_twitter":"/apps/socialsharing_twitter","spreed":"/apps/spreed","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","talk_matterbridge":"/apps/talk_matterbridge","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","twofactor_totp":"/apps/twofactor_totp","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005846;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"21.0.7.0","versionstring":"21.0.7","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/21\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10}};
+var _theme={"entity":"Gjertsen.net Nextcloud","name":"Gjertsen.net Nextcloud","title":"Gjertsen.net Nextcloud","baseUrl":"https:\/\/cloud.gjertsen.net\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/21\/go.php?to=PLACEHOLDER","slogan":"stuff your stuff here!","logoClaim":"","shortFooter":"<a href=\"https:\/\/cloud.gjertsen.net\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Gjertsen.net Nextcloud<\/a> \u2013 stuff your stuff here!","longFooter":"<a href=\"https:\/\/cloud.gjertsen.net\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Gjertsen.net Nextcloud<\/a> \u2013 stuff your stuff here!","folder":""};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Gjertsen.net Nextcloud"/><meta property="og:description" content="stuff your stuff here!"/><meta property="og:site_name" content="Gjertsen.net Nextcloud"/><meta property="og:url" content="https://cloud.gjertsen.net/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.gjertsen.net/core/img/favicon-touch.png"/><link rel="stylesheet" href="/apps/theming/styles?v=13"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjEuMC43LjAiLCJ2ZXJzaW9uc3RyaW5nIjoiMjEuMC43IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJyaWNoZG9jdW1lbnRzIjp7InZlcnNpb24iOiI0LjIuNyIsIm1pbWV0eXBlcyI6WyJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC50ZXh0IiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuc3ByZWFkc2hlZXQiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5ncmFwaGljcyIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnByZXNlbnRhdGlvbiIsImFwcGxpY2F0aW9uXC92bmQubG90dXMtd29yZHBybyIsImFwcGxpY2F0aW9uXC92bmQudmlzaW8iLCJhcHBsaWNhdGlvblwvdm5kLm1zLXZpc2lvLmRyYXdpbmciLCJhcHBsaWNhdGlvblwvdm5kLndvcmRwZXJmZWN0IiwiYXBwbGljYXRpb25cL21zb25lbm90ZSIsImFwcGxpY2F0aW9uXC9tc3dvcmQiLCJhcHBsaWNhdGlvblwvcnRmIiwidGV4dFwvcnRmIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50IiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLnRlbXBsYXRlIiwiYXBwbGljYXRpb25cL3ZuZC5tcy13b3JkLmRvY3VtZW50Lm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtd29yZC50ZW1wbGF0ZS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnNoZWV0IiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnRlbXBsYXRlIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC5zaGVldC5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLnRlbXBsYXRlLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuYWRkaW4ubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC5zaGVldC5iaW5hcnkubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50IiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5wcmVzZW50YXRpb25tbC5wcmVzZW50YXRpb24iLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnByZXNlbnRhdGlvbm1sLnRlbXBsYXRlIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5wcmVzZW50YXRpb25tbC5zbGlkZXNob3ciLCJhcHBsaWNhdGlvblwvdm5kLm1zLXBvd2VycG9pbnQuYWRkaW4ubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LnByZXNlbnRhdGlvbi5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXBvd2VycG9pbnQudGVtcGxhdGUubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LnNsaWRlc2hvdy5tYWNyb0VuYWJsZWQuMTIiLCJ0ZXh0XC9jc3YiXSwibWltZXR5cGVzTm9EZWZhdWx0T3BlbiI6WyJpbWFnZVwvc3ZnK3htbCIsImFwcGxpY2F0aW9uXC9wZGYiLCJ0ZXh0XC9wbGFpbiIsInRleHRcL3NwcmVhZHNoZWV0Il0sImNvbGxhYm9yYSI6eyJjb252ZXJ0LXRvIjp7ImF2YWlsYWJsZSI6dHJ1ZX0sImhhc01vYmlsZVN1cHBvcnQiOnRydWUsImhhc1Byb3h5UHJlZml4IjpmYWxzZSwiaGFzVGVtcGxhdGVTYXZlQXMiOmZhbHNlLCJoYXNUZW1wbGF0ZVNvdXJjZSI6dHJ1ZX0sImRpcmVjdF9lZGl0aW5nIjp0cnVlLCJ0ZW1wbGF0ZXMiOnRydWUsInByb2R1Y3ROYW1lIjoiQ29sbGFib3JhIE9ubGluZSIsImNvbmZpZyI6eyJ3b3BpX3VybCI6Imh0dHBzOlwvXC9jbG91ZC5namVydHNlbi5uZXRcL2FwcHNcL3JpY2hkb2N1bWVudHNjb2RlXC9wcm94eS5waHA/cmVxPSIsInB1YmxpY193b3BpX3VybCI6Imh0dHBzOlwvXC9jbG91ZC5namVydHNlbi5uZXRcL2FwcHNcL3JpY2hkb2N1bWVudHNjb2RlXC9wcm94eS5waHA/cmVxPSIsImRpc2FibGVfY2VydGlmaWNhdGVfdmVyaWZpY2F0aW9uIjoieWVzIiwiZWRpdF9ncm91cHMiOm51bGwsInVzZV9ncm91cHMiOm51bGwsImRvY19mb3JtYXQiOm51bGwsInRpbWVvdXQiOjE1fX0sImZpbGVzIjp7ImJpZ2ZpbGVjaHVua2luZyI6dHJ1ZSwiYmxhY2tsaXN0ZWRfZmlsZXMiOlsiLmh0YWNjZXNzIl0sImRpcmVjdEVkaXRpbmciOnsidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLmdqZXJ0c2VuLm5ldFwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6IjYyMjZiYTg3MzM3M2Y1ZTczYTNlZjUwNDEwNzUyM2Y3In0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9jbG91ZC5namVydHNlbi5uZXRcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImRlY2siOnsidmVyc2lvbiI6IjEuNC44IiwiY2FuQ3JlYXRlQm9hcmRzIjp0cnVlLCJhcGlWZXJzaW9ucyI6WyIxLjAiLCIxLjEiXX0sIm5vdGVzIjp7ImFwaV92ZXJzaW9uIjpbIjAuMiIsIjEuMiJdLCJ2ZXJzaW9uIjoiNC4zLjEifSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjgsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVNwZWNpYWxDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVVwcGVyTG93ZXJDYXNlIjpmYWxzZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLmdqZXJ0c2VuLm5ldFwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5namVydHNlbi5uZXRcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjExLjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0aW9uRW5hYmxlZCI6dHJ1ZX0sImZpbGVzX3NoYXJpbmciOnsic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfX0sInNwcmVlZCI6eyJmZWF0dXJlcyI6WyJhdWRpbyIsInZpZGVvIiwiY2hhdC12MiIsImNvbnZlcnNhdGlvbi12MiIsImd1ZXN0LXNpZ25hbGluZyIsImVtcHR5LWdyb3VwLXJvb20iLCJndWVzdC1kaXNwbGF5LW5hbWVzIiwibXVsdGktcm9vbS11c2VycyIsImZhdm9yaXRlcyIsImxhc3Qtcm9vbS1hY3Rpdml0eSIsIm5vLXBpbmciLCJzeXN0ZW0tbWVzc2FnZXMiLCJkZWxldGUtbWVzc2FnZXMiLCJtZW50aW9uLWZsYWciLCJpbi1jYWxsLWZsYWdzIiwiY29udmVyc2F0aW9uLWNhbGwtZmxhZ3MiLCJub3RpZmljYXRpb24tbGV2ZWxzIiwiaW52aXRlLWdyb3Vwcy1hbmQtbWFpbHMiLCJsb2NrZWQtb25lLXRvLW9uZS1yb29tcyIsInJlYWQtb25seS1yb29tcyIsImxpc3RhYmxlLXJvb21zIiwiY2hhdC1yZWFkLW1hcmtlciIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsImNvbnZlcnNhdGlvbi12MyIsInNpcC1zdXBwb3J0IiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImNoYXQtcmVmZXJlbmNlLWlkIl0sImNvbmZpZyI6eyJhdHRhY2htZW50cyI6eyJhbGxvd2VkIjpmYWxzZX0sImNoYXQiOnsibWF4LWxlbmd0aCI6MzIwMDAsInJlYWQtcHJpdmFjeSI6MH0sImNvbnZlcnNhdGlvbnMiOnsiY2FuLWNyZWF0ZSI6ZmFsc2V9LCJwcmV2aWV3cyI6eyJtYXgtZ2lmLXNpemUiOjMxNDU3Mjh9fX0sInRoZW1pbmciOnsibmFtZSI6IkdqZXJ0c2VuLm5ldCBOZXh0Y2xvdWQiLCJ1cmwiOiJodHRwczpcL1wvY2xvdWQuZ2plcnRzZW4ubmV0XC8iLCJzbG9nYW4iOiJzdHVmZiB5b3VyIHN0dWZmIGhlcmUhIiwiY29sb3IiOiIjQjU2MzU3IiwiY29sb3ItdGV4dCI6IiNmZmZmZmYiLCJjb2xvci1lbGVtZW50IjoiI0I1NjM1NyIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiI0I1NjM1NyIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiNCNTYzNTciLCJsb2dvIjoiaHR0cHM6XC9cL2Nsb3VkLmdqZXJ0c2VuLm5ldFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEzIiwiYmFja2dyb3VuZCI6IiNCNTYzNTciLCJiYWNrZ3JvdW5kLXBsYWluIjp0cnVlLCJiYWNrZ3JvdW5kLWRlZmF1bHQiOnRydWUsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvY2xvdWQuZ2plcnRzZW4ubmV0XC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTMiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLmdqZXJ0c2VuLm5ldFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEzIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiR2plcnRzZW4ubmV0IE5leHRjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9jbG91ZC5namVydHNlbi5uZXRcLyIsInNsb2dhbiI6InN0dWZmIHlvdXIgc3R1ZmYgaGVyZSEiLCJjb2xvciI6IiNCNTYzNTciLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIxMyJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Gjertsen.net Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://cloud.gjertsen.net/" target="_blank" rel="noreferrer noopener" class="entity-name">Gjertsen.net Nextcloud</a> – stuff your stuff here!			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,62 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:46 GMT
+Permissions-Policy: interest-cohort=()
+Server: gotosocial
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 999
+X-Ratelimit-Reset: 1668007426
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>social.jorisgutjahr.eu - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						social.jorisgutjahr.eu
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.0-rc2 git-1149310</span>
+				</a>
+			</div>
+			
+			 
+				<div id="email">
+					Email: <a href="mailto:csdummi.misquality@simplelogin.co" class="nounderline">csdummi.misquality@simplelogin.co</a><br>
+				</div>
+			
+		</footer>
+	</div>
+	
+</body>
+</html>

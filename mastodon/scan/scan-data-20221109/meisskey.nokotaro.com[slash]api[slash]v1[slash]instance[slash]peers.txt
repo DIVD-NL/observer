@@ -1,0 +1,26 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d1e9d552e62-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:48 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6kE9H%2BQGrXU7MKZ3d7ZOBbuVaEdsm9239EeoI%2BIJJ%2FB%2F0H1h6d88JIekQ9Rz3mSpnKQg5pUihJOi4KUjCIujLPXKL23DCwdVqZnXlc1970xx7hNzvozU27XtytOGY2UForBuPcRHng%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=6.0000020312145e-06
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+
+20e
+<html>
+<head><title>410 Gone</title></head>
+<body bgcolor="white">
+<center><h1>410 Gone</h1></center>
+<hr><center>nginx</center>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"76777d1e9d552e62","token":"2f5caa45a2e14f1e831b49595118dede","version":"2022.11.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+0
+

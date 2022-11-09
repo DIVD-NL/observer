@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: blob: ; object-src https: data: 'unsafe-inline'; style-src https: data: 'unsafe-inline' ; script-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:05:59 GMT
+Etag: W/"dbffb7b872a2f51b0ea39652fee546f6"
+Permissions-Policy: interest-cohort=()
+Server: openresty
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.864217Z
+X-Request-Id: 6d8ea02a-1802-4e07-b593-cf407f548462
+X-Runtime: 0.017529
+X-Served-By: guistodon.giom.fr
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+2df
+["mastodon.fam-ribbers.com","friendica.bachgau.social","nsfw.wnymathguy.com","schmaker.eu","friendica.opensocial.space","botsin.space","social.trom.tf","nerdica.net","chaos.social","quitter.pl","social.softmetz.de","f.freinetz.ch","loma.ml","social.tromdienste.de","social.yl.ms","mastodon.xyz","mastodon.matrix.org","friendica.ironbug.org","friendica.vrije-mens.org","g0v.social","social.outsourcedmath.com","mastodon.cloud","social.jmueller.eu","floss.social","mastodon.technology","friendica.mnementh.co.uk","mastodon.social","chat.noelle.codes","mastodon.art","mastodon.online","elekk.xyz","social.network.europa.eu","red.niboe.info","freeradical.zone","toot.wales","notjustbikes.com","nitrokey.com","fosstodon.org","mstdn.social"]
+0
+

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://toot.lucidragons.de; font-src 'self' https://toot.lucidragons.de; img-src 'self' data: blob: https://toot.lucidragons.de; style-src 'self' https://toot.lucidragons.de 'nonce-UpxuWkwFGnr2Y5DXe5gRzg=='; media-src 'self' data: https://toot.lucidragons.de; frame-src 'self' https:; child-src 'self' blob: https://toot.lucidragons.de; worker-src 'self' blob: https://toot.lucidragons.de; connect-src 'self' blob: data: wss://toot.lucidragons.de https://toot.lucidragons.de; manifest-src 'self' https://toot.lucidragons.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:58 GMT
+Etag: W/"4ed21b62bd36ddf2cf7cd80c38d60aa9"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.012591Z
+X-Request-Id: 5260d589-8bf1-4dab-8beb-9731418dc46f
+X-Runtime: 0.016291
+X-Xss-Protection: 0
+
+1d7
+["hact.org","fedi.anarchy.moe","iscute.moe","marf.space","moth.zone","nyan.network","pl.devfs.xyz","social.shadowkat.net","mas.to","cybre.space","lesbian.solutions","mk.nixnet.social","vibewave.space","mstdn.itsnero.com","mellified.men","mastodon.social","fediverse.one","xoxo.zone","mastodon.cloud","cybre.club","friskypaws.social","toot.community","mastodon.art","meow.social","tilde.zone","tech.lgbt","mastodon.derg.nz","pony.social","dragon.style","mk.absturztau.be"]
+0
+

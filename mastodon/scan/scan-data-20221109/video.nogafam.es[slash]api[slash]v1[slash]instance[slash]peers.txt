@@ -1,0 +1,19 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:53 GMT
+Keep-Alive: timeout=5
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Tk: N
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668007318
+Content-Length: 0
+

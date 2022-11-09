@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:16:31 GMT
+Server: nginx
+Vary: Accept-Encoding
+
+2d
+{"message":"404 Not Found","status_code":404}
+0
+

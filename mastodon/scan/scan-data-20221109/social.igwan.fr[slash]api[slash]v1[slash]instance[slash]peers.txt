@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1654
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization, Content-Type, Idempotency-Key
+Access-Control-Allow-Methods: POST, PUT, DELETE, GET, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-RateLimit-Reset, X-RateLimit-Limit, X-RateLimit-Remaining, X-Request-Id
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:38 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzowh_lsXjzbUABBrR
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+["pouet.grossard.fr","h4.io","octodon.social","social.secret-wg.org","aleph.land","social.tromdienste.de","skinnyver.se","sorcie.re","urbanists.social","toot.aquilenet.fr","mastodon.top","pleroma.lord.re","ioc.exchange","toot.site","mastodon.immae.eu","oc.todon.fr","framapiaf.org","mstdn.sidh.bzh","mastodon.ie","toots.dgplug.org","toot.community","mastodon.zeteo.me","tooting.ch","eldritch.cafe","pouet.april.org","travelpandas.fr","pouet.it","pouet.chapril.org","todon.eu","mastodon.xyz","queer.hacktivis.me","piaille.fr","social.namok.be","mastodon.partipirate.org","mastodon.ar.al","mk.vulpes.one","social.coop","sauropods.win","vmst.io","mastodon.cgx.me","masto.glorious-space.eu","blah.rako.space","mastodon.social","pewtix.com","social.weho.st","mstdn.social","amicale.net","botsin.space","shelter.moe","merveilles.town","fediverse.one","social.linuxine.net","fosstodon.org","im-in.space","post.lurk.org","qoto.org","mastodon.eole.education","friendica.hubup.pro","mamot.fr","mastodon.sdf.org","social.deadsuperhero.com","mastodon.world","mast.eu.org","slon.yojik.net","toot.fedilab.app","cornichon.me","social.finkhaeuser.de","mastodon.suinot.org","mastodon.gougere.fr","tooter.social","lou.lt","mstdn.fr","brotka.st","wandering.shop","misskey.bubbletea.dev","social.zdx.fr","mastodon.opportunis.me","diaspodon.fr","writing.exchange","hcommons.social","anonsys.net","bsd.network","m.g3l.org","social.tchncs.de","mastodon.tedomum.net","mastodon.tetaneutral.net","mastodon.halibut.com","mastodon.darkou.fr","friendica.ironbug.org","maly.io","noc.social","glitterkitten.co.uk","mastodon.art","chaos.social","mastodon.zaclys.com","darmstadt.social"]

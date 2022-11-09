@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.rozk.net; img-src 'self' https: data: blob: https://social.rozk.net; style-src 'self' https://social.rozk.net 'nonce-07YPi8VF3vMIQc1IDV/n6A=='; media-src 'self' https: data: https://social.rozk.net; frame-src 'self' https:; manifest-src 'self' https://social.rozk.net; connect-src 'self' data: blob: https://social.rozk.net https://social.rozk.net wss://social.rozk.net; script-src 'self' https://social.rozk.net; child-src 'self' blob: https://social.rozk.net; worker-src 'self' blob: https://social.rozk.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:27 GMT
+Etag: W/"39003d2623ff48565a9ca4ee622afa55"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains;
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T11:55:00.101377Z
+X-Request-Id: 12408ae6-154c-47f2-8a8c-7e78c1e7c0aa
+X-Runtime: 0.011903
+X-Xss-Protection: 0
+
+681
+["cornichon.me","friendica.ironbug.org","toot.aquilenet.fr","mastodon.xyz","social.jesuislibre.net","biscuit.town","social.badabam.net","social.thierrytalbert.fr","todon.nl","todon.eu","masthead.social","mastodon.gougere.fr","diaspodon.fr","social.lucentinian.com","mastodon.jfmblinux.fr","f.kretschmann.social","friendica.opencloud.lu","friendica.oldkid.digital","tilde.zone","social.tyngsboroughma.net","friendica.kommune4.de","framapiaf.org","friendica.ingram-braun.net","horizin.de","v2.ebano.social","follow.schmaller.de","mastodon.tetaneutral.net","social.linux.pizza","friendica.offsite.guru","herzbu.de","friendica.ambag.es","fri.aethercom.de","talkabout.cf","friendica.mschmidt-et.de","anarchydica.net","friendica.togart.de","friendica.ucy.de","friendica.myportal.social","kudabiverse.com","pztrn.online","social.jmueller.eu","f.iroiro.party","friend.geoffray-levasseur.org","fr.readthefinemanual.net","friendica.mifritscher.de","friendica.daniel-siepmann.de","mastodon-relay.thedoodleproject.net","kafeneio.social","social.anacreonte.eu","pouet.chapril.org","mieth.social","plock.social","mastodon.world","redeyes.club","toot.community","iscute.moe","chaos.social","indieweb.social","social.lol","floss.social","xerg.ga","mastodon.cloud","aus.social","sfba.social","social.tulsa.ok.us","mstdn.fr","pullopen.xyz","social.tchncs.de","mstdn.rndmm.us","mastodon.se","masto.glorious-space.eu","layer8.space","linksgruenversifft.social","mastodon.uno","social.goodanser.com","hachyderm.io","rivals.space","mamot.fr","fosstodon.org","esperanto.masto.host","noc.social","social.cologne","mas.to","mastodon.online","mstdn.social","mastodon.scot","mastodon.social"]
+0
+

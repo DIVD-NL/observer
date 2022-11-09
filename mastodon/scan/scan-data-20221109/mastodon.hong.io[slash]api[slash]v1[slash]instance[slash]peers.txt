@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.hong.io; img-src 'self' https: data: blob: https://mastodon.hong.io; style-src 'self' https://mastodon.hong.io 'nonce-zMOfhnUXeCYiDLWyqRslQw=='; media-src 'self' https: data: https://mastodon.hong.io; frame-src 'self' https:; manifest-src 'self' https://mastodon.hong.io; connect-src 'self' data: blob: https://mastodon.hong.io https://mastodon.hong.io wss://mastodon.hong.io; script-src 'self' https://mastodon.hong.io; child-src 'self' blob: https://mastodon.hong.io; worker-src 'self' blob: https://mastodon.hong.io
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:26 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.491250Z
+X-Request-Id: 9ab4967e-bde0-43a8-86ea-0e6ebfd90c97
+X-Runtime: 0.008098
+
+0
+

@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://mastodon.opportunis.me; font-src 'self' https://mastodon.opportunis.me; img-src 'self' data: blob: https://mastodon.opportunis.me; style-src 'self' https://mastodon.opportunis.me 'nonce-ghE/8x5Ww5wgHrpRQqMlNQ=='; media-src 'self' data: https://mastodon.opportunis.me; frame-src 'self' https:; child-src 'self' blob: https://mastodon.opportunis.me; worker-src 'self' blob: https://mastodon.opportunis.me; connect-src 'self' blob: data: wss://mastodon.opportunis.me https://mastodon.opportunis.me; manifest-src 'self' https://mastodon.opportunis.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:58 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.930771Z
+X-Request-Id: 572cdd79-8bae-4215-9e95-4eceabc44fbc
+X-Runtime: 0.005890
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,158 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: script-src 'unsafe-inline' 'self' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.furry.nz 'strict-dynamic' 'nonce-q2GEDo8P6V3dXFn5jkoolA=='; default-src 'self'; style-src 'unsafe-inline' fonts.googleapis.com 'self' https://cdn.furry.nz 'nonce-q2GEDo8P6V3dXFn5jkoolA=='; font-src 'self' data: fonts.gstatic.com https://cdn.furry.nz; object-src 'none'; base-uri 'none'; img-src 'self' data: ui-avatars.com *.wp.com www.gravatar.com https://cdn.furry.nz; connect-src 'self' https://sentry.io; frame-src https://www.google.com/recaptcha/; frame-ancestors 'none'; upgrade-insecure-requests; form-action 'self' furry.nz furconz.org.nz southernpaws.org.nz spfc-local.dmptr.com furco.nz test.furco.nz local.dev.furco.nz pawpad.io localhost auth.furco.nz; report-uri https://sentry.io/api/1810738/security/?sentry_key=2339015aeb22431b8b09e426349b7d17
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:46 GMT
+Expect-Ct: max-age=604800, report-uri="https://dmptr.report-uri.com/r/d/ct/enforce"
+Referrer-Policy: same-origin
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+142d
+
+<!doctype html>
+<html lang="en" class="no-js" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="application-name" content="">
+    <meta property="og:site_name" content="">
+    <meta property="fb:app_id" content="538473223430196">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://furry.nz/#organization",
+            "name": "furry.nz",
+            "url": "https://furry.nz",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://cdn.furry.nz/static/images/paw-dark@3x.png",
+                "width": 90,
+                "height": 90
+            }
+        }
+    </script>
+
+    <meta name="theme-color" content="#2c3840">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.furry.nz/static/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.furry.nz/static/favicon-16x16.png">
+
+    <title>
+        Page Not Found | 
+    </title>
+
+    <script type="text/javascript" src="https://cdn.furry.nz/static/js/polyfill.min.js" nonce="q2GEDo8P6V3dXFn5jkoolA=="></script>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700&display=swap"
+          rel="stylesheet" nonce="q2GEDo8P6V3dXFn5jkoolA==">
+
+    <link type="text/css" href="https://cdn.furry.nz/static/bundles/main.e6b8e9c8df42c1f71582.css" rel="stylesheet"  nonce="q2GEDo8P6V3dXFn5jkoolA=="/>
+    <script type="text/javascript" src="https://cdn.furry.nz/static/bundles/runtime.2e051f9139083e04cf10.js" defer nonce="q2GEDo8P6V3dXFn5jkoolA=="></script>
+    <script type="text/javascript" src="https://cdn.furry.nz/static/bundles/main.7b449d9daf1fa0158402.js" defer nonce="q2GEDo8P6V3dXFn5jkoolA=="></script>
+
+    <script nonce="q2GEDo8P6V3dXFn5jkoolA==">
+        (function (a) {
+            a.remove("no-js");
+            a.add("js")
+        })(document.documentElement.classList);
+    </script>
+
+    
+</head>
+
+<body>
+<a class="visually-hidden-focusable" href="#main-content">Skip to main content</a>
+
+
+    
+<nav id="navigation" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+        <div class='icon icon-paw svg-baseline'>
+            <!-- CC BY 4.0 <https://fontawesome.com/license/free> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="26" height="28" viewBox="0 0 26 28">
+<path d="M12.187 7.375c0 1.75-0.906 3.828-2.922 3.828-2.531 0-4.062-3.187-4.062-5.375 0-1.75 0.906-3.828 2.922-3.828 2.547 0 4.062 3.187 4.062 5.375zM6.844 14.922c0 1.516-0.797 3.094-2.516 3.094-2.5 0-4.328-3.063-4.328-5.328 0-1.516 0.812-3.109 2.516-3.109 2.5 0 4.328 3.078 4.328 5.344zM13 14.5c3.828 0 9 5.516 9 9.203 0 1.984-1.625 2.297-3.219 2.297-2.094 0-3.781-1.406-5.781-1.406-2.094 0-3.875 1.391-6.141 1.391-1.516 0-2.859-0.516-2.859-2.281 0-3.703 5.172-9.203 9-9.203zM16.734 11.203c-2.016 0-2.922-2.078-2.922-3.828 0-2.188 1.516-5.375 4.062-5.375 2.016 0 2.922 2.078 2.922 3.828 0 2.188-1.531 5.375-4.062 5.375zM23.484 9.578c1.703 0 2.516 1.594 2.516 3.109 0 2.266-1.828 5.328-4.328 5.328-1.719 0-2.516-1.578-2.516-3.094 0-2.266 1.828-5.344 4.328-5.344z"></path>
+</svg>
+
+        </div>
+        </a>
+      
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+<div class="collapse navbar-collapse" id="navbar">
+    
+    <div class="navbar-nav me-auto mb-2 mb-lg-0">
+        <a class="nav-item nav-link"
+           href="/blog/">News</a>
+        <a class="nav-item nav-link"
+           href="/events/">Events</a>
+        
+    </div>
+    
+    <div class="navbar-nav">
+        
+            <a class="nav-item nav-link" href="/accounts/login/">Sign In</a>
+        
+    </div>
+</div>
+
+  </div>
+</nav>
+
+
+
+
+    <main id="main-content" class="container px-3 py-4 px-md-4 py-md-5">
+        
+
+        
+    <section id="page-title">
+        <h1>Error 404</h1>
+        <p class="lead">Page Not Found</p>
+    </section>
+
+    <section id="page-content">
+        <p>Sorry, but the page you were trying to view does not exist.</p>
+        
+    </section>
+
+    </main>
+
+
+
+
+<footer id="footer">
+    <div class="container">
+        <p> —
+            <a href="https://github.com/dmptrluke/foxtail" target="_blank" rel="noopener noreferrer">source</a>,
+            <a href="/privacy/">privacy</a>,
+            <a href="/contact/">contact</a>,
+
+            <a role="button" data-bs-toggle="popover" data-bs-placement="top"
+            data-bs-content="'{&quot;ip&quot;: &quot;193.105.73.176&quot;, &quot;time&quot;: &quot;2022-11-09T14:58:46.292354+00:00&quot;}'">?</a>
+        </p>
+    </div>
+</footer>
+
+
+
+
+
+</body>
+</html>
+
+0
+

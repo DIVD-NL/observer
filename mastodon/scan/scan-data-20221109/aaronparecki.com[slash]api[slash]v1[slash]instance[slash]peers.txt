@@ -1,0 +1,310 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization,Content-Type,Accept,Referer,Origin,User-Agent,Cache-Control,Pragma
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Link: <https://switchboard.p3k.io/>; rel="hub"
+Link: <https://aaronparecki.com/auth/token>; rel="token_endpoint"
+Link: <https://aaronparecki.com/api/v1/instance/peers>; rel="self"
+Server: nginx/1.14.0
+
+35cc
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aaron Parecki</title>
+        
+    <link rel="webmention" href="https://webmention.io/aaronpk/webmention">
+
+    <script src="/assets/jquery-1.12.0.min.js"></script>
+    <script src="/semantic/2.2.6/semantic.min.js"></script>
+    <script src="/assets/featherlight-1.5.0/featherlight.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/assets/font.css">
+
+    <link rel="stylesheet" type="text/css" href="/semantic/2.2.6/semantic.min.css">
+    <link rel="stylesheet" href="/assets/icomoon/style.css">
+    <link rel="stylesheet" href="/assets/weather-icons/css/weather-icons.css">
+    <link rel="stylesheet" href="/assets/featherlight-1.5.0/featherlight.min.css">
+
+
+    <link rel="stylesheet" href="/assets/admin.2.css">
+    <link rel="stylesheet" href="/assets/pulse.css">
+    <link rel="stylesheet" href="/assets/styles.8.css">
+    <link rel="stylesheet" href="/site/styles.2.css">
+    <link rel="stylesheet" href="/assets/carbon.css">
+
+    <link rel="stylesheet" href="/assets/story.css">
+
+    
+    <link rel="openid.delegate" href="https://aaronparecki.com/">
+    <link rel="openid.server" href="https://openid.indieauth.com/openid">
+
+
+  </head>
+  <body>
+
+  	
+    <div class="sticky-footer-content">
+      <div class="top-bar ">
+        <div class="ui container">
+          <form action="/search" method="get" class="search item">
+            <div class="ui icon input">
+              <input type="text" name="q" placeholder="Search..." value="">
+              <i class="search icon"></i>
+            </div>
+          </form>
+                      <span class="item">57&deg;F</span>
+            <span class="weather item">
+              <i class="wi wi-owm-801" title="few clouds in London"></i>
+            </span>
+                                <span class="time item"></span>
+                                <span class="battery item"></span>
+                    <div id="logged-in-menu">
+                      </div>
+        </div>
+      </div>
+              <div class="ui container">
+        <div class="site-header">
+  <div class="align-bottom">
+
+    <div class="left">
+      <h1><a href="/">Aaron Parecki</a></h1>
+    </div>
+
+    <div class="right">
+      <ul>
+                  <li><a href="/articles">Articles</a></li>
+                  <li><a href="/notes">Notes</a></li>
+                  <li><a href="/photos">Photos</a></li>
+              </ul>
+    </div>
+
+  </div>
+</div>
+        
+<div class="post-list">
+  <div class="content-area">
+    <div class="splash" style="padding-bottom: 20px;">
+      Not Found
+    </div>
+  </div>
+</div>
+
+        </div>
+          </div>
+
+    <footer class="sticky-footer">
+              <div class="subfooter">
+          <div class="ui container h-card">
+  <div class="about">
+    <div class="image"><a href="/" class="u-url u-uid"><img src="/images/profile.jpg" class="u-photo"></a></div>
+    <div class="bio">
+      <div class="p-note">
+        <p>Hi, I'm <span class="p-name">Aaron<span style="display:none;"> Parecki</span></span>, <a href="https://developer.okta.com/blog/2018/03/27/welcome-aaron-okta">Senior Security Architect at Okta</a>, and co-founder of
+<a href="https://indieweb.org/">IndieWebCamp</a>.
+I maintain <a href="https://oauth.net/">oauth.net</a>, <a href="/oauth/">write and consult about OAuth</a>, and
+participate in the OAuth Working Group at the IETF. I also help people learn about <a href="https://aaronpk.tv">video production and livestreaming</a> and dabble in <a href="https://pk1.tv">product design</a>.</p>
+
+<p>I've been <a href="/gps/">tracking my location</a> since 2008 and I wrote <a href="https://100.aaronparecki.com/">100 songs in 100 days</a>.
+I've <a href="/presentations">spoken</a> at conferences around the world about
+<a href="/presentations?tag=indieweb">owning your data</a>,
+<a href="/oauth/">OAuth</a>,
+<a href="/presentations?tag=quantifiedself">quantified self</a>,
+and explained <a href="https://www.youtube.com/watch?v=FGVJ0eXTRpw">why R is a vowel</a>. <a href="/about">Read more</a>.</p> <time class="dt-bday" datetime="--12-28"></time>
+
+<data class="p-street-address" value="PO Box 12433"></data>
+<data class="p-locality" value="Portland"></data>
+<data class="p-region" value="Oregon"></data>
+<data class="p-country-name" value="USA"></data>
+<data class="p-postal-code" value="97212"></data>      </div>
+    </div>
+    <div class="right">
+      <div class="orgs">
+        <ul>
+            <li class="p-org h-card">
+              <img src="/images/okta.png" alt="" class="u-photo">
+              <a class="p-role" href="https://developer.okta.com/blog/2018/03/27/welcome-aaron-okta">Security Architect</a> at <a href="https://developer.okta.com/" class="u-url">
+                <span class="p-name">Okta</span>
+              </a> 
+            </li>
+            <li class="p-org h-card">
+              <img src="/images/indiewebcamp.png" alt="" class="u-photo">
+              <a href="https://indieweb.org/" class="u-url">
+                <span class="p-name">IndieWebCamp</span>
+              </a> 
+              <a class="p-role" href="https://indieweb.org/founders">Founder</a>
+            </li>
+            <li class="p-org h-card">
+              <img src="/images/ietf.ico" alt="" class="u-photo">
+              <a href="https://oauth.net" class="u-url">
+                <span class="p-name">OAuth WG</span>
+              </a> 
+              <a class="p-role" href="/oauth/">Member</a>
+            </li>
+
+<!--
+            <li class="p-org h-card">
+              <img src="/images/w3c.png" alt="" class="u-photo">
+              <a href="https://www.w3.org/" class="u-url">
+                <span class="p-name">W3C</span>
+              </a> 
+              <a class="p-role" href="/w3c/">Editor</a>
+            </li>
+            <li class="p-org h-card">
+              <img src="/images/streampdx.png" alt="" class="u-photo">
+              <a href="https://streampdx.com" class="u-url">
+                <span class="p-name">Stream PDX</span>
+              </a> 
+              <a class="p-role" href="https://streampdx.com/who">Co-Founder</a>
+            </li>
+            <li class="p-org h-card">
+              <img src="/images/backpedal.png" alt="" class="u-photo">
+              <a href="https://backpedal.tv" class="u-url">backpedal.tv</a> 
+            </li>
+-->
+            <li><br></li>
+            <!--
+            <li><img src="/images/spotify.ico" alt=""> <a href="/sunshine-indie-pop/">Sunshine Indie Pop</a></li>
+            <li>
+              <img src="/images/microphone.png" alt="">
+              <a class="p-callsign u-url" href="https://w7apk.com">W7APK</a>
+            </li>
+            -->
+            <li>🎥 <a href="https://youtube.com/aaronpk">YouTube Tutorials and Reviews</a></li>
+            <li>⭐️ <a href="https://aaronparecki.com/life-stack/">Life Stack</a></li>
+            <li>⚙️ <a href="https://aaronparecki.com/home-automation/">Home Automation</a></li>
+          </ul>
+
+<link rel="pgpkey" href="/key.txt">
+<link rel="me" href="sms:+15035678642">
+<link rel="me" href="https://micro.blog/aaronpk">      </div>
+      <div class="search">
+        <form action="/search" method="get">
+          <div class="ui fluid icon input">
+            <input type="text" name="q" placeholder="Search..." value="">
+            <i class="search icon"></i>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="channels">
+    <ul class="footer-links">
+              <li><a href="/all">All</a></li>
+              <li><a href="/articles">Articles</a></li>
+              <li><a href="/bookmarks">Bookmarks</a></li>
+              <li><a href="/notes">Notes</a></li>
+              <li><a href="/photos">Photos</a></li>
+              <li><a href="/replies">Replies</a></li>
+              <li><a href="/reviews">Reviews</a></li>
+              <li><a href="/sleep">Sleep</a></li>
+              <li><a href="/trips">Trips</a></li>
+              <li><a href="/videos">Videos</a></li>
+            <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div>
+    <div class="elsewhere">
+    <ul class="footer-links">
+              <li><a href="https://twitter.com/aaronpk" rel=""><i class="twitter icon"></i></a></li>
+              <li><a href="https://youtube.com/aaronpk" rel=""><i class="youtube play icon"></i></a></li>
+              <li><a href="https://github.com/aaronpk" rel=""><i class="github icon"></i></a></li>
+              <li><a href="http://foursquare.com/aaronpk" rel=""><i class="foursquare icon"></i></a></li>
+              <li><a href="http://www.linkedin.com/in/aaronparecki" rel=""><i class="linkedin icon"></i></a></li>
+              <li><a href="https://instagram.com/aaronpk_tv" rel=""><i class="instagram icon"></i></a></li>
+              <li><a href="https://instagram.com/aaronpk_2d" rel=""><i class="instagram icon"></i></a></li>
+              <li><a href="http://flickr.com/aaronpk" rel=""><i class="flickr icon"></i></a></li>
+              <li><a href="https://speakerdeck.com/aaronpk" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="http://www.slideshare.net/aaronpk" rel=""><i class="slideshare icon"></i></a></li>
+              <li><a href="http://www.last.fm/user/aaron_pk" rel=""><i class="lastfm icon"></i></a></li>
+              <li><a href="https://kit.co/aaronpk" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="https://www.duolingo.com/profile/aaronpk" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="https://www.w3.org/users/59996" rel=""><i class="icon-w3c icon"></i></a></li>
+              <li><a href="https://u.wechat.com/kKChiO-sSbgJQFf0UJrpHhE" rel=""><i class="wechat icon"></i></a></li>
+              <li><a href="https://www.amazon.com/shop/aaronparecki" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="https://www.amazon.com/gp/profile/amzn1.account.AHJ2OJ7NXSYM23FDDEDVZV2UR4MA" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="https://aaronparecki.com/aaronpk" rel=""><i class="linkify icon"></i></a></li>
+              <li><a href="https://cash.me/$aaronpk" rel=""><i class="icon-squarecash icon"></i></a></li>
+              <li><a href="https://venmo.com/aaronpk" rel=""><i class="icon-venmo icon"></i></a></li>
+              <li><a href="https://paypal.me/apk" rel=""><i class="paypal icon"></i></a></li>
+              <li><a href="mailto:aaron@parecki.com" rel=""><i class="mail icon"></i></a></li>
+          </ul>
+  </div>
+</div>
+        </div>
+      
+      <div class="footer">
+        <a href="/login" class="hidden-login"></a>
+        <div>
+          <span>&copy; 1999-2022 by Aaron Parecki.</span>
+          <span>Powered by <a href="https://indieweb.org/p3k">p3k</a>.</span>
+          <span>This site supports <a href="https://webmention.net/">Webmention</a>.</span>
+        </div>
+        <div>
+          <span>Except where otherwise noted, text content on this site is licensed
+            under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 License</a>.</span>
+        </div>
+        <div class="badges" style="padding-top: 8px;">
+          <a href="https://indieweb.org/"><img src="/assets/badges/indieweb.png" width="80" height="15" alt="IndieWebCamp" style="image-rendering: pixelated;"></a>
+          <a href="http://microformats.org/"><img src="/assets/badges/microformats.png" width="80" height="15" alt="Microformats" style="image-rendering: pixelated;"></a>
+          <a href="https://indieweb.org/Webmention"><img src="/assets/badges/webmention.png" width="80" height="15" alt="Webmention" style="image-rendering: pixelated;"></a>
+          <img src="/assets/badges/w3c-valid-html.png" width="80" height="15" alt="W3C HTML5" style="image-rendering: pixelated;">
+          <a href="http://creativecommons.org/licenses/by/3.0/"><img src="/assets/badges/cc-commons.png" width="80" height="15" alt="Creative Commons" style="image-rendering: pixelated;"></a>
+        </div>
+              </div>
+    </footer>
+
+    <input type="hidden" id="permalink" value="">
+        
+    <div id="wechat-modal" class="hidden">
+      <div class="contents">
+        <div class="text">WeChat ID<br>aaronpk_tv</div>
+        <div class="img"><img src="/images/wechat.jpg"></div>
+      </div>
+    </div>
+        
+    <script src="/assets/photo-albums/justified-layout.js"></script>
+    <script src="/assets/photo-albums/photo-layout.js"></script>
+    <script src="/assets/js-cookie.js"></script>
+    <script src="/assets/story.js" async></script>
+
+    <script src="/assets/script.js"></script>
+    <script src="/assets/webmention.js"></script>
+
+    <script src="/assets/admin.js"></script>
+
+    <script>
+      // Lolz. https://www.youtube.com/watch?v=EZpdEljk5dY
+      // thanks seblog.nl!
+      let photo = document.querySelector('.about .image img')
+      if(photo) {
+        window.addEventListener('deviceorientation', (e) => {
+          let tiltLR = e.gamma; let tiltFB = e.beta;
+          photo.style.transform = `rotate(${tiltLR * -1}deg)`
+        })
+      }
+    </script>
+
+        <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-4617305-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+        
+        <script src="https://cdn.usefathom.com/script.js" site="JGWUQUCN" defer></script>
+    
+  </body>
+</html>
+
+0
+

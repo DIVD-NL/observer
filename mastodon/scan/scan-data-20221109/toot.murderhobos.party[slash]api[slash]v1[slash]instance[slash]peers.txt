@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767789182914d494-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://toot.murderhobos.party wss://toot.murderhobos.party;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:58 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XqrH25dOsc6u6gkO3PIBcXvL%2BoiZ638J7KXTBRu4WHDlXhHHoMOqmSMcm2DEzdTZLI5muSK0Ch56Z%2BWUvw8p%2FxAct9v%2BiMlaJfe%2FCeQ7ZrHQYfipn1yJ0ns0q58oZvOm8akCj9A5vd3S"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzw7nyL0idygQAAnJB
+X-Xss-Protection: 1; mode=block
+
+863
+["octodon.social","m.geraffel.net","mastodon.green","social.dorf-post.de","mastodon.cloud","toot.community","masto.a0s.de","xn--thelnd-eua.land","muenchen.social","mastodon.nl","social.cologne","friends.johalla.org","bildung.social","md.ilyamikcoder.com","uwu.social","mastodon.social","dizl.de","ist.social","photog.social","social.la10cy.net","docviper.de","fediverse.one","machteburch.social","bremen.team","hub.uckermark.social","europe.social","flokinet.social","kosmos.social","meteo.social","lustigetiernamenbubble.de","todon.nl","soziale.cloud","social.lol","fnordon.de","gruene.social","toot.houbahouba.de","social.tchncs.de","mastodon.nu","mas.to","subversive.zone","masto.ai","forfuture.social","graz.social","fulda.social","social.dev-wiki.de","talk.mls20.de","climatejustice.social","mastodon.uno","lsbt.me","dresden.network","mastodon.scot","mastodon.online","hespere.de","det.social","mstdn.io","f-ckendehoelle.de","talk.stayas.one","social.teamx.cc","www.kanoa.de","suchtbasis.de","toot.berlin","tw.c-p-b.com","mstdn.eule.wtf","mstdn.jp","wandzeitung.xyz","d-64.social","toot.jaehne.cloud","metalhead.club","social.eden.one","mastodon.lol","rollenspiel.social","c.im","circus.town","mastodon.art","chaos.social","bonn.social","sndr.social","social.anufrij.de","ioc.exchange","treehouse.technopagans.de","social.home.ftt.gmbh","sueden.social","xn--trt-tna.wala2x.de","infosec.exchange","layer8.space","ieji.de","tech.lgbt","aachen.social","nrw.social","mastodontech.de","indieweb.social","berlin.social","mastodon.world","medibubble.org","wien.rocks","social.saufpark.tv","swiss.social","ruhr.social","eupublic.social","muenster.im","frankfurt.social","freiburg.social","nahe.social","kraud.social","literatur.social","todon.eu","barcamp.social","code-in-space.dev","edi.social","troet.cafe","mastodon.hamster.science","mstdn.social","scicomm.xyz","norden.social","swiss-talk.net","toot.kif.rocks","fosstodon.org","nerdculture.de","qoto.org","social.anoxinon.de","hachyderm.io","social.linux.pizza","freeradical.zone","pfalz.social","hessen.social","social.finkhaeuser.de","digitalcourage.social","openbiblio.social","wetdry.world"]
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mo.tt; img-src 'self' https: data: blob: https://mo.tt; style-src 'self' https://mo.tt 'nonce-EyuQh8ub+LX7HNodrguIew=='; media-src 'self' https: data: https://mo.tt; frame-src 'self' https:; manifest-src 'self' https://mo.tt; connect-src 'self' data: blob: https://mo.tt https://files.mo.tt wss://mo.tt; script-src 'self' https://mo.tt 'unsafe-eval'; child-src 'self' blob: https://mo.tt; worker-src 'self' blob: https://mo.tt
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:44 GMT
+Etag: W/"ff576b70d118a2920e2a6927c1f043d3"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 297
+X-Ratelimit-Reset: 2022-11-09T09:35:00.581860Z
+X-Request-Id: 69ada7a5-25c9-4a45-99e9-a2122e776b59
+X-Runtime: 0.049195
+X-Xss-Protection: 0
+
+67
+["notjustbikes.com","mastodon.social","leds.social","ruby.social","urbanists.social","mastodon.online"]
+0
+

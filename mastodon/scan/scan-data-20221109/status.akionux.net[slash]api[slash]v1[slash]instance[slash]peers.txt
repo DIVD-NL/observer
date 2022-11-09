@@ -1,0 +1,103 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 4883
+Content-Security-Policy: default-src 'self' data: 'unsafe-eval' 'unsafe-inline'; img-src * data: blob: ;
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:14 GMT
+Server: nginx/1.19.2
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.40
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+ <head>
+  <title>Not Found - status.akionux.net</title>
+  <link rel="shortcut icon" href="https://status.akionux.net/theme/neo-gnu/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/theme/base/css/display.css?version=1.2.0-beta5" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/theme/neo-gnu/css/display.css?version=1.2.0-beta5" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/plugins/Oembed/css/oembed.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta5" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://status.akionux.net/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://status.akionux.net/opensearch/people" title="status.akionux.net People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://status.akionux.net/opensearch/notice" title="status.akionux.net Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://status.akionux.net/main/public">
+      <img class="logo u-photo p-name" src="https://status.akionux.net/logo.png" alt="status.akionux.net"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://status.akionux.net/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="&#x691C;&#x7D22;"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="top_nav_doc_faq">
+       <a href="https://status.akionux.net/doc/faq" title="&#x3088;&#x304F;&#x3042;&#x308B;&#x8CEA;&#x554F;">FAQ</a>
+      </li>
+      <li id="nav_login">
+       <a href="https://status.akionux.net/main/login" title="&#x30B5;&#x30A4;&#x30C8;&#x306B;&#x30ED;&#x30B0;&#x30A4;&#x30F3;&#x3057;&#x307E;&#x3059;&#x3002;">ログイン</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">ページが見つかりません。</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://status.akionux.net/doc/help">ヘルプ</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/about">解説</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/faq">よくある質問と回答</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/tos">サービス利用規約</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/privacy">プライバシー</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/source">ソース</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/main/version">バージョン</a>
+     </li>
+     <li>
+      <a href="https://status.akionux.net/doc/contact">連絡先</a>
+     </li>
+    </ul>
+<p><strong>status.akionux.net</strong> は <a href="https://status.akionux.net/">status.akionux.net</a> の厚意によるソーシャルネットワークの一つです。  このサイトは <a href="https://www.gnu.org/software/social/">GNU social</a> バージョン 1.2.0-beta5 で動作しており、<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>の元で 利用できます。</p>
+    <p>
+     <img id="license_cc" src="https://status.akionux.net//theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 4.0" width="80" height="15"/>
+ status.akionux.net の全てのコンテンツおよびデータは <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a> ライセンスで利用できます。</p>
+   </div>
+  </div>
+ </body>
+<!-- 112ms --></html>

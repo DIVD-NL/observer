@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677662a2d3883c6-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://biplus.date; img-src 'self' https: data: blob: https://biplus.date; style-src 'self' https://biplus.date 'nonce-TrWSPj57UXdbqzaXdhR1cQ=='; media-src 'self' https: data: https://biplus.date; frame-src 'self' https:; manifest-src 'self' https://biplus.date; connect-src 'self' data: blob: https://biplus.date https://bucket.biplus.date wss://biplus.date; script-src 'self' https://biplus.date; child-src 'self' blob: https://biplus.date; worker-src 'self' blob: https://biplus.date
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:08 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3LSo%2BsfgHJItPY%2BP327oaIdmiNncd10UEExACNGwA39Ad%2BY8uj2fI%2FawTjVvzYblx8xoDoeyCPEfZ%2Fa0KrzneDDU2EF2sN%2FpE1AFENLyq%2FZLB%2BSy%2FRNKT1XBBMM8%2Fg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.568240Z
+X-Request-Id: 3b49696a-e0ad-4f1f-96a2-fc0628a744c9
+X-Runtime: 0.008949
+X-Xss-Protection: 0
+
+0
+

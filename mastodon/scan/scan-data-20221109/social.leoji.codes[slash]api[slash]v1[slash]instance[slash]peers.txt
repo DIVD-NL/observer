@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.leoji.codes; img-src 'self' https: data: blob: https://social.leoji.codes; style-src 'self' https://social.leoji.codes 'nonce-Cm0WoOjimarlVmgchs0aaA=='; media-src 'self' https: data: https://social.leoji.codes; frame-src 'self' https:; manifest-src 'self' https://social.leoji.codes; connect-src 'self' data: blob: https://social.leoji.codes https://sb-leoji.b-cdn.net wss://social.leoji.codes; script-src 'self' https://social.leoji.codes; child-src 'self' blob: https://social.leoji.codes; worker-src 'self' blob: https://social.leoji.codes
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:54 GMT
+Etag: W/"cd31ac13ef890b7f64a7a23c89e4f82a"
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.737360Z
+X-Request-Id: b93b50e7-cb79-4918-8f89-bb2b0cc0a8c0
+X-Runtime: 0.008920
+X-Xss-Protection: 0
+
+2f5
+["tech.lgbt","masto.ai","awscommunity.social","monogram.org","mstdn.social","toot.community","mastodon.xyz","journa.host","social.coop","mastodon.ar.al","boing.world","nerdculture.de","vis.social","fandom.ink","mastodon.art","woof.group","mastodon.social","glasgow.social","mastodon.online","mastodon.green","robot.rodeo","mastodon.sdf.org","mas.to","social.lol","mastodon.org.uk","social.michaelbrooks.co.uk","blacktwitter.io","octodon.social","botta.social","masthead.social","fediscience.org","im-in.space","mindly.social","federate.social","twit.social","indieweb.social","data-folks.masto.host","mendeddrum.org","mastodon.world","pawoo.net","lor.sh","c.im","gensokyo.social","metalhead.club","sfba.social","chaos.social","mastodon.lol","mastodon.scot"]
+0
+

@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 406
+Date: Wed, 09 Nov 2022 14:57:12 GMT
+Location: https://johanv.net/blog/api/v1/instance/peers
+Server: Caddy
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<script>window.location.replace("https://johanv.net/blog/api/v1/instance/peers");</script>
+		<meta http-equiv="refresh" content="0; URL='https://johanv.net/blog/api/v1/instance/peers'">
+	</head>
+	<body>Redirecting to <a href="https://johanv.net/blog/api/v1/instance/peers">https://johanv.net/blog/api/v1/instance/peers</a>...</body>
+</html>

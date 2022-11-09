@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.bau-ha.us; img-src 'self' https: data: blob: https://social.bau-ha.us; style-src 'self' https://social.bau-ha.us 'nonce-tKnXRUlDNmSF0GoBJEoI3g=='; media-src 'self' https: data: https://social.bau-ha.us; frame-src 'self' https:; manifest-src 'self' https://social.bau-ha.us; connect-src 'self' data: blob: https://social.bau-ha.us https://social.bau-ha.us wss://social.bau-ha.us; script-src 'self' https://social.bau-ha.us; child-src 'self' blob: https://social.bau-ha.us; worker-src 'self' blob: https://social.bau-ha.us
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:56 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: 64ac8e57-c9e4-43f5-83d8-e4c89afaadcc
+X-Runtime: 0.005785
+X-Xss-Protection: 0
+
+0
+

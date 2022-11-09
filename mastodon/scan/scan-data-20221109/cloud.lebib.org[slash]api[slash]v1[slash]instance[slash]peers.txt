@@ -1,0 +1,136 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.18.0
+Set-Cookie: oc_sessionPassphrase=poc5rcsQ%2Bms51N4TOCVUSiTdRLwfNoZoXmjZV2%2B5jRIbfPbkGl1pJkILe6BLi17XS9VZHKOo0LEC5Bx9E0T6B9eOqT32OowJefUy91AIjeEa0tdbbkJqKVvpxSCUdWqc; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocqauwb72hgh=jduj50lf6fnocos8hbe1s1lan7; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 6ZO8RZzx8i2fosKV71Ri
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="fr" data-locale="fr" >
+	<head
+ data-requesttoken="LoeEIYTkcFvCALhV5KapraVvpnHJkvO9HDcpxzqMOqo=:Qs/oe+GTAg6xco8tns2awN865EiB+Jz4XQFMhW72Duw=">
+		<meta charset="utf-8">
+		<title>
+		Le BIB dans les nuages		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#000000">
+		<link rel="icon" href="/themes/lebib/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/themes/lebib/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#000000">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/apps/gpxedit/css/style.css?v=1b123539">
+<link rel="stylesheet" href="/apps/integration_gitlab/css/gitlab-search.css?v=b0019d9b">
+<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=35c36e89">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3">
+<link rel="stylesheet" href="/core/css/guest.css?v=77acbae2">
+<link rel="stylesheet" href="/themes/lebib/core/css/server.css?v=77acbae2">
+		<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/core-common.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/core-main.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/core/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/core-files_fileinfo.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/core-files_client.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/js/core/merged-template-prepend.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/core-login.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/comments/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/comments-comments-app.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/files_sharing/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/files_sharing-main.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/accessibility/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/dist/accessibility-accessibilityoca.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/gpxedit/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/gpxedit/js/filetypes.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/apporder/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/apporder/js/apporder.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/files_rightclick/l10n/fr.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/files_rightclick/js/script.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=" defer src="/apps/files_rightclick/js/files.js?v=77acbae2"></script>
+<script nonce="TG9lRUlZVGtjRnZDQUxoVjVLYXByYVZ2cG5ISmt2TzlIRGNweHpxTU9xbz06UXMvb2UrR1RBZzZ4Y284dG5zMmF3Tjg2NUVpQitKejRYUUZNaFc3MkR1dz0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","announcementcenter":"/apps/announcementcenter","apporder":"/apps/apporder","calendar":"/apps/calendar","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","data_request":"/apps/data_request","dav":"/apps/dav","drawio":"/apps/drawio","drop_account":"/apps/drop_account","extract":"/apps/extract","federatedfilesharing":"/apps/federatedfilesharing","files":"/apps/files","files_external":"/apps/files_external","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","gpxedit":"/apps/gpxedit","groupfolders":"/apps/groupfolders","impersonate":"/apps/impersonate","integration_gitlab":"/apps/integration_gitlab","integration_google":"/apps/integration_google","keeweb":"/apps/keeweb","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","metadata":"/apps/metadata","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","quota_warning":"/apps/quota_warning","recommendations":"/apps/recommendations","registration":"/apps/registration","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","survey_client":"/apps/survey_client","suspicious_login":"/apps/suspicious_login","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="dd\/MM\/y";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005846;
+var dayNames=["Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"];
+var dayNamesShort=["Dim.","Lun.","Mar.","Mer.","Jeu.","Ven.","Sam."];
+var dayNamesMin=["Di","Lu","Ma","Me","Je","Ve","Sa"];
+var monthNames=["Janvier","F\u00e9vrier","Mars","Avril","Mai","Juin","Juillet","Ao\u00fbt","Septembre","Octobre","Novembre","D\u00e9cembre"];
+var monthNamesShort=["Jan.","F\u00e9v.","Mars","Avr.","Mai","Juin","Juil.","Ao\u00fbt","Sep.","Oct.","Nov.","D\u00e9c."];
+var firstDay=1;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"24.0.7.1","versionstring":"24.0.7","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":false,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/24\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"Le BIB","name":"Le BIB dans les nuages","productName":"Nextcloud","title":"Le BIB dans les nuages","baseUrl":"https:\/\/lebib.org","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/24\/go.php?to=PLACEHOLDER","slogan":"Le BIB dans les nuages, le cloud du hackerspace !","logoClaim":"","folder":"lebib"};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Le BIB dans les nuages"/><meta property="og:description" content="Le BIB dans les nuages, le cloud du hackerspace !"/><meta property="og:site_name" content="Le BIB dans les nuages"/><meta property="og:url" content="https://cloud.lebib.org/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.lebib.org/themes/lebib/core/img/favicon-touch.png"/><style>:root { --color-primary-text: #ffffff; }</style><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			Cette application requiert JavaScript pour fonctionner correctement. Veuillez <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">activer JavaScript</a> et recharger la page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-comments-max-message-length" value="MTAwMA==">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC43LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC43IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5sZWJpYi5vcmdcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiI5NjlhYzkwOWFlOWY0MTg3NDk2Y2NjYWVkMjY2YWM2ZiJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWUsInZlcnNpb25pbmciOnRydWV9LCJhY3Rpdml0eSI6eyJhcGl2MiI6WyJmaWx0ZXJzIiwiZmlsdGVycy1hcGkiLCJwcmV2aWV3cyIsInJpY2gtc3RyaW5ncyJdfSwiY2lyY2xlcyI6eyJ2ZXJzaW9uIjoiMjQuMC4xIiwic3RhdHVzIjp7Imdsb2JhbFNjYWxlIjpmYWxzZX0sInNldHRpbmdzIjp7ImZyb250ZW5kRW5hYmxlZCI6dHJ1ZSwiYWxsb3dlZENpcmNsZXMiOjI2MjE0MywiYWxsb3dlZFVzZXJUeXBlcyI6MzEsIm1lbWJlcnNMaW1pdCI6NTB9LCJjaXJjbGUiOnsiY29uc3RhbnRzIjp7ImZsYWdzIjp7IjEiOiJTaW1wbGUiLCIyIjoiUGVyc29ubmVsIiwiNCI6IlN5c3RcdTAwZThtZSIsIjgiOiJWaXNpYmxlIiwiMTYiOiJPdXZlcnQiLCIzMiI6Ikludml0ZXIiLCI2NCI6IkpvaW5kcmUgbGEgcmVxdVx1MDBlYXRlIiwiMTI4IjoiQW1pcyIsIjI1NiI6IlByb3RcdTAwZTlnXHUwMGU5IHBhciBtb3QgZGUgcGFzc2UiLCI1MTIiOiJQYXMgZGUgcHJvcHJpXHUwMGU5dGFpcmUiLCIxMDI0IjoiQ2FjaFx1MDBlOSIsIjIwNDgiOiJJbmZyYXN0cnVjdHVyZSIsIjQwOTYiOiJMb2NhbCIsIjgxOTIiOiJSYWNpbmUiLCIxNjM4NCI6Ikludml0ZXIgZGFucyB1biBjZXJjbGUiLCIzMjc2OCI6IkZcdTAwZTlkXHUwMGU5clx1MDBlOSIsIjY1NTM2IjoiUG9pbnQgZGUgbW9udGFnZSJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiVXRpbGlzYXRldXIgTmV4dGNsb3VkIiwiMiI6Ikdyb3VwZSBOZXh0Y2xvdWQiLCI0IjoiQWRyZXNzZSBlLW1haWwiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2VyY2xlIiwiMTAwMDAiOiJBcHAgTmV4dGNsb3VkIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYnJlIiwiNCI6Ik1vZFx1MDBlOXJhdGV1ciIsIjgiOiJBZG1pbmlzdHJhdGV1ciIsIjkiOiJQcm9wcmlcdTAwZTl0YWlyZSJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLmxlYmliLm9yZ1wvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjE3LCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjpmYWxzZSwiaW5jb21pbmciOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfSwic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwic2VuZF9wYXNzd29yZF9ieV9tYWlsIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6eyJlbmFibGVkIjp0cnVlfSwicGFzc3dvcmQiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfX19LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQubGViaWIub3JnXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLmxlYmliLm9yZ1wvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvdmFsaWRhdGUifX0sInByb3Zpc2lvbmluZ19hcGkiOnsidmVyc2lvbiI6IjEuMTQuMCIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1ZlcnNpb24iOjIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc0ZlZGVyYXRlZEVuYWJsZWQiOmZhbHNlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjpmYWxzZX0sInJlZ2lzdHJhdGlvbiI6eyJlbmFibGVkIjp0cnVlLCJhcGlSb290IjoiXC9vY3NcL3YyLnBocFwvYXBwc1wvcmVnaXN0cmF0aW9uXC9hcGlcL3YxXC8iLCJhcGlMZXZlbCI6InYxIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Le BIB dans les nuages								</h1>
+																	<img src="/core/img/logo/logo.svg?v=2545333853cb17551707533f9d54f71f24640162"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins" class="alternative-logins">
+                    <a class="button register-button" href="/apps/registration/" >
+                S&#039;inscrire            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				From <a href="https://lebib.org" target="_blank\">Le BIB</a>. Basé sur nextCloud.<br/>Le BIB dans les nuages, le cloud du hackerspace !			</p>
+		</footer>
+	</body>
+</html>

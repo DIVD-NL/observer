@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self' http: https: data: blob: 'unsafe-inline'; frame-ancestors 'self';
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:05 GMT
+Etag: W/"60ff4432-1d"
+Last-Modified: Mon, 26 Jul 2021 23:24:34 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+
+1d
+<!-- Nothing to see here! -->
+0
+

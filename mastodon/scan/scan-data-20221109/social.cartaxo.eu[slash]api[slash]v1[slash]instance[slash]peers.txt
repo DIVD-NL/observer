@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.cartaxo.eu; img-src 'self' https: data: blob: https://social.cartaxo.eu; style-src 'self' https://social.cartaxo.eu 'nonce-+7184U/Z3DlHrkxx2kTzYg=='; media-src 'self' https: data: https://social.cartaxo.eu; frame-src 'self' https:; manifest-src 'self' https://social.cartaxo.eu; connect-src 'self' data: blob: https://social.cartaxo.eu https://files.example.com wss://social.cartaxo.eu; script-src 'self' https://social.cartaxo.eu; child-src 'self' blob: https://social.cartaxo.eu; worker-src 'self' blob: https://social.cartaxo.eu
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:00 GMT
+Etag: W/"06413078c2c7e9b69eff2051f27675e9"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.658920Z
+X-Request-Id: d20b64dd-b19e-4535-8f91-4f882c276500
+X-Runtime: 0.015246
+X-Xss-Protection: 0
+
+489
+["tilde.zone","ciberlandia.pt","mastodon.cloud","social.spacebear.ee","writing.exchange","jacobian.org","mastodon.art","hackers.town","diniscorreia.com","twipped.social","ebooks.social","dan.mastohon.com","bbq.snoot.com","blah.rako.space","101010.pl","andr3.net","socel.net","hulvr.com","scholar.social","merveilles.town","mrnet.pt","mastodonapp.uk","fosstodon.org","mindly.social","noc.social","masto.yttrx.com","toot-lab.reclaim.technology","linernotes.club","mst3k.interlinked.me","mamot.fr","journa.host","mastodon.online","post.lurk.org","infosec.exchange","social.binarydad.com","mastodon.ie","social.lol","mastodon.duncanhart.com","metasocial.com","simian.rodeo","friend.camp","social.linux.pizza","treehouse.systems","mastodon.nu","botsin.space","petrous.vislae.town","wandering.shop","kolektiva.social","438punk.house","social.polymerwitch.com","todon.eu","notacult.social","jawns.club","elephant.crime.group","saturation.social","mastodon.lol","assemblag.es","hci.social","xoxo.zone","vis.social","dair-community.social","mstdn.social","spinster.xyz","simonwillison.net","mas.to","masto.pt","aus.social","mastodon.social","wake.st","mastodon.sdf.org"]
+0
+

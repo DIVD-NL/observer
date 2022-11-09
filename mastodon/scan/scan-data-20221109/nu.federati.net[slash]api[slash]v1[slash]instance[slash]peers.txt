@@ -1,0 +1,108 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 5144
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:17 GMT
+Link: <https://nu.federati.net/main/amcd.json>; rel="acct-mgmt"; type="application/json"
+Server: lighttpd/1.4.53
+X-Account-Management-Status: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Not Found - Federati Nu: Federated N-series GNU Social</title>
+  <link rel="shortcut icon" href="https://nu.federati.net/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/theme/base/css/display.css?version=2.0.0-dev" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/theme/neo-gnu/css/display.css?version=2.0.0-dev" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/MobileProfile/mp-screen.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/theme/neo-gnu/css/mp-screen.css?version=2.0.0-dev" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/MobileProfile/mp-handheld.css" media="handheld"/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/ModPlus/css/modplus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/Embed/css/embed.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=2.0.0-dev" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net//plugins/ExtendedProfile/css/profiledetail.css?version=2.0.0-dev" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://nu.federati.net/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://nu.federati.net/opensearch/people" title="Federati Nu: Federated N-series GNU Social People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://nu.federati.net/opensearch/notice" title="Federati Nu: Federated N-series GNU Social Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://nu.federati.net/main/public">
+      <img class="logo u-photo p-name" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Nu_uc_lc.svg" alt="Federati Nu: Federated N-series GNU Social"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://nu.federati.net/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="nav_login">
+       <a href="https://nu.federati.net/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://nu.federati.net/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/tos">TOS</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://nu.federati.net/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>Federati Nu: Federated N-series GNU Social</strong> is a social network, courtesy of <a href="https://wiki.federati.net/">Federati Networks</a>. It runs on <a href="https://gnusocial.network/">GNU social</a>, version 2.0.0-dev, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>
+     <img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15"/>
+ All Federati Nu: Federated N-series GNU Social content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+    <p>
+     <a href="#" id="mobile-toggle-disable">Switch to desktop site layout.</a>
+    </p>
+   </div>
+  </div>
+ </body>
+<!-- 31ms --></html>

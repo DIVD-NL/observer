@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.proprietary.lol; img-src 'self' https: data: blob: https://mastodon.proprietary.lol; style-src 'self' https://mastodon.proprietary.lol 'nonce-mxAmUu05VbQrONPtdD7vcw=='; media-src 'self' https: data: https://mastodon.proprietary.lol; frame-src 'self' https:; manifest-src 'self' https://mastodon.proprietary.lol; connect-src 'self' data: blob: https://mastodon.proprietary.lol https://mastodon.proprietary.lol wss://mastodon.proprietary.lol; script-src 'self' https://mastodon.proprietary.lol; child-src 'self' blob: https://mastodon.proprietary.lol; worker-src 'self' blob: https://mastodon.proprietary.lol
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:03 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.722259Z
+X-Request-Id: 1f5ce089-18c9-4173-9fce-09e6c5e5e4ce
+X-Runtime: 0.006239
+X-Xss-Protection: 0
+
+0
+

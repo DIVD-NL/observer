@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: blob: ; object-src https: data: 'unsafe-inline'; style-src https: data: 'unsafe-inline' ; script-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:30 GMT
+Etag: W/"e54f725f8ed41c25838775ba16883c75"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.866975Z
+X-Request-Id: 0e98d681-0cc7-4e92-b6de-da4abf002bcc
+X-Runtime: 0.054636
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+1fd
+["mastodon.sdf.org","friendica.mschmidt-et.de","friendica.togart.de","f.kretschmann.social","friendica.myportal.social","kudabiverse.com","t2.thotsofa304.club","redeyes.club","fr.readthefinemanual.net","infosec.exchange","friendica.opencloud.lu","friendica.offsite.guru","friendica.kommune4.de","herzbu.de","social.jmueller.eu","petroskowo.pl","friendica.hashy-net.de","friendica.ambag.es","fri.aethercom.de","friendica.ucy.de","f.iroiro.party","f.freinetz.ch","friendica.mifritscher.de","friendica.m14xa.ru"]
+0
+

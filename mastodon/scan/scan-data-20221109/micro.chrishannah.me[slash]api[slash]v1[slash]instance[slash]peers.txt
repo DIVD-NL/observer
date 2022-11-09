@@ -1,0 +1,77 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:49 GMT
+Server: Caddy
+Server: nginx/1.14.2
+
+6ee
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width initial-scale=1">
+
+	<title>
+		
+		 Chris Hannah - 404 Page not found 
+		
+	</title>
+
+	<meta name="description" content="">
+	<link rel="shortcut icon" href="https://micro.blog/ChrisHannah/favicon.png" type="image/x-icon" />
+	<link rel="stylesheet" href="/css/style.css?1661254234">
+	<link rel="stylesheet" href="/custom.css?1661254234">
+
+	
+	<link rel="me" href="https://twitter.com/chrishannah" />
+	
+	
+	<link rel="me" href="https://github.com/chrishannah" />
+	
+	
+	<link rel="me" href="https://instagram.com/lordchrishannah" />
+	
+	<link rel="me" href="https://micro.blog/ChrisHannah" />
+	<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+	<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+	<link rel="micropub" href="https://micro.blog/micropub" />
+	<link rel="microsub" href="https://micro.blog/microsub" />
+	<link rel="webmention" href="https://micro.blog/webmention" />
+	<link rel="subscribe" href="https://micro.blog/users/follow" />
+	<link rel="canonical" href="https://micro.chrishannah.me/404.html"> 
+	
+	
+</head>
+	<body>
+		<header>
+	<h1><a href="/">Chris Hannah</a></h1>
+</header> <nav>
+	<menu>
+		 
+		<li><a href="/photos/">Photos</a></li>
+		 
+		<li><a href="/replies/">Replies</a></li>
+		 
+		<li><a href="/archive/">Archive</a></li>
+		 
+		<li><a href="/about/">About</a></li>
+		
+	</menu>
+</nav>
+		<hr />
+		<main><h2>404: Page Not Found</h2>
+<p>The page that you are looking for does not exist.</p>
+<p>Go back to the <a href="https://micro.chrishannah.me/">home page</a>.</p>
+</main>
+		<hr />
+		<footer>
+	Follow <a href="https://micro.blog/ChrisHannah">@ChrisHannah on Micro.blog</a>.
+</footer>  
+	</body>
+</html>
+
+0
+

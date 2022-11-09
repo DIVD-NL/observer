@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.green; img-src 'self' https: data: blob: https://mastodon.green; style-src 'self' https://mastodon.green 'nonce-Vl/fa3KV9tK3mEUlmqoxmA=='; media-src 'self' https: data: https://mastodon.green; frame-src 'self' https:; manifest-src 'self' https://mastodon.green; connect-src 'self' data: blob: https://mastodon.green https://files.mastodon.green wss://mastodon.green; script-src 'self' https://mastodon.green; child-src 'self' blob: https://mastodon.green; worker-src 'self' blob: https://mastodon.green
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:23 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.547894Z
+X-Request-Id: bed42df5-f081-463a-9fcc-3d99b02fb37c
+X-Runtime: 0.010115
+X-Xss-Protection: 0
+
+0
+

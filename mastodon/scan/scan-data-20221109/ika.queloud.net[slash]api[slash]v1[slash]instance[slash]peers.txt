@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ika.queloud.net; img-src 'self' https: data: blob: https://ika.queloud.net; style-src 'self' https://ika.queloud.net 'nonce-HnsukeLoBEKeP0UwOs++Xg=='; media-src 'self' https: data: https://ika.queloud.net; frame-src 'self' https:; manifest-src 'self' https://ika.queloud.net; connect-src 'self' data: blob: https://ika.queloud.net https://ika.queloud.net wss://ika.queloud.net; script-src 'self' https://ika.queloud.net; child-src 'self' blob: https://ika.queloud.net; worker-src 'self' blob: https://ika.queloud.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:32 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.104951Z
+X-Request-Id: 36af4af0-35f3-4b36-849f-84fc607eefe2
+X-Runtime: 0.020537
+X-Xss-Protection: 0
+
+0
+

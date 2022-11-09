@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://demon.social; font-src 'self' https://demon.social; img-src 'self' data: blob: https://demon.social; style-src 'self' https://demon.social 'nonce-CC+Xf1tUVgngdjxWfRCEMw=='; media-src 'self' data: https://demon.social; frame-src 'self' https:; child-src 'self' blob: https://demon.social; worker-src 'self' blob: https://demon.social; connect-src 'self' blob: data: wss://demon.social https://demon.social; manifest-src 'self' https://demon.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:34 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.763288Z
+X-Request-Id: 0959cdd0-e4a3-4648-bfdb-98d774690e74
+X-Runtime: 0.004556
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,8 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 22
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:21:20 GMT
+Server: nginx/1.18.0 (Ubuntu)
+
+{"detail":"Not Found"}

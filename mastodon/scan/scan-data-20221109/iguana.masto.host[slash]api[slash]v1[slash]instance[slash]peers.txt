@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://iguana.masto.host; img-src 'self' https: data: blob: https://iguana.masto.host; style-src 'self' https://iguana.masto.host 'nonce-2eugP/iI8SAIonzpjtWGxQ=='; media-src 'self' https: data: https://iguana.masto.host; frame-src 'self' https:; manifest-src 'self' https://iguana.masto.host; connect-src 'self' data: blob: https://iguana.masto.host https://cdn.masto.host wss://iguana.masto.host; script-src 'self' https://iguana.masto.host; child-src 'self' blob: https://iguana.masto.host; worker-src 'self' blob: https://iguana.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:30 GMT
+Etag: W/"c7b7ad22dfb1f294e275097b4ae08916"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.938794Z
+X-Request-Id: c5f906cf-b889-44e5-aca1-d49fd0a4fd6e
+X-Runtime: 0.007404
+X-Xss-Protection: 0
+
+23a
+["mastodon.la","bae.st","friendica.mschmidt-et.de","anarchydica.net","social.jmueller.eu","friendica.mifritscher.de","fr.readthefinemanual.net","f.freinetz.ch","friendica.hashy-net.de","friendica.ironbug.org","f.kretschmann.social","friendica.myportal.social","friendica.offsite.guru","petroskowo.pl","friendica.ambag.es","friendica.ucy.de","v2.ebano.social","fri.aethercom.de","herzbu.de","quitter.pl","friendica.togart.de","f.iroiro.party","kudabiverse.com","friendica.opencloud.lu","friendica.daniel-siepmann.de","redeyes.club","mstdn.social","friendica.kommune4.de"]
+0
+

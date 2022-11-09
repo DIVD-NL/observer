@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://testnicuverse.osrx.chat; img-src 'self' https: data: blob: https://testnicuverse.osrx.chat; style-src 'self' https://testnicuverse.osrx.chat 'nonce-a8pUTVfoYXXld4tWcGUFMg=='; media-src 'self' https: data: https://testnicuverse.osrx.chat; frame-src 'self' https:; manifest-src 'self' https://testnicuverse.osrx.chat; connect-src 'self' data: blob: https://testnicuverse.osrx.chat https://testnicuverse.osrx.chat wss://testnicuverse.osrx.chat; script-src 'self' https://testnicuverse.osrx.chat; child-src 'self' blob: https://testnicuverse.osrx.chat; worker-src 'self' blob: https://testnicuverse.osrx.chat
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:41 GMT
+Etag: W/"655767a5aec87f061e517ec5fb9bc7a2"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.500440Z
+X-Request-Id: 04d50ad7-212d-45bb-8dd0-c6c94ee0c656
+X-Runtime: 0.009650
+X-Xss-Protection: 0
+
+77
+["qoto.org","peoplemaking.games","mstdn.social","mastodon.online","social.teci.world","mastodon.art","mastodon.social"]
+0
+

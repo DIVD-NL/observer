@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767785daafc9b9a1-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.kcubeterm.com wss://social.kcubeterm.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:46 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Hob0a%2FaiXWaMRPTqGif%2FdS3xoVTxl5RE2yIKIiAH1k88cv9wnE77MZsM7sx9OVxh01CXHjaSRtYNLLRFl28P5Yo6r4MDAFXm8ieKXUD0xTzG02%2Fd6iMrS6zSHr3o6LKZ3C%2BkKn2pkA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzpPX1s4rEWX8AAL5B
+X-Xss-Protection: 1; mode=block
+
+3dc
+["bergstrasse.social","friendica.jb-net.us","schmaker.eu","libranet.de","social.bobcall.me","expired.mentality.rip","fedi.ml","social.tromdienste.de","write.ahoxus.org","mastodon.xyz","f.haeder.net","akko.disqordia.space","friendica.xyz","poa.st","bae.st","fosstodon.org","im-in.space","loma.ml","mystic.lgbt","friendica.eskimo.com","talk.ahoxus.org","floss.social","one.darnell.one","post.lurk.org","lemmy.ml","anonsys.net","friendica.hubup.pro","social.thierrytalbert.fr","bsd.network","mastodon.sdf.org","friendica.mnementh.co.uk","stereophonic.space","mspsocial.net","social.jmueller.eu","mastodon.ml","mastodon.social","anarchydica.net","pleroma.soykaf.com","social.trom.tf","occult.institute","zoinks.one","mstdn.social","write.kcubeterm.com","snowdin.town","social.p0lymer.net","misskey.biribiri.dev","digitalcourage.social","social.fedinet.de","quitter.pl","social.wideboys.org","mastodon.la","space.rick.gr","shitposter.club","eldritch.cafe","glitterkitten.co.uk","eeeeeeeee.eu"]
+0
+

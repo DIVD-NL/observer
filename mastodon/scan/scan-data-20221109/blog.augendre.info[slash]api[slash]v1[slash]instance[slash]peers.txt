@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Alt-Svc: h3=":8443"; ma=2592000
+Date: Wed, 09 Nov 2022 14:57:10 GMT
+Location: https://gabnotes.org/api/v1/instance/peers
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

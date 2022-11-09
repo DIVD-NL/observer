@@ -1,0 +1,22 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 631
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:36 GMT
+Etag: "607b1962-277"
+Server: nginx/1.18.0
+
+<!doctype html>
+<html>
+<head>
+<title>Under Maintenance</title>
+<style>*{margin:0;padding:0;}html{font:16px sans-serif; color:#222;}#holder{max-width:600px;margin: 100px auto;text-align:center;}p{margin-top:50px;font-size:14px;color:#A9A9A9;}a{color:#A9A9A9;text-decoration:underline;}img{max-width:100%;}</style>
+</head>
+<body>
+<div id="holder">
+<div style="padding-bottom:50px;"><img src="https://masto.host/a/error_500_nginx.png" alt="masto.host"></div>
+<h1>This instance is under maintenance</h1>
+<p>If you believe this is an error, please contact <a href="mailto:info@masto.host">info@masto.host</a></p>
+</div>
+</body>
+</html>

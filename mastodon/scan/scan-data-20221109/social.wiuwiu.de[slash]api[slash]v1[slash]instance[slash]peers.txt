@@ -1,0 +1,267 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:19:59 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx/1.21.1
+Set-Cookie: MOVIM_SESSION_ID=yk0JvwjR6OVLYtAHhlD6rLECWjXkKkKc; expires=Wed, 16-Nov-2022 15:19:59 GMT; Max-Age=604800; path=/
+Strict-Transport-Security: max-age=63072000;
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/7.4.19
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+34f1
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Anmelden</title>
+
+        <meta name="theme-color" content="#1C1D5B" />
+        
+  <meta property="og:title" content="Anmelden"/>
+  <meta name="twitter:title" content="Anmelden"/>
+  <meta name="description" content=""/>
+  <meta property="og:type" content="article"/>
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:site" content="MovimNetwork"/>
+
+        <meta name="application-name" content="Movim">
+        <link rel="manifest" href="//social.wiuwiu.de/?manifest" />
+        <link rel="icon" type="image/png" href="//social.wiuwiu.de/theme/img/app/128.png?t=1621626083" sizes="128x128">
+        <script src="//social.wiuwiu.de/?system&t=1667039010"></script>
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="stylesheet" href="//social.wiuwiu.de/theme/css/style.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/notification.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/header.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/listn.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/grid.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/article.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/form.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/icon.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/dialog.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/card.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/table.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/color.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/block.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/menu.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/fonts.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/title.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/typo.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/theme/css/scrollbar.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/cache/Login_login.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/cache/Drawer_drawer.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/cache/Confirm_confirm.css?t=1621626083"><link rel="stylesheet" href="//social.wiuwiu.de/cache/Preview_preview.css?t=1621626083"><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_utils.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_base.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_favicon.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_electron.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_avatar.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_emojis_list.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_rpc.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_tpl.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/scripts/movim_websocket.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Notification_notification.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Toast_toast.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Login_login.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Dialog_dialog.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Drawer_drawer.js?t=1621626083"></script><script type="text/javascript" src="//social.wiuwiu.de/cache/Preview_preview.js?t=1621626083"></script><script type="text/javascript">function Notification_ajaxClear(key){MWSs('Notification','ajaxClear',[key])}function Notification_ajaxGet(){MWSs('Notification','ajaxGet')}function Notification_ajaxCurrent(key){MWSs('Notification','ajaxCurrent',[key])}function Login_ajaxLogin(form){MWSs('Login','ajaxLogin',[form])}function Login_ajaxHTTPLogin(login,password){MWSs('Login','ajaxHTTPLogin',[login,password])}function Login_ajaxQuickLogin(deviceId,login,key,check){MWSs('Login','ajaxQuickLogin',[deviceId,login,key,check])}function Dialog_ajaxClear(){MWSs('Dialog','ajaxClear')}function Drawer_ajaxClear(){MWSs('Drawer','ajaxClear')}function Confirm_ajaxAccept(to,id,url,method){MWSs('Confirm','ajaxAccept',[to,id,url,method])}function Confirm_ajaxRefuse(to,id,url,method){MWSs('Confirm','ajaxRefuse',[to,id,url,method])}function Preview_ajaxHttpShow(url){ return MWSa('Preview','ajaxHttpShow',[url])}function Preview_ajaxHttpGallery(url,number){ return MWSa('Preview','ajaxHttpGallery',[url,number])}function Preview_ajaxHttpHide(){ return MWSa('Preview','ajaxHttpHide')}</script>
+
+    </head>
+    <body dir="ltr"
+          class="">
+                <noscript>
+            <style type="text/css">main {display: none;}</style>
+            <ul class="list" style="color: white;">
+                <li>
+                    <div>
+                        <p class="center">Movim benötigt JavaScript, um richtig zu funktionieren</p>
+                    </div>
+                </li>
+            </ul>
+        </noscript>
+                <div id="hiddendiv"></div>
+        <div id="snackbar" class="snackbar"></div>
+        <div id="status_websocket" class="snackbar hide">
+            <ul class="list">
+                <li>
+                    <span class="control icon gray">
+                        <i class="material-icons">signal_cellular_null</i>
+                    </span>
+                    <span class="control icon gray">
+                        <i class="material-icons">signal_cellular_off</i>
+                    </span>
+                    <div>
+                        <p class="normal">
+                            Verbinde wieder zum Server…                        </p>
+                        <p class="normal">
+                            Movim kann den Server nicht erreichen, bitte versuchen Sie es später nochmal                        </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id="dialog" class="dialog actions"></div>        <div id="drawer" class="drawer empty"></div>
+<span class="drawer_close button color" onclick="Drawer_ajaxClear()">
+    <i class="material-icons">close</i>
+</span>                <div id="preview"></div>
+<script type="text/javascript">
+    Preview.copyNotification = 'Link copied to clipboard';
+</script>        <div id="toast" class="toast"></div>
+<main>
+    <div id="login_widget">
+    <script type="text/javascript">
+        if (typeof navigator.registerProtocolHandler == 'function') {
+            navigator.registerProtocolHandler('xmpp',
+                                          '//social.wiuwiu.de/?share/%s',
+                                          'Movim');
+        }
+
+        Login.domain = 'wiuwiu.de';
+        
+    </script>
+
+    <div class="logo"></div>
+
+    <div id="form" class="dialog">
+        
+        <section>
+            
+
+            <form
+                method="post" action="login"
+                name="login">
+                <div>
+                    <input type="text" id="complete" tabindex="-1"/>
+                    <input type="text" pattern="^[^\u0000-\u001f\u0020\u0022\u0026\u0027\u002f\u003a\u003c\u003e\u0040\u007f\u0080-\u009f\u00a0]+@[a-z0-9.-]+\.[a-z]{2,10}$" name="username" id="username" autofocus required
+                        placeholder="username@server.com"/>
+                    <label for="username">Adresse</label>
+                </div>
+                <div>
+                    <input type="password" name="password" id="password" required
+                        placeholder="Passwort"/>
+                    <label for="password">Passwort</label>
+                </div>
+
+                <ul class="list thin">
+                    <li class="info">
+                        <div>
+                            <p></p>
+                            <p class="center">
+                                
+                                    Login using any XMPP account or create a new one
+                                
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+
+                <div>
+                    <ul class="list thin">
+                        <li>
+                            <div>
+                                <p class="center">
+                                    <input
+                                        type="submit"
+                                        disabled
+                                        data-loading="Verbindung wird hergestellt…"
+                                        value="Anmelden"
+                                        class="button color"/>
+                                    
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </form>
+        </section>
+    </div>
+
+    <div id="form" class="dialog more">
+        <section>
+            <span class="info">Verbunden: 1 - Einwohner: 108</span>
+            
+                <ul class="list thin active">
+                    <li class="subheader">
+                        <div>
+                            <p>
+                                Administration
+                            </p>
+                        </div>
+                    </li>
+                    
+                        
+                        <li class="block" onclick="MovimUtils.redirect('//social.wiuwiu.de/?blog/sebastian%40wiuwiu.de')">
+                            <span class="control gray icon">
+                                <i class="material-icons">chevron_right</i>
+                            </span>
+                            
+                            
+                                
+                            
+                            
+                                <span class="primary icon bubble small">
+                                    <img src="//social.wiuwiu.de/cache/a209019ddaa7cf3074f47d1f62506eed_120.jpg?t=1630010940">
+                                </span>
+                            
+                            <div>
+                                <p class="line normal" title="sebastian@wiuwiu.de">
+                                    
+                                        Sebastian<span class="second">sebastian@wiuwiu.de</span>
+                                    
+                                </p>
+                            </div>
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="list thin card">
+                    <li class="info">
+                        <div>
+                            <p></p>
+                            
+                                <p>Impressum: https://wiuwiu.de/Imprint</p>
+
+                            
+                        </div>
+                    </li>
+                </ul>
+            
+
+            <ul class="list middle">
+                <a href="https://f-droid.org/packages/com.movim.movim/" target="_blank">
+                    <li class="block active">
+                        <span class="primary icon bubble green">
+                            <i class="material-icons">adb</i>
+                        </span>
+                        <div>
+                            <p class="line">Apps für Ihr Smartphone<p>
+                            <p class="all">
+                                Probieren Sie unser offizielles Android-App aus
+                            </p>
+                        </div>
+                    </li>
+                </a>
+            </ul>
+        </section>
+    </div>
+
+    <div id="error" class="dialog actions">
+        
+            <section>
+    <h3>Huch!</h3>
+    <br />
+    <h4 class="gray">Unbekannter Fehler</h4>
+</section>
+<div class="no_bar">
+    <span
+        class="button flat oppose"
+        onclick="MovimUtils.redirect('//social.wiuwiu.de/?disconnect');">
+        Zurück
+    </span>
+</div>
+
+        
+    </div>
+
+    <footer>
+        <a href="https://movim.eu" target="_blank" class="on_desktop"></a>
+        <!--<a class="button flat color green" href="https://play.google.com/store/apps/details?id=com.movim.movim" target="_blank">
+            <i class="material-icons">android</i> Play Store
+        </a>
+        <a class="button flat color purple on_desktop" href="https://movim.eu/#apps" target="_blank">
+            <i class="material-icons">computer</i> Apps
+        </a>-->
+        <a class="button flat color transparent on_android" href="movim://changepod">
+            <i class="material-icons">dns</i>
+            Switch to another pod
+        </a>
+
+        <br />
+    </footer>
+    <script type="text/javascript">
+        if (typeof Android !== 'undefined') {
+            MovimTpl.remove('#login_widget footer');
+        }
+    </script>
+</div></main>
+
+    </body>
+</html>
+
+0
+

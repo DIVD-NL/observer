@@ -1,0 +1,79 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:26 GMT
+Etag: W/"9a1e0a1599a1bee1"
+Server: nginx/1.14.2
+
+961
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Page not found ⋅ Plume</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="/static/cached/92738c17/css/main.css" />
+        <link rel="stylesheet" href="/static/cached/92738c17/css/feather.css" />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" type="image/png" href="/static/cached/92738c17/icons/trwnh/feather-filled/plumeFeatherFilled64.png">
+        <meta content='#282c37' name='theme-color'/>
+        
+    </head>
+    <body>
+        <header>
+            <nav id="menu">
+                <a href="#" aria-label="Menu" title="Menu"><i class="icon icon-menu"></i></a>
+            </nav>
+            <div id="content">
+                <nav>
+                    <a href="/" class="title">
+                        <img src="/static/cached/92738c17/icons/trwnh/feather/plumeFeather256.png">
+                        <p>Plume</p>
+                    </a>
+                    <hr/>
+                    
+                </nav>
+                <nav>
+                    
+                        <a href="/search">
+                            <i class="icon icon-search"></i>
+                            <span class="mobile-label">Search</span>
+                        </a>
+                        <a href="/login">
+                            <i class="icon icon-log-in"></i>
+                            <span class="mobile-label">Log In</span>
+                        </a>
+                        <a href="/users/new">
+                            <i class="icon icon-user-plus"></i>
+                            <span class="mobile-label">Register</span>
+                        </a>
+                    
+                </nav>
+            </div>
+        </header>
+        <main>
+            
+  
+  <h1>We couldn&#39;t find this page.</h1>
+  <p>The link that led you here may be broken.</p>
+
+  <p>Page not found</p>
+
+        </main>
+        <footer>
+            <span>Plume 0.3.0</span>
+            <a href="/about">About this instance</a>
+            <a href="https://github.com/Plume-org/Plume">Source code</a>
+            <a href="https://riot.im/app/#/room/#plume:disroot.org">Matrix room</a>
+            
+        </footer>
+        <script src="/static/cached/92738c17/plume-front.js"></script>
+    </body>
+</html>
+
+
+
+
+0
+

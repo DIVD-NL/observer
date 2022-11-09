@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://assets.krefeld.life; img-src 'self' https: data: blob: https://assets.krefeld.life; style-src 'self' https://assets.krefeld.life 'nonce-0Z0t4Ix8mefme6fPG/gjMQ=='; media-src 'self' https: data: https://assets.krefeld.life; frame-src 'self' https:; manifest-src 'self' https://assets.krefeld.life; connect-src 'self' data: blob: https://assets.krefeld.life https://assets.krefeld.life wss://krefeld.life; script-src 'self' https://assets.krefeld.life; child-src 'self' blob: https://assets.krefeld.life; worker-src 'self' blob: https://assets.krefeld.life
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:50 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.353444Z
+X-Request-Id: 688f1877-2fe8-49cc-a19a-6e1f54c6824f
+X-Runtime: 0.007910
+X-Xss-Protection: 0
+
+0
+

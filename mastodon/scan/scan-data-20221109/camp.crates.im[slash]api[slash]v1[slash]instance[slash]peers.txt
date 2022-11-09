@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://camp.crates.im; img-src 'self' https: data: blob: https://camp.crates.im; style-src 'self' https://camp.crates.im 'nonce-968VQUDSxB4um8L2VWRORg=='; media-src 'self' https: data: https://camp.crates.im; frame-src 'self' https:; manifest-src 'self' https://camp.crates.im; connect-src 'self' data: blob: https://camp.crates.im https://camp.crates.im wss://camp.crates.im; script-src 'self' https://camp.crates.im; child-src 'self' blob: https://camp.crates.im; worker-src 'self' blob: https://camp.crates.im
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:20 GMT
+Permissions-Policy: interest-cohort=()
+Server: le spade
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.032324Z
+X-Request-Id: 0e67d5cc-c119-4065-9292-e62f20f3301d
+X-Runtime: 0.028907
+X-Xss-Protection: 0
+
+0
+

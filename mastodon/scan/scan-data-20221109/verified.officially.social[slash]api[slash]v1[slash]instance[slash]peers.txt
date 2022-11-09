@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778a404e8b83cf-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://verified.officially.social; img-src 'self' https: data: blob: https://verified.officially.social; style-src 'self' https://verified.officially.social 'nonce-mpO//rcoLAhwJjv2I1n8vQ=='; media-src 'self' https: data: https://verified.officially.social; frame-src 'self' https:; manifest-src 'self' https://verified.officially.social; connect-src 'self' data: blob: https://verified.officially.social https://verified.officially.social wss://verified.officially.social; script-src 'self' https://verified.officially.social; child-src 'self' blob: https://verified.officially.social; worker-src 'self' blob: https://verified.officially.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:46 GMT
+Etag: W/"23ce95e5b69e8878d71f1106258d8403"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TTrHXRjYF1C1apqC0roc01lgE7uwoKy6JODxoEsp2ZDwJk2%2FU8yhrcso0IKmd3pjd%2Fv5Z6%2Fv6PkRi0FeIU5UZhqJGj81Hn60%2FULQeFxENX0%2FtNddpYmRLpWmna%2BHe1L6mmMZ9dhgZqDLvGnSpQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T18:35:00.208889Z
+X-Request-Id: dbeb6125-370a-410d-acd1-c8f59bb5fc4c
+X-Runtime: 0.044564
+X-Xss-Protection: 0
+
+12f
+["officially.social","friendica.offsite.guru","friendica.ucy.de","social.jmueller.eu","kudabiverse.com","friendica.kommune4.de","friendica.mschmidt-et.de","f.iroiro.party","friendica.opencloud.lu","f.kretschmann.social","redeyes.club","friendica.myportal.social","friendica.ambag.es","fri.aethercom.de"]
+0
+

@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 146
+Alt-Svc: h3=":443"; ma=86400
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Server: nginx
+Via: 1.1 b9394c80294503e08bddf2381e55e810.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: P77-J2CZZggPy4_7e87kC0RE6r_oHnulw4qnZROn1cd6q8Ahl-2-oA==
+X-Amz-Cf-Pop: AMS1-C1
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,0 +1,17 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:19:39 GMT
+Location: https://meincraft.eu/?/api/v1/instance/peers&
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.22.0
+Set-Cookie: wcf21_cookieHash=af65efd211f154269c2928f9f2d8696ed4baccbc; path=/; domain=meincraft.eu; secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+
+0
+

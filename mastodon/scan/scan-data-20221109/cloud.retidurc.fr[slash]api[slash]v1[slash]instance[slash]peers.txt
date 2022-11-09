@@ -1,0 +1,107 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' 'self' cloud.retidurc.fr;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: *;font-src 'self' data:;connect-src 'self' wss://cloud.retidurc.fr;media-src 'self';frame-src data: 'self';child-src 'self' cloud.retidurc.fr 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:53:15 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx
+Set-Cookie: oc_sessionPassphrase=dmFv3ba1ktO6BFSMWkokSJ9ndr9AM7WHB15aEM%2BoNLM%2FVx9am9uSQdVG3ELLGdd5vHaCYEV%2FqMaoRcqsXymYh56DxVFCZ8RAHmdWpPnyvEtKv2W0VfCvgeJukm4xeA7N; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oco0ainm2ojw=2p5hovptl1g6rnnrcssefrgub6; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 6otAyJvkvfHloFVoXl1Y
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="JZuukxAARVe0PJ3ye2/5A72EIMZocP4x96n2LHKSchY=:Vsua/2BiJC7ZDf65FQS3V4nscpIcG8oGu+eHRwPmIiM=">
+		<meta charset="utf-8">
+		<title>
+		Nest cloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#9D51D2">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#9D51D2">
+		<link rel="manifest" href="/apps/theming/manifest?v=19">
+		<link rel="stylesheet" href="/apps/breezedark/css/guest-automatic.css?v=55e0bc98-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewer.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/sidebar.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/bootstrap_accordion.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewerMain.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewerMainDialog.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/captureImageDialog.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/annotationDialogs.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/dicomviewer/css/external/font-awesome/font-awesome.min.css?v=b0e8daa2-19">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-19">
+<link rel="stylesheet" href="/core/css/guest.css?v=7cb1b791-19">
+		<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/core/js/oc.js?v=7cb1b791"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/core-common.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/core-main.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/core-files_fileinfo.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/core-files_client.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/js/core/merged-template-prepend.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/core-login.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/dist/files_sharing-main.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/apps/breezedark/js/breezedark.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/apps/dicomviewer/js/app.bundle.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/apps/files_rightclick/js/script.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/apps/files_rightclick/js/files.js?v=7cb1b791-19"></script>
+<script nonce="Slp1dWt4QUFSVmUwUEozeWUyLzVBNzJFSU1ab2NQNHg5Nm4yTEhLU2NoWT06VnN1YS8yQmlKQzdaRGY2NUZRUzNWNG5zY3BJY0c4b0d1K2VIUndQbUlpTT0=" defer src="/apps/theming/js/theming.js?v=7cb1b791-19"></script>
+		<meta property="og:title" content="Nest cloud"/><meta property="og:description" content=""/><meta property="og:site_name" content="Nest cloud"/><meta property="og:url" content="https://cloud.retidurc.fr/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.retidurc.fr/core/img/favicon-touch.png"/><link rel="stylesheet" href="/apps/theming/styles?v=19"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC42LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC42IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5yZXRpZHVyYy5mclwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6ImM3NDhlOGZjNTg4YjU0ZmM1YWYzOGM0NDgxYTE5ZDIwIn0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyNC4wLjEiLCJzdGF0dXMiOnsiZ2xvYmFsU2NhbGUiOmZhbHNlfSwic2V0dGluZ3MiOnsiZnJvbnRlbmRFbmFibGVkIjp0cnVlLCJhbGxvd2VkQ2lyY2xlcyI6MjYyMTQzLCJhbGxvd2VkVXNlclR5cGVzIjozMSwibWVtYmVyc0xpbWl0IjotMX0sImNpcmNsZSI6eyJjb25zdGFudHMiOnsiZmxhZ3MiOnsiMSI6IlNpbmdsZSIsIjIiOiJQZXJzb25hbCIsIjQiOiJTeXN0ZW0iLCI4IjoiVmlzaWJsZSIsIjE2IjoiT3BlbiIsIjMyIjoiSW52aXRlIiwiNjQiOiJKb2luIFJlcXVlc3QiLCIxMjgiOiJGcmllbmRzIiwiMjU2IjoiUGFzc3dvcmQgUHJvdGVjdGVkIiwiNTEyIjoiTm8gT3duZXIiLCIxMDI0IjoiSGlkZGVuIiwiMjA0OCI6IkJhY2tlbmQiLCI0MDk2IjoiTG9jYWwiLCI4MTkyIjoiUm9vdCIsIjE2Mzg0IjoiQ2lyY2xlIEludml0ZSIsIjMyNzY4IjoiRmVkZXJhdGVkIiwiNjU1MzYiOiJNb3VudCBwb2ludCJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiTmV4dGNsb3VkIFVzZXIiLCIyIjoiTmV4dGNsb3VkIEdyb3VwIiwiNCI6IkVtYWlsIEFkZHJlc3MiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2lyY2xlIiwiMTAwMDAiOiJOZXh0Y2xvdWQgQXBwIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYmVyIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbiIsIjkiOiJPd25lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLnJldGlkdXJjLmZyXC9vY20iLCJyZXNvdXJjZVR5cGVzIjpbeyJuYW1lIjoiZmlsZSIsInNoYXJlVHlwZXMiOlsidXNlciIsImdyb3VwIl0sInByb3RvY29scyI6eyJ3ZWJkYXYiOiJcL3B1YmxpYy5waHBcL3dlYmRhdlwvIn19XX0sImRhdiI6eyJjaHVua2luZyI6IjEuMCJ9LCJkZWNrIjp7InZlcnNpb24iOiIxLjcuMiIsImNhbkNyZWF0ZUJvYXJkcyI6ZmFsc2UsImFwaVZlcnNpb25zIjpbIjEuMCIsIjEuMSJdfSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOmZhbHNlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9LCJzaGFyZWJ5bWFpbCI6eyJlbmFibGVkIjp0cnVlLCJzZW5kX3Bhc3N3b3JkX2J5X21haWwiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fX0sIm5vdGVzIjp7ImFwaV92ZXJzaW9uIjpbIjAuMiIsIjEuMyJdLCJ2ZXJzaW9uIjoiNC41LjEifSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sIm5vdGlmeV9wdXNoIjp7InR5cGUiOlsiZmlsZXMiLCJhY3Rpdml0aWVzIiwibm90aWZpY2F0aW9ucyJdLCJlbmRwb2ludHMiOnsid2Vic29ja2V0Ijoid3NzOlwvXC9jbG91ZC5yZXRpZHVyYy5mclwvcHVzaFwvd3MiLCJwcmVfYXV0aCI6Imh0dHBzOlwvXC9jbG91ZC5yZXRpZHVyYy5mclwvYXBwc1wvbm90aWZ5X3B1c2hcL3ByZV9hdXRoIn19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQucmV0aWR1cmMuZnJcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvY2xvdWQucmV0aWR1cmMuZnJcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjE0LjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjp0cnVlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjp0cnVlfSwidGhlbWluZyI6eyJuYW1lIjoiTmVzdCBjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9jbG91ZC5yZXRpZHVyYy5mciIsInNsb2dhbiI6IiIsImNvbG9yIjoiIzlENTFEMiIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiM5RDUxRDIiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiM5RDUxRDIiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjOUQ1MUQyIiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC5yZXRpZHVyYy5mclwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTE5IiwiYmFja2dyb3VuZCI6IiM5RDUxRDIiLCJiYWNrZ3JvdW5kLXBsYWluIjp0cnVlLCJiYWNrZ3JvdW5kLWRlZmF1bHQiOnRydWUsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvY2xvdWQucmV0aWR1cmMuZnJcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xOSIsImZhdmljb24iOiJodHRwczpcL1wvY2xvdWQucmV0aWR1cmMuZnJcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xOSJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmVzdCBjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9jbG91ZC5yZXRpZHVyYy5mciIsInNsb2dhbiI6IiIsImNvbG9yIjoiIzlENTFEMiIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6IjE5In0=">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nest cloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://cloud.retidurc.fr" target="_blank" rel="noreferrer noopener" class="entity-name">Nest cloud</a>			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,35 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b4e6b762e1a-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.justsky.in; img-src 'self' https: data: blob: https://mastodon.justsky.in; style-src 'self' https://mastodon.justsky.in 'nonce-D0Be69zKlqdUFbWauAEftQ=='; media-src 'self' https: data: https://mastodon.justsky.in; frame-src 'self' https:; manifest-src 'self' https://mastodon.justsky.in; connect-src 'self' data: blob: https://mastodon.justsky.in https://mastodon.justsky.in wss://mastodon.justsky.in; script-src 'self' https://mastodon.justsky.in; child-src 'self' blob: https://mastodon.justsky.in; worker-src 'self' blob: https://mastodon.justsky.in
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:34 GMT
+Etag: W/"a773bc845b81884e6b292e87df104f5a"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kZv7wP0n381s3M7daGV3rBiFrM2hP0wtuOGz0SmXeHHx9HZz42RG8TrsFlVXdcNn2mCg0wn4Q6CT57KZ%2F%2BT4NZy2rX1dt%2BiDLR6R2fQsZuB6GT1BTwUaVRrvM3YhCgsd15XQUGGj"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=6.0000020312145e-06
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Forwarded-Proto: https
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T07:35:00.400410Z
+X-Request-Id: 4ce53e6a-f0a8-4cf0-b9cb-bd538a8d9aac
+X-Robots-Tag: none,noarchive,nosnippet,notranslate,noimageindex
+X-Runtime: 0.014981
+X-Xss-Protection: 1; mode=block
+
+26
+["toot.fedilab.app","mastodon.social"]
+0
+

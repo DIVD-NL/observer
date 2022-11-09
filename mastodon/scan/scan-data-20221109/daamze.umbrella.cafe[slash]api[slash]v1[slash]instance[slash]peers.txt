@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://daamze.umbrella.cafe wss://daamze.umbrella.cafe;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:33 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXyfGIdzt_KtdEAOdXB
+X-Xss-Protection: 1; mode=block
+
+9ff
+["cybre.space","mk.lhyz.fun","m.quaoar.xyz","g0v.social","v-insanity.com","mastodon.antisocial.science","social.tchncs.de","vnil.de","moytura.org","cx.cx","social.datalabour.com","plush.city","utopia.cool","seaofog.com","shitposter.club","moresci.sale","m.hitorino.moe","mk.absturztau.be","eeeeeeeee.eu","mastodon.art","ioc.exchange","ieji.de","mastodon.im","b612.me","hereiszyn.com","hedgehog.pub","mstd.dansmonorage.blue","fandom.ink","mstdn.love","troet.cafe","mastodon.doufen.org","pullopen.xyz","ygo.pub","mk.catgirlsfor.science","o3o.ca","koyu.space","liker.social","go5.dev","bgme.me","octodon.social","gamerr.cyou","thefire.work","m.cmx.im","mindly.social","hashi.icu","toot.mantyke.icu","weirder.earth","cybar.club","toot.morikka.me","mastodon.opportunis.me","m.moec.top","mas.to","mastodon.online","chitter.xyz","amenti.eu.org","photodn.net","catgram.co","mstdn.jp","freespeech.group","mastodon.lol","chaos.social","toot.cat","social.slat.org","nofan.xyz","acg.mn","1234.as","ecoli.pink","allships.run","outerheaven.club","mona.do","m-i.im","busshi.moe","donphan.social","mastodon.xsoftware.it","todon.eu","misskey.io","mastodon.li","tea.codes","freeradical.zone","federated.press","mastodon.buzhangjiuzhou.com","slashine.onl","mastodon.social","photog.social","digforfire.org","queer.party","fedilove.cyou","polaroid.absturztau.be","ielts.boats","fedi.tesaguri.club","pr0mised.life","donotban.com","mastodon.scot","patchouli.today","expired.mentality.rip","flanintheface.com","rhabarberbarbara.bar","douchi.space","banana.dog","musain.cafe","hub.mtf.party","retirenow.top","umbrella.cafe","misskey.bubbletea.dev","moe.cat","pawoo.net","mastodon.motcha.tech","ramen-fsm.eu.org","social.cybre.town","hyan.ink","pixey.org","kazv.moe","ruhr.social","netzsphaere.xyz","bruh.homd.xyz","veronaxxx.masto.host","eldritch.cafe","mstdn.moe","unstable.icu","neko.ci","qoto.org","alive.bar","pixelfed.de","cobaltkiss.blue","mastodon.fivest.one","hub.sakuragawa.moe","nemushee.net","ozhika.me","bbs.kawa-kun.com","plume.pullopen.xyz","mstdn.one","mastodon.ml","the.shitposting.network","tzcafe.com","404.inexist.club","gameliberty.club","natsu.page","fedibird.com","el5.net","biplus.date","eihei.net","kele.one","unmedicated.schizoid.social","shitposting.army","indieweb.social","sneed.network","cathode.church","mastodon.bida.im","wxw.moe","hunk.city","mstdn.beer","malu.today","mastodon.yyyyy.world","ramen.iu0.win","mstdn.social","botsin.space","krefeld.life","9kb.me","nya.one","fairy.id","toot.tantalum.life","pixelfed.social","me.ns.ci","kolektiva.social"]
+0
+

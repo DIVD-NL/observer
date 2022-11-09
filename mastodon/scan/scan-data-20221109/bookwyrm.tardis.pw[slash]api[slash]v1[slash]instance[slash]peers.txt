@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 896
+Alt-Svc: h3=":443"; ma=2592000
+Content-Language: en-us
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Referrer-Policy: same-origin
+Server: Caddy
+Server: gunicorn
+Vary: Accept-Language, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+["mastodon.tardis.pw", "bookwyrm.social", "lire.boitam.eu", "cutebook.club", "books.badwolfbay.games", "reading.taks.garden", "good.franv.site", "ziurkes.group.lt", "wyrms.de", "book.dansmonorage.blue", "kirja.casa", "shoko.one", "bookwyrm.spaceling.sh", "ffaa-2600-1700-bab1-3b90-ad8c-5360-5cf9-af55.ngrok.io", "books.solarpunk.moe", "tankie.ml", "books.mennisch.net", "b908-100-37-168-240.ngrok.io", "masstoc.io", "bookwyrm.cincodenada.com", "bookrastinating.com", "c734-2601-645-8880-25e0-d163-aeb2-ab26-a7e7.ngrok.io", "library.southfox.me", "bookwyrm.tk", "books.solarpunkanarchism.org", "velhaestante.com.br", "books.theunseen.city", "bookwyrm.gatti.ninja", "books.idas.social", "libri.ragnate.la", "books.ihatebeinga.live", "books.meowy.tech", "lore.livellosegreto.it", "books.underscore.world", "bookwyrm.lond.com.br", "books.mxhdr.net", "books.birdsonbicycles.racing", "bw.diaspodon.fr"]

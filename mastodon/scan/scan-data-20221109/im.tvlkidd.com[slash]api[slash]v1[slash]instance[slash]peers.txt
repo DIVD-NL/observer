@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 229
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://im.tvlkidd.com wss://im.tvlkidd.com;media-src 'self';img-src 'self' data: blob:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:32 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzI-qgI1ynnZIAADii
+X-Xss-Protection: 1; mode=block
+
+["masto.ai","mastodon.coffee","sfba.social","mastodon.online","mastodon.nl","blob.cat","masto.rocks","mastodon.social","mstdn.social","floss.social","social.linux.pizza","sully.site","meow.social","xoxo.zone","noc.social","c.im"]

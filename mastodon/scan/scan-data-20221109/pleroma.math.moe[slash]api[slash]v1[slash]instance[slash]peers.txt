@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1697
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.math.moe wss://pleroma.math.moe;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:09 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Cowboy
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzgIuZGfozWA4A28eB
+X-Xss-Protection: 1; mode=block
+
+["cybre.space","social.grimneko.de","mastodon.cloud","quitter.pl","linuxrocks.online","mastodon.social","queer.party","mamot.fr","mastodon.la","gruene.social","social.tchncs.de","libretooth.gr","berserker.town","recurse.social","aspiechattr.me","floss.social","social.wideboys.org","social.isurf.ca","mk.absturztau.be","dragon.style","libranet.de","pawoo.net","f.freinetz.ch","eeeeeeeee.eu","mastodon.art","boing.world","squeet.me","friendica.eskimo.com","noagendasocial.com","activism.openworlds.info","im-in.space","poa.st","daedal.io","pleroma.olimiloolimilo.ynh.fr","social.tromdienste.de","mastodon.technology","wiesbaden.social","nerdculture.de","qoto.org","social.linux.pizza","koyu.space","social.epyisageek.net","hispagatos.space","bitcoinhackers.org","liberdon.com","social.dropbear.xyz","fediverse.one","psjb.me","distrotoot.com","kiwifarms.cc","todon.nl","wintermute.fr.to","nerdica.net","social.trom.tf","mas.to","ukadon.shillest.net","the.shitposting.network","soc.citizen4.eu","climatejustice.social","peertube2.cpy.re","mastodon.online","social.coop","mstdn.io","social.librem.one","mastodon.sdf.org","hostux.social","mastodon.lol","witches.live","chaos.social","mst.vsta.org","toot.cat","layer8.space","toot.cafe","tech.lgbt","unmedicated.schizoid.social","zap.dog","shitposting.army","venera.social","indieweb.social","sneed.network","relay.schizoid.social","a.rathersafe.space","code4lib.social","mastodon.bida.im","social.kinl.gq","hunk.city","hackers.town","social.chadwaltercummings.me","mstdn.social","fosstodon.org","social.yanick.ca","freeradical.zone","jako.social","anonsys.net","x0r.be","digitalcourage.social","freeatlantis.com","kolektiva.social","systerserver.town"]

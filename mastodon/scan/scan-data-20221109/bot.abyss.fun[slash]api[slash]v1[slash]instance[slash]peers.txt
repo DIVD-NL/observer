@@ -1,0 +1,43 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76776664ada12df6-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=T43RLweCj4dBuF5mOTnZTfvnoqSHh5W7W0mTCh5JphysEgPMuGC21q69XrJkGO0QICyeoCTv%2FxGx4tqcL6H3TqoXAubDWwz8XjRFIx1%2B2AdUanF52r0J7NtbMkDydBDz"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+
+373
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>このページは正しくありません
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/css/common-38188826.css" />
+<link rel="stylesheet" media="all" href="/packs/css/default-88d90dba.chunk.css" />
+<script src="/packs/js/common-98fc16a576f415f39095.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-1de9e40cd36682a16558.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>もうしわけありませんが、なにかが間違っています。
+</h1>
+</div>
+</div>
+</body>
+</html>
+
+0
+

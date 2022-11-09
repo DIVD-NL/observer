@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.network.europa.eu; img-src 'self' https: data: blob: https://social.network.europa.eu; style-src 'sha256-0k2zIne5GkpRDgZCarN0VPtf9fog7lG+oLF2mMf08yg=' 'sha256-3bGd0ZVNL66VqYhD0TiCmVgG5aieVs7l0Da+VH9a2zY=' https://europa.eu/webtools/ 'self' https://social.network.europa.eu 'nonce-Bdm0Ao40lnc0RjEJ3RIbDQ=='; media-src 'self' https: data: https://social.network.europa.eu; frame-src 'self' https:; manifest-src 'self' https://social.network.europa.eu; connect-src 'self' data: blob: https://social.network.europa.eu https://social.network.europa.eu wss://social.network.europa.eu; script-src https://europa.eu 'self' https://social.network.europa.eu; child-src 'self' blob: https://social.network.europa.eu; worker-src 'self' blob: https://social.network.europa.eu
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:09 GMT
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000;
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.757749Z
+X-Request-Id: 9c458010-0c60-4996-aec2-796cecc95a30
+X-Runtime: 0.006586
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Connection: close
+Accept-Ranges: bytes
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Cache-Control: public, max-age=60
+Date: Wed, 09 Nov 2022 15:22:36 GMT
+Location: https://edition.cnn.com/api/v1/instance/peers
+Retry-After: 0
+Server: Varnish
+Set-Cookie: countryCode=BE; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: stateCode=BRU; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Set-Cookie: geoData=brussels|BRU|1000|BE|EU|100|broadband|50.850|4.350|-1; Domain=.cnn.com; Path=/; SameSite=None; Secure
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Served-By: cache-bru1480062-BRU
+Content-Length: 0
+

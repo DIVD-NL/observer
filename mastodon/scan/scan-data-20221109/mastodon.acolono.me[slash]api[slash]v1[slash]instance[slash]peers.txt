@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.acolono.me; img-src 'self' https: data: blob: https://mastodon.acolono.me; style-src 'self' https://mastodon.acolono.me 'nonce-/6wIxyNMtviIcpT/CMVYGw=='; media-src 'self' https: data: https://mastodon.acolono.me; frame-src 'self' https:; manifest-src 'self' https://mastodon.acolono.me; connect-src 'self' data: blob: https://mastodon.acolono.me https://mastodon.acolono.me wss://mastodon.acolono.me; script-src 'self' https://mastodon.acolono.me; child-src 'self' blob: https://mastodon.acolono.me; worker-src 'self' blob: https://mastodon.acolono.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:50 GMT
+Etag: W/"196decad891a14c92369afab32c26cb3"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:20:00.259367Z
+X-Request-Id: da1aa7a1-f05a-42f6-985e-612c07e721cf
+X-Runtime: 0.013885
+X-Xss-Protection: 1; mode=block
+
+104f
+["todon.eu","toot.fedilab.app","a.gup.pe","muenchen.social","chaos.social","norden.social","fimidi.com","mastodon.lol","toot.cat","noc.social","nobigtech.es","fosstodon.org","social.softmetz.de","social.tromdienste.de","your.sensor.community","herzbu.de","friendica.astatu.berlin","f.praschnig.com","keybored.me","talkabout.cf","friendica.hashy-net.de","g1zm0.social","friendica.offsite.guru","follow.schmaller.de","friends.deko.cloud","letus.inspiredlife.fun","f.haeder.net","scl.clttr.info","convenient.email","friendica.hellquist.eu","social.broers.me","friendica.testitfor.me","f.freinetz.ch","friends.undeadnetwork.de","friendica.ucy.de","canic.us","social.isurf.ca","social.chadwaltercummings.me","opensocial.at","poliverso.org","fri.aethercom.de","friendica.mrpetovan.com","soc.schuerz.at","etiketi.de","friendica.bdeshi.space","f.kretschmann.social","friendl.y-y.li","friendica.chocoflan.net","philos.fkn-systems.de","friendica.ellih.eu","pirati.ca","libranet.de","f.xn--7s9hd.ws","social.trom.tf","friendica.jb-net.us","social.digitalcastle.me","kudabiverse.com","soc.citizen4.eu","fed.sonnenmulde.at","pztrn.online","venera.social","social.outsourcedmath.com","rollenspiel.group","quitter.pl","social.yl.ms","friendica.ironbug.org","fediverse.one","friendica.a-zwenkau.de","anonsys.net","friendica.utzer.de","friendicarg.nsupdate.info","aus.social","friendica.eskimo.com","friendica.philipp.info","friendica.bachgau.social","sovran.me","onlinegemein.de","friendica.mschmidt-et.de","nsfw.wnymathguy.com","friendica.xyz","nerdica.net","friendica.myportal.social","friendica.vrije-mens.org","friend.geoffray-levasseur.org","mordor.social","mastodon.social","friendica.ennimedia.de","social.lucentinian.com","schmaker.eu","social.cyano.at","friendica.hubup.pro","808.cybercity.eu.org","lastfree.space","friendica.produnis.de","vicedomini.cloud","concordia.social","dis-le.de","mastodon.matrix.org","loma.ml","soc.k-a-i-f.ru","social.gl-como.it","social.cool110.xyz","anarchydica.net","friendica.opensocial.space","friendica.mifritscher.de","xn--baw-joa.social","mastodon.xyz","mastodon.technology","nitrokey.com","botsin.space","sunbeam.city","social.bund.de","hostsharing.coop","digitalcourage.social","gruene.social","dica.interfel.de","friendica.valvin.fr","friendica.argentwolf.org","wiesbaden.social","social.fedinet.de","friendica.wageoffsite.com","fr.readthefinemanual.net","www.social.surstroemming.de","f.matri.ml","haecksen.social","friendica.ru","friendica.kommune4.de","social.jmueller.eu","social.linux.pizza","la-verite-vaincra.com","friendica.me","frnd.nanoscopic.de","friends.wimmer-edv.de","friendica.multisum.info","fedi.ml","friendica.ambag.es","phpc.social","climatejustice.social","friendica.togart.de","librenet.co.za","bungle.online","bofh.social","social.badabam.net","realize.be","dehawara.de","social.thierrytalbert.fr","squeet.me","friendica.mathernalproductions.com","friendica.opencloud.lu","mstdn.io","mb.neurario.com","social.agb-web.de","friendica.ingram-braun.net","f.iroiro.party","bronyfurry.com","friendica.m14xa.ru","rud.life","social.network.europa.eu","friendica.nz","tube.tchncs.de","walls.social","social.dorf-post.de","friends.sophiade.net","space.rick.gr","piratenpartei.social","friendica.mnementh.co.uk","friendica.oldkid.digital","social.growyourown.services","geno.social","social.weho.st","social.johnassel.de","meld.de","www.urbanmind.net","horizin.de","redeyes.club","hullblasters.club","social.anacreonte.eu","social.tyngsboroughma.net","fabler.su","t2.thotsofa304.club","friend.snet.blog","v2.ebano.social","social.anoxinon.de","friendica.dezucked.com","friendica.chudzinski.com.de","friendica.daniel-siepmann.de","social.msitc.de","friendica.steampunk.social","438punk.house","tilvids.com","mastodon.online","mstdn.social","petroskowo.pl","birdsite.lakedrops.com","tekton.network","social.tchncs.de","librem.one","bonn.social","octodon.social","indieweb.social","mathstodon.xyz","troet.cafe","social.fabean.xyz","social.coop","dragonscave.space","floss.social","mastodon.cloud","systerserver.town","queer.party","lgbt.io","legal.social","nerdculture.de","post.lurk.org","det.social","scholar.social","eldritch.cafe"]
+0
+

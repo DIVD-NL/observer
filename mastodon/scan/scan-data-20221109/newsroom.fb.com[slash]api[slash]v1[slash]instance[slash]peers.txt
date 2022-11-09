@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Alt-Svc: h3=":443"; ma=86400
+Content-Type: text/html; charset="utf-8"
+Date: Wed, 09 Nov 2022 15:14:07 GMT
+Location: https://about.facebook.com/api/v1/instance/peers
+Strict-Transport-Security: max-age=15552000
+X-Fb-Debug: HOr64m2AhAdJgXn0d0OPFeMEd1Yyzy/rTIC9VRPkozr1cdKkcrdj2JK+fGH5WQNHgGrZJPLQoEPFCl/H67fkMg==
+Content-Length: 0
+

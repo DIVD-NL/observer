@@ -1,0 +1,128 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' 'unsafe-inline' 'self' waimanu-nc.lxc.waima.nu https://nc.waimanu.io;style-src 'self' 'unsafe-inline' 'unsafe-inline';img-src 'self' data: blob: *;font-src 'self' data:;connect-src 'self' https://de1.api.radio-browser.info jabber.waimanu.io:5281 jabber.waimanu.io waimanu.io xmpp.waimanu.io nc.waimanu.io stun.lxc.waima.nu:5349 turn.lxc.waima.nu:5349 data:;media-src 'self' * blob:;frame-src 'self' https://collabora.lxc.waima.nu data: prezi.com player.vimeo.com vine.co www.youtube.com;child-src 'self' 'self' waimanu-nc.lxc.waima.nu blob: https://nc.waimanu.io;frame-ancestors 'self';worker-src 'self' blob: https://nc.waimanu.io;form-action 'self' https://collabora.lxc.waima.nu
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:04 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'self';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.18.0
+Set-Cookie: oc_sessionPassphrase=zn0M5vjewk%2Bc7f9LiqbKghMwwZ7t8%2BUq1kP1JOpCUKP4mW98zH25aw8HyukpBQCWmH1Vb9XycxaGwKHbKMgUBtw5hTDB3hcXUfQ6HjfoTz2DRTU7B1CASjnNGQLZr8yR; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc1y2zicyk85=3alograu0dg08f5j00n3l727av; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="50Uueq2T4KGQBSJ9Eq20ofxFzN7qG5OhV+NWQ3MEIa0=:nzRfCcqqhOnGPU0KIIb16pQ8p+m+barob48ZKDp9cuU=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#000000">
+		<link rel="icon" href="/apps/theming/favicon?v=12">
+		<link rel="apple-touch-icon" href="/apps/theming/icon?v=12">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#000000">
+		<link rel="manifest" href="/apps/theming/manifest?v=12">
+		<link rel="stylesheet" href="/apps/ojsxc/css/../js/jsxc/styles/jsxc.bundle.css?v=63715b63-12">
+<link rel="stylesheet" href="/apps/ojsxc/css/bundle.css?v=63715b63-12">
+<link rel="stylesheet" href="/apps/twofactor_rcdevsopenotp/css/settings.css?v=f63163cd-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewer.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/sidebar.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/bootstrap_accordion.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewerMain.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/viewerMainDialog.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/captureImageDialog.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/annotationDialogs.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/dicomviewer/css/external/font-awesome/font-awesome.min.css?v=b0e8daa2-12">
+<link rel="stylesheet" href="/apps/files_ebookreader/css/style.css?v=25e64aa7-12">
+<link rel="stylesheet" href="/apps/folderplayer/css/../js/bower_components/jPlayer/dist/skin/pink.flag/css/jplayer.pink.flag.min.css?v=3eb18b3a-12">
+<link rel="stylesheet" href="/apps/folderplayer/css/style.css?v=3eb18b3a-12">
+<link rel="stylesheet" href="/apps/gpxedit/css/style.css?v=1b123539-12">
+<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=198068b3-12">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-12">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=46c85d58-12">
+<link rel="stylesheet" href="/core/css/guest.css?v=baafc0c1-12">
+		<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/core/js/oc.js?v=baafc0c1"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/core/js/dist/main.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/core/js/dist/files_fileinfo.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/core/js/dist/files_client.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/js/core/merged-template-prepend.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/ojsxc/js/overwriteClearStorage.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/twofactor_rcdevsopenotp/js/script.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/twofactor_rcdevsopenotp/js/fidou2f.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/twofactor_rcdevsopenotp/js/base64.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/encryption/js/encryption.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_sharing/js/dist/main.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/dicomviewer/js/app.bundle.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_clipboard/js/clearClipboard.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_ebookreader/js/previewplugin.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_videoplayer/js/main.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/folderplayer/js/bower_components/jPlayer/dist/jplayer/jquery.jplayer.min.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/folderplayer/js/bower_components/jPlayer/dist/add-on/jplayer.playlist.min.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/folderplayer/js/script.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/gpxedit/l10n/en.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/gpxedit/js/filetypes.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/apporder/js/apporder.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_rightclick/js/script.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/files_rightclick/js/files.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/apps/theming/js/theming.js?v=baafc0c1-12"></script>
+<script nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0=" defer src="/core/js/dist/login.js?v=baafc0c1-12"></script>
+		<script defer src="/apps/ojsxc/js/config" nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0="></script><script defer src="/apps/ojsxc/js/libsignal/libsignal-protocol.js?v=63715b63" nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0="></script><script defer src="/apps/ojsxc/js/jsxc/jsxc.bundle.js?v=63715b63" nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0="></script><script defer src="/apps/ojsxc/js/bundle.js?v=63715b63" nonce="NTBVdWVxMlQ0S0dRQlNKOUVxMjBvZnhGek43cUc1T2hWK05XUTNNRUlhMD06bnpSZkNjcXFoT25HUFUwS0lJYjE2cFE4cCttK2Jhcm9iNDhaS0RwOWN1VT0="></script><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Nextcloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://nc.waimanu.io/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://nc.waimanu.io/apps/theming/icon?v=12"/><link rel="stylesheet" href="/apps/theming/styles?v=12"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjAuMC4xNC4yIiwidmVyc2lvbnN0cmluZyI6IjIwLjAuMTQiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6dHJ1ZSwic2hhcmluZy5tYXhBdXRvY29tcGxldGVSZXN1bHRzIjowLCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9uYy53YWltYW51LmlvXC9vY3NcL3YyLnBocFwvYXBwc1wvZmlsZXNcL2FwaVwvdjFcL2RpcmVjdEVkaXRpbmciLCJldGFnIjoiNjIyNmJhODczMzczZjVlNzNhM2VmNTA0MTA3NTIzZjcifSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL25jLndhaW1hbnUuaW9cL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImRlY2siOnsidmVyc2lvbiI6IjEuMi4xMSIsImNhbkNyZWF0ZUJvYXJkcyI6dHJ1ZX0sIm5vdGVzIjp7ImFwaV92ZXJzaW9uIjpbIjAuMiIsIjEuMiJdLCJ2ZXJzaW9uIjoiNC4zLjEifSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjgsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOnRydWUsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6dHJ1ZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL25jLndhaW1hbnUuaW9cL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvbmMud2FpbWFudS5pb1wvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvdmFsaWRhdGUifX0sInJlZ2lzdHJhdGlvbiI6eyJlbmFibGVkIjp0cnVlLCJhcGlSb290IjoiXC9vY3NcL3YyLnBocFwvYXBwc1wvcmVnaXN0cmF0aW9uXC9hcGlcL3YxXC8iLCJhcGlMZXZlbCI6InYxIn0sImZpbGVzX3NoYXJpbmciOnsic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjp0cnVlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJkYXlzIjoiMzEiLCJlbmZvcmNlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6dHJ1ZSwiZGF5cyI6IjMxIiwiZW5mb3JjZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX19LCJzcHJlZWQiOnsiZmVhdHVyZXMiOlsiYXVkaW8iLCJ2aWRlbyIsImNoYXQtdjIiLCJjb252ZXJzYXRpb24tdjIiLCJndWVzdC1zaWduYWxpbmciLCJlbXB0eS1ncm91cC1yb29tIiwiZ3Vlc3QtZGlzcGxheS1uYW1lcyIsIm11bHRpLXJvb20tdXNlcnMiLCJmYXZvcml0ZXMiLCJsYXN0LXJvb20tYWN0aXZpdHkiLCJuby1waW5nIiwic3lzdGVtLW1lc3NhZ2VzIiwibWVudGlvbi1mbGFnIiwiaW4tY2FsbC1mbGFncyIsIm5vdGlmaWNhdGlvbi1sZXZlbHMiLCJpbnZpdGUtZ3JvdXBzLWFuZC1tYWlscyIsImxvY2tlZC1vbmUtdG8tb25lLXJvb21zIiwicmVhZC1vbmx5LXJvb21zIiwiY2hhdC1yZWFkLW1hcmtlciIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsImNoYXQtcmVmZXJlbmNlLWlkIl0sImNvbmZpZyI6eyJhdHRhY2htZW50cyI6eyJhbGxvd2VkIjpmYWxzZX0sImNoYXQiOnsibWF4LWxlbmd0aCI6MzIwMDB9LCJjb252ZXJzYXRpb25zIjp7ImNhbi1jcmVhdGUiOmZhbHNlfX19LCJ0aGVtaW5nIjp7Im5hbWUiOiJOZXh0Y2xvdWQiLCJ1cmwiOiJodHRwczpcL1wvbmMud2FpbWFudS5pb1wvIiwic2xvZ2FuIjoiYSBzYWZlIGhvbWUgZm9yIGFsbCB5b3VyIGRhdGEiLCJjb2xvciI6IiMwMDAwMDAiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMDAwMDAwIiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMDAwMDAwIiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzU1NTU1NSIsImxvZ28iOiJodHRwczpcL1wvbmMud2FpbWFudS5pb1wvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEyIiwiYmFja2dyb3VuZCI6Imh0dHBzOlwvXC9uYy53YWltYW51LmlvXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvYmFja2dyb3VuZD92PTEyIiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvbmMud2FpbWFudS5pb1wvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEyIiwiZmF2aWNvbiI6Imh0dHBzOlwvXC9uYy53YWltYW51LmlvXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTIifSwidXNlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZSwic3VwcG9ydHNfZW1vamkiOnRydWV9LCJ3ZWF0aGVyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlfSwicmljaGRvY3VtZW50cyI6eyJ2ZXJzaW9uIjoiMy44LjYiLCJtaW1ldHlwZXMiOlsiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnNwcmVhZHNoZWV0IiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZ3JhcGhpY3MiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24iLCJhcHBsaWNhdGlvblwvdm5kLmxvdHVzLXdvcmRwcm8iLCJhcHBsaWNhdGlvblwvdm5kLnZpc2lvIiwiYXBwbGljYXRpb25cL3ZuZC5tcy12aXNpby5kcmF3aW5nIiwiYXBwbGljYXRpb25cL3ZuZC53b3JkcGVyZmVjdCIsImFwcGxpY2F0aW9uXC9tc29uZW5vdGUiLCJhcHBsaWNhdGlvblwvbXN3b3JkIiwiYXBwbGljYXRpb25cL3J0ZiIsInRleHRcL3J0ZiIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtd29yZC5kb2N1bWVudC5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXdvcmQudGVtcGxhdGUubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC50ZW1wbGF0ZS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQuYmluYXJ5Lm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwucHJlc2VudGF0aW9uIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5wcmVzZW50YXRpb25tbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwuc2xpZGVzaG93IiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5wcmVzZW50YXRpb24ubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LnRlbXBsYXRlLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5zbGlkZXNob3cubWFjcm9FbmFibGVkLjEyIiwidGV4dFwvY3N2Il0sIm1pbWV0eXBlc05vRGVmYXVsdE9wZW4iOlsiaW1hZ2VcL3N2Zyt4bWwiLCJhcHBsaWNhdGlvblwvcGRmIiwidGV4dFwvcGxhaW4iLCJ0ZXh0XC9zcHJlYWRzaGVldCJdLCJjb2xsYWJvcmEiOnsiY29udmVydC10byI6eyJhdmFpbGFibGUiOnRydWUsImVuZHBvaW50IjoiXC9jb29sXC9jb252ZXJ0LXRvIn0sImhhc01vYmlsZVN1cHBvcnQiOnRydWUsImhhc1Byb3h5UHJlZml4IjpmYWxzZSwiaGFzVGVtcGxhdGVTYXZlQXMiOmZhbHNlLCJoYXNUZW1wbGF0ZVNvdXJjZSI6dHJ1ZSwicHJvZHVjdE5hbWUiOiJDb2xsYWJvcmEgT25saW5lIERldmVsb3BtZW50IEVkaXRpb24iLCJwcm9kdWN0VmVyc2lvbiI6IjIyLjA1LjcuMyIsInByb2R1Y3RWZXJzaW9uSGFzaCI6IjBiNDJiM2UiLCJzZXJ2ZXJJZCI6IjUxZmVkNWRjIn0sImRpcmVjdF9lZGl0aW5nIjp0cnVlLCJ0ZW1wbGF0ZXMiOnRydWUsInByb2R1Y3ROYW1lIjoiQ29sbGFib3JhIE9ubGluZSBEZXZlbG9wbWVudCBFZGl0aW9uIiwiY29uZmlnIjp7IndvcGlfdXJsIjoiaHR0cHM6XC9cL2NvbGxhYm9yYS5seGMud2FpbWEubnUiLCJwdWJsaWNfd29waV91cmwiOiJodHRwczpcL1wvY29sbGFib3JhLmx4Yy53YWltYS5udSIsImRpc2FibGVfY2VydGlmaWNhdGVfdmVyaWZpY2F0aW9uIjoiIiwiZWRpdF9ncm91cHMiOm51bGwsInVzZV9ncm91cHMiOm51bGwsImRvY19mb3JtYXQiOiJvb3htbCIsInRpbWVvdXQiOjE1fX0sImRyb3BpdCI6eyJlbmFibGVkIjp0cnVlLCJ1cGxvYWQiOnsiZmlsZXMiOnsidXJsIjoiaHR0cHM6XC9cL25jLndhaW1hbnUuaW9cL2FwcHNcL2Ryb3BpdFwvZHJvcCIsInBhcmFtIjoiZGF0YSJ9LCJ0ZXh0Ijp7InVybCI6Imh0dHBzOlwvXC9uYy53YWltYW51LmlvXC9hcHBzXC9kcm9waXRcL3RleHQiLCJwYXJhbSI6InRleHQifX19LCJleHRlcm5hbCI6eyJ2MSI6WyJzaXRlcyIsImRldmljZSIsImdyb3VwcyIsInJlZGlyZWN0Il19LCJxdWlja25vdGVzIjp7InZlcnNpb24iOiIwLjYuNyIsImFwaV92ZXJzaW9uIjoiMS4wIn19">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmV4dGNsb3VkIiwidXJsIjoiaHR0cHM6XC9cL25jLndhaW1hbnUuaW9cLyIsInNsb2dhbiI6ImEgc2FmZSBob21lIGZvciBhbGwgeW91ciBkYXRhIiwiY29sb3IiOiIjMDAwMDAwIiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiMTIifQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins">
+                    <a class="button register-button" href="/apps/registration/" >
+                Register            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nc.waimanu.io/" target="_blank" rel="noreferrer noopener" class="entity-name">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

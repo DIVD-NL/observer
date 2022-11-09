@@ -1,0 +1,416 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, max-age=0, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:46 GMT
+Etag: W/"3c52-4wE3ed3n+LVMzxWpQGgnf8w5T48"
+Strict-Transport-Security: max-age=15768000; includeSubdomains; preload
+Vary: Accept-Encoding
+X-Powered-By: Express
+
+3c52
+<!DOCTYPE html>
+<html lang="en" class="auto-color">
+<head>
+
+    <title>Breaking Emily News</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css?v=98d85bdf70" />
+
+    <link rel="stylesheet" href="/assets/css/tocbot.css?v=98d85bdf70">
+    <style>
+    .gh-toc {
+        margin-top: 4vmin; /* Aligns the TOC with the beginning of content */
+    }
+
+    @media (min-width: 1300px) {
+        .gh-toc {
+            position: sticky; /* On larger screens, TOC will stay in the same spot on the page */
+            top: 4vmin;
+            grid-column: wide-start / main-start; /* Place the TOC to the left of the content */
+            grid-row: span 1000;
+            padding-right: 8rem;
+    }
+    }
+
+    .gh-toc > .toc-list {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .toc-list {
+        list-style: none;
+    }
+
+    .gh-toc .is-active-link::before {
+        background-color: var(--ghost-accent-color); /* Defines TOC accent color based on Accent color set in Ghost Admin */
+    } 
+    </style>
+
+    <meta name="generator" content="Ghost 5.22" />
+    <link rel="alternate" type="application/rss+xml" title="Breaking Emily News" href="https://emily.news/rss/" />
+    <script defer src="https://cdn.jsdelivr.net/ghost/portal@~2.19/umd/portal.min.js" data-ghost="https://emily.news/" data-key="dc19bd7d62e411cd9f2c18c7ed" data-api="https://emily.news/ghost/api/content/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style>
+    <script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="dc19bd7d62e411cd9f2c18c7ed" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://emily.news/" crossorigin="anonymous"></script>
+    <script defer src="/public/cards.min.js?v=98d85bdf70"></script>
+    <link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=98d85bdf70">
+    <script defer src="/public/member-attribution.min.js?v=98d85bdf70"></script>
+    <link href="/assets/fonts/inter.css" rel="stylesheet">
+
+<style>
+    .gh-content>blockquote:not([class]), .gh-content>dl, .gh-content>ol, .gh-content>p, .gh-content>ul {
+		font-weight: 400;
+		font-size: 2rem;
+		line-height: 1.5em;
+	}
+
+    body {
+        letter-spacing: 0.0015em;
+        text-rendering: optimizeLegibility;
+    }
+
+    //.gh-head-brand { display: none; }
+    .gh-head-logo { display: none; }
+    //.gh-head-logo {
+        //display: none;
+        //font-variant: all-small-caps;
+        //text-transform: uppercase;
+        //font-weight: 800;
+        //font-size: 2.25rem;
+		//letter-spacing: 0.025em;
+	//}
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 600;
+        letter-spacing: 0.0015em;
+    }
+    
+    code, kbd, pre, samp {
+        font-family:  ui-monospace,Courier,monospace;
+    }
+
+	:root {
+		--font-sans: 'Inter',ui-system,sans-serif;
+ 		--font-serif: 'Inter',ui-system,sans-serif;
+		--font-mono: ui-monospace,Courier,monospace;
+	}
+
+	@supports (font-variation-settings: normal) {
+        :root {
+            --font-sans: 'Inter var',ui-system,sans-serif;
+            --font-serif: 'Inter var',ui-system,sans-serif;
+            --font-mono: ui-monospace,Courier,monospace;
+        }
+    }
+</style><style>:root {--ghost-accent-color: #6495ed;}</style>
+
+</head>
+<body class=" has-sans-body">
+<div class="viewport">
+
+    <header id="gh-head" class="gh-head outer">
+        <nav class="gh-head-inner inner">
+
+            <div class="gh-head-brand">
+                <a class="gh-head-logo no-image" href="https://emily.news">
+                        Breaking Emily News
+                </a>
+                <div class="gh-head-brand-wrapper">
+                    <button class="gh-search" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+                    <a class="gh-burger" role="button">
+                        <div class="gh-burger-box">
+                            <div class="gh-burger-inner"></div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="gh-head-menu">
+                <ul class="nav">
+    <li class="nav-home"><a href="https://emily.news/">Home</a></li>
+    <li class="nav-about"><a href="https://emily.news/about/">About</a></li>
+    <li class="nav-colophon"><a href="https://emily.news/colophon/">Colophon</a></li>
+    <li class="nav-special-interests"><a href="https://emily.news/interests/">Special Interests</a></li>
+</ul>
+
+            </div>
+            <div class="gh-head-actions">
+                <button class="gh-search" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+                <div class="gh-social">
+                    <a class="social-media-icon gh-social-link" rel="me" href="https://social.emily.news/@est">
+                        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <title>Mastodon</title>
+                            <path
+                                d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12z" />
+                        </svg>
+                    </a>
+                </div>
+                        <a class="gh-head-button" href="#/portal/signup" data-portal="signup">Subscribe</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="site-content">
+        
+
+<section class="outer error-content">
+    <div class="inner">
+        <section class="error-message">
+            <h1 class="error-code">404</h1>
+            <p class="error-description">Page not found</p>
+            <a class="error-link" href="https://emily.news">Go to the front page →</a>
+        </section>
+    </div>
+</section>
+
+<aside class="read-more-wrap outer">
+    <div class="read-more inner">
+                    
+<article class="post-card post keep-ratio">
+
+    <a class="post-card-image-link" href="/where-is-emily/">
+
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/11/Super-Smash-Bros.-Melee--USA---En-Ja---Rev-2--220506-202409.jpeg 300w,
+                    /content/images/size/w600/2022/11/Super-Smash-Bros.-Melee--USA---En-Ja---Rev-2--220506-202409.jpeg 600w,
+                    /content/images/size/w1000/2022/11/Super-Smash-Bros.-Melee--USA---En-Ja---Rev-2--220506-202409.jpeg 1000w,
+                    /content/images/size/w2000/2022/11/Super-Smash-Bros.-Melee--USA---En-Ja---Rev-2--220506-202409.jpeg 2000w"
+            sizes="(max-width: 1000px) 400px, 800px"
+            src="/content/images/size/w600/2022/11/Super-Smash-Bros.-Melee--USA---En-Ja---Rev-2--220506-202409.jpeg"
+            alt="Screenshot of Kirby from Super Smash Bros."
+            loading="lazy"
+        />
+
+
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/where-is-emily/">
+            <header class="post-card-header">
+                <div class="post-card-tags">
+                </div>
+                <h2 class="post-card-title">
+                    Where in the Online is Emily?
+                </h2>
+            </header>
+                <div class="post-card-excerpt">Social media chaos reigns. The center cannot hold. Mere anarchy is loosed upon the world.
+
+Anyway, this post is just to update on where I am attempting to have a social media presence of any kind:
+
+ * Website: emily.news (obviously)
+ * Twitter: emilyst (for now)
+ * Mastodon: est@emily.news (formerly: emilyst@</div>
+        </a>
+
+        <footer class="post-card-meta">
+            <time class="post-card-meta-date" datetime="2022-11-02">Nov 2, 2022</time>
+                <span class="sep">—</span>
+                <span class="post-card-meta-length">1 min read</span>
+        </footer>
+
+    </div>
+
+</article>
+                    
+<article class="post-card post keep-ratio">
+
+    <a class="post-card-image-link" href="/new-gif-in-honor-of-uhura/">
+
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/08/star-trek-iv-uhura-receiving-whale-song-4.gif 300w,
+                    /content/images/size/w600/2022/08/star-trek-iv-uhura-receiving-whale-song-4.gif 600w,
+                    /content/images/size/w1000/2022/08/star-trek-iv-uhura-receiving-whale-song-4.gif 1000w,
+                    /content/images/size/w2000/2022/08/star-trek-iv-uhura-receiving-whale-song-4.gif 2000w"
+            sizes="(max-width: 1000px) 400px, 800px"
+            src="/content/images/size/w600/2022/08/star-trek-iv-uhura-receiving-whale-song-4.gif"
+            alt="New GIF: In honor of Uhura"
+            loading="lazy"
+        />
+
+
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/new-gif-in-honor-of-uhura/">
+            <header class="post-card-header">
+                <div class="post-card-tags">
+                </div>
+                <h2 class="post-card-title">
+                    New GIF: In honor of Uhura
+                </h2>
+            </header>
+                <div class="post-card-excerpt">I hope, wherever Nichelle Nichols is, she's listening to humpback whales.</div>
+        </a>
+
+        <footer class="post-card-meta">
+            <time class="post-card-meta-date" datetime="2022-08-01">Aug 1, 2022</time>
+        </footer>
+
+    </div>
+
+</article>
+                    
+<article class="post-card post keep-ratio">
+
+    <a class="post-card-image-link" href="/new-gifs-close-encounters/">
+
+        <img class="post-card-image"
+            srcset="/content/images/size/w300/2022/08/close-encounters-3rd-kind-keyhole-glow-1.gif 300w,
+                    /content/images/size/w600/2022/08/close-encounters-3rd-kind-keyhole-glow-1.gif 600w,
+                    /content/images/size/w1000/2022/08/close-encounters-3rd-kind-keyhole-glow-1.gif 1000w,
+                    /content/images/size/w2000/2022/08/close-encounters-3rd-kind-keyhole-glow-1.gif 2000w"
+            sizes="(max-width: 1000px) 400px, 800px"
+            src="/content/images/size/w600/2022/08/close-encounters-3rd-kind-keyhole-glow-1.gif"
+            alt="New GIFs: Close Encounters and others"
+            loading="lazy"
+        />
+
+
+    </a>
+
+    <div class="post-card-content">
+
+        <a class="post-card-content-link" href="/new-gifs-close-encounters/">
+            <header class="post-card-header">
+                <div class="post-card-tags">
+                </div>
+                <h2 class="post-card-title">
+                    New GIFs: Close Encounters and others
+                </h2>
+            </header>
+                <div class="post-card-excerpt">Realized this might be a good place to share the originals for some new GIFs I've made in the last couple of days.</div>
+        </a>
+
+        <footer class="post-card-meta">
+            <time class="post-card-meta-date" datetime="2022-07-28">Jul 28, 2022</time>
+                <span class="sep">—</span>
+                <span class="post-card-meta-length">3 min read</span>
+        </footer>
+
+    </div>
+
+</article>
+    </div>
+</aside>
+    </div>
+
+    <footer class="site-footer outer">
+        <div class="inner">
+            <section class="copyright"><a href="https://emily.news">Breaking Emily News</a> &copy; 2022</section>
+            <nav class="site-footer-nav">
+                
+            </nav>
+            <div><a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a></div>
+        </div>
+    </footer>
+
+</div>
+
+
+<script
+    src="https://code.jquery.com/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+    crossorigin="anonymous">
+</script>
+<script src="/assets/built/casper.js?v=98d85bdf70"></script>
+<script>
+$(document).ready(function () {
+    // Mobile Menu Trigger
+    $('.gh-burger').click(function () {
+        $('body').toggleClass('gh-head-open');
+    });
+    // FitVids - Makes video embeds responsive
+    $(".gh-content").fitVids();
+});
+</script>
+
+<script src="/assets/js/tocbot.min.js?v=98d85bdf70"></script>
+<script>
+    tocbot.init({
+        // Where to render the table of contents.
+        tocSelector: ".gh-toc",
+        // Where to grab the headings to build the table of contents.
+        contentSelector: ".gh-content",
+        // Which headings to grab inside of the contentSelector element.
+        headingSelector: "h1, h2, h3, h4",
+        // For headings inside relative or absolute positioned containers within content.
+        hasInnerContainers: true,
+        ignoreSelector: ".kg-toggle-heading-text, .kg-toggle-heading",
+    });
+</script>
+
+
+
+</body>
+</html>
+
+0
+

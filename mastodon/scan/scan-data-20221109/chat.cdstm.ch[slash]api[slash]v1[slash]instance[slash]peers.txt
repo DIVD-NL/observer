@@ -1,0 +1,9 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 534
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:21 GMT
+Etag: "628d1aa2-216"
+Server: nginx
+
+<!DOCTYPE html  ><html lang="fr"> <head><title>Richard Tafurth-Garcia | Oops...</title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="stylesheet" href="css/style.css"/></head><body><header><h1>Erreur 404</h1><h2 id="error_description">La page à laquelle vous avez tenté d'accéder n'existe pas.</h2><a href="/">Retourner à la page d'accueil :/</a></header><script type="text/javascript" src="js/bundle.js"></script></body></html>

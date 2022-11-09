@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 27
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-store, no-cache, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766718e2fb9bf-BRU
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:19 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Pragma: no-cache
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2rmwjmXsYZvsHXO%2FgHG%2FqOXWXZLjX41wr4305RuhMajffzua5HMevFHP38U0dREq8y8BLItmzw%2F4hIkZUFZq8wAm2U6PBR%2Bey4Xya%2B27BY8uCOb20Fvwd20ovdOpY6dQ"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Set-Cookie: PHPSESSID=b9k89j2qpgd9e9cpr9mp0dtdei; path=/; secure; HttpOnly; SameSite=None
+
+{"error":"not implemented"}

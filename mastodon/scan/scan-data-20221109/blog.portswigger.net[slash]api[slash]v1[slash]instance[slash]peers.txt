@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Cache-Control: no-store, no-cache, s-maxage=0, private
+Date: Wed, 09 Nov 2022 14:57:14 GMT
+Location: https://portswigger.net/blog//api/v1/instance/peers
+Server: Kestrel
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

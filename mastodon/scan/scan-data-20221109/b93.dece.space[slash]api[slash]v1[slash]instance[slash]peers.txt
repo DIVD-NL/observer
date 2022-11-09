@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 19
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval'; img-src 'self' blob:; connect-src 'self' ws://localhost/ wss://auberf.b93.dece.space
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:05 GMT
+Server: nginx/1.18.0
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+
+404 page not found

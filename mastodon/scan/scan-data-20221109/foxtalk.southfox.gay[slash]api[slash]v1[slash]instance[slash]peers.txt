@@ -1,0 +1,29 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767767a7eedc2e08-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:09 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XCEWKaZUo9ftzZmYTSKX%2BP27EBqsjcwF3nmDkfkKk2yoM%2FBaOnBfFRqYtG4lDs5QwTw5BBjLNA%2FjlpN1dRfZvsflpzTcP91OI1neM4D8jMvMErAS1FQboP2vuj4WBWLa2vHTKqv4Fw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+248
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+0
+

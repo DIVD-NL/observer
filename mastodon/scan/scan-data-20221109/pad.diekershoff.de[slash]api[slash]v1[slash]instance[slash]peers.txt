@@ -1,0 +1,12 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Cache-Control: public,max-age=600,s-max-age=200,stale-while-revalidate=600
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:34 GMT
+Etag: f0976685c08cd673c8473431a6f140e9d58c182b87b3f138b847648f00c3a245
+Last-Modified: Thu, 03 Nov 2022 11:27:46 GMT
+Server: lighttpd/1.4.59
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Vary: Accept-Encoding
+
+<!doctype html><html lang=de><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/176cc9a79f4160192723eecfe4572789c1f90d824064b28fcd011f29c4914121.css><title>404 Not Found - Scribble, scrabble und Notizen</title><link rel=alternate type=application/rss+xml title="RSS (Scribble, scrabble und Notizen)" href=https://pad.diekershoff.de/.rss><link rel=alternate type=application/atom+xml title="ATOM (Scribble, scrabble und Notizen)" href=https://pad.diekershoff.de/.atom><link rel=alternate type=application/feed+json title="JSON Feed (Scribble, scrabble und Notizen)" href=https://pad.diekershoff.de/.json><link rel=webmention href=https://pad.diekershoff.de/webmention><link rel=micropub href=/micropub><link rel=authorization_endpoint href=/indieauth><link rel=token_endpoint href=/indieauth/token><link rel=indieauth-metadata href=/.well-known/oauth-authorization-server><link rel=me href=https://social.diekershoff.de/profile/tobias><link rel=search type=application/opensearchdescription+xml href=/search/opensearch.xml title="Scribble, scrabble und Notizen"><header><h1><a href=/ rel=home title="Scribble, scrabble und Notizen" translate=no>Scribble, scrabble und Notizen</a></h1><p><i>Weblog von Tobias Diekershoff</i><nav><a href=/>Home</a> &bull; <a href=/posts>Posts</a></nav></header><h1>404 Not Found</h1><p class=monospace>/api/v1/instance/peers was not found<footer><nav><a href=https://diekershoff.de/index.html#imprint>Imprint & Privacy Policy</a> &bull; <a href=https://social.diekershoff.de/profile/tobias>Friendica</a> &bull; <a href=https://pad.diekershoff.de/.atom>Atom Feed</a></nav><p translate=no>&copy; 2022 Tobias Diekershoff <a href=https://creativecommons.org/licenses/by/4.0/>Creative Commons CC-BY 4.0</a></footer>

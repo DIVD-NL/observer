@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.notsorandom.com; img-src 'self' https: data: blob: https://mastodon.notsorandom.com; style-src 'self' https://mastodon.notsorandom.com 'nonce-6UrlmsHJlvjA4qcepfPKlA=='; media-src 'self' https: data: https://mastodon.notsorandom.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.notsorandom.com; connect-src 'self' data: blob: https://mastodon.notsorandom.com https://s3.us-east-1.amazonaws.com wss://mastodon.notsorandom.com; script-src 'self' https://mastodon.notsorandom.com; child-src 'self' blob: https://mastodon.notsorandom.com; worker-src 'self' blob: https://mastodon.notsorandom.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:57 GMT
+Etag: W/"8a66d8d85aced870f36f40c967bdb039"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.017968Z
+X-Request-Id: 14d96fe0-5913-4a20-b931-3bff388f74dd
+X-Runtime: 0.028696
+X-Xss-Protection: 0
+
+163
+["octodon.social","misc.name","botsin.space","writing.exchange","mastodon.gamedev.place","lethargic.talkative.fish","journa.host","bv.umbrellix.org","mastodon.social","chaos.social","vis.social","mspsocial.net","kolektiva.social","pixie.town","tech.lgbt","icosahedron.website","mastodon.online","mastodon.sdf.org","fedi.underscore.world","oldbytes.space"]
+0
+

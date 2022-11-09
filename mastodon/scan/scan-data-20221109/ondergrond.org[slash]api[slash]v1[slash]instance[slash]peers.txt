@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ondergrond.org; img-src 'self' https: data: blob: https://ondergrond.org; style-src 'self' https://ondergrond.org 'nonce-2Tsl408RI1btcTAqZgh1mg=='; media-src 'self' https: data: https://ondergrond.org; frame-src 'self' https:; manifest-src 'self' https://ondergrond.org; connect-src 'self' data: blob: https://ondergrond.org https://ondergrond.org https://streaming.ondergrond.org; script-src 'self' https://ondergrond.org; child-src 'self' blob: https://ondergrond.org; worker-src 'self' blob: https://ondergrond.org
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:22 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.836367Z
+X-Request-Id: 8e10d937-41cc-4b26-b32e-b49caa867636
+X-Runtime: 0.006044
+X-Xss-Protection: 1; mode=block
+
+0
+

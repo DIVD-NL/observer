@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 222
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:58:14 GMT
+Location: http://auth.cybershaman.at/lmerror/502
+Server: Apache
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://auth.cybershaman.at/lmerror/502">here</a>.</p>
+</body></html>

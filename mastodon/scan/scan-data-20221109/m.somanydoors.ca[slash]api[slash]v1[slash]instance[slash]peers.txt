@@ -1,0 +1,124 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cf-Chl-Bypass: 1
+Cf-Ray: 767779916ee4b9b9-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:10:22 GMT
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6hEDLJKey9QL8K80VNn9%2BffVocRpYXLC%2BrfZEh0xX0t1yjAHNGGPTa6maPDExpxUvdGX%2BGUZuXWVtkZTbGNVWj2RteqeZ32jdFFfcin2OB9pUYUL155K00Kaf6y%2FVo7iYtVi"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+1f21
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            m.somanydoors.ca
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=767779916ee4b9b9')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            m.somanydoors.ca needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/api/v1/instance/peers?__cf_chl_f_tk=KsoPpq7WbuRuUVhuEeXG_0OfsFLmtlXW_xxqJLQVbV0-1668006622-0-gaNycGzNBpE" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="6WlCM__wb0T7lOFXs.WGi8wQS4Fj030pBgEuZumvb7Q-1668006622-0-AamqRCuX_WqASGrjR069uqWlo1kDWv95GJGLaR9I7CbXN1RC5WmFPcGNo474dS7xbCE4cNSuEJkAGnYZaS00z1gfUscaDnb9W5BSeSvB78-uACG_GwP711Ktl19kS1jLboBZxPjvexgTHZ8TaPjhErOndQoSzv7SaqOWGQ2c3SJu82TCs84pGAkac2hf3Zc9-x8hMuSEIo8psAitxwlChsMID-ROaYYDObmUElN-fmheNXhJwAJV8LQxiUmiQGqttIBXGgpy-G-y8r_d1uhypyXtS3D739kYSZx5pbF99SHibe0g0XLvOX1ZpNPZ91HKKDIN4LVrsT5x7J-72pd-seEAmbcq9pgdXdoiapd24O1jhLtYw2asoK4G5g74GUuXETk1z3uiYbEDCRUoeDdBuZRptzyMM5Fx7_svW3EzTn06TETEbIN4huheybpkHA5Yu5dSrwuPjkMiRiF-hT_6qSPnwNK49vzLe3s8d6UBvjjw53Wu7sFBhVniCUID_MgatEUEyEVELVLjGLJf2Wu97xMtXWSghz0mGpdQZHbiltzr1To4ZT5OG-mLOgrB5f1nkxiAyBolq288NmT_-JtJ7LhXLhT-bhoXTBkvpyQ6ZPS5msi7c-sbFNVY_CXFFzbnisPGnx5W9_42aZc2p7StAvQzkGeBbXMrEegbQ5XwsTJv_c_jRiTuhJea7f7a-yWRwA">
+            <input type="hidden" name="r" value="a.qGlwgejRLX03V9OYTez.CnbbiLsiNeoz790m9ldlk-1668006622-0-Aa8SaaZwa5GJa5uNy+jH5k4IKJIS3/LtnlBaJQWUQypaRRr6uzgrMqyAaOMY4Oe7DM74rLosiGcJRCSSTBadGn4ioVXPxD5ddhMdVFCxaz07Wzg2sw+X+ljUrB7vWXvNLfFRTfZ/xO3kKrk7dlfxTTfHn/0jZcpeZZJezEQ8QBO0wgk5FDMd5IsjSYlwKnSLsST5TUszphJxX1+tMosK10C0edGLZ2n/nt8BWPjoKVWz3ZIm4DT8ytaFINHLFcoWMcy9BRA2tlX6D94UPyF3zp4MtRTRAOfjzNdOq3vVgfAG1WHpVZzizBYXuvGrmlTMuxlU92SST6zj72KZmTwrC1ucdG9CZVWrVh1o+WlBZkur22SnPyw3j0mileeD/Z9zxC4V/ICk9AopSI0rcyRzqzzjM49ymxuWHAlrN8GFE7ziJQOgglcGNkz5d7RoM8n/hJDPA2h2waFje8gcqKhQggE9W3pG4ROyv2yVyNHVqcq0g0EIy9ZhMuNa23k9Jb3XVxyJ50WxtHHnftEe2CWfZKMZaabI1y8hzYqvD8Zc38vo8Wne7wsvUPFVmCdEzCFuBPUXTkR2iI7de/Cecep96rJNeU8luMdsPeys8gVBOOr5JGbbhbZ1hDhzM4Y6cUtSPrgyrw9smn4kvIgCBehwg95IM0Xohk9KBPaT9NO3D6FlkN8kYK1hr4tUMNT2i7tBfrq+oPdglhbJKEFHWMpIdrAcj9+1LFND07saHc9ACqFlFc+FNoRnWn53gatMcnrduK8LGXDT/sbDjp5adnU6KOuMbAXDP+mUKGcdm/BG09S8j8RrQ7vCcDxeniAXbQWkO5bODGnQHu7DJQEh7YTr9J7pIa5EGRrG7e2CYkm6gvYqPdOLaxygv+xW3UtpR2wfXA8qa9dbK4ZjJC2cc4DDPxQ5QEI7VbyV1tJ+nfB8zaMmBacCBP7+cIwzNGsNPokmhS36S4NwY6fuviI6ykbDoXASKQ86Cj0kj8kZSKxR+bIdk88ZLjHk0vh05Dlf3ABbyfNDF6EGOL3uBE9K9ZYk8btKIde6Z231EesaqtaGA7iDj59PmMg5sAJAEcHdnXzB00JkGWA+U3oFhCE2+aEi0fA3HLEyLQ+oBIz2t/Bss1K1sqivwRzRFY4LBylvSdrjsP/D3009x57QQ5i9NFFcq3y0YWlRVxzjGNqNqxI5w0D2aveBMHhVdYSNWRgWQBaP6udMCge5ZVh5foaPJcEq9IpA5iTYgjOzM/7b/ifNztrt8w0A10KsB+WAXm+VoEzvhoQRemX840yYmt14RxoYf5grzdjq5PNcwVwDW8UP/JcqHL6+DIZxplYiRMldh5Ijb4/DkZboLpqUX+jcnq84AaR/zCMtwb143lz5O8VClgzER83zhM7TCLAAm9wiQ1HRdyNDwPjHwZnGdjMWU2rVo+TH3fWFB+olN7luo4ImXZpBstXeGNK1iaPGu7FqyE3c7+7Xb3pB5UH+ajf8Eou2BrpbFYFL9iSGd5n8hmvJJpVp8fuAbMoXU4cqBKeFV0YfnbKpKkn2esvIkOF792imqn6kOjzji1kRBN3+M3brD8LIIj50YuGJq/5ocnJCKyJOTiWVSY30qd+2ubT5gznzon8=">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '77325',
+            cRay: '767779916ee4b9b9',
+            cHash: 'fb2e88bfb1543f3',
+            cUPMDTk: "\/api\/v1\/instance\/peers?__cf_chl_tk=KsoPpq7WbuRuUVhuEeXG_0OfsFLmtlXW_xxqJLQVbV0-1668006622-0-gaNycGzNBpE",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9tLnNvbWFueWRvb3JzLmNhL2FwaS92MS9pbnN0YW5jZS9wZWVycw==',
+                ra: 'TW96aWxsYS81LjAgKFgxMTsgVTsgTGludXggeDg2XzY0OyBlbi1VUzsgcnY6MS45LjEuNSkgR2Vja28vMjAwOTExMDcgRmlyZWZveC8zLjUuNQ==',
+                rm: 'R0VU',
+                d: 'N5JZan+FYs0mNQlcFOiPkbLOMZ2IP8BkE3c/3HW2HfHfXHfSXaLh7b2dj8NZUfeR8Bvtb6ciKOc+egeJ7meHCY35yyhp2ROsSKhGwpVhUd5azVuuJwhQKl+JNnDcVtaC2nmEFDDf6wwTIxcpE88UUCqy3yZMnEdcRasyhpz1B4MjDwn89/qoXIYxsSd/hEJsOl5AUyrvRvJvYBt3GSxdEbGTp7V6qZotUfWhlLKdoG1Ql3deIqNKJqiCaDveMcGFOvcBloF/8u8dxDh3QYjNiX5OVZ0XoqrxLGUA3FDHUhNDajuB8QXVVcWk/kcJ+Yib6I+9qX4hjtrDG2Vq1+OOG0Z9S2wZZMfTtTJD64uV+7LgrEiarLWVk+8YSNHPCYPCyLjplWX4N/B/YXylgsi7jVEAOyV9X0T4PZkFjR1fPrYNh91cRGR2u+TcQbVu23rs/ko27s6lJr2t5tyFy/T3RYQArhMrh9tC8m9Cw8TLbnIMlzPf+pBL2ZlBrYNvzvva5WYc7TuqneVW+o6trZR01WEAR0V/37ErCM+5SHBSGBYB6X39geryAOeobpQEDSV0euGSHTlvhWpUeYwNP+Czcna/iAwxHt4l2xHbFnwkoukA7njDGUarXqhwW2tASSft',
+                t: 'MTY2ODAwNjYyMi45NjAwMDA=',
+                m: 'AI0gwN5apOpocaiN+kGsoIzMeayp2zXeNNauYGeSfVI=',
+                i1: 'UWsNT33VBoISnpo+Hu52Xg==',
+                i2: 'PEXvqUuf6qJESSiLm1SOKA==',
+                zh: '0Yze9MANIZ0hyZnShpdwDT7Fdn66ppJJ5arrr6Ytszo=',
+                uh: '2YhjS55qHCVpRmOWRmSbSeyUQaMd4FECtIPL6IX0FrU=',
+                hh: 'KK/6z0iQXzdxHr7MG7CDQAEQMvSt9RW9IYB1yKRwJG4=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=767779916ee4b9b9');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=767779916ee4b9b9';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/api\/v1\/instance\/peers?__cf_chl_rt_tk=KsoPpq7WbuRuUVhuEeXG_0OfsFLmtlXW_xxqJLQVbV0-1668006622-0-gaNycGzNBpE" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>767779916ee4b9b9</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
+
+0
+

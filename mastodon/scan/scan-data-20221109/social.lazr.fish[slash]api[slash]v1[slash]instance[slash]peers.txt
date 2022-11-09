@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.lazr.fish; img-src 'self' https: data: blob: https://social.lazr.fish; style-src 'self' https://social.lazr.fish 'nonce-ujNnzuwa4hw6IbWqemtk8A=='; media-src 'self' https: data: https://social.lazr.fish; frame-src 'self' https:; manifest-src 'self' https://social.lazr.fish; connect-src 'self' data: blob: https://social.lazr.fish https://cdn.masto.host wss://social.lazr.fish; script-src 'self' https://social.lazr.fish; child-src 'self' blob: https://social.lazr.fish; worker-src 'self' blob: https://social.lazr.fish
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:51 GMT
+Etag: W/"14fda8e47285a0be2d83bd075f713707"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.634237Z
+X-Request-Id: 35ac91cd-33fa-4d57-b3bd-eb0ad7d87f38
+X-Runtime: 0.008830
+X-Xss-Protection: 0
+
+a4
+["bildung.social","dysfunctional.social","hessen.social","mastodon.lol","c.im","troet.cafe","climatejustice.social","sueden.social","mastodon.social","ruhr.social"]
+0
+

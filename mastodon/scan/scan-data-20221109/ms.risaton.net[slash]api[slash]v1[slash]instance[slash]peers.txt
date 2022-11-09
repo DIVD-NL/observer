@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ms.risaton.net; img-src 'self' https: data: blob: https://ms.risaton.net; style-src 'self' https://ms.risaton.net 'nonce-lLHupjom3CMjXIvL3EtbGw=='; media-src 'self' https: data: https://ms.risaton.net; frame-src 'self' https:; manifest-src 'self' https://ms.risaton.net; connect-src 'self' data: blob: https://ms.risaton.net https://ms.risaton.net wss://ms.risaton.net; script-src 'self' https://ms.risaton.net; child-src 'self' blob: https://ms.risaton.net; worker-src 'self' blob: https://ms.risaton.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:20 GMT
+Etag: W/"bc295592b99ed63e01feac99c2d93474"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.569261Z
+X-Request-Id: 69b4713c-ae7b-4034-969c-77b5953a4752
+X-Runtime: 0.005391
+X-Xss-Protection: 0
+
+62c
+["misskey.zerozaski.tech","friendica.vrije-mens.org","best-friends.chat","misskey.xianon.net","friendica.utzer.de","kr.akirin.xyz","umaskey.net","uma.milkey.homes","mzn-potatochips.me","pleroma.ryusei.dev","honi.stesan.dev","mk.shrimpia.network","yakumo.foundation","machida.yokohama","misskey.sda1.net","ypolis.net","machikadon.online","blessedgeeks.com","gp.tsukimi.club","misskey.m544.net","miss.nem.one","fedisnap.com","pixelfed.tokyo","mstdn.maud.io","pleroma.noellabo.jp","misskey.nauzome.com","taruntarun.net","hello.2heng.xin","mk2.toyoko.in","milkey.homes","gaku-tab-kill.com","waha.work","four-nine.club","mewl.me","atsuchan.page","pleroma.atsuchan.page","gleasonator.com","mi.cbrx.io","mk.mozc-plasma.tech","p1.a9z.dev","mstdn.fujii-yuji.net","toot.yukimochi.jp","heislandmine.work","mstdn.y-zu.org","cover.pm","vocalodon.net","matitodon.com","rumia.tk","sushi.ski","mstdn-bike.net","msk.ilnk.info","epitaph.noize.guru","mstdn.poyo.me","meisskey.one","misskey.goochiegoo.net","mstdn.nere9.help","lesbian.energy","misskey.dev","mstdn.chitose.org","minohdon.jp","gyutte.site","iyasaretai.pw","itabashi.0j0.jp","nightly.fedibird.com","misskey.mydns.jp","misskey-exp.cyberrex.jp","misskey.cloud","oransns.com","mi.growthers.dev","groundpolis.app","honi.club","f.freinetz.ch","mk.shc.kanagawa.jp","chillout.chat","kokt.club","misskey.cf","gaku-tab-love.com","misskey.io","kiritan.work","homoo.social","pawoo.net","odakyu.app","lp.f5.si","mk.yopo.work","mstdn.hitoxu.com","fedibird.com","labo.wovs.tk","submarin.online","romca.tk","mstdn.jp","mstdn.beer","misskey.boon.chat"]
+0
+

@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://hackers.town; font-src 'self' https://hackers.town; img-src 'self' data: blob: https://hackers.town; style-src 'self' https://hackers.town 'nonce-nwsSECEEKGEGagnvI5iYPg=='; media-src 'self' data: https://hackers.town; frame-src 'self' https:; child-src 'self' blob: https://hackers.town; worker-src 'self' blob: https://hackers.town; connect-src 'self' blob: data: wss://hackers.town https://hackers.town; manifest-src 'self' https://hackers.town
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:07:31 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.387628Z
+X-Request-Id: 1eecdc46-a8ac-499d-901a-5b867dc2edc2
+X-Runtime: 0.034405
+X-Xss-Protection: 0
+
+0
+

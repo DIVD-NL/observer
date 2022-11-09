@@ -1,0 +1,33 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 950
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:04:06 GMT
+Etag: "608a9c74-3b6"
+Server: nginx
+
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>このページは正しくありません
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1,viewport-fit=cover' name='viewport'>
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/common-6632dedd.css" />
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/default-cc84295f.chunk.css" />
+<script src="/packs/js/common-7f4b86b8c8a535ad29a8.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-439d9d307e72c7aa1c18.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>もうしわけありませんが、なにかが間違っています。
+</h1>
+</div>
+</div>
+</body>
+</html>

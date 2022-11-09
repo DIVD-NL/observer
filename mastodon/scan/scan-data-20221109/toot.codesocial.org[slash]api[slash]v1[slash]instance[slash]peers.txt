@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.codesocial.org; img-src 'self' https: data: blob: https://toot.codesocial.org; style-src 'self' https://toot.codesocial.org 'nonce-sAwlfVssLchFiYJxgP0sBA=='; media-src 'self' https: data: https://toot.codesocial.org; frame-src 'self' https:; manifest-src 'self' https://toot.codesocial.org; connect-src 'self' data: blob: https://toot.codesocial.org https://toot.codesocial.org wss://toot.codesocial.org; script-src 'self' https://toot.codesocial.org; child-src 'self' blob: https://toot.codesocial.org; worker-src 'self' blob: https://toot.codesocial.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:56 GMT
+Etag: W/"d449f987d2367295c8753f6c5f624ca3"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.751246Z
+X-Request-Id: ca74f282-c2c0-4fd3-a91b-c242a76f1a2d
+X-Runtime: 0.013890
+X-Xss-Protection: 0
+
+7f
+["pl.valkyrie.world","social.handholding.io","peertube.public.cat","mastodon.ethibox.fr","toot.chalec.org","pleroma.breizh.pm"]
+0
+

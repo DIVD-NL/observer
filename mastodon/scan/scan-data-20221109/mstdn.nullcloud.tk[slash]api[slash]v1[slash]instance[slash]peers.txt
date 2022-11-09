@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.nullcloud.tk; img-src 'self' https: data: blob: https://mstdn.nullcloud.tk; style-src 'self' https://mstdn.nullcloud.tk 'nonce-PbekGlqRMh8c0o3SRyq9Gw=='; media-src 'self' https: data: https://mstdn.nullcloud.tk; frame-src 'self' https:; manifest-src 'self' https://mstdn.nullcloud.tk; connect-src 'self' data: blob: https://mstdn.nullcloud.tk https://files.example.com wss://mstdn.nullcloud.tk; script-src 'self' https://mstdn.nullcloud.tk; child-src 'self' blob: https://mstdn.nullcloud.tk; worker-src 'self' blob: https://mstdn.nullcloud.tk
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:44 GMT
+Server: nginx
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.170743Z
+X-Request-Id: 42502911-091e-4f6e-9ec0-845b4c36f6f6
+X-Runtime: 0.022148
+X-Xss-Protection: 1; mode=block
+
+0
+

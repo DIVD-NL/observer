@@ -1,0 +1,44 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:10:09 GMT
+Server: Apache/2.4.54 (Debian)
+Upgrade: h2,h2c
+
+50b
+
+<html><head><title>Confixx</title>
+
+                <meta content="text/html; charset=iso-8859-1" http-equiv="content-type">
+         <style type="text/css">
+body {
+    height: 100%;
+    background-color: #F9F8F8;
+    margin: 0px;
+    padding:0px;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #000000;}
+h2 { color: #5e77b2; margin: 0 0 5px 0; font-size: 14px; font-weight: bold;border-bottom:1px solid #cccccc;padding-bottom:5px;font-family: Tahoma, Arial, Helvetica, sans-serif;}
+
+div#centered { border: 0; width: 500px; margin:40px auto; color: black; padding:10px;border:2px solid #b1c5de; text-align:right;background: url(http://proteus.info.at/box.jpg) #ffffff no-repeat;overflow:hidden;}
+.aligncenter {text-align:center;}
+#content {width:320px;text-align:left;float:right;}
+form {white-space: nowrap; margin-bottom:2em; margin-top: 2em;}
+small {text-align:right; display: block; font-size: x-small;}
+        </style>
+</head>
+<BODY>
+        <div class="aligncenter">
+                <div id="centered">
+        <div id="content"><br /><br /><br /><br />
+<p><h2>lu.net.eu</h2>Die Domain &quot;lu.net.eu&quot; ist nicht über https verfügbar.</p>
+<br /><br /><br /><br />
+        </div></div></div>
+    </body>
+</html>
+
+0
+

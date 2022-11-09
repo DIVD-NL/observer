@@ -1,0 +1,67 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:11 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=15768000; includeSubdomains; preload
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 943
+X-Ratelimit-Reset: 1668007219
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>Sozial*ismus.net - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						Sozial*ismus.net
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.2 git-c31f219</span>
+				</a>
+			</div>
+			 
+				<div id="contact">
+					Contact: <a href="https://sozial.ismus.net/@hausrecht" class="nounderline">hausrecht</a><br>
+				</div>
+			
+			 
+				<div id="email">
+					Email: <a href="mailto:admin@ismus.net" class="nounderline">admin@ismus.net</a><br>
+				</div>
+			
+		</footer>
+	</div>
+	
+</body>
+</html>

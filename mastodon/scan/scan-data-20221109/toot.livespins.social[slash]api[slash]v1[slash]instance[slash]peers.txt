@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677890e4a79b9b7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.livespins.social; img-src 'self' https: data: blob: https://toot.livespins.social; style-src 'self' https://toot.livespins.social 'nonce-f2F18q/J9QEdlCVfwmTLHw=='; media-src 'self' https: data: https://toot.livespins.social; frame-src 'self' https:; manifest-src 'self' https://toot.livespins.social; connect-src 'self' data: blob: https://toot.livespins.social https://toot.livespins.social wss://toot.livespins.social; script-src 'self' https://toot.livespins.social; child-src 'self' blob: https://toot.livespins.social; worker-src 'self' blob: https://toot.livespins.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:57 GMT
+Etag: W/"ad20a959c768b6ba6f281871edd91606"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yo%2B0yjS7IRaCGQO352oJen%2BF0sZM9Tq68UpgndzA7P4sKOGIBWvYmn0Ozgav5xbJQUzPq%2BGSkqx8uoLtNZiAwTVh5LdRq%2FPLvOhrOjpHgD%2F%2B2%2B7aH3URYCEH8nV99bnvMsOOB6B2AtA%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.364308Z
+X-Request-Id: ed6a4e85506e855a5729b8eac69bc651
+X-Runtime: 0.005573
+X-Xss-Protection: 0
+
+ab4
+["noc.social","kith.kitchen","floss.social","chinwag.org","bigthinking.social","libretooth.gr","indieweb.social","mastodon.jordanwages.com","ubiqueros.com","federated.press","mastodon.espinha.net","toot.fedilab.app","bildung.social","techhub.social","mstdn.science","social.linux.pizza","androiddev.social","livellosegreto.it","vis.social","squeet.me","mamot.fr","assortedflotsam.com","literatur.social","retr0.id","mstdn.media","ravenation.club","666.glitchwit.ch","aspiechattr.me","edi.social","bearologics.social","mastodon.skaggsfamily.us","universeodon.com","federate.social","dapchat.online","jawns.club","macaw.social","m.rakyll.org","podcastindex.social","m6n.io","freeradical.zone","ioc.exchange","simonwillison.net","hci.social","tane.codes","social.dytrych.cloud","mastodon.me.uk","toot.thoughtworks.com","mastodon.gamedev.place","mas.ggr.me","social.kyiv.dcomm.net.ua","social.coop","mast.ttk.is","social.lol","mastodontech.de","starbase80.wtf","dice.camp","mastodon.technology","blacktwitter.io","firmware.network","xmflsct.com","toot.community","fedibird.com","chaos.social","appdot.net","mastodon.retr0.party","social.network.europa.eu","social.weho.st","pouet.chapril.org","m.trisweb.com","video.lemediatv.fr","gs.leftic.club","mstdn.fr","spacey.space","todon.nl","mastodon.nl","beta.mstdn.cf","fediscience.org","mastodon.zaclys.com","sfba.social","home.social","tooter.social","peertube.stream","boitam.eu","botsin.space","forum.friendi.ca","framapiaf.org","podlibre.social","social.tchncs.de","hackers.town","dan.mastohon.com","c.im","econtwitter.net","suedi.club","codatory.com","robot.rodeo","aus.social","mastodon.org.uk","sunny.garden","pixelfed.social","emily.news","oslo.town","tooting.ch","gensokyo.social","halibut.com","masthead.social","journa.host","altelectron.org.uk","mastodon.world","fediverse.cyou","calico.social","fediverse.sideras.net","mastodon.exitmusic.world","eeeeeeeee.eu","mastodon.xyz","writing.exchange","twit.social","front-end.social","tech.lgbt","mastodon.art","toot.cat","social.deadsuperhero.com","saturation.social","awscommunity.social","dreamin.online","kcmo.social","zef.social","mstdn.social","ruby.social","mastodon.ie","krump.li","wandering.shop","dotnet.social","bitcoinhackers.org","m.dhosted.io","beach.city","mastodon.cloud","mastodon.lol","sigmoid.social","chirp.enworld.org","click.ba.it","meh.social","mathstodon.xyz","hulvr.com","scholar.social","tty0.social","data-folks.masto.host","infosec.exchange","hachyderm.io","puddle.town","toot.io","mastodon.online","hessen.social","cztwitter.cz","mas.to","mastodon.coffee","iosdev.space","epistolary.org","mastodon.sdf.org","mastodonapp.uk","fosstodon.org","masto.ai","mastodon.nz","mastodon.social","s.kevin.cl","oldbytes.space"]
+0
+

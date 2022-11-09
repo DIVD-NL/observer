@@ -1,0 +1,24 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://family.foxworthy.name; img-src 'self' https: data: blob: https://family.foxworthy.name; style-src 'self' https://family.foxworthy.name 'nonce-RwwrrfMUYTJVdCubfdD40A=='; media-src 'self' https: data: https://family.foxworthy.name; frame-src 'self' https:; manifest-src 'self' https://family.foxworthy.name; connect-src 'self' data: blob: https://family.foxworthy.name https://cdn.masto.host wss://family.foxworthy.name; script-src 'self' https://family.foxworthy.name; child-src 'self' blob: https://family.foxworthy.name; worker-src 'self' blob: https://family.foxworthy.name
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:51 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.042348Z
+X-Request-Id: 8e236e23-4a50-40cc-8e66-9d15d671af76
+X-Runtime: 0.004222
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.roon.fr; img-src 'self' https: data: blob: https://mastodon.roon.fr; style-src 'self' https://mastodon.roon.fr 'nonce-CpRJ887zxiUU9PqBUCTtyw=='; media-src 'self' https: data: https://mastodon.roon.fr; frame-src 'self' https:; manifest-src 'self' https://mastodon.roon.fr; connect-src 'self' data: blob: https://mastodon.roon.fr https://mastodon.roon.fr wss://mastodon.roon.fr; script-src 'self' https://mastodon.roon.fr; child-src 'self' blob: https://mastodon.roon.fr; worker-src 'self' blob: https://mastodon.roon.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:12 GMT
+Etag: W/"cfea733db650652a9579270c37d4d675"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.351322Z
+X-Request-Id: b4df194d-ae68-4598-b8c6-789cabfa57b3
+X-Runtime: 0.014304
+X-Xss-Protection: 0
+
+a37
+["oldbytes.space","birdsite.slashdev.space","pewtix.com","mastodon.online","plush.city","mastodon.nz","masto.ai","mastodon.lertsenem.com","la-verite-vaincra.com","mastodon.art","queer.party","piaille.fr","tooting.ch","mastodon.lol","beta.birdsite.live","h4.io","mastodon.jfmblinux.fr","video.lemediatv.fr","fuckmu.sk","potate.space","weirder.earth","cloudisland.nz","gs.leftic.club","mastodon.xyz","social.makerforums.info","mastodon.gougere.fr","im-in.space","mathstodon.xyz","cathode.church","tacobelllabs.net","pony.social","hellsite.site","det.social","tooter.social","peertube.stream","tilde.zone","recsys.social","forum.friendi.ca","mastodon.cloud","skinnyver.se","mastodon.tetaneutral.net","mastodon.balamb.fr","hackers.town","robot.rodeo","podlibre.social","gamedevalliance.fr","snabelen.no","pouet.space","quitter.pl","codatory.com","indieweb.social","jaesharp.social","scholar.social","toot.aquilenet.fr","ioc.exchange","dummy.cafe","mastodon.ie","chat.noelle.codes","skeptikon.fr","diode.zone","mastodon.green","unstable.systems","treehouse.systems","mastodon.sdf.org","mastodon.top","pouet.chapril.org","rabbit.tel","hostux.social","mastodon.underworld.fr","mastodon.uno","retr0.id","rivals.space","akko.disqordia.space","cybre.space","merveilles.town","dice.camp","pleroma.skeptikon.fr","toot.portes-imaginaire.org","xn--xxa.computer","ludosphere.fr","biscuit.town","xn--lofll-1sat.is","mxtthxw.art","icosahedron.website","terra.incognita.net","bildung.social","boitam.eu","sciences.social","a.gup.pe","mastodon.zaclys.com","linuxrocks.online","econtwitter.net","digipres.club","bagarrosphere.fr","code4lib.social","cornichon.me","photo.lapineige.fr","lipn.info","social.lacoloc.cafe","aus.social","fediscience.org","oc.todon.fr","todon.nl","pouet.mickaelgillot.xyz","instigation.fr","raru.re","sfba.social","mastodontech.de","tutut.delire.party","mastodon.org.uk","meow.social","mastodon.matrix.org","freeradical.zone","social.tcit.fr","fosstodon.org","maly.io","scicomm.xyz","fedi.lynnesbian.space","todon.eu","diaspodon.fr","mastodon.opportunis.me","en.osm.town","vis.social","mapstodon.space","noc.social","nixos.paris","eldritch.cafe","mastodon.tedomum.net","pipou.academy","imaginair.es","chaos.social","social.tchncs.de","framapiaf.org","glitterkitten.co.uk","mamot.fr","social.apreslanu.it","mastodon.design","tech.lgbt","social.zdx.fr","mastodon.iriseden.eu","mstdn.social","indiepocalypse.social","nerdculture.de","amicale.net","mas.to","mastodon.gamedev.place","infosec.exchange","hachyderm.io","sudo.cat","aleph.land","mstdn.fr","pouet.april.org","write.as","sciences.re","mastodon.social"]
+0
+

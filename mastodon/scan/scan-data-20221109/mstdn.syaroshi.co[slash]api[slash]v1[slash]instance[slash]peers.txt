@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 250
+Age: 0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:52 GMT
+Server: nginx/1.20.1
+X-Powered-By: PHP/7.1.33
+
+
+<h1>Oops!</h1>
+<h2>This is awkward.</h2>
+<p>We encountered a 404 Not Found error.</p>
+<p>
+    You are looking for something that doesn't exist or may have moved. Check out one of the links on this page
+    or head back to <a href="/">Home</a>.
+</p>

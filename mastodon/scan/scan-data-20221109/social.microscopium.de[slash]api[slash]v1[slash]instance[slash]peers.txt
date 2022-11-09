@@ -1,0 +1,14 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:19:03 GMT
+Server: Apache/2.4.38 (Debian)
+Strict-Transport-Security: max-age=15768000
+Upgrade: h2c,h2
+X-Account-Management-Status: none
+
+68
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}
+0
+

@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 27
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:22:18 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=af1c2e757480cb83806f173d9436092a; path=/; HttpOnly
+X-Account-Management-Status: none
+
+{"error":"not implemented"}

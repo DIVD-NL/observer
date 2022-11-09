@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 361
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:58:19 GMT
+Location: http://www.friendica.laboccadellupo.it/api/v1/instance/peers
+Server: nginx/1.18.0
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.friendica.laboccadellupo.it/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache/2.4.54 (Debian) Server at friendica.laboccadellupo.it Port 80</address>
+</body></html>

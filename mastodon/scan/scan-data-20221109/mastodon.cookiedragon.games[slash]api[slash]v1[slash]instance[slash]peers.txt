@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.cookiedragon.games; img-src 'self' https: data: blob: https://mastodon.cookiedragon.games; style-src 'self' https://mastodon.cookiedragon.games 'nonce-3RktHXW95wzKqoi9zJ24cw=='; media-src 'self' https: data: https://mastodon.cookiedragon.games; frame-src 'self' https:; manifest-src 'self' https://mastodon.cookiedragon.games; connect-src 'self' data: blob: https://mastodon.cookiedragon.games https://mastodon.cookiedragon.games wss://mastodon.cookiedragon.games; script-src 'self' https://mastodon.cookiedragon.games; child-src 'self' blob: https://mastodon.cookiedragon.games; worker-src 'self' blob: https://mastodon.cookiedragon.games
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:06 GMT
+Etag: W/"e3f9115b65a59de33745b7552b75f141"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.932424Z
+X-Request-Id: 8e445d34-f0e8-4565-8519-70f15cce9ba0
+X-Runtime: 0.012931
+X-Xss-Protection: 0
+
+280
+["dragon.style","mastodon.gamedev.place","demon.social","stop.voring.me","mk.vulpes.one","monads.online","the.others.social","chitter.xyz","sleeping.town","cathode.church","tech.lgbt","gamemaking.social","tenforward.social","mastodon.art","ilyamikcoder.com","tilde.zone","hellsite.site","mastodon.social","nitecrew.rip","queer.party","wildwood.town","plush.city","vulpine.club","social.linux.pizza","fluff.land","eeeeeeeee.eu","pleroma.1d4.us","cybre.space","nonexiste.net","commiespace.duckdns.org","scalie.business","meow.social","masto.asonix.dog","yiff.life","uncorking.me","sunbeam.city","port87.social","weirder.earth","floss.social"]
+0
+

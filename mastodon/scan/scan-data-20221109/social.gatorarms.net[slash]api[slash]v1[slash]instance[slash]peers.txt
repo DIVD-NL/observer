@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.gatorarms.net; img-src 'self' https: data: blob: https://social.gatorarms.net; style-src 'self' https://social.gatorarms.net 'nonce-IcYgJMoYSPa7RTGsXRFn6g=='; media-src 'self' https: data: https://social.gatorarms.net; frame-src 'self' https:; manifest-src 'self' https://social.gatorarms.net; connect-src 'self' data: blob: https://social.gatorarms.net https://social.gatorarms.net wss://social.gatorarms.net; script-src 'self' https://social.gatorarms.net; child-src 'self' blob: https://social.gatorarms.net; worker-src 'self' blob: https://social.gatorarms.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:27 GMT
+Etag: W/"a2e85c7e976e4a40fe3b98e08f4091b1"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.741034Z
+X-Request-Id: 7b3d9ee7-8d8c-49e5-a401-c11d6b33d8a4
+X-Runtime: 0.010043
+X-Xss-Protection: 0
+
+25e
+["mastodon.content.town","mastodon.nu","pleroma.1d4.us","dosgame.club","commiespace.duckdns.org","bitcoinhackers.org","mastodon.se","mastodon.gamedev.place","eeeeeeeee.eu","mastodon.art","awscommunity.social","uncorking.me","overheard.social","qoto.org","sfba.social","ieji.de","mstdn.social","mastodon.world","social.coop","octodon.social","aus.social","mastodon.scot","mastodon.uno","mas.to","hackers.town","deepspace.social","chaos.social","strangeparts.com","masto.ai","mastodon.social","port87.social","peoplemaking.games","mastodon.ie","mastodon.online","mastodon.eus","mastodon.nl","mastodon.green"]
+0
+

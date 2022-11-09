@@ -1,0 +1,68 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767772d6bdad2e08-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:05:47 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=USJUI65O0TbfejQkJgXO2QGqMZOclvoNFekRVvo1969hyU6eoktGTplhP00mnsWHJoNIsu8JX2yxxRUMdEwyD1R1pAfXN4lRfo2tzhdhSVQjyiNC7wXkJlX6EhSzQCLBtg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 999
+X-Ratelimit-Reset: 1668006647
+
+a60
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex, nofollow">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>gts.parkany.sk - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						gts.parkany.sk
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.1-SNAPSHOT git-f3fc040</span>
+				</a>
+			</div>
+			
+			
+		</footer>
+	</div>
+	
+<script>(function(){var js = "window['__CF$cv$params']={r:'767772d6bdad2e08',m:'frOjGQhpLKjHISBDJp.bKPyZRZf.CydCB7Zqtj1eOyE-1668006347-0-AX3IBN/+kUkEwzyFfdrWeeMLp/EyoxoeVd4JkW17xnHC4XIXfnxsgOmyza7FwrL5s4ygY088ZpuDvEUfKVFczxtSNbm4fiexYlwWknXQZ7HbADOGjxTY3WIOlbQ41gb7k7CWHB1pQJ7fJrOwFbVgJ3k=',s:[0x897ea74025,0x3034dfbf5d],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+0
+

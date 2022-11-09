@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:22 GMT
+Etag: W/"9f059b3f382104c85ad55a29e0d1df01"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: STALE
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-09-27T08:30:00.092336Z
+X-Request-Id: 6a5c458f-1282-4d5b-924f-7c18d7a595fd
+X-Runtime: 0.009198
+X-Xss-Protection: 0
+
+83
+["mastodon.online","mastodon.social","pl.cum.makeup","twitter.1d4.us","pleroma.1d4.us","nonexiste.net","barritar.uc-netcorsoft.de"]
+0
+

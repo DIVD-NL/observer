@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.jepsen.io; img-src 'self' https: data: blob: https://mastodon.jepsen.io; style-src 'self' https://mastodon.jepsen.io 'nonce-4yU3L4rA7T6GsFXS2xwm/A=='; media-src 'self' https: data: https://mastodon.jepsen.io; frame-src 'self' https:; manifest-src 'self' https://mastodon.jepsen.io; connect-src 'self' data: blob: https://mastodon.jepsen.io https://cdn.masto.host wss://mastodon.jepsen.io; script-src 'self' https://mastodon.jepsen.io; child-src 'self' blob: https://mastodon.jepsen.io; worker-src 'self' blob: https://mastodon.jepsen.io
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:31 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.749458Z
+X-Request-Id: 85b029ab-3413-4df5-820d-d0bcd75e51f3
+X-Runtime: 0.007088
+X-Xss-Protection: 0
+
+0
+

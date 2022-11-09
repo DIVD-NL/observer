@@ -1,0 +1,55 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 15:21:37 GMT
+Server: Caddy
+Server: Mojolicious (Perl)
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Not Found</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="alternate" type="application/rss+xml" title="UNIX.dog Announcements" href="https://unix.dog/announcements.rss" >
+
+    <meta property="og:title" content="Not Found">
+    <meta property="og:type" content="webpage">
+    <meta property="og:url" content="https://unix.dog/">
+    <meta property="og:description" content="UNIX for barkers :3">
+    <meta property="og:image" content="https://unix.dog/favicon.ico">
+    <meta property="description" content="UNIX for barkers :3">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+  <header>
+    <div id="header-content">
+      <img src="/favicon.ico" width="32" height="32" alt="UNIX.dog"/>
+      <h1><a href="/">UNIX.dog</a></h1>
+      <div id="nav">
+        <a href="/users">Users</a>
+        <a href="/account">Account</a>
+        <a href="/announcements">Announcements</a>
+        <a href="/services">Services</a>
+        <a href="/register">Register</a>
+      </div>
+    </div>
+  </header>
+  <main>
+    <h1>Page Not Found</h1>
+<p>Looks like you better start sniffing elsewhere.</p>
+
+  </main>
+  <footer>
+    <span class="copyleft">&copy;</span> <a href="https://git.unix.dog/UNIX.dog/website">Copyleft</a> UNIX.dog, 2022. All pages licensed under CC BY-NC-SA 4.0.
+    <br>
+    Please follow <a href="/rules">all rules</a> while using these services.
+  </footer>
+  </body>
+
+</html>

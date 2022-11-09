@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://tuiter.me; img-src 'self' https: data: blob: https://tuiter.me; style-src 'self' https://tuiter.me 'nonce-1MgIn/VMQfU3eJoaetKyiQ=='; media-src 'self' https: data: https://tuiter.me; frame-src 'self' https:; manifest-src 'self' https://tuiter.me; connect-src 'self' data: blob: https://tuiter.me https://s3-us-east-2.amazonaws.com wss://tuiter.me; script-src 'self' https://tuiter.me; child-src 'self' blob: https://tuiter.me; worker-src 'self' blob: https://tuiter.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:27 GMT
+Etag: W/"334e6f251268a7a71939fafbd96f1227"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.422782Z
+X-Request-Id: c650b8ee-faf9-4a74-8ec1-fe863d1c8ff9
+X-Runtime: 0.011011
+X-Xss-Protection: 0
+
+a46
+["vulpine.club","m.rakyll.org","sfba.social","toot.berlin","saturation.social","mastodon.technology","chirp.enworld.org","firmware.network","troet.cafe","click.ba.it","dreamin.online","sigmoid.social","mastodon.uno","appdot.net","techhub.social","mastodon-belgium.be","meh.social","noc.social","mathstodon.xyz","social.coop","hulvr.com","bigthinking.social","econtwitter.net","suedi.club","bluestar.social","codatory.com","pixelfed.social","emily.news","ubiqueros.com","oslo.town","ursal.zone","federated.press","sauropods.win","sms.cybik.moe","toot.livespins.social","mastodon.exitmusic.world","blahaj.social","inuh.net","m.trisweb.com","spacey.space","home.social","linuxrocks.online","social.tinygo.org","medium.place","vis.social","retr0.id","mastodon.retr0.party","mstdn.social","mastodon.xyz","fediscience.org","tabletop.social","masthead.social","friend.camp","social.spacebear.ee","social.dytrych.cloud","writing.exchange","ravenation.club","666.glitchwit.ch","dan.mastohon.com","front-end.social","robot.rodeo","social.tchncs.de","functional.cafe","ioc.exchange","social.deadsuperhero.com","queer.af","mastodon.art","hci.social","mast.ttk.is","rewrite.in.rs","zef.social","toot.conrad.cafe","mastodon.green","aus.social","toot.yosh.is","kcmo.social","social.pixels.pizza","dice.camp","toot.community","meow.social","mahood.dev","berlin.social","60228.dev","framapiaf.org","socks.masto.host","pony.social","queer.party","androiddev.social","social.bitwig.community","kith.kitchen","social.linux.pizza","elephant.crime.group","furry.engineer","mastodon.ie","mastodon.nu","tilde.zone","sdf.land","mastodon.org.uk","treehouse.systems","mastodontech.de","ruby.social","social.veraciousnetwork.com","jawns.club","mastodon.j15r.com","krump.li","mastodont.cat","simonwillison.net","rag.pub","wandering.shop","dotnet.social","bitcoinhackers.org","mastodon.world","toot.cat","twit.social","beach.city","metasocial.com","merveilles.town","dair-community.social","mastodon.cloud","qoto.org","mastodon.nz","awscommunity.social","mastodon.lol","infosec.exchange","oldbytes.space","data-folks.masto.host","borahae.love","mastodon.gamedev.place","macaw.social","tty0.social","floss.social","puddle.town","toot.io","hessen.social","cztwitter.cz","mastodon.coffee","mas.to","iosdev.space","epistolary.org","tech.lgbt","mastodon.sdf.org","mastodon.online","mastodonapp.uk","octodon.social","scholar.social","hachyderm.io","masto.ai","potate.space","fosstodon.org","todon.eu","mamot.fr","mk.shatteredpalisa.de","chaos.social","lizards.live","sleepy.cafe","hackers.town","netzsphaere.xyz","outerheaven.club","weirder.earth","mastodon.social"]
+0
+

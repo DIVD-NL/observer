@@ -1,0 +1,366 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Age: 0
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767778b81a76b9c0-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:48 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qBewTrQwhOdZbF7iRJNEOIyly%2FGNiKbhLp6AAWK%2FDqhJVqGCfC%2BjijYtXRe4O2nmKoK3SS9QNed1bDK2Dmuhf6EMogHPSdc1CXRm70qn%2BhPkrg4cmb5Yer00hl4%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Fastly-Request-Id: c9106083a46ae670ea19615793bd681d7920c76c
+X-Github-Request-Id: 24E2:4281:D846FD:DEB302:636BC2BC
+X-Proxy-Cache: MISS
+X-Served-By: cache-cdg20747-CDG
+X-Timer: S1668006588.214347,VS0,VE119
+
+2ffe
+<!doctype html>
+
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<title>Page Not Found - kcore.org</title>
+<meta name="description" content="Page not found. Your pixels are in another canvas.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="kcore.org">
+<meta property="og:title" content="Page Not Found">
+<meta property="og:url" content="https://kcore.org/404.html">
+<meta property="og:description" content="Page not found. Your pixels are in another canvas.">
+<meta name="twitter:site" content="@jdeluyck">
+<meta name="twitter:title" content="Page Not Found">
+<meta name="twitter:description" content="Page not found. Your pixels are in another canvas.">
+<meta name="twitter:url" content="https://kcore.org/404.html">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://kcore.org/404.html">
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "kcore.org",
+      "url": "https://kcore.org/"
+    
+  }
+</script>
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="kcore.org Feed">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="f026ee48bd12758268dc8bf0-text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<link rel="stylesheet" href="/assets/css/main.css">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="f026ee48bd12758268dc8bf0-|49"></script><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+<script src="/assets/js/cookie-handler.js" type="f026ee48bd12758268dc8bf0-text/javascript"></script>
+
+
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+</head>
+<body class="layout--single wide">
+<nav class="skip-links">
+<ul>
+<li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+<li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+<li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+</ul>
+</nav>
+<div class="masthead">
+<div class="masthead__inner-wrap">
+<div class="masthead__menu">
+<nav id="site-nav" class="greedy-nav">
+<a class="site-title" href="/">
+kcore.org
+<span class="site-subtitle">... everything&#039;s just a memory dump away ...</span>
+</a>
+<ul class="visible-links"><li class="masthead__menu-item">
+<a href="/posts/">Posts</a>
+</li><li class="masthead__menu-item">
+<a href="/categories/">Categories</a>
+</li><li class="masthead__menu-item">
+<a href="/tags/">Tags</a>
+</li><li class="masthead__menu-item">
+<a href="/about-me/">About Me</a>
+</li><li class="masthead__menu-item">
+<a href="/about-kcore-org/">About kcore.org</a>
+</li></ul>
+<button class="search__toggle" type="button">
+<span class="visually-hidden">Toggle search</span>
+<i class="fas fa-search"></i>
+</button>
+<button class="greedy-nav__toggle hidden" type="button">
+<span class="visually-hidden">Toggle menu</span>
+<div class="navicon"></div>
+</button>
+<ul class="hidden-links hidden"></ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="initial-content">
+<div id="main" role="main">
+<div class="sidebar sticky">
+<nav class="nav__list">
+<input id="ac-toc" name="accordion-toc" type="checkbox" />
+<label for="ac-toc">Toggle Menu</label>
+<ul class="nav__items">
+<li>
+<span class="nav__sub-title">Categories</span>
+<ul>
+<li>
+<a href="/categories/#linux-unix">
+Linux / Unix <span class="taxonomy__count">(68)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#personal">
+Personal <span class="taxonomy__count">(65)</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/categories/#apple-mac-os">
+Apple / Mac OS <span class="taxonomy__count">(35)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#music">
+Music <span class="taxonomy__count">(30)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#android">
+Android <span class="taxonomy__count">(26)</span>
+</a>
+</li>
+
+<li>
+<a href="/categories/#phptelemeter">
+phptelemeter <span class="taxonomy__count">(24)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#random">
+Random <span class="taxonomy__count">(23)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#comics">
+Comics <span class="taxonomy__count">(20)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#networking">
+Networking <span class="taxonomy__count">(20)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#travels">
+Travels <span class="taxonomy__count">(18)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#cars">
+Cars <span class="taxonomy__count">(15)</span>
+ </a>
+</li>
+<li>
+<a href="/categories/#rants">
+Rants <span class="taxonomy__count">(14)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#politics">
+Politics <span class="taxonomy__count">(11)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#work">
+Work <span class="taxonomy__count">(11)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#symbian">
+Symbian <span class="taxonomy__count">(10)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#cavies">
+Cavies <span class="taxonomy__count">(8)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#windows">
+Windows <span class="taxonomy__count">(8)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#palm">
+Palm <span class="taxonomy__count">(6)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#wordpress">
+WordPress <span class="taxonomy__count">(6)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#virtualisation">
+Virtualisation <span class="taxonomy__count">(5)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#home-automation">
+Home Automation <span class="taxonomy__count">(5)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#videos">
+Videos <span class="taxonomy__count">(4)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#chamberchoir-furiant">
+Chamberchoir Furiant <span class="taxonomy__count">(3)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#flemish-caledonian-pipes-amp-drums">
+Flemish Caledonian Pipes &amp; Drums <span class="taxonomy__count">(2)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#coding">
+Coding <span class="taxonomy__count">(2)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#chromecast">
+Chromecast <span class="taxonomy__count">(1)</span>
+</a>
+</li>
+<li>
+<a href="/categories/#pebble">
+Pebble <span class="taxonomy__count">(1)</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+<meta itemprop="headline" content="Page Not Found">
+<meta itemprop="description" content="Page not found. Your pixels are in another canvas.">
+<div class="page__inner-wrap">
+<header>
+<h1 id="page-title" class="page__title p-name" itemprop="headline">
+<a href="https://kcore.org/404.html" class="u-url" itemprop="url">Page Not Found
+</a>
+</h1>
+</header>
+<section class="page__content e-content" itemprop="text">
+<p>Sorry, but the page you were trying to view does not exist — perhaps you can try searching for it below.</p>
+<script type="f026ee48bd12758268dc8bf0-text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'https://kcore.org'
+</script>
+<script src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js" type="f026ee48bd12758268dc8bf0-text/javascript">
+</script>
+</section>
+<footer class="page__meta">
+</footer>
+</div>
+</article>
+</div>
+</div>
+<div class="search-content">
+<div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="if (!window.__cfRLUnblockHandlers) return false; return event.key != 'Enter';" role="search" data-cf-modified-f026ee48bd12758268dc8bf0-="">
+<label class="sr-only" for="search">
+Enter your search term...
+</label>
+<input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+</form>
+<div id="results" class="results"></div></div>
+</div>
+<div id="footer" class="page__footer">
+<footer>
+
+
+<div class="page__footer-follow">
+<ul class="social-icons">
+<li><a href="https://fedi.kcore.org/@jan" rel="me"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+<li><a href="https://twitter.com/jdeluyck" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+<li><a href="https://facebook.com/jan.deluyck" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+<li><a href="https://github.com/jdeluyck" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+<li><a href="https://linkedin.com/in/jandeluyck" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+<li><a href="/cdn-cgi/l/email-protection#64440e050a240f070b16014a0b1603" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+<li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+</ul>
+</div>
+<div class="page__footer-copyright">&copy; 2022 kcore.org. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/js/main.min.js" type="f026ee48bd12758268dc8bf0-text/javascript"></script>
+<script src="/assets/js/lunr/lunr.min.js" type="f026ee48bd12758268dc8bf0-text/javascript"></script>
+<script src="/assets/js/lunr/lunr-store.js" type="f026ee48bd12758268dc8bf0-text/javascript"></script>
+<script src="/assets/js/lunr/lunr-en.js" type="f026ee48bd12758268dc8bf0-text/javascript"></script>
+
+<script type="f026ee48bd12758268dc8bf0-text/javascript">
+if(readCookie('cookie-notice-dismissed')=='true') {
+  loader = document.createElement('script');
+  loader.src = "https://www.googletagmanager.com/gtag/js?id=UA-305756-1";
+  document.getElementsByTagName('head')[0].appendChild(loader);
+
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-305756-1"></script> -->
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-305756-1', { 'anonymize_ip': true});
+}
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="f026ee48bd12758268dc8bf0-|49" defer=""></script></body>
+<style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We would like to use third party cookies to improve the functionality of this website.</span><a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a><a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
+<script type="f026ee48bd12758268dc8bf0-text/javascript">
+    if(readCookie('cookie-notice-dismissed')!='true') {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-dismissed','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
+</html>
+
+0
+

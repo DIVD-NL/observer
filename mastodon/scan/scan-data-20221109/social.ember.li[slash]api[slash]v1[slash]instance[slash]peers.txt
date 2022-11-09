@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.ember.li wss://social.ember.li;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:17 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXznjylX1ivA2cAEELh
+X-Xss-Protection: 1; mode=block
+
+1e2
+["octodon.social","cuties.social","toot.kif.rocks","cybre.space","fem.social","fosstodon.org","loma.ml","mond-basis.eu","kawen.space","social.dorf-post.de","cuddly.space","soc.nhg.moe","pleroma.chaoswit.ch","snug.moe","pleroma.pbb.lc","pleroma.ctu.cx","benzo.fans","miniwa.moe","fedi.home.ctu.cx","cathode.church","social.raccoon.college","nerdica.net","anonsys.net","social.pixie.town","tech.lgbt","mastodon.social","social.haj.gf","glitch.gray.cafe","eeeeeeeee.eu","chaos.social"]
+0
+

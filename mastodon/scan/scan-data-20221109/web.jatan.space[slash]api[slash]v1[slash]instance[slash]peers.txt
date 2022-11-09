@@ -1,0 +1,288 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:17 GMT
+Server: Caddy
+Server: nginx/1.14.2
+
+16b3
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  
+  <title>404 Page not found - (A)social being</title>
+
+  
+  
+  <meta name="description" content="Follow &lt;a href=&#34;https://micro.blog/uncertainquark&#34;&gt;@uncertainquark on Micro.blog&lt;/a&gt;." />
+  <meta name="author" content="Jatan" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://web.jatan.space/app.min.css" />
+  <link rel="stylesheet" href="/custom.css?1667970745">
+
+  
+
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/theme.png" />
+
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/twitter.svg" />
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/github.svg" />
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/instagram.svg" />
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/microdotblog.svg" />
+  
+  <link rel="preload" as="image" href="https://web.jatan.space/buymeacoffee.svg" />
+  
+
+  
+  
+  <link rel="shortcut icon" href="https://micro.blog/uncertainquark/favicon.png" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://micro.blog/uncertainquark/favicon.png" type="image/x-icon" />
+
+  
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="404 Page not found" />
+<meta property="og:description" content="Follow &lt;a href=&#34;https://micro.blog/uncertainquark&#34;&gt;@uncertainquark on Micro.blog&lt;/a&gt;." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://web.jatan.space/404.html" />
+
+
+  
+  <meta itemprop="name" content="404 Page not found">
+<meta itemprop="description" content="Follow &lt;a href=&#34;https://micro.blog/uncertainquark&#34;&gt;@uncertainquark on Micro.blog&lt;/a&gt;.">
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="404 Page not found"/>
+<meta name="twitter:description" content="Follow &lt;a href=&#34;https://micro.blog/uncertainquark&#34;&gt;@uncertainquark on Micro.blog&lt;/a&gt;."/>
+
+  
+  
+  
+  <link rel="me" href="https://micro.blog/uncertainquark" />
+
+	<link rel="me" href="https://twitter.com/uncertainquark" />
+
+
+	<link rel="me" href="https://github.com/uncertainquark" />
+
+
+	<link rel="me" href="https://instagram.com/uncertainquark" />
+
+
+<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+<link rel="micropub" href="https://micro.blog/micropub" />
+<link rel="microsub" href="https://micro.blog/microsub" />
+<link rel="webmention" href="https://micro.blog/webmention" />
+<link rel="subscribe" href="https://micro.blog/users/follow" />
+
+
+	<link rel="stylesheet" href="/css/photos-grid.css" />
+
+
+	<meta name="robots" content="noindex">
+
+
+	
+
+
+	
+
+
+	<meta name="google-site-verification" content="DzVFYrUoREIcaVMFy5iJuP-fL3y3sdodS85uduMF_a8" />
+
+<meta name="follow.it-verification-code" content="lAsfydkYAEbZyWsQLGFf"/>
+
+
+	
+
+
+	<meta property="og:title" content="404 Page not found" />
+
+
+<meta property="og:description" content="Follow &lt;a href=&#34;https://micro.blog/uncertainquark&#34;&gt;@uncertainquark on Micro.blog&lt;/a&gt;." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://web.jatan.space/404.html" />
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+	<meta name="twitter:card" content="summary" />
+
+  <meta name="twitter:title" content="404 Page not found" />
+
+<meta name="twitter:description" content="" />
+
+
+
+
+</head>
+
+
+  <body class="not-ready" data-menu="true">
+    <header class="header">
+  
+  <p class="logo">
+    <a class="site-name" href="https://web.jatan.space/">(A)social being</a><a class="btn-dark"></a>
+  </p>
+  
+
+  <script>
+    let bodyClx = document.body.classList;
+    let btnDark = document.querySelector('.btn-dark');
+    let sysDark = window.matchMedia('(prefers-color-scheme: dark)');
+    let darkVal = localStorage.getItem('dark');
+
+    let setDark = (isDark) => {
+      bodyClx[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark ? 'yes' : 'no');
+    };
+
+    setDark(darkVal ? darkVal === 'yes' : sysDark.matches);
+    requestAnimationFrame(() => bodyClx.remove('not-ready'));
+
+    btnDark.addEventListener('click', () => setDark(!bodyClx.contains('dark')));
+    sysDark.addEventListener('change', (event) => setDark(event.matches));
+  </script>
+
+  
+  
+  
+  <nav class="menu">
+    
+			
+				<a class="" role="presentation" href="/about/">👋</a>
+			
+		
+			
+				<a class="" role="presentation" href="/photos/">🌄</a>
+			
+		
+			
+				<a class="" role="presentation" href="/archive/">🗃️</a>
+			
+		
+			
+				<a class="" role="presentation" href="/surprise/">⁉️</a>
+			
+		
+			
+				<a class="" role="presentation" href="/follow/">Follow →</a>
+			
+		
+  </nav>
+  
+
+  
+  <nav class="social">
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+  </nav>
+  
+</header>
+
+
+    <main class="main">
+<h1 class="title-404">404</h1>
+</main>
+
+    <footer class="footer">
+  <p>&copy; 2022 <a href="https://web.jatan.space/">Jatan</a></p>
+  <p>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</p>
+  <p>Hosted by <a href="https://micro.blog/" rel="noopener" target="_blank">Micro.blog</a>
+  </p>
+</footer>
+
+    <center>
+
+<p><a href="https://xn--sr8hvo.ws/🔰🍡💺/previous" target="_blank">←</a> <a href="https://xn--sr8hvo.ws" target="_blank"> ? </a> <a href="https://xn--sr8hvo.ws/🔰🍡💺/next" target="_blank">→</a></p><br/>
+
+<br/>
+</center>
+
+    
+  </body>
+</html>
+
+0
+

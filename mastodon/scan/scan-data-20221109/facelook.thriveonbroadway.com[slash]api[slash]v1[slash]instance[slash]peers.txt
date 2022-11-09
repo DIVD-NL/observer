@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: LiteSpeed
+Set-Cookie: PHPSESSID=317fb0d25e8d3fcc04e6c641b7fd8d31; path=/; HttpOnly; secure
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+
+{"error":"not implemented","request":"api\/v1\/instance\/peers"}

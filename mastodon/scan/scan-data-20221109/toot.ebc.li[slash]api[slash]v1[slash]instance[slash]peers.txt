@@ -1,0 +1,59 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:20:56 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 09 Nov 2022 15:20:56 GMT
+Pragma: no-cache
+Server: NginX
+Vary: Accept-Encoding
+X-Cache-Miss-From: parking-59d65bb5c9-lxtxs
+X-Powered-By: PHP/8.1.9
+
+3f2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>ebc.li</title>
+    <meta content="NOW" name="expires">
+    <meta content="index, follow, all" name="GOOGLEBOT">
+    <meta content="index, follow, all" name="robots">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <style>
+        html, body, #partner, iframe
+        {
+            height:         100%;
+            width:          100%;
+            margin:         0;
+            padding:        0;
+            border:         0;
+            outline:        0;
+            font-size:      100%;
+            vertical-align: baseline;
+            background:     transparent;
+        }
+
+        body
+        {
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+
+<div id="partner"></div>
+
+<script>
+    document.write(
+        '<script src="\/\/sedoparking.com/frmpark/ebc.li/sedopark/park.js">' +
+        '<\/script>'
+    );
+</script>
+</body>
+</html>
+
+0
+

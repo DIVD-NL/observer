@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.jadin.me; img-src 'self' https: data: blob: https://mastodon.jadin.me; style-src 'self' https://mastodon.jadin.me 'nonce-oW3qUncrhztBk7lbdC7+rg=='; media-src 'self' https: data: https://mastodon.jadin.me; frame-src 'self' https:; manifest-src 'self' https://mastodon.jadin.me; connect-src 'self' data: blob: https://mastodon.jadin.me https://mastodon.jadin.me wss://mastodon.jadin.me; script-src 'self' https://mastodon.jadin.me; child-src 'self' blob: https://mastodon.jadin.me; worker-src 'self' blob: https://mastodon.jadin.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:35 GMT
+Etag: W/"c3ea52ff5c01b58030f31d272882f9c0"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.949535Z
+X-Request-Id: 9d3859e4-c5df-47b7-8395-f017c4094050
+X-Runtime: 0.005812
+X-Xss-Protection: 0
+
+34e
+["relay.101010.pl","relay.c.im","qoto.org","todon.eu","bunbers.org","relay.chocoflan.net","sfba.social","relay.fedibird.com","bitcoinhackers.org","mastodon.online","mastodon.uy","mastodon.art","gameliberty.club","poa.st","mstdn.ca","fosstodon.org","social.jmueller.eu","toot.community","respublicae.eu","fedi.technodro.me","t2.thotsofa304.club","social.hispabot.freemyip.com","g0v.social","writing.exchange","mastodon.iriseden.eu","social.artemai.art","mstdn.social","mstdn.io","federated.press","pixel.artemai.art","mastodon.chotto.moe","social.linux.pizza","misskey.io","mastodon.social","a.gup.pe","aus.social","freeradical.zone","msk.ilnk.info","climatejustice.social","phpc.social","mastodonapp.uk","wandering.shop","mastodon.green","journa.host","fedimovie.com","mastodon.holeyfox.co","c.im","berserker.town","mastouille.fr","fedibird.com"]
+0
+

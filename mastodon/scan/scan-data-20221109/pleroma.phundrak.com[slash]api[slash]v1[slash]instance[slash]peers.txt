@@ -1,0 +1,22 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767782155b5f83c7-BRU
+Date: Wed, 09 Nov 2022 15:16:11 GMT
+Host: pleroma.phundrak.com
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Phundrak-Blocked-Terms: Free Tibet 西藏独立 专政 dictatorship 坦克人 tank man
+Phundrak-Header: So, lookin’ at my HTTP headers, are ya?
+Referrer-Policy: no-referrer-when-downgrade
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NRE7slZPY3PCTD2BQUdzyXWELa1W5cVF75SosYvbZTINRRP6RkubFmns%2FpRj50hX2UdruAB26SZLqEk4jrBMNqYVyTCD8X1xmZisaSFKcYgQ1dOd88Q1Ac12vKPrrWk5cKzHk6N3Mw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Forwarded-For: 162.158.233.42
+X-Forwarded-Port: 
+X-Forwarded-Proto: https
+X-Frame-Options: SAMEORIGIN
+X-Real-Ip: 162.158.233.42:40420
+Content-Length: 0
+

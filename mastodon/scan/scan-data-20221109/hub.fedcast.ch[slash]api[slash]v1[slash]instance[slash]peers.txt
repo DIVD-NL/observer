@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:09:20 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: PHPSESSID=vpee8pjii24i95137juavik621; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+1b
+{"error":"not implemented"}
+0
+

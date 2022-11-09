@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: blob: ; object-src https: data: 'unsafe-inline'; style-src https: data: 'unsafe-inline' ; script-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:44 GMT
+Etag: W/"9f506c87483f4ea149724c30bbba1f66"
+Permissions-Policy: interest-cohort=()
+Server: Ecko
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.772994Z
+X-Request-Id: ebdcec15-f185-4d44-96da-52d2b87225f0
+X-Runtime: 0.006929
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+789
+["social.outsourcedmath.com","friendica.verya.pe","friendica.eskimo.com","mastodon.social","scholar.social","twit.social","mstdn.social","climatejustice.global","a.rathersafe.space","friendica.hubup.pro","loma.ml","friendica.xyz","friendica.ironbug.org","red.niboe.info","post.lurk.org","nerdica.net","social.trom.tf","z.macgirvin.com","social.weho.st","friendica.ellih.eu","social.cool110.xyz","social.tromdienste.de","social.yl.ms","f.freinetz.ch","toot.matereal.eu","pleroma.soykaf.com","lain.com","outerheaven.club","quitter.pl","anonsys.net","remnant.social","friendica.bachgau.social","emacsen.net","koyu.space","writing.exchange","social.city-of-glass.net","libranet.de","etiketi.de","c4.social","mastodon.matrix.org","friend.camp","social.spacebear.ee","wake.st","sitedethib.com","fedibird.com","octodon.social","mastodontech.de","bonn.social","snabelen.no","skorpil.cz","dragonscave.space","rollenspiel.group","hackers.town","fedi.ml","friendica.valvin.fr","lewactwo.pl","pixey.org","lunai.re","pixelfed.social","rage.love","write.as","wyrms.de","mamot.fr","social.alesan.io","tech.lgbt","mastodon.technology","mk.vulpes.one","f.praschnig.com","fosstodon.org","masto.donte.com.br","friendica.vrije-mens.org","fediverse.one","writeout.ink","metalhead.club","a.gup.pe","slime.global","tilde.zone","social.network.europa.eu","social.finkhaeuser.de","chaos.social","floss.social","merveilles.town","eldritch.cafe","climatejustice.social","friendica.mnementh.co.uk","social.coop","livellosegreto.it","poliverso.org","feddit.it","pirati.ca","friendica.utzer.de","friendica.opensocial.space","friendica.oldkid.digital","mathstodon.xyz","x0f.org","social.gitea.io","norden.social","icosahedron.website","dair-community.social","weirder.earth","toot.cat","mastodon.art","mastodon.xyz","social.tchncs.de","social.lol","mas.to","mastodon.world","journa.host","dan.mastohon.com","mastodon.cloud","mastodon.online","indieweb.social"]
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://www.mastoworld.com; img-src 'self' https: data: blob: https://www.mastoworld.com; style-src 'self' https://www.mastoworld.com 'nonce-ICvMdgBY70U5icag1Y/dzg=='; media-src 'self' https: data: https://www.mastoworld.com; frame-src 'self' https:; manifest-src 'self' https://www.mastoworld.com; connect-src 'self' data: blob: https://www.mastoworld.com https://www.mastoworld.com wss://www.mastoworld.com; script-src 'self' https://www.mastoworld.com; child-src 'self' blob: https://www.mastoworld.com; worker-src 'self' blob: https://www.mastoworld.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:40 GMT
+Etag: W/"e3bd9628f7de74b304ae3af7ddabd8c0"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T17:55:00.453404Z
+X-Request-Id: 22d802ae-bac1-4cfa-8ff3-41fb1bd35688
+X-Runtime: 0.006321
+X-Xss-Protection: 0
+
+b9e
+["toot.thoughtworks.com","masthead.social","masto.pt","universeodon.com","a.sc","mastodon.art","sauropods.win","toot.cat","peoplemaking.games","dair-community.social","notacult.social","social.tchncs.de","mastodon.fraize.com","elekk.xyz","kolektiva.social","toot.wales","retro.social","mimimi01.masto.host","scholar.social","kitzmiller.social","social.dsmouse.net","legal.social","twtr.plus","glasgow.social","mastodon.lol","beta.mstdn.cf","norrebro.space","dan.mastohon.com","tane.codes","photog.social","chaos.social","c.im","hachyderm.io","botsin.space","ecoevo.social","newsie.social","lawfedi.blue","mastodon.nu","russiaukraine.world","frontrange.co","bne.social","hact.org","librem.one","social.anoxinon.de","nerdica.net","wandering.shop","social.linux.pizza","mastodon.la","friend.camp","social.spacebear.ee","mastodon.arch-linux.cz","tooting.ch","thicc.horse","rag.pub","ravenation.club","mstdn.science","gensokyo.social","mstdn.ca","mstdn.jp","toot.berlin","sueden.social","socialserver.science","someone.elses.computer","mastodon.neilzone.co.uk","social.cryptography.dog","appdot.net","econtwitter.net","counter.social","gaminginthe.cloud","tech.lgbt","sigmoid.social","foo.sx","technodon.social","qoto.org","drosophila.social","ieji.de","hci.social","meow.social","freeradical.zone","rollenspiel.social","sciences.re","writing.exchange","troet.cafe","mastodon.express","fedi.gvisoc.com","mastodon.nz","mas.to","sonomu.club","starbase80.wtf","xtaldave.net","postpandemicparty.org","bloor.tw","masto.ai","xoxo.zone","mastodon.social","mastodon.beer","mstdn.social","mastodon.world","mastodon.scot","genomic.social","mastodon.gamedev.place","a.gup.pe","mstdn.io","climatejustice.social","sfba.social","meshed.cloud","campaign.openworlds.info","m.sclo.nl","odenwald.social","rebelsocial.media","oslo.town","zirk.us","mastodon.me.uk","tty0.social","suedi.club","supervolcano.angryshark.eu","mastodon.green","mastodon.nl","nerdculture.de","mastodonapp.uk","todon.eu","awscommunity.social","triangletoot.party","mastodon.ch-le.fr","raccoon.place","hax.technology","schelling.pt","vulpine.club","dresden.network","mamot.fr","onewilshire.la","seocommunity.social","akademienl.social","indieweb.social","layer8.space","mastodon.ie","hulvr.com","social.coop","purpleforest.social","social.freetalklive.com","social.seattle.wa.us","merveilles.town","law.builders","floss.social","discourse.social","med-mastodon.com","mastodon.sdf.org","mastodon.coffee","dcerberus.com","lor.sh","sciencemastodon.com","queer.party","octodon.social","vis.social","federate.social","mastodon.cloud","twit.social","metalhead.club","mastodon.xyz","scicomm.xyz","fediscience.org","journa.host","social.blogsofwar.com","oliphant.social","digitalcourage.social","noc.social","sunny.garden","willnorris.com","ioc.exchange","kith.kitchen","infosec.exchange","theinternet.social","tenforward.social","aus.social","social.pixels.pizza","toot.community","nixnet.social","mastodon.online","fosstodon.org"]
+0
+

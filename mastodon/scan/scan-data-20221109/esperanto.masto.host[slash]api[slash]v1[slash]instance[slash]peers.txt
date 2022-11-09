@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://esperanto.masto.host; img-src 'self' https: data: blob: https://esperanto.masto.host; style-src 'self' https://esperanto.masto.host 'nonce-W3US4kyL1Fkk0yiaVyoeBA=='; media-src 'self' https: data: https://esperanto.masto.host; frame-src 'self' https:; manifest-src 'self' https://esperanto.masto.host; connect-src 'self' data: blob: https://esperanto.masto.host https://cdn.masto.host wss://esperanto.masto.host; script-src 'self' https://esperanto.masto.host; child-src 'self' blob: https://esperanto.masto.host; worker-src 'self' blob: https://esperanto.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.392388Z
+X-Request-Id: ca55dc30-973a-4ee0-96b7-9fa5e171b31a
+X-Runtime: 0.006455
+X-Xss-Protection: 0
+
+0
+

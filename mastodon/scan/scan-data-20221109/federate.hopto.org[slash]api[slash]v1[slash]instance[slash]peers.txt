@@ -1,0 +1,15 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:56 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=k1uakuq7l37q5ivhdadth0lkan; path=/; secure; HttpOnly; SameSite=None
+
+1b
+{"error":"not implemented"}
+0
+

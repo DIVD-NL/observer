@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.au; img-src 'self' https: data: blob: https://mastodon.au; style-src 'self' https://mastodon.au 'nonce-BD6idVUbbRUIjRPlgcNo4w=='; media-src 'self' https: data: https://mastodon.au; frame-src 'self' https:; manifest-src 'self' https://mastodon.au; connect-src 'self' data: blob: https://mastodon.au https://mastodon.au wss://mastodon.au; script-src 'self' https://mastodon.au 'unsafe-eval'; child-src 'self' blob: https://mastodon.au; worker-src 'self' blob: https://mastodon.au
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:56 GMT
+Etag: W/"47447116891fc96d629af5437cb198e8"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.757385Z
+X-Request-Id: 0a7ed3fe-1b15-4415-a3ed-825fdba6fc33
+X-Runtime: 0.021199
+X-Xss-Protection: 0
+
+595
+["retr0.id","fandom.ink","ioc.exchange","kolektiva.social","metalhead.club","fosstodon.org","mastodon.lol","noc.social","synnet.io","hackers.town","mastodon.sdf.org","techhub.social","masto.ai","ausglam.space","hachyderm.io","socl.bz","floss.social","phpc.social","eldritch.cafe","mstdn.io","social.wxcafe.net","woof.group","velocipederider.com","oliphant.social","notacult.social","aus.social","mastodon.social","botsin.space","mastodon.gamedev.place","octodon.social","social.linux.pizza","xerg.ga","awscommunity.social","fedi.vern.cc","mastodon.art","mastodon.org.uk","chinwag.org","noagendasocial.com","infosec.exchange","tooting.ch","social.michaelbrooks.co.uk","newsie.social","jbstans.social","kith.kitchen","xoxo.zone","mastodon.green","tech.lgbt","pagan.plus","writing.exchange","cloudisland.nz","txs.es","berserker.town","tooot.im","mastodon.scot","astrodon.social","a.gup.pe","tilde.zone","sfba.social","sueden.social","soc.umrath.net","journa.host","hypr.ninja","bantha.tatooine.space","freeradical.zone","glasgow.social","sigmoid.social","mastodon.coffee","indieweb.social","mk.toast.cafe","qoto.org","paquita.masto.host","mindly.social","librem.one","mspsocial.net","ruby.social","mastodon.uno","layer8.space","universeodon.com","toot.community","vis.social","mas.to","mastodon.cloud","chaos.social","eigenmagic.net","bne.social","northeast.one","mastodon.matrix.org","mastodon.online","mstdn.social","home.social"]
+0
+

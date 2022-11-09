@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://front-end.social; img-src 'self' https: data: blob: https://front-end.social; style-src 'self' https://front-end.social 'nonce-MDm5T5KCXbXQMU1qwmbUXg=='; media-src 'self' https: data: https://front-end.social; frame-src 'self' https:; manifest-src 'self' https://front-end.social; connect-src 'self' data: blob: https://front-end.social https://cdn.masto.host wss://front-end.social; script-src 'self' https://front-end.social; child-src 'self' blob: https://front-end.social; worker-src 'self' blob: https://front-end.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:29 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.887848Z
+X-Request-Id: f3a77b68-772a-43e8-893c-c7f5ed2d4764
+X-Runtime: 0.003802
+X-Xss-Protection: 0
+
+0
+

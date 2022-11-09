@@ -1,0 +1,121 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:09:51 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=g3W%2BK0fPJa7KQaNukYM1%2Bd%2F8kCREssNDNBHVFLRgse6Cz5ixLjwioHpQWhwTsr7Y41eXOFZMTXOT5ARFaIeTlv1dCq%2Bt9CSyEeOZoZ68Srfn6sdiwyzv9Occ0br%2BM2Eu; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocqh3soqphaj=32f4b0f9d11ccad2cb8c4876d7fcf9ee; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Upgrade: h2,h2c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="AD+t3369X6SoLZW6A6IZdstzhL+nOLQ2WIm5xNurSX4=:TwrGsxrtbf3Ef9PDTeAoPoZcyoieV+JgAOyMhpPfOh8=">
+		<meta charset="utf-8">
+		<title>
+		kultr Wolke		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#076B00">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=10">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=10">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#076B00">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=10">
+		<link rel="stylesheet" href="/apps/breezedark/css/guest.css?v=ea18930f-10">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-10">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=46c85d58-10">
+<link rel="stylesheet" href="/core/css/guest.css?v=280aadde-10">
+		<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/core/js/dist/main.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/core/js/dist/files_fileinfo.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/core/js/dist/files_client.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/index.php/js/core/merged-template-prepend.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/core/js/backgroundjobs.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/files_sharing/js/dist/main.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/breezedark/js/breezedark.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/epubreader/js/plugin.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/files_videoplayer/js/main.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/apporder/js/apporder.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/files_rightclick/js/script.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/files_rightclick/js/files.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/apps/theming/js/theming.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=" defer src="/core/js/dist/login.js?v=280aadde-10"></script>
+<script nonce="QUQrdDMzNjlYNlNvTFpXNkE2SVpkc3R6aEwrbk9MUTJXSW01eE51clNYND06VHdyR3N4cnRiZjNFZjlQRFRlQW9Qb1pjeW9pZVYrSmdBT3lNaHBQZk9oOD0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","apporder":"/apps/apporder","audioplayer":"/apps/audioplayer","bookmarks":"/apps/bookmarks","breezedark":"/apps/breezedark","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","documentserver_community":"/apps/documentserver_community","epubreader":"/apps/epubreader","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","mail":"/apps/mail","news":"/apps/news","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","onlyoffice":"/apps/onlyoffice","password_policy":"/apps/password_policy","photos":"/apps/photos","printer":"/apps/printer","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","social":"/apps/social","spreed":"/apps/spreed","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668006591;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":2880,"session_keepalive":true,"auto_logout":false,"version":"20.0.14.2","versionstring":"20.0.14","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/20\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10},"filesReader":{"enableEpub":"true","enablePdf":"true","enableCbx":"true"}};
+var _theme={"entity":"kultr Wolke","name":"kultr Wolke","title":"kultr Wolke","baseUrl":"https:\/\/kultr.myeu.cloud\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/20\/go.php?to=PLACEHOLDER","slogan":"","logoClaim":"","shortFooter":"<a href=\"https:\/\/kultr.myeu.cloud\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">kultr Wolke<\/a>","longFooter":"<a href=\"https:\/\/kultr.myeu.cloud\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">kultr Wolke<\/a>","folder":""};
+var extensionParams={"url":"https:\/\/kultr.myeu.cloud\/index.php\/apps\/documentserver_community\/3rdparty\/onlyoffice\/documentserver\/web-apps\/"};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="kultr Wolke"/><meta property="og:description" content=""/><meta property="og:site_name" content="kultr Wolke"/><meta property="og:url" content="https://kultr.myeu.cloud/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://kultr.myeu.cloud/index.php/apps/theming/icon?v=10"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=10"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoyODgwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjAuMC4xNC4yIiwidmVyc2lvbnN0cmluZyI6IjIwLjAuMTQiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6ZmFsc2UsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MCwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQifQ==">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9rdWx0ci5teWV1LmNsb3VkXC9vY3NcL3YyLnBocFwvYXBwc1wvZmlsZXNcL2FwaVwvdjFcL2RpcmVjdEVkaXRpbmciLCJldGFnIjoiNGMxZDA1MDBmNzM3NzM3NDIyZDUwZDZhNmFjYTc5MzEifSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2t1bHRyLm15ZXUuY2xvdWRcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjgsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVNwZWNpYWxDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVVwcGVyTG93ZXJDYXNlIjpmYWxzZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL2t1bHRyLm15ZXUuY2xvdWRcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wva3VsdHIubXlldS5jbG91ZFwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvdmFsaWRhdGUifX0sImZpbGVzX3NoYXJpbmciOnsic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfX0sInNwcmVlZCI6eyJmZWF0dXJlcyI6WyJhdWRpbyIsInZpZGVvIiwiY2hhdC12MiIsImNvbnZlcnNhdGlvbi12MiIsImd1ZXN0LXNpZ25hbGluZyIsImVtcHR5LWdyb3VwLXJvb20iLCJndWVzdC1kaXNwbGF5LW5hbWVzIiwibXVsdGktcm9vbS11c2VycyIsImZhdm9yaXRlcyIsImxhc3Qtcm9vbS1hY3Rpdml0eSIsIm5vLXBpbmciLCJzeXN0ZW0tbWVzc2FnZXMiLCJtZW50aW9uLWZsYWciLCJpbi1jYWxsLWZsYWdzIiwibm90aWZpY2F0aW9uLWxldmVscyIsImludml0ZS1ncm91cHMtYW5kLW1haWxzIiwibG9ja2VkLW9uZS10by1vbmUtcm9vbXMiLCJyZWFkLW9ubHktcm9vbXMiLCJjaGF0LXJlYWQtbWFya2VyIiwid2ViaW5hcnktbG9iYnkiLCJzdGFydC1jYWxsLWZsYWciLCJjaGF0LXJlcGxpZXMiLCJjaXJjbGVzLXN1cHBvcnQiLCJmb3JjZS1tdXRlIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMH0sImNvbnZlcnNhdGlvbnMiOnsiY2FuLWNyZWF0ZSI6ZmFsc2V9fX0sInRoZW1pbmciOnsibmFtZSI6Imt1bHRyIFdvbGtlIiwidXJsIjoiaHR0cHM6XC9cL2t1bHRyLm15ZXUuY2xvdWRcLyIsInNsb2dhbiI6IiIsImNvbG9yIjoiIzA3NkIwMCIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwNzZCMDAiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwNzZCMDAiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDc2QjAwIiwibG9nbyI6Imh0dHBzOlwvXC9rdWx0ci5teWV1LmNsb3VkXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTAiLCJiYWNrZ3JvdW5kIjoiaHR0cHM6XC9cL2t1bHRyLm15ZXUuY2xvdWRcL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2JhY2tncm91bmQ/dj0xMCIsImJhY2tncm91bmQtcGxhaW4iOmZhbHNlLCJiYWNrZ3JvdW5kLWRlZmF1bHQiOmZhbHNlLCJsb2dvaGVhZGVyIjoiaHR0cHM6XC9cL2t1bHRyLm15ZXUuY2xvdWRcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xMCIsImZhdmljb24iOiJodHRwczpcL1wva3VsdHIubXlldS5jbG91ZFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTEwIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjpmYWxzZX19">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoia3VsdHIgV29sa2UiLCJ1cmwiOiJodHRwczpcL1wva3VsdHIubXlldS5jbG91ZFwvIiwic2xvZ2FuIjoiIiwiY29sb3IiOiIjMDc2QjAwIiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiMTAifQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									kultr Wolke								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://kultr.myeu.cloud/" target="_blank" rel="noreferrer noopener" class="entity-name">kultr Wolke</a>			</p>
+		</footer>
+	</body>
+</html>

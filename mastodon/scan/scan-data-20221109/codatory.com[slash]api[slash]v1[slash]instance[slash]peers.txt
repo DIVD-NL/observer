@@ -1,0 +1,61 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, max-age=0, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766ac08d82e44-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:29 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jr6W7Xmq9IfZ0zcofL%2Fav5xSmumXxWiCaEOgav68n2FDRIKfdUXmSCZiHN9T1t4B2CSri50fPtqKpOBo%2FOdNToAKErDlpdrjPisee%2FaS0A%2BpV457ffYQ65c%2FaDe1jw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=2592000; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+ba0
+<!doctype html>
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)| IEMobile |!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>404 — Page not found</title>
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="https://codatory.com/public/ghost.min.css?v=0f0d80157b"/>
+
+  </head>
+  <body>
+    <main role="main" id="main">
+      <div class="gh-app">
+          <div class="gh-viewport">
+              <div class="gh-view">
+                <section class="error-content error-404 js-error-container">
+                  <section class="error-details">
+                    <section class="error-message">
+                      <h1 class="error-code">404</h1>
+                      <h2 class="error-description">Page not found</h2>
+                      <a class="error-link" href="https://codatory.com">Go to the front page →</a>
+                    </section>
+                  </section>
+                </section>
+
+              </div>
+          </div>
+      </div>
+    </main>
+  <script>(function(){var js = "window['__CF$cv$params']={r:'767766ac08d82e44',m:'hjQV9pLMTxePEOPpCcu169khwlifFuju5DrnRGpTAx8-1668005849-0-AT4mBgh5nPQXlrAgo3VQ6gsy/S9/TRIuBsuE+GoALY5pm5MOq/k/uHgXcCYsbwdQUy4wYm/oegGWrfKGA5H6HZWN2nVA5TQ5NON7xL2IIXkGHvBnPOWC+EVun18LtQH5JXKWl0OYEJ7Ij9FE770NCvo=',s:[0xcc870b35ab,0xaac6301143],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+0
+

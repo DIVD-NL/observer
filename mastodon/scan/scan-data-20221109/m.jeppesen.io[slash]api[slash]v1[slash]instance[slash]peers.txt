@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.jeppesen.io; img-src 'self' https: data: blob: https://m.jeppesen.io; style-src 'self' https://m.jeppesen.io 'nonce-rh+C7+2wBeeHvvOgYBk1RQ=='; media-src 'self' https: data: https://m.jeppesen.io; frame-src 'self' https:; manifest-src 'self' https://m.jeppesen.io; connect-src 'self' data: blob: https://m.jeppesen.io https://cdn.masto.host wss://m.jeppesen.io; script-src 'self' https://m.jeppesen.io; child-src 'self' blob: https://m.jeppesen.io; worker-src 'self' blob: https://m.jeppesen.io
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:17 GMT
+Etag: W/"ac2e023e0ebe501ccad5114083e92705"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.021370Z
+X-Request-Id: 3cb49e83-ad4d-4952-b324-b391ac5265bd
+X-Runtime: 0.014131
+X-Xss-Protection: 0
+
+742
+["topspicy.social","retrochat.online","yharnam.singles","tenforward.social","mathstodon.xyz","f.freinetz.ch","noc.social","cybre.space","timetheft.social","gamemaking.social","poly.cybre.city","dosgame.club","mastodon.technology","icosahedron.website","toot.cat","twit.social","ioc.exchange","mstdn.social","mastodon.coffee","allpro.social","masto.ai","hackers.town","deadinsi.de","freesoftwareextremist.com","wetdry.world","aus.social","old.mermaid.town","chinwag.org","floe.earth","mstdn.mx","awscommunity.social","misc.name","cloudisland.nz","persadon.com","journa.host","mastodon.ie","fedi.absturztau.be","verified.mastodonmedia.xyz","social.up.edu.ph","fedi.lynnesbian.space","social.afront.org","toot.io","fosstodon.org","soylent.green","floss.social","mastodon.online","appdot.net","mastodon.social","mastodon.nzoss.nz","hci.social","sciencemastodon.com","social.network.europa.eu","ieji.de","phpc.social","mastodon.lol","mastodon.myfed.space","piaille.fr","eupolicy.social","hachyderm.io","frontrange.co","mastodon.nz","velocipederider.com","c18.masto.host","archaeo.social","laserdisc.party","botsin.space","interfaith.masto.host","scholar.social","mastodon.sandwich.net","toot.party","wandering.shop","weirder.earth","octodon.social","tabletop.social","warhammer.social","social.diva.exchange","social.anoxinon.de","mastodon.world","androiddev.social","suedi.club","mastodon.gamedev.place","mastodonapp.uk","mastodontech.de","masto.technology","dice.camp","writing.exchange","vulpine.club","fandom.ink","fediscience.org","freeradical.zone","climatejustice.social","mastodon.nu","mas.to","glammr.us","toot.fedilab.app","mastodon.art","rage.love","fightforthefuture.org","infosec.exchange","mastodon.cloud","layer8.space","a.gup.pe","mastodon.xyz","wake.st","social.wildeboer.net","social.linux.pizza","hostux.social","indieweb.social","social.coop"]
+0
+

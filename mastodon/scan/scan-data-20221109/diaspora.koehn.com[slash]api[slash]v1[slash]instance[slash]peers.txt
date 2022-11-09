@@ -1,0 +1,46 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'none'; connect-src 'self' embedr.flickr.com geo.query.yahoo.com nominatim.openstreetmap.org api.github.com; font-src 'self'; form-action 'self' platform.twitter.com syndication.twitter.com; frame-ancestors 'self'; frame-src 'self' blob: www.youtube.com w.soundcloud.com twitter.com platform.twitter.com syndication.twitter.com player.vimeo.com www.mixcloud.com www.dailymotion.com media.ccc.de bandcamp.com www.instagram.com; img-src data: blob: *; manifest-src 'self'; media-src https:; script-src 'self' blob: 'unsafe-eval' platform.twitter.com cdn.syndication.twimg.com widgets.flickr.com embedr.flickr.com www.instagram.com 'unsafe-inline'; style-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:38 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: sameorigin
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: c3314f164104a56ad12fc6e8d9383d18
+X-Runtime: 0.009737
+X-Xss-Protection: 1; mode=block
+
+2ea
+<!DOCTYPE html>
+<html>
+<head>
+<title>The page you were looking for doesn't exist (404)
+</title>
+<meta charset='utf-8'>
+<link href='/assets/favicon-158d223c914fb4936d3b14294dbc3f0d4d87ffced0694cc013cca43910ef2324.png' rel='shortcut icon'>
+<link href='/assets/apple-touch-icon-9f7c9cc3923b4817fbb25bfeb0dd5fd34638827fd9c82b5a03f7b68e6e90806f.png' rel='apple-touch-icon'>
+<link rel="stylesheet" media="all" href="/assets/error_pages-1bb0aac3c7dd20e047bc9a32d6bd6495e37707ec28db9945cbdd8a1d97415395.css" />
+
+</head>
+<body class='error-404' id='error_404'>
+<div class='transparent big-number'>
+404
+</div>
+<h3>
+These are not the kittens you're looking for. Move along.
+</h3>
+<p>
+<a href='javascript:history.back()'>
+Go Back?
+</a>
+</p>
+
+</body>
+</html>
+
+0
+

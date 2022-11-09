@@ -1,0 +1,45 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Allow: GET, HEAD, OPTIONS
+Cache-Control: public, max-age=600
+Content-Type: text/html; charset=utf-8
+Referrer-Policy: strict-origin-when-cross-origin
+Server: CodebergPages/3.2.1
+
+<!doctype html>
+<html class="codeberg-design">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>404 Not Found</title>
+
+    <link rel="stylesheet" href="https://design.codeberg.org/design-kit/codeberg.css" />
+    <link href="https://fonts.codeberg.org/dist/inter/Inter%20Web/inter.css" rel="stylesheet" />
+    <link href="https://fonts.codeberg.org/dist/fontawesome5/css/all.min.css" rel="stylesheet" />
+
+    <style>
+        body {
+            margin: 0; padding: 1rem; box-sizing: border-box;
+            width: 100%; min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <i class="fa fa-search text-primary" style="font-size: 96px;"></i>
+    <h1 class="mb-0 text-primary">
+		Page not found!
+    </h1>
+    <h5 class="text-center" style="max-width: 25em;">
+    	Sorry, but this page couldn't be found or is inaccessible (404 Not Found).<br/>
+		We hope this isn't a problem on our end ;) - Make sure to check the <a href="https://docs.codeberg.org/codeberg-pages/troubleshooting/" target="_blank">troubleshooting section in the Docs</a>!
+    </h5>
+    <small class="text-muted">
+        <img src="https://design.codeberg.org/logo-kit/icon.svg" class="align-top">
+        Static pages made easy - <a href="https://codeberg.page">Codeberg Pages</a>
+    </small>
+</body>
+</html>

@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1471
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization, Content-Type, Idempotency-Key
+Access-Control-Allow-Methods: POST, PUT, DELETE, GET, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-RateLimit-Reset, X-RateLimit-Limit, X-RateLimit-Remaining, X-Request-Id
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:44 GMT
+Referrer-Policy: same-origin
+Server: nginx
+Set-Cookie: SSOwAuthRedirect=; Path=/yunohost/sso/; Expires=Thu, 01 Jan 1970 00:00:00 UTC; Secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzsmly6GF5LCsAK9DR
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+["mastodon.sdf.org","pztrn.online","social.outsourcedmath.com","anonsys.net","loma.ml","wiesbaden.social","meld.de","noovi.org","toot.matereal.eu","social.dark-alexandr.net","friendica.utzer.de","octodon.social","friendica.vrije-mens.org","toot.cat","frnd.nanoscopic.de","friendica.xyz","mastodon.social","floss.social","mastodon.xyz","t9.no","mstdn.social","social.broers.me","pirati.ca","nerdica.net","friendica.ironbug.org","hackers.town","dobbs.town","libranet.de","howlsoverelpaso.xyz","deadinsi.de","social.franssen.xyz","toot.cafe","queer.hacktivis.me","fosstodon.org","quitter.pl","social.dhbit.ca","f.haeder.net","honk.codevoid.de","framapiaf.org","social.coop","cmpwn.com","social.v.st","csdisaster.club","qoto.org","friendica.ennimedia.de","noagendasocial.com","social.yl.ms","social.trom.tf","f.freinetz.ch","mastodon.nzoss.nz","friendica.verya.pe","point.community","norrebro.space","xarxa.cloud","friendica.argentwolf.org","dis-le.de","anarchydica.net","soc.h2x.us","mamot.fr","mastodon.radio","f.praschnig.com","social.librem.one","friendica.mnementh.co.uk","cybre.space","friendica.charla.mx","ps.s10y.eu","chaos.social","hostsharing.coop","hentai.baby","rollenspiel.social","fedi.xerz.one","mstdn.io","social.sitedethib.com","gath.io","friendica.eskimo.com","mastodon.matrix.org","friendica.valvin.fr","urbanmind.net","social.brevsprekk.net","mastodon.laurakalbag.com","mastodon.mikegerwitz.com","tiny.tilde.website","toot.aquilenet.fr","erm67.dynu.net"]

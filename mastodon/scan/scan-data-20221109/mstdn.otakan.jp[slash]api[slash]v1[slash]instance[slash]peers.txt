@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 381
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:45 GMT
+Etag: "c7aa9285bcd9d2cc34cebd43a2f8f6d3-ssl"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+X-Nf-Request-Id: 01GHEF8KN686183G4SZC34SZ55
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Otakan">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>404</title>
+  </head>
+  <body>
+      <p>mstdn.otakan.jpは2019年1月20日に終了しました。</p>
+      <hr>
+      <p>mstdn.otakan.jp closed on January 20, 2019.</p>
+  </body>
+</html>

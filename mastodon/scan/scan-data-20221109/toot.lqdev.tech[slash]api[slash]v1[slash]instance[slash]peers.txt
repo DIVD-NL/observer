@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.lqdev.tech; img-src 'self' https: data: blob: https://toot.lqdev.tech; style-src 'self' https://toot.lqdev.tech 'nonce-j2SAnhYbHTaFHk6ZlPAaBA=='; media-src 'self' https: data: https://toot.lqdev.tech; frame-src 'self' https:; manifest-src 'self' https://toot.lqdev.tech; connect-src 'self' data: blob: https://toot.lqdev.tech https://toot.lqdev.tech wss://toot.lqdev.tech; script-src 'self' https://toot.lqdev.tech; child-src 'self' blob: https://toot.lqdev.tech; worker-src 'self' blob: https://toot.lqdev.tech
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:02 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.032859Z
+X-Request-Id: c6eea925-9ad6-4416-9906-67ea048f2c58
+X-Runtime: 0.300843
+X-Xss-Protection: 1; mode=block
+
+0
+

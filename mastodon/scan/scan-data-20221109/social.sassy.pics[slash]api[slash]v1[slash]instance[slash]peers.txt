@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:29 GMT
+Etag: W/"5fd0e331c37475c4645f375ccbff26c9"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:00:00.053644Z
+X-Request-Id: 7e58f1d1-59a9-478b-ab05-9394ff83a0aa
+X-Runtime: 0.011798
+X-Xss-Protection: 1; mode=block
+
+13
+["mastodon.social"]
+0
+

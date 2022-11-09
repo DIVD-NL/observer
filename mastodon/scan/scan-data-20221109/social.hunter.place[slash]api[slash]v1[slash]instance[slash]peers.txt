@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.hunter.place; img-src 'self' https: data: blob: https://social.hunter.place; style-src 'self' https://social.hunter.place 'nonce-Jr3RIAs6Sj5QE39VBe1uHQ=='; media-src 'self' https: data: https://social.hunter.place; frame-src 'self' https:; manifest-src 'self' https://social.hunter.place; connect-src 'self' data: blob: https://social.hunter.place https://files.hunter.place wss://social.hunter.place; script-src 'self' https://social.hunter.place; child-src 'self' blob: https://social.hunter.place; worker-src 'self' blob: https://social.hunter.place
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:39 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.896418Z
+X-Request-Id: d20245ce-7703-4555-b0a2-7eeff4032d4a
+X-Runtime: 0.018566
+
+0
+

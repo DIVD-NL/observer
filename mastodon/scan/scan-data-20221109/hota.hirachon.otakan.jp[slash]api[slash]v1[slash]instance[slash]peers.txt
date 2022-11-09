@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://hota.hirachon.otakan.jp; img-src 'self' https: data: blob: https://hota.hirachon.otakan.jp; style-src 'self' https://hota.hirachon.otakan.jp 'nonce-G24MzjjRpabjsbkvxbbFlQ=='; media-src 'self' https: data: https://hota.hirachon.otakan.jp; frame-src 'self' https:; manifest-src 'self' https://hota.hirachon.otakan.jp; connect-src 'self' data: blob: https://hota.hirachon.otakan.jp https://files.example.com wss://hota.hirachon.otakan.jp; script-src 'self' https://hota.hirachon.otakan.jp; child-src 'self' blob: https://hota.hirachon.otakan.jp; worker-src 'self' blob: https://hota.hirachon.otakan.jp
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:18 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 600
+X-Ratelimit-Remaining: 599
+X-Ratelimit-Reset: 2022-11-09T15:10:00.465608Z
+X-Request-Id: fd66a839-00fb-4b41-849e-062d9d8cd24b
+X-Runtime: 0.003636
+X-Xss-Protection: 0
+
+0
+

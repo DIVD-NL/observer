@@ -1,0 +1,147 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://source.unsplash.com https://images.unsplash.com;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self';frame-src data:;child-src 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:50 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.25
+Set-Cookie: ockfq97qw7w4=7j14817f0uhldjfuf35s2ajr55; path=/; secure; HttpOnly
+Set-Cookie: oc_sessionPassphrase=cfmkFWYwoJ%2FkR750gIyJZwgiMz%2BYxsmjO8LvYFVb9ImcQpiBF40HVhoLL92AcI2BTyGLdnqHEqBMHcKgNBjD3bWFEOuwDGPM557lxUdtHQ12iFWy%2FThwjqotgr8OJ2Di; path=/; secure; HttpOnly
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="nDMn3HvcntHpDqw0AH/vpdVcvHBzX5K3xz4YWB9mqFE=:3nFRjBKfx7OxTchfVBCn4/oKzDdKHcrdn1JAOyxe+DM=">
+		<meta charset="utf-8">
+		<title>
+		XCloud SCCS		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=4">
+		<link rel="apple-touch-icon-precomposed" href="/index.php/apps/theming/icon?v=4">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=4">
+		<link rel="stylesheet" href="/core/vendor/select2/select2.css?v=bcc84f3c-4">
+<link rel="stylesheet" href="/core/vendor/jquery-ui/themes/base/jquery-ui.css?v=bcc84f3c-4">
+<link rel="stylesheet" href="/apps/deck/css/activity.css?v=b654c2cc-4">
+<link rel="stylesheet" href="/apps/files_versions/css/versions.css?v=4fda350b-4">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=9095b976-4">
+<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=1bf6e69c-4">
+<link rel="stylesheet" href="/apps/files_videoplayer/css/style.css?v=1bf6e69c-4">
+<link rel="stylesheet" href="/apps/unsplash/css/login.css?v=75d01186-4">
+<link rel="stylesheet" href="/core/css/guest.css?v=bcc84f3c-4">
+		<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/index.php/core/js/oc.js?v=bcc84f3c"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/vendor/core.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/search/js/search.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/backgroundjobs.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/index.php/js/core/merged-share-backend.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/apps/firstrunwizard/js/jquery.colorbox.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/apps/firstrunwizard/js/firstrunwizard.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/apps/apporder/js/apporder.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/apps/files_videoplayer/js/viewer.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/search/js/searchprovider.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/jquery-ui-fixes.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/files/fileinfo.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/files/client.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/contactsmenu.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/js/contactsmenu_templates.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/core/vendor/jsTimezoneDetect/jstz.js?v=bcc84f3c-4"></script>
+<script nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0=" defer src="/index.php/js/core/merged-login.js?v=bcc84f3c-4"></script>
+		<link rel="stylesheet" href="/index.php/apps/theming/styles?v=4"/><script defer src="/index.php/apps/theming/js/theming?v=4" nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0="></script><script defer src="/index.php/apps/accessibility/js/accessibility?v=0" nonce="bkRNbjNIdmNudEhwRHF3MEFIL3ZwZFZjdkhCelg1SzN4ejRZV0I5bXFGRT06M25GUmpCS2Z4N094VGNoZlZCQ240L29LekRkS0hjcmRuMUpBT3l4ZStETT0="></script><meta property="og:title" content="XCloud SCCS"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="XCloud SCCS"/><meta property="og:url" content="https://xcloud.soccsantos.pro/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://xcloud.soccsantos.pro/index.php/apps/theming/icon?v=4"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+		<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									XCloud SCCS								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<!--[if IE 8]><style>input[type="checkbox"]{padding:0;}</style><![endif]-->
+<form method="post" name="login">
+	<fieldset>
+									<div id="message" class="hidden">
+			<img class="float-spinner" alt=""
+				src="/core/img/loading-dark.gif">
+			<span id="messageText"></span>
+			<!-- the following div ensures that the spinner is always inside the #message div -->
+			<div style="clear: both;"></div>
+		</div>
+		<p class="grouptop">
+			<input type="text" name="user" id="user"
+				placeholder="Username or email"
+				aria-label="Username or email"
+				value=""
+				autofocus				autocomplete="on" autocapitalize="none" autocorrect="off" required>
+			<label for="user" class="infield">Username or email</label>
+		</p>
+
+		<p class="groupbottom">
+			<input type="password" name="password" id="password" value=""
+				placeholder="Password"
+				aria-label="Password"
+								autocomplete="on" autocapitalize="none" autocorrect="off" required>
+			<label for="password" class="infield">Password</label>
+		</p>
+
+		<div id="submit-wrapper">
+			<input type="submit" id="submit" class="login primary" title="" value="Log in" disabled="disabled" />
+			<div class="submit-icon icon-confirm-white"></div>
+		</div>
+
+		
+		
+				<div id="reset-password-wrapper" style="display: none;">
+			<input type="submit" id="reset-password-submit" class="login primary" title="" value="Reset password" disabled="disabled" />
+			<div class="submit-icon icon-confirm-white"></div>
+		</div>
+		
+		<div class="login-additional">
+						<div class="lost-password-container">
+				<a id="lost-password" href="">
+					Forgot password?				</a>
+				<a id="lost-password-back" href="" style="display:none;">
+					Back to login				</a>
+			</div>
+					</div>
+
+		<input type="hidden" name="timezone_offset" id="timezone_offset"/>
+		<input type="hidden" name="timezone" id="timezone"/>
+		<input type="hidden" name="requesttoken" value="nDMn3HvcntHpDqw0AH/vpdVcvHBzX5K3xz4YWB9mqFE=:3nFRjBKfx7OxTchfVBCn4/oKzDdKHcrdn1JAOyxe+DM=">
+	</fieldset>
+</form>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://faq.soccsantos.pro" target="_blank" rel="noreferrer noopener" class="entity-name">XCloud SCCS</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

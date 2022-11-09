@@ -1,0 +1,35 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Content-Length: 930
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:11:17 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Request-Id: c61a3ec1-1b98-4c55-97b0-fdb4c5ad2707
+X-Runtime: 0.011743
+
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>Cette page n’est pas correcte
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/common-fccd12a2.css" />
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/default-92a42e5e.chunk.css" />
+<script src="/packs/js/common-d3e1b8a6e9139a7472bf.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-77b960f77ba9e702767e.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>Nous sommes désolé·e·s, mais quelque chose s’est mal passé de notre côté.
+</h1>
+</div>
+</div>
+</body>
+</html>

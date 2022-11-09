@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:16:53 GMT
+Location: http://ww1.amicidelbaretto.org
+Server: Cowboy
+Set-Cookie: sid=8a04d61e-6041-11ed-be3d-a18f40e777ae; path=/; domain=.amicidelbaretto.org; expires=Mon, 27 Nov 2090 18:31:00 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

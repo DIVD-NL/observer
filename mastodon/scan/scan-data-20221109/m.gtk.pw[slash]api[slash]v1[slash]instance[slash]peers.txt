@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 76777973bddeb9b9-BRU
+Date: Wed, 09 Nov 2022 15:10:18 GMT
+Expires: Wed, 09 Nov 2022 16:10:18 GMT
+Location: https://m.einverne.info/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jb18cbJgFYzpCpv20qLXWUbrj%2FOghbCkLyFA5Lr1NSIeQQwWv%2BP8wKcAuHSyMCFIe3UXadKFjk5N9KHS%2FVRwx%2FJlRjQEMZnkyW1cXQrTD6pvxuMSkNU%2FNPN4VQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Vary: Accept-Encoding
+
+0
+

@@ -1,0 +1,54 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:17:59 GMT
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<title>WNY Technology Collaborative - api/v1/instance/peers</title>
+		<link rel='stylesheet' type='text/css' href='https://wnytechcollab.com/includes/site.css'>
+		 <meta name='viewport' content='width=device-width, initial-scale=1.0'> 
+	</head>
+	<body>
+<!-- Begin Header -->
+
+	<div id='header'><img src="/media/logo.png" alt="WNY Technology Collaborative" title="WNY Tech Collaborative Logo" width="150" height="150" /> WNY Technology Collaborative
+		</div>
+<!-- End Header -->
+
+	<div id='body'>
+<!-- Begin Sidebar  -->
+		<div id='sidebar'>
+<ul>
+<li><a href="/about">About</a></li>
+<li><a href="/services">Services</a></li>
+<li><a href="/clients">Clients</a></li>
+<li><a href="/tos">Terms of Service</a></li>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="/owners">Owners</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/public">Public Services</a></li>
+</ul>		</div>
+<!-- End Sidebar -->
+
+<!-- Begin Body -->
+
+		<div id='content'>
+		<hr>	<hr>
+	</div>
+<!-- End Body -->
+	</div>
+
+<!-- Begin Footer -->
+	<div id='footer'>
+<p>This site is Copyright © 2019-2021 by WNY Technology Collaborative, under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International license</a>.</p>	<a href="https://git.wnytechcollab.com/wnytechcollab.com/wnytechcollab.com">Site Source</a> | <a href="https://git.wnytechcollab.com/wnytechcollab.com/wnytechcollab.com/src/branch/master/articles/api/v1/instance/peers.md">Page Source</a>
+	</div>
+<!-- End Footer -->
+
+	</body>
+</html>

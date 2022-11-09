@@ -1,0 +1,34 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: public, max-age=120
+Cf-Cache-Status: STALE
+Cf-Ray: 767775649a8d2e5c-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:07:32 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MGxANWoT1uERCfZpbfqQk6BvdEWsbO%2B6CreQptHnEHLt%2FYINfJZgacbwnbT%2B0ei2xSr6NTNBfl0elq%2FeRp0eETlSP7GgmAeZxhoFc7GLSmeswgpQCiScH5J33Qcb"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+
+21a
+<html>
+<head><title>410 Gone</title></head>
+<body>
+<center><h1>410 Gone</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+0
+

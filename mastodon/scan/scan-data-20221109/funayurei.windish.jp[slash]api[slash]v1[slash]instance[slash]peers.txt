@@ -1,0 +1,26 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://funayurei.windish.jp; img-src 'self' https: data: blob: https://funayurei.windish.jp; style-src 'self' https://funayurei.windish.jp 'nonce-peC2SVueWB4j+ZANVsvmYA=='; media-src 'self' https: data: https://funayurei.windish.jp; frame-src 'self' https:; manifest-src 'self' https://funayurei.windish.jp; connect-src 'self' data: blob: https://funayurei.windish.jp https://us-media.hostdon.ne.jp wss://funayurei.windish.jp; script-src 'self' https://funayurei.windish.jp; child-src 'self' blob: https://funayurei.windish.jp; worker-src 'self' blob: https://funayurei.windish.jp
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:41 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Status: 401 Unauthorized
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Powered-By: Phusion Passenger(R) 6.0.10
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.115653Z
+X-Request-Id: 2a3fe7e8-62a1-4bc9-8d7c-7a40c51aa9b8
+X-Runtime: 0.002190
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

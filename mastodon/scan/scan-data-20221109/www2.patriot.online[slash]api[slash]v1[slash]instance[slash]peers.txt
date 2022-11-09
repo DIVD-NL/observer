@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1313
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://patriot.online wss://patriot.online;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:49 GMT
+Referrer-Policy: same-origin
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXz3XN2aJMVGWIAARtI
+X-Xss-Protection: 1; mode=block
+
+["soc.citizen4.eu","friendica.os-service.eu","friendica.mschmidt-et.de","friendica.jb-net.us","friends.noise.rocks","opensocial.at","friends.deko.cloud","libranet.de","mordor.social","social.cool110.xyz","social.broers.me","friendica.offsite.guru","friendica.a-zwenkau.de","friends.undeadnetwork.de","friendica.valvin.fr","your.sensor.community","rollenspiel.group","fri.aethercom.de","letus.inspiredlife.fun","ibicadi.com","friendica.verya.pe","f.haeder.net","f.praschnig.com","dehawara.de","friendica.philipp.info","social.cyano.at","friendica.mrpetovan.com","fed.sonnenmulde.at","a.rathersafe.space","philos.fkn-systems.de","blog.serverok.pl","nerdica.net","anonsys.net","pztrn.online","social.yl.ms","noagendasocial.com","etiketi.de","friendica.wprzemianie.pl","g1zm0.social","rsd.dnshome.de","friendica.togart.de","keybored.me","friendica.minecloud.ro","scl.clttr.info","pirati.ca","avfig.com","friendica.ironbug.org","friend.pierobosio.info","friendica.astatu.berlin","friendica.tttproject.de","friendica.bdeshi.space","social.softmetz.de","friendica.ellih.eu","friendica.prankgo.de","venera.social","f.kretschmann.social","friendl.y-y.li","quitter.pl","canic.us","social.lucentinian.com","toot.nx-pod.de","pleroma.xundeenergie.at","convenient.email","herzbu.de","friendica.opencloud.lu","friendica.ucy.de"]

@@ -1,0 +1,100 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: nextcloud.jonathanhaack.com;media-src 'self' blob:;frame-src 'self';child-src blob: 'self';frame-ancestors 'self';worker-src blob: 'self';form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:13 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: oc881li2yl2n=79cjrsvpjmrblvvc4nuu66gmr5; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=%2FmhuOmZCA6E2P5nXRmR8Rdp5mU9tECBApbj19pTu9YPSi7GKlou3R7xDkgpxGO6p4FMn8Vzh%2FBDe71o1UzaYGqf3qd7MRJ0tXt1ReeS%2BPzpCzQmhks8Qa%2B1zTMu76tzY; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc881li2yl2n=j9f2aaa3soclrjq4a6th22a1l9; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc881li2yl2n=j9f2aaa3soclrjq4a6th22a1l9; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: oc881li2yl2n=j9f2aaa3soclrjq4a6th22a1l9; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc881li2yl2n=j9f2aaa3soclrjq4a6th22a1l9; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: dfPSUxVksU7oRTO0GtPh
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="xNMEcXU2wiQD9qOe91eYYcxb+ydVFyqcmL5hh3k0c74=:p4BHXiR/rFJNg8TksALVSrs4s0tnVV+z/tARzEpGR4Y=">
+		<meta charset="utf-8">
+		<title>
+			Login – Haack &amp; Heunermund Clan		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#1949CD">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=50">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=50">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#1949CD">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=50">
+		<link rel="stylesheet" href="/core/css/server.css?v=4eb578d9-50">
+<link rel="stylesheet" href="/apps/integration_gitlab/css/gitlab-search.css?v=3dad078c-50">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=47354877-50">
+<link rel="stylesheet" href="/core/css/guest.css?v=4eb578d9-50">
+		<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/index.php/core/js/oc.js?v=4eb578d9"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/core-common.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/core-main.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/core-files_fileinfo.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/core-files_client.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/core-login.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/dist/files_sharing-main.js?v=4eb578d9-50"></script>
+<script nonce="eE5NRWNYVTJ3aVFEOXFPZTkxZVlZY3hiK3lkVkZ5cWNtTDVoaDNrMGM3ND06cDRCSFhpUi9yRkpOZzhUa3NBTFZTcnM0czB0blZWK3ovdEFSekVwR1I0WT0=" defer src="/apps/theming/js/theming.js?v=4eb578d9-50"></script>
+		<meta property="og:title" content="Haack &amp;amp; Heunermund Clan"/><meta property="og:description" content="Some people think we are wonderfully mysterious."/><meta property="og:site_name" content="Haack &amp;amp; Heunermund Clan"/><meta property="og:url" content="https://nextcloud.jonathanhaack.com/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://nextcloud.jonathanhaack.com/index.php/apps/theming/icon?v=50"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/default.css?plain=1&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: light)" href="/index.php/apps/theming/theme/light.css?plain=1&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/theming/theme/dark.css?plain=1&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="(prefers-contrast: more)" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=1&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark) and (prefers-contrast: more)" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=1&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light.css?plain=0&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark.css?plain=0&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=0&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=0&amp;v=e1822db4" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/opendyslexic.css?plain=0&amp;v=e1822db4" class="theme"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-alternativeLogins" value="W10=">
+					<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjUuMC4xLjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjUuMC4xIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCIsImxvZ2xldmVsIjowfQ==">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKSgoPzpbLUEtWjAtOStfXStcXC4pK1stQS1aXSsoPzpcXFwvWy1BLVowLTkrJkAjJT89fl98ITosLjsoKV0qKSopKFxcc3xcXG58JCkifSwibWV0YWRhdGFBdmFpbGFibGUiOnsic2l6ZSI6WyJcL2ltYWdlXFxcLy4qXC8iXSwiZ3BzIjpbIlwvaW1hZ2VcXFwvLipcLyJdfSwiZmlsZXMiOnsiYmlnZmlsZWNodW5raW5nIjp0cnVlLCJibGFja2xpc3RlZF9maWxlcyI6WyIuaHRhY2Nlc3MiXSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlfSwib2NtIjp7ImVuYWJsZWQiOnRydWUsImFwaVZlcnNpb24iOiIxLjAtcHJvcG9zYWwxIiwiZW5kUG9pbnQiOiJodHRwczpcL1wvbmV4dGNsb3VkLmpvbmF0aGFuaGFhY2suY29tXC9pbmRleC5waHBcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIiwiYnVsa3VwbG9hZCI6IjEuMCJ9LCJmaWxlc19zaGFyaW5nIjp7ImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImRheXMiOjMwLCJlbmZvcmNlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6dHJ1ZSwiZGF5cyI6MzAsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjMxLCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjp0cnVlLCJpbmNvbWluZyI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX19fSwibm90ZXMiOnsiYXBpX3ZlcnNpb24iOlsiMC4yIiwiMS4zIl0sInZlcnNpb24iOiI0LjYuMCJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOnRydWUsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6dHJ1ZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL25leHRjbG91ZC5qb25hdGhhbmhhYWNrLmNvbVwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuam9uYXRoYW5oYWFjay5jb21cL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjE1LjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjp0cnVlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjp0cnVlfSwic3ByZWVkIjp7ImZlYXR1cmVzIjpbImF1ZGlvIiwidmlkZW8iLCJjaGF0LXYyIiwiY29udmVyc2F0aW9uLXY0IiwiZ3Vlc3Qtc2lnbmFsaW5nIiwiZW1wdHktZ3JvdXAtcm9vbSIsImd1ZXN0LWRpc3BsYXktbmFtZXMiLCJtdWx0aS1yb29tLXVzZXJzIiwiZmF2b3JpdGVzIiwibGFzdC1yb29tLWFjdGl2aXR5Iiwibm8tcGluZyIsInN5c3RlbS1tZXNzYWdlcyIsImRlbGV0ZS1tZXNzYWdlcyIsIm1lbnRpb24tZmxhZyIsImluLWNhbGwtZmxhZ3MiLCJjb252ZXJzYXRpb24tY2FsbC1mbGFncyIsIm5vdGlmaWNhdGlvbi1sZXZlbHMiLCJpbnZpdGUtZ3JvdXBzLWFuZC1tYWlscyIsImxvY2tlZC1vbmUtdG8tb25lLXJvb21zIiwicmVhZC1vbmx5LXJvb21zIiwibGlzdGFibGUtcm9vbXMiLCJjaGF0LXJlYWQtbWFya2VyIiwiY2hhdC11bnJlYWQiLCJ3ZWJpbmFyeS1sb2JieSIsInN0YXJ0LWNhbGwtZmxhZyIsImNoYXQtcmVwbGllcyIsImNpcmNsZXMtc3VwcG9ydCIsImZvcmNlLW11dGUiLCJzaXAtc3VwcG9ydCIsInNpcC1zdXBwb3J0LW5vcGluIiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwicmljaC1vYmplY3QtbGlzdC1tZWRpYSIsInJpY2gtb2JqZWN0LWRlbGV0ZSIsInVuaWZpZWQtc2VhcmNoIiwiY2hhdC1wZXJtaXNzaW9uIiwic2lsZW50LXNlbmQiLCJzaWxlbnQtY2FsbCIsInNlbmQtY2FsbC1ub3RpZmljYXRpb24iLCJ0YWxrLXBvbGxzIiwibWVzc2FnZS1leHBpcmF0aW9uIiwicmVhY3Rpb25zIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2FsbCI6eyJlbmFibGVkIjp0cnVlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMCwicmVhZC1wcml2YWN5IjowfSwiY29udmVyc2F0aW9ucyI6eyJjYW4tY3JlYXRlIjpmYWxzZX0sInByZXZpZXdzIjp7Im1heC1naWYtc2l6ZSI6MzE0NTcyOH0sInNpZ25hbGluZyI6eyJzZXNzaW9uLXBpbmctbGltaXQiOjIwMCwiaGVsbG8tdjItdG9rZW4ta2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1Ga3dFd1lIS29aSXpqMENBUVlJS29aSXpqMERBUWNEUWdBRTVKODdNM3REVEpRWFczWHFRUkV1dkZqWjdsZ1wvXG5GaVNPc0xoTlV5UFFWMkF4SDBGRUFGOHZ6T3ZoXC84K1B0N0V4TFRsc2Q5d0NCVVp2ZHg4dExSQkdodz09XG4tLS0tLUVORCBQVUJMSUMgS0VZLS0tLS1cbiJ9fSwidmVyc2lvbiI6IjE1LjAuMSJ9LCJ0aGVtaW5nIjp7Im5hbWUiOiJIYWFjayAmIEhldW5lcm11bmQgQ2xhbiIsInVybCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuam9uYXRoYW5oYWFjay5jb20iLCJzbG9nYW4iOiJTb21lIHBlb3BsZSB0aGluayB3ZSBhcmUgd29uZGVyZnVsbHkgbXlzdGVyaW91cy4iLCJjb2xvciI6IiMxOTQ5Q0QiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMTk0OUNEIiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMTk0OUNEIiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzE5NDlDRCIsImxvZ28iOiJodHRwczpcL1wvbmV4dGNsb3VkLmpvbmF0aGFuaGFhY2suY29tXC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NTAiLCJiYWNrZ3JvdW5kIjoiaHR0cHM6XC9cL25leHRjbG91ZC5qb25hdGhhbmhhYWNrLmNvbVwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvYmFja2dyb3VuZD92PTUwIiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvbmV4dGNsb3VkLmpvbmF0aGFuaGFhY2suY29tXC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NTAiLCJmYXZpY29uIjoiaHR0cHM6XC9cL25leHRjbG91ZC5qb25hdGhhbmhhYWNrLmNvbVwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvbG9nbz91c2VTdmc9MSZ2PTUwIn0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiSGFhY2sgJiBIZXVuZXJtdW5kIENsYW4iLCJ1cmwiOiJodHRwczpcL1wvbmV4dGNsb3VkLmpvbmF0aGFuaGFhY2suY29tIiwic2xvZ2FuIjoiU29tZSBwZW9wbGUgdGhpbmsgd2UgYXJlIHdvbmRlcmZ1bGx5IG15c3RlcmlvdXMuIiwiY29sb3IiOiIjMTk0OUNEIiwiZGVmYXVsdENvbG9yIjoiIzE5NDlDRCIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6IjUwIiwiZW5hYmxlZFRoZW1lcyI6W119">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Haack &amp; Heunermund Clan								</h1>
+							</div>
+						</div>
+					</header>
+								<main>
+					
+<div>
+	<div id="login"></div>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.jonathanhaack.com" target="_blank" rel="noreferrer noopener" class="entity-name">Haack & Heunermund Clan</a> – Some people think we are wonderfully mysterious.			</p>
+		</footer>
+	</body>
+</html>

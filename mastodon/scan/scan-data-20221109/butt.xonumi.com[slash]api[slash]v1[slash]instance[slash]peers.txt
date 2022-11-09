@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Cache-Control: max-age=3600
+Cache-Control: public
+Content-Security-Policy: default-src http: 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Expires: Wed, 09 Nov 2022 15:57:18 GMT
+Pragma: public
+Server: nginx/1.18.0
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: ed45b1942ea6223c81e90a4bb0490e6d
+X-Xss-Protection: 1; mode=block
+
+26c
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<! Managed by ansible role: inwx_inactive_domains >
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+    <title>butt.xonumi.com has been registered</title>
+</head>
+<body>
+	<p align="center">
+	<font face="Verdana, Arial, Helvetica, serif" size=2>
+	butt.xonumi.com was successfully registered. There is no content yet.
+	</font>
+	</p>
+</body>
+</html>
+
+0
+

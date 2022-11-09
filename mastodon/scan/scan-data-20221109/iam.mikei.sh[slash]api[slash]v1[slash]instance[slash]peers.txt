@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://iam.mikei.sh; img-src 'self' https: data: blob: https://iam.mikei.sh; style-src 'self' https://iam.mikei.sh 'nonce-KFyivgEjeCyVoyOI41LG0A=='; media-src 'self' https: data: https://iam.mikei.sh; frame-src 'self' https:; manifest-src 'self' https://iam.mikei.sh; connect-src 'self' data: blob: https://iam.mikei.sh https://sb-mikei-sh.b-cdn.net wss://iam.mikei.sh; script-src 'self' https://iam.mikei.sh; child-src 'self' blob: https://iam.mikei.sh; worker-src 'self' blob: https://iam.mikei.sh
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:33 GMT
+Etag: W/"ababadc79e2e1ca66ddba42fad392727"
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.774216Z
+X-Request-Id: ed4ff28c-3530-41e9-879f-eb4f6f4bbb7c
+X-Runtime: 0.018157
+X-Xss-Protection: 0
+
+171
+["botsin.space","masto.ai","infosec.exchange","sfba.social","mastodon.social","mas.to","toot.wales","ravenation.club","mastodon.gamedev.place","fosstodon.org","phpc.social","nerdculture.de","mastodon.lol","metalhead.club","oslo.town","mastodonapp.uk","mastodon.cloud","mastodon.ie","toot.community","masthead.social","mastodon.online","mstdn.social","writing.exchange"]
+0
+

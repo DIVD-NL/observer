@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mao.mastodonhub.com; img-src 'self' https: data: blob: https://mao.mastodonhub.com; style-src 'self' https://mao.mastodonhub.com 'nonce-DP/uVXeLXPf1AlEsWEVgOw=='; media-src 'self' https: data: https://mao.mastodonhub.com; frame-src 'self' https:; manifest-src 'self' https://mao.mastodonhub.com; connect-src 'self' data: blob: https://mao.mastodonhub.com https://mao.mastodonhub.com wss://mao.mastodonhub.com; script-src 'self' https://mao.mastodonhub.com; child-src 'self' blob: https://mao.mastodonhub.com; worker-src 'self' blob: https://mao.mastodonhub.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:35 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.435026Z
+X-Request-Id: d5d0bf4a-c121-43ee-b1e8-c5c50741d7aa
+X-Runtime: 0.008257
+X-Xss-Protection: 1; mode=block
+
+0
+

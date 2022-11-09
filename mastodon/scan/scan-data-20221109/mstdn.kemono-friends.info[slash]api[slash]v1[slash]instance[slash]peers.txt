@@ -1,0 +1,125 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cf-Chl-Bypass: 1
+Cf-Ray: 76777e58995383cf-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:38 GMT
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zNfUXRnbtFrqugAK%2FF%2BjniwcMOCF5%2B5o6lG%2FZW1kxjIsoPHnPeAjiHrIWDFBlVkGIig4e03UmTBHqtGkvUQWciBNYcGIlC7Q1sbvIYptJb7UvY%2FK%2BVMqeVHvRDQs1QPFK3D2wEA0MLjJQleQ"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=8.999999408843e-06
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+1f17
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            mstdn.kemono-friends.info
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=76777e58995383cf')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            mstdn.kemono-friends.info needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/api/v1/instance/peers?__cf_chl_f_tk=RQHjwaf2J37XItvpgAzQAOzf2UWMorOnorMiTRqJggc-1668006818-0-gaNycGzNBr0" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="hVz.N0Bbeqb09uW80_6EeA9nJtOBnTx4Xy.Ws3hFm80-1668006818-0-AU8_vMojhlNfMRn4RNDvTDfb5RJmVEIu8O4eCTRjYiIQJCki7XRNlKKi0tRE-1qzo-y5eVU7CNPUmfjKAvoedo2VqAUGNNM45E9gFzw3e6sn-iJGo8pVuGDvTMv9sGT7GWiadPMhSNrXPAR7g6oChL-211zmJ9kbWmhtuhnN0ScyoRMwgKsGevFdKM2dWkDPjTGQ54iunL8WGoiqdJLFvBiTxIEze_f_tqN94xL-HU9AgNFZ_3To72tg-QNFA-3o4TWMu9l-8UDeMJ2o43VS8xNckZJ6OuWEjkZFjOkrKrBI-vZinNwRZExc5eK8b8BzaCtLkF4OY79Eql--4yJ1JJFwqdkfZm2ZLDAcY3MoHycwvS87FqsfJHZ0TQ86rTBg711wJLJTTCe--pu1cqwocwDcEdeRxlhDOedT8JNYhfrXmzBw1iC77sG0DdE5iovh-ThgwIM5G9aIAAkpqfwHhZFl3fRuiVU0tZHUoB8I2Kig2CvYena8bwDDi5wQue4q4CEmeNdn6TbhmGX6exL5FbT8qP-DFnkq5Au6QMzUbseJ9cyz6j9P3-R8yiR572kcImJV8L4QZMm5XNbqvncePtZQT8H459V5HXgvBaZxFFv_TgM2Anee_4YbKcjXzY5PUA">
+            <input type="hidden" name="r" value="xiBqU.obMc4Gcx2icaORqz0V0F9ZuYzSSCIByPoX7B8-1668006818-0-ATwcfuTlY0myqrQCTdHzTHn/dNV72EyGUXW2o/uE60YIfmhT+rme6LFYSTSS6mfP6RhLoD48r4cUIHRTrS0nqov2WXU6mbr9rCVUhYo77hIJKn/qgZ9fooA+UNrlj9CpGLysg7mXU+6Fgqm+PH817wNgbkJdVLPC90GUVqNH02oMneTrHbdUIRrSlhrUuSJ/sjNbvqG8Gpd5iDFpwjDr5d2Z8v4YNqv1WDr5nrOuBSiwsxVJfOrroAAzLFpnbwcJh2Hp7guCtvQ/k5zRg81HQpC5pasvgRptn4ZchlK4gDp4uz3iQ8nJJj1NxisXpcFTCrZmhfJA9aGI+ewH/DNZyVqp0NHB+LyUJxZZC02CFR7K5zRLp794Sa2Zcn5KykSCMPHqzSO/VRntT9pum2tFel8Dwuf4c8PO7lnEqI1Ie/Kt0ZGavqpSaKvGHlk1MWU8H9f8PMvBBUTnGFmE7Q6yWwQmpMUra8KpkKooCC+1Y1JkVE0LBimdu9RuHftiNOWY8KsyoUyyxaryiJ/uxGTNUhhSg0H8pKcExoGNI3SPT1SKY0SbqHL818HV1mJk4rgwuIPGuJKdPFrADQ/MD9xemFY+CoCI+gEvam21uA+a4Fj8p9DH8HoeTXA1/7Qwui1YVQsJ/ofZuVGGf20GXPH2hcH5gOEpYzt/hM5Gg7Wr1p1DC8JSmmFRDLfZtjjod//DjwNoLaWJChFkYHbMyr5DgF+GmCYnYYvkCIqBauKtiSRXizOq1xxgpmZTzn4r365zv+hegQ/wYLey4Cqa+IyaC4aGljXDYu1//fauiB7p4l0oB/eSUqCAp2tJP+fFdBzK2Hkr6HgBmCK59anPH3qFXIssBb3x5sr9XmhLEJnUhcP3jIkxEH6hjSociwe6jrxV/UsULkpvS0FmytZ8CevaFmq1ccSZPFG4lNhqjN+1Dc8+APsANVVOcEw2EhfX0gc3lPP/mCOIm2z7aSKNjucJNE8tifWA+tdssmvGt0jzjp5Duex9X2PqYMK+hk12fE2uk/TZT1f4UCCVoYhuiH7v6ZPoYPXUBpglvN6mU6ZcwtveQiEHsKvRp/xYiQEBuqz8j43I6z9EVDbd6TRPSJ5h6HZASV5eAZ4d2SbXoESHJWm9xwOhMtm2eL2p4r4YH9YLTOVlqhGa5HwoTr4olcYYNycJ+iVC/sXCCocsbxoZyhN1BI2dsj1FAVwVYetVG5AC6+FMCj+rloXBmmjWKOKD0UoWmmEmwkcHFh0OOD0o2Fe1WDXFryjciMvSDpZQ6PvZ6k1l09GVfcrV+vbMiCnXt9yZIG9a/IFGiKic2gDPVVLvG8kIFldj82ArvoylpdSRabWm/vx9Au8BG0zSRrSjLtoqy39EXqVg2ERnfXD7upfg2ir389Xc0kLlz8YDCnpQ44lNIRdaUvKf+80ZTmBUGYpIfhni/An53vqQD4gAsZG06TYY/72/+SSnsE27+M449BvBTRyy5nOtGRv5M8zavVFWnVJumgdGsvuPeSXaAAMzqembPhrex3tEi3nfw2f1egUt9eZg3jBmnSYPl0FmZBj7gwlex+I7aCSYiXBMz9sS/wV7wryz3qhUGm7HUrdong+Uw+bU05OmK9nJuynG9nM9wdCj6+k0WfGt8epZcLwau4Phb0vYFXivM2x+tAsU2A==">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '32712',
+            cRay: '76777e58995383cf',
+            cHash: '334f7f7f7948eb2',
+            cUPMDTk: "\/api\/v1\/instance\/peers?__cf_chl_tk=RQHjwaf2J37XItvpgAzQAOzf2UWMorOnorMiTRqJggc-1668006818-0-gaNycGzNBr0",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9tc3Rkbi5rZW1vbm8tZnJpZW5kcy5pbmZvL2FwaS92MS9pbnN0YW5jZS9wZWVycw==',
+                ra: 'TW96aWxsYS81LjAgKFgxMTsgRnJlZUJTRCBpMzg2OyBydjoyOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzI4LjAgU2VhTW9ua2V5LzIuMjU=',
+                rm: 'R0VU',
+                d: 'KtO/Yab+7kZeR8F19CuaFBzttrraD9lIhhxXetRtzjVqvJOX2jkX2BLcoK8qEJfjgBThLC6/SlhEwSkLx94eR0J9t2hUGT5Dbq8cDcfaWze0aI4nZjxJaZ8+2v7hbP3V4wvly6veJRq5iDAFUSHwuQG0JI2PygCcfjPHUfHnsRj9mSKE7AtnWNselBXnw83iay1AnEMvwDJpBwLMGK+WMWcqcFuPldmEmy90JBpqdwicLG7i5j0woAhNz6BNmHOspMfUB+6lbGaRHaWxeTOi+rZfh5iUbAhtZTYHfPqSQuAFNnBbHnu+tZBjt6fj5F0j++Y0ymvJxCvmZpRZMb7xY5ptxOeyuk+kKDyAdFpymGJa1oo63i36ymUJGRtj+tonw2Utwl9McHvjJEg/7xFV/St4ZAkiIoUYQtbH3DwwN4FnU2SfwknDlYqw1KB3VIMEGuDFONP/bfqgdRymPifYv1y8m/ngtveplCtQn1HsL1KdsKTs/4oE9CnPBgPpxiLku/HAbj0FeQcN1eO5OzXyskfZsiWWfRCMtkY+fwrAzF6p61iFXl+GqVL939B8zsoXiMgmnn5IV4aDLekeLAdVMJ5PjorGVZLXPo2EQVt9lH0=',
+                t: 'MTY2ODAwNjgxOC42NzgwMDA=',
+                m: '/e1KKgeJp2hyy+4x3LGZcdoqcEeWfdWc7GXqwHVSNj0=',
+                i1: 'KZNSoPReqZ5KgP8Ez1Ds0g==',
+                i2: 'zOpX3QZdoUCf8oJnbLme9g==',
+                zh: 'NljxLph3ys1I8L2+fdiL7MhRzaHO6De81VbUhbMqGU8=',
+                uh: '4yJG9mVIpqmiJ2Y+Y9AIFL16hYwGllWAfZiGQXTrCMI=',
+                hh: 'UmVfGgqByfwMGOgwFhu09SLCz1zMGoD2WKEvrukKUYo=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=76777e58995383cf');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=76777e58995383cf';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/api\/v1\/instance\/peers?__cf_chl_rt_tk=RQHjwaf2J37XItvpgAzQAOzf2UWMorOnorMiTRqJggc-1668006818-0-gaNycGzNBr0" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>76777e58995383cf</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
+
+0
+

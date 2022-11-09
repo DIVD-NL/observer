@@ -1,0 +1,123 @@
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:59 GMT
+Etag: "db7-5aaa03f302c34-gzip"
+Last-Modified: Fri, 17 Jul 2020 10:01:55 GMT
+Server: Apache
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dominio no encontrado</title>
+	<style type="text/css">
+		* {
+			padding: 0;
+			margin: 0;
+		}
+		body{
+			background: #fff;
+    		border: 10px solid #ff9000;
+    		font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+    		height: calc(100vh - 20px);
+		}
+		.dd__box {
+			display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+			display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+			display: -ms-flexbox;      /* TWEENER - IE 10 */
+			display: -webkit-flex;     /* NEW - Chrome */
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding: 0px 30px;
+			height: 100%;
+		}
+		.dd__box--content {
+			display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+			display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+			display: -ms-flexbox;      /* TWEENER - IE 10 */
+			display: -webkit-flex;     /* NEW - Chrome */
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			position: relative;
+			top: -80px;
+		}
+		.dd__box--img {
+			display: block;
+			width: 350px;
+			height: 300px;
+			margin-bottom: 30px;
+		}
+		.dd__box--img svg{
+			width: 100%;
+		}
+		.dd__box--img svg path,
+		.dd__box--img svg rect {
+			fill: #ccc;
+		}
+		.dd__box h1 {
+			color: #ff9000;
+			font-size: 67px;
+			font-weight: 600;
+			line-height: 1em;
+			word-wrap: break-word;
+			margin: 0px 0px 10px;
+		}
+		.dd__box p {
+			color: #888;
+			font-size: 26px;
+			line-height: 1.5em;
+			max-width: 950px;
+			margin: 0px 0px 15px;
+		}
+		.dd__box p a {
+			text-decoration: none;
+			color: #888;
+			font-weight: 700;
+		}
+		.dd__box--underline {
+			display: block;
+			margin-top: 30px;
+			width: 320px;
+			height: 10px;
+			background: #ccc;
+		}
+		
+		
+	</style>
+</head>
+<body>
+	<div class="dd__box">
+		<div class="dd__box--content">
+			<div class="dd__box--img">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+				 	 viewBox="0 0 58 58" xml:space="preserve">
+
+					<g>
+						<path d="M53,43.5V27c0-10.201-8.302-18.5-18.506-18.5H23.506C13.302,8.5,5,16.799,5,27v16.5H0v2h6h2h4.05
+							c0.252,2.243,2.139,4,4.45,4s4.198-1.757,4.45-4H37.05c0.251,2.243,2.139,4,4.45,4s4.198-1.757,4.45-4H50h2h6v-2H53z M50,43.5h-4
+							v-6h-2v6v1.502c0,1.377-1.121,2.498-2.5,2.498S39,46.379,39,45.002V43.5v-6h-2v6H21v-6h-2v6v1.502c0,1.377-1.121,2.498-2.5,2.498
+							S14,46.379,14,45.002V43.5v-6h-2v6H8H7V27c0-9.098,7.404-16.5,16.506-16.5h10.988C43.596,10.5,51,17.902,51,27v16.5H50z"/>
+						<path d="M24.192,22.743c-2.341,2.339-6.146,2.337-8.485,0c-0.391-0.391-1.023-0.391-1.414,0c-0.208,0.208-0.297,0.484-0.283,0.757
+							H14v5h2v-3.052c1.221,0.693,2.584,1.048,3.949,1.048c2.049,0,4.098-0.78,5.657-2.339c0.391-0.391,0.391-1.023,0-1.414
+							S24.583,22.353,24.192,22.743z"/>
+						<path d="M42.192,22.743c-2.341,2.339-6.146,2.337-8.485,0c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414
+							c1.56,1.56,3.608,2.339,5.656,2.339c1.038,0,2.076-0.202,3.051-0.603V27.5h2v-2.795c0.209-0.17,0.412-0.353,0.606-0.548
+							c0.391-0.391,0.391-1.023,0-1.414C43.216,22.352,42.583,22.353,42.192,22.743z"/>
+						<rect x="14" y="30.5" width="2" height="3"/>
+						<rect x="41" y="29.5" width="2" height="5"/>
+					</g>
+				</svg>
+			</div>
+			<h1>Site not found</h1>
+			<p>powered by <a href="https://www.dondominio.com/13/">dondominio.com</a></p>
+			<div class="dd__box--underline"></div>
+		</div>
+	</div>
+</body>
+</html>

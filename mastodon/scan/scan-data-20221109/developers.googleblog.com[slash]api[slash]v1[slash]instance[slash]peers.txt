@@ -1,0 +1,567 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:37 GMT
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Server: GSE
+Strict-Transport-Security: max-age=86400; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+
+d230
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/2975350028-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://developers.googleblog.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://developers.googleblog.com//api/v1/instance/peers' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Google Developers Blog - Atom" href="https://developers.googleblog.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Google Developers Blog - RSS" href="https://developers.googleblog.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Google Developers Blog - Atom" href="https://www.blogger.com/feeds/596098824972435195/posts/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='News and insights on Google platforms, tools, and events.' name='description'/>
+<meta content='https://developers.googleblog.com//api/v1/instance/peers' property='og:url'/>
+<meta content='Google Developers Blog' property='og:title'/>
+<meta content='News and insights on Google platforms, tools, and events.' property='og:description'/>
+<meta charset='UTF-8'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<!-- Google Tag Manager -->
+<script>
+      //<![CDATA[
+
+   		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WVTLDSL');
+
+      //]]>
+
+      </script>
+<!-- End Google Tag Manager -->
+<meta content='https://www.gstatic.com/dgc_blog/images/meta.png' property='og:image'/>
+<meta content='https://www.gstatic.com/dgc_blog/images/meta.png' property='twitter:image'/>
+<meta content='summary_large_image' name='twitter:card'/>
+<style id='page-skin-1' type='text/css'><!--
+/* MINIFIED CSS STYLES*/
+body{font-family:Roboto,sans-serif;font-weight:400;font-size:16px;line-height:28px;-webkit-font-smoothing:antialiased;color:#202124}h1{font-family:Google Sans Display,sans-serif;font-size:44px;font-weight:500;line-height:61.6px}h2{font-size:30px;line-height:40px}h2,h3{font-family:Google Sans Display,sans-serif;font-weight:600}h3{font-size:24px;line-height:32px}h4{font-family:Google Sans Display,sans-serif;font-size:20px;font-weight:500;line-height:26px}h5{font-size:16px;line-height:24px}h5,h6{font-family:Google Sans Display,sans-serif;font-weight:600}h6{font-size:14px;line-height:22px}.display{font-family:Google Sans Display,sans-serif;font-size:48px;font-weight:600;line-height:67.2px}.hidden-text{height:1px;overflow:hidden;pointer-events:none;position:absolute;top:-10px;width:1px}img,video{border:0;height:auto;max-width:100%}body{position:relative;min-height:100vh}body.no-scroll{overflow:hidden}a{color:#4184f3;text-decoration:none}a:focus,a:focus-visible{outline-offset:-2px}.content-wrap{padding-top:100px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}@media only screen and (max-width:839px){.content-wrap{padding-top:32px}}.full-width{width:100%}.icon-link{border-radius:50%;height:42px;width:42px;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-transition:background-color .2s linear;transition:background-color .2s linear;background:transparent;border:none}.icon-link:hover{background-color:hsla(213,7%,76%,.2)}.icon-link:focus{background-color:hsla(213,7%,76%,.26)}.icon-link:active{background-color:hsla(213,7%,76%,.32)}.dgc-container{margin:40px auto;padding:0 40px;position:relative;width:auto;max-width:1420px}@media only screen and (max-width:767px){.dgc-container{margin:24px auto;padding:0 20px}}.dgc-container--large{margin:40px auto;padding:0 40px;position:relative;width:auto}@media only screen and (max-width:767px){.dgc-container--large{margin:24px auto;padding:0 20px}}@media only screen and (min-width:1280px){.dgc-container--large{width:1200px}}.dgc-container--medium{margin:40px auto;padding:0 40px;position:relative;width:auto}@media only screen and (max-width:767px){.dgc-container--medium{margin:24px auto;padding:0 20px}}@media only screen and (min-width:1280px){.dgc-container--medium{width:844px}}@media only screen and (max-width:767px){.dgc-container--medium{padding:0 48px}}.dgc-container--narrow{margin:40px auto;padding:0 40px;position:relative;width:auto;max-width:730px}@media only screen and (max-width:767px){.dgc-container--narrow{margin:24px auto;padding:0 20px}}.dgc-container--flex-horizontal{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.section,body{margin:0}.dgc-card{padding:24px 0;position:relative;background:#fff;border:1px solid #dadce0;-webkit-box-sizing:border-box;box-sizing:border-box;border-radius:8px;margin:24px 0;padding:24px;overflow:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-transition:opacity .2s linear,-webkit-box-shadow .2s linear;transition:opacity .2s linear,-webkit-box-shadow .2s linear;transition:box-shadow .2s linear,opacity .2s linear;transition:box-shadow .2s linear,opacity .2s linear,-webkit-box-shadow .2s linear}@media only screen and (max-width:850px){.dgc-card{max-height:unset;max-width:600px;margin:24px auto}}.dgc-card:focus-within,.dgc-card:hover{-webkit-box-shadow:0 0 36px rgba(0,0,0,.1);box-shadow:0 0 36px rgba(0,0,0,.1);cursor:pointer}.dgc-card__href{height:100%;left:0;opacity:0;position:absolute;top:0;width:100%;z-index:2}.dgc-card__image-wrapper{overflow:hidden;position:relative;width:auto;height:200px;-webkit-flex-basis:40%;-ms-flex-preferred-size:40%;flex-basis:40%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}@media only screen and (max-width:850px){.dgc-card__image-wrapper{max-height:250px}}.dgc-card__content{padding:24px 0}.dgc-card__title{font-size:24px;line-height:33.6px;font-weight:500;font-family:Google Sans Display,sans-serif;margin-bottom:12px}.dgc-card__info{font-family:Roboto Mono,monospace;font-weight:400;font-size:12px;line-height:160%;margin-bottom:24px}.dgc-card__description{margin-bottom:48px}.dgc-card:hover .dgc-content__image-wrapper img,.dgc-card__href:focus~.dgc-content__image-wrapper img{-webkit-transform:scale(1.03);transform:scale(1.03);-webkit-transition:-webkit-transform 1s ease;transition:-webkit-transform 1s ease;transition:transform 1s ease;transition:transform 1s ease,-webkit-transform 1s ease}.devsite-footer{padding:0 24px;border-top:1px solid #bdc1c6}.devsite-footer li{display:block}.devsite-footer li a{text-decoration:none;font-size:14px;line-height:16px;color:#202124}.devsite-footer li a:focus,.devsite-footer li a:hover{color:#1a73e8;outline:none}.devsite-footer-linkboxes-list{display:grid;grid-gap:24px;grid-template-columns:1fr 1fr 1fr;margin:0;padding:24px 0;border-bottom:1px solid #bdc1c6}@media only screen and (max-width:767px){.devsite-footer-linkboxes-list{grid-template-columns:1fr;padding-left:0}}.devsite-footer-linkbox{display:block}.devsite-footer-linkbox-heading{font-size:16px;line-height:26px;font-weight:400;margin:0 0 4px}.devsite-footer-linkbox ul{padding-left:0}.devsite-footer-sites-list{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}@media only screen and (max-width:767px){.devsite-footer-sites-list{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}}.devsite-footer-utility nav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}@media only screen and (max-width:767px){.devsite-footer-utility nav{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}}.devsite-footer-utility-list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;padding:24px 0}@media only screen and (max-width:767px){.devsite-footer-utility-list{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;padding:0}}.devsite-footer-utility-button{justify-self:flex-end;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;line-height:20px;margin-left:auto;padding-left:16px}.devsite-footer-utility-item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0 8px 0 0}.devsite-footer-utility-item:last-child{margin-right:0}@media only screen and (min-width:768px){.devsite-footer-utility-item:not(:first-child):before{content:"|";margin:0 8px 0 0}}.devsite-footer-sites{border-bottom:1px solid #bdc1c6;padding:24px 0 23px}.devsite-footer-sites-logo{height:32px;margin-top:5px;width:185px}.devsite-footer-sites-list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;list-style:none;padding:0}.devsite-footer-sites-item{margin:0 0 0 40px}@media only screen and (max-width:767px){.devsite-footer-sites-item{margin:0}}.devsite-footer-sites-link{display:block;padding:8px 0;color:#202124}.devsite-footer-sites-link:focus,.devsite-footer-sites-link:hover{color:#1a73e8;outline:none}.devsite-footer-utility-link:focus{text-decoration:underline}.devsite-footer-utility .devsite-footer-utility-button{line-height:20px;font:400 14px/16px Roboto,sans-serif}.devsite-footer-utility .devsite-footer-utility-button:before{content:"";margin:0}@media only screen and (max-width:767px){.devsite-footer-utility .devsite-footer-utility-button{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:0;margin:18px 0 12px}}.devsite-footer-utility .devsite-footer-utility-button .devsite-footer-utility-link{border:0;background:#1a73e8;color:#fff;line-height:36px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;margin:0 0 0 16px;border-radius:2px;-webkit-box-shadow:0 1px 2px 0;box-shadow:0 1px 2px 0;display:inline-block;font:500 14px/36px Roboto,sans-serif;height:36px;letter-spacing:0;min-width:36px;padding:0 24px;text-align:center;-webkit-transition:background-color .2s,border .2s,-webkit-box-shadow .2s;transition:background-color .2s,border .2s,-webkit-box-shadow .2s;transition:background-color .2s,border .2s,box-shadow .2s;transition:background-color .2s,border .2s,box-shadow .2s,-webkit-box-shadow .2s;vertical-align:middle;white-space:nowrap}.devsite-footer-utility .devsite-footer-utility-button .devsite-footer-utility-link:hover{background:#1765cc}.dgc-page__title{font-family:Google Sans Display,sans-serif;font-size:44px;font-weight:500;line-height:61.6px;text-align:center;color:#202124}.dgc-container{margin-top:64px}.posts-container{display:grid;grid-template-columns:1fr 1fr 1fr;-webkit-column-gap:24px;column-gap:24px;padding:40px}@media only screen and (max-width:850px){.posts-container{grid-template-columns:1fr 1fr}}@media only screen and (max-width:767px){.posts-container{grid-template-columns:1fr}}.dgc-detail hr{border:1px solid #dadce0;margin:40px 0}.dgc-detail__title{font-family:Google Sans Display,sans-serif;font-size:48px;font-weight:600;line-height:67.2px}.dgc-detail__info{font-family:Roboto Mono,monospace;font-weight:400;font-size:12px;line-height:160%;font-size:14px}.dgc-detail__content{min-height:200px}.icon-sidebar{position:absolute;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;top:0;left:-15px;width:32px;gap:20px}@media only screen and (max-width:767px){.icon-sidebar{left:-28px}}.copy-tooltip{position:fixed;bottom:16px;left:10px;z-index:100}.copy-tooltip .copy-tooltiptext{visibility:hidden;width:200px;background-color:#202124;color:#fff;text-align:center;border-radius:6px;padding:8px 16px;opacity:0;-webkit-transition:opacity .3s;transition:opacity .3s}.copy-tooltip.active .copy-tooltiptext{visibility:visible;opacity:1}.header__overlay{height:100vh;left:0;position:fixed;width:100vw;border:none;background-color:rgba(0,0,0,.4);-webkit-animation:fade-in .4s cubic-bezier(.39,.575,.565,1);animation:fade-in .4s cubic-bezier(.39,.575,.565,1);opacity:0;top:0;z-index:-1;display:none}.header__overlay.show{display:block;opacity:1;z-index:800;-webkit-transition:opacity .2s ease-in-out;transition:opacity .2s ease-in-out}.social-icons__links{height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;gap:24px}.social-icons__links path{fill:#80868b}.social-icons__container-header{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;height:100%;margin-right:14px}@media only screen and (max-width:1000px){.social-icons__container-header{display:none}}.dgc-blog-logo:focus,.dgc-blog-logo:hover{opacity:.7;text-decoration:none}.dgc-blog-logo__image{height:32px;margin-left:0;margin-top:6px}@media only screen and (min-width:840px){.dgc-blog-logo__image{margin-left:24px}}.header{position:fixed;background:#fff;z-index:700;top:0;width:100%;overflow:hidden;-webkit-box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15);box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15);height:auto}.header .top-row{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding-right:24px;height:50px;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;border-bottom:1px solid #e6e6e6}@media only screen and (max-width:839px){.header .top-row{padding:0 16px}}.header .top-row__left,.header .top-row__right{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-flex:0;-webkit-flex:0 0 auto;-ms-flex:0 0 auto;flex:0 0 auto;height:100%}.header .nav-row,.header .top-row__left,.header .top-row__right{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.header .nav-row{background:#fff;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:100%}.header .nav-items{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;height:50px;position:relative;background-color:#fff}@media only screen and (max-width:839px){.header .nav-items{display:none}}.header .nav-items tab{position:relative}.header .nav-items tab.active .header__nav-item:after,.header .nav-items tab:hover .header__nav-item:after{background:#1a73e8}.header .nav-items tab.active .header__nav-item,.header .nav-items tab:focus-within a{color:#202124}@media only screen and (max-width:839px){.header .header__cta,.header .nav-items{display:none}}.header__search-container{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;margin:6px 0 6px 24px;overflow:hidden;position:relative;margin-right:36px;border-radius:4px}@media only screen and (max-width:767px){.header__search-container:not(.mobile){display:none}}.header__search-container.mobile{margin:0 0 20px}.header__search-container.mobile #searchform,.header__search-container.mobile .searchbox{width:100%}.header__search-container .searchbox{border-radius:2px}.header__search-container .searchbox input{font-family:Roboto,sans-serif;font-weight:400;font-size:16px;line-height:28px;font-weight:500;color:#80868b;border:0;margin:0;height:20px;outline:0;padding:8px 8px 8px 40px;width:100%;-webkit-transition:background .2s;transition:background .2s}.header__search-container .searchbox input::-webkit-input-placeholder{color:#80868b}.header__search-container .searchbox input:-ms-input-placeholder,.header__search-container .searchbox input::-ms-input-placeholder{color:#80868b}.header__search-container .searchbox input::placeholder{color:#80868b}.header__search-container .searchbox input:hover{background:#e8eaed}.header__search-container .material-icons{color:#80868b;left:8px;position:absolute;top:6px;-webkit-transition:color .2s;transition:color .2s}.header__cta{font-family:Google Sans Display,sans-serif;font-size:16px;font-weight:600;line-height:20px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;color:#1a73e8!important;text-decoration:none}.header__cta.mobile{padding:18px 0}.header__cta:hover .cta-icon{margin-left:0;margin-right:12px}.header__cta .cta-icon{-webkit-transition:margin-right .2s linear,margin-left .2s linear;transition:margin-right .2s linear,margin-left .2s linear;margin-left:4px;margin-right:8px;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.header__cta .cta-icon path{fill:#1a73e8}.header__nav-item{font-family:Google Sans Display,sans-serif;font-size:16px;font-weight:600;line-height:24px;color:#80868b;font-weight:500;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding:0 18px;height:100%;text-transform:none;text-decoration:none}.header__nav-item:hover{color:#202124}.header__nav-item.mobile{font-weight:500;padding:0}.header__nav-item:after{bottom:0;border-radius:3px 3px 0 0;content:"";display:block;height:3px;left:50%;min-width:20px;position:absolute;right:0;-webkit-transform:translateX(-50%);transform:translateX(-50%);width:calc(100% - 24px)}.header__hamburger{border:0;background:none;outline:none;padding:0;margin:1px 8px 0 -4px;padding:8px;color:rgba(0,0,0,.65);cursor:pointer}@media only screen and (min-width:840px){.header__hamburger{display:none}}.header__side-menu{background-color:#fff;bottom:0;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100%;left:0;overflow:auto;position:fixed;top:0;-webkit-transform:translateX(-100%);transform:translateX(-100%);-webkit-transition:-webkit-transform .2s cubic-bezier(.215,.61,.355,1);transition:-webkit-transform .2s cubic-bezier(.215,.61,.355,1);transition:transform .2s cubic-bezier(.215,.61,.355,1);transition:transform .2s cubic-bezier(.215,.61,.355,1),-webkit-transform .2s cubic-bezier(.215,.61,.355,1);z-index:900}.header__side-menu.is-open{-webkit-transform:translateX(0);transform:translateX(0);width:80%}.header__side-menu.is-open,.header__side-menu__content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:100%}.header__side-menu__content{padding:18px 16px 0;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}.header__side-menu__content .spacer{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.header__side-menu__title{font-family:Google Sans Display,sans-serif;font-size:20px;line-height:26px;font-weight:500;margin-bottom:12px}.header__side-menu__items{list-style:none}.header__side-menu__items li{padding:12px 0}.header__side-menu__items tab{position:relative}.header__side-menu__items tab.active .header__nav-item,.header__side-menu__items tab:focus-within a{color:#202124}.header__side-menu__bottom{border-top:1px solid #e6e6e6}.header__side-menu__logo-container{background:#fff;height:40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;padding:4px 16px;border-bottom:1px solid #e6e6e6}#nav .widget{margin:0}.featured__wrapper{width:100%;border:0;background-color:#e8f0fe;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding:80px 0}@media only screen and (max-width:767px){.featured__wrapper{padding:0}}.featured__inner{max-width:1080px;width:calc(100% - 24px);display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;position:relative;padding:48px}@media only screen and (min-width:768px){.featured__inner{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding:12px 80px}}.featured__href{height:100%;left:0;position:absolute;top:0;width:100%;z-index:2}.featured__image{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center}@media only screen and (min-width:768px){.featured__image img{width:100%;max-width:500px}}@media only screen and (min-width:1280px){.featured__image img{width:500px;max-width:none}}.featured__content{-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;width:100%}@media only screen and (min-width:768px){.featured__content{min-width:300px;margin-left:60px}}@media only screen and (min-width:1280px){.featured__content{margin-left:120px}}.featured__title{font-size:32px;line-height:44.8px;font-weight:500;font-family:Google Sans Display,sans-serif;margin-bottom:15px}.featured__info{font-family:Roboto Mono,monospace;font-weight:400;font-size:12px;line-height:160%;margin-bottom:24px}.featured__description{margin-bottom:48px}.preview.featured__wrapper{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background-color:#f1f3f4;padding:64px 0 120px}.preview.featured__wrapper h1{margin:0 0 64px}.blog-label-container{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;gap:16px}.blog-label-container .blog-label{padding:8px 20px;border:1px solid #dadce0;background-color:#fff;border-radius:4px;text-decoration:none;z-index:3}.blog-label-container .blog-label:focus,.blog-label-container .blog-label:hover{background-color:#e8f0fe}.blog-label-container .blog-label:focus-visible{outline-offset:0}.blog-label-container .blog-label span{font-size:14px;line-height:20px;font-weight:500;font-family:Roboto Mono,monospace;text-align:center;color:#3c4043}#pagination-container{display:none}.pagination{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:100%}.pagination .page-button{font-family:Google Sans Display,sans-serif;font-size:16px;font-weight:600;line-height:24px;color:#1967d2;background-color:#e8f0fe;padding:16px 24px;border-radius:4px;text-decoration:none}.pagination .page-button:focus,.pagination .page-button:hover{background-color:#cad5fc}.pagination .page-button.disabled{color:#80868b;background-color:#f1f3f4}
+
+--></style>
+<!-- Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Google+Sans:400,500,700|Google+Sans+Display:400,500,600,700|Roboto:400,400italic,500,500italic,700,700italic|Roboto+Mono:400,500,700|Material+Icons' rel='stylesheet'/>
+<!-- Analytics -->
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-19996418-48', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=596098824972435195&amp;zx=668197d1-ef64-425a-b219-28a1b90c16a6' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=596098824972435195&amp;zx=668197d1-ef64-425a-b219-28a1b90c16a6' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-WVTLDSL' style='display:none;visibility:hidden' width='0'></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class='section' id='nav'><div class='widget HTML' data-version='1' id='HTML1'>
+<header class='header'>
+<div aria-hidden='true' data-href='https://developers.googleblog.com/' hidden='true' id='home-href'></div>
+<div class='top-row'>
+<div class='top-row__left'>
+<button aria-label='Toggle menu' class='header__hamburger icon-link' type='button'>
+<i class='material-icons'>menu</i>
+</button>
+<a class='dgc-blog-logo' href='https://developers.googleblog.com/'>
+<img alt='Google Developers Logo' class='dgc-blog-logo__image' src='https://www.gstatic.com/devrel-devsite/prod/v0a713fec70a4b4c54311265d5142e962747a0e45a24063467564a2765c008ac7/developers/images/lockup-developers.svg'/>
+</a>
+</div>
+<div class='top-row__right'>
+<div class='header__search-container'>
+<form action='/search' class='searchbox'>
+<input aria-label='Search box' class='search-input' name='q' onblur='if (this.value=="") {this.value="Search the Blog"}' onfocus='if (this.value=="Search the Blog") {this.value=""}' placeholder='Search the Blog' type='text' value='' vinput=''/>
+<i class='material-icons'>search</i>
+<input style='visibility:hidden;position:absolute' type='submit'/>
+</form>
+</div>
+<a class='header__cta' href='https://developers.google.com/'>
+<svg class='cta-icon' height='12' viewBox='0 0 18 18' width='12' xmlns='http://www.w3.org/2000/svg'>
+<g fill='none' fill-rule='evenodd' transform='translate(-3 -3)'>
+<rect height='24' width='24'></rect>
+<path d='M20.55,10.95 L13.05,3.45 C12.45,2.85 11.55,2.85 10.95,3.45 C10.35,4.05 10.35,4.95 10.95,5.55 L15.9,10.5 L4.5,10.5 C3.6,10.5 3,11.1 3,12 C3,12.9 3.6,13.5 4.5,13.5 L15.9,13.5 L10.95,18.45 C10.35,19.05 10.35,19.95 10.95,20.55 C10.95,20.55 10.95,20.55 10.95,20.55 C11.55,21.15 12.45,21.15 13.05,20.55 C13.05,20.55 13.05,20.55 13.05,20.55 L20.55,13.05 C21.15,12.45 21.15,11.55 20.55,10.95 C20.55,10.95 20.55,10.95 20.55,10.95 Z' fill='#000'></path>
+</g>
+</svg>
+
+          Return to Google Developers
+        </a>
+</div>
+</div>
+<div class='nav-row'>
+<div class='nav-items'>
+<tab>
+<a class='header__nav-item all' dir='ltr' href='https://developers.googleblog.com/'>
+Latest
+</a>
+</tab>
+<tab>
+<a class='header__nav-item' dir='ltr' href='https://developers.googleblog.com/search/label/Get Inspired?max-results=12'>
+Get Inspired
+</a>
+</tab>
+<tab>
+<a class='header__nav-item' dir='ltr' href='https://developers.googleblog.com/search/label/Announcements?max-results=12'>
+Announcements
+</a>
+</tab>
+<tab>
+<a class='header__nav-item' dir='ltr' href='https://developers.googleblog.com/search/label/Events?max-results=12'>
+Events
+</a>
+</tab>
+<tab>
+<a class='header__nav-item' dir='ltr' href='https://developers.googleblog.com/search/label/Resources?max-results=12'>
+Resources
+</a>
+</tab>
+</div>
+<section class='social-icons'>
+<div class='social-icons__container-header'>
+<div class='social-icons__links'>
+<a class='icon-link' href='https://www.youtube.com/googlecode/' rel='noopener noreferrer' target='_blank'>
+<img alt='Google Developers YouTube' src='https://www.gstatic.com/dgc_blog/images/ic_youtube.svg'/>
+</a>
+<a class='icon-link' href='https://twitter.com/googledevs/' rel='noopener noreferrer' target='_blank'>
+<img alt='Google Developers Twitter' src='https://www.gstatic.com/dgc_blog/images/ic_twitter.svg'/>
+</a>
+<a class='icon-link' href='https://www.instagram.com/googledevs/' rel='noopener noreferrer' target='_blank'>
+<img alt='Google Developers GitHub' src='https://www.gstatic.com/dgc_blog/images/ic_instagram.svg'/>
+</a>
+<a class='icon-link' href='https://www.linkedin.com/company/googledevelopers/' rel='noopener noreferrer' target='_blank'>
+<img alt='Google Developers LinkedIn' src='https://www.gstatic.com/dgc_blog/images/ic_linkedin.svg'/>
+</a>
+<a class='icon-link' href='https://www.facebook.com/googledevelopers/' rel='noopener noreferrer' target='_blank'>
+<img alt='Google Developers Facebook' src='https://www.gstatic.com/dgc_blog/images/ic_facebook.svg'/>
+</a>
+</div>
+</div>
+</section>
+</div>
+</header>
+<button aria-label='Close menu' class='header__overlay'></button>
+<div class='header__side-menu'>
+<div class='header__side-menu__logo-container'>
+<a alt='Blogger Home' class='dgc-blog-logo' href='https://developers.googleblog.com/'>
+<img alt='Google Developers Blog Logo' class='dgc-blog-logo__image' src='https://www.gstatic.com/devrel-devsite/prod/v0a713fec70a4b4c54311265d5142e962747a0e45a24063467564a2765c008ac7/developers/images/lockup-developers.svg'/>
+</a>
+</div>
+<div class='header__side-menu__content'>
+<div class='header__side-menu__items'>
+<div class='header__search-container mobile'>
+<form action='/search' class='searchbox searchbox--mobile'>
+<input aria-label='Search box' class='search-input' name='q' onblur='if (this.value=="") {this.value="Search the Blog"}' onfocus='if (this.value=="Search the Blog") {this.value=""}' placeholder='Search the Blog' type='text' value='' vinput=''/>
+<i class='material-icons'>search</i>
+</form>
+</div>
+<div class='header__side-menu__title'>Tags</div>
+<tab>
+<li>
+<a class='header__nav-item mobile all' dir='ltr' href='https://developers.googleblog.com/'>
+Latest
+</a>
+</li>
+</tab>
+<tab>
+<li>
+<a class='header__nav-item mobile' dir='ltr' href='https://developers.googleblog.com/search/label/Get Inspired?max-results=12'>
+Get Inspired
+</a>
+</li>
+</tab>
+<tab>
+<li>
+<a class='header__nav-item mobile' dir='ltr' href='https://developers.googleblog.com/search/label/Announcements?max-results=12'>
+Announcements
+</a>
+</li>
+</tab>
+<tab>
+<li>
+<a class='header__nav-item mobile' dir='ltr' href='https://developers.googleblog.com/search/label/Events?max-results=12'>
+Events
+</a>
+</li>
+</tab>
+<tab>
+<li>
+<a class='header__nav-item mobile' dir='ltr' href='https://developers.googleblog.com/search/label/Resources?max-results=12'>
+Resources
+</a>
+</li>
+</tab>
+</div>
+<div class='spacer'></div>
+<div class='header__side-menu__bottom'>
+<a class='header__cta mobile' href='https://developers.google.com/'>
+          Return to Google Developers
+        </a>
+</div>
+</div>
+</div>
+</div></div>
+<div class='content-wrap'>
+<div class='full-width section' id='Body'>
+<div class='widget Blog' data-version='1' id='Blog1'>
+</div></div>
+</div>
+<div class='section' id='Footer'><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='devsite-footer'>
+<nav aria-label='Footer links' class='devsite-footer-linkboxes nocontent'>
+<div class='devsite-footer-linkboxes-list'>
+<li class='devsite-footer-linkbox '>
+<h3 class='devsite-footer-linkbox-heading no-link'>Connect</h3>
+<ul class='devsite-footer-linkbox-list'>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 1)' href='//googledevelopers.blogspot.com'>
+              Blog
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 2)' href='//www.facebook.com/Google-Developers-967415219957038'>
+              Facebook
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 3)' href='//medium.com/google-developers'>
+              Medium
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 4)' href='//twitter.com/googledevs'>
+              Twitter
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 5)' href='//www.youtube.com/user/GoogleDevelopers'>
+              YouTube
+            </a>
+</li>
+</ul>
+</li>
+<li class='devsite-footer-linkbox '>
+<h3 class='devsite-footer-linkbox-heading no-link'>Programs</h3>
+<ul class='devsite-footer-linkbox-list'>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 1)' href='//www.womentechmakers.com'>
+              Women Techmakers
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 2)' href='//developers.google.com/community/gdg'>
+              Google Developer Groups
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 3)' href='//developers.google.com/community/experts'>
+              Google Developers Experts
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 4)' href='//developers.google.com/community/accelerators'>
+              Accelerators
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 5)' href='//developers.google.com/community/gdsc'>
+              Google Developer Student Clubs
+            </a>
+</li>
+</ul>
+</li>
+<li class='devsite-footer-linkbox '>
+<h3 class='devsite-footer-linkbox-heading no-link'>Developer consoles</h3>
+<ul class='devsite-footer-linkbox-list'>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 1)' href='//console.developers.google.com'>
+              Google API Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 2)' href='//console.cloud.google.com'>
+              Google Cloud Platform Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 3)' href='//play.google.com/apps/publish'>
+              Google Play Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 4)' href='//console.firebase.google.com'>
+              Firebase Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 5)' href='//console.actions.google.com'>
+              Actions on Google Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 6)' href='//cast.google.com/publish'>
+              Cast SDK Developer Console
+            </a>
+</li>
+<li class='devsite-footer-linkbox-item'>
+<a class='devsite-footer-linkbox-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Link (index 7)' href='//chrome.google.com/webstore/developer/dashboard'>
+              Chrome Web Store Dashboard
+            </a>
+</li>
+</ul>
+</li>
+</div>
+</nav>
+<div class='devsite-footer-utility nocontent'>
+<nav aria-label='Other Google Developers websites' class='devsite-footer-sites'>
+<a class='devsite-footer-sites-logo-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Google Developers Link' href='https://developers.google.com/'>
+<img alt='Google Developers' class='devsite-footer-sites-logo' loading='lazy' src='https://www.gstatic.com/devrel-devsite/prod/v0a713fec70a4b4c54311265d5142e962747a0e45a24063467564a2765c008ac7/developers/images/lockup-developers.svg'/>
+</a>
+<div class='devsite-footer-sites-list'>
+<div class='devsite-footer-sites-item'>
+<a class='devsite-footer-sites-link                     gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Android Link' href='//developer.android.com'>
+            Android
+          </a>
+</div>
+<div class='devsite-footer-sites-item'>
+<a class='devsite-footer-sites-link                     gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Chrome Link' href='//developer.chrome.com/home'>
+            Chrome
+          </a>
+</div>
+<div class='devsite-footer-sites-item'>
+<a class='devsite-footer-sites-link                     gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Firebase Link' href='//firebase.google.com'>
+            Firebase
+          </a>
+</div>
+<div class='devsite-footer-sites-item'>
+<a class='devsite-footer-sites-link                     gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Google Cloud Platform Link' href='//cloud.google.com'>
+            Google Cloud Platform
+          </a>
+</div>
+<div class='devsite-footer-sites-item'>
+<a class='devsite-footer-sites-link                     gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer All products Link' href='//developers.google.com/products'>
+            All products
+          </a>
+</div>
+</div>
+</nav>
+<nav aria-label='Utility links' class='devsite-footer-utility-links'>
+<div class='devsite-footer-utility-list'>
+<li class='devsite-footer-utility-item'>
+<a class='devsite-footer-utility-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Terms link' href='//developers.google.com/terms/site-terms'>
+            Terms
+          </a>
+          |
+          <a class='devsite-footer-utility-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Privacy link' href='//policies.google.com/privacy'>
+            Privacy
+          </a>
+</li>
+<li class='devsite-footer-utility-item devsite-footer-utility-button'>
+<span class='devsite-footer-utility-description'>Sign up for the Google Developers newsletter</span>
+<a class='devsite-footer-utility-link gc-analytics-event' data-category='Site-Wide Custom Events' data-label='Footer Subscribe link' href='//services.google.com/fb/forms/googledevelopersnewsletter/?utm_medium=referral&utm_source=google-products&utm_team=googledevs&utm_campaign=201611-newsletter-launch'>
+            Subscribe
+          </a>
+</li>
+</div>
+</nav>
+</div>
+</div>
+</div></div>
+<script type='text/javascript'>
+    // <![CDATA[
+  const qs = (string, el = document) => el.querySelector(string);
+  const qsa = (string, el = document) => el.querySelectorAll(string);
+
+  class App {
+    constructor() {
+      this.body = qs('body');
+
+      this.overlay = qs('.header__overlay');
+      this.hamburger = qs('.header__hamburger');
+      this.sideMenu = qs('.header__side-menu');
+
+      this.copyIcon = qs('.copy-link');
+
+      this._toggleMobileMenu = this._toggleMobileMenu.bind(this);
+      this._closeMenu = this._closeMenu.bind(this);
+      this._trapFocus = this._trapFocus.bind(this);
+      this._onResize = this._onResize.bind(this);
+      this._getScreen = this._getScreen.bind(this);
+      this._copyLink = this._copyLink.bind(this);
+      this._setLatestActive();
+      this._redirectWithMaxResults();
+
+      this.addEventListeners();
+    }
+
+    addEventListeners() {
+      window.addEventListener('resize', this._onResize);
+      this.hamburger.addEventListener('click', this._toggleMobileMenu);
+      if (this.copyIcon) {
+        this.copyIcon.addEventListener('click', this._copyLink);
+      }
+    }
+
+    // functions for the mobile nav header
+    get isMenuOpen() {
+        return this.sideMenu.classList.contains('is-open');
+    }
+
+    _toggleMobileMenu() {
+        this.body.classList.toggle('no-scroll');
+        this.overlay.classList.toggle('show');
+        this.sideMenu.classList.toggle('is-open');
+
+        if (this.isMenuOpen) {
+            this.overlay.addEventListener('click', this._closeMenu);
+            this.overlay.focus();
+            this.sideMenu.addEventListener('keydown', this._trapFocus);
+        } else {
+            this.overlay.removeEventListener('click', this._closeMenu);
+            this.sideMenu.removeEventListener('keydown', this._trapFocus);
+        }
+    }
+
+    _trapFocus(e) {
+      const sideMenuEls = this.sideMenu.querySelectorAll('a[href]:not([disabled]), button:not([disabled]), textarea:not([disabled]), input[type="text"]:not([disabled]), input[type="radio"]:not([disabled]), input[type="checkbox"]:not([disabled]), select:not([disabled])');
+      const focusableEls = [this.overlay, ...sideMenuEls]; // add the overlay
+      const firstFocusableEl = focusableEls[0];
+      const lastFocusableEl = focusableEls[focusableEls.length - 1];
+      const KEYCODE_TAB = 9;
+      const isTabPressed = (e.key === 'Tab' || e.keyCode === KEYCODE_TAB);
+
+      if (!isTabPressed) {
+        return;
+      }
+      if ( e.shiftKey ) /* shift + tab */ {
+        if (document.activeElement === firstFocusableEl) {
+          lastFocusableEl.focus();
+            e.preventDefault();
+          }
+      } else /* tab */ {
+        if (document.activeElement === lastFocusableEl) {
+            firstFocusableEl.focus();
+            e.preventDefault();
+        }
+      }
+    }
+
+    _closeMenu(e) {
+        if (this.isMenuOpen) {
+            this._toggleMobileMenu();
+        }
+    }
+
+    _getScreen() {
+      return {
+        scrollY: window.scrollY,
+        width: window.innerWidth,
+        height: window.innerHeight,
+      }
+    };
+
+    _onResize() {
+        if (this._getScreen().width > 839 && this.isMenuOpen) {
+            this._closeMenu();
+        }
+    }
+
+    // copy the blog link for sharing
+    _copyLink() {
+      const link = this.copyIcon.getAttribute('value');
+      const textArea = document.createElement('textarea');
+      textArea.value = link;
+      document.body.append(textArea);
+      textArea.select();
+      textArea.setSelectionRange(0, 99999); /* For mobile devices */
+      const copied = document.execCommand('copy');
+      document.body.removeChild(textArea);
+
+      /* Alert the copied text */
+      const copyTooltip = qs('.copy-tooltip');
+      if (copyTooltip) {
+        copyTooltip.classList.toggle('active');
+        setTimeout(() => {copyTooltip.classList.toggle('active');}, 3000);
+      }
+    }
+
+    // add the active style to Latest in the header nav if we're on the index page
+    _setLatestActive() {
+      const {pathname, search} = window.location;
+      const isCurrentPathLatest = pathname === '/' || (pathname === '/search' && !/label/.test(search))
+      if(isCurrentPathLatest){
+        const allTag = qsa('.header__nav-item.all');
+		    allTag.forEach(tag => tag.closest("tab").classList.add('active'));
+      }
+    }
+
+    // Adds max-results query param if URL contains a label filter but
+    // doesn't contain max-results
+    _redirectWithMaxResults(){
+      const {search} = window.location;
+      const isLabelMatch = /search/gi.test(search) || window.location.pathname === '/search'
+      const queryParams = new URLSearchParams(window.location.search);
+
+      if(isLabelMatch && queryParams.get('max-results') != 12){
+        queryParams.set("max-results", "12");
+        window.location.href = window.location.origin + "/search?" +queryParams.toString();
+      }
+    }
+  }
+
+  window.addEventListener('DOMContentLoaded', () => {
+    new App();
+  });
+  // ]]>
+</script>
+<!--Het is jouw verantwoordelijkheid om je bezoekers te laten weten dat je er op je blog cookies worden gebruikt en gegevens worden verzameld. Blogger stelt een standaardmelding beschikbaar die je op je blog kunt gebruiken. Je kunt de melding naar wens aanpassen of zelf een eigen melding opstellen. Zie http://www.blogger.com/go/cookiechoices voor meer informatie.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Deze site gebruikt cookies van Google om services te leveren en verkeer te analyseren. Je IP-adres en user-agent worden met Google gedeeld, samen met prestatie- en beveiligingsstatistieken om servicekwaliteit te garanderen, gebruiksstatistieken te genereren, misbruik te detecteren en maatregelen te treffen.',
+          (window.cookieOptions && cookieOptions.close) || 'OK',
+          (window.cookieOptions && cookieOptions.learn) || 'Meer informatie',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1514103161-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY68FV6S6SbqwZPNsmSXvRZy24kc2g:1668005857853';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d596098824972435195','//developers.googleblog.com//api/v1/instance/peers?m\x3d1','596098824972435195');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '596098824972435195', 'title': 'Google Developers Blog', 'url': 'https://developers.googleblog.com//api/v1/instance/peers?m\x3d1', 'canonicalUrl': 'https://developers.googleblog.com//api/v1/instance/peers', 'homepageUrl': 'https://developers.googleblog.com/', 'searchUrl': 'https://developers.googleblog.com/search', 'canonicalHomepageUrl': 'https://developers.googleblog.com/', 'blogspotFaviconUrl': 'https://developers.googleblog.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-19996418-48', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': true, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Google Developers Blog - Atom\x22 href\x3d\x22https://developers.googleblog.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Google Developers Blog - RSS\x22 href\x3d\x22https://developers.googleblog.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Google Developers Blog - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/596098824972435195/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/e257cb676eb093b3', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'error_page', 'pageName': '', 'pageTitle': 'Google Developers Blog', 'metaDescription': 'News and insights on Google platforms, tools, and events.'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Google Developers Blog', 'description': 'News and insights on Google platforms, tools, and events.', 'url': 'https://developers.googleblog.com//api/v1/instance/peers?m\x3d1', 'type': 'error', 'isSingleItem': false, 'isMultipleItems': false, 'isError': true, 'isPage': false, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'nav', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'Body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'navMessage': 'Sorry, the page you were looking for in this blog does not exist.'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'Footer', document.getElementById('HTML2'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
+0
+

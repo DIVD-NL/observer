@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://edge.occm.cc; font-src 'self' https://edge.occm.cc; img-src 'self' data: blob: https://edge.occm.cc; style-src 'self' https://edge.occm.cc 'nonce-j5ewNuhxEIt56BeAPnkYSA=='; media-src 'self' data: https://edge.occm.cc; frame-src 'self' https:; child-src 'self' blob: https://edge.occm.cc; worker-src 'self' blob: https://edge.occm.cc; connect-src 'self' blob: data: wss://edge.occm.cc https://edge.occm.cc; manifest-src 'self' https://edge.occm.cc
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:45 GMT
+Etag: W/"f50304281ba10ad37a9acab6bfb61420"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T20:55:00.789906Z
+X-Request-Id: 6de543db-0fd9-4599-badb-e7f3d029c3af
+X-Runtime: 0.015986
+X-Xss-Protection: 0
+
+1ce
+["ani.work","don.naru.cafe","k.lapy.link","stella.ocellaris.dev","yumeka.xyz","mstdn.xn--h1ahnbk7d.xn--p1ai","occm.cc","madost.one","rdrama.cc","social.wideboys.org","ak.kawen.space","kawen.space","don.nzws.me","qdon.space","fedi.absturztau.be","tilde.zone","vibewave.space","k.yumeka.xyz","cybre.space","lesbian.solutions","mk.nixnet.social","mk.absturztau.be","mstdn.io","mastodon.sdf.org","snug.moe","cybre.town","planet.moe","birdsite.tcjc.uk","twingyeo.kr"]
+0
+

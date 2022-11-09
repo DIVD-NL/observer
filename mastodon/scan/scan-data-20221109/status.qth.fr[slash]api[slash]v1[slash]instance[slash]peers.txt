@@ -1,0 +1,24 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 356
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:17 GMT
+Etag: "5e35f44a-164"
+Server: nginx/1.18.0
+
+<html>
+<head>
+
+
+<link rel='stylesheet' type='text/css' href='//httppages.qth.fr/styles.css'/>
+
+</head>
+<body>
+
+<div class='body'><img src='//httppages.qth.fr/img/cat-work-pbm.jpg'></div>
+<div class='footer'><p>En maintenance</p></div>
+<div class='services'><p><a href='https://status.qth.fr'>Voir l'&eacute;tat des services</a></p></div>
+
+
+</body>
+</html>

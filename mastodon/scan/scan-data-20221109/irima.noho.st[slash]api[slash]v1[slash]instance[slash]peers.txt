@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:38 GMT
+Etag: W/"139fa4331d59fb02009e3f1ca528073d"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.407165Z
+X-Request-Id: c02bbf9e-1c47-4a71-ae53-ccff83b6a04d
+X-Runtime: 0.011234
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+35
+["mastodon.ie","mastodon.tetaneutral.net","mstdn.fr"]
+0
+

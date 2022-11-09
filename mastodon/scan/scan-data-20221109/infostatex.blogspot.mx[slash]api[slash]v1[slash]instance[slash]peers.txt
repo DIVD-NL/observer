@@ -1,0 +1,28 @@
+HTTP/1.1 302 Moved Temporarily
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Cache-Control: private, max-age=0
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:09:34 GMT
+Expires: Wed, 09 Nov 2022 15:09:34 GMT
+Location: https://infostatex.blogspot.com/api/v1/instance/peers
+Server: GSE
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+eb
+<HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://infostatex.blogspot.com/api/v1/instance/peers">here</A>.
+</BODY>
+</HTML>
+
+0
+

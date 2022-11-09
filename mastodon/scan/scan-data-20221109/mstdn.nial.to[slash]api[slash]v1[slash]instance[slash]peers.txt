@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777e69fd87f961-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.nial.to; img-src 'self' https: data: blob: https://mstdn.nial.to; style-src 'self' https://mstdn.nial.to 'nonce-D+22oIGw4Mqg4+JJq6UNvQ=='; media-src 'self' https: data: https://mstdn.nial.to; frame-src 'self' https:; manifest-src 'self' https://mstdn.nial.to; connect-src 'self' data: blob: https://mstdn.nial.to https://mstdn.nial.to mstdn-streaming.nial.to; script-src 'self' https://mstdn.nial.to; child-src 'self' blob: https://mstdn.nial.to; worker-src 'self' blob: https://mstdn.nial.to
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:41 GMT
+Etag: W/"2466318e8ec176fda6738c7a5a528eec"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0cZSgcN09UtuP1Wgowuq9UL5kXcuA5H%2FFSATznj4hMJ7yljcfX5AJPmIM2QQwFw47FeQPOAR0jYyZ%2Fy3SZzKTLSNmRIdSZ71SM8vx29gbRZpzRz0NFvLK6P%2BVZ2YWh7J"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.535616Z
+X-Request-Id: c24c0f58-c3ae-4a79-9732-1c5954444f00
+X-Runtime: 0.044708
+X-Xss-Protection: 0
+
+["botsin.space","mastodon.cloud","pouet.chapril.org","floss.social","mastodon.lol","akko.saturno.black","fedi.absturztau.be","vibewave.space","mastodon.art","qoto.org","fosstodon.org","social.alesan.io","mastodon.sdf.org","mamot.fr","openbiblio.social","mstdn.social","mastodon.coffee","mastodon.green","f.freinetz.ch","mastodon.online","mastodon.world","mas.to","treehouse.systems","noc.social","mastodon.social"]

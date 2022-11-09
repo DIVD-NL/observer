@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767767dcbc1e2e5c-BRU
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:18 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SgoJwiEbDCUtoPyP1RQd%2BWt1%2FFTwejjgNP8HFY6ihwGphF%2BluefxtfihE7eUDPBQHPz%2F20YlPtquH8eflnGoeu9O1RDNlSPBZbqpUiA4maeqQZmbWTlJbqS88FIlSkcBvLXcm3ykCM4%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Account-Management-Status: none
+X-Response-Type: json
+
+b0c
+["friendica.hoijyun.com","friendica.bachgau.social","f.kretschmann.social","friendica.mifritscher.de","fr.readthefinemanual.net","g1zm0.social","quitter.pl","friendica.me","pirati.ca","friendica.philipp.info","friendica.offsite.guru","friendica.m14xa.ru","opensocial.at","rsd.dnshome.de\/friendica","friendica.ellih.eu","f.freinetz.ch","friendica.testitfor.me","pztrn.online","scl.clttr.info","fed.sonnenmulde.at","friend.geoffray-levasseur.org","friendica.jb-net.us","social.fedinet.de","rollenspiel.group","follow.schmaller.de","social.badabam.net","wiesbaden.social","friendica.mrpetovan.com","poliverso.org","friendica.mathernalproductions.com","friendica.mschmidt-et.de","talkabout.cf","herzbu.de","soc.citizen4.eu","philos.fkn-systems.de","friendica.ru","friendica.hellquist.eu","friendicarg.nsupdate.info","friendica.youhavewrites.social","f.iroiro.party","social.wageoffsite.com","friendica.ironbug.org","friendica.togart.de","dehawara.de","f.haeder.net","kudabiverse.com","friendica.ucy.de","social.trom.tf","keybored.me","social.tromdienste.de","social.outsourcedmath.com","letus.inspiredlife.fun","social.cool110.xyz","librenet.co.za","friendica.ambag.es","anarchydica.net","friendica.kommune4.de","f.xn--7s9hd.ws","vicedomini.cloud","social.yl.ms","friendica.hashy-net.de","anonsys.net","f.praschnig.com","friendica.a-zwenkau.de","nsfw.wnymathguy.com","frnd.nanoscopic.de","fri.aethercom.de","lastfree.space","friendica.myportal.social","friendica.nz","soc.schuerz.at","social.chadwaltercummings.me","friendica.opensocial.space","mb.neurario.com","social.dorf-post.de","schmaker.eu","social.softmetz.de","space.rick.gr","social.digitalcastle.me","friendica.utzer.de","social.cyano.at","social.jmueller.eu","la-verite-vaincra.com","friendl.y-y.li","nerdica.net","social.gl-como.it","friends.wimmer-edv.de","convenient.email","friendica.hubup.pro","friendica.gidikroon.eu","squeet.me","friendica.vrije-mens.org","friendica.ingram-braun.net","social.agb-web.de","friendica.eskimo.com","social.thierrytalbert.fr","piratenpartei.social","social.lucentinian.com","friendica.opencloud.lu","walls.social","rud.life","friendica.xyz","friends.polli.social","etiketi.de","friend.pierobosio.info","friends.bikegraz.at","friendica.produnis.de","friendica.oldkid.digital","social.johnassel.de","social.evu-group.de","www.urbanmind.net","meld.de","loma.ml","fabler.su","horizin.de","hullblasters.club","redeyes.club","thotsofa304.club","social.tyngsboroughma.net","t2.thotsofa304.club","v2.ebano.social","friend.snet.blog","mastodon.hk","friendica.chudzinski.com.de","dis-le.de","friendica.daniel-siepmann.de","bergstrasse.social","social.anacreonte.eu","friendica.heikosblog.eu","mastodon.social","mastodon.online","hostux.social","someone.elses.computer","social.network.europa.eu","tube.network.europa.eu","mas.to","g0v.social"]
+0
+

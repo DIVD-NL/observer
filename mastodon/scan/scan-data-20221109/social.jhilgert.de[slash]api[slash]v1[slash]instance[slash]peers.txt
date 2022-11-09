@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.jhilgert.de; img-src 'self' https: data: blob: https://social.jhilgert.de; style-src 'self' https://social.jhilgert.de 'nonce-diZ0S2Vs+m8qbRkV7IWzTA=='; media-src 'self' https: data: https://social.jhilgert.de; frame-src 'self' https:; manifest-src 'self' https://social.jhilgert.de; connect-src 'self' data: blob: https://social.jhilgert.de https://social.jhilgert.de wss://social.jhilgert.de; script-src 'self' https://social.jhilgert.de; child-src 'self' blob: https://social.jhilgert.de; worker-src 'self' blob: https://social.jhilgert.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:47 GMT
+Etag: W/"732350389e7c2f9a253c65cc6edb28f0"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.519926Z
+X-Request-Id: ea5bda21-b62c-4be2-b7f2-26ecd0cdc6e1
+X-Runtime: 0.013940
+X-Xss-Protection: 0
+
+34e
+["rollenspiel.social","social.tchncs.de","ruhr.social","edi.social","hessen.social","mstdn.social","troet.cafe","relay.libranet.de","muenchen.social","nrw.social","mastodon.cloud","raru.re","dice.camp","itacfl.link","mstdn.ca","det.social","chaos.social","digitalcourage.social","mastodon.scot","fulda.social","mastodon.uno","forum.friendi.ca","mastodon.nu","toot.fedilab.app","mastodon.ie","mindly.social","libranet.de","medibubble.org","mastodon.online","mastodon.art","fightforthefuture.org","social.yl.ms","journa.host","awscommunity.social","social.cologne","masto.ai","toot.cat","nangang.travnewmatic.com","mastodonapp.uk","universeodon.com","newsie.social","nerdculture.de","mastodon.social","toot.community","mas.to","anonsys.net","mastouille.fr","venera.social","squeet.me","space.rick.gr","f.haeder.net","vulpine.club","soc.schuerz.at"]
+0
+

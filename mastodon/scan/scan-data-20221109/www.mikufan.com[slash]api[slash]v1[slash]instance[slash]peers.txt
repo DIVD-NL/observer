@@ -1,0 +1,645 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, must-revalidate, max-age=0
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778baf9a2683e4-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:45 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://www.mikufan.com/wp-json/>; rel="https://api.w.org/"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DRveigXZt3MYxtfMI71FsGgyPW5L1kjp3G9GqZJW%2BMun6avNVfBlhIoodeQ%2F%2BsXcncJEWIBKLReFXDYNbv5bS55Z2DX90x2H9dbWchvcOtgS44PclfNZcbzSmA1%2FSAzhzj8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding, Cookie
+
+d0bb
+<!DOCTYPE html>
+<!--[if IE 6]> <html id="ie6" lang="en-US" id="html" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]> <html id="ie7" lang="en-US" id="html" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]> <html id="ie8" lang="en-US" id="html" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)]><!--> <html lang="en-US" id="html" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<link rel="pingback" href="https://www.mikufan.com/xmlrpc.php" />
+
+<meta name="google-site-verification" content="Ufd-CbXehnehnTz9d1m1yPM8zsW_tWxq5ggkgYuIJSU" />
+
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5ac04209aa671e0013a45809&product=social-ab' async='async'></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
+<link rel='shortcut icon' href='https://www.mikufan.com/wp-content/uploads/2015/11/favicon.png' />
+<!--[if lt IE 9]>
+	<script src="https://www.mikufan.com/wp-content/themes/suffusion/scripts/html5.js" type="text/javascript"></script>
+	<![endif]-->
+<title>Page not found &#8211; Mikufan.com</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.mikufan.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mikufan.com &raquo; Feed" href="https://www.mikufan.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mikufan.com &raquo; Comments Feed" href="https://www.mikufan.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mikufan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='arqam-style-css' href='https://www.mikufan.com/wp-content/plugins/arqam/assets/style.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.mikufan.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='arve-main-css' href='https://www.mikufan.com/wp-content/plugins/advanced-responsive-video-embedder/build/main.css?ver=1bca356de819b25e2c48f05fc0d1b1e9' type='text/css' media='all' />
+<link rel='stylesheet' id='arve-pro-css' href='https://www.mikufan.com/wp-content/plugins/arve-pro/build/main.css?ver=8b923f6abe969de964a67e821eab9d5d' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.mikufan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='suffusion-theme-css' href='https://www.mikufan.com/wp-content/themes/suffusion/style.css?ver=4.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='suffusion-theme-skin-1-css' href='https://www.mikufan.com/wp-content/themes/suffusion/skins/light-theme-gray-1/skin.css?ver=4.4.9' type='text/css' media='all' />
+<!--[if !IE]>--><link rel='stylesheet' id='suffusion-rounded-css' href='https://www.mikufan.com/wp-content/themes/suffusion/rounded-corners.css?ver=4.4.9' type='text/css' media='all' />
+<!--<![endif]-->
+<!--[if gt IE 8]><link rel='stylesheet' id='suffusion-rounded-css'  href='https://www.mikufan.com/wp-content/themes/suffusion/rounded-corners.css?ver=4.4.9' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]><link rel='stylesheet' id='suffusion-ie-css'  href='https://www.mikufan.com/wp-content/themes/suffusion/ie-fix.css?ver=4.4.9' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='suffusion-generated-css' href='https://www.mikufan.com/wp-content/uploads/suffusion/custom-styles.css?ver=4.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://www.mikufan.com/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' />
+<style id='fancybox-inline-css' type='text/css'>
+#fancybox-content{border-color:#fff;}
+</style>
+<script type='text/javascript' src='https://www.mikufan.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script async="async" type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/advanced-responsive-video-embedder/build/main.js?ver=1bca356de819b25e2c48f05fc0d1b1e9' id='arve-main-js'></script>
+<script type='text/javascript' id='suffusion-js-extra'>
+/* <![CDATA[ */
+var Suffusion_JS = {"wrapper_width_type_page_template_1l_sidebar_php":"fixed","wrapper_max_width_page_template_1l_sidebar_php":"1200","wrapper_min_width_page_template_1l_sidebar_php":"600","wrapper_orig_width_page_template_1l_sidebar_php":"75","wrapper_width_type_page_template_1r_sidebar_php":"fixed","wrapper_max_width_page_template_1r_sidebar_php":"1200","wrapper_min_width_page_template_1r_sidebar_php":"600","wrapper_orig_width_page_template_1r_sidebar_php":"75","wrapper_width_type_page_template_1l1r_sidebar_php":"fixed","wrapper_max_width_page_template_1l1r_sidebar_php":"1200","wrapper_min_width_page_template_1l1r_sidebar_php":"600","wrapper_orig_width_page_template_1l1r_sidebar_php":"75","wrapper_width_type_page_template_2l_sidebars_php":"fixed","wrapper_max_width_page_template_2l_sidebars_php":"1200","wrapper_min_width_page_template_2l_sidebars_php":"600","wrapper_orig_width_page_template_2l_sidebars_php":"75","wrapper_width_type_page_template_2r_sidebars_php":"fixed","wrapper_max_width_page_template_2r_sidebars_php":"1200","wrapper_min_width_page_template_2r_sidebars_php":"600","wrapper_orig_width_page_template_2r_sidebars_php":"75","wrapper_width_type":"fixed","wrapper_max_width":"1200","wrapper_min_width":"0","wrapper_orig_width":"100","wrapper_width_type_page_template_no_sidebars_php":"fixed","wrapper_max_width_page_template_no_sidebars_php":"1200","wrapper_min_width_page_template_no_sidebars_php":"0","wrapper_orig_width_page_template_no_sidebars_php":"100","suf_featured_interval":"4000","suf_featured_transition_speed":"1000","suf_featured_fx":"fade","suf_featured_pause":"Pause","suf_featured_resume":"Resume","suf_featured_sync":"0","suf_featured_pager_style":"numbers","suf_nav_delay":"250","suf_nav_effect":"fade","suf_navt_delay":"500","suf_navt_effect":"fade","suf_jq_masonry_enabled":"disabled","suf_fix_aspect_ratio":"preserve","suf_show_drop_caps":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/themes/suffusion/scripts/suffusion.js?ver=4.4.9' id='suffusion-js'></script>
+<link rel="https://api.w.org/" href="https://www.mikufan.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mikufan.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mikufan.com/wp-includes/wlwmanifest.xml" />
+<style type="text/css" media="screen">
+			
+		</style>
+
+
+<meta name="onesignal" content="wordpress-plugin" />
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://www.mikufan.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '6a7e54c6-642c-41aa-b2ec-44d93ba99111';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing to Mikufan.com!";
+oneSignal_options['path'] = "https://www.mikufan.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.477dedc8-8bcf-40fd-b64c-238033111672";
+oneSignal_options['promptOptions'] = { };
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style type="text/css">
+		.custom-header .blogtitle a,
+	.custom-header .description {
+		position: absolute !important;
+		clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+		clip: rect(1px, 1px, 1px, 1px);
+	}
+		</style>
+<link rel="me" href="https://twitter.com/jrharbort" /> 
+<style type="text/css">
+			/* <![CDATA[ */
+#header-container {-moz-background-size: contain; -webkit-background-size: contain; -o-background-size: contain; background-size: contain;}
+
+#header-container {
+        position: relative;
+}
+ 
+#header-container::before {
+  content: "";
+  display: block;
+  padding-top: 41%;
+}
+ 
+#header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+@media screen and (max-width: 480px) {
+  #header-container::before {
+  content: "";
+  display: block;
+  padding-top: 43%;}
+}
+
+@media screen and (max-width: 480px) {
+        #header {
+                min-height: 0;
+                height: calc(100% - 50px);
+        }
+}			/* ]]> */
+		</style>
+
+
+<meta name="twitter:widgets:link-color" content="#000000" /><meta name="twitter:widgets:border-color" content="#000000" /><meta name="twitter:partner" content="tfwp" />
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-3242194-2");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Mikufan.com" />
+<meta property="og:title" content="Mikufan.com" />
+<meta property="og:url" content="https://www.mikufan.com/api/v1/instance/peers" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="A Hatsune Miku Fansite - News And Resources About Hatsune Miku" />
+<meta property="og:image" content="https://www.mikufan.com/wp-content/uploads/2018/04/header_main3.jpg" />
+<meta property="og:image:url" content="https://www.mikufan.com/wp-content/uploads/2018/04/header_main3.jpg" />
+<meta property="og:image:secure_url" content="https://www.mikufan.com/wp-content/uploads/2018/04/header_main3.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="400" />
+<meta property="article:publisher" content="https://www.facebook.com/MikuFanOfficial/" />
+<meta property="fb:app_id" content="1477183142388928" />
+
+<meta itemprop="name" content="Mikufan.com" />
+<meta itemprop="headline" content="Mikufan.com" />
+<meta itemprop="description" content="A Hatsune Miku Fansite - News And Resources About Hatsune Miku" />
+<meta itemprop="image" content="https://www.mikufan.com/wp-content/uploads/2018/04/header_main3.jpg" />
+<link rel="publisher" href="http://plus.google.com/100761263401613947903" />
+ 
+
+<meta name="twitter:title" content="Mikufan.com" />
+<meta name="twitter:url" content="https://www.mikufan.com/api/v1/instance/peers" />
+<meta name="twitter:description" content="A Hatsune Miku Fansite - News And Resources About Hatsune Miku" />
+<meta name="twitter:image" content="https://www.mikufan.com/wp-content/uploads/2018/04/header_main3.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@jrharbort" />
+
+
+
+
+</head>
+
+<script type="text/javascript">
+!function(){var n={addEvent:function(n,t,e,u){n.addEventListener?n.addEventListener(t,e,!1):n.attachEvent&&(n["e"+t+e]=e,n[t+e]=function(){n["e"+t+e](window.event,u)},n.attachEvent("on"+t,n[t+e]))},input:"",pattern:"83657875898585",load:function(t){this.addEvent(document,"keydown",function(e,u){return u&&(n=u),n.input+=e?e.keyCode:event.keyCode,n.input.length>n.pattern.length&&(n.input=n.input.substr(n.input.length-n.pattern.length)),n.input==n.pattern?(n.code(t),n.input="",e.preventDefault(),!1):void 0},this)},code:function(){var n=jQuery("#header-container"),t=new Audio("https://www.mikufan.com/wp-content/uploads/2015/10/miku_sankyuu.mp3");t.play(),n.fadeOut(2e3,function(){n.css("background-image","url(https://www.mikufan.com/wp-content/uploads/2015/10/header_main2.jpg)"),n.fadeIn(1e3)})}};n.load()}();
+</script>
+
+<body class="error404 light-theme-gray-1 suffusion-custom preset-1000px device-desktop">
+<div id="wrapper" class="fix">
+<div id="header-container" class="custom-header fix">
+<header id="header" class="fix">
+<h1 class="blogtitle left"><a href="https://www.mikufan.com">Mikufan.com</a></h1>
+<div class="description right">A Hatsune Miku Fansite</div>
+</header>
+<nav id="nav" class="tab fix">
+<div class='col-control left'>
+<ul class='sf-menu'>
+<li><a href='https://www.mikufan.com'>Home</a></li><li class="page_item page-item-5"><a href="https://www.mikufan.com/about-2/">About/Contact</a></li>
+<li class="page_item page-item-114"><a href="https://www.mikufan.com/hatsune-miku-products-for-fans/">Hatsune Miku Products for Fans</a></li>
+<li class="page_item page-item-14"><a href="https://www.mikufan.com/submit-news/">Submit News Suggestion</a></li>
+<li class="page_item page-item-25537"><a href="https://www.mikufan.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div id="container" class="fix">
+<div id="main-col">
+<div id="content">
+<article class="post">
+<header class="post-header">
+<h2 class="posttitle">
+Error 404 - Not Found </h2>
+</header>
+<div class="entry">
+<p>
+Sorry, the page that you are looking for does not exist.
+<iframe width="693" height="390" src="https://www.youtube.com/embed/z4D6bwsU6CA?rel=0" frameborder="0" allowfullscreen></iframe> </p>
+<form method="get" class="searchform " action="https://www.mikufan.com/">
+<input type="text" name="s" class="searchfield" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+<input type="submit" class="searchsubmit" value="" name="searchsubmit" />
+</form>
+</div>
+</article>
+</div>
+</div>
+<div id='sidebar-shell-1' class='sidebar-shell sidebar-shell-right'>
+<div class="dbx-group right flattened warea" id="sidebar">
+<aside id="search-2" class="suf-flat-widget search">
+<form method="get" class="searchform " action="https://www.mikufan.com/">
+<input type="text" name="s" class="searchfield" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+<input type="submit" class="searchsubmit" value="" name="searchsubmit" />
+</form>
+</aside>
+<aside id="recent-posts-2" class="suf-flat-widget widget_recent_entries">
+<h3>Whats new, Miku?</h3>
+<ul>
+<li>
+<a href="https://www.mikufan.com/happy-miku-day-2022/">Happy Miku Day 2022!</a>
+</li>
+<li>
+<a href="https://www.mikufan.com/goodsmile-racing-announces-racing-miku-2022-and-super-gt-2022-season-entry/">Goodsmile Racing Announces Racing Miku 2022 and Super GT 2022 Season Entry</a>
+</li>
+<li>
+<a href="https://www.mikufan.com/goodsmile-racing-finishes-4th-at-the-season-finale-of-super-gt-2021/">Goodsmile Racing Finishes 4th at the Season Finale of Super GT 2021</a>
+</li>
+</ul>
+</aside><aside id="arqam_counter-widget-2" class="suf-flat-widget arqam_counter-widget"><h3>Follow us</h3> <div class="arqam-widget-counter arq-outer-frame arq-colored arq-col3 inside-widget">
+<ul>
+<li class="arq-facebook">
+<a href="http://www.facebook.com/MikuFanOfficial" target="_blank">
+<i class="counter-icon arqicon-facebook"></i> <span>227k</span>
+<small>Fans</small>
+</a>
+</li>
+<li class="arq-instagram">
+<a href="http://instagram.com/mikufanofficial" target="_blank">
+<i class="counter-icon arqicon-instagram"></i> <span>30,309</span>
+<small>Followers</small>
+</a>
+</li>
+<li class="arq-twitter">
+<a href="http://twitter.com/jrharbort" target="_blank">
+<i class="counter-icon arqicon-twitter"></i> <span>7,540</span>
+<small>Followers</small>
+</a>
+</li>
+<li class="arq-youtube">
+<a href="http://youtube.com/user/jrharbort" target="_blank">
+<i class="counter-icon arqicon-youtube"></i> <span>56,600</span>
+<small>Subscribers</small>
+</a>
+</li>
+</ul>
+</div>
+
+</aside><aside id="custom_html-7" class="widget_text suf-flat-widget widget_custom_html"><h3>MikuFan Discord</h3><div class="textwidget custom-html-widget"><center><a href="https://discord.gg/mikufanofficial" target="_blank" title="MikuFan Discord" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2019/05/fc0b01fe10a0b8c602fb0106d8189d9b.png" width="180" alt="MikuFan Discord"></a></center></div></aside><aside id="custom_html-2" class="widget_text suf-flat-widget widget_custom_html"><h3>Partner Sites</h3><div class="textwidget custom-html-widget"><p id="banners-small"><center><a href="http://blog.livedoor.jp/tokikowww" target="_blank" title="Tokiko's Diary Sapporo" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2015/03/tmf2015w.jpg" width="180" alt="Tokiko's Diary Sapporo"></a>
+<a href="https://vocadb.net/" target="_blank" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2013/08/vocaDB-new-180x60.jpg" alt="Vocaloid Database"></a>
+<a href="http://www.reddit.com/r/Vocaloid/" target="_blank" title="Vocaloid Reddit" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2018/07/rvocaloid200.jpg" width="180" alt="Vocaloid Reddit"></a>
+<a href="http://vocaloidradio.com/" target="_blank" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2014/05/Vocaloid-Radio.jpg" alt="Vocaloid Radio"></a></center></p></div></aside><aside id="custom_html-4" class="widget_text suf-flat-widget widget_custom_html"><h3>Hatsune Miku Goods @ Tokyo Otaku Mode!</h3><div class="textwidget custom-html-widget"><p><center><a href="https://otakumode.com/fb/88N" target="_blank" rel="noopener"><img src="https://www.mikufan.com/wp-content/uploads/2018/07/300_100.jpg" width="180" border="0" alt="Tokyo Otaku Mode" title="Tokyo Otaku Mode" /></a></center></p>
+<p>If Hatsune Miku goods and apparel are what you're after, our friends at Tokyo Otaku Mode have the latest and greatest. <a href="https://otakumode.com/search?mode=shop&category=&keyword=hatsune+miku&utm_campaign=affiliate_514febf62f0d5a3f6b0019ec&utm_medium=affiliate&utm_source=ad">Click here to check them out!</a></p></div></aside><aside id="custom_html-5" class="widget_text suf-flat-widget widget_custom_html"><h3>Hatsune Miku CDs, Blu-Rays, Games and Figures from CDJapan!</h3><div class="textwidget custom-html-widget"><p><center><a href="https://goo.gl/ts4FMi"><img src="https://www.mikufan.com/wp-content/uploads/2012/10/cdjapan.png" alt="Miku goods on CDJapan"></a></center></p>
+<p>CDJapan offers a wide range of CDs, DVDs, Blu-Rays, games and even figures to meet all your Vocaloid needs. <a href="https://goo.gl/ts4FMi">Click here to check it out.</a> Worldwide shipping available!</p></div></aside><aside id="custom_html-3" class="widget_text suf-flat-widget widget_custom_html"><h3>Hatsune Miku: Magical Mirai 2017 on Blu-Ray!</h3><div class="textwidget custom-html-widget"><p><center><a href="https://bit.ly/2IJbxma"><img src="https://www.mikufan.com/wp-content/uploads/2018/07/VIZL-1271.jpg" alt="Hatsune Miku Live Concert Blu-Ray"></a></center></p>
+<p>Get your hands on the Blu-Ray release of "Hatsune Miku: Magical Mirai 2017"! Blu-Ray features all performed songs in stunning full HD! Available in <b><a href="https://bit.ly/2IQRxgN">Regular</a></b> and <b><a href="https://bit.ly/2IJbxma">Limited</a></b> editions!</p></div></aside><aside id="calendar-2" class="suf-flat-widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+<caption>November 2022</caption>
+<thead>
+<tr>
+<th scope="col" title="Monday">M</th>
+<th scope="col" title="Tuesday">T</th>
+<th scope="col" title="Wednesday">W</th>
+<th scope="col" title="Thursday">T</th>
+<th scope="col" title="Friday">F</th>
+<th scope="col" title="Saturday">S</th>
+<th scope="col" title="Sunday">S</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+</tr>
+<tr>
+<td>7</td><td>8</td><td id="today">9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+</tr>
+<tr>
+<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+</tr>
+<tr>
+<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+</tr>
+<tr>
+<td>28</td><td>29</td><td>30</td>
+<td class="pad" colspan="4">&nbsp;</td>
+</tr>
+</tbody>
+</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+<span class="wp-calendar-nav-prev"><a href="https://www.mikufan.com/2022/03/">&laquo; Mar</a></span>
+<span class="pad">&nbsp;</span>
+<span class="wp-calendar-nav-next">&nbsp;</span>
+</nav></div></aside><aside id="categories-180833064" class="suf-flat-widget widget_categories"><h3>Categories</h3><form action="https://www.mikufan.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="38">Events&nbsp;&nbsp;(746)</option>
+<option class="level-1" value="37">&nbsp;&nbsp;&nbsp;Concerts&nbsp;&nbsp;(289)</option>
+<option class="level-1" value="45">&nbsp;&nbsp;&nbsp;Exhibitions&nbsp;&nbsp;(328)</option>
+<option class="level-1" value="44">&nbsp;&nbsp;&nbsp;Goodsmile Racing&nbsp;&nbsp;(127)</option>
+<option class="level-1" value="1362">&nbsp;&nbsp;&nbsp;Magical Mirai&nbsp;&nbsp;(62)</option>
+<option class="level-1" value="1394">&nbsp;&nbsp;&nbsp;Miku Expo&nbsp;&nbsp;(51)</option>
+<option class="level-0" value="3">Hatsune Miku&nbsp;&nbsp;(1,718)</option>
+<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Anime&nbsp;&nbsp;(21)</option>
+<option class="level-1" value="1097">&nbsp;&nbsp;&nbsp;Chinese Miku&nbsp;&nbsp;(13)</option>
+<option class="level-1" value="36">&nbsp;&nbsp;&nbsp;English Miku&nbsp;&nbsp;(18)</option>
+<option class="level-1" value="48">&nbsp;&nbsp;&nbsp;Illustrations&nbsp;&nbsp;(65)</option>
+<option class="level-1" value="5">&nbsp;&nbsp;&nbsp;Meme&nbsp;&nbsp;(25)</option>
+<option class="level-1" value="34">&nbsp;&nbsp;&nbsp;Merchandise&nbsp;&nbsp;(955)</option>
+<option class="level-2" value="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Albums&nbsp;&nbsp;(78)</option>
+<option class="level-2" value="39">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figures&nbsp;&nbsp;(309)</option>
+<option class="level-2" value="711">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manga&nbsp;&nbsp;(1)</option>
+<option class="level-2" value="43">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software&nbsp;&nbsp;(110)</option>
+<option class="level-2" value="17">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;&nbsp;(249)</option>
+<option class="level-3" value="46">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Diva&nbsp;&nbsp;(104)</option>
+<option class="level-3" value="47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Mirai&nbsp;&nbsp;(8)</option>
+<option class="level-3" value="1947">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Sekai&nbsp;&nbsp;(2)</option>
+<option class="level-1" value="33">&nbsp;&nbsp;&nbsp;MMD&nbsp;&nbsp;(58)</option>
+<option class="level-1" value="41">&nbsp;&nbsp;&nbsp;Music&nbsp;&nbsp;(247)</option>
+<option class="level-2" value="12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acapella&nbsp;&nbsp;(9)</option>
+<option class="level-2" value="14">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Classic&nbsp;&nbsp;(19)</option>
+<option class="level-2" value="237">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDM&nbsp;&nbsp;(4)</option>
+<option class="level-2" value="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J-Pop&nbsp;&nbsp;(71)</option>
+<option class="level-2" value="238">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J-Rock&nbsp;&nbsp;(3)</option>
+<option class="level-1" value="8">&nbsp;&nbsp;&nbsp;Other&nbsp;&nbsp;(300)</option>
+<option class="level-2" value="42">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PotW&nbsp;&nbsp;(7)</option>
+<option class="level-1" value="983">&nbsp;&nbsp;&nbsp;Racing Miku&nbsp;&nbsp;(66)</option>
+<option class="level-1" value="50">&nbsp;&nbsp;&nbsp;Sakura Miku&nbsp;&nbsp;(12)</option>
+<option class="level-1" value="49">&nbsp;&nbsp;&nbsp;Snow Miku&nbsp;&nbsp;(95)</option>
+<option class="level-0" value="9">Other Vocaloids&nbsp;&nbsp;(70)</option>
+<option class="level-0" value="10">Site News&nbsp;&nbsp;(18)</option>
+<option class="level-1" value="15">&nbsp;&nbsp;&nbsp;Quick News&nbsp;&nbsp;(2)</option>
+<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(14)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</aside><aside id="archives-2" class="suf-flat-widget widget_archive"><h3>Archives</h3> <label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+<select id="archives-dropdown-2" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value='https://www.mikufan.com/2022/03/'> March 2022 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2021/12/'> December 2021 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2021/11/'> November 2021 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2021/10/'> October 2021 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2021/09/'> September 2021 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2021/08/'> August 2021 &nbsp;(3)</option>
+<option value='https://www.mikufan.com/2021/07/'> July 2021 &nbsp;(3)</option>
+<option value='https://www.mikufan.com/2021/06/'> June 2021 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2021/05/'> May 2021 &nbsp;(5)</option>
+<option value='https://www.mikufan.com/2021/04/'> April 2021 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2021/03/'> March 2021 &nbsp;(3)</option>
+<option value='https://www.mikufan.com/2021/02/'> February 2021 &nbsp;(3)</option>
+<option value='https://www.mikufan.com/2021/01/'> January 2021 &nbsp;(4)</option>
+<option value='https://www.mikufan.com/2020/12/'> December 2020 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2020/11/'> November 2020 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2020/10/'> October 2020 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2020/09/'> September 2020 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2020/08/'> August 2020 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2020/07/'> July 2020 &nbsp;(4)</option>
+<option value='https://www.mikufan.com/2020/06/'> June 2020 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2020/05/'> May 2020 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2020/04/'> April 2020 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2020/03/'> March 2020 &nbsp;(5)</option>
+<option value='https://www.mikufan.com/2020/01/'> January 2020 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2019/12/'> December 2019 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2019/11/'> November 2019 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2019/10/'> October 2019 &nbsp;(2)</option>
+<option value='https://www.mikufan.com/2019/09/'> September 2019 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2019/08/'> August 2019 &nbsp;(59)</option>
+<option value='https://www.mikufan.com/2019/07/'> July 2019 &nbsp;(39)</option>
+<option value='https://www.mikufan.com/2019/06/'> June 2019 &nbsp;(18)</option>
+<option value='https://www.mikufan.com/2019/05/'> May 2019 &nbsp;(22)</option>
+<option value='https://www.mikufan.com/2019/04/'> April 2019 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2019/03/'> March 2019 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2019/02/'> February 2019 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2019/01/'> January 2019 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2018/12/'> December 2018 &nbsp;(11)</option>
+<option value='https://www.mikufan.com/2018/11/'> November 2018 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2018/10/'> October 2018 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2018/09/'> September 2018 &nbsp;(25)</option>
+<option value='https://www.mikufan.com/2018/08/'> August 2018 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2018/07/'> July 2018 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2018/06/'> June 2018 &nbsp;(22)</option>
+<option value='https://www.mikufan.com/2018/05/'> May 2018 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2018/04/'> April 2018 &nbsp;(18)</option>
+<option value='https://www.mikufan.com/2018/03/'> March 2018 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2018/02/'> February 2018 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2018/01/'> January 2018 &nbsp;(13)</option>
+<option value='https://www.mikufan.com/2017/12/'> December 2017 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2017/11/'> November 2017 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2017/10/'> October 2017 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2017/09/'> September 2017 &nbsp;(24)</option>
+<option value='https://www.mikufan.com/2017/08/'> August 2017 &nbsp;(28)</option>
+<option value='https://www.mikufan.com/2017/07/'> July 2017 &nbsp;(14)</option>
+<option value='https://www.mikufan.com/2017/06/'> June 2017 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2017/05/'> May 2017 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2017/04/'> April 2017 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2017/03/'> March 2017 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2017/02/'> February 2017 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2017/01/'> January 2017 &nbsp;(14)</option>
+<option value='https://www.mikufan.com/2016/12/'> December 2016 &nbsp;(13)</option>
+<option value='https://www.mikufan.com/2016/11/'> November 2016 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2016/10/'> October 2016 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2016/09/'> September 2016 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2016/08/'> August 2016 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2016/07/'> July 2016 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2016/06/'> June 2016 &nbsp;(14)</option>
+<option value='https://www.mikufan.com/2016/05/'> May 2016 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2016/04/'> April 2016 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2016/03/'> March 2016 &nbsp;(26)</option>
+<option value='https://www.mikufan.com/2016/02/'> February 2016 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2016/01/'> January 2016 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2015/12/'> December 2015 &nbsp;(13)</option>
+<option value='https://www.mikufan.com/2015/11/'> November 2015 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2015/10/'> October 2015 &nbsp;(11)</option>
+<option value='https://www.mikufan.com/2015/09/'> September 2015 &nbsp;(21)</option>
+<option value='https://www.mikufan.com/2015/08/'> August 2015 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2015/07/'> July 2015 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2015/06/'> June 2015 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2015/05/'> May 2015 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2015/04/'> April 2015 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2015/03/'> March 2015 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2015/02/'> February 2015 &nbsp;(21)</option>
+<option value='https://www.mikufan.com/2015/01/'> January 2015 &nbsp;(14)</option>
+<option value='https://www.mikufan.com/2014/12/'> December 2014 &nbsp;(20)</option>
+<option value='https://www.mikufan.com/2014/11/'> November 2014 &nbsp;(18)</option>
+<option value='https://www.mikufan.com/2014/10/'> October 2014 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2014/09/'> September 2014 &nbsp;(22)</option>
+<option value='https://www.mikufan.com/2014/08/'> August 2014 &nbsp;(21)</option>
+<option value='https://www.mikufan.com/2014/07/'> July 2014 &nbsp;(11)</option>
+<option value='https://www.mikufan.com/2014/06/'> June 2014 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2014/05/'> May 2014 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2014/04/'> April 2014 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2014/03/'> March 2014 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2014/02/'> February 2014 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2014/01/'> January 2014 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2013/12/'> December 2013 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2013/11/'> November 2013 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2013/10/'> October 2013 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2013/09/'> September 2013 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2013/08/'> August 2013 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2013/07/'> July 2013 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2013/06/'> June 2013 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2013/05/'> May 2013 &nbsp;(5)</option>
+<option value='https://www.mikufan.com/2013/04/'> April 2013 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2013/03/'> March 2013 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2013/02/'> February 2013 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2013/01/'> January 2013 &nbsp;(4)</option>
+<option value='https://www.mikufan.com/2012/12/'> December 2012 &nbsp;(16)</option>
+<option value='https://www.mikufan.com/2012/11/'> November 2012 &nbsp;(17)</option>
+<option value='https://www.mikufan.com/2012/10/'> October 2012 &nbsp;(15)</option>
+<option value='https://www.mikufan.com/2012/09/'> September 2012 &nbsp;(18)</option>
+<option value='https://www.mikufan.com/2012/08/'> August 2012 &nbsp;(19)</option>
+<option value='https://www.mikufan.com/2012/07/'> July 2012 &nbsp;(12)</option>
+<option value='https://www.mikufan.com/2012/06/'> June 2012 &nbsp;(11)</option>
+<option value='https://www.mikufan.com/2012/05/'> May 2012 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2012/04/'> April 2012 &nbsp;(9)</option>
+<option value='https://www.mikufan.com/2012/03/'> March 2012 &nbsp;(11)</option>
+<option value='https://www.mikufan.com/2012/02/'> February 2012 &nbsp;(8)</option>
+<option value='https://www.mikufan.com/2012/01/'> January 2012 &nbsp;(4)</option>
+<option value='https://www.mikufan.com/2011/12/'> December 2011 &nbsp;(5)</option>
+<option value='https://www.mikufan.com/2011/11/'> November 2011 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2011/10/'> October 2011 &nbsp;(13)</option>
+<option value='https://www.mikufan.com/2011/01/'> January 2011 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2010/12/'> December 2010 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2010/11/'> November 2010 &nbsp;(4)</option>
+<option value='https://www.mikufan.com/2010/10/'> October 2010 &nbsp;(2)</option>
+<option value='https://www.mikufan.com/2010/09/'> September 2010 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2009/01/'> January 2009 &nbsp;(1)</option>
+<option value='https://www.mikufan.com/2008/11/'> November 2008 &nbsp;(3)</option>
+<option value='https://www.mikufan.com/2008/10/'> October 2008 &nbsp;(2)</option>
+<option value='https://www.mikufan.com/2008/09/'> September 2008 &nbsp;(5)</option>
+<option value='https://www.mikufan.com/2008/08/'> August 2008 &nbsp;(6)</option>
+<option value='https://www.mikufan.com/2008/07/'> July 2008 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2008/06/'> June 2008 &nbsp;(7)</option>
+<option value='https://www.mikufan.com/2008/05/'> May 2008 &nbsp;(10)</option>
+<option value='https://www.mikufan.com/2008/04/'> April 2008 &nbsp;(14)</option>
+<option value='https://www.mikufan.com/2008/03/'> March 2008 &nbsp;(69)</option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+</aside></div>
+</div>
+</div>
+<footer>
+<div id="cred">
+<table>
+<tr>
+<td class="cred-left">&#169 2008-2021 <a href='https://www.mikufan.com'>Mikufan.com</a></td>
+<td class="cred-center"></td>
+<td class="cred-right"><a href="http://aquoid.com/news/themes/suffusion/">Suffusion theme by Sayontan Sinha</a></td>
+</tr>
+</table>
+</div>
+</footer>
+
+</div>
+
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/arqam/assets/js/scripts.js?ver=6.0.3' id='arqam-scripts-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.mikufan.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"mikufan"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.22' id='disqus_count-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24' id='jquery-fancybox-js'></script>
+<script type='text/javascript' id='jquery-fancybox-js-after'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'padding':4,'margin':20,'centerOnScroll':true,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':true,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});
+/* YouTube */
+jQuery('a[href*="youtu.be/"],area[href*="youtu.be/"],a[href*="youtube.com/"],area[href*="youtube.com/"]').filter(function(){return this.href.match(/\/(?:youtu\.be|watch\?|embed\/)/);}).not('.nolightbox,li.nolightbox>a').addClass('fancybox-youtube');
+jQuery('a.fancybox-youtube,area.fancybox-youtube,li.fancybox-youtube a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':854,'height':480,'keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fs=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?youtu(?:\.be\/([^\?]+)\??|be\.com\/watch\?(.*(?=v=))v=([^&]+))(.*)/gi,"https://www.youtube.com/embed/$1$3?$2$4&autoplay=1");}}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.1' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://www.mikufan.com/wp-content/plugins/easy-fancybox/js/jquery.metadata.min.js?ver=2.22.1' id='jquery-metadata-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3' async='async' id='remote_sdk-js'></script>
+</body>
+</html>
+
+0
+

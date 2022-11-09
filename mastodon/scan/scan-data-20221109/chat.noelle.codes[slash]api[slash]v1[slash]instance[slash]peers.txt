@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://chat.noelle.codes; font-src 'self' https://chat.noelle.codes; img-src 'self' data: blob: https://chat.noelle.codes; style-src 'self' https://chat.noelle.codes 'nonce-dZZlzSmJNQYY9HJVB0X92A=='; media-src 'self' data: https://chat.noelle.codes; frame-src 'self' https:; child-src 'self' blob: https://chat.noelle.codes; worker-src 'self' blob: https://chat.noelle.codes; connect-src 'self' blob: data: wss://chat.noelle.codes https://chat.noelle.codes; manifest-src 'self' https://chat.noelle.codes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:21 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.774475Z
+X-Request-Id: be925a57-579c-4421-9116-508fc41cace7
+X-Runtime: 0.005976
+X-Xss-Protection: 0
+
+0
+

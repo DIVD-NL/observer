@@ -1,0 +1,125 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cf-Chl-Bypass: 1
+Cf-Ray: 76778889afc52e26-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:20:36 GMT
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AYu7sQ01JflR1jRwuO5wvWb04iaolZ%2B%2BPlzjeaE9Mj2i9cvw%2BuDnl%2BZ%2Bb3J9xH%2FZerwdJkENHxUFU0YcRsxN%2BY5E7xpoNf84FkKOvYK7XqKpe%2FGfcCgXGuKtiAjLwmu5Pg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+1eb0
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            test.openvk.su
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=76778889afc52e26')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            test.openvk.su needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/api/v1/instance/peers?__cf_chl_f_tk=4iwDd5NCcGuzqNacoIZKpU8tnSCbkFmypVqNBvl5Z8k-1668007236-0-gaNycGzNBmU" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="CO1UfZZA02T9HWN_bpjVw6y.mbIcKvaFaXsN4LGxW7w-1668007236-0-AcuaZIQ0beaBe1x3LFw63Hwxuu84X8Ptt9TN84KFOwgMyi31PeEteRh0gQWnLNzULpPNZq-TbjXOPd2K7vh6izDmvyddFtD_Mf2AUM57tsQbPk3I444zRZWw7bG-Z_pwxNWdjxBjSRy_Awhm0lKzPALH1p2_Wsjm3y_uETEwJY8mmd7bTkVswYQcnn9uf3O_gRnrsI5QcalBBwBAM6zPujPnT7zFk3nrGZrSAoe198pv2aAePp5OBJRNQM2LH8NNUMnSzF-mIbnTh5Mqp7NnUFeEAzfyzoAxxE4xgFazH7OA9W1LFM477yVeKBvw6BhKFHwHqWiJ7i8SIjAaNId9F_rz_1Z8_9O4CiHWW56vfcp1YMbgILSZk3qg_g68d01TAzkMZQKX0DdRkWPHmz-9ldaPddrGkU97MJt8ed9fX5DK1E1Nk-8a78gX6lc_n-oNmLhJhNRDRMu3R56LQWTnba8ViuAypF-OWRg3FiQwoM4kW0YhrjMeHKMOpiv6DBbHzjhJTanWIWstZJb5nvpaLuecfdQ9Z1wQqR1lqgct1kt3bbvI2Alio0VyYuuBtbF14vBlzofx4AjT97617EmYv-EPtGeOHbeMFRxwpZyw8k0M-snrPn4FaHESxkkGsE1rfGXa6lcsmNGFr9eHsAgBTPreXMXpiLJoEfBbEPsVlrOYfncxfdYk6JfoMZqiAKvgJQ">
+            <input type="hidden" name="r" value="1WhbXYgcB9j5EmNLjmwPt9Lqfws5OUQKmRIYqs56POk-1668007236-0-AXo81qPE4NAsBWTFIS6ybkyWmseM2rjh/Z7/CydBVtwBFvc9tZUwpuWQoAhuAVmEQuklG0gTDip2USo9wR8m3z2/5AN9eTlweoZgM4Zyd1sYuK/xH6nKWLCq8zuuA2u3fRPfX4L0INORP7YYLf8kVbC+RrUKJQiGwTvXLdHGDNA/CuKejblMg7whgy+gn03PTWYn0ySprFCpGpVwTRzup5IPrxAZ7f5zNEQ73pPu+5jxfDGni3ke1vgBPbRyToNbD/Z/yQ1NMLtSWeh8kFWphlZ9tgArgeofXNmXmHFttV0yr6E+sOoeQpeh6IA5AXN2iKumwb3t32hTzX3T9mbDJ8T7xJd7LsByvERjbnkZtb+noN0KL1PcVKc1SJh5dhcu4Mh4O64ivv2GDmz5MKs2rD6ZKT9MR1SsaDXVWebWrxjPI/6529v7MWwDbIrGGwtm0rLJKFIYAz1a+1UAqBSzw8zpY7qiLPHI2P00Chzo/4qj6vnzIh4swIdQT5wFZ/gBSqWlv3uhMJBrrCOd81kQFbwFuJNgfsJ7kueph0Z0qY0Vny8jJwngaHZjdzIxTtHitNfZ/XQ+TJBI5Y9IQoZYV/JT0GX4yRQlhACnoUDUp2EiVa/+VKXh5uzTwE8FRlU+FxKdvxo+O3r9q+C/8ueO2zvU957FdkLPz4KkKcF4qcURMr9MrZ1M4viltTJhngpCwyRQC2lStpdFymjlWSu83+3Ow+ZcfPF5COFWEPr57vgp47m3EeinwsRhePNzsnT5ksP3gfyLnxCnSOzZXqRpgRJ40Ms3una+BxHRrwrTbUtFRiubNn7bRqdV/OcT6FA81u5ff20zyqkHHc6NhO1oNanu/WlgeVXuXI68J3iDWvOC0duKwe9IKM54wQk+ctY8KhHS0Hy2Kb0W+L+lzQv7oeXw4EWkskS/EpnYqFpIt57nsEFrfCLMhMHMxJpuFlpgtusP2/izRghMwIe4L5rpw8x0m62Bk1n7woLQLGqUNidbZ1Qh/CPrMkw5RuZjx/VdibNhrKqvMC6Et9Qv6PvQR8e5bhnpexjsnINa4crOU2yVbdqHb3oT4jTrXZeGaC5pdx3Kj+1olg0sNCbIUkFW834SYHOZodUSc+71OCIMQ/HuSnww/7hwVVEN3VZdUzg3+WVXNaW5JTB3XexfEKjzFoSpN2Nu9318EIYwyuclSoziCDsW89YFA3XL6skwg3/Tq8oMHbw3mFvMHmV/pmN7AH8UsPclxS98u4VQYU3XX3RdAoxgUC9R3ILrdhy1twJWzO4fdAspcqZMndFhmhKkrJywofFE+yPy7sYg6hDrM3PH3kNw7mwjNeero4fkAh+lUfcYJcYv1U7/KBIowryqTCkLnfl2x5NcL7e0JSCMMPMw4XQDrRuitBHTCZwqAUsyeVVTFBKXosEttirJMJ601VXijxKzRP6AV4P1VyO2zRebM3LpGsYkiWLLRKRBPbgw8lYExeb8KLU+u3zhLJY/fIy9kd2o4r3hqfQtTN7epfCLVpgIx7QUpDFNg6HlD6v1fTFlctSXw2R5EoXO6BHM7TXgfkP+HUam5Zmp+3MbQPGe">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'managed',
+            cNounce: '3819',
+            cRay: '76778889afc52e26',
+            cHash: 'de4c0540e6c2060',
+            cUPMDTk: "\/api\/v1\/instance\/peers?__cf_chl_tk=4iwDd5NCcGuzqNacoIZKpU8tnSCbkFmypVqNBvl5Z8k-1668007236-0-gaNycGzNBmU",
+            cFPWv: 'b',
+            cTTimeMs: '1000',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly90ZXN0Lm9wZW52ay5zdS9hcGkvdjEvaW5zdGFuY2UvcGVlcnM=',
+                ra: 'V2ViWklQLzMuNSAoaHR0cDovL3d3dy5zcGlkZXJzb2Z0LmNvbSk=',
+                rm: 'R0VU',
+                d: 'ekrpYqxeFLM5P7UIR7yW0TPhS/n88RP/HowE3cnufEjG478WN4mn7usRwOjDGE5aRNLynQWMbk8cZaz5z+oKeAy38VHDPWvaxI0dfqnWBb7Di8q4hZRWSAQIWuN+djeMB/TEzLNageHSZfTYZC+c0AOFgdbLVnfXJHiYx3WymXkfmfaK2ElAnE8OF26z1vtvr+iaix5CmsblBkIltHRNSXUACT6b9yefC4dXX4R48w2xy5Ja2NONpcco4B0KNPgGjjHBte/KzS0Ef3wnOjTm8f1DnmvZ2ZPZOspFX0M0OOyN8Bti4pV30CwOnH8oZhHBWnU/GzRIedSf+8F1vnSQrYJbyfIHJOuF8/Q8oBZGxq18n+BEcx9gKCSeIvXwo8WVRCcD+Evn1TsU86+toBYeOKINtEkez5Yu5dAJ0QoKM2BvgldiCjEc7szFrjUcuEDfr37ZW/fVOuZpTJFoBBvB8OV1PxZFAcIOWLfMNpj1ut4UV5knK4dJfTie24+4w+7ftMTTtAQ7y438SK5wuNDx5KEHH8ZDpSSFD1iDgKQWxSHfUur/2rQa2+VbicGynMsr2NwshiLlsViAJqveiiMndjIyYLgDoQgIw014ZlQO26jsPUCxtXO3Wz+Sd/Eax7hV',
+                t: 'MTY2ODAwNzIzNi4xMTQwMDA=',
+                m: 'Svr191ldtfZDQlDIl+jMCNBGZjh7Tt80UxUr+H4z6SA=',
+                i1: 'acXfBVCf8QaXwFWUq5vlzg==',
+                i2: 'p6jtCdkyKWZ45KnkWvzxlA==',
+                zh: '/HQoKNWyc33CK+bKDhf4t+adrNvO4M3lpi9WVPeX+Qk=',
+                uh: 'RBPCOxeaeFdUJNmua9hmcJd1d4Pbgys9mFLxJn1k16E=',
+                hh: 'CTsW84XG/NQTVKOVN4LUUYYDBX8ZEwPnmPO7+5Zj9C8=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=76778889afc52e26');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=76778889afc52e26';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/api\/v1\/instance\/peers?__cf_chl_rt_tk=4iwDd5NCcGuzqNacoIZKpU8tnSCbkFmypVqNBvl5Z8k-1668007236-0-gaNycGzNBmU" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>76778889afc52e26</code></div>
+            </div>
+            <div class="text-center">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
+
+0
+

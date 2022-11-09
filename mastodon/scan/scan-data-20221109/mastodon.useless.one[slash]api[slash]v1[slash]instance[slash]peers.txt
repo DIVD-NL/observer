@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:27 GMT
+Etag: W/"34096e73aab6d637a78012b762972f96"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:00:00.090244Z
+X-Request-Id: 2a535985-aa59-4b6a-ac34-7f317b969f53
+X-Runtime: 0.008057
+X-Xss-Protection: 1; mode=block
+
+96
+["friendica.xyz","nerdculture.de","climatejustice.social","kith.kitchen","petrous.vislae.town","ieji.de","dobbs.town","mastodon.social","mastodon.nz"]
+0
+

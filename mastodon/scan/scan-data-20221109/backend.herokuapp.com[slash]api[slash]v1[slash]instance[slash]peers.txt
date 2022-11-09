@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/plain
+Date: Wed, 09 Nov 2022 14:57:08 GMT
+Server: Cowboy
+Via: 1.1 vegur
+X-Powered-By: Express
+
+21
+Cannot GET /api/v1/instance/peers
+0
+

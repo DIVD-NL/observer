@@ -1,0 +1,17 @@
+HTTP/1.1 302 Moved Temporarily
+Connection: close
+Content-Length: 138
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:51:45 GMT
+Location: https://social.froonix.org/
+Server: nginx
+Strict-Transport-Security: max-age=15552000
+X-Frame-Options: SAMEORIGIN
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

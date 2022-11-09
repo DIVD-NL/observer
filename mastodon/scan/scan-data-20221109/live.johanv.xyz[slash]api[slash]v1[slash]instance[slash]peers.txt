@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 298
+Date: Wed, 09 Nov 2022 15:10:06 GMT
+Location: https://johanv.net
+Server: Caddy
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<script>window.location.replace("https://johanv.net");</script>
+		<meta http-equiv="refresh" content="0; URL='https://johanv.net'">
+	</head>
+	<body>Redirecting to <a href="https://johanv.net">https://johanv.net</a>...</body>
+</html>

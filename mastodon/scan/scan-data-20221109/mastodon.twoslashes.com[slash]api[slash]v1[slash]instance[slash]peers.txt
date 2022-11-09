@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.twoslashes.com; img-src 'self' https: data: blob: https://mastodon.twoslashes.com; style-src 'self' https://mastodon.twoslashes.com 'nonce-aA85RT0LqvGjNATUVThF4A=='; media-src 'self' https: data: https://mastodon.twoslashes.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.twoslashes.com; connect-src 'self' data: blob: https://mastodon.twoslashes.com https://mastodon.twoslashes.com wss://mastodon.twoslashes.com; script-src 'self' https://mastodon.twoslashes.com; child-src 'self' blob: https://mastodon.twoslashes.com; worker-src 'self' blob: https://mastodon.twoslashes.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:27 GMT
+Etag: W/"aa1f64522fc3f1e6734bc1968c056774"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.687522Z
+X-Request-Id: cec4e57c-b9d1-40c0-84c4-50456447c8d8
+X-Runtime: 0.006414
+X-Xss-Protection: 0
+
+a3c
+["mastodon.world","bsd.network","tenforward.social","appdot.net","bitcoin.ninja","mstdn.jp","social.aero","code4lib.social","redeyes.club","qoto.org","octodon.social","macaw.social","writing.exchange","mas.to","bae.st","liberdon.com","infosec.exchange","todon.eu","liberal.lgbt","hachyderm.io","tooting.ch","chaos.social","toot.wales","friendica.togart.de","awscommunity.social","socialnotwork.net","chilemasto.casa","sueden.social","twit.social","left-tusk.com","towns.gay","social.coop","social.spainco.net","roflblog.net","vran.as","mastodon.cloud","fri.aethercom.de","lor.sh","a.gup.pe","social.tchncs.de","romancelandia.club","friendica.ambag.es","status.steren.fr","thetooniverse.xyz","friendica.ironbug.org","herzbu.de","friendica.mschmidt-et.de","someone.elses.computer","journa.host","social.jmueller.eu","f.kretschmann.social","mastodon.neilzone.co.uk","scholar.social","simonwillison.net","f.iroiro.party","onewilshire.la","petroskowo.pl","fr.readthefinemanual.net","raccoon.place","friendica.hashy-net.de","social.cryptography.dog","counter.social","friendica.opencloud.lu","tech.lgbt","snabelen.no","chancellor.social","friendica.ucy.de","williamsonday.buzz","friendica.mifritscher.de","trivia.to","ruby.social","sunny.garden","quitter.pl","anarchydica.net","friendica.offsite.guru","friendica.kommune4.de","micro.yatil.net","indieweb.social","social.deadsuperhero.com","mastodon.top","social.tromdienste.de","masthead.social","lounge.fan","bonequest.net","mastodon.lol","misskey.io","follow.schmaller.de","noagendasocial.com","law.builders","climatejustice.social","ravenation.club","oliphant.social","pleroma.1d4.us","mastodonapp.uk","c.im","pdx.social","friendica.myportal.social","eeeeeeeee.eu","c18.masto.host","port87.social","ioc.exchange","anonsys.net","cheeseburger.social","mastodon.green","uncorking.me","recurse.social","v2.ebano.social","kudabiverse.com","dragonscave.space","embracing.space","social.fellr.net","toot.cat","post.lurk.org","deadnaught.andersonstoolshed.com","mastodon.nz","beach.city","mstdn.science","urbanists.social","indiepocalypse.social","mastodon.art","friendica.daniel-siepmann.de","llarian.net","mathstodon.xyz","newsie.social","social.lucentinian.com","social.lol","data-folks.masto.host","tilde.zone","aus.social","mastodon.coffee","snug.town","f.freinetz.ch","masto.ai","social.linux.pizza","mstdn.social","nerdculture.de","fosstodon.org","fediscience.org","mindly.social","bigshoulders.city","mastodon.social","noc.social","mastodon.dragoncave.dev","social.ridetrans.it","mastodon.scot","sfba.social","freeradical.zone","zirk.us","toot.community","mastodon.online"]
+0
+

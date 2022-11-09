@@ -1,0 +1,80 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 2014
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Referrer-Policy: same-origin
+Server: Google Frontend
+X-Cloud-Trace-Context: 9fdfe25a785f978622d632f41650b5c9
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page Not Found - Aeracode</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=300, initial-scale=1">
+
+	
+
+	<link rel="stylesheet" href="/static/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/static/fonts/alte_din/stylesheet.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/static/fonts/font_awesome/all.min.css" type="text/css" />
+	<link rel="stylesheet" href="/static/css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/static/flags/sprite-hq.ad84e2f08114.css">
+
+	<link rel="alternate" type="application/rss+xml" title="Aeracode - RSS2" href="/feed/rss2/" />
+	<link rel="alternate" type="application/atom+xml" title="Aeracode - Atom" href="/feed/atom/" />
+	
+</head>
+<body class="">
+
+	<div class="header">
+		<a href="/" class="logo">aeracode</a>
+
+		<ul class="topnav">
+			<li><a href="/blog/">blog</a></li>
+			<li><a href="/speaking/">speaking</a></li>
+			<li><a href="/projects/">projects</a></li>
+			<li><a href="/places/">places</a></li>
+			<!--<li><a href="/favourites/">favourites</a></li>-->
+		</ul>
+		<div class="clearfix"></div>
+	</div>
+
+	
+	<div class="content">
+		
+
+    <div class="left_column">
+        <p>The page you are looking for is not here! Sorry about that.</p>
+    </div>
+
+
+		<div class="clearfix"></div>
+	</div>
+	
+
+	<div class="footer">
+		&copy; Copyright Andrew Godwin 2006 - 2022 |
+		Version 35fb162 |
+		Powered by <a href="http://www.djangoproject.com">Django</a>
+		
+	</div>
+
+	</div>
+
+	<!-- GA -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-312480-4");
+	pageTracker._trackPageview();
+	</script>
+
+</body>
+</html>

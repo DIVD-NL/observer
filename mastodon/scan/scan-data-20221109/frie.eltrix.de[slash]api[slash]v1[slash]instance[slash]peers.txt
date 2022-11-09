@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:14 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=2rm2biajmsqnsou4047v7mok94; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Host
+X-Account-Management-Status: none
+
+40
+{"error":"not implemented","request":"api\/v1\/instance\/peers"}
+0
+

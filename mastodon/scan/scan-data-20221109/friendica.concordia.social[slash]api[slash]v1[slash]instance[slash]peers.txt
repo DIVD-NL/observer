@@ -1,0 +1,102 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:14 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Account-Management-Status: none
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Response-Type: json
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+6a3
+[
+    "friendica.concordia.social",
+    "pirati.ca",
+    "kudabiverse.com",
+    "herzbu.de",
+    "friendica.minecloud.ro",
+    "friendica.mifritscher.de",
+    "friendica.hashy-net.de",
+    "mastodon.concordia.social",
+    "piratenpartei.social",
+    "loma.ml",
+    "friendica.heikosblog.eu",
+    "chaos.social",
+    "quitter.pl",
+    "mastodon.social",
+    "mtd.ax9.eu",
+    "venera.social",
+    "digitalcourage.social",
+    "follow.schmaller.de",
+    "floss.social",
+    "mastodon.cloud",
+    "pouet.chapril.org",
+    "bonn.social",
+    "det.social",
+    "m.heine.xyz",
+    "social.tchncs.de",
+    "www.kanoa.de",
+    "nerdculture.de",
+    "nrw.social",
+    "social.cologne",
+    "ruhr.social",
+    "dresden.network",
+    "mastodontech.de",
+    "social.bau-ha.us",
+    "climatejustice.global",
+    "social.rebellion.global",
+    "tube.rebellion.global",
+    "mastodon.xyz",
+    "subversive.zone",
+    "mstdn.social",
+    "mobilize.berlin",
+    "a.gup.pe",
+    "rubber.social",
+    "eupolicy.social",
+    "climatejustice.social",
+    "mastodon.ie",
+    "social.anoxinon.de",
+    "troet.cafe",
+    "soc.citizen4.eu",
+    "norden.social",
+    "helvede.net",
+    "fikaverse.club",
+    "mastodon.gougere.fr",
+    "rollenspiel.social",
+    "mamot.fr",
+    "berlin.social",
+    "muenchen.social",
+    "friendica.opensocial.space",
+    "metalhead.club",
+    "machteburch.social",
+    "queer.garden",
+    "qoto.org",
+    "barcamp.social",
+    "mstdn.io",
+    "graz.social",
+    "mas.to",
+    "friendica.hubup.pro",
+    "climatejustice.video",
+    "mastodon.art",
+    "open.audio",
+    "climatejustice.events",
+    "am.pirateradio.social",
+    "podcasts.social",
+    "wue.social",
+    "friends.johalla.org"
+]
+0
+

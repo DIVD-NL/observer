@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:04 GMT
+Server: nginx
+
+d7
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>404 Not Found</TITLE>
+</HEAD><BODY>
+<H1>Not Found</H1>
+The requested URL /api/v1/instance/peers was not found on this server.<P>
+</BODY></HTML>
+
+0
+

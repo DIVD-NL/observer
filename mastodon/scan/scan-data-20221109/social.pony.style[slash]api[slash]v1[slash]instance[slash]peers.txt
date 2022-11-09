@@ -1,0 +1,16 @@
+HTTP/1.1 418 I'm a teapot
+Connection: close
+Content-Length: 8
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767786ab28c5b9b9-BRU
+Content-Type: text/plain
+Date: Wed, 09 Nov 2022 15:19:19 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jbqpDZ5DIKk0emAkB6E3eLfoPVqtWZ0jj%2B7C%2FQzAaLnXjtdJ%2BNLwR3AylABamtQQVOPy5DkvG7sJdmlCVSfNm%2FDM%2F38yfvEFrYFK2yldpjye2mR9MFjNsNMLUp%2FI%2FFxxq%2BXFkA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Debug-0: 0
+X-Debug-2: social.pony.style
+X-Debug-3: _
+
+Nope.avi

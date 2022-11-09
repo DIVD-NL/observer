@@ -1,0 +1,167 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self' data: https://jpope.org https://static.jpope.org; img-src 'self' data: https://jpope.org https://static.jpope.org; script-src 'self' data: https://jpope.org https://static.jpope.org; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self';
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:32 GMT
+Etag: W/"wYKiaO+obGhKmGUHDtcrew=="
+Referrer-Policy: no-referrer
+Server: nginx
+Set-Cookie: connect.sid=s%3AEniYAWiGgwWrLD5UVrw5OM-Is92tTPmz.l1JpIlx4JLRkeDelo1CD%2FSmoEBBik0XLjd50RsoJ4yo; Path=/; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Vary: X-HTTP-Method-Override
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+2198
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title></title>
+    <link rel="stylesheet" href="/css/base.min.css">
+    <link rel="stylesheet" href="/css/skeleton.min.css">
+    <link rel="stylesheet" href="/css/fontface.min.css">
+    <link rel="stylesheet" href="//static.jpope.org/cdnjs/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/jquery.sidr.dark.min.css">
+    <link rel="stylesheet" href="/css/jpopedotorg.min.css">
+    <link rel="stylesheet" href="/css/layout.min.css">
+  </head>
+  <body id="top">
+    <input type="hidden" name="_csrf">
+    <div class="navbar navbar-top">
+      <div class="container">
+        <div class="three columns alpha omega"><a href="/" class="brand"><img src="/images/jpope.org.logo.150.png" alt="jpope.org logo"></a></div>
+        <div id="mobile-header"><a href="#sidr-main" id="responsive-menu-button"> <i class="fa fa-ellipsis-h fa-2x"></i></a></div>
+        <div class="collapse"><span class="eight columns alpha omega">&nbsp;</span></div>
+        <div id="navigation" class="collapse pull-right">
+          <nav class="nav">
+            <ul>
+              <li class="one column alpha omega"><a href="/" class="pull-right"><span class="fa-stack fa-fw fa-lg"><i class="fa fa-circle fa-stack-2x fa-light"></i><i title="home" class="fa fa-home fa-stack-1x"></i></span></a></li>
+              <li class="one column alpha omega"><a href="//whird.jpope.org" class="pull-right"><span class="fa-stack fa-fw fa-lg"><i class="fa fa-circle fa-stack-2x fa-light"></i><i title="blog" class="fa fa-file-text fa-stack-1x"></i></span></a></li>
+              <li class="one column alpha omega"><a href="//media.jpope.org" class="pull-right"> <span class="fa-stack fa-fw fa-lg"><i class="fa fa-circle fa-stack-2x fa-light"></i><i title="media" class="fa fa-camera-retro fa-stack-1x"></i></span></a></li>
+              <li class="one column alpha omega"><a href="/contact" class="pull-right"><span class="fa-stack fa-fw fa-lg"><i class="fa fa-circle fa-stack-2x fa-light"></i><i title="contact" class="fa fa-envelope fa-stack-1x"></i></span></a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="content">
+        <div class="sixteen columns"> 
+          <div class="ten columns offset-by-three"><h3 id="epic-fail-404-not-found">EPIC FAIL! 404 not found</h3>
+<p>Something appears to have gone horribly wrong. Maybe there was a disturbance 
+in the Force? Or a glitch in the Matrix? In any event, the “thing” you were 
+looking for is not here. When this happens, you should feel empowered, 
+because you have choices. For example, you could:  </p>
+<blockquote>
+<ul>
+<li><p>Shout, “OMGWTFBBQ!”  </p>
+</li>
+<li><p><a href="//jpope.org/contact" title="Email jpope.">Email the webmaster</a>, report the error and hope that it gets fixed.  </p>
+</li>
+<li><p>Telephone the Internet Police, report the error and hope that jpope gets locked up.  </p>
+</li>
+<li><p>Go to the <a href="//jpope.org/" title="Go to homepage.">homepage</a> and look at something else.  </p>
+</li>
+<li><p>Refresh the page a couple of hundred times, just to make sure.  </p>
+</li>
+<li><p>Go to the <a href="//whird.jpope.org/archive" title="Go to archives.">archives</a> and look at something else.  </p>
+</li>
+</ul>
+</blockquote>
+<p>…but above all, remember, <strong>DON’T PANIC!</strong></p>
+<p><em>Sincerely, jpope.</em></p>
+<iframe src="//notfound-static.fwebservices.be/404/index.html?&amp;key=b8653d9be506f0db352c3299b48be612" width="100%" height="650" frameborder="0"></iframe>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container footer">
+      <div class="sitemenu">
+        <p><i class="fa fa-sitemap fa-2x"></i></p>
+        <div class="four columns omega hell">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="four columns alpha omega hell">
+          <ul>
+            <li><a href="http://media.jpope.org">Media</a></li>
+            <li><a href="//bin.jpope.org">Bin</a></li>
+            <li><a href="/speedtest">Speedtest</a></li>
+          </ul>
+        </div>
+        <div class="four columns alpha omega hell">
+          <ul>
+            <li><a href="//whird.jpope.org">Blog</a></li>
+            <li><a href="//search.jpope.org">Web Search</a></li>
+            <li><a href="//links.jpope.org">Bookmarks</a></li>
+          </ul>
+        </div>
+        <div class="four columns alpha omega hell">
+          <ul>
+            <li><a href="/wx">Weather</a></li>
+            <li><a href="/homenetwork">Home Network</a></li>
+            <li><a href="//code.jpope.org">Code</a></li>
+          </ul>
+        </div>
+        <div class="sixteen columns alpha omega hell">
+          <ul>
+            <li><a href="//autoworker1.com">autoworker1</a></li>
+            <li><a href="//pope.rocks">pope.rocks</a></li>
+            <li><a href="//mail.pope.rocks">webmail</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="ten columns offset-by-three"> 
+        <hr><a href="mailto:jeremy@pope.rocks" title="Email"><img src="//static.jpope.org/images/email.png" alt="Email" class="socialicons"></a><a href="https://pod.jpope.org/u/jpope" title="Diaspora*" rel="me"><img src="//static.jpope.org/images/diaspora.png" alt="Diaspora*" class="socialicons"></a><a href="https://twitter.com/_jpope" title="Twitter" rel="me"><img src="//static.jpope.org/images/twitter-logo.png" alt="Twitter" class="socialicons"></a><a href="http://media.jpope.org/u/jpope/" title="MediaGoblin" rel="me"><img src="//static.jpope.org/images/goblin.png" alt="MediaGoblin" class="socialicons"></a><a href="https://github.com/jpope777" title="github" rel="me"><img src="//static.jpope.org/images/github.png" alt="github" class="socialicons"></a><a href="https://flattr.com/profile/jpope" title="flattr" rel="me"><img src="//static.jpope.org/images/flattr-16.png" alt="flattr" class="socialicons"></a><a href="//whird.jpope.org/feed" title="Blog RSS Feed"><img src="//static.jpope.org/images/rss-logo.png" alt="RSS" class="socialicons"></a><a href="xmpp:jeremy@pope.rocks" title="Instant Messaging via XMPP"><img src="//static.jpope.org/images/xmpp.png" alt="XMPP" class="socialicons"></a><p><a href="//archlinux.org/">ArchLinux</a> + <a href="https://github.com/evbogue/bitters">Bitters</a> = <a href="//jpope.org">jpope.org</a> &#8212; <a href="https://code.jpope.org/jpope/jpope.org" title="View the source for this site"><i class="fa fa-code"></i></a><br><i class="fa fa-linux fa-3x"></i></p>
+
+      </div><i id="scrolltop" title="back to top" onclick="scrollToTop(&quot;top&quot;)" class="fa fa-arrow-circle-o-up fa-3x"></i>
+    </div>
+    <script src="//static.jpope.org/cdnjs/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="/js/jquery.sidr.min.js"></script>
+    <script src="/js/functions.min.js"></script>
+    <script type="text/javascript">$("#contactus").validate();</script>
+    <script type="text/javascript">
+      function getQuerystring(key, default_){
+        if (default_==null) default_="";
+        key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+        var qs = regex.exec(window.location.href);
+        if(qs == null)
+          return ''
+        else
+          return qs[1];
+      }
+      $(document).ready(function() {
+        $("#cfsubject").val(unescape(getQuerystring('thesubject','')));
+      });
+    </script>
+    <script type="text/javascript">
+      window.onload = function() {
+        var image1 = document.getElementById("refreshimg1");
+        var image2 = document.getElementById("refreshimg2");
+        var image3 = document.getElementById("refreshimg3");
+        var image4 = document.getElementById("refreshimg4");
+        
+        function updateImage() {
+            image1.src = image1.src.split("?")[0] + "?" + new Date().getTime();
+            image2.src = image2.src.split("?")[0] + "?" + new Date().getTime();
+            image3.src = image3.src.split("?")[0] + "?" + new Date().getTime();
+            image4.src = image4.src.split("?")[0] + "?" + new Date().getTime();
+        }
+        
+        setInterval(updateImage, 3000);
+      }
+    </script>
+  </body>
+</html>
+0
+

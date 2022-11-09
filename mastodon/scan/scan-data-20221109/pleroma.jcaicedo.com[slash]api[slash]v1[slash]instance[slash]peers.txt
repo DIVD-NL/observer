@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 3585
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.jcaicedo.com wss://pleroma.jcaicedo.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:01 GMT
+Expect-Ct: enforce, max-age=94672800
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Strict-Transport-Security: max-age=94672800; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzfmIieGHjPsMAAqmB
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+["octodon.social","friendica.a-zwenkau.de","letus.inspiredlife.fun","friendica.hashy-net.de","mastodon.green","social.dorf-post.de","mastodon.cloud","toot.community","mckellar.social","quitter.pl","space.rick.gr","bergstrasse.social","glasgow.social","social.cologne","mastodon.se","die-partei.social","mastodon.social","scl.clttr.info","opensocial.at","friendica.jb-net.us","friendica.nz","mamot.fr","social.gl-como.it","awscommunity.social","fediscience.org","friendica.vrije-mens.org","todon.nl","social.lol","forcedconversation.com","gnomos.org","nerdica.net","hci.social","inuh.net","friendica.togart.de","mastodon.nu","friendica.kommune4.de","social.tyngsboroughma.net","friendica.ironbug.org","noc.social","mas.to","friendica.mifritscher.de","pleroma.1d4.us","soc.citizen4.eu","friendica.myportal.social","masto.ai","spv.sh","unbound.social","climatejustice.social","friendica.daniel-siepmann.de","mastodon.ie","mastodon.uno","friendica.hellquist.eu","social.softmetz.de","dan.mastohon.com","social.johnassel.de","benjojo.co.uk","friendica.bachgau.social","mastodon.online","simonwillison.net","utopioca.com","fed.sonnenmulde.at","mstdn.io","social.coop","social.3towers.de","talkabout.cf","fika.grin.hu","uncorking.me","altelectron.org.uk","friendica.thewalkingdeaf.net","kopiti.am","aus.social","pirati.ca","friendica.opensocial.space","social.fedinet.de","mastodonapp.uk","convenient.email","toot.berlin","sozialer.irrpfad.de","social.cool110.xyz","friendica.offsite.guru","tooty.org","merveilles.town","floss.social","fr.readthefinemanual.net","mastodon.sdf.org","rsd.dnshome.de","glaceon.social","anarchydica.net","retro.social","trekkies.social","redeyes.club","friend.camp","misskey.bubbletea.dev","f.freinetz.ch","tenforward.social","mastodon.sandwich.net","mastodon.lol","test.breadqueues.com","c.im","eeeeeeeee.eu","mastodon.art","chaos.social","schmaker.eu","friendica.philipp.info","ioc.exchange","poliverso.org","mastodon.infra.de","commiespace.duckdns.org","ruby.social","infosec.exchange","federate.social","pouet.chapril.org","friendica.mschmidt-et.de","toot.cat","friendica.eskimo.com","mstdn.science","social.jmueller.eu","tech.lgbt","anticapitalist.party","rud.life","friendica.ucy.de","friendica.youhavewrites.social","digipres.club","indieweb.social","icosahedron.website","berlin.social","philos.fkn-systems.de","scholar.social","meow.social","friendica.ambag.es","walls.social","cheeseburger.social","pleroma.doingyourmom.club","f.praschnig.com","blog.serverok.pl","social.badabam.net","frnd.nanoscopic.de","friendica.minecloud.ro","social.targaryen.house","herzbu.de","friendica.opencloud.lu","steampunk.social","social.tromdienste.de","fri.aethercom.de","m.janri.de","friendica.mrpetovan.com","jawns.club","retr0.id","jorts.horse","g1zm0.social","thetooniverse.xyz","soc.schuerz.at","f.kretschmann.social","eldritch.cafe","friendica.os-service.eu","social.stlouist.com","mastodon.xyz","f.haeder.net","hackers.town","tty0.social","lastfree.space","verified.mastodonmedia.xyz","vmst.io","social.chadwaltercummings.me","mastodon.radio","mstdn.social","socialism.social","petroskowo.pl","blahaj.social","kudabiverse.com","nonexiste.net","norrebro.space","botsin.space","fosstodon.org","loma.ml","friendica.heikosblog.eu","post.lurk.org","qoto.org","hachyderm.io","meld.de","keybored.me","freeradical.zone","friendica.retronerd.at","friendica.me","port87.social","social.cyano.at","m.rakyll.org","podcastindex.social","anonsys.net","mastodon.org.uk","contenttechtodon.org","genart.social","openbiblio.social","kolektiva.social","f.iroiro.party","m.butt.dev"]

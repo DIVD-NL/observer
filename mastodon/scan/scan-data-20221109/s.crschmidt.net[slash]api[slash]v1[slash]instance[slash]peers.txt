@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://s.crschmidt.net; img-src 'self' https: data: blob: https://s.crschmidt.net; style-src 'self' https://s.crschmidt.net 'nonce-opaxCL4iWbdra41MwBJStg=='; media-src 'self' https: data: https://s.crschmidt.net; frame-src 'self' https:; manifest-src 'self' https://s.crschmidt.net; connect-src 'self' data: blob: https://s.crschmidt.net https://sb-crschmidt.b-cdn.net wss://s.crschmidt.net; script-src 'self' https://s.crschmidt.net; child-src 'self' blob: https://s.crschmidt.net; worker-src 'self' blob: https://s.crschmidt.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:14 GMT
+Etag: W/"fc25e586cff23437f4c254c562e6d1e3"
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.916759Z
+X-Request-Id: f602c54a-00e3-4165-b743-1c5d0ba7a519
+X-Runtime: 0.015985
+X-Xss-Protection: 0
+
+4b
+["mastodon.social","pleroma.1d4.us","mas.to","cybre.space","cantos.social"]
+0
+

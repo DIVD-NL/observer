@@ -1,0 +1,99 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, private
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76776676ab8883c4-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:20 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qRsaxUqp4Dtf01PbrYlRN5zJ56CznlsHoOrFy5JOXr2IyhJtcPTctuJzZ8J1SKAvhL3QAqdmexM4CdJeLKIuCoetGbRspeCGIyJUKdgYgAg%2BjTAmeCIgzHigAIeY"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+
+1330
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>Catgram</title>
+	<link rel="manifest" href="/manifest.json">
+
+	<meta property="og:site_name" content="Catgram">
+	<meta property="og:title" content="Catgram">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://catgram.co/api/v1/instance/peers">
+	
+	<meta name="medium" content="image">
+	<meta name="theme-color" content="#10c5f8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="canonical" href="https://catgram.co/api/v1/instance/peers">
+	<link href="/css/app.css?id=66c10c9502955c88d471277fface8c32" rel="stylesheet" data-stylesheet="light">
+	<script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":true,"uploader":{"max_photo_size":"15000","max_caption_length":"500","album_limit":"10","image_quality":"100","max_collection_length":100,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif,video\/mp4,image\/webp","enforce_account_limit":false},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":true,"rec":false,"loops":false,"top":true,"polls":true,"cached_public_timeline":true,"gps":true,"spa":true,"emc":true},"site":{"name":"Catgram","domain":"catgram.co","url":"https:\/\/catgram.co","description":"Catgram is a Pixelfed instance for cats and cat guardians. Other pets are ofcourse also welcome."},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"timelines":{"local":true,"network":true},"mobile_apis":true,"stories":true,"video":true,"import":{"instagram":true,"mastodon":false,"pixelfed":false},"label":{"covid":{"enabled":true,"org":"visit the WHO website","url":"https:\/\/www.who.int\/emergencies\/diseases\/novel-coronavirus-2019\/advice-for-public"}}}}};</script>
+	</head>
+<body>
+	<nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+	<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="/" title="Logo">
+				<img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+				<span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">Catgram</span>
+			</a>
+
+			<div class="collapse navbar-collapse">
+			
+			
+				<ul class="navbar-nav ml-auto">
+					<li>
+						<a class="nav-link font-weight-bold text-dark" href="/login" title="Login">
+							Login
+						</a>
+					</li>
+											</ul>
+			</div>
+	</div>
+</nav>
+	<main id="content">
+		<div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+	</main>
+	<footer>
+    <div class="container py-5">
+        <p class="text-center text-uppercase font-weight-bold small text-justify">
+          <a href="https://catgram.co/discover" class="text-dark p-2">Explore</a>
+          <a href="https://catgram.co/discover/tags/cat?src=hash" class="text-dark p-2">#Cat</a>
+          <a href="https://catgram.co/site/about" class="text-dark p-2">About</a>
+          <a href="https://catgram.co/site/help" class="text-dark p-2">Help</a>
+          <a href="https://catgram.co/site/terms" class="text-dark p-2">Terms</a>
+          <a href="https://catgram.co/site/privacy" class="text-dark p-2">Privacy</a>
+          <a href="https://catgram.co/site/language" class="text-dark p-2">Language</a>
+          <a href="https://ko-fi.com/Catgram" target="_blank" class="text-dark p-2">Donate</a>
+        </p>
+        <p class="text-center text-muted small mb-0">
+          <span class="text-muted">© 2022. <a href="https://github.com/catgram/catgram" target="_blank" class="text-muted font-weight-bold" rel="noopener">Catgram</a></span>
+          <span class="mx-2">·</span>
+          <a href="https://pixelfed.org" target="_blank" rel="noopener">Pixelfed</a> v0.11.3
+        </p>
+    </div>
+  </footer>
+  	<script type="text/javascript" src="/js/manifest.js?id=4e6dd9cb251d9698bfccb781db000cca"></script>
+	<script type="text/javascript" src="/js/vendor.js?id=4b8baeff156b0f280596a985b98255bc"></script>
+	<script type="text/javascript" src="/js/app.js?id=855c8b0847137dd56c72229ad305c032"></script>
+	<script type="text/javascript" src="/js/components.js?id=35beb0748dd5518371686a5f00348fbf"></script>
+	</body>
+</html>
+
+0
+

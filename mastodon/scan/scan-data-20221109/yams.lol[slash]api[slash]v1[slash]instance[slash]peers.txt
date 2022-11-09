@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778bdd7f55b9a8-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://yams.lol; img-src 'self' https: data: blob: https://yams.lol; style-src 'self' https://yams.lol 'nonce-EJQWlznX5RxQ1VWSBzw5zA=='; media-src 'self' https: data: https://yams.lol; frame-src 'self' https:; manifest-src 'self' https://yams.lol; connect-src 'self' data: blob: https://yams.lol https://yams.lol wss://yams.lol; script-src 'self' https://yams.lol; child-src 'self' blob: https://yams.lol; worker-src 'self' blob: https://yams.lol
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:52 GMT
+Etag: W/"5c7efd895ea440958ecd256a0fe1319c"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FLb1n2VPkhRLfIw%2FOaiiHMCDNJuP%2Bzfi3LDcW%2BjsN%2BXs7K96nnHckN3F%2BLkLh3gesWOKK59LWrgVNemv%2Bb7cSw24UiWSUJOlK8f266fRD7TpfTfEPJTzwg7u9g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T06:05:00.371891Z
+X-Request-Id: 0f9030b3-6176-42a3-85bd-dd93d013e95a
+X-Runtime: 0.008936
+X-Xss-Protection: 1; mode=block
+
+1a4
+["mastodon.online","mastodon.social","mastodong.lol","akko.disqordia.space","fedi.togen.xyz","fedi.astrid.tech","kawaii.kitsune.cafe","unix.dog","expired.mentality.rip","bae.st","plma.plus.st","snowdin.town","techthoughts.io","social.tripulse.net","mk.mistli.net","plem.sapphic.site","pleroma.nobodyhasthe.biz","eeeeeeeee.eu","motley.club","loma.ml","shrine.moe","dragons.fyi","mk.absturztau.be","mastodon.dmgd.monster"]
+0
+

@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.tonkku.me; img-src 'self' https: data: blob: https://social.tonkku.me; style-src 'self' https://social.tonkku.me 'nonce-PQcSb9tE/Z/TgEWbKqdnNA=='; media-src 'self' https: data: https://social.tonkku.me; frame-src 'self' https:; manifest-src 'self' https://social.tonkku.me; connect-src 'self' data: blob: https://social.tonkku.me https://social.tonkku.me wss://social.tonkku.me; script-src 'self' https://social.tonkku.me; child-src 'self' blob: https://social.tonkku.me; worker-src 'self' blob: https://social.tonkku.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:48 GMT
+Etag: W/"b7e14302b880aa91c5f0aba3ddca43c8"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.173648Z
+X-Request-Id: 6b4bd531-13ea-43dd-bed1-f283b9d3d321
+X-Runtime: 0.005097
+X-Xss-Protection: 0
+
+29b
+["marcorennmaus.de","5fb3f2bb.nip.io","eeeeeeeee.eu","social.fellr.net","masto.astrra.space","anonsys.net","bocchi.social","mastodon.matrix.org","framapiaf.org","bsd.network","social.coop","sms.cybik.moe","mastodon.cloud","tech.lgbt","fuzzy.systems","fog.highspirits.games","pony.social","social.lol","mas.to","mastodon.underworld.fr","mamot.fr","mastodon.online","fosstodon.org","tilde.zone","indieweb.social","chaos.social","social.dbot.dev","101010.pl","mastodon.social","mstdn.ca","f.freinetz.ch","pawoo.net","mastodonapp.uk","masto.ezhevita.dev","mstdn.bx23.net","androiddev.social","xn--baw-joa.social","mastodon.art","mastodon.kerenon.com","gaminginthe.cloud"]
+0
+

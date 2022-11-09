@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.apronmaid.info; img-src 'self' https: data: blob: https://mastodon.apronmaid.info; style-src 'self' 'unsafe-inline' https://mastodon.apronmaid.info; media-src 'self' https: data: https://mastodon.apronmaid.info; frame-src 'self' https:; manifest-src 'self' https://mastodon.apronmaid.info; connect-src 'self' blob: https://mastodon.apronmaid.info wss://mastodon.apronmaid.info; script-src 'self' https://mastodon.apronmaid.info
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:55 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 7500
+X-Ratelimit-Remaining: 7499
+X-Ratelimit-Reset: 2022-11-09T15:15:00.854787Z
+X-Request-Id: b1013e87-b00e-4700-97fd-7d7de3b11cf7
+X-Runtime: 0.023666
+X-Xss-Protection: 1; mode=block
+
+0
+

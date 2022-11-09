@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76775ee82f132e14-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:52:11 GMT
+Location: https://fulda.social/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HwdGDAeu0tF3gyO8lgkieV3dhjpVYaB%2BJKf7sEfW1s%2BXtvRNgVOn6kj3VP0v5GLh8HCD3cX%2BN0A8kODDctEyzqLAlb3dUTEWL3Y1QDqVWUg9y33JGiPZJBdk%2FSMx%2FA8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+a2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

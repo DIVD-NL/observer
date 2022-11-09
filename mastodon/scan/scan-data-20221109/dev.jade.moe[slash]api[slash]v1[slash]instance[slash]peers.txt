@@ -1,0 +1,26 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 344
+Audit-Id: b361e3d1-a6a1-4c90-8892-5fff6eb89b48
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:35 GMT
+X-Content-Type-Options: nosniff
+X-Kubernetes-Pf-Flowschema-Uid: 4f908c7d-3433-4682-a6e6-860e49c3ebe9
+X-Kubernetes-Pf-Prioritylevel-Uid: a1623db8-03d2-43fa-9ee8-aa4bf6850804
+
+{
+  "kind": "Status",
+  "apiVersion": "v1",
+  "metadata": {
+    
+  },
+  "status": "Failure",
+  "message": "instance \"peers\" is forbidden: User \"system:anonymous\" cannot get resource \"instance\" in API group \"\" at the cluster scope",
+  "reason": "Forbidden",
+  "details": {
+    "name": "peers",
+    "kind": "instance"
+  },
+  "code": 403
+}

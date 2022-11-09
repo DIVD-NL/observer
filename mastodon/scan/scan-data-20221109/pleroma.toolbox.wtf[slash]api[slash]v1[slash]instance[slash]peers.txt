@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1072
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.toolbox.wtf wss://pleroma.toolbox.wtf;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:19 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.23.2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzgp1ZbyIiwUgAYTcB
+X-Xss-Protection: 1; mode=block
+
+["mastodon.green","ioc.exchange","mastodontti.fi","whitesmokebbq.social","mastodon.cloud","toot.community","sfba.social","infosec.exchange","pouet.chapril.org","mastodon.nl","functional.cafe","ieji.de","tech.lgbt","mastodon.social","mastodon.no2nd.earth","anticapitalist.party","photog.social","friendica.jb-net.us","indieweb.social","scholar.social","mamot.fr","fediscience.org","todon.nl","social.lol","social.bau-ha.us","diaspodon.fr","writing.exchange","triangletoot.party","hci.social","toot.wales","mas.to","mastodon.me.uk","masto.ai","dice.camp","lor.sh","peoplemaking.games","mastodon.ie","vis.social","mastodon.scot","mastodon.online","todon.eu","toot.thedoodleproject.net","aus.social","pirati.ca","mstdn.social","social.europlus.zone","queer.af","fosstodon.org","nerdculture.de","qoto.org","mastodon.sdf.org","masto.nobigtech.es","hessen.social","social.ei8fdb.org","hostux.social","libranet.de","twit.social","t2.thotsofa304.club","masto.pt","mastodon.lol","rollenspiel.social","c.im","eeeeeeeee.eu","sunny.garden","mastodon.art","chaos.social","liberdon.com"]

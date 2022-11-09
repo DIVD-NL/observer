@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767779359cabf969-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://lonestar.chat; img-src 'self' https: data: blob: https://lonestar.chat; style-src 'self' https://lonestar.chat 'nonce-l5XW9IQQIHbRLmZCsrRMYA=='; media-src 'self' https: data: https://lonestar.chat; frame-src 'self' https:; manifest-src 'self' https://lonestar.chat; connect-src 'self' data: blob: https://lonestar.chat https://lonestar.chat wss://lonestar.chat; script-src 'self' https://lonestar.chat; child-src 'self' blob: https://lonestar.chat; worker-src 'self' blob: https://lonestar.chat
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:08 GMT
+Etag: W/"7c7abe8993bdfd0a1f0fba43f5d9eec5"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6bcfSByGHQO2dj65YlGnROU1iWdxu9Up9yVVlg1GKU7vdeWiRclw1NMFeKJ886vA5YgyHyZ94jd%2FVZzO79%2BJaXZrT7OOPmn1USScGVeuYehy1LsjlRxPLecPgUYzcKJZ"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.628545Z
+X-Request-Id: 9a88f00f-14c7-476a-b130-d7a49849e6f8
+X-Runtime: 0.008106
+X-Xss-Protection: 0
+
+491
+["relay.freespeech.club","relay.chocoflan.net","relay.mistli.net","nangang.travnewmatic.com","chaos.social","fosstodon.org","mstdn.social","social.horrorhub.club","libranet.de","sfba.social","photog.social","vegoon.party","universeodon.com","twit.social","shitpost.cloud","mastodon.uy","social.anoxinon.de","nrw.social","oldbytes.space","mastodon.coffee","mastodon.sdf.org","botsin.space","berserker.town","medibubble.org","social.cologne","mastouille.fr","mstdn.satania.social","fedi.tyil.nl","fedi.astrid.tech","ng.cathoderay.tube","borg.social","queer.af","oliphant.social","respublicae.eu","mastodon.iriseden.eu","anonsys.net","kolektiva.social","social.transsafety.network","nerdculture.de","social.yl.ms","seal.cafe","phpc.social","tech.lgbt","mastodon.cloud","ravenation.club","social.tchncs.de","outpoa.st","bae.st","gameliberty.club","iddqd.social","qoto.org","col.social","mindly.social","mastodonapp.uk","dltq.org","poa.st","mastodon.fulltermprivacy.com","mas.to","mastodon.online","mastodon.social","mastodon.holeyfox.co","piaille.fr","toot-lab.reclaim.technology","lsbt.me","miss.mouse.services","fedi.intkos.link","linernotes.club","mst3k.interlinked.me"]
+0
+

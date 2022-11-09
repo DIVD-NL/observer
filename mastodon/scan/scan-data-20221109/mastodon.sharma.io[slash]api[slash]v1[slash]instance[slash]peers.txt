@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sharma.io; img-src 'self' https: data: blob: https://mastodon.sharma.io; style-src 'self' https://mastodon.sharma.io 'nonce-0oJyUBVc2g81s+qYuUEl/A=='; media-src 'self' https: data: https://mastodon.sharma.io; frame-src 'self' https:; manifest-src 'self' https://mastodon.sharma.io; connect-src 'self' data: blob: https://mastodon.sharma.io https://mastodon.sharma.io wss://mastodon.sharma.io; script-src 'self' https://mastodon.sharma.io 'unsafe-eval'; child-src 'self' blob: https://mastodon.sharma.io; worker-src 'self' blob: https://mastodon.sharma.io
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:13 GMT
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.762563Z
+X-Request-Id: f6cb27aa-4d96-494b-8c04-68fbca2f00bd
+X-Runtime: 0.006979
+X-Xss-Protection: 0
+Content-Length: 0
+

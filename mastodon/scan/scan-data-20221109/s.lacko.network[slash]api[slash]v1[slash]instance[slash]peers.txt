@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767783a5788fb9c3-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:15 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QG9cOXEOA0ymJ8YnigRPOzubvGbkq1J6%2BxfolleVAEu2MEhsww%2Ffvc9aJzCKQe%2Fd07QbG8EpIW3AgljS8Sk0wG1r927HdeZEtS8TrQQHSMe0jyjpFusZ7KqLHjkdi5MWEWk%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+76
+["alive.bar","bgme.me","pawoo.net","acg.mn","m.cmx.im","qoto.org","social.datalabour.com","orz.uno","mastodon.social"]
+0
+

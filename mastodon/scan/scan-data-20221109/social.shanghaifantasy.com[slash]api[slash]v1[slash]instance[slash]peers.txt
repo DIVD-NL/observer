@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767786fdeb19b9b9-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:32 GMT
+Etag: W/"8fdbd0f1b4c4127a1b4ad5ead0295023"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lreZu7gJnVLXlflZhdwSorG6iNGhnHEy1AxKUojFCn773UHxA8RgK3VJHUduk1LLZIUwad5%2FHx%2FDcHeNXToPPmxzo%2FoSuZ%2BJfu4TVeXUjIJkr0xs%2FFhRpNvs1V2obpjlbMGD5Qrd0j7U6s5TFA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T16:35:00.775690Z
+X-Request-Id: 598f7bae-9568-453c-958c-3a3cd5531b82
+X-Runtime: 0.010000
+X-Xss-Protection: 1; mode=block
+
+3b2
+["pl.seahorse.sh","octodon.social","nightshift.social","rojogato.com","freespeechextremist.com","mastodon.online","mk.gabe.rocks","mk.starnix.network","poa.st","cybercrusade.xyz","fosstodon.org","nerdculture.de","beefyboys.win","djsumdog.com","fediverse.pl","floss.social","hcommons.social","lor.sh","social.anoxinon.de","gly.one","linuxrocks.online","mastodontti.fi","sleepy.cafe","ravenation.club","mastodon.sdf.org","climatejustice.social","ieji.de","mastodon.world","seal.cafe","mstdn.starnix.network","jaesharp.social","mastodon.social","nicecrew.digital","eupolicy.social","chudbuds.lol","mastodon.cloud","mk.chocoflan.net","mastodon.lol","eveningzoo.club","toot.community","hub.natehiggers.online","mstdn.social","sfba.social","mastodon.technology","gleasonator.com","noc.social","pleroma.jamesp.org","mastodon.com.tr","leafposter.club","eldritch.cafe","mas.to","mastodonapp.uk","infosec.exchange","econtwitter.net","social.mrhands.horse"]
+0
+

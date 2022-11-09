@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mast.tymscar.com; img-src 'self' https: data: blob: https://mast.tymscar.com; style-src 'self' https://mast.tymscar.com 'nonce-0Mf2NvfWEq5sj+X0QfGoNQ=='; media-src 'self' https: data: https://mast.tymscar.com; frame-src 'self' https:; manifest-src 'self' https://mast.tymscar.com; connect-src 'self' data: blob: https://mast.tymscar.com https://mast.tymscar.com wss://mast.tymscar.com; script-src 'self' https://mast.tymscar.com; child-src 'self' blob: https://mast.tymscar.com; worker-src 'self' blob: https://mast.tymscar.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:39 GMT
+Etag: W/"60d8077fcad14274a86f399b3cb3a951"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T22:30:00.455654Z
+X-Request-Id: 924c6f44-2f99-4ba8-b633-6d7d70ec25dd
+X-Runtime: 0.022666
+X-Xss-Protection: 1; mode=block
+
+4ea
+["sigmoid.social","mastodon.ie","mstdn.social","mastodon.eus","mastodon.online","mastodon.social","ioc.exchange","mastodon.nl","cybervillains.com","information.garden","3dp.chat","delroth.net","fosstodon.org","mastodon.nu","social.dsmouse.net","qoto.org","inuh.net","octodon.social","simonwillison.net","cybre.space","tweetrex.co.uk","social.pixels.pizza","m.rakyll.org","bitcoinhackers.org","indieweb.social","hub.bayliss.social","floss.social","vt.social","mastodon.fam-ribbers.com","freeradical.zone","mastodon.technology","pony.social","dair-community.social","chaos.social","tech.lgbt","tty0.social","social.lasanha.org","plem.sapphic.site","social.coop","li.mnino.us","akko.anemoneya.me","fenetre.dev","moron.city","hulvr.com","scholar.social","toot.community","mindly.social","merveilles.town","mastodon.se","mastodon.scot","mastodon.gamedev.place","glasgow.social","mas.ggr.me","hachyderm.io","mastodon.davidpeach.co.uk","libretooth.gr","ieji.de","med-mastodon.com","toot.cat","awoo.fai.st","aus.social","mastodon.me.uk","masto.pt","social.anoxinon.de","photog.social","mastodonapp.uk","discuss.systems","mas.to","mastodon.uno","plush.city","treehouse.systems","peoplemaking.games","social.linux.pizza","unbound.social","infosec.exchange","masto.ai"]
+0
+

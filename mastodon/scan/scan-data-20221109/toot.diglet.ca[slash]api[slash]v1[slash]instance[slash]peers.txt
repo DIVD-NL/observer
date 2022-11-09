@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.diglet.ca; img-src 'self' https: data: blob: https://toot.diglet.ca; style-src 'self' https://toot.diglet.ca 'nonce-VgoCbxnuDKlck5ztb2EcUA=='; media-src 'self' https: data: https://toot.diglet.ca; frame-src 'self' https:; manifest-src 'self' https://toot.diglet.ca; connect-src 'self' data: blob: https://toot.diglet.ca https://us-east-1.linodeobjects.com wss://toot.diglet.ca; script-src 'self' https://toot.diglet.ca; child-src 'self' blob: https://toot.diglet.ca; worker-src 'self' blob: https://toot.diglet.ca
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:53 GMT
+Etag: W/"a02bd33ab3e71eab1b5625ef41abbcb7"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.880948Z
+X-Request-Id: 793a439d-0e23-44cf-8a5c-b899dc2713a9
+X-Runtime: 0.024217
+X-Xss-Protection: 0
+
+1f3
+["mast.linuxgamecast.com","tech.lgbt","miruku.cafe","cryptocartel.social","bytetower.social","mas.to","social.tulsa.ok.us","layer8.space","toot.community","sms.cybik.moe","freeradical.zone","mastodonapp.uk","c.im","mstdn.io","gagniard.org","mastodon.social","sua.anarkis.net","wandering.shop","mastodon.gamedev.place","mastodon.com.br","jbstans.social","gaminginthe.cloud","masto.ai","mastodon.ar.al","mastodon.online","toot.dice.quest","fosstodon.org","forcedconversation.com","social.linux.pizza"]
+0
+

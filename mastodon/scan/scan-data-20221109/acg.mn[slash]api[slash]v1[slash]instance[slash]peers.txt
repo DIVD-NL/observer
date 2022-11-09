@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767765eb1d44b9ba-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://acg.mn; img-src 'self' https: data: blob: https://acg.mn; style-src 'self' https://acg.mn 'nonce-4mSKRXZkSbRMO/Zf/PVzWQ=='; media-src 'self' https: data: https://acg.mn; frame-src 'self' https:; manifest-src 'self' https://acg.mn; connect-src 'self' data: blob: https://acg.mn https://s3.acg.mn wss://acg.mn; script-src 'self' https://acg.mn; child-src 'self' blob: https://acg.mn; worker-src 'self' blob: https://acg.mn
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=522sRUNSjONkh8xZls0D1p7NYNqjmCWlDXj8hDWsLVBq5k%2Fe%2FFFwmcPgwoK8uvBIjch55gOQ5Lv%2Fm9S2KfFlyzUsvVRbCRvKOjhhzntIyGRTZsGUUBSBiJY%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.699043Z
+X-Request-Id: e2ed6315-2506-42e0-bc6f-59340519c40e
+X-Runtime: 0.003556
+X-Xss-Protection: 0
+
+0
+

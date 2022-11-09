@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.migennes.net; img-src 'self' https: data: blob: https://mastodon.migennes.net; style-src 'self' https://mastodon.migennes.net 'nonce-Q6TI8LLZKWrvP8yZS5dSaA=='; media-src 'self' https: data: https://mastodon.migennes.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.migennes.net; connect-src 'self' data: blob: https://mastodon.migennes.net https://mastodon.migennes.net wss://mastodon.migennes.net; script-src 'self' https://mastodon.migennes.net; child-src 'self' blob: https://mastodon.migennes.net; worker-src 'self' blob: https://mastodon.migennes.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:47 GMT
+Etag: W/"f62540dd31a25d1672e2c59b72ec218a"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.471563Z
+X-Request-Id: 2f38e3e7-b8f4-44a5-82b4-1d8b3c7a87fe
+X-Runtime: 0.006484
+X-Xss-Protection: 0
+
+fa3
+["xoxo.zone","social.targaryen.house","witches.live","mastodon.technology","mstdn.io","loma.ml","soteria.mastodon.host","noovi.org","toot.love","witches.town","pleroma.soykaf.com","friendica.xyz","mastodon.art","myriad.social","social.tcit.fr","fr.zy.lc","fandom.ink","social.yonne-numerique.fr","mastodonfrance.com","anticapitalist.party","playvicious.social","pixelfed.social","social.apreslanu.it","social.dssr.ch","pm.ernix.jp","nerdica.net","m.sl-network.fr","mastodon.zaclys.com","is-a.horse","meld.de","pachyder.me","social.linux.pizza","soc.ialis.me","guimik.fr","mastodon.brussels","squeet.me","gamemaking.social","video.migennes.net","pawoo.net","unixcorn.xyz","m.g3l.org","cornichon.me","todon.nl","boitam.eu","mastodon.papey.fr","social.vincentux.fr","fosstodon.org","friends.tausys.de","social.mordicux.xyz","mastodon.sxpert.org","yiff.life","mobile.st","ostatus.shnoulle.net","h.kher.nl","crazynoisybizarre.town","computerfairi.es","linuxrocks.online","hex.bz","fedicy.allowed.org","nulled.red","mastd.racing","misskey.xyz","toot.wales","f.praschnig.com","eldritch.cafe","acab.land","hostux.social","social.logilab.org","mastodon.land","social.spiwit.net","social.isurf.ca","mastodon.opportunis.me","f.haeder.net","rubber.social","fiat-tux.fr","aleph.land","nitro.horse","social.lou.lt","social.alex73630.xyz","va-11-hall-a.cafe","igouv.fr","mastodon.sdf.org","antisocial.narinimous.fr","snouts.online","libranet.de","pirati.ca","erm67.dynu.net","catboy.cafe","social.atypique.net","bofa.lol","mastodon.cgx.me","social.coop","social.wxcafe.net","rich.gop","forum.friendi.ca","chat.cdstm.ch","brrrt.eu","arktos.social","pleroma.bortzmeyer.fr","mastodon.tamanoir.foucry.net","koreus.social","toots.corzntin.fr","4eva.online","maly.io","friendica.a-zwenkau.de","mstdn.binfalse.de","amicale.net","lunareclip.se","occitanie.social","mastodon.etalab.gouv.fr","chablis.social","mammout.bzh","radical.town","colson.re","pets-in.space","venera.social","pouets.ovh","mastodon.pirateparty.be","social.tchncs.de","friendica.mrpetovan.com","compassion.online","fr.osm.social","social.guizzyordi.info","social.yl.ms","mastodon.tetaneutral.net","dis-le.de","mastodon.potager.org","mast.eu.org","mastodon.network","quitter.no","social.taker.fr","friendica.togart.de","cybre.space","masto.svnet.fr","pouet.yolops.net","mastodon.host","cloud.migennes.net","creature.cafe","social.infranix.eu","mstdn.fr","friends.nico","knzk.me","pouet.panglossoft.fr","mstdn.x-serv.ovh","ecurie.social","mastodon.hugopoi.net","miaou.drycat.fr","social.cloudfrancois.fr","iopla.fr","mastodon.partipirate.org","mastodon.hexaly.se","f.nospy.net","tooting.ai","newsbots.eu","social.numerama.com","mastodon.cloud","mstdn.nemsia.org","social.dark-alexandr.net","friendica.produnis.de","social.imirhil.fr","tooting.ch","quitter.pl","friendica.valvin.fr","point.community","social.franssen.xyz","octodon.social","friendica.eskimo.com","friendica.code-alongsi.de","social.trom.tf","friendica.argentwolf.org","anonsys.net","f.freinetz.ch","social.brevsprekk.net","friendica.charla.mx","friendica.vrije-mens.org","mastodon.kicik.fr","pleroma.foucry.net","friendica.kommune4.de","mastodon.xyz","diaspodon.fr","framapiaf.org","nrkn.fr","hentai.baby","social.tromdienste.de","friendica.gidikroon.eu","social.cool110.xyz","friendica.djan-gicquel.fr","dica.interfel.de","friendica.ellih.eu","toot.aquilenet.fr","travelpandas.fr","social.softmetz.de","friendica.opensocial.space","f.matri.ml","sitedethib.com","g1zm0.social","la-verite-vaincra.com","social.thierrytalbert.fr","social.badabam.net","write.as","bsd.network","schmaker.eu","mastodon.underworld.fr","fediverse.one","friends.wimmer-edv.de","wiesbaden.social","friendica.jb-net.us","friendica.utzer.de","friendica.mnementh.co.uk","social.dorf-post.de","fedi.ml","social.p0lymer.net","rollenspiel.group","mastodon.tedomum.net","mastodon.gougere.fr","pouet.chapril.org","hullblasters.club","mastodon.social","amical.info","social.wideboys.org","oc.todon.fr","mamot.fr","piaille.fr"]
+0
+

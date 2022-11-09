@@ -1,0 +1,17 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Content-Length: 195
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:58:17 GMT
+Server: Apache/2.4.29 (Ubuntu)
+X-Response-Type: html
+
+<html>
+	<head>
+		<title>Internal Server Error</title>
+	</head>
+	<body>
+		<h1>Internal Server Error</h1>
+		<p>Entschuldigung, aber die Webseite ist derzeit nicht erreichbar.</p>
+		</body>
+</html>

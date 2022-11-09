@@ -1,0 +1,71 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 2346
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:47 GMT
+Etag: "92a-56d6bc7cf7104"
+Last-Modified: Wed, 30 May 2018 12:49:24 GMT
+Server: nginx/1.10.3
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <meta http-equiv="refresh" content="120;URL=https://www.selectallfromdual.com">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>404 - Page Not Found</title>
+
+		<link rel="stylesheet" href="https://www.selectallfromdual.com/pages/error_pages/404/css/style.css" type="text/css" />
+		<link href='https://fonts.googleapis.com/css?family=Maven+Pro:400,700' rel='stylesheet' type='text/css' />
+		
+		<script type="text/javascript" src="https://www.selectallfromdual.com/pages/error_pages/404/js/jquery.js"></script>
+		<script type="text/javascript" src="https://www.selectallfromdual.com/pages/error_pages/404/js/introtzikas.js"></script>
+		<script type="text/javascript" src="https://www.selectallfromdual.com/pages/error_pages/404/js/script.js"></script>
+		<script type="text/javascript">
+			//<![CDATA[
+				$(document).ready(function() {
+					$().introtzikas({
+							line: 'white', 
+							speedwidth: 2000, 
+							speedheight: 1000, 
+							bg: '#474747',
+							lineheight: 2
+					});	
+				});
+			//]]>
+		</script>
+</head>
+
+<body>
+
+	<img src="https://www.selectallfromdual.com/pages/error_pages/404/images/bg2.jpg" id="bg" alt="" /><!-- Background image -->
+	<div class="bg_overlay"></div><!-- Pattern -->
+		<div id="wrap">
+			<div id="block">
+				<div id="content">
+					<div class="top_img">
+						<div class="img_eror"></div>
+					</div>
+					<div class="srch">
+						<div class="search">
+							<form method="get" id="s-form" action="https://www.selectallfromdual.com/blog/" class="s-form"> 
+								<fieldset> 
+										 <input type="text" class="s_text" name="s" id="s" /> 
+										 <input type="submit" class="s_button" value="Cerca" id="searchsubmit" /> 
+								</fieldset> 
+							</form>
+						</div>
+					</div>
+					<div class="text_eror">
+						<h1>Ooops! La pagina non esiste...</h1>
+						<p>Puoi provare ad eseguire una ricerca sul mio sito usando il modulo di sopra.<br />
+						   In alternativa, puoi visitare il <a href="https://www.selectallfromdual.com/blog">BLOG</a> oppure l'<a href="https://www.selectallfromdual.com">HOMEPAGE</a>.</p>
+					</div>
+					
+					
+				</div>
+			</div>
+		</div>
+
+</body>
+</html>

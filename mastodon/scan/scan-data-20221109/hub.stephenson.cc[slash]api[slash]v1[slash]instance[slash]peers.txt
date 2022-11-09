@@ -1,0 +1,448 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; frame-src 'self' www.openstreetmap.org;
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:23 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Permissions-Policy: interest-cohort=()
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=96nefl96dncj2nfpac9epm9vk9; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Powered-By: PHP/8.0.25
+
+5d04
+{"error":"not implemented"}<!DOCTYPE html >
+<html prefix="og: http://ogp.me/ns#">
+<head>
+  <title>Hubzilla</title>
+  <script>var baseurl="https://hub.stephenson.cc";</script>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<base href="https://hub.stephenson.cc/" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=0" />
+
+<meta name="application-name" content="hubzilla" />
+<meta name="generator" content="hubzilla" />
+<meta name="theme-color" content="#343a40" />
+
+<link rel="stylesheet" href="https://hub.stephenson.cc/addon/gallery/lib/photoswipe/dist/photoswipe.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/addon/gallery/lib/photoswipe/dist/default-skin/default-skin.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/addon/gallery/view/css/gallery.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/fork-awesome/css/fork-awesome.min.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/vendor/twbs/bootstrap/dist/css/bootstrap.min.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/bootstrap-tagsinput/bootstrap-tagsinput.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/css/bootstrap-red.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/datetimepicker/jquery.datetimepicker.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/tiptip/tipTip.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/jgrowl/jquery.jgrowl.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/jRange/jquery.range.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/css/conversation.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/css/widgets.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/css/colorbox.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/library/justifiedGallery/justifiedGallery.min.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/css/default.css?v=7.8.2" type="text/css" media="screen">
+<link rel="stylesheet" href="https://hub.stephenson.cc/view/theme/redbasic/php/style.pcss?v=7.8.2" type="text/css" media="screen">
+
+<script>
+
+	var aStr = {
+
+		'delitem'     : "Delete this item?",
+		'itemdel'     : "Item deleted",
+		'comment'     : "Comment",
+		'showmore'    : "<i class='fa fa-chevron-down'></i> show all",
+		'showfewer'   : "<i class='fa fa-chevron-up'></i> show less",
+		'divgrowmore' : "<i class='fa fa-chevron-down'></i> expand",
+		'divgrowless' : "<i class='fa fa-chevron-up'></i> collapse",
+		'pwshort'     : "Password too short",
+		'pwnomatch'   : "Passwords do not match",
+		'everybody'   : "everybody",
+		'passphrase'  : "Secret Passphrase",
+		'passhint'    : "Passphrase hint",
+		'permschange' : "Notice: Permissions have changed but have not yet been submitted.",
+		'closeAll'    : "close all",
+		'nothingnew'  : "Nothing new here",
+		'rating_desc' : "Rate This Channel (this is public)",
+		'rating_val'  : "Rating",
+		'rating_text' : "Describe (optional)",
+		'submit'      : "Submit",
+		'linkurl'     : "Please enter a link URL",
+		'leavethispage' : "Unsaved changes. Are you sure you wish to leave this page?",
+		'location'    : "Location",
+		'lovely'      : "lovely",
+		'wonderful'   : "wonderful",
+		'fantastic'   : "fantastic",
+		'great'       : "great",
+		'nick_invld1' : "Your chosen nickname was either already taken or not valid. Please use our suggestion (",
+		'nick_invld2' : ") or enter a new one.",
+		'nick_valid'  : "Thank you, this nickname is valid.",
+		'name_empty'  : "A channel name is required.",
+		'name_ok1'    : "This is a ",
+		'name_ok2'    : " channel name",
+		'to_reply'    : "Back to reply",
+		'pinned'      : "Pinned",
+		'pin_item'    : "Pin to the top",
+		'unpin_item'  : "Unpin from the top",
+
+		'plural_func' : "0",
+
+		't01' : "",
+		't02' : "",
+		't03' : "ago",
+		't04' : "from now",
+		't05' : "less than a minute",
+		't06' : "about a minute",
+		't07' : "%d minutes",
+		't08' : "about an hour",
+		't09' : "about %d hours",
+		't10' : "a day",
+		't11' : "%d days",
+		't12' : "about a month",
+		't13' : "%d months",
+		't14' : "about a year",
+		't15' : "%d years",
+		't16' : " ",
+		't17' : "[]",
+
+		'monthNames' : [ "January","February","March","April","May","June","July","August","September","October","November","December" ],
+		'monthNamesShort' : [ "Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec" ],
+		'dayNames' : ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+		'dayNamesShort' : ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+		'today' : "today",
+		'month' : "month",
+		'week' : "week",
+		'day' : "day",
+		'allday' : "All day",
+
+		// mod cloud
+		'download_info' : "Please stand by while your download is being prepared.",
+
+		// mod register
+		'email_not_valid' : "Email address not valid",
+		'email_required' : "Required"
+
+	};
+
+</script>
+
+
+<script src="https://hub.stephenson.cc/view/js/jquery.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/justifiedGallery/jquery.justifiedGallery.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/sprintf.js/dist/sprintf.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/textcomplete/textcomplete.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/view/js/autocomplete.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/jquery.timeago.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/readmore.js/readmore.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/jgrowl/jquery.jgrowl.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/sjcl/sjcl.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/view/js/acl.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/view/js/webtoolkit.base64.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/view/js/crypto.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/jRange/jquery.range.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/colorbox/jquery.colorbox-min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/jquery.AreYouSure/jquery.are-you-sure.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/tableofcontents/jquery.toc.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/Sortable/Sortable.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/vendor/desandro/imagesloaded/imagesloaded.pkgd.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/bootbox/bootbox.min.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/bootstrap-tagsinput/bootstrap-tagsinput.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/datetimepicker/jquery.datetimepicker.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/library/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/view/theme/redbasic/js/redbasic.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/addon/gallery/lib/photoswipe/dist/photoswipe.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/addon/gallery/lib/photoswipe/dist/photoswipe-ui-default.js?v=7.8.2" ></script>
+<script src="https://hub.stephenson.cc/addon/gallery/view/js/gallery.js?v=7.8.2" ></script>
+
+<link rel="manifest" href="/manifest.json" />
+<link rel="shortcut icon" href="https://hub.stephenson.cc/images/hz-32.png" />
+<link rel="apple-touch-icon" href="/images/app/hz-192.png" />
+<link rel="search" href="https://hub.stephenson.cc/opensearch" type="application/opensearchdescription+xml" title="Search Hubzilla (Hubzilla)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://hub.stephenson.cc/rsd.xml" />
+
+
+<script>
+	var updateInterval = 80000;
+	var sse_enabled = 0;
+	var localUser = false;
+	var zid = null;
+	var justifiedGalleryActive = false;
+		var channelId = false;	var preloadImages = 0;
+	var auto_save_draft = false;
+	var module = 'api';</script>
+
+
+
+<script>$(document).ready(function() { $("#nav-search-text").search_autocomplete('https://hub.stephenson.cc/acl');});</script><script type="text/javascript" src="https://hub.stephenson.cc/addon/openstreetmap/openstreetmap.js"></script>
+<script src="https://hub.stephenson.cc/view/js/main.js?v=7.8.2" ></script>
+</head>
+<body  >
+		<header></header>
+	<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+	<div class="container-fluid flex-nowrap">
+				<div id="banner" class="navbar-text d-lg-none">Hubzilla</div>
+				<div class="navbar-toggler-right">
+						<button id="expand-aside" type="button" class="d-lg-none navbar-toggler border-0">
+				<i class="fa fa-arrow-circle-right" id="expand-aside-icon"></i>
+			</button>
+						<button id="notifications-btn-1" type="button" class="navbar-toggler border-0 notifications-btn">
+				<i id="notifications-btn-icon-1" class="fa fa-exclamation-circle notifications-btn-icon"></i>
+			</button>
+						<button id="menu-btn" class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#app-bin">
+				<i class="fa fa-bars"></i>
+			</button>
+		</div>
+		<div class="collapse navbar-collapse justify-content-between" id="navbar-collapse-1">
+			<ul class="navbar-nav">
+								<li class="nav-item d-lg-flex">
+										<a class="nav-link" href="#" title="Sign in" id="login_nav_btn" data-bs-toggle="modal" data-bs-target="#nav-login">
+					Login
+					</a>
+									</li>
+												<li class="nav-item  d-lg-flex">
+					<a class="nav-link" href="register" title="Create an account" id="register_nav_btn">Register</a>
+				</li>
+											</ul>
+
+			<div id="banner" class="navbar-text">Hubzilla</div>
+
+			<ul id="nav-right" class="navbar-nav">
+				<li class="nav-item collapse clearfix" id="nav-search">
+					<form class="form-inline" method="get" action="search" role="search">
+						<input class="form-control form-control-sm mt-1 me-2" id="nav-search-text" type="text" value="" placeholder="@name, #tag, ?doc, content" name="search" title="Search site @name, !forum, #tag, ?docs, content" onclick="this.submit();" onblur="closeMenu('nav-search'); openMenu('nav-search-btn');"/>
+					</form>
+					<div id="nav-search-spinner" class="spinner-wrapper">
+						<div class="spinner s"></div>
+					</div>
+				</li>
+				<li class="nav-item" id="nav-search-btn">
+					<a class="nav-link" href="#nav-search" title="Search site @name, !forum, #tag, ?docs, content" onclick="openMenu('nav-search'); closeMenu('nav-search-btn'); $('#nav-search-text').focus(); return false;"><i class="fa fa-fw fa-search"></i></a>
+				</li>
+												<li id="notifications-btn" class="nav-item d-xl-none">
+					<a class="nav-link text-white notifications-btn" href="#"><i id="notifications-btn-icon" class="fa fa-exclamation-circle  notifications-btn-icon"></i></a>
+				</li>
+												<li class="nav-item dropdown" id="app-menu">
+					<a class="nav-link" href="#" data-bs-toggle="offcanvas" data-bs-target="#app-bin" aria-controls="app-bin"><i class="fa fa-fw fa-bars"></i></a>
+				</li>
+			</ul>
+		</div>
+			</div>
+</nav>
+<div class="offcanvas offcanvas-end" tabindex="-1" id="app-bin" aria-labelledby="app-bin-label">
+	<div class="offcanvas-header">
+				<div class="d-lg-none pt-1 pb-1">
+						<a class="btn btn-primary btn-sm text-white" href="#" title="Sign in" id="login_nav_btn_collapse" data-bs-toggle="modal" data-bs-target="#nav-login">
+				Login
+			</a>
+									<a class="btn btn-warning btn-sm text-dark" href="register" title="Create an account" id="register_nav_btn" >
+				Register
+			</a>
+					</div>
+		<div class="nav d-lg-flex"></div>
+		
+		<button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+
+	</div>
+	<div class="offcanvas-body">
+								<div class="text-uppercase text-muted nav-link">
+			System Apps
+		</div>
+		<div class="nav nav-pills flex-column">
+							<a class="nav-link" href="https://hub.stephenson.cc/calc" data-papp="eyJ2ZXJzaW9uIjoiMSIsInVybCI6IiRiYXNldXJsXC9jYWxjIiwibmFtZSI6IkNhbGN1bGF0
+b3IiLCJwaG90byI6IiRiYXNldXJsXC9hZGRvblwvY2FsY1wvY2FsYy5wbmciLCJkZXNjIjoi
+QSBzaW1wbGUgY2FsY3VsYXRvciBhcHAuIiwidHlwZSI6InN5c3RlbSIsInBsdWdpbiI6ImNh
+bGMifQ==
+" data-icon="" data-url="https://hub.stephenson.cc/calc" data-name="Calculator"><img src="https://hub.stephenson.cc/addon/calc/calc.png" width="16" height="16" style="margin-right:9px;"/>Calculator</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/directory" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9kaXJlY3RvcnksICRiYXNldXJsXC9z
+ZXR0aW5nc1wvZGlyZWN0b3J5IiwibmFtZSI6IkRpcmVjdG9yeSIsInBob3RvIjoiaWNvbjpz
+aXRlbWFwIiwiY2F0ZWdvcmllcyI6Im5hdl9mZWF0dXJlZF9hcHAsIE5ldHdvcmtpbmciLCJk
+ZXNjIjoiTWVtYmVycyBkaXJlY3Rvcnkgb2YgdGhlIFpvdCBuZXR3b3JrLiIsInR5cGUiOiJz
+eXN0ZW0iLCJwbHVnaW4iOiIifQ==
+" data-icon="sitemap" data-url="https://hub.stephenson.cc/directory" data-name="Directory"><i class="generic-icons-nav fa fa-fw fa-sitemap"></i>Directory</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/help" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9oZWxwIiwibmFtZSI6IkhlbHAiLCJw
+aG90byI6Imljb246cXVlc3Rpb24iLCJjYXRlZ29yaWVzIjoibmF2X2ZlYXR1cmVkX2FwcCwg
+U3lzdGVtIiwiZGVzYyI6IlRoZSBIdWJ6aWxsYSBoZWxwIHBhZ2VzLiIsInR5cGUiOiJzeXN0
+ZW0iLCJwbHVnaW4iOiIifQ==
+" data-icon="question" data-url="https://hub.stephenson.cc/help" data-name="Help"><i class="generic-icons-nav fa fa-fw fa-question"></i>Help</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/hexit" data-papp="eyJ1cmwiOiIkYmFzZXVybFwvaGV4aXQiLCJuYW1lIjoiSGV4aXQiLCJwaG90byI6IiRiYXNl
+dXJsXC9hZGRvblwvaGV4aXRcL2hleGl0LnBuZyIsInR5cGUiOiJzeXN0ZW0iLCJwbHVnaW4i
+OiJoZXhpdCJ9
+" data-icon="" data-url="https://hub.stephenson.cc/hexit" data-name="Hexit"><img src="https://hub.stephenson.cc/addon/hexit/hexit.png" width="16" height="16" style="margin-right:9px;"/>Hexit</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/lang" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9sYW5nIiwibmFtZSI6Ikxhbmd1YWdl
+IiwicGhvdG8iOiJpY29uOmxhbmd1YWdlIiwiY2F0ZWdvcmllcyI6IlN5c3RlbSIsImRlc2Mi
+OiJBIHNpbXBsZSBsYW5ndWFnZSBzZWxlY3Rvci4iLCJ0eXBlIjoic3lzdGVtIiwicGx1Z2lu
+IjoiIn0=
+" data-icon="language" data-url="https://hub.stephenson.cc/lang" data-name="Language"><i class="generic-icons-nav fa fa-fw fa-language"></i>Language</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/pong" data-papp="eyJ1cmwiOiIkYmFzZXVybFwvcG9uZyIsIm5hbWUiOiJQb25nIiwicGhvdG8iOiIkYmFzZXVy
+bFwvYWRkb25cL3BvbmdcL3BvbmcucG5nIiwidHlwZSI6InN5c3RlbSIsInBsdWdpbiI6InBv
+bmcifQ==
+" data-icon="" data-url="https://hub.stephenson.cc/pong" data-name="Pong"><img src="https://hub.stephenson.cc/addon/pong/pong.png" width="16" height="16" style="margin-right:9px;"/>Pong</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/pubstream" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9wdWJzdHJlYW0iLCJyZXF1aXJlcyI6
+InB1YmxpY19zdHJlYW0iLCJuYW1lIjoiUHVibGljIFN0cmVhbSIsInBob3RvIjoiaWNvbjpn
+bG9iZSIsImNhdGVnb3JpZXMiOiJTb2NpYWwsIG5hdl9mZWF0dXJlZF9hcHAiLCJkZXNjIjoi
+VmlldyB0aGUgdW5tb2RlcmF0ZWQgcHVibGljIGNvbnRlbnQga25vd24gdG8gdGhpcyBodWIu
+IiwidHlwZSI6InN5c3RlbSIsInBsdWdpbiI6IiJ9
+" data-icon="globe" data-url="https://hub.stephenson.cc/pubstream" data-name="Public Stream"><i class="generic-icons-nav fa fa-fw fa-globe"></i>Public Stream</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/qrator" data-papp="eyJ1cmwiOiIkYmFzZXVybFwvcXJhdG9yIiwibmFtZSI6IlFSYXRvciIsInBob3RvIjoiJGJh
+c2V1cmxcL2FkZG9uXC9xcmF0b3JcL3FyYXRvci5wbmciLCJ0eXBlIjoic3lzdGVtIiwicGx1
+Z2luIjoicXJhdG9yIn0=
+" data-icon="" data-url="https://hub.stephenson.cc/qrator" data-name="QRator"><img src="https://hub.stephenson.cc/addon/qrator/qrator.png" width="16" height="16" style="margin-right:9px;"/>QRator</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/randprof" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9yYW5kcHJvZiIsIm5hbWUiOiJSYW5k
+b20gQ2hhbm5lbCIsInRhcmdldCI6InJhbmRwcm9mIiwicGhvdG8iOiJpY29uOnJhbmRvbSIs
+ImNhdGVnb3JpZXMiOiJOZXR3b3JraW5nIiwiZGVzYyI6IlZpc2l0IGEgcmFuZG9tIGNoYW5u
+ZWwgaW4gdGhlIG5ldHdvcmsuIiwidHlwZSI6InN5c3RlbSIsInBsdWdpbiI6IiJ9
+" data-icon="random" data-url="https://hub.stephenson.cc/randprof" data-name="Random Channel"><i class="generic-icons-nav fa fa-fw fa-random"></i>Random Channel</a>
+
+							<a class="nav-link" href="https://framagit.org/hubzilla/core/issues" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6Imh0dHBzOlwvXC9mcmFtYWdpdC5vcmdcL2h1YnppbGxh
+XC9jb3JlXC9pc3N1ZXMiLCJuYW1lIjoiUmVwb3J0IEJ1ZyIsInBob3RvIjoiaWNvbjpidWci
+LCJjYXRlZ29yaWVzIjoiU3lzdGVtIiwiZGVzYyI6IlByb3ZpZGVzIGEgbGluayB0byB0aGUg
+SHViemlsbGEgYnVnIHRyYWNrZXIuIiwidHlwZSI6InN5c3RlbSIsInBsdWdpbiI6IiJ9
+" data-icon="bug" data-url="https://framagit.org/hubzilla/core/issues" data-name="Report Bug"><i class="generic-icons-nav fa fa-fw fa-bug"></i>Report Bug</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/search" data-papp="eyJ2ZXJzaW9uIjoiMyIsInVybCI6IiRiYXNldXJsXC9zZWFyY2giLCJuYW1lIjoiU2VhcmNo
+IiwicGhvdG8iOiJpY29uOnNlYXJjaCIsImRlc2MiOiJBIHNlcGFyYXRlIHNlYXJjaCBhcHAg
+dG8gbG9vayB1cCBjb250ZW50LCBjaGFubmVscywgdGFncywgZG9jdW1lbnRhdGlvbiBvciBy
+ZW1vdGUgY29udGVudCBkZXBlbmRpbmcgb24gdGhlIHNlYXJjaCBzdHJpbmcgcHJlZml4LiIs
+InR5cGUiOiJzeXN0ZW0iLCJwbHVnaW4iOiIifQ==
+" data-icon="search" data-url="https://hub.stephenson.cc/search" data-name="Search"><i class="generic-icons-nav fa fa-fw fa-search"></i>Search</a>
+
+							<a class="nav-link" href="https://hub.stephenson.cc/tictac" data-papp="eyJ1cmwiOiIkYmFzZXVybFwvdGljdGFjIiwibmFtZSI6IlRpYy1UYWMiLCJwaG90byI6IiRi
+YXNldXJsXC9hZGRvblwvdGljdGFjXC90aWN0YWMucG5nIiwidHlwZSI6InN5c3RlbSIsInBs
+dWdpbiI6InRpY3RhYyJ9
+" data-icon="" data-url="https://hub.stephenson.cc/tictac" data-name="Tic-Tac"><img src="https://hub.stephenson.cc/addon/tictac/tictac.png" width="16" height="16" style="margin-right:9px;"/>Tic-Tac</a>
+
+					</div>
+			</div>
+</div>
+	<main>
+		<div class="content">
+			<div class="columns">
+				<aside id="region_1"><div class="aside_spacer_top_left"></div><div class="aside_spacer_left"><div id="left_aside_wrapper" class="aside_wrapper"></div></div></aside>
+				<section id="region_2"><!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+	<!-- Background of PhotoSwipe. 
+		 It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+	<!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+		<!-- Container that holds slides. 
+			PhotoSwipe keeps only 3 of them in the DOM to save memory.
+			Don't modify these 3 pswp__item elements, data is added later on. -->
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+
+		<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+		<div class="pswp__ui pswp__ui--hidden">
+
+			<div class="pswp__top-bar">
+
+				<!--  Controls are self-explanatory. Order can be changed. -->
+				
+				<div class="pswp__counter"></div>
+
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+				<button class="pswp__button pswp__button--share" title="Share"></button>
+
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+				<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+				<!-- element will get class pswp__preloader--active when preloader is running -->
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+					  <div class="pswp__preloader__cut">
+					    <div class="pswp__preloader__donut"></div>
+					  </div>
+					</div>
+				</div>
+			</div>
+
+	        <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+	        </div>
+
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+			</button>
+			
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+			</button>
+
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+
+	    </div>
+
+	</div>
+
+</div>
+<div id="nav-login" class="modal" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">Login</h4>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<div class="mb-3">
+					<form action="https://hub.stephenson.cc/api/v1/instance/peers" id="modal_login" method="post" >
+	<input type="hidden" name="auth-params" value="login" />
+	<div class="login-wrapper d-grid gap-2">
+			<div id="id_modal_login_username_wrapper" class="mb-3">
+		<label for="id_modal_login_username" id="label_modal_login_username">Email or nickname</label>
+		<input class="form-control" name="modal_login_username" id="id_modal_login_username" type="text" value="">
+		<small id="help_modal_login_username" class="form-text text-muted"></small>
+	</div>
+			<div class="mb-3">
+		<label for="id_modal_login_password">Password</label>
+		<input class="form-control" type="password" name="modal_login_password" id="id_modal_login_password" value="">		<small id="help_modal_login_password" class="form-text text-muted"></small>
+	</div>
+			<div id="modal_login_remember_container" class="clearfix onoffswitch checkbox mb-3">
+		<label for="id_modal_login_remember">Remember me</label>
+		<div class="float-end"><input type="checkbox" name="modal_login_remember" id="id_modal_login_remember" value="1"   /><label class="switchlabel" for='id_modal_login_remember'> <span class="onoffswitch-inner" data-on='Yes' data-off='No'></span><span class="onoffswitch-switch"></span></label></div>
+		<small class="form-text text-muted"></small>
+	</div>
+		<button type="submit" name="submit" class="btn btn-primary">Login</button>
+		<a href="https://hub.stephenson.cc/register" title="Create an account to access services and applications" class="register-link float-end">Register</a>		<a href="lostpass" title="Forgot your password?" class="lost-pass-link">Password Reset</a>		<hr>
+		<a href="rmagic" class="btn btn-outline-success">Remote Authentication</a>
+	</div>
+			<input type="hidden" name="0" value="" />
+	</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					<div id="page-footer"></div>
+					<div id="pause"></div>
+				</section>
+				<aside id="region_3" class="d-none d-xl-block"><div class="aside_spacer_top_right"></div><div class="aside_spacer_right"><div id="right_aside_wrapper" class="aside_wrapper"></div></div></aside>
+			</div>
+		</div>
+	</main>
+	<footer></footer>
+</body>
+</html>
+
+0
+

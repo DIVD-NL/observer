@@ -1,0 +1,111 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public
+Content-Language: en-CA
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src 'none'; connect-src 'self'; img-src 'self' https://www.genesismachina.ca; script-src 'self' 'unsafe-inline'; style-src 'self'; font-src 'self'; frame-ancestors 'none'; report-uri https://genesismachina.report-uri.io/r/default/csp/reportOnly
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:40 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+Upgrade: h2
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+120b
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Not Found - Indi in the Wired</title>
+  <link rel="shortcut icon" href="https://sn.genesismachina.ca/theme/neo-gnu/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/theme/base/css/display.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/theme/neo-gnu/css/display.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/MobileProfile/mp-screen.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/theme/neo-gnu/css/mp-screen.css?version=1.2.0-beta4" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/MobileProfile/mp-handheld.css" media="handheld"/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://sn.genesismachina.ca/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://sn.genesismachina.ca/opensearch/people" title="Indi in the Wired People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://sn.genesismachina.ca/opensearch/notice" title="Indi in the Wired Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://sn.genesismachina.ca/indi">
+      <img class="logo u-photo p-name" src="https://www.genesismachina.ca/favicon.svg" alt="Indi in the Wired"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://sn.genesismachina.ca/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="nav_login">
+       <a href="https://sn.genesismachina.ca/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://sn.genesismachina.ca/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>Indi in the Wired</strong> is a social network. It runs on <a href="https://www.gnu.org/software/social/">GNU social</a>, version 1.2.0-beta4, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>
+     <img id="license_cc" src="https://sn.genesismachina.ca/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15"/>
+ All Indi in the Wired content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+    <p>
+     <a href="#" id="mobile-toggle-disable">Switch to desktop site layout.</a>
+    </p>
+   </div>
+  </div>
+ </body>
+<!-- 110ms --></html>
+
+0
+

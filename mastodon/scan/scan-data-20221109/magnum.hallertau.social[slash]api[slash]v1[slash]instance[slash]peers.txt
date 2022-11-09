@@ -1,0 +1,85 @@
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:28 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: no-referrer
+Server: nginx
+Server-Timing: total;dur=3.032
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: noindex, nofollow
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+c43
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" class="nojs">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="searx - a privacy-respecting, hackable metasearch engine" />
+    <meta name="keywords" content="searx, search, search engine, metasearch, meta search" />
+    <meta name="generator" content="searx/1.1.0">
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1 , maximum-scale=2.0, user-scalable=1" />
+    <title>YunoSearx</title>
+    <link rel="stylesheet" href="/static/themes/oscar/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="/static/themes/oscar/css/logicodev.min.css" type="text/css" />
+
+    <link rel="shortcut icon" href="/static/themes/oscar/img/favicon.png" />
+
+
+    <link title="YunoSearx" type="application/opensearchdescription+xml" rel="search" href="/opensearch.xml?method=POST&amp;autocomplete="/>
+    <noscript>
+        <style type="text/css">
+            .tab-content > .active_if_nojs, .active_if_nojs {display: block !important; visibility: visible !important;}
+            .margin_top_if_nojs {margin-top: 20px;}
+            .hide_if_nojs {display: none !important;overflow: hidden !important;}
+            .disabled_if_nojs {pointer-events: none; cursor: default; text-decoration: line-through;}
+        </style>
+    </noscript>
+<script type="text/javascript" src="/ynh_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynh_overlay.css"><script type="text/javascript" src="/ynhtheme/custom_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynhtheme/custom_overlay.css"></head>
+<body class="None_endpoint" >
+<div class="searx-navbar"><span class="instance pull-left"><a href="/">YunoSearx</a></span><span class="pull-right"><a href="/about">about</a><a href="/preferences">preferences</a></span></div>
+    <div class="container">
+
+
+<div class="text-center">
+    <h1>Page not found</h1>
+    <p>Go to <a href="/">search page</a>.</p>
+</div>
+
+    </div>
+    <div class="footer">
+        <div class="container">
+            <p class="text-muted">
+                <small>
+                    Powered by <a href="https://searx.github.io/searx">searx</a> - 1.1.0 - a privacy-respecting, hackable metasearch engine<br/>
+                    <a href="https://github.com/searx/searx">Source code</a> |
+                    <a href="https://github.com/searx/searx/issues">Issue tracker</a> |
+                    <a href="https://searx.space">Public instances</a>                </small>
+            </p>
+        </div>
+    </div>
+    <script src="/static/themes/oscar/js/jquery.min.js"></script>
+    <script src="/static/themes/oscar/js/bootstrap.min.js"></script>
+
+    <script src="/static/themes/oscar/js/searx.min.js"
+            data-method="POST"
+            data-autocompleter="false"
+            data-translations="{&#34;no_item_found&#34;:&#34;No item found&#34;}"></script>
+    <script src="/static/plugins/js/search_on_category_select.js"></script>
+    <noscript>
+      <style>
+        .glyphicon { display: none; }
+      </style>
+    </noscript>
+</body>
+</html>
+0
+

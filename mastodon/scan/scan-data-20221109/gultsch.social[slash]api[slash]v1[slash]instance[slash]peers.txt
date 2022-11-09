@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://gultsch.social; img-src 'self' https: data: blob: https://gultsch.social; style-src 'self' https://gultsch.social 'nonce-d/lcO1RXQcAwvRI8EmxCRQ=='; media-src 'self' https: data: https://gultsch.social; frame-src 'self' https:; manifest-src 'self' https://gultsch.social; connect-src 'self' data: blob: https://gultsch.social https://gultsch.social wss://gultsch.social; script-src 'self' https://gultsch.social; child-src 'self' blob: https://gultsch.social; worker-src 'self' blob: https://gultsch.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:06:04 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.543270Z
+X-Request-Id: 526886db-4d1e-4cc8-bce9-27c9d69b6175
+X-Runtime: 0.005776
+X-Xss-Protection: 0
+
+0
+

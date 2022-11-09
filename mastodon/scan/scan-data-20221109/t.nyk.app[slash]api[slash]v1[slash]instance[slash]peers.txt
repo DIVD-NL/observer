@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778853da1a2e62-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:28 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WeYBcSmQxJ1IFzx69ochFHpuF6kgwFrRW9EUN19GE7EL%2Bp26FmtvFymSqgkm67sA0W0viZw7aAIly9FO5w6tmA3eQ2sEeMwLmJdYv0nGWLfjWZsjOUOUB%2BBXklI%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Origin
+
+a8
+["social.bau-ha.us","solagg.com","mastodon.cloud","pawoo.net","social.anoxinon.de","mstdn.jp","pokemon.men","101010.pl","mastodon.social","fosstodon.org","meow.social"]
+0
+

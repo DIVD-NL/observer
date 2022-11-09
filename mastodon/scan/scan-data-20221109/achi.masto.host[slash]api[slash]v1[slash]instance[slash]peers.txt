@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://achi.masto.host; img-src 'self' https: data: blob: https://achi.masto.host; style-src 'self' https://achi.masto.host 'nonce-alzslGT/yl4Hq9iICwdhig=='; media-src 'self' https: data: https://achi.masto.host; frame-src 'self' https:; manifest-src 'self' https://achi.masto.host; connect-src 'self' data: blob: https://achi.masto.host https://cdn.masto.host wss://achi.masto.host; script-src 'self' https://achi.masto.host; child-src 'self' blob: https://achi.masto.host; worker-src 'self' blob: https://achi.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.210276Z
+X-Request-Id: 01dc58a2-a8b1-4dec-8ca8-b97a91590c02
+X-Runtime: 0.003778
+X-Xss-Protection: 0
+
+0
+

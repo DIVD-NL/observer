@@ -1,0 +1,75 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677847c3d2bb9ba-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:50 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cjbBa3QGghOBpKHWfsm%2Bev961T1x0kN5NAEotd3AZSfndYy3D5lQPleM%2B6cDuqUscBrtlUnoWFo%2F5F786BP%2FlEegUwlgLGLCJQGHbmfxIhiITNgEQfrhkIA%2F4zLt1Yiq3jZKuIqT62k%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 994
+X-Ratelimit-Reset: 1668007284
+
+688
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>社交小天地 - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						社交小天地
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.1 git-b351acd</span>
+				</a>
+			</div>
+			 
+				<div id="contact">
+					Contact: <a href="https://social.aoxiang.online/@jerryzihye" class="nounderline">jerryzihye</a><br>
+				</div>
+			
+			 
+				<div id="email">
+					Email: <a href="/cdn-cgi/l/email-protection#5d3e3233293c3e291d3c3225343c333a73323331343338" class="nounderline"><span class="__cf_email__" data-cfemail="02616d6c7663617642636d7a6b636c652c6d6c6e6b6c67">[email&#160;protected]</span></a><br>
+				</div>
+			
+		</footer>
+	</div>
+	
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+0
+

@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 239
+Content-Security-Policy: default-src 'self' *.lazada.co.th *.slatic.net *.lazcdn.com *.alicdn.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:56 GMT
+Eagleeye-Traceid: 2102f5ce16680065964474011e167c
+Location: https://www.lazada.co.th/api/v1/instance/peers
+Referrer-Policy: no-referrer-when-downgrade
+Server: Tengine/Aserver
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: master-only
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr/>Powered by Tengine<hr><center>tengine</center>
+</body>
+</html>

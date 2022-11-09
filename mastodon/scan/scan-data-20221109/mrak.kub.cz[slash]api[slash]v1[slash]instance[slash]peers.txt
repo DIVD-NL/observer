@@ -1,0 +1,101 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443;media-src 'self' blob:;frame-src 'self';child-src blob: 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:21 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'self';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.18.0
+Set-Cookie: oc_sessionPassphrase=PLHVjkX3FIjBggV9bf6UnQIXrd8AhxZQim%2B2sECwkGRQzBTptbuYqTt%2BWRUBPQBws7a8sc5Kt1Ii1nANz81pBKiUz0%2FgzzbLo%2FnxPgpOjJKgU8f93fNJmINlr7Y8ylu8; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ococts0qpza1=s923d9vbqht49en0brrsbpc27t; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=3600; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="cs" data-locale="cs" >
+	<head
+ data-requesttoken="75KOvU7DZtMBb5iCzRSQXxOaulVXbJwaI51ojcaqcKs=:raPe7QH1EuJwCe/A9UPVKVvA6xEHO+RVDNQs2KnDA54=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/apps/integration_gitlab/css/gitlab-search.css?v=b0019d9b">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=62abc69f">
+<link rel="stylesheet" href="/core/css/guest.css?v=9ea1f1bc">
+		<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/oc.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/dist/main.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/dist/files_fileinfo.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/dist/files_client.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/js/core/merged-template-prepend.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/l10n/cs.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_sharing/l10n/cs.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_sharing/js/dist/main.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/accessibility/l10n/cs.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_videoplayer/js/files_videoplayer-main.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_rightclick/l10n/cs.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_rightclick/js/script.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/apps/files_rightclick/js/files.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/dist/files_iedavclient.js?v=9ea1f1bc"></script>
+<script nonce="NzVLT3ZVN0RadE1CYjVpQ3pSU1FYeE9hdWxWWGJKd2FJNTFvamNhcWNLcz06cmFQZTdRSDFFdUp3Q2UvQTlVUFZLVnZBNnhFSE8rUlZETlFzMktuREE1ND0=" defer src="/core/js/dist/login.js?v=9ea1f1bc"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Nextcloud"/><meta property="og:description" content="bezpečný domov pro všechna vaše data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://mrak.kub.cz/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://mrak.kub.cz/core/img/favicon-touch.png"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			Tato aplikace potřebuje pro správnou funkčnost JavaScript. <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">Povolte ho</a> a stránku znovu načtěte.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjMuMC4zLjIiLCJ2ZXJzaW9uc3RyaW5nIjoiMjMuMC4zIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9tcmFrLmt1Yi5jelwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6IjBmZDRjMjY2YzliM2U3NTM1YTEyZjVhMGY4MjM3MDA4In0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9tcmFrLmt1Yi5jelwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwiZGVjayI6eyJ2ZXJzaW9uIjoiMS42LjMiLCJjYW5DcmVhdGVCb2FyZHMiOmZhbHNlLCJhcGlWZXJzaW9ucyI6WyIxLjAiLCIxLjEiXX0sImZpbGVzX3NoYXJpbmciOnsiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9LCJzaGFyZWJ5bWFpbCI6eyJlbmFibGVkIjp0cnVlLCJzZW5kX3Bhc3N3b3JkX2J5X21haWwiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fX0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvbXJhay5rdWIuY3pcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvbXJhay5rdWIuY3pcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjEzLjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjpmYWxzZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6dHJ1ZX0sInNwcmVlZCI6eyJmZWF0dXJlcyI6WyJhdWRpbyIsInZpZGVvIiwiY2hhdC12MiIsImNvbnZlcnNhdGlvbi12NCIsImd1ZXN0LXNpZ25hbGluZyIsImVtcHR5LWdyb3VwLXJvb20iLCJndWVzdC1kaXNwbGF5LW5hbWVzIiwibXVsdGktcm9vbS11c2VycyIsImZhdm9yaXRlcyIsImxhc3Qtcm9vbS1hY3Rpdml0eSIsIm5vLXBpbmciLCJzeXN0ZW0tbWVzc2FnZXMiLCJkZWxldGUtbWVzc2FnZXMiLCJtZW50aW9uLWZsYWciLCJpbi1jYWxsLWZsYWdzIiwiY29udmVyc2F0aW9uLWNhbGwtZmxhZ3MiLCJub3RpZmljYXRpb24tbGV2ZWxzIiwiaW52aXRlLWdyb3Vwcy1hbmQtbWFpbHMiLCJsb2NrZWQtb25lLXRvLW9uZS1yb29tcyIsInJlYWQtb25seS1yb29tcyIsImxpc3RhYmxlLXJvb21zIiwiY2hhdC1yZWFkLW1hcmtlciIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsInNpcC1zdXBwb3J0IiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwidW5pZmllZC1zZWFyY2giLCJjaGF0LXJlZmVyZW5jZS1pZCJdLCJjb25maWciOnsiYXR0YWNobWVudHMiOnsiYWxsb3dlZCI6ZmFsc2V9LCJjaGF0Ijp7Im1heC1sZW5ndGgiOjMyMDAwLCJyZWFkLXByaXZhY3kiOjB9LCJjb252ZXJzYXRpb25zIjp7ImNhbi1jcmVhdGUiOmZhbHNlfSwicHJldmlld3MiOnsibWF4LWdpZi1zaXplIjozMTQ1NzI4fX19LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener">Nextcloud</a> – bezpečný domov pro všechna vaše data			</p>
+		</footer>
+	</body>
+</html>

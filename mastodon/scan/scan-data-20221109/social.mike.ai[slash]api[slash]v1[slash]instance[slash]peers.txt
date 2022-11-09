@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767786456c47b9a7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.mike.ai; img-src 'self' https: data: blob: https://social.mike.ai; style-src 'self' https://social.mike.ai 'nonce-LnQlD+C6ydoBnPJpwxFmew=='; media-src 'self' https: data: https://social.mike.ai; frame-src 'self' https:; manifest-src 'self' https://social.mike.ai; connect-src 'self' data: blob: https://social.mike.ai https://files.social.mike.ai wss://social.mike.ai; script-src 'self' https://social.mike.ai; child-src 'self' blob: https://social.mike.ai; worker-src 'self' blob: https://social.mike.ai
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:03 GMT
+Etag: W/"0e7141b7057af50aba90093ee729469c"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iTcU3iWo74ajaipXVUcH0VuLHBDlJvR6mpTfOQ%2F7qPZ%2F5gTXESXcRRF1IqkHBzE3ZoPtChUklruWQ3M08dF8N0wTX03dkhsZLLbNGI12rCrR7MRQM1NcMV4RFW7TkNbeIw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:00:00.746840Z
+X-Request-Id: 6238bb30-9602-4f10-949c-d9d502944ad4
+X-Runtime: 0.006045
+X-Xss-Protection: 0
+
+["federation.stream","mastodon-relay.moew.science","shitposter.club","mastodon.vda-group.de","mastodon.coffee","bae.st","onlycasino.legal","mastodon.sdf.org","mastodon.nz","submarin.online","pokemon.men","libertynode.net","varishangout.net","social.handholding.io","elekk.xyz","kafeneio.social","rage.love","climatejustice.social","social.lol","eeeeeeeee.eu","akko.disqordia.space","pleroma.cafkafk.com","refusal.biz","mastodontech.de","wxw.moe","pkteerium.xyz","respublicae.eu","misskey.cf","social.platypush.tech","dresden.network","kazv.moe","compostintraining.club","mstdn.social","berserker.town","laserdisc.party","allpro.social","norden.social","monsterfuckers.online","myasstodon.xyz","fulda.social","chaos.social","birb.site","allships.run","fr.readthefinemanual.net","petroskowo.pl","skiddle.network","friendica.mifritscher.de","toot.krinetzki.de","f.kretschmann.social","sushi.ski","friendica.ucy.de","chinwag.org","friendica.daniel-siepmann.de","friendica.ironbug.org","www.didiermary.fr","redeyes.club","g0v.social","social.tromdienste.de","me.ns.ci","friendica.opencloud.lu","quitter.pl","anarchydica.net","f.freinetz.ch","friendica.togart.de","t2.thotsofa304.club","pawoo.net","m.gtk.pw","toot.mantyke.icu","friendica.ambag.es","social.digitalcastle.me","herzbu.de","social.anacreonte.eu","mastodon.uy","friendica.offsite.guru","fri.aethercom.de","furfag.de","moresci.sale","f.iroiro.party","social.cologne","climatejustice.global","pztrn.online","edi.social","friendica.nz","o3o.ca","comfy.social","friendica.hashy-net.de","alive.bar","misskey.io","friendica.myportal.social","kudabiverse.com","space.rick.gr","la-verite-vaincra.com","mona.do","friendica.mschmidt-et.de","trpg.cloud","mastodon.art","social.jmueller.eu","m.cmx.im","caonima.wtf","outerheaven.club","freespeechextremist.com","social.cyano.at","ramen-fsm.eu.org","poa.st","gleasonator.com","fediverse.pl","poliverso.org","frnd.nanoscopic.de","horizin.de","follow.schmaller.de","talkabout.cf","friendica.ingram-braun.net","friendica.kommune4.de","queer.af","borg.social","mastodon.online","piratenpartei.social","friend.geoffray-levasseur.org","social.lucentinian.com","v2.ebano.social","photog.social","social.tyngsboroughma.net","anarchism.space","indieweb.social","hachyderm.io","mastodon.green","lor.sh","mastodon.social","josh.tel","demon.social","kolektiva.social","mastodon.cloud","eldritch.cafe","wandering.shop","mas.to","fosstodon.org"]

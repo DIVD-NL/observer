@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Age: 53525
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 00:27:28 GMT
+Location: https://social.ewing.au/api/v1/instance/peers
+Server: nginx
+Via: 1.1 0186e9c41d0aebb13c1398b95b7f4756.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: w3S8URy9E0xrNIfnXGbWMHGajJ5oouXOWmCUBU8VpCFVsl_aRjNGLg==
+X-Amz-Cf-Pop: AMS1-C1
+X-Cache: Hit from cloudfront
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

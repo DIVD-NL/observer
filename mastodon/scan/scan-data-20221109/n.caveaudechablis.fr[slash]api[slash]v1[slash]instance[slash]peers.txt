@@ -1,0 +1,120 @@
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: * https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443;media-src 'self' blob:;frame-src prezi.com player.vimeo.com vine.co www.youtube.com 'self';child-src blob: 'self';frame-ancestors 'self';worker-src blob: 'self';form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:01 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=%2Bplq0s2hxFECBl5aVoySx9b9N%2FqZ3uZqmrlEYDt%2F3lhDKPmVcYzrjs6bdWGVl88pUE8ExsF9Pqeuy%2BPGHOP7RXHjM8uVi7WSjRYldiXB0ySwoEAnPlbemW6qXeb7njs3; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc8avymbaws1=ekplbbq8mljgpqg28964apsn7j; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax; secure
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict; secure
+Vary: Accept-Encoding
+Via: 1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/8.0.12
+X-Request-Id: dauTtufOywuuwvEMKnXK
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="DvITtb64BtL5cTzmo6UvJ76UdjWNmTenoEW3W8gcDvQ=:ZoVr28rZb4SVP2mA8O91UfPNRlj82HXQ1HXkbqtEYrA=">
+		<meta charset="utf-8">
+		<title>
+		Partage Caveau de Chablis		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=6">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=6">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=6">
+		<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-6">
+<link rel="stylesheet" href="/core/css/guest.css?v=c2070dc9-6">
+		<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/core-common.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/core-main.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/core-files_fileinfo.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/core-files_client.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/core/js/backgroundjobs.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/core-login.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/files_sharing-main.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/dist/accessibility-accessibilityoca.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/apps/apporder/js/apporder.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=" defer src="/apps/theming/js/theming.js?v=c2070dc9-6"></script>
+<script nonce="RHZJVHRiNjRCdEw1Y1R6bW82VXZKNzZVZGpXTm1UZW5vRVczVzhnY0R2UT06Wm9WcjI4clpiNFNWUDJtQThPOTFVZlBOUmxqODJIWFExSFhrYnF0RVlyQT0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","apporder":"/apps/apporder","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","deck":"/apps/deck","federatedfilesharing":"/apps/federatedfilesharing","files":"/apps/files","files_markdown":"/apps/files_markdown","files_pdfviewer":"/apps/files_pdfviewer","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","firstrunwizard":"/apps/firstrunwizard","integration_mastodon":"/apps/integration_mastodon","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","passwords":"/apps/passwords","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","spreed":"/apps/spreed","support":"/apps/support","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668006841;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"24.0.3.2","versionstring":"24.0.3","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":7,"defaultExpireDateEnforced":true,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":false,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/24\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"Partage Caveau de Chablis","name":"Partage Caveau de Chablis","productName":"Nextcloud","title":"Partage Caveau de Chablis","baseUrl":"https:\/\/n.caveaudechablis.fr\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/24\/go.php?to=PLACEHOLDER","slogan":"a safe home for all your data","logoClaim":"","folder":""};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Partage Caveau de Chablis"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Partage Caveau de Chablis"/><meta property="og:url" content="https://n.caveaudechablis.fr/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://n.caveaudechablis.fr/index.php/apps/theming/icon?v=6"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=6"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC4zLjIiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC4zIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9uLmNhdmVhdWRlY2hhYmxpcy5mclwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6ImM3NDhlOGZjNTg4YjU0ZmM1YWYzOGM0NDgxYTE5ZDIwIn0sInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sImNpcmNsZXMiOnsidmVyc2lvbiI6IjI0LjAuMCIsInN0YXR1cyI6eyJnbG9iYWxTY2FsZSI6ZmFsc2V9LCJzZXR0aW5ncyI6eyJmcm9udGVuZEVuYWJsZWQiOnRydWUsImFsbG93ZWRDaXJjbGVzIjoyNjIxNDMsImFsbG93ZWRVc2VyVHlwZXMiOjMxLCJtZW1iZXJzTGltaXQiOi0xfSwiY2lyY2xlIjp7ImNvbnN0YW50cyI6eyJmbGFncyI6eyIxIjoiU2luZ2xlIiwiMiI6IlBlcnNvbmFsIiwiNCI6IlN5c3RlbSIsIjgiOiJWaXNpYmxlIiwiMTYiOiJPcGVuIiwiMzIiOiJJbnZpdGUiLCI2NCI6IkpvaW4gUmVxdWVzdCIsIjEyOCI6IkZyaWVuZHMiLCIyNTYiOiJQYXNzd29yZCBQcm90ZWN0ZWQiLCI1MTIiOiJObyBPd25lciIsIjEwMjQiOiJIaWRkZW4iLCIyMDQ4IjoiQmFja2VuZCIsIjQwOTYiOiJMb2NhbCIsIjgxOTIiOiJSb290IiwiMTYzODQiOiJDaXJjbGUgSW52aXRlIiwiMzI3NjgiOiJGZWRlcmF0ZWQiLCI2NTUzNiI6Ik1vdW50IHBvaW50In0sInNvdXJjZSI6eyJjb3JlIjp7IjEiOiJOZXh0Y2xvdWQgVXNlciIsIjIiOiJOZXh0Y2xvdWQgR3JvdXAiLCI0IjoiRW1haWwgQWRkcmVzcyIsIjgiOiJDb250YWN0IiwiMTYiOiJDaXJjbGUiLCIxMDAwMCI6Ik5leHRjbG91ZCBBcHAifSwiZXh0cmEiOnsiMTAwMDEiOiJDaXJjbGVzIEFwcCIsIjEwMDAyIjoiQWRtaW4gQ29tbWFuZCBMaW5lIn19fSwiY29uZmlnIjp7ImNvcmVGbGFncyI6WzEsMiw0XSwic3lzdGVtRmxhZ3MiOls1MTIsMTAyNCwyMDQ4XX19LCJtZW1iZXIiOnsiY29uc3RhbnRzIjp7ImxldmVsIjp7IjEiOiJNZW1iZXIiLCI0IjoiTW9kZXJhdG9yIiwiOCI6IkFkbWluIiwiOSI6Ik93bmVyIn19LCJ0eXBlIjp7IjAiOiJzaW5nbGUiLCIxIjoidXNlciIsIjIiOiJncm91cCIsIjQiOiJtYWlsIiwiOCI6ImNvbnRhY3QiLCIxNiI6ImNpcmNsZSIsIjEwMDAwIjoiYXBwIn19fSwib2NtIjp7ImVuYWJsZWQiOnRydWUsImFwaVZlcnNpb24iOiIxLjAtcHJvcG9zYWwxIiwiZW5kUG9pbnQiOiJodHRwczpcL1wvbi5jYXZlYXVkZWNoYWJsaXMuZnJcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwiZGVjayI6eyJ2ZXJzaW9uIjoiMS43LjIiLCJjYW5DcmVhdGVCb2FyZHMiOmZhbHNlLCJhcGlWZXJzaW9ucyI6WyIxLjAiLCIxLjEiXX0sImZpbGVzX3NoYXJpbmciOnsiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZSwiZGF5cyI6NywiZW5mb3JjZWQiOnRydWV9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6ZmFsc2UsImluY29taW5nIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjp0cnVlfX19LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOnRydWUsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6dHJ1ZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL24uY2F2ZWF1ZGVjaGFibGlzLmZyXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL24uY2F2ZWF1ZGVjaGFibGlzLmZyXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNC4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6ZmFsc2UsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1B1Ymxpc2hlZEVuYWJsZWQiOnRydWV9LCJzcHJlZWQiOnsiZmVhdHVyZXMiOlsiYXVkaW8iLCJ2aWRlbyIsImNoYXQtdjIiLCJjb252ZXJzYXRpb24tdjQiLCJndWVzdC1zaWduYWxpbmciLCJlbXB0eS1ncm91cC1yb29tIiwiZ3Vlc3QtZGlzcGxheS1uYW1lcyIsIm11bHRpLXJvb20tdXNlcnMiLCJmYXZvcml0ZXMiLCJsYXN0LXJvb20tYWN0aXZpdHkiLCJuby1waW5nIiwic3lzdGVtLW1lc3NhZ2VzIiwiZGVsZXRlLW1lc3NhZ2VzIiwibWVudGlvbi1mbGFnIiwiaW4tY2FsbC1mbGFncyIsImNvbnZlcnNhdGlvbi1jYWxsLWZsYWdzIiwibm90aWZpY2F0aW9uLWxldmVscyIsImludml0ZS1ncm91cHMtYW5kLW1haWxzIiwibG9ja2VkLW9uZS10by1vbmUtcm9vbXMiLCJyZWFkLW9ubHktcm9vbXMiLCJsaXN0YWJsZS1yb29tcyIsImNoYXQtcmVhZC1tYXJrZXIiLCJjaGF0LXVucmVhZCIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsInNpcC1zdXBwb3J0IiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwicmljaC1vYmplY3QtbGlzdC1tZWRpYSIsInJpY2gtb2JqZWN0LWRlbGV0ZSIsInVuaWZpZWQtc2VhcmNoIiwicmVhY3Rpb25zIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMCwicmVhZC1wcml2YWN5IjowfSwiY29udmVyc2F0aW9ucyI6eyJjYW4tY3JlYXRlIjpmYWxzZX0sInByZXZpZXdzIjp7Im1heC1naWYtc2l6ZSI6MzE0NTcyOH0sInNpZ25hbGluZyI6eyJzZXNzaW9uLXBpbmctbGltaXQiOjIwMH19fSwidGhlbWluZyI6eyJuYW1lIjoiUGFydGFnZSBDYXZlYXUgZGUgQ2hhYmxpcyIsInVybCI6Imh0dHBzOlwvXC9uLmNhdmVhdWRlY2hhYmxpcy5mclwvIiwic2xvZ2FuIjoiYSBzYWZlIGhvbWUgZm9yIGFsbCB5b3VyIGRhdGEiLCJjb2xvciI6IiMwMDgyYzkiLCJjb2xvci10ZXh0IjoiI2ZmZmZmZiIsImNvbG9yLWVsZW1lbnQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1icmlnaHQiOiIjMDA4MmM5IiwiY29sb3ItZWxlbWVudC1kYXJrIjoiIzAwODJjOSIsImxvZ28iOiJodHRwczpcL1wvbi5jYXZlYXVkZWNoYWJsaXMuZnJcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj02IiwiYmFja2dyb3VuZCI6Imh0dHBzOlwvXC9uLmNhdmVhdWRlY2hhYmxpcy5mclwvY29yZVwvaW1nXC9iYWNrZ3JvdW5kLnBuZz92PTYiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0Ijp0cnVlLCJsb2dvaGVhZGVyIjoiaHR0cHM6XC9cL24uY2F2ZWF1ZGVjaGFibGlzLmZyXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9NiIsImZhdmljb24iOiJodHRwczpcL1wvbi5jYXZlYXVkZWNoYWJsaXMuZnJcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj02In0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjp0cnVlfSwid2VhdGhlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZX19">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiUGFydGFnZSBDYXZlYXUgZGUgQ2hhYmxpcyIsInVybCI6Imh0dHBzOlwvXC9uLmNhdmVhdWRlY2hhYmxpcy5mclwvIiwic2xvZ2FuIjoiYSBzYWZlIGhvbWUgZm9yIGFsbCB5b3VyIGRhdGEiLCJjb2xvciI6IiMwMDgyYzkiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiI2In0=">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Partage Caveau de Chablis								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://n.caveaudechablis.fr/" target="_blank" rel="noreferrer noopener" class="entity-name">Partage Caveau de Chablis</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

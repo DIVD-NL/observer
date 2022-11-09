@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bgme.me; img-src 'self' https: data: blob: https://bgme.me; style-src 'self' https://bgme.me 'nonce-tEzmfifg49kBrdnR/RZKnQ=='; media-src 'self' https: data: https://bgme.me; frame-src 'self' https:; manifest-src 'self' https://bgme.me; connect-src 'self' data: blob: https://bgme.me https://img.bgme.me wss://bgme.me; script-src 'self' https://bgme.me 'unsafe-eval'; child-src 'self' blob: https://bgme.me; worker-src 'self' blob: https://bgme.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:07 GMT
+Permissions-Policy: interest-cohort=()
+Ratelimit-Policy: 300; w=60
+Referrer-Policy: same-origin
+Server: Caddy
+Strict-Transport-Security: max-age=31536000;
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.780962Z
+X-Request-Id: ab2664af-88b3-4071-8057-496daed42c6c
+X-Runtime: 0.028038
+X-Xss-Protection: 0
+Content-Length: 0
+

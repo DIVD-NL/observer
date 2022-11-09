@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.sebastiantinschert.de; img-src 'self' https: data: blob: https://social.sebastiantinschert.de; style-src 'self' https://social.sebastiantinschert.de 'nonce-Y3srP33dnfcpDOw4CAk5AA=='; media-src 'self' https: data: https://social.sebastiantinschert.de; frame-src 'self' https:; manifest-src 'self' https://social.sebastiantinschert.de; connect-src 'self' data: blob: https://social.sebastiantinschert.de https://social.sebastiantinschert.de wss://social.sebastiantinschert.de; script-src 'self' https://social.sebastiantinschert.de; child-src 'self' blob: https://social.sebastiantinschert.de; worker-src 'self' blob: https://social.sebastiantinschert.de
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:35 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.16.1
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.882744Z
+X-Request-Id: 16bc79f7-b598-42c5-b6ff-c0bc7fbf72ac
+X-Runtime: 0.008650
+X-Xss-Protection: 0
+
+0
+

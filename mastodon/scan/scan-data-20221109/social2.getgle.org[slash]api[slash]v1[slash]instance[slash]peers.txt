@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767787c75e7a83e7-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:05 GMT
+Location: http://getgle.org/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tFYkErxgiQUmzMKV0D5XQMml7xWGvZgk6vy%2FMGdZolmBeeBDc5k%2FNOfs21iHj1f4syYezqrHHW51H%2F2C1iAaWpwKT8LaXI%2Ft1K%2FOFAKBIai6r2xZSrDb%2B052cbjc6PVvjAU04UA%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,13 @@
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Content-Length: 232
+Access-Control-Allow-Origin: *
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:06 GMT
+Server: gunicorn
+Strict-Transport-Security: max-age=63072000
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>

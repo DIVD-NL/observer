@@ -1,0 +1,37 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 1034
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:45 GMT
+Etag: "5e505916-40a"
+Server: nginx/1.16.1
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - dev.glitch.social</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<script src="/packs/js/locales-8c9932ed036df7487e2c.js" crossorigin="anonymous"></script>
+<script src="/packs/js/core/common-f3474c3813435740092b.chunk.js" crossorigin="anonymous"></script>
+
+<script src="/packs/js/flavours/glitch/common-12289a8deb18fc0d3e02.chunk.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" media="all" href="/packs/css/flavours/glitch/common-11182904.chunk.css" />
+
+<script src="/packs/js/flavours/glitch/error-307ac9128ff3807c0cb9.chunk.js" crossorigin="anonymous"></script>
+
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='dev.glitch.social' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>

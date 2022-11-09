@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Server: nginx
+
+188
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+  <head>
+    <title>NotDeadLuna Studio</title>
+        <meta HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+  </head>
+  
+  <frameset>
+    <frame marginwidth=0 marginheight=0 frameborder=0 name="TOPFRAME" src="http://36.134.206.68:5005" noresize>
+  </frameset>
+</html>
+
+0
+

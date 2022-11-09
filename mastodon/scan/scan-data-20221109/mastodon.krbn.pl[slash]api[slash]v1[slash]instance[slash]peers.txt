@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:41 GMT
+Etag: W/"fd9d9b4746bc31fa1e8fa3e2d383461c"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.307743Z
+X-Request-Id: 7ef777ec-3c40-47e6-bec9-e150c923c155
+X-Runtime: 0.023151
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+e9
+["social.jmueller.eu","hub.somaton.com","friendica.utzer.de","social.yl.ms","friendica.bachgau.social","horizin.de","quitter.pl","f.freinetz.ch","dev.karab.in","nerdica.net","soc.citizen4.eu","petroskowo.pl","mastodon.pl","karab.in"]
+0
+

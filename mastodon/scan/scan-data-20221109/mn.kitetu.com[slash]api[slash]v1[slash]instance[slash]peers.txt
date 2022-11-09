@@ -1,0 +1,14 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 152
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:14 GMT
+Server: nginx
+
+<html>
+<head><title>410 Gone</title></head>
+<body bgcolor="white">
+<center><h1>410 Gone</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

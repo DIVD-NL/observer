@@ -1,0 +1,25 @@
+HTTP/1.1 308 Permanent Redirect
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777f5d28382dd2-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:20 GMT
+Location: https://auth.obsidian-group.co/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Yrx6bLEeMefJN4jExGsRGMS19mlSVRsoBwHKA8bJU053969m4mY24q9Xzof4mmuwyt%2BNJbgu%2FraKXAElOFR9u2JpzqzzdmuviK67xiOuqV%2BwyTbEj2yCD%2F5hbrhWiftQAQx3cA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+a8
+<html>
+<head><title>308 Permanent Redirect</title></head>
+<body>
+<center><h1>308 Permanent Redirect</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+0
+

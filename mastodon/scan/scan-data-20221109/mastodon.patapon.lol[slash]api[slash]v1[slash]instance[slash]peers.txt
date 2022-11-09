@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.patapon.lol; img-src 'self' https: data: blob: https://mastodon.patapon.lol; style-src 'self' https://mastodon.patapon.lol 'nonce-FHfHeOwKoHXOGs4Qq1z4Kg=='; media-src 'self' https: data: https://mastodon.patapon.lol; frame-src 'self' https:; manifest-src 'self' https://mastodon.patapon.lol; connect-src 'self' data: blob: https://mastodon.patapon.lol https://mastodon.patapon.lol wss://mastodon.patapon.lol; script-src 'self' https://mastodon.patapon.lol; child-src 'self' blob: https://mastodon.patapon.lol; worker-src 'self' blob: https://mastodon.patapon.lol
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:01 GMT
+Etag: W/"f0ebdefb622f26a631f62151d2cc8333"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.285072Z
+X-Request-Id: 40a6fe77-bd70-4da2-a15e-6368f7fb0379
+X-Runtime: 0.013975
+X-Xss-Protection: 0
+
+489
+["relay.chocoflan.net","thebene.fit","journa.host","pleroma.triggeredtux.com","sysctl.io","social.bearveloper.dev","mastodon.huntsvillain.com","simian.rodeo","soc.umrath.net","rxtx.nl","shitposter.club","the.crabdance.ca","s.lennysh.com","pod.appliedmachine.app","pythonist.as","ftp.rip","horrorhub.club","mastodon.frkn.co","clar.ke","universe.d3ds3c.net","social.azkware.net","fedi.technodro.me","echo.nullzone.fr","nixgeek.com","social.bckr.me","trekkies.social","tkz.one","tech.lgbt","botsin.space","nerdculture.de","gearlandia.haus","c.im","mk.chocoflan.net","col.social","mastodon.world","free.burningpixel.net","hashi.icu","indiehackers.social","indiepocalypse.social","freespeechextremist.com","miss.mouse.services","bae.st","m.cmx.im","mastodon.online","tabletop.social","illuminada.io","mastodon.lol","mastodon.scot","mastodon.la","mastodon.social","ubiqueros.com","koyu.space","coletivos.org","fe.disroot.org","novoa.nagoya","mstdn.social","mastodon.holeyfox.co","aus.social","bluestar.social","social.ridetrans.it","amastodon.uk","mas.to","blacktwitter.io","universeodon.com","mastodon.uy","mastodonapp.uk","social.jacobandersen.dev","mk.mistli.net"]
+0
+

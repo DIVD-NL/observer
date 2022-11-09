@@ -1,0 +1,1867 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:44 GMT
+Server: nginx
+Set-Cookie: ips4_IPSSessionFront=200pks0ctcaj7i5k1f1osh6n1i; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Vary: Accept-Encoding
+
+1b05b
+<!DOCTYPE html>
+<html xmlns:og="https://opengraphprotocol.org/schema/" lang="en" itemscope itemtype="https://schema.org/WebPage">
+<head>
+    <link rel="preconnect" href="https://cdn.neowin.com">
+    <link rel="preconnect" href="https://connect.facebook.net">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="/css/orion/orion.min.css?ver=027c087" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&display=swap" />
+        
+        <link rel="mask-icon" href="/images/orion/pinned-icon.svg" color="#1e5078" />
+    <link rel="shortcut icon" href="/images/orion/icons/favicon.ico" />
+    <link rel="icon" sizes="196x196" href="/images/orion/icons/favicon-196x196.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/orion/icons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/orion/icons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/orion/icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/orion/icons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/orion/icons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/orion/icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/orion/icons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/orion/icons/apple-touch-icon-152x152.png" />
+    <meta name="apple-mobile-web-app-title" content="Neowin" />
+    <meta name="application-name" content="Neowin" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#1e5078" />
+    <meta name="msapplication-TileColor" content="#1e5078" />
+    <meta name="msapplication-TileImage" content="/images/orion/icons/mstile-144x144.png" />
+    <meta name="msapplication-config" content="/images/orion/icons/browserconfig.xml" />
+    
+    <link rel="alternate" type="application/rss+xml" title="Neowin News" href="https://www.neowin.net/news/rss/"/>
+
+    <meta property="fb:pages" content="108763692386" />
+    <meta name="msvalidate.01" content="EBBCC7B1E848A910B212B70DE151D719" />
+    <meta name="google-site-verification" content="vCarIwq59Ms5CxqTUZa5YcO5ZLieFkPyajJ9Kp8Jzdw" />
+    <title>Page Not Found | Neowin</title>
+
+        <meta name="twitter:site" value="@NeowinFeed" />
+    <meta property="og:site_name" content="Neowin" />
+    <meta property="fb:admins" content="702410021" />
+    <meta property="fb:app_id" content="141241332490" />
+    <!-- TradeDoubler site verification 2507204 -->
+        <meta name="description" content="News, Reviews &amp; Betas which includes large community peer support" />
+    <meta name="twitter:image" content="https://www.neowin.net/images/orion/icon.png" />
+    <meta property="og:title" content="Neowin" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="News, Reviews &amp; Betas which includes large community peer support" />
+    <meta property="og:image" content="https://www.neowin.net/images/orion/icon.png" />
+    <meta property="og:url" content="https://www.neowin.net" />
+
+                                <style type="text/css">
+	.stickyAd {
+		position:sticky;
+		top:46px;
+                z-index: 100;
+	}
+</style>
+            
+        
+    
+
+    
+                                        <!-- DESKTOP --> 
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.quantcast.com'
+    .concat('/choice/', 'SgN3NPpAChpt2', '/', host, '/choice.js');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = { ...args[3], tag_version: 'V2' };
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; object-src 'none'">
+<meta name="msvalidate.01" content="E2C029245C0ADED4EDE21E897D0FCCAA" />
+<meta name="google-site-verification" content="vCarIwq59Ms5CxqTUZa5YcO5ZLieFkPyajJ9Kp8Jzdw" />
+<script type="text/javascript" src="https://cdn.adt567.net/atag.js?as=1632487396" charset="UTF-8" async="true" defer></script>
+
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+<script src="https://a.pub.network/neowin-net/pubfig.min.js" async></script>
+            
+    
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2SW8FX85X"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-E2SW8FX85X');
+    </script>
+    </head>
+<body id="top" class=" orion view-tile">
+                
+        <div class="wrapper">
+
+        
+        <header class="site-header site-header-story" role="banner">
+            <div class="wrap">
+
+                <div class="site-logo">
+                    <a href="/">Neowin</a>
+                </div>
+
+                <span class="toggle-site-nav" id="toggle-nav">
+                    <span></span>
+                </span>
+
+                                <div id="header-theme-switcher-mobile" class="header-theme-switcher">
+                    <a class="theme-switcher" data-theme="orion" title="Switch from Darkside theme to Orion"></a>
+                    <a class="theme-switcher" data-theme="darkside" title="Switch from Orion theme to Darkside"></a>
+                </div>
+
+                <nav class="site-nav" id="nav" role="navigation">
+
+        <div class="nav-user guest">
+        <a class="nav-user-login-button" href="/forum/login/">Login</a>
+        <a class="nav-user-register-button" href="/forum/register/">Sign up</a>
+    </div>
+    
+    <div id="header-theme-switcher" class="header-theme-switcher">
+        <a class="theme-switcher" data-theme="orion" title="Switch from Darkside theme to Orion"></a>
+        <a class="theme-switcher" data-theme="darkside" title="Switch from Orion theme to Darkside"></a>
+    </div>
+
+    <div class="nav-social-alt" aria-haspopup="true">
+        <span class="nav-social-alt-toggle">
+            <a href="#"><i class="icon social"></i></a>
+        </span>
+        <div class="nav-social-alt-menu">
+
+            <dl class="social">
+                <dt class="facebook"><a href="https://www.facebook.com/neowin">Facebook</a></dt>
+                <dd>
+                    <div class="fb-like" data-href="https://www.facebook.com/neowin" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                </dd>
+
+                <dt class="twitter"><a href="https://twitter.com/neowinfeed">Twitter</a></dt>
+                <dd>
+                    <a href="https://twitter.com/neowinfeed" class="twitter-follow-button" data-show-count="false">Follow @neowinfeed</a>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="nav-search">
+        <form class="search-wrapper" id="search" method="get" action="/search/">
+            <input class="search-input" type="search" name="terms" placeholder="Search News..." />
+        </form>
+    </div>
+
+    <ul class="nav-menu menu">
+                <li class="nav-mobile nav-item-deals mega-parent" aria-haspopup="true" data-menu="deals">
+            <a class="nav-user-login-button" href="/forum/login/">Log in</a>
+        </li>
+        <li class="nav-mobile nav-item-deals mega-parent" aria-haspopup="true" data-menu="deals">
+            <a class="nav-user-register-button" href="/forum/register/">Sign up</a>
+        </li>
+                <li class="nav-item-news  active mega-parent" aria-haspopup="true" data-menu="news">
+            <a href="#" class="toggle nav-mobile" data-toggle="news-nav">News</a>
+            <a href="/" class="nav-desktop" data-toggle="news-nav">News</a>
+            <ul role="menu" class="menu nav-mobile" id="news-nav">
+                <li class="menu-sep">
+                <a href="/software/">Software</a>
+                <a href="/news/tags/microsoft/">Microsoft</a>
+                <a href="/news/tags/gaming/">Gaming</a>
+                <a href="/guides/">Guides</a>
+                <a href="/news/tags/closer_look/">Closer Look</a>
+                <a href="/news/tags/windows_10/">Windows 10</a>
+                <a href="/news/tags/windows_11/">Windows 11</a>
+                </li>
+            </ul>
+
+                        <div class="mega-menu">
+    <div class="wrap">
+        <ul class="mega-menu-categories">
+            <li class="active" data-category="menu-latest"><a href="/">Latest</a></li>
+            <li data-category="menu-microsoft"><a href="/news/tags/microsoft/">Microsoft</a></li>
+            <li data-category="menu-google"><a href="/news/tags/google/">Google</a></li>
+            <li data-category="menu-apple"><a href="/news/tags/apple/">Apple</a></li>
+            <li data-category="menu-software"><a href="/software/">Software</a></li>
+        </ul>
+        <ul class="mega-menu-categories-items">
+            <li class="active" id="menu-latest">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/sponsored/hardening-microsoft-365-to-defend-against-apt29--free-whitepaper/" title="Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668001947_c294-article-200723-apt29-body-text_medium.jpg" alt="microsoft 365 apt29" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/sponsored/hardening-microsoft-365-to-defend-against-apt29--free-whitepaper/" title="Permalink to Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper">Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T15:00:01+00:00">19 minutes ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/eset-found-lenovo-windows-11-and-10-laptops-have-secure-boot-vulnerability-bios-update-out/" title="ESET found Lenovo Windows 11 and 10 laptops have Secure Boot vulnerability, BIOS update out">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/10/1634878852_rootkit_(source-_sophos)_medium.jpg" alt="Demo image of a rootkit malware in a CPU" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/eset-found-lenovo-windows-11-and-10-laptops-have-secure-boot-vulnerability-bios-update-out/" title="Permalink to ESET found Lenovo Windows 11 and 10 laptops have Secure Boot vulnerability, BIOS update out">ESET found Lenovo Windows 11 and 10 laptops have Secure Boot vulnerability, BIOS update out</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T14:44:02+00:00">35 minutes ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/meta-announces-mass-layoff-of-more-than-11000-employees-worldwide/" title="Meta announces mass layoff of more than 11,000 employees worldwide ">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/02/1644239639_zuckerberg_medium.jpg" alt="Mark Zuckerberg in front of a blue background" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/meta-announces-mass-layoff-of-more-than-11000-employees-worldwide/" title="Permalink to Meta announces mass layoff of more than 11,000 employees worldwide ">Meta announces mass layoff of more than 11,000 employees worldwide </a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T12:26:02+00:00">2 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/sony-is-working-with-ncsoft-on-a-horizon-mmo-claims-report/" title="Sony is working with NCSoft on a Horizon MMO, claims report">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/05/1622152259_horizon-forbidden-west-screenshot-01-disclaimer-02oct20_medium.jpg" alt="Horizon Forbidden West screenshot" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/sony-is-working-with-ncsoft-on-a-horizon-mmo-claims-report/" title="Permalink to Sony is working with NCSoft on a Horizon MMO, claims report">Sony is working with NCSoft on a Horizon MMO, claims report</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T11:10:01+00:00">4 hours ago</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/">View all recent news</a></div>
+            </li>
+            <li id="menu-microsoft">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/sponsored/hardening-microsoft-365-to-defend-against-apt29--free-whitepaper/" title="Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668001947_c294-article-200723-apt29-body-text_medium.jpg" alt="microsoft 365 apt29" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/sponsored/hardening-microsoft-365-to-defend-against-apt29--free-whitepaper/" title="Permalink to Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper">Hardening Microsoft 365 to Defend Against APT29 — Free Whitepaper</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T15:00:01+00:00">19 minutes ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/latest-edge-dev-update-improves-sidebar-webview2-internet-explorer-mode-more/" title="Latest Edge Dev update improves Sidebar, WebView2, Internet Explorer mode, more">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667982682_microsoft_edge_dev_109_medium.jpg" alt="People near big screen indicating development process of Microsoft Edge 109" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/latest-edge-dev-update-improves-sidebar-webview2-internet-explorer-mode-more/" title="Permalink to Latest Edge Dev update improves Sidebar, WebView2, Internet Explorer mode, more">Latest Edge Dev update improves Sidebar, WebView2, Internet Explorer mode, more</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T09:04:01+00:00">6 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/build-1572620202-released-to-the-microsoft-365-current-channel-with-several-fixes/" title="Build 15726.20202 released to the Microsoft 365 Current Channel with several fixes">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2020/12/1607027801_microsoft_365_logo_2_medium.jpg" alt="Microsoft 365 written next to the Microsoft logo" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/build-1572620202-released-to-the-microsoft-365-current-channel-with-several-fixes/" title="Permalink to Build 15726.20202 released to the Microsoft 365 Current Channel with several fixes">Build 15726.20202 released to the Microsoft 365 Current Channel with several fixes</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T06:16:02+00:00">9 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/microsoft-nudges-you-to-upgrade-to-windows-11-22h2-as-windows-10-21h1-nears-eol/" title="Microsoft nudges you to upgrade to Windows 11 22H2 as Windows 10 21H1 nears EOL">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/02/1613919021_w1021h1_medium.jpg" alt="Windows 10 21H1" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/microsoft-nudges-you-to-upgrade-to-windows-11-22h2-as-windows-10-21h1-nears-eol/" title="Permalink to Microsoft nudges you to upgrade to Windows 11 22H2 as Windows 10 21H1 nears EOL">Microsoft nudges you to upgrade to Windows 11 22H2 as Windows 10 21H1 nears EOL</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T06:02:01+00:00">9 hours ago</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/news/tags/microsoft/">View all Microsoft news</a></div>
+            </li>
+            <li id="menu-google">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/software/google-chrome-10705304107-offline-installer/" title="Google Chrome 107.0.5304.107 (offline installer)">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648612568_chrome_100_medium.jpg" alt="Chrome 100 logo" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/software/google-chrome-10705304107-offline-installer/" title="Permalink to Google Chrome 107.0.5304.107 (offline installer)">Google Chrome 107.0.5304.107 (offline installer)</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T04:26:01+00:00">10 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/google-adds-rsvp-domains-to-google-registry-in-time-for-the-holiday-season/" title="Google adds .rsvp domains to Google Registry in time for the holiday season">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667962145_google-party_medium.jpg" alt="The Google logo in front of a birthday party" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/google-adds-rsvp-domains-to-google-registry-in-time-for-the-holiday-season/" title="Permalink to Google adds .rsvp domains to Google Registry in time for the holiday season">Google adds .rsvp domains to Google Registry in time for the holiday season</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T02:53:56+00:00">12 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/the-new-gmail-interface-is-becoming-mandatory-from-today-no-option-to-roll-back/" title="The new Gmail interface is becoming mandatory from today, no option to roll back">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/06/1656479354_gm1_(1)_medium.jpg" alt="The new Gmail interface darkened in the background with the logo superimposed on top" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/the-new-gmail-interface-is-becoming-mandatory-from-today-no-option-to-roll-back/" title="Permalink to The new Gmail interface is becoming mandatory from today, no option to roll back">The new Gmail interface is becoming mandatory from today, no option to roll back</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T01:08:01+00:00">14 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/apple-plans-to-drop-hey-from-hey-siri-trigger-phrase/" title="Apple plans to drop &amp;quot;Hey&amp;quot; from &amp;quot;Hey Siri&amp;quot; trigger phrase">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2019/08/1567049353_og_overview_medium.jpg" alt="Siri logo on black background" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/apple-plans-to-drop-hey-from-hey-siri-trigger-phrase/" title="Permalink to Apple plans to drop &amp;quot;Hey&amp;quot; from &amp;quot;Hey Siri&amp;quot; trigger phrase">Apple plans to drop &quot;Hey&quot; from &quot;Hey Siri&quot; trigger phrase</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-07T08:26:01+00:00">Nov 7, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/news/tags/google/">View all Google news</a></div>
+            </li>
+            <li id="menu-apple">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/chinese-youtuber-creates-a-foldable-iphone-before-apple-could-even-make-one/" title="Chinese YouTuber creates a foldable iPhone before Apple could even make one">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667977109_screenshot_2022-11-09_144019_medium.jpg" alt="Foldable iPhone" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/chinese-youtuber-creates-a-foldable-iphone-before-apple-could-even-make-one/" title="Permalink to Chinese YouTuber creates a foldable iPhone before Apple could even make one">Chinese YouTuber creates a foldable iPhone before Apple could even make one</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T09:20:01+00:00">5 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/tsmc-plans-another-fab-in-phoenix-arizona-for-manufacturing-3nm-chips/" title="TSMC plans another fab in Phoenix, Arizona for manufacturing 3nm chips">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/10/1633702378_tsmc_medium.jpg" alt="TSMC" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/tsmc-plans-another-fab-in-phoenix-arizona-for-manufacturing-3nm-chips/" title="Permalink to TSMC plans another fab in Phoenix, Arizona for manufacturing 3nm chips">TSMC plans another fab in Phoenix, Arizona for manufacturing 3nm chips</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T08:22:02+00:00">6 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/apple-warns-of-short-supply-for-iphone-14-pro-and-pro-max-due-to-foxconn-factory-lockdown/" title="Apple warns of short supply for iPhone 14 Pro and Pro Max due to Foxconn factory lockdown">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1667210957_untitled_design_(8)_medium.jpg" alt="Apple boss Tim Cook visits an iPhone production line in Zhengzhou China Photograph AP" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/apple-warns-of-short-supply-for-iphone-14-pro-and-pro-max-due-to-foxconn-factory-lockdown/" title="Permalink to Apple warns of short supply for iPhone 14 Pro and Pro Max due to Foxconn factory lockdown">Apple warns of short supply for iPhone 14 Pro and Pro Max due to Foxconn factory lockdown</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-07T08:42:01+00:00">Nov 7, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/apple-plans-to-drop-hey-from-hey-siri-trigger-phrase/" title="Apple plans to drop &amp;quot;Hey&amp;quot; from &amp;quot;Hey Siri&amp;quot; trigger phrase">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2019/08/1567049353_og_overview_medium.jpg" alt="Siri logo on black background" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/apple-plans-to-drop-hey-from-hey-siri-trigger-phrase/" title="Permalink to Apple plans to drop &amp;quot;Hey&amp;quot; from &amp;quot;Hey Siri&amp;quot; trigger phrase">Apple plans to drop &quot;Hey&quot; from &quot;Hey Siri&quot; trigger phrase</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-07T08:26:01+00:00">Nov 7, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/news/tags/apple/">View all Apple news</a></div>
+            </li>
+            <li id="menu-software">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/software/google-chrome-10705304107-offline-installer/" title="Google Chrome 107.0.5304.107 (offline installer)">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648612568_chrome_100_medium.jpg" alt="Chrome 100 logo" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header ">
+		<h3 class="mega-menu-item-title">
+			<a rel="bookmark" href="/software/google-chrome-10705304107-offline-installer/" title="Permalink to Google Chrome 107.0.5304.107 (offline installer)">Google Chrome 107.0.5304.107 (offline installer)</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T04:26:01+00:00">10 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/software/wysiwyg-web-builder-1800/" title="WYSIWYG Web Builder 18.0.0">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/12/1640011570_wysiwyg_web_builder_medium.jpg" alt="" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header ">
+		<h3 class="mega-menu-item-title">
+			<a rel="bookmark" href="/software/wysiwyg-web-builder-1800/" title="Permalink to WYSIWYG Web Builder 18.0.0">WYSIWYG Web Builder 18.0.0</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-09T04:14:01+00:00">11 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/software/em-client-9211850/" title="eM Client 9.2.1185.0">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2018/01/1515607520_emclient_medium.jpg" alt="" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header ">
+		<h3 class="mega-menu-item-title">
+			<a rel="bookmark" href="/software/em-client-9211850/" title="Permalink to eM Client 9.2.1185.0">eM Client 9.2.1185.0</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T20:26:01+00:00">18 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/software/aimp-5102411/" title="AIMP 5.10.2411">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2014/08/aimp_medium.jpg" alt="" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header ">
+		<h3 class="mega-menu-item-title">
+			<a rel="bookmark" href="/software/aimp-5102411/" title="Permalink to AIMP 5.10.2411">AIMP 5.10.2411</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T20:18:01+00:00">19 hours ago</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/software/">View all software news</a></div>
+            </li>
+        </ul>
+    </div>
+</div>
+                    </li>
+        <li class="nav-item-features  mega-parent" aria-haspopup="true" data-menu="features">
+            <a href="#" class="toggle" data-toggle="features-nav">Features</a>
+            <ul role="menu" class="menu nav-mobile" id="features-nav">
+                <li role="menuitem"><a href="/reviews/">Reviews</a></li>
+                <li role="menuitem"><a href="/news/tags/top_10/">Top 10</a></li>
+                <li role="menuitem"><a href="/guides/">Guides</a></li>
+                <li role="menuitem"><a href="/unboxing/">Unboxings</a></li>
+                <li role="menuitem"><a href="/">Trending</a></li>
+                <li role="menuitem"><a href="/editorials/">Editorials</a></li>
+            </ul>
+
+                        <div class="mega-menu">
+    <div class="wrap">
+        <ul class="mega-menu-categories">
+            <li class="active" data-category="menu-latestreviews"><a href="/reviews/">Reviews</a></li>
+            <li data-category="menu-top_10"><a href="/news/tags/top_10/">Top 10</a></li>
+            <li data-category="menu-guide"><a href="/guides/">Guides</a></li>
+            <li data-category="menu-specs_appeal"><a href="/news/tags/specs_appeal/">Specs Appeal</a></li>
+            <li data-category="menu-trending"><a href="/">Trending</a></li>
+            <li data-category="menu-editorials"><a href="/editorials/">Editorials</a></li>
+        </ul>
+        <ul class="mega-menu-categories-items">
+            <li class="active" id="menu-latestreviews">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/reviews/iod-is-a-company-that-snatches-back-control-for-your-smartphone-privacy/" title="iodé is a company that snatches back control for your smartphone privacy">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/09/1662028742_20220901_123603_medium.jpg" alt="iode screenshots" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/reviews/iod-is-a-company-that-snatches-back-control-for-your-smartphone-privacy/" title="Permalink to iodé is a company that snatches back control for your smartphone privacy">iodé is a company that snatches back control for your smartphone privacy</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-09-03T10:00:01+00:00">Sep 3, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/reviews/review-of-the-qnap-ts-233-a-two-bay-nas-for-modest-needs/" title="Review of the QNAP TS-233, a two-bay NAS for modest needs">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/07/1657483356_neowin-ts-233-06_medium.jpg" alt="Front view of QNAP TS-233 next to the box it came in" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/reviews/review-of-the-qnap-ts-233-a-two-bay-nas-for-modest-needs/" title="Permalink to Review of the QNAP TS-233, a two-bay NAS for modest needs">Review of the QNAP TS-233, a two-bay NAS for modest needs</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-08-28T15:16:01+00:00">Aug 28, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/reviews/review-the-agm-glory-g1s-is-a-5g-thermal-imaging-night-visioning-rugged-phone/" title="Review: The AGM Glory G1S is a 5G, Thermal Imaging, night visioning rugged phone">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/08/1660393250_20220706_110718_medium.jpg" alt="agm glory g1s screenshots" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/reviews/review-the-agm-glory-g1s-is-a-5g-thermal-imaging-night-visioning-rugged-phone/" title="Permalink to Review: The AGM Glory G1S is a 5G, Thermal Imaging, night visioning rugged phone">Review: The AGM Glory G1S is a 5G, Thermal Imaging, night visioning rugged phone</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-08-14T15:16:01+00:00">Aug 14, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/reviews/review-the-doogee-s98-pro-is-a-rugged-smartphone-with-thermal-and-night-vision/" title="Review: The Doogee S98 Pro is a rugged smartphone with Thermal and Night Vision">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/06/1654868736_20220607_151643_medium.jpg" alt="doogee s98 pro" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/reviews/review-the-doogee-s98-pro-is-a-rugged-smartphone-with-thermal-and-night-vision/" title="Permalink to Review: The Doogee S98 Pro is a rugged smartphone with Thermal and Night Vision">Review: The Doogee S98 Pro is a rugged smartphone with Thermal and Night Vision</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-06-11T19:16:01+00:00">Jun 11, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/reviews/">View all reviews</a></div>
+            </li>
+            <li id="menu-top_10">
+                <div class="mega-menu-items">
+                                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/top-10-features-people-want-in-microsoft-edge/" title="Top 10 features people want in Microsoft Edge">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/09/1662833170_1659954792_windows_365_-_4_medium.jpg" alt="Microsoft Edge logo on a dark background with thumbs up and down logos on the side" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/top-10-features-people-want-in-microsoft-edge/" title="Permalink to Top 10 features people want in Microsoft Edge">Top 10 features people want in Microsoft Edge</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-09-11T15:30:01+00:00">Sep 11, 2022</time>
+		</p>
+	</div>
+</article>
+                                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/top-10-features-and-changes-users-want-in-windows-11-widgets/" title="Top 10 features and changes users want in Windows 11 Widgets">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/08/1660580240_windows_widgets_top_10_medium.jpg" alt="An illustration showing thumbs down and up next to icons representing Windows Widgets" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/top-10-features-and-changes-users-want-in-windows-11-widgets/" title="Permalink to Top 10 features and changes users want in Windows 11 Widgets">Top 10 features and changes users want in Windows 11 Widgets</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-08-15T18:12:02+00:00">Aug 15, 2022</time>
+		</p>
+	</div>
+</article>
+                                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/here-are-the-top-10-features-people-want-in-onenote/" title="Here are the top 10 features people want in OneNote">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/07/1659273049_gjevgn_(18)_(2)_medium.jpg" alt="OneNote logo in the center with angry and thumbs down emoji on the right and love and thumbs up emoj" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/here-are-the-top-10-features-people-want-in-onenote/" title="Permalink to Here are the top 10 features people want in OneNote">Here are the top 10 features people want in OneNote</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-07-31T17:00:02+00:00">Jul 31, 2022</time>
+		</p>
+	</div>
+</article>
+                                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/top-10-features-users-want-in-the-microsoft-store/" title="Top 10 features users want in the Microsoft Store">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/05/1651990179_ms_medium.jpg" alt="The Microsoft Store logo with thumbs up and down" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/top-10-features-users-want-in-the-microsoft-store/" title="Permalink to Top 10 features users want in the Microsoft Store">Top 10 features users want in the Microsoft Store</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-05-08T12:00:01+00:00">May 8, 2022</time>
+		</p>
+	</div>
+</article>
+                                    </div>
+                <div class="view-all">
+                    <a href="/news/tags/top_10/">View all Top 10s</a>
+                </div>
+            </li>
+            <li id="menu-guide">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/guides/how-to-fix-drag-and-drop-issues-in-windows-1011/" title="How to fix drag and drop issues in Windows 10/11">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665761339_tech_tip_drag_and_drop2_medium.jpg" alt="Task manager" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/guides/how-to-fix-drag-and-drop-issues-in-windows-1011/" title="Permalink to How to fix drag and drop issues in Windows 10/11">How to fix drag and drop issues in Windows 10/11</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T17:00:01+00:00">22 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/guides/change-the-closed-caption-text-size-of-streaming-apps-on-a-smart-tv/" title="Change the closed caption text size of streaming apps on a Smart TV">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667741744_thumbnail_medium.jpg" alt="captions" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/guides/change-the-closed-caption-text-size-of-streaming-apps-on-a-smart-tv/" title="Permalink to Change the closed caption text size of streaming apps on a Smart TV">Change the closed caption text size of streaming apps on a Smart TV</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-06T19:00:01+00:00">Nov 6, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/guides/how-to-stop-windows-from-automatically-updating-offline-maps/" title="How to stop Windows from automatically updating offline maps">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667653774_bing_maps_medium.jpg" alt="Bing Maps" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/guides/how-to-stop-windows-from-automatically-updating-offline-maps/" title="Permalink to How to stop Windows from automatically updating offline maps">How to stop Windows from automatically updating offline maps</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-05T19:00:01+00:00">Nov 5, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/guides/how-to-turn-dark-mode-on-and-off-on-ios-android-and-windows/" title="How to turn dark mode on and off on iOS, Android, and Windows">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666800087_tech_tip_dark_mode_medium.jpg" alt="Tech Tip Dark mode" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/guides/how-to-turn-dark-mode-on-and-off-on-ios-android-and-windows/" title="Permalink to How to turn dark mode on and off on iOS, Android, and Windows">How to turn dark mode on and off on iOS, Android, and Windows</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-01T14:16:01+00:00">Nov 1, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/guides/">View all guides</a></div>
+            </li>
+            <li id="menu-specs_appeal">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/specs-appeal-comparing-ipad-10-to-ipad-9-and-ipad-8/" title="Specs Appeal: Comparing iPad 10 to iPad 9 and iPad 8">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666198234_ipad_10_specs_appeal_medium.jpg" alt="The iPad 10 next to the iPad 9" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/specs-appeal-comparing-ipad-10-to-ipad-9-and-ipad-8/" title="Permalink to Specs Appeal: Comparing iPad 10 to iPad 9 and iPad 8">Specs Appeal: Comparing iPad 10 to iPad 9 and iPad 8</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-19T18:00:01+00:00">Oct 19, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/specs-appeal-here-is-how-surface-studio-2-compares-to-studio-2-and-original-studio/" title="Specs Appeal: Here is how Surface Studio 2+ compares to Studio 2 and original Studio">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/09/1664440726_surface_studio_medium.jpg" alt="A woman working with the Surface Studio all-in-one" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/specs-appeal-here-is-how-surface-studio-2-compares-to-studio-2-and-original-studio/" title="Permalink to Specs Appeal: Here is how Surface Studio 2+ compares to Studio 2 and original Studio">Specs Appeal: Here is how Surface Studio 2+ compares to Studio 2 and original Studio</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-12T14:10:06+00:00">Oct 12, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/specs-appeal-here-is-how-surface-laptop-5-compares-to-laptop-4-and-laptop-3/" title="Specs Appeal: Here is how Surface Laptop 5 compares to Laptop 4 and Laptop 3">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665417003_family_01_rgb_medium.jpg" alt="Surface Laptop 5 135 and 15 inch models with their backs against each other" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/specs-appeal-here-is-how-surface-laptop-5-compares-to-laptop-4-and-laptop-3/" title="Permalink to Specs Appeal: Here is how Surface Laptop 5 compares to Laptop 4 and Laptop 3">Specs Appeal: Here is how Surface Laptop 5 compares to Laptop 4 and Laptop 3</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-12T14:10:04+00:00">Oct 12, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/specs-appeal-here-is-how-surface-pro-9-compares-to-pro-8-and-pro-7/" title="Specs Appeal: Here is how Surface Pro 9 compares to Pro 8 and Pro 7">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665393857_surface_pro_9_2_medium.jpg" alt="The Microsoft Surface Pro 9 with its accessories" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/specs-appeal-here-is-how-surface-pro-9-compares-to-pro-8-and-pro-7/" title="Permalink to Specs Appeal: Here is how Surface Pro 9 compares to Pro 8 and Pro 7">Specs Appeal: Here is how Surface Pro 9 compares to Pro 8 and Pro 7</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-12T14:10:01+00:00">Oct 12, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/news/tags/specs_appeal/">View all Specs Appeal</a></div>
+            </li>
+            <li id="menu-trending">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/microsoft-releases-patch-tuesday-update-for-windows-11-22h2-kb5019980-and-21h2-kb5019961/" title="Microsoft releases Patch Tuesday update for Windows 11 22H2 (KB5019980) and 21H2 (KB5019961)">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648556859_windows-11-patch-tuesday7_medium.jpg" alt="Patch Tuesday" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/microsoft-releases-patch-tuesday-update-for-windows-11-22h2-kb5019980-and-21h2-kb5019961/" title="Permalink to Microsoft releases Patch Tuesday update for Windows 11 22H2 (KB5019980) and 21H2 (KB5019961)">Microsoft releases Patch Tuesday update for Windows 11 22H2 (KB5019980) and 21H2 (KB5019961)</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T18:43:34+00:00">20 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/windows-10-november-2022-patch-tuesday-kb5019959-out--heres-whats-new-and-whats-broke/" title="Windows 10 November 2022 Patch Tuesday (KB5019959) out — here&amp;#039;s what&amp;#039;s new and what&amp;#039;s broke">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2019/08/1565725050_w10_patchtuesday_turquoise_medium.jpg" alt="Windows 10 Patch Tuesday" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/windows-10-november-2022-patch-tuesday-kb5019959-out--heres-whats-new-and-whats-broke/" title="Permalink to Windows 10 November 2022 Patch Tuesday (KB5019959) out — here&amp;#039;s what&amp;#039;s new and what&amp;#039;s broke">Windows 10 November 2022 Patch Tuesday (KB5019959) out — here&#039;s what&#039;s new and what&#039;s broke</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T18:27:43+00:00">20 hours ago</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/news/microsoft-starts-testing-one-of-the-most-requested-edge-features/" title="Microsoft starts testing one of the most-requested Edge features">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623594088_verticaltabs_medium.jpg" alt="Microsoft Edge logo monochrome on dark background" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/news/microsoft-starts-testing-one-of-the-most-requested-edge-features/" title="Permalink to Microsoft starts testing one of the most-requested Edge features">Microsoft starts testing one of the most-requested Edge features</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T08:14:01+00:00">Nov 8, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/deals/black-friday-2022-absolutely-insane-amd-rx-6900-xt-6800-6700-6600-gpu-deals/" title="Black Friday 2022: Absolutely insane AMD RX 6900 XT, 6800, 6700, 6600 GPU deals">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667801055_rx_6000_series_medium.jpg" alt="AMD RX 6000 series reference cards" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/deals/black-friday-2022-absolutely-insane-amd-rx-6900-xt-6800-6700-6600-gpu-deals/" title="Permalink to Black Friday 2022: Absolutely insane AMD RX 6900 XT, 6800, 6700, 6600 GPU deals">Black Friday 2022: Absolutely insane AMD RX 6900 XT, 6800, 6700, 6600 GPU deals</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-07T07:26:01+00:00">Nov 7, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/">View all trending news</a></div>
+            </li>
+            <li id="menu-editorials">
+                <div class="mega-menu-items">
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/editorials/i-hate-my-favorite-windows-feature/" title="I hate my favorite Windows feature">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667743255_windows_11_sad_medium.jpg" alt="A sad cat next to a Windows 11 logo indicating disappointment" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/editorials/i-hate-my-favorite-windows-feature/" title="Permalink to I hate my favorite Windows feature">I hate my favorite Windows feature</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-06T17:26:01+00:00">Nov 6, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/editorials/will-the-real-windows-10-2022-update-please-stand-up/" title="Will the real Windows 10 2022 Update please stand up?">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666113885_windows_10_2022_update_medium.jpg" alt="The stock Windows 10 wallpaper with the 2022 Update sign" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/editorials/will-the-real-windows-10-2022-update-please-stand-up/" title="Permalink to Will the real Windows 10 2022 Update please stand up?">Will the real Windows 10 2022 Update please stand up?</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-23T17:16:01+00:00">Oct 23, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/editorials/this-small-change-could-make-windows-11-updates-much-more-exciting-and-useful/" title="This small change could make Windows 11 updates much more exciting and useful">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665931468_screenshot_(29)_(1)_medium.jpg" alt="Blue Windows 11 update screen with This might take a few minutes dont turn off your PC written and a" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/editorials/this-small-change-could-make-windows-11-updates-much-more-exciting-and-useful/" title="Permalink to This small change could make Windows 11 updates much more exciting and useful">This small change could make Windows 11 updates much more exciting and useful</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-16T17:16:01+00:00">Oct 16, 2022</time>
+		</p>
+	</div>
+</article>
+                                    <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/editorials/five-things-i-want-microsoft-to-improve-in-windows-11-user-interface/" title="Five things I want Microsoft to improve in Windows 11 user interface">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1665303470_windows_11_love-hate_medium.jpg" alt="A Windows 11 logo with love and sceptical emojis next to it" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/editorials/five-things-i-want-microsoft-to-improve-in-windows-11-user-interface/" title="Permalink to Five things I want Microsoft to improve in Windows 11 user interface">Five things I want Microsoft to improve in Windows 11 user interface</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-10-09T15:16:01+00:00">Oct 9, 2022</time>
+		</p>
+	</div>
+</article>
+                                </div>
+                <div class="view-all"><a href="/editorials/">View all editorials</a></div>
+            </li>
+        </ul>
+    </div>
+</div>
+                    </li>
+        <li class="nav-item-forums">
+            <a href="/forum/">Forums</a>
+        </li>
+        <li class="nav-item-deals mega-parent" aria-haspopup="true" data-menu="deals">
+            <a href="/store/">Store</a>
+                        <div class="mega-menu">
+    <div class="wrap">
+        <ul class="mega-menu-categories">
+            <li class="active" data-category="menu-deals-recent"><a href="/news/tags/neowin_deals/">Recent</a></li>
+            <li data-category="menu-deals-highlights"><a href="//deals.neowin.net/">Highlights</a></li>
+            <li data-category="menu-deals-interests"><a href="//deals.neowin.net/">Interests</a></li>
+            <li data-category="menu-deals-budget"><a href="//deals.neowin.net/">On a Budget</a></li>
+        </ul>
+        <ul class="mega-menu-categories-items">
+        <li class="active" id="menu-deals-recent">
+            <div class="mega-menu-items">
+                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/deals/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/" title="Get this Complete Big Data &amp;amp; Power BI Bundle Certification for only $39.99">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2020/07/1595507389_big-data_medium.jpg" alt="" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/deals/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/" title="Permalink to Get this Complete Big Data &amp;amp; Power BI Bundle Certification for only $39.99">Get this Complete Big Data &amp; Power BI Bundle Certification for only $39.99</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-08T18:00:01+00:00">21 hours ago</time>
+		</p>
+	</div>
+</article>
+                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/deals/save-59-off-optery-data-broker-removal-1-yr-subscription/" title="Save 59% off Optery Data Broker Removal: 1-Yr Subscription">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2021/11/1636362008_product_316372_product_shots1_medium.jpg" alt="optery" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/deals/save-59-off-optery-data-broker-removal-1-yr-subscription/" title="Permalink to Save 59% off Optery Data Broker Removal: 1-Yr Subscription">Save 59% off Optery Data Broker Removal: 1-Yr Subscription</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-07T18:00:01+00:00">Nov 7, 2022</time>
+		</p>
+	</div>
+</article>
+                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/deals/save-92-off-this-swiftui-apps-for-all-apple-platforms-course---now-just-1499/" title="Save 92% off this SwiftUI Apps for All Apple Platforms Course - now just $14.99">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2020/11/1606390918_rmktz63wonvr2jf4eibvooq2aas_medium.jpg" alt="SwiftUI logo" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/deals/save-92-off-this-swiftui-apps-for-all-apple-platforms-course---now-just-1499/" title="Permalink to Save 92% off this SwiftUI Apps for All Apple Platforms Course - now just $14.99">Save 92% off this SwiftUI Apps for All Apple Platforms Course - now just $14.99</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-06T15:00:01+00:00">Nov 6, 2022</time>
+		</p>
+	</div>
+</article>
+                            <article class="mega-menu-item">
+	<figure class="mega-menu-item-thumb">
+		<a class="mega-menu-item-thumb-link" rel="bookmark" href="/deals/get-this-learn-to-create-an-iphone-app-bundle-for-only-3999/" title="Get this Learn to Create an iPhone App Bundle for only $39.99">
+            <img src="https://cdn.neowin.com/news/images/uploaded/2020/11/1605080401_pexels-lisa-fotios-1092644_medium.jpg" alt="person holding an iphone" loading="lazy">
+		</a>
+	</figure>
+	<div class="mega-menu-item-header  mega-menu-item-header-software">
+		<h3 class="mega-menu-item-title mega-menu-item-title-software">
+			<a rel="bookmark" href="/deals/get-this-learn-to-create-an-iphone-app-bundle-for-only-3999/" title="Permalink to Get this Learn to Create an iPhone App Bundle for only $39.99">Get this Learn to Create an iPhone App Bundle for only $39.99</a>
+		</h3>
+		<p class="mega-menu-item-meta">
+			<time class="date published" datetime="2022-11-05T15:00:02+00:00">Nov 5, 2022</time>
+		</p>
+	</div>
+</article>
+                        </div>
+            <div class="view-all"><a href="/news/tags/neowin_deals/">View all recent deals</a></div>
+        </li>
+        <li id="menu-deals-highlights">
+            <div class="mega-menu-items">
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="//deals.neowin.net/">
+                            <img src="https://cdn.neowin.com/news/images/deals/best-sellers.jpg" alt="Best Sellers" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="//deals.neowin.net/">Best Sellers</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/pay-what-you-want">
+                            <img src="https://cdn.neowin.com/news/images/deals/pay-what-you-want.jpg" alt="Pay What You Want" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/pay-what-you-want">Pay What You Want</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/deals/gear-gadgets">
+                            <img src="https://cdn.neowin.com/news/images/deals/gear-and-gadgets.jpg" alt="Gear + Gadgets" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/deals/gear-gadgets">Gear + Gadgets</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/collections/bundles">
+                            <img src="https://cdn.neowin.com/news/images/deals/software-bundles.jpg" alt="Software Bundles" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/collections/bundles">Software Bundles</a>
+                        </h3>
+                    </div>
+                </article>
+            </div>
+            <div class="view-all"><a href="//deals.neowin.net/">View all Neowin Deals</a></div>
+        </li>
+        <li id="menu-deals-interests">
+            <div class="mega-menu-items">
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/deals/developer">
+                            <img src="https://cdn.neowin.com/news/images/deals/for-developers.jpg" alt="For Developers" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/deals/developer">For Developers</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/deals/productivity">
+                            <img src="https://cdn.neowin.com/news/images/deals/productivity.jpg" alt="Productivity" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/deals/productivity">Productivity</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/collections/accessories">
+                            <img src="https://cdn.neowin.com/news/images/deals/accessories.jpg" alt="Accessories" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/collections/accessories">Accessories</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/deals/elearning">
+                            <img src="https://cdn.neowin.com/news/images/deals/e-learning.jpg" alt="E-Learning" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/deals/elearning">E-Learning</a>
+                        </h3>
+                    </div>
+                </article>
+            </div>
+            <div class="view-all"><a href="//deals.neowin.net/">View all Neowin Deals</a></div>
+        </li>
+        <li id="menu-deals-budget">
+            <div class="mega-menu-items">
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="//deals.neowin.net/collections/under-20">
+                            <img src="https://cdn.neowin.com/news/images/deals/under-20-bucks.jpg" alt="Under $20" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/collections/under-20">Under $20</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/free">
+                            <img src="https://cdn.neowin.com/news/images/deals/freebies.jpg" alt="Freebies" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/free">Freebies</a>
+                        </h3>
+                    </div>
+                </article>
+
+                <article class="mega-menu-item">
+                    <figure class="mega-menu-item-thumb">
+                        <a class="mega-menu-item-thumb-link" rel="bookmark" href="https://deals.neowin.net/giveaways">
+                            <img src="https://cdn.neowin.com/news/images/deals/giveaways.jpg" alt="Giveaways" loading="lazy" />
+                        </a>
+                    </figure>
+                    <div class="mega-menu-item-header mega-menu-item-header-deals">
+                        <h3 class="mega-menu-item-title">
+                            <a rel="bookmark" href="https://deals.neowin.net/giveaways">Giveaways</a>
+                        </h3>
+                    </div>
+                </article>
+            </div>
+            <div class="view-all"><a href="//deals.neowin.net/">View all Neowin Deals</a></div>
+        </li>
+        </ul>
+    </div>
+</div>
+                    </li>
+        <li class="nav-item-more mega-parent" aria-haspopup="true">
+            <a href="#" class="toggle" data-toggle="more-nav">More</a>
+            <ul class="menu" role="menu" id="more-nav">
+            <li role="menuitem"><a href="/subscribe/">Subscribe</a></li>
+            <li role="menuitem"><a href="/store/">Store</a></li>
+            <li role="menuitem"><a href="/irc/">Chat on IRC</a></li>
+            <li role="menuitem" class="menu-sep"><a href="/contact/">Send News Tip</a></li>
+            <li role="menuitem"><a href="/contact/apply/">Write for Neowin</a></li>
+            <li role="menuitem"><a href="/credits/">About Us</a></li>
+            <li role="menuitem"><a href="/advertising/">Advertising</a></li>
+            </ul>
+        </li>
+    </ul>
+
+</nav>
+
+            </div>
+
+        </header>
+
+        <div class="content" id="content" role="main">
+            <div class="nav-secondary-menu-container">
+                <div class="wrap">
+                    <ul class="nav-secondary-menu">
+                                                    <li>
+                                <a href="/software/">Software</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/microsoft/">Microsoft</a>
+                            </li>
+                                                    <li>
+                                <a href="/guides/">Guides</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/top_10/">Top 10</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/closer_look/#tags">Closer Look</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/specs_appeal/">Specs Appeal</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/windows_10/#tags">Windows 10</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/tags/windows_11/#tags">Windows 11</a>
+                            </li>
+                                                    <li>
+                                <a href="/news/were-looking-for-microsoft-enthusiasts-to-join-our-team-of-reporters/">Write for us</a>
+                            </li>
+                                            <li class="newstip"><a href="/contact/#newstip">
+                        Send news tip
+                    </a></li></ul>
+                </div>
+            </div>
+
+                                            <div class="promos" id="promos">
+            	        <div class="promo promo--medium pos-1 slider" data-promoid="22992">
+                <div class="main-carousel" data-initialindex="0">
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/news/microsoft-weekly-windows-11-performance-adoption-and-new-features/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="Microsoft Weekly graphic with party emoji on left and a pie char on the right with a purple backgrou" src="https://cdn.neowin.com/news/images/uploaded/2022/11/1667625555_49guqu_(22)_mediump.jpg" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/11/1667625555_49guqu_(22)_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content" style="z-index:5">
+                                                                <span class="badge">Microsoft Weekly</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                Windows 11 performance, adoption, and new features
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                microsoft weekly
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/news/windows-11-kb5018496-release-preview-has-right-click-on-taskbar-for-task-manager/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="Windows 11 Insider Preview" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/03/1648547979_windows-11-insider-preview_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">build 22621.754</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                Windows 11 Release Preview now has right click on taskbar for Task Manager
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                windows 11 promo
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/news/windows-11-build-22623870-includes-more-fixes-for-tablet-optimized-taskbar/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="Windows 11 Insider Preview" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/03/1648556583_windows-11-insider-preview6_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">build 22623.870</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                Windows 11 Insider Preview in Beta Channel contains more taskbar fixes
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                windows 11 insider preview
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/news/latest-windows-11-dev-channel-build-252361010-kb5021116-is-a-servicing-pipeline-update/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="Windows 11 Insider Preview" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/03/1648556583_windows-11-insider-preview6_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">Build 25236.1010</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                Servicing pipeline update for Windows 11 in the Dev Channel (KB5021116) 
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                windows 11 insider preview
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/editorials/i-hate-my-favorite-windows-feature/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="A sad cat next to a Windows 11 logo indicating disappointment" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/11/1667743255_windows_11_sad_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">editorial</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                I hate my favorite Windows feature
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                windows 11 logo
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/guides/change-the-closed-caption-text-size-of-streaming-apps-on-a-smart-tv/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="captions" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/11/1667741744_thumbnail_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">Guide</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                Change the closed caption text size of streaming apps on a Smart TV
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                captions
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                                                                <div class="carousel-cell">
+                        <a href="https://www.neowin.net/guides/how-to-stop-windows-from-automatically-updating-offline-maps/">
+                            <div class="promo-block">
+                                <div class="promo-block-image">
+                                    <img class="carousel-cell-image" alt="Bing Maps" src="" data-flickity-lazyload="https://cdn.neowin.com/news/images/uploaded/2022/11/1667653774_bing_maps_mediump.jpg" />
+                                </div>
+                            </div>
+                            <div class="promo-content">
+                                                                <span class="badge">Guide</span>
+                                                                <div class=" promo-content-fade">
+                                <h3 class="promo-title">
+                                How to stop Windows from automatically updating offline maps
+                                </h3>
+                                                                <p class="promo-excerpt">
+                                microsoft
+                                </p>
+                                                            </div>
+                        </div>
+                        </a>
+                    </div>
+                                    </div>
+            </div>
+                                                                                                                        <div class="promo promo--small pos-3 gallery-cell">
+                <a href="https://www.neowin.net/guides/get-the-windows-11-2022-update-now-with-the-updated-installation-assistant/">
+                    <div class="promo-block">
+                        <div class="promo-block-image" style="background-image:url('https://cdn.neowin.com/news/images/uploaded/2022/03/1648556957_windows-11-update-7_smallp.jpg')"></div>
+                    </div>
+                    <div class="promo-content">
+                                                <div class="promo-content-fade">
+                        <h3 class="promo-title">
+                        Get the Windows 11 2022 Update now with the updated Installation Assistant
+                        </h3>
+                                                <p class="promo-excerpt">
+                        windows update
+                        </p>
+                                                </div>
+                    </div>
+                </a>
+            </div>
+                                                        <div class="promo promo--small pos-4 gallery-cell">
+                <a href="https://www.neowin.net/news/twirl-90-china-preps-cargo-mission-to-its-palace-in-the-sky/">
+                    <div class="promo-block">
+                        <div class="promo-block-image" style="background-image:url('https://cdn.neowin.com/news/images/uploaded/2022/11/1667719348_twirl90-n_smallp.jpg')"></div>
+                    </div>
+                    <div class="promo-content">
+                                                    <span class="badge">#90</span>
+                                                <div class="promo-content-fade">
+                        <h3 class="promo-title">
+                        China preps cargo mission to its &quot;Palace in the Sky&quot;
+                        </h3>
+                                                <p class="promo-excerpt">
+                        twirl 90
+                        </p>
+                                                </div>
+                    </div>
+                </a>
+            </div>
+                                                        <div class="promo promo--small pos-7 gallery-cell">
+                <a href="https://www.neowin.net/editorials/will-the-real-windows-10-2022-update-please-stand-up/">
+                    <div class="promo-block">
+                        <div class="promo-block-image" style="background-image:url('https://cdn.neowin.com/news/images/uploaded/2022/10/1666113885_windows_10_2022_update_smallp.jpg')"></div>
+                    </div>
+                    <div class="promo-content">
+                                                <div class="promo-content-fade">
+                        <h3 class="promo-title">
+                        Editorial: Will the real Windows 10 2022 Update please stand up?
+                        </h3>
+                                                <p class="promo-excerpt">
+                        windows 10 2022 update
+                        </p>
+                                                </div>
+                    </div>
+                </a>
+            </div>
+                                                        <div class="promo promo--small pos-8 gallery-cell">
+                <a href="https://www.neowin.net/guides/how-to-turn-dark-mode-on-and-off-on-ios-android-and-windows/">
+                    <div class="promo-block">
+                        <div class="promo-block-image" style="background-image:url('https://cdn.neowin.com/news/images/uploaded/2022/10/1666800087_tech_tip_dark_mode_smallp.jpg')"></div>
+                    </div>
+                    <div class="promo-content">
+                                                <div class="promo-content-fade">
+                        <h3 class="promo-title">
+                        How to turn dark mode on and off on iOS, Android, and Windows
+                        </h3>
+                                                <p class="promo-excerpt">
+                        tech tip tuesday
+                        </p>
+                                                </div>
+                    </div>
+                </a>
+            </div>
+            </div>
+                                                                        <div class="header-banner header-banner-ads">
+                    <div class="wrap">
+                        <span class="header-banner-advertising">
+                                                        <!-- Tag ID: neowin_header -->
+<div style="min-height:250px;" align="center" data-freestar-ad="__336x280 __970x250" id="neowin_header">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "neowin_header", slotId: "neowin_header" });
+  </script>
+</div>
+            
+                        </span>
+                    </div>
+                </div>
+                                            
+            <section class="page-content">
+    <div class="wrap">
+                <h1>404 - Page Not Found</h1>
+        <p>Unfortunately the page you're looking for isn't here. Try heading over to our <a href="/">homepage</a> to check out the latest news, or visit out our <a href="/forum">forum</a> to join in the community discussions</p>
+            </div>
+</section>
+
+                                                <div class="footer-banner footer-banner-ads">
+                        <div class="wrap">
+                            <span class="footer-banner-advertising">
+                                                            <!-- Tag ID: neowin_footer -->
+<div align="center" data-freestar-ad="__336x280 __970x250" id="neowin_footer">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "neowin_footer", slotId: "neowin_footer" });
+  </script>
+</div>
+
+<!-- PLACE IN BODY OF HOMEPAGE JUST BEFORE CLOSING BODY TAG (</body>) -->
+<script type="text/javascript">
+//Observes ad element
+let adObserver = new IntersectionObserver(function(entries, observer) {
+	if(entries[0].isIntersecting === true) {
+		adUnit.classList.add('stickyAd');		
+	}		
+},{threshold: 1.0});
+//Observes related stories element
+let headerObserver = new IntersectionObserver(function(entries, observer) {
+	if(entries[0].isIntersecting === true) {
+		adUnit.classList.remove('stickyAd');		
+	}		
+},{threshold: 0});
+let adUnit   = document.querySelector('#neowin_siderail_4');
+let headerEl = document.querySelector('#footer');
+let topPos   = document.querySelector('#neowin_siderail_4').getBoundingClientRect().top; //ad container position
+let scrollPos = 0; // starting scroll position
+// adding scroll event
+window.addEventListener('scroll', function(){
+  // detects new state and compares it with the new one
+  if ((document.body.getBoundingClientRect()).top > scrollPos) { //up
+	if (window.scrollY <= (topPos+1000)) {
+		adUnit.classList.remove('stickyAd');
+	}		
+  }
+  // saves the new position for iteration.
+  scrollPos = (document.body.getBoundingClientRect()).top;
+});
+adObserver.observe(adUnit);
+headerObserver.observe(headerEl);
+</script>            
+                            </span>
+                        </div>
+                    </div>
+                            
+            
+                        <footer class="footer" id="footer">
+
+                <div class="footer-top">
+                    <div class="wrap">
+                        <div class="row">
+
+                            <div class="footer-top-nav t-col-7">
+                                <div class="row">
+                                    <div class="footer-top-col t-col-3">
+                                        <h3>Company</h3>
+                                        <ul>
+                                                                                    <li>
+                                                <a href="/contact/" title="Contact Us">Contact Us</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/credits/" title="About Us">About Us</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/credits/#jobs" title="Write for Neowin">Write for Neowin</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/advertising/" title="Advertising">Advertising</a>
+                                            </li>
+                                                                                </ul>
+                                    </div>
+                                    <div class="footer-top-col t-col-3">
+                                        <h3>Community</h3>
+                                        <ul>
+                                                                                    <li>
+                                                <a href="/forum/" title="Forums">Forums</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/subscribe/" title="Subscribe">Subscribe</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/irc/" title="Chat on IRC">Chat on IRC</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://deals.neowin.net/" title="Neowin Deals">Neowin Deals</a>
+                                            </li>
+                                                                                </ul>
+                                    </div>
+                                    <div class="footer-top-col t-col-3">
+                                        <h3>Social</h3>
+                                        <ul class="footer-social">
+                                            <li class="facebook"><a href="https://www.facebook.com/neowin" title="Facebook">Facebook</a></li>
+                                            <li class="twitter"><a href="https://twitter.com/neowinfeed" title="Twitter">Twitter</a></li>
+                                            <li class="youtube"><a href="https://www.youtube.com/Neowin" rel="publisher" title="YouTube">YouTube</a></li>
+                                            <li class="rss">
+                                                <a href="https://www.neowin.net/news/rss/" rel="publisher" title="RSS">RSS</a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="footer-top-col t-col-3">
+                                        <h3>Partners</h3>
+                                        <ul>
+                                                                                    <li>
+                                                <a href="https://www.stardock.com/games/starcontrol/" title="Star Control">Star Control</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.stardock.com/products/fences/" title="Fences">Fences</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://littletinyfrogs.com/" title="Brad Wardell">Brad Wardell</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neowin.net/store" title="Store">Store</a>
+                                            </li>
+                                                                                </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer-bot">
+                    <div class="wrap">
+                        <div class="row">
+
+                            <div class="footer-copyright t-col-11">
+                                <ul class="footer-copyright-links">
+                                    <li><a href="/dmca/">DMCA <span>Policy</span></a></li>
+                                    <li><a href="/terms/">Terms of Use</a></li>
+                                    <li><a href="/privacy/">Privacy <span>Statement</span></a></li>
+                                </ul>
+                                <p class="footer-copyright-text">
+                                    <span>&copy; Since 2000 <span class="org">Neowin</span> LLC.</span>
+                                    All trademarks mentioned are the property of their respective owners.
+                                </p>
+                            </div>
+
+                            <div class="t-col-1">
+                                <a class="footer-top-of-page scrollto" href="#top">Top of Page</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </footer>
+            
+        </div>
+
+    </div>
+
+        <form accept-charset="utf-8" action="/forum/login/" method="post" data-ipsvalidation="" novalidate="">
+        <div class="modal" id="site-signin">
+            <div class="modal-window">
+                <div class="modal-header">
+                    <h3 class="modal-title">Login</h3>
+                    <span class="modal-close">Close</span>
+                </div>
+                <div class="modal-content">
+                    <div class="signin-form">
+                        <input type="hidden" name="csrfKey" value="e6cd3551e1596eb8d8bb8f983bbf544a">
+                        <input type="hidden" name="ref" value="aHR0cHM6Ly93d3cubmVvd2luLm5ldC9hcGkvdjEvaW5zdGFuY2UvcGVlcnM=">
+                        <input type="hidden" name="referer" value="">
+                        <input type="hidden" name="login__standard_submitted" value="1">
+                        <div class="signin-input form">
+                            <div class="field required">
+                                <label class="label" for="auth">Username or email:</label>
+                                <input type="text" class="input" id="auth" name="auth" value="" />
+                            </div>
+                            <div class="field required">
+                                <label class="label" for="password">Password</label>
+                                <input type="password" class="input" id="password" name="password" type="password" value="" />
+                            </div>
+                            <div class="field options">
+                                <label class="label" for="remember_me_checkbox" title="This is not recommended for shared computers">
+                                <input type="hidden" name="remember_me" value="0">
+                                <input type="checkbox" id="remember_me_checkbox" checked="checked" name="remember_me_checkbox" value="1" class="checkbox" tabindex="0">
+                                Remember me
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-actions">
+                    <button type="submit" id="elSignIn_submit" name="_processLogin" value="usernamepassword" class="button button-primary button-block">Sign In</button>
+                    <button type="submit" name="_processLogin" value="4" class="social-login-button facebook">
+                        Sign in with Facebook
+                    </button>
+                    <button type="submit" name="_processLogin" value="18" class="social-login-button twitter">
+                        Sign in with Twitter
+                    </button>
+                    <button type="submit" name="_processLogin" value="6" class="social-login-button google">
+                        Sign in with Google
+                    </button>
+                    <button type="submit" name="_processLogin" value="16" class="social-login-button liveid">
+                        Sign in with Microsoft
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+    
+    <div class="modal" id="profile-card">
+        <div class="modal-window profile-card">
+
+        </div>
+    </div>
+
+    <div id="ajax-spinner"><span class="spinner"></span><span>Loading</span></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+            <script src="/js/orion/scripts.min.js?ver=027c087"></script>
+    
+        <div id="fb-root"></div>
+    <script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.defer=true; js.id = id;js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=141241332490&version=v2.8";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.defer=true;js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    
+        <script>
+    (function (a, c, d, e) { if (!a[c]) { var b = a[c] = {}; b[d] = []; b[e] = function (a) { b[d].push(a) } } })(window, 'Scroll', '_q', 'do');
+    Scroll.config = {
+        detected: false
+    };
+    </script>
+    <script async defer src="https://static.scroll.com/js/scroll.js"></script>
+    
+    
+                                    <script src="https://knl.mntzrlt.net/widget/code/neowin.js" async defer></script><script type="text/javascript" src="https://s.skimresources.com/js/2728X590260.skimlinks.js" async defer></script>
+            
+    </body>
+</html>
+
+0
+

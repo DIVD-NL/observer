@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=600
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.alphasupport.xyz wss://social.alphasupport.xyz;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:47 GMT
+Expect-Ct: enforce, max-age=2592000
+Expires: Wed, 09 Nov 2022 15:27:47 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Referrer-Policy: origin-when-cross-origin
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzlz_Bupw-YQYAFIuB
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+768
+["friendica.utzer.de","cybre.space","mastodon.popps.org","mastodon.cloud","quitter.pl","linuxrocks.online","mastodon.social","friendica.jb-net.us","social.xthemage.net","mamot.fr","red.niboe.info","g0v.social","mastodon.la","gruene.social","social.tchncs.de","friendica.ironbug.org","social.anaproy.nl","mastodon.scot","expired.mentality.rip","pirati.ca","social.p0lymer.net","social.fedinet.de","floss.social","anarchydica.net","brotka.st","libranet.de","f.freinetz.ch","jade.moe","eeeeeeeee.eu","mastodon.art","schmaker.eu","friendica.mnementh.co.uk","friendica.eskimo.com","noagendasocial.com","fedi.jmizzle.com","fedi.ml","mastodon.eole.education","lediver.se","mstdn.fr","toot.wales","ruhr.social","social.tromdienste.de","framapiaf.org","mastodon.technology","social.coletivos.org","friendi.linuxand.beer","masto.1146.nohost.me","nerdculture.de","loma.ml","qoto.org","tube.tchncs.de","social.linux.pizza","mastodon.pirateparty.be","mastodon.matrix.org","social.alesan.io","social.thierrytalbert.fr","uwu.social","mastodon.uy","friendica.vrije-mens.org","todon.nl","nerdica.net","the.shitposting.network","friendica.bachgau.social","mastodon.online","mstdn.starnix.network","social.librem.one","friendica.opensocial.space","social.cool110.xyz","fr.readthefinemanual.net","chaos.social","friendica.xyz","devin.masto.host","layer8.space","mastodon.fam-ribbers.com","social.jmueller.eu","tech.lgbt","shitposting.army","venera.social","mastodon.madrid","mastodontech.de","social.opendesktop.org","f.praschnig.com","social.badabam.net","frnd.nanoscopic.de","tailswish.industries","gazette.live","mastodon.neilzone.co.uk","f.haeder.net","hackers.town","mstdn.social","mastodon.codingfield.com","petroskowo.pl","norden.social","botsin.space","fosstodon.org","social.anoxinon.de","friendica.hubup.pro","freeradical.zone","anonsys.net","social.yl.ms","mastodon.bgzashtita.es","digitalcourage.social"]
+0
+

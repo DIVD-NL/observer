@@ -1,0 +1,658 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=300
+Cf-Cache-Status: EXPIRED
+Cf-Ray: 76778b173ceeb9b1-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:20 GMT
+Expires: Wed, 09 Nov 2022 15:27:20 GMT
+Link: <https://wetterkanal.kachelmannwetter.com/wp-json/>; rel="https://api.w.org/"
+Server: cloudflare
+Vary: Accept-Encoding
+
+10b58
+<!DOCTYPE html>
+<html lang="de" dir="ltr" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="pingback" href="https://wetterkanal.kachelmannwetter.com/xmlrpc.php" />
+        <link rel="dns-prefetch" href="//data-c031428347.kachelmannwetter.com" />
+        <script type="text/javascript">
+            function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){for(var t,e,o=[],n=window,r=n;r;){try{if(r.frames.__tcfapiLocator){t=r;break}}catch(t){}if(r===n.top)break;r=n.parent}t||(function t(){var e=n.document,o=!!n.frames.__tcfapiLocator;if(!o)if(e.body){var r=e.createElement("iframe");r.style.cssText="display:none",r.name="__tcfapiLocator",e.body.appendChild(r)}else setTimeout(t,5);return!o}(),n.__tcfapi=function(){for(var t=arguments.length,n=new Array(t),r=0;r<t;r++)n[r]=arguments[r];if(!n.length)return o;"setGdprApplies"===n[0]?n.length>3&&2===parseInt(n[1],10)&&"boolean"==typeof n[3]&&(e=n[3],"function"==typeof n[2]&&n[2]("set",!0)):"ping"===n[0]?"function"==typeof n[2]&&n[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):o.push(n)},n.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))}();
+        </script>
+
+        <link href="/wp-content/themes/wetterkanal/css/bootstrap.css" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="57x57" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/wetterkanal/images/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/wp-content/themes/wetterkanal/images/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/wetterkanal/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/wp-content/themes/wetterkanal/images/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/wetterkanal/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/wp-content/themes/wetterkanal/images/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <link href="/wp-content/themes/wetterkanal/css/style.css?v1.3" rel="stylesheet">
+        <link rel="me" href="https://mastodon.social/@kachelmannwetter" />
+        <link rel="me" href="https://meteo.social/@kachelmannwetter" />
+        <title>Seite nicht gefunden |  Wetterkanal Kachelmannwetter</title>
+                <link rel="dns-prefetch" href="//cdn.stroeerdigitalgroup.de" />
+        <meta itemprop="name" content="Wetterkanal vom Kachelmannwetter-Team" />
+    <meta itemprop="url" content="https://wetterkanal.kachelmannwetter.com" />
+        <meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wetterkanal.kachelmannwetter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://wetterkanal.kachelmannwetter.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://wetterkanal.kachelmannwetter.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ctf_styles-css' href='https://wetterkanal.kachelmannwetter.com/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.0.3' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://wetterkanal.kachelmannwetter.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wetterkanal.kachelmannwetter.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://wetterkanal.kachelmannwetter.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+    </head>
+    <body class="de">
+
+        <div class="wrap">
+            <div class="kw-wrapper">
+                <nav id="w0" class="navbar navbar-fixed-top navbar-own" role="navigation">
+                    <div class="container"><div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w0-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div id="w0-collapse" class="collapse navbar-collapse">
+                            <div id="navbar-top" class="navbar2-own">
+                                <div class="navbar-top-header">
+
+                                    <div class="navbar2-brand navbar2-brand-image">
+                                        <a href="/">
+                                            <img src="/wp-content/themes/wetterkanal/images/wetterkanal-logo-lang.png" alt="kachelmann Wetterkanal"/>
+                                        </a>
+                                    </div>
+                                    <div class="navbar2-right navbar2-w-channel">
+                                        <div class="navbar2-w-channel">
+                                            <a href="https://kachelmannwetter.com/">&raquo; zu kachelmannwetter.com</a>
+                                        </div>
+                                        <div class="navbar2-right navbar2-search">
+
+                                            <form id="forecast-form-nav" action="/" method="get">
+                                                <div class="input-group">
+                                                    <div class="input-group-btn input-search">
+                                                        <input class="ffnav-input search-autocomplete" name="s"
+                                                               id="forecast-input-nav" autocomplete="off"
+                                                               placeholder="Beiträge suchen" />
+                                                    </div>
+                                                    <span class="input-group-addon pointer ffnav-btn-search" onclick="formsubmit('forecast-form-nav');"
+                                                          title="Suchen"><span class="kwicons5 kwicons-search-2"></span></span>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="navbar2-severe" id="severe-icon" data-ts=""></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+                <nav id="w3" class="navbar2 navbar2-fixed-top navbar" role="navigation">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w3-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/"></a>
+                            <div class="navbar2-brand navbar2-brand-image">
+                                <a href="/">
+                                    <img src="/wp-content/themes/wetterkanal/images/wetterkanal-logo-lang.png" alt="kachelmann Wetter"/>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div id="w3-collapse" class="collapse navbar-collapse">
+                            <div id="navbar-bottom" class="navbar2-bottom">
+                                <div class="navbar-top-header">
+                                    <ul id="m-zwei" class="navbar-nav nav">
+                                        <li class="visible-xs">
+                                            <form id="forecast-form-nav-2" action="/" method="get">
+                                                <div class="input-group inner-menue">
+                                                    <div class="input-group-btn input-search">
+                                                        <input class="ffnav-input search-autocomplete" name="s"
+                                                               id="forecast-input-nav-2" autocomplete="off"
+                                                               placeholder="Beiträge suchen" />
+                                                    </div>
+                                                    <span class="input-group-addon pointer ffnav-btn-search" onclick="formsubmit('forecast-form-nav-2');"
+                                                          title="Suchen"><span class="kwicons5 kwicons-search-2"></span></span>
+                                                </div>
+                                            </form>
+                                        </li>
+                                        <li>
+                                            <a href="/">Startseite</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="dropdown-toggle" href="/" data-toggle="dropdown">Kategorien <b class="caret"></b></a>
+                                            <ul id="m-cats" class="dropdown-menu">
+                                                <li><a href="/category/wetter-deutschland/" tabindex="-1">Wetter Deutschland</a></li>
+                                                <li><a href="/category/unwetter-deutschland/" tabindex="-1">Unwetter Deutschland</a></li>
+                                                <li><a href="/category/wetter-unwetter-weltweit/" tabindex="-1">Wetter &amp; Unwetter weltweit</a></li>
+                                                <li><a href="/category/rueckblicke-analysen/" tabindex="-1">Rückblicke &amp; Analysen</a></li>
+                                                <li><a href="/category/klima/" tabindex="-1">Klima</a></li>
+                                                <li><a href="/category/tropenstuerme/" tabindex="-1">Tropenstürme</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="/category/news/" tabindex="-1">Live-Ticker</a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/wettervideos/">Videos</a>
+                                        </li>
+                                        <li>
+                                            <a href="/wetterlexikon-a-z/"><span class="out-sm">Wetterlexikon</span> <span class="in-sm">Lexikon</span></a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="dropdown-toggle" href="https://kachelmannwetter.com" data-toggle="dropdown"><span class="out-sm">Kachelmannwetter.com </span> <span class="in-sm">Kachelmannwetter</span><b class="caret"></b></a>
+                                            <ul id="m-kmw" class="dropdown-menu">
+                                                <li><a href="https://kachelmannwetter.com/de/wetter" tabindex="-1">Wettervorhersage für jeden Ort</a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/modellkarten" tabindex="-1">Modellkarten</a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/info/unwetter" tabindex="-1">Gewitter &amp; Unwetter</a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/messwerte" tabindex="-1">Messwerte</a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/info/niederschlagsradar" tabindex="-1">Niederschlagsradar</a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/info/blitzortung" tabindex="-1">Blitzanalyse &amp; Blitzortung </a></li>
+                                                <li><a href="https://kachelmannwetter.com/de/sat/europa" tabindex="-1">Satellitenbilder</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="dropdown-toggle" href="/ueberuns/" data-toggle="dropdown">Das Team <b class="caret"></b></a>
+                                            <ul id="m-auth" class="dropdown-menu">
+                                                <li><a href="/ueberuns/" tabindex="-1">Über uns...</a></li>
+                                                <li><a href="/author/kachelmann/" tabindex="-1">alle Beiträge von Jörg</a></li>
+                                                <li><a href="/author/peter/" tabindex="-1">alle Beiträge von Peter</a></li>
+                                                <li><a href="/author/clemens/" tabindex="-1">alle Beiträge von Clemens</a></li>
+                                                <li><a href="/author/fabian/" tabindex="-1">alle Beiträge von Fabian</a></li>
+                                                <li><a href="/author/lars/" tabindex="-1">alle Beiträge von Lars</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+                <div id="content-start"></div>
+                <div class="dkpw-billboard-margin">
+                    <div class="dkpw mdcss-mobile md-center "><div class="str-tm strpub" id="e08bc586184cee2" data-type="topmobile" data-sizes="300x50,320x50,300x75,320x75,300x100,320x100,300x150,320x150,300x250,300x300,336x280,320x480,320x481,300x600" data-remove-sizes=""></div></div>
+                    <div class="dkpw dkpw-billboard mdcss-tablet mdcss-desktop"><div class="str-ba strpub" id="e08bc58429db285" data-type="banner" data-sizes="728x90,888x90,970x90,728x180,770x250,800x250,970x250" data-remove-sizes=""></div></div>
+                </div>
+                <div class="kw-content"></div>
+                <div class="kw-ad-right">
+                    <div class="dkpw dkpw-abp dkpw-startseite dkpw-left">
+                        <div class="dkpw str-ahp">
+                            <div class="str-sk str-sk-1 strpub" id="e08bc585f93f983" data-type="sky" data-sizes="120x600,160x600,200x600,300x600,500x600" data-remove-sizes=""></div>
+                        </div>
+                        <div class="dkpw str-aws">
+                            <div class="str-sk str-sk-1 strpub" id="e08bc58698d51a1" data-type="sky" data-sizes="120x600,160x600" data-remove-sizes="200x600,300x600,500x600"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="kw-layout-wrapper">
+                    <div class="kw-content-wrapper" id="top-wrapper">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="kw-site">
+
+
+<div class="row">
+    <div class="col-md-8">
+        <div id="page">
+            <div class="sidebar-with-content">
+                <div class="article">
+                    <div id="content_box">
+                        <h1 class="postsby">Seite nicht gefunden  </h1>
+                        <article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/grosswetterlage-ueber-europa-bleibt-eingefahren-wettertrend-fuer-naechste-woche/" title="Großwetterlage über Europa bleibt eingefahren &#8211; Wettertrend für nächste Woche" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/nature-3725725_1280-180x180.jpg" alt="Großwetterlage über Europa bleibt eingefahren &#8211; Wettertrend für nächste Woche" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/nature-3725725_1280-300x200.jpg" alt="Großwetterlage über Europa bleibt eingefahren &#8211; Wettertrend für nächste Woche" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/grosswetterlage-ueber-europa-bleibt-eingefahren-wettertrend-fuer-naechste-woche/" title="Großwetterlage über Europa bleibt eingefahren &#8211; Wettertrend für nächste Woche">Großwetterlage über Europa bleibt eingefahren &#8211; Wettertrend für nächste Woche</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Das Hoch vom Wochenende zieht sich in der nächsten Woche erneut weiter nach Osteuropa zurück. Damit können auch meist schwache Tiefausläufer übergreifen und mit auffrischendem Wind erreicht uns für November [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/fabian/" title="Beiträge von Fabian Ruhnau" rel="author">Fabian Ruhnau</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">9. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/grosswetterlage-ueber-europa-bleibt-eingefahren-wettertrend-fuer-naechste-woche/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/grosses-hoch-kleiner-spielverderber/" title="Großes Hoch, kleiner Spielverderber" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/muhlviertel-g081d03583_1920-180x180.jpg" alt="Großes Hoch, kleiner Spielverderber" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/muhlviertel-g081d03583_1920-300x200.jpg" alt="Großes Hoch, kleiner Spielverderber" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/grosses-hoch-kleiner-spielverderber/" title="Großes Hoch, kleiner Spielverderber">Großes Hoch, kleiner Spielverderber</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Noch sorgt ein Tiefausläufer für unbeständiges gebietsweise nasses Herbst. Ab morgen baut sich dann ein kräftiges Hochdruckgebiet über Mitteleuropa auf, dass zunächst alle Tiefausläufer von uns fern hält und für [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">9. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/grosses-hoch-kleiner-spielverderber/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/kaltlufttropfen-bringt-unsicherheit-beim-wochenendwetter-naechste-woche-naehern-sich-atlantiktiefs/" title="Kaltlufttropfen bringt Unsicherheit beim Wochenendwetter &#8211; nächste Woche nähern sich Atlantiktiefs" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/clouds-g692eb981d_1280-180x180.jpg" alt="Kaltlufttropfen bringt Unsicherheit beim Wochenendwetter &#8211; nächste Woche nähern sich Atlantiktiefs" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/clouds-g692eb981d_1280-300x200.jpg" alt="Kaltlufttropfen bringt Unsicherheit beim Wochenendwetter &#8211; nächste Woche nähern sich Atlantiktiefs" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/kaltlufttropfen-bringt-unsicherheit-beim-wochenendwetter-naechste-woche-naehern-sich-atlantiktiefs/" title="Kaltlufttropfen bringt Unsicherheit beim Wochenendwetter &#8211; nächste Woche nähern sich Atlantiktiefs">Kaltlufttropfen bringt Unsicherheit beim Wochenendwetter &#8211; nächste Woche nähern sich Atlantiktiefs</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Ein kleiner Kaltlufttropfen könnte am Sonntag den Westen und Südwesten Deutschlands beeinflussen. Sonst dominiert am Wochenende ein kräftiges Hoch. In der nächsten Woche gelangen wir an die Vorderseite atlantischer Tiefs. [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/fabian/" title="Beiträge von Fabian Ruhnau" rel="author">Fabian Ruhnau</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">8. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/kaltlufttropfen-bringt-unsicherheit-beim-wochenendwetter-naechste-woche-naehern-sich-atlantiktiefs/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/noch-ein-tiefauslaeufer-dann-kommt-das-grosse-hoch-mit-kleinem-ei/" title="Noch ein Tiefausläufer &#8211; dann kommt das große Hoch (mit kleinem Ei?)" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/castle-3940379_1920-180x180.jpg" alt="Noch ein Tiefausläufer &#8211; dann kommt das große Hoch (mit kleinem Ei?)" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/castle-3940379_1920-300x200.jpg" alt="Noch ein Tiefausläufer &#8211; dann kommt das große Hoch (mit kleinem Ei?)" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/noch-ein-tiefauslaeufer-dann-kommt-das-grosse-hoch-mit-kleinem-ei/" title="Noch ein Tiefausläufer &#8211; dann kommt das große Hoch (mit kleinem Ei?)">Noch ein Tiefausläufer &#8211; dann kommt das große Hoch (mit kleinem Ei?)</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Nach einem oft noch freundlichen und sehr milden Dienstag zieht bis Donnerstag noch ein schwacher Tiefausläufer durch. Dahinter baut sich dann ein kräftiges Hoch über Mitteleuropa auf. Es könnte uns [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">8. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/noch-ein-tiefauslaeufer-dann-kommt-das-grosse-hoch-mit-kleinem-ei/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/herbstliches-hoch-kommt-atlantiktiefs-vorerst-auf-abstand/" title="Herbstliches Hoch kommt &#8211; Atlantiktiefs vorerst auf Abstand" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/road-g4895f846f_1280-180x180.jpg" alt="Herbstliches Hoch kommt &#8211; Atlantiktiefs vorerst auf Abstand" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/road-g4895f846f_1280-300x200.jpg" alt="Herbstliches Hoch kommt &#8211; Atlantiktiefs vorerst auf Abstand" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/herbstliches-hoch-kommt-atlantiktiefs-vorerst-auf-abstand/" title="Herbstliches Hoch kommt &#8211; Atlantiktiefs vorerst auf Abstand">Herbstliches Hoch kommt &#8211; Atlantiktiefs vorerst auf Abstand</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Ab Donnerstag setzt sich ein kräftiges Hoch in Deutschland durch. Es bleibt uns über das Wochenende erhalten und wird uns kühle Nächte und vergleichsweise milde Tage bringen. Lediglich in örtlichem [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/fabian/" title="Beiträge von Fabian Ruhnau" rel="author">Fabian Ruhnau</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">7. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/herbstliches-hoch-kommt-atlantiktiefs-vorerst-auf-abstand/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/neue-woche-und-schon-wieder-neue-mildluft/" title="Neue Woche und schon wieder neue Mildluft" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/forest-3796941_1920-180x180.jpg" alt="Neue Woche und schon wieder neue Mildluft" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/forest-3796941_1920-300x225.jpg" alt="Neue Woche und schon wieder neue Mildluft" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/neue-woche-und-schon-wieder-neue-mildluft/" title="Neue Woche und schon wieder neue Mildluft">Neue Woche und schon wieder neue Mildluft</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Zum Wochenbeginn erreichen uns mit südwestlicher Strömung erneut ungewöhnlich milde Luftmassen mit einem Höhepunkt am morgigen Dienstag. Die Tiefausläufer haben dabei weiter wenig zu melden und in der zweiten Wochenhälfte [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">7. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/neue-woche-und-schon-wieder-neue-mildluft/#comments" itemprop="interactionCount">2 Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/viel-mild-viel-hoch-und-wenig-regen-dienstag-bis-nahe-20-grad/" title="Viel mild, viel Hoch und wenig Regen &#8211; Dienstag bis nahe 20 Grad" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/trees-5809559_1920-180x180.jpg" alt="Viel mild, viel Hoch und wenig Regen &#8211; Dienstag bis nahe 20 Grad" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/trees-5809559_1920-300x200.jpg" alt="Viel mild, viel Hoch und wenig Regen &#8211; Dienstag bis nahe 20 Grad" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/viel-mild-viel-hoch-und-wenig-regen-dienstag-bis-nahe-20-grad/" title="Viel mild, viel Hoch und wenig Regen &#8211; Dienstag bis nahe 20 Grad">Viel mild, viel Hoch und wenig Regen &#8211; Dienstag bis nahe 20 Grad</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>In der neuen Woche wird es mal wieder deutlich zu mild mit einem Höhepunkt am Dienstag. In der zweiten Wochenhälfte baut sich dann ein umfangreiches und kräftiges Hoch über Mitteleuropa [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">6. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/viel-mild-viel-hoch-und-wenig-regen-dienstag-bis-nahe-20-grad/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/am-sonntag-ruhiges-herbstwetter-naechste-woche-wieder-zu-warm-fuer-die-jahreszeit/" title="Am Sonntag ruhiges Herbstwetter &#8211; nächste Woche wieder zu warm für die Jahreszeit!" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/Bildschirm­foto-2022-11-05-um-10.18.43-180x180.png" alt="Am Sonntag ruhiges Herbstwetter &#8211; nächste Woche wieder zu warm für die Jahreszeit!" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/Bildschirm­foto-2022-11-05-um-10.18.43-300x155.png" alt="Am Sonntag ruhiges Herbstwetter &#8211; nächste Woche wieder zu warm für die Jahreszeit!" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/am-sonntag-ruhiges-herbstwetter-naechste-woche-wieder-zu-warm-fuer-die-jahreszeit/" title="Am Sonntag ruhiges Herbstwetter &#8211; nächste Woche wieder zu warm für die Jahreszeit!">Am Sonntag ruhiges Herbstwetter &#8211; nächste Woche wieder zu warm für die Jahreszeit!</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Mehr dazu bei unserem neuen Video: Mehr Infos zum Wetter: https://kachelmannwetter.com/de 14 Tage Trend: https://kachelmannwetter.com/de/vorhersage/14-tage-trend</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/clemens/" title="Beiträge von Clemens Grohs" rel="author">Clemens Grohs</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">5. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/am-sonntag-ruhiges-herbstwetter-naechste-woche-wieder-zu-warm-fuer-die-jahreszeit/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/wettertrend-auf-milde-luftmassen-und-wechselhaftes-wetter-folgt-ein-kraeftiges-hoch/" title="Wettertrend: Auf milde Luftmassen und wechselhaftes Wetter folgt ein kräftiges Hoch" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/10/autumn-3804001_1920-180x180.jpg" alt="Wettertrend: Auf milde Luftmassen und wechselhaftes Wetter folgt ein kräftiges Hoch" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/10/autumn-3804001_1920-300x200.jpg" alt="Wettertrend: Auf milde Luftmassen und wechselhaftes Wetter folgt ein kräftiges Hoch" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/wettertrend-auf-milde-luftmassen-und-wechselhaftes-wetter-folgt-ein-kraeftiges-hoch/" title="Wettertrend: Auf milde Luftmassen und wechselhaftes Wetter folgt ein kräftiges Hoch">Wettertrend: Auf milde Luftmassen und wechselhaftes Wetter folgt ein kräftiges Hoch</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>In der nächsten Wochen erreicht uns erneut sehr milde Luft für November, dazu wird es unbeständig und windig. Anschließend baut sich in der zweiten Wochenhälfte ein mächtiges Hoch über großen [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/fabian/" title="Beiträge von Fabian Ruhnau" rel="author">Fabian Ruhnau</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">4. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/wettertrend-auf-milde-luftmassen-und-wechselhaftes-wetter-folgt-ein-kraeftiges-hoch/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/von-kaelteren-naechten-zaehem-nebel-und-einem-ex-hurrikan/" title="Von kälteren Nächten, zähem Nebel und einem Ex-Hurrikan" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/burg-eltz-4796170_1920-180x180.jpg" alt="Von kälteren Nächten, zähem Nebel und einem Ex-Hurrikan" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/burg-eltz-4796170_1920-300x200.jpg" alt="Von kälteren Nächten, zähem Nebel und einem Ex-Hurrikan" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/von-kaelteren-naechten-zaehem-nebel-und-einem-ex-hurrikan/" title="Von kälteren Nächten, zähem Nebel und einem Ex-Hurrikan">Von kälteren Nächten, zähem Nebel und einem Ex-Hurrikan</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Die nächsten Tage sind gekennzeichnet von etwas kälterer Luft, die uns hinter einer Kaltfront erreicht. Damit werden vor allem die Nächte auch frischer, tagsüber wird sich am Wochenende nahezu überall [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">4. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/von-kaelteren-naechten-zaehem-nebel-und-einem-ex-hurrikan/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/neues-wetter-entlastungspakt-mittelfristig-wohl-maechtiges-hoch-ueber-europa/" title="Neues Wetter-Entlastungspakt &#8211; mittelfristig wohl mächtiges Hoch über Europa" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/IJ7E7OOV-180x180.jpg" alt="Neues Wetter-Entlastungspakt &#8211; mittelfristig wohl mächtiges Hoch über Europa" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/IJ7E7OOV-300x235.jpg" alt="Neues Wetter-Entlastungspakt &#8211; mittelfristig wohl mächtiges Hoch über Europa" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/neues-wetter-entlastungspakt-mittelfristig-wohl-maechtiges-hoch-ueber-europa/" title="Neues Wetter-Entlastungspakt &#8211; mittelfristig wohl mächtiges Hoch über Europa">Neues Wetter-Entlastungspakt &#8211; mittelfristig wohl mächtiges Hoch über Europa</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>In der nächsten Wochen erreicht uns erneut sehr milde Luft für November, dazu wird es unbeständig und windig. Anschließend baut sich in der zweiten Wochenhälfte wohl ein mächtiges Hoch über [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/fabian/" title="Beiträge von Fabian Ruhnau" rel="author">Fabian Ruhnau</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">3. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/neues-wetter-entlastungspakt-mittelfristig-wohl-maechtiges-hoch-ueber-europa/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/so-richtig-herbst-will-nicht/" title="So richtig Herbst will nicht" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/landscape-4018379_1920-180x180.jpg" alt="So richtig Herbst will nicht" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/landscape-4018379_1920-300x200.jpg" alt="So richtig Herbst will nicht" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/so-richtig-herbst-will-nicht/" title="So richtig Herbst will nicht">So richtig Herbst will nicht</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Von Westen her erreicht uns eine Kaltfront, die vorübergehend mal richtiges Herbstwetter mit Regenfällen und einem Temperaturrückgang bringt. Zum Wochenende beruhigt sich das Wetter aber wieder und nächste Woche dreht [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">3. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/so-richtig-herbst-will-nicht/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<article class="item-list" itemtype="http://schema.org/BlogPosting">
+    <a href="https://wetterkanal.kachelmannwetter.com/freitag-dann-endlich-mal-richtig-herbst/" title="Freitag dann endlich mal richtig Herbst" rel="nofollow" class="post-image post-image-left">
+        <div class="featured-thumbnail hidden-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/lake-g67ab91320_1920-180x180.jpg" alt="Freitag dann endlich mal richtig Herbst" /></div><div class="medium-thumbnail visible-xs"><img src="https://wetterkanal.kachelmannwetter.com/wp-content/uploads/2022/11/lake-g67ab91320_1920-300x199.jpg" alt="Freitag dann endlich mal richtig Herbst" /></div>
+    </a>
+    <header>
+        <h2 class="title front-view-title" itemprop="headline"><a href="https://wetterkanal.kachelmannwetter.com/freitag-dann-endlich-mal-richtig-herbst/" title="Freitag dann endlich mal richtig Herbst">Freitag dann endlich mal richtig Herbst</a></h2>
+    </header>
+    <div class="front-view-content">
+        <p>Im Norden gibt es heute unbeständiges und sehr windiges Schauerwetter. Sonst ändert sich erst einmal wenig an dem ruhigen und milden Herbstwetter. Freitag sorgt dann eine Tiefdruckzone für gebietsweise viel [&hellip;]</p>
+    </div>
+    <div class="post-info post-info-list">
+        <span class="theauthor">von <span itemprop="author"><a href="https://wetterkanal.kachelmannwetter.com/author/lars/" title="Beiträge von Lars Dahlstrom" rel="author">Lars Dahlstrom</a> <span class="divider1">/</span></span></span>
+        <span class="thetime updated"><span itemprop="datePublished">2. November 2022 <span class="divider1">/</span></span></span>
+        <span class="thecomment"><a rel="nofollow" href="https://wetterkanal.kachelmannwetter.com/freitag-dann-endlich-mal-richtig-herbst/#respond" itemprop="interactionCount">Keine Kommentare</a></span>
+    </div>
+    <div class="clear"></div>
+</article>
+<div class="pagination pagination-numeric"><a href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers" class="btn btn-default inactive">1</a><a href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers/page/2/" class="btn btn-info inactive">2</a><a href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers/page/3/" class="btn btn-info inactive">3</a><a href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers/page/4/" class="btn btn-info inactive">4</a><a href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers/page/2/" class="btn btn-info inactive">Weiter &rsaquo;</a><a class="btn btn-info inactive" href="https://wetterkanal.kachelmannwetter.com/api/v1/instance/peers/page/647/">Letzte &raquo;</a></div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+
+<div class="row hidden-sm dkpw">
+    <div class="col-xs-12">
+        <div class="col-xs-12 grey-div">
+            <h4>Individuelle Unwetterwarnungen von Kachelmannwetter auf Ihrem Smartphone?</h4>
+            <a href="https://meteosafe.com/">
+                <img src="//kachelmannwetter.com/images/layout/meteosafe/meteosafe-logo.png" alt="Meteosafe - Unwetterwarnungen" class="meteosafe-logo">
+            </a>
+            <p>Mit einem Account auf unserer Meteosafe-Website können Sie
+                benachrichten lassen, wenn sich ein Unwetter Ihrem
+                festgelegten Standort nähert. Sie können sich sowohl
+                automatisiert vorabinformieren lassen, wenn die Modelle
+                bestimmte Ereignisse für ihren Ort für möglich halten, wie bspw.
+                Sturm, Schneefall oder Eisregen, aber auch natürlich dann,
+                wenn es tatsächlich ernst wird und Gewitter zu Ihnen
+                unterwegs sind, es in Ihrem Bereich zu Aquaplaning kommen
+                kann oder Sturzflutgefahr herrscht.</p>
+            <p>Die Benachrichtigung kann über verschiedene Kanäle erfolgen.
+                    Standardmäßig per E-Mail, per kostenpflichtiger SMS oder mit einem
+                    Abo der <a href="https://pflotsh.com/de/storm.html" target="_blank">Pflotsh Storm App</a>
+                    (für <a href="https://play.google.com/store/apps/details?id=com.garzotto.pflotsh.storm_a" target="_blank">Android</a> und
+                    <a href="https://itunes.apple.com/ch/app/pflotsh-storm/id1320763970?mt=8#" target="_blank">iOS</a>) auch direkt
+                    per Pushnachricht auf dem
+                    Smartphone.</p>
+            <p>
+                <a class="btn btn-search btn-margin" href="https://meteosafe.com" target="_blank">Zu&nbsp;Meteosafe.com</a>
+                <a class="btn btn-search btn-margin" href="https://pflotsh.com/de/storm.html" target="_blank">Zur&nbsp;Pflotsh&nbsp;Storm&nbsp;App</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="spacer-lh-2"></div><div class="dkpw dkpw-abp mdcss-desktop-large">
+<div class="str-rt strpub" id="kmw-rec-80ef7c051" data-type="rectangle" data-sizes="300x100,320x100,300x150,320x150,300x250,300x300,336x280,320x480,320x481" data-remove-sizes="300x50,320x50,300x75,320x75,300x600"></div></div>
+<h3 class="head-line uppercase absatz-xs absatz-sm">Unsere Meteorologen</h3>
+<div class="row">
+    <div class="col-xs-6 col-sm-3 col-md-12">
+        <!-- Jörg Start -->
+        <div class="clear">
+            <div class="post-info foto">
+                <a href="/author/kachelmann/" title="Meteorologe Jörg"><img alt="Jörg Kachelmann" src="//wetterkanal.kachelmannwetter.com/wp-content/uploads/userphoto/33.jpg" border="0" height="100" width="100" style="border-radius: 50%;"></a>
+            </div>
+            <div class="post-info meteorologe">
+                <a href="/author/kachelmann/" title="Meteorologe Jörg Kachelmann">Jörg</a>
+            </div>
+        </div>
+        <!-- Jörg Ende -->
+    </div>
+    <div class="col-xs-6 col-sm-3 col-md-12">
+        <!-- Peter Start -->
+        <div class="clear">
+            <div class="post-info foto">
+                <a href="/author/peter/" title="Meteorologe Peter"><img alt="Peter Hinteregger" src="//wetterkanal.kachelmannwetter.com/wp-content/uploads/userphoto/62.jpg" border="0" height="100" width="100" style="border-radius: 50%;"></a>
+            </div>
+            <div class="post-info meteorologe">
+                <a href="/author/peter/" title="Meteorologe Peter Hinteregger">Peter</a>
+            </div>
+        </div>
+        <!-- Peter Ende -->
+    </div>
+    <div class="col-xs-6 col-sm-3 col-md-12">
+        <!-- Clemens Start -->
+        <div class="clear">
+            <div class="post-info foto">
+                <a href="/author/clemens/" title="Meteorologe Clemens"><img alt="Clemens Grohs" src="//wetterkanal.kachelmannwetter.com/wp-content/uploads/userphoto/63.jpg" border="0" height="100" width="100" style="border-radius: 50%;"></a>
+            </div>
+            <div class="post-info meteorologe">
+                <a href="/author/clemens/" title="Meteorologe Clemens Grohs">Clemens</a>
+            </div>
+        </div>
+        <!-- Clemens Ende -->
+    </div>
+    <div class="col-xs-6 col-sm-3 col-md-12">
+        <!-- Fabian Start -->
+        <div class="clear">
+            <div class="post-info foto">
+                <a href="/author/fabian/" title="Meteorologe Fabian"><img alt="Fabian Ruhnau" src="//wetterkanal.kachelmannwetter.com/wp-content/uploads/userphoto/53.jpg" border="0" height="100" width="100" style="border-radius: 50%;"></a>
+            </div>
+            <div class="post-info meteorologe">
+                <a href="/author/fabian/" title="Meteorologe Fabian Ruhnau">Fabian</a>
+            </div>
+        </div>
+        <!-- Fabian Ende -->
+    </div>
+    <div class="col-xs-6 col-sm-3 col-md-12">
+        <!-- Lars Start -->
+        <div class="clear">
+            <div class="post-info foto">
+                <a href="/author/lars/" title="Meteorologe Lars "><img alt="Lars Dahlstrom" src="//wetterkanal.kachelmannwetter.com/wp-content/uploads/userphoto/66.jpg" border="0" height="100" width="100" style="border-radius: 50%;"></a>
+            </div>
+            <div class="post-info meteorologe">
+                <a href="/author/lars/" title="Meteorologe Lars Dahlstrom">Lars</a>
+            </div>
+        </div>
+        <!-- Lars Ende -->
+    </div>
+</div>
+<div class="spacer-lh-2"></div>
+<div class="dkpw mdcss-desktop-large">
+    <div class="str-rt strpub" id="kmw-rec-80ef7c052" data-type="rectangle2" data-sizes="300x250,300x300,336x280,320x480,320x481,300x600" data-remove-sizes="300x100,320x100,300x150,320x150,300x50,320x50,300x75,320x75"></div>
+</div>
+    </div>
+</div>
+
+                                </div>
+                            </div>
+                        </div>
+                                                    <div class="dkpw mdcss-desktop-large">
+                                <div class="str-ba strpub" id="wk-pubp-asdasd" data-type="pubperform" data-sizes="970x250" data-remove-sizes=""></div>
+                            </div>
+                            <div class="dkpw mdcss-tablet mdcss-desktop-small row">
+                                <div class="str-is strpub" id="wk-bn3-b6dd32" data-type="pubperform" data-sizes="970x250" data-remove-sizes=""></div>
+                            </div>
+                                            </div>
+                </div>
+                                <div class="breaker"></div>
+            </div>
+        </div>
+
+
+        <div id="strpub-domain" data-value="true"></div>
+        <div id="strpub-zone" data-value="rest"></div>
+
+                    <div class="dkpw mdcss-mobile str-sf-outer mdcss-sf-hide" id="mdcss-sf">
+                <div class="kmw-mdcss-sfclose"></div>
+                <div class="str-sf strpub" id="e08bc58af36882d" data-type="stickyfooter" data-sizes="320x50" data-remove-sizes=""></div>
+            </div>
+                    <div class="dkpw mdcss-tablet mdcss-desktop mdcss-desktop-large mdcss-desktop-small">
+            <div class="str-oop strpub" id="e08bc582134e4d1" data-type="out_of_page" data-sizes="1x1,2x1" data-remove-sizes=""></div>
+
+        </div>
+                        <footer class="footer2">
+            <div class="footer2-top">
+                <div class="container">
+                    <div class="footer-width">
+                        &nbsp;
+                    </div>
+                </div>
+            </div>
+            <div class="footer2-bottom">
+                <div class="container">
+                    <div class="footer-width">
+                        <div class="footer-right">
+                            <a href="https://facebook.com/kachelmannwetter" target="_blank">
+                                <div class="footer-social">
+                                    <div class="footer-social-icon footer-facebook"></div>
+                                    <div class="footer-social-text">Kachelmannwetter</div>
+                                </div>
+                            </a>
+                            <a href="https://twitter.com/kachelmannwettr" target="_blank">
+                                <div class="footer-social">
+                                    <div class="footer-social-icon footer-twitter"></div>
+                                    <div class="footer-social-text">@kachelmannwettr</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="footer-left">
+                            <div class="footer-left-top">
+                                <a href="https://kachelmannwetter.com/de/info/wetter-app-kachelmann">Wetter-Apps für iOS &amp; Android</a>
+                            </div>
+                            <a href="/datenschutz/">Datenschutz</a> &nbsp;
+                            <a class="pointer" onclick="window._sp_.gdpr.loadPrivacyManagerModal(624647);">Privacy-Manager</a> <br />
+                            <a href="/kontakt/">Kontakt</a> <br class="in-xs" /><span class="out-xs">&nbsp;</span>
+                            <a href="/impressum/">Impressum</a>                </div>
+                        <div class="footer-copyright">
+                            <p>&copy;&nbsp;2021&nbsp;Kachelmann&nbsp;GmbH</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script src="/wp-content/themes/wetterkanal/js/jquery.js"></script>
+        <script src="/wp-content/themes/wetterkanal/js/bootstrap.js"></script>
+        <script type="text/javascript" src="/wp-content/themes/wetterkanal/js/function.js?v=pur_1.0"></script>
+
+        <div id="ga-code" data-value="UA-63122815-2"></div>
+        <div id="mt-zone" data-value="rest"></div>
+        
+    </body>
+</html>
+
+0
+

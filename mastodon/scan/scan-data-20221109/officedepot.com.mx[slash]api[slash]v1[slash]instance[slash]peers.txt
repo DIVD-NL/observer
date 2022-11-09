@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 76777f6f4de0b9ad-BRU
+Date: Wed, 09 Nov 2022 15:14:23 GMT
+Expires: Wed, 09 Nov 2022 16:14:23 GMT
+Location: http://www.officedepot.com.mx/api/v1/instance/peers
+Server: cloudflare
+Server-Timing: cf-q-config;dur=1.4000001101522e-05
+Set-Cookie: __cf_bm=Im7nTcpCLd7G8u8JQRkDQuDOQ3p83MWW6aLZ9dctoOo-1668006863-0-ASUqBjwVJOQe8MhXhL2U7apmqXtVl56BXihcey6ay7fxjlY6xDJcSDSC26gRupXkGlGUxl9OVWR7bOj2F68i7Os=; path=/; expires=Wed, 09-Nov-22 15:44:23 GMT; domain=.officedepot.com.mx; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+
+0
+

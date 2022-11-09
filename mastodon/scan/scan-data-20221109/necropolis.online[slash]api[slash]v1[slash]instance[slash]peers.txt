@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 341
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:14:04 GMT
+Location: http://nc.necropolis.online/api/v1/instance/peers
+Server: Apache/2.4.38 (Debian)
+Strict-Transport-Security: max-age=63072000; preload
+X-Content-Type-Options: nosniff
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://nc.necropolis.online/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache/2.4.38 (Debian) Server at necropolis.online Port 443</address>
+</body></html>

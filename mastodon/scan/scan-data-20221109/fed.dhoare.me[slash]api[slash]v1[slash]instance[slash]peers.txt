@@ -1,0 +1,108 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:55 GMT
+Link: <https://fed.dhoare.me/main/amcd.json>; rel="acct-mgmt"; type="application/json"
+Permissions-Policy: interest-cohort=()
+Server: Apache
+Upgrade: h2,h2c
+X-Account-Management-Status: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+1154
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_GB" lang="en_GB">
+ <head>
+  <title>Not Found - Delilah's Federative Social Instance</title>
+  <link rel="shortcut icon" href="https://fed.dhoare.me/theme/neo-quitter/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/theme/base/css/display.css?version=2.0.0-beta0" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/theme/neo-quitter/css/display.css?version=2.0.0-beta0" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/MobileProfile/mp-screen.css" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/theme/neo-quitter/css/mp-screen.css?version=2.0.0-beta0" media="screen"/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/MobileProfile/mp-handheld.css" media="handheld"/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/Embed/css/embed.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=2.0.0-beta0" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://fed.dhoare.me/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://fed.dhoare.me/opensearch/people" title="Delilah's Federative Social Instance People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://fed.dhoare.me/opensearch/notice" title="Delilah's Federative Social Instance Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://fed.dhoare.me/delilah">
+      <img class="logo u-photo p-name" src="https://fed.dhoare.me/theme/neo-quitter/logo.png" alt="Delilah's Federative Social Instance"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://fed.dhoare.me/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="nav_login">
+       <a href="https://fed.dhoare.me/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="page_notice" class="system_notice"></div>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://fed.dhoare.me/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://fed.dhoare.me/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>Delilah's Federative Social Instance</strong> is a social network. It runs on <a href="https://gnusocial.rocks/">GNU social</a>, version 2.0.0-beta0, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>Content and data copyright by contributors. All rights reserved.</p>
+    <p>
+     <a href="#" id="mobile-toggle-disable">Switch to desktop site layout.</a>
+    </p>
+   </div>
+  </div>
+ </body>
+<!-- 96ms --></html>
+
+0
+

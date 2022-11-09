@@ -1,0 +1,142 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Trailer: X-Pinterest-Sli-Streamed-Response-Type
+Akamai-Grn: 0.17b22917.1668007363.3c76d60
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Embedder-Policy-Report-Only: require-corp; report-to="coep-endpoint"
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="coop-endpoint"
+Date: Wed, 09 Nov 2022 15:22:43 GMT
+Link: <https://i.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://s.pinimg.com>; rel=preconnect; crossorigin=anonymous, <https://v.pinimg.com>; rel=preconnect; crossorigin=anonymous
+Pinterest-Generated-By: coreapp-webapp-prod-0a03edc6
+Pinterest-Version: d56f28e
+Referrer-Policy: origin
+Reporting-Endpoints: coop-endpoint="https://www.pinterest.com/_/_/coop_report/", coep-endpoint="https://www.pinterest.com/_/_/coep_report/"
+Set-Cookie: _routing_id="91c1598d-ef77-4b7c-864c-88a9ccdce4fb"; Max-Age=86400; Path=/; HttpOnly
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+Vary: User-Agent, Accept-Encoding
+X-Cdn: akamai
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 8
+X-Pinterest-Rid: 3431195544964006
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+92b
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><title>Pinterest - 404</title><meta name="viewport" id="viewport" content="width=device-width, initial-scale=1"/><style>html {
+  background: #f7f5f5;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+  Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica,
+  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック",
+  Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1 {
+  margin: 36px 0 11px;
+  font-size: 3em;
+}
+
+h2 {
+  padding: 0 0 8px;
+  font-size: 2.5em;
+}
+
+h1,
+h2 {
+  letter-spacing: -0.0125em;
+  font-weight: bold;
+}
+
+p {
+  margin: 0 0 .8em;
+  line-height: 1.35em;
+}
+
+a {
+  font-weight: bold;
+  color: #221919;
+  text-decoration: none;
+  outline: none;
+}
+
+a:hover {
+  color: currentColor;
+  text-decoration: underline;
+}
+
+@keyframes fadein {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+body {
+  font-size: 24px;
+  color: #b7aeb4;
+}
+
+body a.link,
+body h1,
+body p {
+  transition: opacity 0.5s ease-in-out;
+}
+
+.wrapper {
+  align-items: center;
+  display: flex;
+  margin: 100px 10px;
+  flex-direction: column;
+  text-align: center;
+}
+
+.badge {
+  align-items: center;
+  border-radius: 100%;
+  border: 10px solid #cac3c8;
+  color: #cac3c8;
+  display: flex;
+  font-size: 70px;
+  height: 200px;
+  justify-content: center;
+  width: 200px;
+}
+
+a.link {
+  animation: fadein 1.8s;
+  color: #cb2027;
+  font-weight: 600;
+  text-shadow: 0px 1px 2px white;
+}
+
+h1 {
+  animation: fadein 1.8s;
+  font-size: 24px;
+  text-shadow: 0px 1px 2px white;
+}
+
+img {
+  animation: fadein 1s;
+  height: 202px;
+  transition: opacity 1s ease-in-out;
+  width: 199px;
+}
+
+p {
+  animation: fadein 1.8s;
+  font-weight: normal;
+  font-weight: 200;
+  text-shadow: 0px 1px 2px white;
+}</style></head><body><div class="wrapper"><a href="/"><div class="badge">404</div></a><div><h1>Oops!</h1><p>The page you&#x27;re looking for could not be found.</p><a class="link" id="back" href="/">Go back?</a><script nonce="5e09525dd5ff3349c44da2c20fd14774">document.getElementById("back").addEventListener("click", function(e){ history.go(-1); e.preventDefault(); });</script></div></div></body></html>
+0
+

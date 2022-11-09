@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.inreach.net; img-src 'self' https: data: blob: https://mastodon.inreach.net; style-src 'self' https://mastodon.inreach.net 'nonce-gJGh37NK56A4VmkWCpSGPA=='; media-src 'self' https: data: https://mastodon.inreach.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.inreach.net; connect-src 'self' data: blob: https://mastodon.inreach.net https://s3-eu-central-1.amazonaws.com wss://mastodon.inreach.net; script-src 'self' https://mastodon.inreach.net; child-src 'self' blob: https://mastodon.inreach.net; worker-src 'self' blob: https://mastodon.inreach.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:29 GMT
+Etag: W/"a44baadf357c8a9aebbc9902110bfba7"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:05:00.941456Z
+X-Request-Id: 10efdef2-2ae6-435a-a664-40a8619df372
+X-Runtime: 0.008769
+X-Xss-Protection: 0
+
+51a
+["mastodon.radio","counter.social","mastodon.online","1210.nl","mastodon.lol","oslo.town","mastodon.social","hachyderm.io","techhub.social","bildung.social","ravenation.club","mstdn.seerr.dev","layer8.space","chaos.social","masto.ai","hcommons.social","bonn.social","econtwitter.net","indieweb.social","aus.social","lor.sh","eldritch.cafe","mastodon.ar.al","mastodontti.fi","h4.io","jaesharp.social","mastodon.cloud","infosec.exchange","socel.net","climatejustice.social","nerdculture.de","octodon.social","mastodon.green","mastodon.world","mastodon.scot","mastodon.nz","sfba.social","ieji.de","eupolicy.social","toot.community","dice.camp","mastodon.com.tr","pleroma.jamesp.org","mastodon.ie","mk.starnix.network","mastodon.sdf.org","theres.life","mindly.social","mk.chocoflan.net","linuxrocks.online","leafposter.club","cybercrusade.xyz","chudbuds.lol","mk.gabe.rocks","beefyboys.win","gly.one","sleepy.cafe","freespeechextremist.com","djsumdog.com","poa.st","rojogato.com","gleasonator.com","social.mrhands.horse","fediverse.pl","noc.social","mstdn.social","nicecrew.digital","seal.cafe","eveningzoo.club","pl.seahorse.sh","hub.natehiggers.online","social.anoxinon.de","nightshift.social","mstdn.starnix.network","mas.to","mastodon.technology","mastodonapp.uk","a.gup.pe","fosstodon.org","floss.social"]
+0
+

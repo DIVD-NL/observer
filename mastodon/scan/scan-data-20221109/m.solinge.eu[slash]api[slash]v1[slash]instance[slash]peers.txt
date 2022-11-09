@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: blob: ; object-src https: data: 'unsafe-inline'; style-src https: data: 'unsafe-inline' ; script-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:22 GMT
+Etag: W/"553fb98d4f77b78dc418b02985498748"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.941855Z
+X-Request-Id: b9095122-84fe-418a-ab49-0862e0389b59
+X-Runtime: 0.025348
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+bb3
+["1210.nl","m.brokep.com","mstdn.social","mastodon.bida.im","norden.social","mastodon.ar.al","mastodon.acc.umu.se","mastodon.1984.cz","floss.social","kif.rocks","uwu.social","activism.openworlds.info","bikeshed.party","pleroma.karjalazet.se","queer.hacktivis.me","aana.site","social.vrutkovs.eu","cofe.rocks","moparisthe.best","shitposter.club","freethinkers.lgbt","pleroma.nvk.pm","social.deadsuperhero.com","tooting.intensifi.es","social.yakshed.org","wandering.shop","mastodon.me.uk","mastodon.cloud","bitcoinhackers.org","mastodon.indie.host","queer.party","mastodon.infra.de","toot.berlin","phpc.social","xoxo.zone","tooting.ch","tech.lgbt","awoo.chown.me","social.tchncs.de","kosmos.social","social.frosch03.de","mstdn.jp","sunbeam.city","bunt.social","mabe.space","mastodon.konc.wtf","mastodon.sk","mastodon.earth","mathstodon.xyz","linuxrocks.online","mastodon.zachh.me","raru.re","cybre.space","framapiaf.org","toot.cafe","mastodont.cat","blob.cat","maly.io","soc.zom.bi","computerfairi.es","mastodon.laurakalbag.com","oc.todon.fr","mastodon.elte.hu","mastodon.gamedev.place","jenna.masto.host","mastodon.gougere.fr","literatur.social","toot.matereal.eu","mastodon.org.uk","flokinet.social","mastodon.fidonet.io","noagendasocial.com","links.potsda.mn","im-in.space","3dots.lv","mastodon.nzoss.nz","mastodon.sdf.org","hispagatos.space","pawoo.net","mastodon.toni.im","octodon.social","wake.st","mastodon.matrix.org","mastodon.fur.is","social.pmj.rocks","todon.nl","antinetzwerk.de","kolektiva.social","dresden.network","noc.social","pleroma.libretux.com","friendica.mrpetovan.com","mastodon.tedomum.net","unextro.net","w3c.social","todon.eu","chat.noelle.codes","elekk.xyz","mellow.town","cthonic.club","raggedfeathers.com","mastodon.technology","bsd.network","mastodon.acc.sunet.se","paypig.org","muenchen.social","hackers.town","social.wxcafe.net","social.wideboys.org","fex.techbio.eu","bildung.social","digipres.club","ausglam.space","mograph.social","ruhr.social","mastodon.lol","qoto.org","camp.smolnet.org","ioc.exchange","mastodon.art","merveilles.town","social.lol","mastodon.nl","suedi.club","hsnl.social","mastodonsweden.se","pouet.chapril.org","mastodonapp.uk","mastodon.world","piaille.fr","social.plux.wtf","eay.social","mastodon.scot","hoob.io","mastodon.xyz","freeradical.zone","mastodon.top","masto.pt","mastodon.neilzone.co.uk","mastodon.ie","mamot.fr","digitalcourage.social","pleroma.panoptikum.io","social.bau-ha.us","fosstodon.org","social.linux.pizza","aus.social","eldritch.cafe","toot.me.uk","post.lurk.org","chaos.social","gleasonator.com","pleroma.manicphase.me","mastodon.se","im.allmendenetz.de","fightforthefuture.org","mstdn.io","layer8.space","social.coop","bitcoin.ninja","mastodon.design","mastodon.coffee","masthead.social","social.ridetrans.it","mastodon.online","infosec.exchange","masto.ai","mastodon.social","mas.to","edi.social","twit.social","anticapitalist.party","mastodon.nu","bbq.snoot.com","botsin.space","icosahedron.website","sfba.social"]
+0
+

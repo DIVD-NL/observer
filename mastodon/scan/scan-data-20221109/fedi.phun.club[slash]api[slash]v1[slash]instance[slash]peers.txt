@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 2853
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization, Content-Type, Idempotency-Key
+Access-Control-Allow-Methods: POST, PUT, DELETE, GET, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-RateLimit-Reset, X-RateLimit-Limit, X-RateLimit-Remaining, X-Request-Id
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:51:41 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXyKqMgItyiRUgAAlJh
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+["octodon.social","towns.gay","mastodon.green","mastodon.beer","mastodon.cloud","toot.community","glasgow.social","uwu.social","mastodon.social","photog.social","amicale.net","queer.group","notnull.click","mamot.fr","climatejustice.global","hub.uckermark.social","fediscience.org","mastodon.la","social.zerotier.com","dcerberus.com","todon.nl","social.lol","writing.exchange","gruene.social","social.tchncs.de","hci.social","journa.host","nixnet.social","mastodon.nu","saturation.social","noc.social","mas.to","boitam.eu","mastodon.me.uk","social.secret-wg.org","masto.ai","elekk.xyz","oslo.town","aleph.land","waldvogel.family","mystic.lgbt","lor.sh","climatejustice.social","mastodon.ie","is.aaronbsmith.com","dan.mastohon.com","social.anji.nl","bytetower.social","vis.social","mastodon.scot","berserker.town","mastodon.online","mstdn.io","social.coop","mastodon.africa","sunbeam.city","social.artemai.art","social.librem.one","aus.social","pirati.ca","social.growyourown.services","mastodonapp.uk","kitty.town","floss.social","mstdn.jp","mastodon.theguidrys.us","mastodon.sdf.org","akademienl.social","toot.mattedwards.org","trekkies.social","dragon.style","honq.me","metalhead.club","f.freinetz.ch","tenforward.social","twit.social","mastodon.sandwich.net","social.makerforums.info","masto.pt","bne.social","mastodon.lol","rollenspiel.social","circus.town","mastodon.art","chaos.social","ioc.exchange","oc.todon.fr","oldbytes.space","sueden.social","northeast.one","mastodon.infra.de","sfba.social","mastodon.nz","social.tcit.fr","infosec.exchange","federate.social","pouet.chapril.org","horche.demkontinuum.de","friendica.eskimo.com","ieji.de","tech.lgbt","helvede.net","digipres.club","indieweb.social","mstdn.rndmm.us","berlin.social","scholar.social","rebelsocial.media","idlethumbs.social","mastodon.world","meow.social","matthewedavis.online","fedi.simonwillison.net","mast.dragon-fly.club","pleroma.doingyourmom.club","1210.nl","ravenation.club","mstdn.ca","mastodon.halibut.com","starbase80.wtf","ruhr.social","social.tromdienste.de","zomglol.wtf","dosgame.club","retr0.id","mastodon.coffee","toots.dgplug.org","socel.net","tooting.ch","eldritch.cafe","follow.schmaller.de","nixos.paris","econtwitter.net","todon.eu","universeodon.com","mastodon.xyz","f.haeder.net","blacktwitter.io","hackers.town","vmst.io","mastodon.radio","social.gould.cx","mastodon.gamedev.place","mstdn.social","genomic.social","toot.azadehafzar.ir","socialism.social","petroskowo.pl","scicomm.xyz","blahaj.social","norden.social","queer.af","norrebro.space","botsin.space","glammr.us","fosstodon.org","nerdculture.de","loma.ml","qoto.org","hachyderm.io","social.linux.pizza","social.deadsuperhero.com","social.helpmedog.com","freeradical.zone","pliocene.org","anonsys.net","mastodon.org.uk","odenwald.social","digitalcourage.social","kolektiva.social","sunny.garden"]

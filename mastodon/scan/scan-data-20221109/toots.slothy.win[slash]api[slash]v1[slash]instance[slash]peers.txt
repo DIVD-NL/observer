@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 7677894cc8412e26-BRU
+Date: Wed, 09 Nov 2022 15:21:07 GMT
+Expires: Wed, 09 Nov 2022 16:21:07 GMT
+Location: https://slothy.win
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=whUPk5OMxXKkuloPD4AAf6CiQf4k%2Bs7u7BbSdb2NtmdfEEZN93S4cRCqGOF9kYGe%2BeVl83iIfVOCwd3%2FzktnuIqqcAB2OnETXQXXuYVYPlLRDF44urBl3s%2B3qux2sFbyHmmu"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=6.9999987317715e-06
+Vary: Accept-Encoding
+
+0
+

@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d930afe83c6-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:07 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wRLs7xRdqJvqleSnSwlkxzmW3LCY7iJL5RW4H2zGb1bW3e0Op4aC4j8G%2Bvmpo5RAqdl7FqrRiHVy6ofXwxz30k8zsjKiOgJPdzXO9xlnZAaj4KtOBZueIEXDZr3jgbnjcO6ffmg%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+X-Cache: MISS
+
+59
+["mastodon.social","git.arachnitech.com","stream.labr.online","mastodon.arachnitech.com"]
+0
+

@@ -1,0 +1,12 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Server: Apache
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+X-Endurance-Cache-Level: 2
+
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}

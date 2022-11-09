@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://alfa.frikiverse.zone; img-src 'self' https: data: blob: https://alfa.frikiverse.zone; style-src 'self' https://alfa.frikiverse.zone 'nonce-iZvCOKoVPt1Vhx9w9rppbQ=='; media-src 'self' https: data: https://alfa.frikiverse.zone; frame-src 'self' https:; manifest-src 'self' https://alfa.frikiverse.zone; connect-src 'self' data: blob: https://alfa.frikiverse.zone https://alfa.frikiverse.zone wss://alfa.frikiverse.zone; script-src 'self' https://alfa.frikiverse.zone 'unsafe-eval'; child-src 'self' blob: https://alfa.frikiverse.zone; worker-src 'self' blob: https://alfa.frikiverse.zone
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Etag: W/"33c57a3dd4b7ff86306a637362c07d81"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T19:30:00.705496Z
+X-Request-Id: 952b9fb1-6f57-446b-a575-b38773e40ad4
+X-Runtime: 0.007923
+X-Xss-Protection: 0
+
+b3
+["mastodont.cat","mastodon.art","mstdn.social","mastodon.annleckie.com","frikiverse.zone","wandering.shop","xarxa.cloud","eldritch.cafe","bantha.tatooine.space","mastodon.social"]
+0
+

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1750
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.smallint.net wss://social.smallint.net;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:35 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.21.6
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzsFgwDguj0IP4B4-i
+X-Xss-Protection: 1; mode=block
+
+["mastodon.bayern","liberdon.com","bonn.social","friendica.utzer.de","cybre.space","friendica.xyz","shigusegubu.club","dis-le.de","quitter.pl","social.anon-groups.de","muenchen.social","squeet.me","layer8.space","friendica.ennimedia.de","social.sp-codes.de","noagendasocial.com","die-partei.social","social.jmueller.eu","unmedicated.schizoid.social","mastodon.social","scl.clttr.info","shitposting.army","dragonscave.space","venera.social","toot.team.jetzt","nrw.social","mastodon.neoziggurat.com","activism.openworlds.info","conesphere.social","mastodontech.de","machteburch.social","climatejustice.global","sneed.network","mastodon.ctseuro.com","todon.nl","f.praschnig.com","social.bau-ha.us","a.rathersafe.space","nerdica.net","gruene.social","social.tchncs.de","mastodon.ml","frnd.nanoscopic.de","social.trom.tf","friendica.ellih.eu","social.pmj.rocks","mas.to","ruhr.social","social.tromdienste.de","aipi.social","graz.social","friendica.gidikroon.eu","hunk.city","embassy.social","freiburg.social","etiketi.de","soc.schuerz.at","social.softmetz.de","mastodon.technology","tooting.ch","social.joschu.ch","kirche.social","friendica.bachgau.social","mastodon.online","f.haeder.net","troet.cafe","f.3ischn.de","wiesbaden.social","helse.rocks","pirati.ca","mstdn.social","friendica.opensocial.space","social.fedinet.de","norden.social","toot.berlin","fosstodon.org","loma.ml","social.anoxinon.de","dica.interfel.de","f.matri.ml","toot.fedilab.app","koyu.space","masthead.social","libranet.de","social.snopyta.org","anonsys.net","social.yl.ms","metalhead.club","f.freinetz.ch","twit.social","mastodon.lol","rollenspiel.social","digitalcourage.social","onlinegemein.de","toot.nx-pod.de","eeeeeeeee.eu","mastodon.art","chaos.social","darmstadt.social"]

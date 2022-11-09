@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://quasireal.ca; img-src 'self' https: data: blob: https://quasireal.ca; style-src 'self' https://quasireal.ca 'nonce-27UiPGMwghTtC1TB5L0MYQ=='; media-src 'self' https: data: https://quasireal.ca; frame-src 'self' https:; manifest-src 'self' https://quasireal.ca; connect-src 'self' data: blob: https://quasireal.ca https://quasireal.ca wss://quasireal.ca; script-src 'self' https://quasireal.ca; child-src 'self' blob: https://quasireal.ca; worker-src 'self' blob: https://quasireal.ca
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:47 GMT
+Etag: W/"77581907754dd22ecd7445869ffa4aee"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.936971Z
+X-Request-Id: 564e42bb-75a4-4d48-a982-fdbcb86d07a3
+X-Runtime: 0.005596
+X-Xss-Protection: 0
+
+f4
+["fosstodon.org","fediscience.org","mstdn.ca","data-folks.masto.host","noagendasocial.com","hachyderm.io","infosec.exchange","mastodon.social","octodon.social","mastodon.tech","masto.ai","aus.social","mamot.fr","twit.social","kolektiva.social"]
+0
+

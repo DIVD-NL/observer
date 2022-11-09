@@ -1,0 +1,97 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: turn.esiliati.org:3478 turn.esiliati.org;media-src 'self' blob:;frame-src 'self';child-src blob: 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:58:06 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'self';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: ocwblp57b7qb=4qsa7rcno5ik2bfs7dsaaltlhm; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=cmkiiCqRi%2Fe9mzR6GwafI617DYJrTMJ0E4CHZNS31efzgs0mvCfwQR7XwEUtj73svdNnneXn%2BpLiGukTwjYO1J4ZTw9rY3BSNeghs4uWQCPmNQ6%2BgbccG9%2FsAIqB2Kp7; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocwblp57b7qb=q5j92lvrbg8q5j33roje93haj5; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: a4Lfezbd87FrSn4Vrno9
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="e9uQkp9wuKz3qfWnvnUtjZRXRlXKZ/+K7OcshPTcsaI=:I+Kk3qoI79+jx7nC6yZb+MAkIGSGLqW+r9ZK6b6N3PE=">
+		<meta charset="utf-8">
+		<title>
+		files		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0A700E">
+		<link rel="icon" href="/apps/theming/favicon?v=12">
+		<link rel="apple-touch-icon" href="/apps/theming/icon?v=12">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0A700E">
+		<link rel="manifest" href="/apps/theming/manifest?v=12">
+		<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-12">
+<link rel="stylesheet" href="/core/css/guest.css?v=9ef05148-12">
+		<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/core/js/oc.js?v=9ef05148"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/core-common.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/core-main.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/core-files_fileinfo.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/core-files_client.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/js/core/merged-template-prepend.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/core-login.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/files_sharing-main.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/dist/accessibility-accessibilityoca.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/apps/files_rightclick/js/script.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/apps/files_rightclick/js/files.js?v=9ef05148-12"></script>
+<script nonce="ZTl1UWtwOXd1S3ozcWZXbnZuVXRqWlJYUmxYS1ovK0s3T2NzaFBUY3NhST06SStLazNxb0k3OStqeDduQzZ5WmIrTUFrSUdTR0xxVytyOVpLNmI2TjNQRT0=" defer src="/apps/theming/js/theming.js?v=9ef05148-12"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="files"/><meta property="og:description" content="just a bunch of files..."/><meta property="og:site_name" content="files"/><meta property="og:url" content="https://files.esiliati.org/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://files.esiliati.org/apps/theming/icon?v=12"/><link rel="stylesheet" href="/apps/theming/styles?v=12"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC4zLjIiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC4zIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9maWxlcy5lc2lsaWF0aS5vcmdcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiJjNzQ4ZThmYzU4OGI1NGZjNWFmMzhjNDQ4MWExOWQyMCJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWV9LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9maWxlcy5lc2lsaWF0aS5vcmdcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImZpbGVzX3NoYXJpbmciOnsiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9fSwiZm9ybXMiOnsidmVyc2lvbiI6IjIuNS4xIiwiYXBpVmVyc2lvbnMiOlsidjEiLCJ2MS4xIl19LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNS4xIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjpmYWxzZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjp0cnVlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOnRydWUsImFwaSI6eyJnZW5lcmF0ZSI6Imh0dHBzOlwvXC9maWxlcy5lc2lsaWF0aS5vcmdcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvZmlsZXMuZXNpbGlhdGkub3JnXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNC4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6ZmFsc2V9LCJzcHJlZWQiOnsiZmVhdHVyZXMiOlsiYXVkaW8iLCJ2aWRlbyIsImNoYXQtdjIiLCJjb252ZXJzYXRpb24tdjQiLCJndWVzdC1zaWduYWxpbmciLCJlbXB0eS1ncm91cC1yb29tIiwiZ3Vlc3QtZGlzcGxheS1uYW1lcyIsIm11bHRpLXJvb20tdXNlcnMiLCJmYXZvcml0ZXMiLCJsYXN0LXJvb20tYWN0aXZpdHkiLCJuby1waW5nIiwic3lzdGVtLW1lc3NhZ2VzIiwiZGVsZXRlLW1lc3NhZ2VzIiwibWVudGlvbi1mbGFnIiwiaW4tY2FsbC1mbGFncyIsImNvbnZlcnNhdGlvbi1jYWxsLWZsYWdzIiwibm90aWZpY2F0aW9uLWxldmVscyIsImludml0ZS1ncm91cHMtYW5kLW1haWxzIiwibG9ja2VkLW9uZS10by1vbmUtcm9vbXMiLCJyZWFkLW9ubHktcm9vbXMiLCJsaXN0YWJsZS1yb29tcyIsImNoYXQtcmVhZC1tYXJrZXIiLCJjaGF0LXVucmVhZCIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsInNpcC1zdXBwb3J0IiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwicmljaC1vYmplY3QtbGlzdC1tZWRpYSIsInJpY2gtb2JqZWN0LWRlbGV0ZSIsInVuaWZpZWQtc2VhcmNoIiwicmVhY3Rpb25zIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMCwicmVhZC1wcml2YWN5IjowfSwiY29udmVyc2F0aW9ucyI6eyJjYW4tY3JlYXRlIjpmYWxzZX0sInByZXZpZXdzIjp7Im1heC1naWYtc2l6ZSI6MzE0NTcyOH0sInNpZ25hbGluZyI6eyJzZXNzaW9uLXBpbmctbGltaXQiOjIwMH19fSwidGhlbWluZyI6eyJuYW1lIjoiZmlsZXMiLCJ1cmwiOiJodHRwczpcL1wvd3d3LmVzaWxpYXRpLm9yZyIsInNsb2dhbiI6Imp1c3QgYSBidW5jaCBvZiBmaWxlcy4uLiIsImNvbG9yIjoiIzBBNzAwRSIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwQTcwMEUiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwQTcwMEUiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMEE3MDBFIiwibG9nbyI6Imh0dHBzOlwvXC9maWxlcy5lc2lsaWF0aS5vcmdcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9MTIiLCJiYWNrZ3JvdW5kIjoiIzBBNzAwRSIsImJhY2tncm91bmQtcGxhaW4iOnRydWUsImJhY2tncm91bmQtZGVmYXVsdCI6dHJ1ZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9maWxlcy5lc2lsaWF0aS5vcmdcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9MTIiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2ZpbGVzLmVzaWxpYXRpLm9yZ1wvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dXNlU3ZnPTEmdj0xMiJ9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiZmlsZXMiLCJ1cmwiOiJodHRwczpcL1wvd3d3LmVzaWxpYXRpLm9yZyIsInNsb2dhbiI6Imp1c3QgYSBidW5jaCBvZiBmaWxlcy4uLiIsImNvbG9yIjoiIzBBNzAwRSIsImltcHJpbnRVcmwiOiIiLCJwcml2YWN5VXJsIjoiIiwiaW52ZXJ0ZWQiOmZhbHNlLCJjYWNoZUJ1c3RlciI6IjEyIn0=">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									files								</h1>
+																	<img src="/apps/theming/image/logo?useSvg=1&amp;v=12"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://www.esiliati.org" target="_blank" rel="noreferrer noopener" class="entity-name">files</a> – just a bunch of files...			</p>
+		</footer>
+	</body>
+</html>

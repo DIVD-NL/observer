@@ -1,0 +1,20 @@
+HTTP/1.1 404 Vhost unknown.
+Connection: close
+Content-Length: 209
+Age: 0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Server: Varnish
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>404 Vhost unknown.</title>
+  </head>
+  <body>
+    <h1>Error 404 Vhost unknown.</h1>
+    <p>Vhost unknown.</p>
+    <hr>
+    <p>Varnish L7 server</p>
+  </body>
+</html>

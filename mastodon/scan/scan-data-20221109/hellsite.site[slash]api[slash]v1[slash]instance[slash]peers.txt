@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://hellsite.site; font-src 'self' https://hellsite.site; img-src 'self' data: blob: https://hellsite.site; style-src 'self' https://hellsite.site 'nonce-Gc8Lsk8RmcgHjzEDuMFaFw=='; media-src 'self' data: https://hellsite.site; frame-src 'self' https:; child-src 'self' blob: https://hellsite.site; worker-src 'self' blob: https://hellsite.site; connect-src 'self' blob: data: wss://hellsite.site https://hellsite.site; manifest-src 'self' https://hellsite.site
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:08:27 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.121078Z
+X-Request-Id: d0e62e94-6e7a-4752-b244-f96aed1f9c5b
+X-Runtime: 0.011725
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778636f976b9b1-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.maradia.ga; img-src 'self' https: data: blob: https://social.maradia.ga; style-src 'self' https://social.maradia.ga 'nonce-/aldBGflbqQ5oSCVLqWYhw=='; media-src 'self' https: data: https://social.maradia.ga; frame-src 'self' https:; manifest-src 'self' https://social.maradia.ga; connect-src 'self' data: blob: https://social.maradia.ga https://social.maradia.ga wss://social.maradia.ga; script-src 'self' https://social.maradia.ga; child-src 'self' blob: https://social.maradia.ga; worker-src 'self' blob: https://social.maradia.ga
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:01 GMT
+Etag: W/"bc92a601513767864f0f33785119e7c5"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dRiJelv8dinztxAHtzL8OFTDGeI4iNB%2F%2BuKSNM7Gv%2BO8Taq20dUq%2FpeUFGokqnHFcCuZbMF2WNE%2BvLhyslx1d73uIW20jD8cBNRxRzjDgpAiOig%2BLghc018GUV9wTTsILjQtEw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=0
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.111653Z
+X-Request-Id: ca9fe539-4eb0-4dcf-a433-8561e5c0702b
+X-Runtime: 0.013522
+X-Served-By: social.maradia.ga
+X-Xss-Protection: 0
+
+368
+["chaos.social","mastodon.retr0.party","nrw.social","toot.cafe","tube.rebellion.global","mastodon.art","awscommunity.social","indieweb.social","mastodon.social","mastodon.cloud","f.kretschmann.social","friendica.ucy.de","quitter.pl","fr.readthefinemanual.net","friendica.hashy-net.de","friendica.myportal.social","anarchydica.net","herzbu.de","fosstodon.org","friendica.offsite.guru","friendica.mifritscher.de","friendica.kommune4.de","poliverso.org","social.jmueller.eu","kudabiverse.com","t2.thotsofa304.club","fri.aethercom.de","friendica.mschmidt-et.de","social.tromdienste.de","friendica.ambag.es","social.anacreonte.eu","friend.geoffray-levasseur.org","friendica.togart.de","friendica.ironbug.org","redeyes.club","friendica.daniel-siepmann.de","petroskowo.pl","follow.schmaller.de","friendica.opencloud.lu","nerdculture.de","mastodon.online","la-verite-vaincra.com"]
+0
+

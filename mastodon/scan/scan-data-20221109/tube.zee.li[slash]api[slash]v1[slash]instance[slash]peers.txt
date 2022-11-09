@@ -1,0 +1,23 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767789c38ea583cf-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:26 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4Aae0zA6%2Fl0op5NT04a4Ou%2FV56%2FvsK2pvOXbjI%2BCb%2BYa6uihZJq9cmu6bG5Qsum%2FiGszG%2FiXCgpxVpeHeOF5VjSG3vzFQOb77vFLaT%2Be1Cz%2FAVAVPbEWBoPMaXwVhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+9d
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+
+0
+

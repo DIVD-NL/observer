@@ -1,0 +1,31 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767775a1fa562e0e-BRU
+Content-Security-Policy: default-src 'none'
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:07:42 GMT
+Link: </logo.svg>; as=image; rel=preload;
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nTPuwDtKBi%2FSDiLJOD%2FvnMJaNhChPu0iEeNEb87IOiRuyZbpLDQ4Nj83DYTQROQONvprENqY6bQRJ%2BwxLimsSv%2BhjyN8wB4gsA7M%2Fm%2FvHjRkj0FVhJu356wOqJhRa%2FbpeQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+a0
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /api/v1/instance/peers</pre>
+</body>
+</html>
+
+0
+

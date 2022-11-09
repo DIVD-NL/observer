@@ -1,0 +1,20 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:51 GMT
+Location: https://tilde.team/
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+b4
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body>
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+0
+

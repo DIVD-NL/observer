@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Big-Tails: never-fail
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://plural.cafe; font-src 'self' https://plural.cafe; img-src 'self' data: blob: https://plural.cafe https://pool.jortage.com pool.jortage.com blob.jortage.com s3-us-east-2.amazonaws.com; style-src 'self' https://plural.cafe 'nonce-4ZB5cZJcIkmY8/RMnl+/aQ=='; media-src 'self' data: https://plural.cafe https://pool.jortage.com pool.jortage.com blob.jortage.com s3-us-east-2.amazonaws.com; frame-src 'self' https:; child-src 'self' blob: https://plural.cafe; worker-src 'self' blob: https://plural.cafe; connect-src 'self' blob: data: wss://plural.cafe https://plural.cafe https://pool.jortage.com; manifest-src 'self' https://plural.cafe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:27 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen, GNU Anna Harren
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.035389Z
+X-Request-Id: f6a70583-598f-4840-8d1c-601bb69d4018
+X-Runtime: 0.013731
+
+0
+

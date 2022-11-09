@@ -1,0 +1,23 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: default-src 'none'; base-uri 'self' termine.social termine.social; font-src 'self' data: termine.social termine.social; media-src 'self' termine.social termine.social; script-src 'self' 'unsafe-inline' 'unsafe-eval' termine.social termine.social; style-src 'self' 'unsafe-inline' termine.social termine.social; img-src 'self' https: data: blob: *.termine.social termine.social; worker-src *; frame-src 'self' https:; connect-src 'self' wss: https: termine.social termine.social; object-src 'self' termine.social termine.social; frame-ancestors 'self' termine.social termine.social; form-action 'self' termine.social termine.social; manifest-src 'self' termine.social termine.social;
+Content-Security-Policy: frame-ancestors 'none' ;frame-src 'none' ;font-src 'self' ;media-src 'self' ;img-src 'self' data: blob: *.tile.openstreetmap.org ;connect-src 'self' * blob: https://termine.social wss://termine.social ;style-src 'self' ;script-src 'self' 'unsafe-eval' 'sha256-4RS22DYeB7U14dra4KcQYxmwt5HkOInieXK1NUMBmQI=' ;default-src 'none';base-uri 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:31 GMT
+Feature-Policy: geolocation 'self'; midi 'self'; sync-xhr 'self'; microphone 'self'; camera 'self'; magnetometer 'self'; gyroscope 'self'; fullscreen 'self'; payment 'self';
+Permissions-Policy: geolocation=(self 'termine.social' 'termine.social'), midi=(self 'termine.social' 'termine.social'), sync-xhr=(self 'termine.social' 'termine.social'), microphone=(self 'termine.social' 'termine.social'), camera=(self 'termine.social' 'termine.social'), magnetometer=(self 'termine.social' 'termine.social'), gyroscope=(self 'termine.social' 'termine.social'), fullscreen=(self 'termine.social' 'termine.social'), payment=(self 'termine.social' 'termine.social')
+Referrer-Policy: same-origin
+Server: Cowboy
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: FyXzvZxrTefqihwAJL_h
+X-Robots-Tag: none
+X-Xss-Protection: 0
+
+{"errors":[{"message":"No query document supplied"}]}

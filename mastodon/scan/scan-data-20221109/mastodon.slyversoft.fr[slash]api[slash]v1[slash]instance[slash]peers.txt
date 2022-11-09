@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.slyversoft.fr; img-src 'self' https: data: blob: https://mastodon.slyversoft.fr; style-src 'self' https://mastodon.slyversoft.fr 'nonce-/cGIGHHJ7HThLMpb5zsrxQ=='; media-src 'self' https: data: https://mastodon.slyversoft.fr; frame-src 'self' https:; manifest-src 'self' https://mastodon.slyversoft.fr; connect-src 'self' data: blob: https://mastodon.slyversoft.fr https://mastodon.slyversoft.fr wss://mastodon.slyversoft.fr; script-src 'self' https://mastodon.slyversoft.fr; child-src 'self' blob: https://mastodon.slyversoft.fr; worker-src 'self' blob: https://mastodon.slyversoft.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:18 GMT
+Etag: W/"20448bfc60ad86173334c7459e2a92be"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:05:00.043318Z
+X-Request-Id: de07dbc6-beca-49a2-bd27-ab8169a2249c
+X-Runtime: 0.007816
+X-Xss-Protection: 0
+
+13e
+["octodon.social","maly.io","meow.zarchbox.fr","mathstodon.xyz","mastodon.art","icioulaba.tk","diaspodon.fr","mastodon.tedomum.net","mas.to","hostux.social","mastd.racing","mastodon.xyz","mastodon.social","photo.lapineige.fr","mamot.fr","botsin.space","framapiaf.org","amicale.net","mastodon.top","piaille.fr","h4.io"]
+0
+

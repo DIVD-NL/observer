@@ -1,0 +1,18 @@
+HTTP/1.1 308 Permanent Redirect
+Connection: close
+Content-Length: 241
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:33 GMT
+Location: https://mastodon.im.sb/api/v1/instance/peers
+Server: Tengine
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: BYPASS
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>308 Permanent Redirect</title></head>
+<body>
+<center><h1>308 Permanent Redirect</h1></center>
+<hr/>Powered by Tengine<hr><center>tengine</center>
+</body>
+</html>

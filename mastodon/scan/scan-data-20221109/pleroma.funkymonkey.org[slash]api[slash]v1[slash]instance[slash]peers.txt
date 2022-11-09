@@ -1,0 +1,36 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0
+Content-Security-Policy: frame-ancestors 'self' chrome-extension://nngceckbapebfimnlniiiahkandclblb chrome-extension://jbkfoedolllekgbhcbcoahefnbanhhlh moz-extension://* ;
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:57 GMT
+Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; sync-xhr 'self' https://haveibeenpwned.com https://2fa.directory; usb 'none'; vr 'none'
+Referrer-Policy: same-origin
+Server: nginx/1.14.2
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+255
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="utf-8">
+                <title>404 Not Found</title>
+            </head>
+            <body align="center">
+                <div role="main" align="center">
+                    <h1>404: Not Found</h1>
+                    <p>The requested resource could not be found.</p>
+                    <hr />
+                </div>
+                <div role="contentinfo" align="center">
+                    <small>Rocket</small>
+                </div>
+            </body>
+            </html>
+        
+0
+

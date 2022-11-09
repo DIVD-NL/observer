@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bytesize.social; img-src 'self' https: data: blob: https://bytesize.social; style-src 'self' https://bytesize.social 'nonce-we1UX84JiPXeZ23mH/Nkrw=='; media-src 'self' https: data: https://bytesize.social; frame-src 'self' https:; manifest-src 'self' https://bytesize.social; connect-src 'self' data: blob: https://bytesize.social https://bytesize.social wss://bytesize.social; script-src 'self' https://bytesize.social; child-src 'self' blob: https://bytesize.social; worker-src 'self' blob: https://bytesize.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:19 GMT
+Etag: W/"e7a1a132c014bf54a43aa5fda67fdc35"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T17:10:00.273096Z
+X-Request-Id: ef7db971-3da6-4716-8c41-25b3595e0e5f
+X-Runtime: 0.007162
+X-Xss-Protection: 1; mode=block
+
+b1
+["berserker.town","relay.mistli.net","mastodon.social","mk.absturztau.be","mastodon.ie","ieji.de","snug.moe","mastodonapp.uk","mstdn.rndmm.us","infosec.exchange","ioc.exchange"]
+0
+

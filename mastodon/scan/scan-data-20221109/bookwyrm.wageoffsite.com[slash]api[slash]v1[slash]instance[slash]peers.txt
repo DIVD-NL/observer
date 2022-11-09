@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766639c4d83dd-BRU
+Content-Language: en-us
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sS0D3PBrMvm3xxWEzM77i3UI%2F98Ers3QjD%2FD5bt%2FSolhKKcU%2Ff4QjNVUQGrdLBVoBntjMLiMTr2v4qaEbilaGKGWyBFnQPGpgeoxM7C%2FKv2y%2FhiJr%2BySSwC19BaISReNvdkZIBfS9bbsMXg%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Language, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+7c
+["social.wageoffsite.com", "wyrms.de", "book.dansmonorage.blue", "lire.boitam.eu", "bookrastinating.com", "mastodon.online"]
+0
+

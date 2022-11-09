@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://fediverse.co.za; img-src 'self' https: data: blob: https://fediverse.co.za; style-src 'self' https://fediverse.co.za 'nonce-lZdwjMMPigr+FrIEh4Sj4g=='; media-src 'self' https: data: https://fediverse.co.za; frame-src 'self' https:; manifest-src 'self' https://fediverse.co.za; connect-src 'self' data: blob: https://fediverse.co.za https://fediverse.co.za wss://fediverse.co.za; script-src 'self' https://fediverse.co.za; child-src 'self' blob: https://fediverse.co.za; worker-src 'self' blob: https://fediverse.co.za
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:05 GMT
+Etag: W/"e5793ebe955f9e4c9213a705d1a19e3c"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:25:00.078563Z
+X-Request-Id: e115c64e-e5af-4ccd-a13b-30f46c7e00de
+X-Runtime: 0.005900
+X-Xss-Protection: 0
+
+f1a
+["mastodon.matrix.org","masto.1146.nohost.me","diaspodon.fr","masto.pt","pix.toot.wales","social.weho.st","dice.camp","toot.thedoodleproject.net","sneak.berlin","red.niboe.info","pouet.chapril.org","kith.kitchen","433.world","mastodon.zeteo.me","toki.social","comicscamp.club","mastodon.tekdmn.me","mspsocial.net","mastodon.me.uk","framapiaf.org","linuxrocks.online","peertube.beeldengeluid.nl","rage.love","birb.site","friend.camp","test.misskey.cf","mastodon.bayern","skeptikon.fr","alongtheray.social","pixey.org","social.anoxinon.de","social.coop","norden.social","mastodon.radio","josh.tel","quitter.pl","mastodon.bida.im","social.network.europa.eu","plural.cafe","ruhr.social","mamot.fr","sysctl.io","vael.town","hackers.town","appalachian.town","scicomm.xyz","literatur.social","glitch.social","gotosocial.kemonine.info","video.lemediatv.fr","nerdculture.de","econtwitter.net","mastodon.art","gs.leftic.club","die-partei.social","mstdn.starnix.network","unfediverse.com","xarxa.cloud","mastodon.nzoss.nz","f.freinetz.ch","rumbly.net","mstdn.fr","vernunftzentrum.de","octodon.social","qoto.org","social.jmueller.eu","friendica.opensocial.space","social.softmetz.de","mas.to","astrodon.social","body.social","this.mouse.rocks","101010.pl","social.ei8fdb.org","mastd.racing","phpc.social","mastodon.opportunis.me","social.ppmx.org","r3pek.org","infosec.exchange","ni.hil.ist","mastodon.zaclys.com","social.jesse-saenz.com","nahe.social","videos.pair2jeux.tube","fedi.at","oldbytes.space","kolektiva.social","mastodon.xyz","weirder.earth","diode.zone","tooter.social","pixelfed.de","mastodon.scot","peertube.stream","boitam.eu","loma.ml","mastodontech.de","cybre.space","mast.linuxgamecast.com","inherently.digital","forum.friendi.ca","social.tromdienste.de","social.trom.tf","chat.noelle.codes","toot.cafe","stream.labr.online","social.jesuislibre.net","mastodon.org.uk","live.retrostrange.com","podlibre.social","elekk.xyz","watch.thepolarbear.co.uk","live.hatnix.net","stream.ozoned.net","owncast.small-web.org","live.w0rmh0le.net","social.dropbear.xyz","social.masto.host","nerdica.net","tilvids.com","x0r.be","queer.party","wandering.shop","raggedfeathers.com","mastodon.technology","social.tchncs.de","tube.tchncs.de","mastodon.coffee","u8.is","mastodon.sandwich.net","stream.digio.space","social.goodanser.com","post.lurk.org","hellsite.site","aspiechattr.me","beta.birdsite.live","socl.bz","travelpandas.fr","ecoevo.social","firebird.zone","grumpys.online","pixelfed.social","eldritch.cafe","sunbeam.city","europlus.zone","social.gitea.io","nobigtech.es","metalhead.club","social.northernvoice.app","todon.nl","social.xbm.se","mstdn.io","cast.samsai.eu","tooot.im","friends.ravergram.club","chaos.social","toot.wales","aus.social","mastodon.internet-czas-dzialac.pl","video.internet-czas-dzialac.pl","social.jlamothe.net","chinwag.org","writing.exchange","mastodon.jordanwages.com","mastodon.beer","mastodon.nz","climatejustice.social","birdsite.thorlaksson.com","mastodon.ir0k.de","ausglam.space","chickenfan.club","a2mi.social","mastodon.online","photog.social","fosstodon.org","faithcollapsing.com","mastodon.nu","tech.lgbt","wien.rocks","sfba.social","awscommunity.social","indieweb.social","social.lol","jonleibowitz.social","social.solibre.de","bildung.social","social.linux.pizza","peoplemaking.games","mastodon.nl","mastodon.lol","mathstodon.xyz","mstdn.social","mastodon.social","twit.social","mastodon.gamedev.place","calico.social","det.social","floss.social","vis.social","idiomdrottning.org","a.gup.pe","troet.cafe","velocipederider.com","scholar.social","mastodon.cloud","legal.social","chatterbook.us","merveilles.town","jawns.club","mastodon.no2nd.earth","sunny.garden","hessen.social","hci.social","mastodon.sdf.org","fediscience.org","botsin.space","ioc.exchange","social.growyourown.services","epicyon.libreserver.org","mastodon.green"]
+0
+

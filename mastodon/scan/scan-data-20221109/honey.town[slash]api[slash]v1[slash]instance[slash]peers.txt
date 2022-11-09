@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://honey.town; img-src 'self' https: data: blob: https://honey.town; style-src 'self' https://honey.town 'nonce-mbRGxf1lx4/I0Y7UwLDpnA=='; media-src 'self' https: data: https://honey.town; frame-src 'self' https:; manifest-src 'self' https://honey.town; connect-src 'self' data: blob: https://honey.town https://cdn.masto.host wss://honey.town; script-src 'self' https://honey.town; child-src 'self' blob: https://honey.town; worker-src 'self' blob: https://honey.town
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:13 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.362100Z
+X-Request-Id: 03b7db9c-2b30-405b-87db-4c0907c83e57
+X-Runtime: 0.110644
+X-Xss-Protection: 0
+
+0
+

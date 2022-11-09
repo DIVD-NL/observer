@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777af41826f955-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.football; img-src 'self' https: data: blob: https://mastodon.football; style-src 'self' https://mastodon.football 'nonce-DDQiYX3zxmTtz6h65WDE+g=='; media-src 'self' https: data: https://mastodon.football; frame-src 'self' https:; manifest-src 'self' https://mastodon.football; connect-src 'self' data: blob: https://mastodon.football https://mastodon.football wss://mastodon.football; script-src 'self' https://mastodon.football; child-src 'self' blob: https://mastodon.football; worker-src 'self' blob: https://mastodon.football
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:19 GMT
+Etag: W/"ec2ba8665eeecbec2f7dc8baecdbeb49"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0pJtO9cyOiw2cr1HpB5OGhAHcZ5bAhGtcA7aKknG2TqArDGhyDX7xoxa0dZZWkMEUUDH02cqGRaUOaKkC2F7NLbxZAytorp7d2NJopuzN9LpcawkveUq5m6YnXg9n3%2F%2BW0x1sg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T19:25:00.644886Z
+X-Request-Id: cd6d2210-f2f1-438d-806e-d8c381bf0e19
+X-Runtime: 0.014327
+X-Xss-Protection: 0
+
+dd
+["phpc.social","echo.nullzone.fr","friend.online-erfolg.ch","neue.city","social.jmueller.eu","friends.johalla.org","lipsia.casa","sozialer.irrpfad.de","social.johnassel.de","dogsex.org","introvert.social","pooper.social"]
+0
+

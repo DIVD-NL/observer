@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src https: data: blob: wss: 'unsafe-eval' 'unsafe-inline'; object-src 'none'
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:07 GMT
+Expect-Ct: max-age=86400, enforce
+Location: https://cwinfo.net/api/v1/instance/peers
+Pragma: no-cache
+Referrer-Policy: strict-origin
+Server: CWINFO
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Accept-Language, DNT, Origin, Referer, User-Agent
+X-Content-Type-Options: nosniff
+X-Cwinfo-Server: fr2.servers.devices.cwinfo.net
+X-Dns-Prefetch-Control: on
+X-Download-Options: noopen
+X-Frame-Options: sameorigin
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

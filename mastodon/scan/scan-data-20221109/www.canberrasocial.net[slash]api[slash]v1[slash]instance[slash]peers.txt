@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 505
+Accept-Ch: Sec-CH-UA, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:31 GMT
+Server: Cowboy
+Set-Cookie: sid=54942cd6-6042-11ed-b5b1-7d860446afbe; path=/; domain=.canberrasocial.net; expires=Mon, 27 Nov 2090 18:36:39 GMT; max-age=2147483647; secure; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('https://www.canberrasocial.net/api/v1/instance/peers?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY2ODAxNDU1MiwiaWF0IjoxNjY4MDA3MzUyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIyc2l2N21iYmh1MmRxamlzMTgwYWtpazgiLCJuYmYiOjE2NjgwMDczNTIsInRzIjoxNjY4MDA3MzUyMTQ4NjMxfQ.MUewAMfXchsgJbSDyciGY_bNWyvH7-RBEXCt2zRTunM&sid=54942cd6-6042-11ed-b5b1-7d860446afbe');</script></body></html>

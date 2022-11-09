@@ -1,0 +1,52 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:35 GMT
+Etag: W/"62d0c36b-541"
+Last-Modified: Fri, 15 Jul 2022 01:31:23 GMT
+Server: nginx
+
+541
+<html>
+    <head>
+        <title>Welcome to your SWAG instance</title>
+        <style>
+        body{
+            font-family: Helvetica, Arial, sans-serif;
+        }
+        .message{
+            width:440px;
+            padding:20px 40px;
+            margin:0 auto;
+            background-color:#f9f9f9;
+            border:1px solid #ddd;
+            color: #1e3d62;
+        }
+        center{
+            margin:40px 0;
+        }
+        h1{
+            font-size: 18px;
+            line-height: 26px;
+        }
+        p{
+            font-size: 12px;
+        }
+        a{
+            color: rgb(207, 48, 139);
+        }
+        </style>
+    </head>
+    <body>
+        <div class="message">
+            <h1>Welcome to your <a target="_blank" href="https://github.com/linuxserver/docker-swag">SWAG</a> instance</h1>
+            <p>A webserver and reverse proxy solution brought to you by <a target="_blank" href="https://www.linuxserver.io/">linuxserver.io</a> with php support and a built-in Certbot client.</p>
+            <p>We have an article on how to use swag here: <a target="_blank" href="https://docs.linuxserver.io/general/swag">docs.linuxserver.io</a></p>
+            <p>For help and support, please visit: <a target="_blank" href="https://www.linuxserver.io/support">linuxserver.io/support</a></p>
+        </div>
+    </body>
+</html>
+
+0
+

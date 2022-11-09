@@ -1,0 +1,496 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:20:47 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 09 Nov 2022 15:20:47 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: exp_last_visit=1352647247; expires=Thu, 09-Nov-2023 15:20:47 GMT; path=/
+Set-Cookie: exp_last_activity=1668007247; expires=Thu, 09-Nov-2023 15:20:47 GMT; path=/
+Set-Cookie: exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A21%3A%22api%2Fv1%2Finstance%2Fpeers%22%3B%7D; path=/
+X-Powered-By: PHP/5.4.45
+
+5711
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">	
+  <!-- Set the viewport width to device width for mobile -->
+<script>
+	(function(doc) {
+		var viewport = document.getElementById('viewport');
+		if  ( navigator.userAgent.match(/iPad/i) ) {
+			doc.getElementById("viewport").setAttribute("content", "initial-scale=0.7, width=980");
+		}
+	}(document));
+	</script>
+  <title>Thompsons Feeding Innovation</title>
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="https://www.thompson.co.uk/stylesheets/foundation.css">
+  <link rel="stylesheet" href="https://www.thompson.co.uk/stylesheets/app.css">
+
+  <script src="https://www.thompson.co.uk/javascripts/modernizr.foundation.js"></script>
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+	<div class="covid-banner">
+		<p>Thompsons Covid-19 customer update - <a href="https://www.thompson.co.uk/index.php/news/view/91">click here</a></p>	
+	</div>
+
+	<div class="row row-large header">
+		<div class="twelve columns">
+			<a href="/" class="header-logo">
+				<img src="https://www.thompson.co.uk/images/thompson_feeds_logo_large.jpg" alt="thompsons-logo" width="326" height="73" />
+			</a>
+		</div>
+	</div>
+
+	<div class="nav-bar-wrapper">
+	 	<div class="row row-large">
+			<div class="twelve columns">
+				<!-- Entire Navbar Code -->
+				<ul class="nav-bar">
+					<li><a href="/" class="">Home </a> </li> <li class="has-flyout">
+							<a href="https://www.thompson.co.uk/index.php/pioneering-approach"
+								class="">About Thompsons</a>
+							<!-- <span href="#" class="flyout-toggle"><span> </span></a> -->
+							<ul class="flyout">
+								<li><a href="https://www.thompson.co.uk/index.php/pioneering-approach">Pioneering Approach</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/technology">Technology</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/history">History</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/quality">Quality</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/feed-distribution">Feed Distribution</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/brands">Brands</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/terms">Terms & Conditions</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/privacy">Privacy Policy</a></li>
+								<li><a href="https://www.thompson.co.uk/index.php/modern-slavery">Modern Slavery</a></li>
+							</ul>
+					</li>
+					<li class="has-flyout">
+						<a href="https://www.thompson.co.uk/index.php/ruminant-feeds" class="">Feed
+							Divisions</a>
+						<a href="#" class="flyout-toggle"><span> </span></a>
+						<ul class="flyout">
+							<li><a href="https://www.thompson.co.uk/index.php/ruminant-feeds">Ruminant Feeds</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/poultry-feeds">Poultry Feeds</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/pig-feeds">Pig Feeds</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/feed-range">Horse Feeds</a></li>
+							<!--       <li><a href="https://www.thompson.co.uk/index.php/horse-feeds">Horse Feeds</a></li> -->
+							<li><a href="https://www.thompson.co.uk/index.php/alternative-feeds">Alternative Feeds</a></li>
+						</ul>
+					</li>
+					<li class="has-flyout">
+						<a href="https://www.thompson.co.uk/index.php/g-lime-and-fertiliser"
+							class="">Other Products</a>
+						<a href="#" class="flyout-toggle"><span> </span></a>
+						<ul class="flyout">
+							<li><a href="https://www.thompson.co.uk/index.php/g-lime-and-fertiliser">G-Lime &amp; Fertiliser</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/grass-seed">Grass Seed</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/silage-innoculant">Silage Innoculant</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/secure-covers">Secure Covers</a></li>
+						</ul>
+					</li>
+					<li class="has-flyout">
+						<a href="https://www.thompson.co.uk/index.php/silage-analysis"
+							class="">Services</a>
+						<a href="#" class="flyout-toggle"><span> </span></a>
+						<ul class="flyout">
+							<li><a href="https://www.thompson.co.uk/index.php/silage-analysis">Silage Analysis</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/soil-analysis">Soil Analysis</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/milk-manager">Milk Manager</a></li>
+							<li><a href="https://www.thompson.co.uk/index.php/ultramix">Ultramix</a></li>
+						</ul>
+					</li>
+<li><a href="https://www.thompson.co.uk/index.php/careers" class="">Careers</a></li>
+					<li><a href="https://www.thompson.co.uk/index.php/news" class="">News</a></li>
+					<li><a href="https://www.thompson.co.uk/index.php/contact" class="">Contact Us</a></li> 
+				</ul> 
+			</div> 
+		</div>
+	</div>
+
+<!---------------------------------- 
+	Slider
+----------------------------------->
+<div class="row row-gallery">
+	<div class="twelve columns">
+		<div class="featured-text">
+			<img src="https://www.thompson.co.uk/images/banner-images/150-years.svg" style="width:66% !important;" />
+		</div>
+	    <div id="featured">
+			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_1.jpg" />
+			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_2.jpg" />
+<!--			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_3.jpg" />-->
+			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_4.jpg" />
+			  <!-- <img src="https://www.thompson.co.uk/images/banner-images/Homepage_5.jpg" />  -->
+			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_6.jpg" />
+<!--			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_7.jpg" />-->
+<!--               <img src="https://www.thompson.co.uk/images/banner-images/Homepage_8.jpg" />-->
+			  <img src="https://www.thompson.co.uk/images/banner-images/Homepage_9.jpg" />
+		</div>
+	</div>
+	
+	<!-- <span class="orbit-caption" id="captionOne">Feeding Innovation</span>
+	<span class="orbit-caption" id="captionTwo">Here is a caption2...</span>
+	<span class="orbit-caption" id="captionThree">Here is a caption3...</span> -->
+	
+</div>
+
+<div class="providing-quality-feeds">
+	<div class="row row-large">
+		<div class="twelve columns">
+			<h1 style="letter-spacing:3px !important;">Providing Quality Feed</h1>
+			<img src="https://www.thompson.co.uk/images/providing-feed-quality.png" />
+		</div>
+	</div>
+</div>
+
+<div class="homepage-video">
+	<div class="feed-division">
+		<div class="row">
+			<div class="twelve columns">
+				<div class="videoWrapper">
+					<iframe src="https://www.youtube.com/embed/k9wdMa2UF_Q" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!---------------------------------- 
+	Content / Feed divisions
+----------------------------------->
+<div class="full-width-background grey">
+	<div class="feed-division">
+		<div class="row">
+			<div class="twelve columns">
+				<h1>Feed Divisions</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/ruminant-feeds">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home-images/home_ruminant_feeds.jpg" />
+					</div>
+					<h2>Ruminant Feeds</h2>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/poultry-feeds">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home-images/home_poultry_feeds.jpg" />
+					</div>
+					<h2>Poultry Feeds</h2>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/pig-feeds">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home-images/home_pig_feeds.jpg" />
+					</div>
+					<h2>Pig Feeds</h2>
+				</a>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/feed-range">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home_horse_feeds_november_2011.png" />
+					</div>
+					<h2>Horse Feeds</h2>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/alternative-feeds">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home-images/home_alternative_feeds.jpg" />
+					</div>
+					<h2>Alternative Feeds</h2>
+				</a>
+			</div>
+			<div class="four columns">
+				<a href="https://www.thompson.co.uk/index.php/milk-manager">
+					<div class="shadow">
+						<img src="https://www.thompson.co.uk/images/home_milk_manager.jpg" />
+					</div>
+					<h2>Milk Manager</h2>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="animal-feed-manufacturer">
+<div class="row">
+	<div class="twelve columns">
+	    <h1  class="home">Northern Ireland’s leading animal feed manufacturer.</h1>
+	</div>
+</div>
+
+<div class="row">
+   	<div class="four columns ">
+   		<a href="https://www.thompson.co.uk/index.php/pioneering-approach">
+   			<div class="shadow">
+    		<img src="https://www.thompson.co.uk/images/home-images/approach-thompsons-home.jpg"/>
+    		<div class="panel grey min_height">
+	      		<h2>A Pioneering Approach</h2>
+	      		<p>Thompson’s have been supplying high quality feed to the market for over 100 years. During this time, we’ve pioneered some key innovations in feeding technology and helped farmers across Ireland to grow their produce and their profits.</p>
+<!-- 	      		<a href="#">Read more</a> -->
+	      	</div>
+	      	</div>
+   		</a>
+    </div>
+	<div class="four columns">
+		<a href="https://www.thompson.co.uk/index.php/technology">
+		   	<div class="shadow">
+	    	<img src="https://www.thompson.co.uk/images/technology-small.jpg" />
+	    	<div class="panel grey min_height">
+		      	<h2>A Commitment to Technology</h2>
+		      	<p>With a world class bio secure facility, a state of the art blending plant which can provide specialist blends for the ruminant sector
+			      	and three production sites across Northern Ireland, farmers can trust in the quality and consistency of Thompson’s products.</p>
+<!-- 		      	<a href="#">Read more</a> -->
+	    	</div>
+		   	</div>
+		</a>
+	</div>
+	<div class="four columns">
+		<a href="https://www.thompson.co.uk/index.php/news">
+		   	<div class="shadow">
+		   	
+	    		
+	    			
+	    	<div class="panel grey min_height">
+	      		<h2>Pedigree Herd Proves Performance</h2>
+	    
+	    <p>Pedigree Carrowcroft Herd</p><p>​</p>	
+	    <!-- 	      		<a href="#">Read more</a> -->
+			
+	      	</div>
+		   	</div>
+		</a>
+	</div>
+</div>
+</div>
+
+<div class="full-width-background grey">
+    <div class="brands">
+        <div class="row">
+            <div class="twelve columns">
+                <h1>Feed Brands</h1>
+                <div id="secondary">
+                    <img src="https://www.thompson.co.uk/images/brands.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="full-width-background light-blue enquires">
+	<div class="row">
+		<div class="seven columns">
+			<h2>Trading Desk</h2>
+			<p class="blue">Thompsons trading desk is a unique service offered to all of Northern Ireland’s producers
+				ensuring that there is a good deal available to everyone. With an extensive product portfolio the
+				trading desk can offer an improvement to both animal health and performance. By making one phone call
+				the ordered product can be on farm and ready to use within 48 hours. With this convenient and effective
+				service the benefits are available where and when you need them.</p>
+			<p class="blue">The main product lines include minerals, liquid feeds, protected fats and alternative feeds.
+			</p>
+		</div>
+		<div class="four columns">
+			<h2 class="h1">Enquiries</h2>
+			<ul>
+				<li class="no_hover">General - 028 9035 1321</li>
+				<li class="no_hover">Customer Services - 0800 526 378</li>
+				<li class="no_hover">Trading Desk - 028 9035 4622</li>
+				<li class="no_hover"><a href="mailto:customerservices@thompson.co.uk">customerservices@thompson.co.uk</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+<footer>
+	<div class="row">
+		<div class="twelve columns">
+			<dl class="sub-nav">
+				<dd><a href="https://www.thompson.co.uk/index.php/pioneering-approach">About Us</a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/pioneering-approach">Pioneering Approach <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/technology">Technology <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/history">History <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/quality">Quality <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/feed-distribution">Feed Distribution <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/brands">Brands <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/news">News <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+			</dl>
+		
+			<dl class="sub-nav">
+				<dd><a href="https://www.thompson.co.uk/index.php/ruminant-feeds">Feed Divisions</a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/ruminant-feeds">Ruminant Feeds <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/poultry-feeds">Poultry Feeds <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/pig-feeds">Pig Feeds <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/feed-range">Horse Feeds <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/alternative-feeds">Alternative Feeds <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+			</dl>
+		
+			<dl class="sub-nav">
+				<dd><a href="https://www.thompson.co.uk/index.php/g-lime-and-fertiliser">Other Products</a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/g-lime-and-fertiliser">G-Lime &amp; Fertiliser <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/grass-seed">Grass Seed <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/silage-innoculant">Silage Additives <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/secure-covers">Secure Covers <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+			</dl>
+			
+			<dl class="sub-nav">
+				<dd><a href="https://www.thompson.co.uk/index.php/silage-analysis">Services</a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/silage-analysis">Silage Analysis <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/soil-analysis">Soil Analysis <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/milk-manager">Milk Manager <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+				<dd><a href="https://www.thompson.co.uk/index.php/ultramix">Ultramix <img src="https://www.thompson.co.uk/images/arrow-icon.png" /></a></dd>
+			</dl>
+			
+			<dl class="sub-nav">
+				<dd><a href="https://www.thompson.co.uk/index.php/contact">Contact Details</a></dd>
+				<dd class="footerFakeA">
+					<address>39 York Road, <br> Belfast, <br> BT15 3GW</address>
+					<a href="tel:02890351321">028 90351321</a> <br>
+					<a href="mailto:info@thompson.co.uk">info@thompson.co.uk</a>
+					<ul class="social top30">
+						<li><a href="https://www.instagram.com/thompsonfeeds/" target="_blank"> <img src="https://www.thompson.co.uk/images/instagram-logo.svg" /></a></li>
+						<li><a href="https://www.facebook.com/ThompsonFeeds" target="_blank"> <img src="https://www.thompson.co.uk/images/facebook-logo.svg" /></a></li>
+<li><a href="https://twitter.com/ThompsonFeeds" target="_blank"> <img src="https://www.thompson.co.uk/images/twitter-logo.svg" /></a></li>
+
+					</ul>
+				</dd>
+			</dl>
+		</div>
+		<div class="twelve columns copyright">
+			<ul>
+				<li><a href="https://www.thompson.co.uk/index.php/terms">Terms & Conditions</a></li>
+				<li><a href="https://www.thompson.co.uk/index.php/privacy">Privacy Policy</a></li>
+				<li><a href="https://www.thompson.co.uk/index.php/modern-slavery">Modern Slavery</a></li>
+				<li><a href="https://thompson.co.uk/pdf/FinalSIPB&HHPS300920.pdf">Pension SIP</a></li>
+			</ul>
+			<p>THOMPSONS are approved to HACCP International Quality Systems | Registered in Northern Ireland No. NI R447 VAT No. GB 689 769 047. Calls may be recorded for training and quality assurance purposes.
+			</p>
+		</div>
+	</div>
+</footer>
+
+
+  
+  <!-- Included JS Files (Uncompressed) -->
+    
+<!--
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+-->
+  
+ 
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="https://www.thompson.co.uk/javascripts/jquery.js"></script>
+  <script src="https://www.thompson.co.uk/javascripts/foundation.min.js"></script>
+  
+  <!-- Initialize JS Plugins -->
+  <script src="https://www.thompson.co.uk/javascripts/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+	$('#featured').orbit({
+	  animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+	  animationSpeed: 800,                // how fast animtions are
+	  timer: true,                        // true or false to have the timer
+	  resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
+	  advanceSpeed: 4000,                 // if timer is enabled, time between transitions
+	  pauseOnHover: false,                // if you hover pauses the slider
+	  startClockOnMouseOut: false,        // if clock should start on MouseOut
+	  startClockOnMouseOutAfter: 1000,    // how long after MouseOut should the timer start again
+	  directionalNav: true,               // manual advancing directional navs
+	  captions: true,                     // do you want captions?
+	  captionAnimation: 'fade',           // fade, slideOpen, none
+	  captionAnimationSpeed: 800,         // if so how quickly should they animate in
+	  bullets: true,                     // true or false to activate the bullet navigation
+	  bulletThumbs: false,                // thumbnails for the bullets
+	  bulletThumbLocation: '',            // location from this file where thumbs will be
+	  afterSlideChange: function(){},     // empty function
+	  fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
+	}),
+	$('#secondary').orbit({
+	  animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+	  animationSpeed: 800,                // how fast animtions are
+	  timer: false,                        // true or false to have the timer
+	  resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
+	  advanceSpeed: 4000,                 // if timer is enabled, time between transitions
+	  pauseOnHover: false,                // if you hover pauses the slider
+	  startClockOnMouseOut: false,        // if clock should start on MouseOut
+	  startClockOnMouseOutAfter: 1000,    // how long after MouseOut should the timer start again
+	  directionalNav: false,               // manual advancing directional navs
+	  captions: true,                     // do you want captions?
+	  captionAnimation: 'slideOpen',           // fade, slideOpen, none
+	  captionAnimationSpeed: 1000,         // if so how quickly should they animate in
+	  bullets: false,                     // true or false to activate the bullet navigation
+	  bulletThumbs: false,                // thumbnails for the bullets
+	  bulletThumbLocation: '',            // location from this file where thumbs will be
+	  afterSlideChange: function(){},     // empty function
+	  fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
+	});   });
+    </script> 
+  
+</body>
+</html>
+0
+

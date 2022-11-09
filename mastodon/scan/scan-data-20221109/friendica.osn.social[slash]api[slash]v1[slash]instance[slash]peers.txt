@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:25 GMT
+Server: LiteSpeed
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+X-Powered-By: PHP/7.4.33
+X-Response-Type: json
+
+["friendica.osn.social","friendica.bachgau.social","friends.polli.social","social.softmetz.de","social.tromdienste.de","friendica.vrije-mens.org","social.trom.tf","friendica.a-zwenkau.de","social.yl.ms","scl.clttr.info","f.kretschmann.social","friendica.opensocial.space","friendica.utzer.de","nerdica.net","friendica.mifritscher.de","social.fedinet.de","friendica.youhavewrites.social","pztrn.online","pirati.ca","rsd.dnshome.de\/friendica","social.agb-web.de","friendica.eskimo.com","friendica.mschmidt-et.de","friendica.ambag.es","anonsys.net","f.freinetz.ch","social.badabam.net","fri.aethercom.de","friendica.multisum.info","poliverso.org","friend.pierobosio.info","soc.schuerz.at","friendica.gidikroon.eu","social.outsourcedmath.com","onlinegemein.de","friendica.ru","kudabiverse.com","schmaker.eu","bronyfurry.com","social.cool110.xyz","friendica.hellquist.eu","friendica.xyz","friendica.ucy.de","la-verite-vaincra.com","etiketi.de","anarchydica.net","friendica.me","lastfree.space","herzbu.de","f.haeder.net","f.praschnig.com","fed.sonnenmulde.at","quitter.pl","fr.readthefinemanual.net","friendica.offsite.guru","g1zm0.social","friends.wimmer-edv.de","convenient.email","friendica.minecloud.ro","friendica.hashy-net.de","philos.fkn-systems.de","soc.citizen4.eu","friend.geoffray-levasseur.org","friendica.ironbug.org","keybored.me","friends.deko.cloud","friendica.kommune4.de","friendica.jb-net.us","friendica.mrpetovan.com","letus.inspiredlife.fun","nsfw.wnymathguy.com","librenet.co.za","social.lucentinian.com","frnd.nanoscopic.de","friendica.myportal.social","friendica.togart.de","social.chadwaltercummings.me","mordor.social","venera.social","social.gl-como.it","squeet.me","friendica.philipp.info","opensocial.at","friendica.produnis.de","social.thierrytalbert.fr","friendica.ingram-braun.net","friendicarg.nsupdate.info","friendica.opencloud.lu","fika.grin.hu","rud.life","mb.neurario.com","social.cyano.at","f.iroiro.party","friendica.nz","friendica.m14xa.ru","social.digitalcastle.me","social.dorf-post.de","space.rick.gr","social.jmueller.eu","friendl.y-y.li","piratenpartei.social","dis-le.de","chatamerica.us","social.johnassel.de","www.urbanmind.net","fabler.su","redeyes.club","social.tyngsboroughma.net","t2.thotsofa304.club","v2.ebano.social","social.anacreonte.eu","friendica.daniel-siepmann.de","bergstrasse.social","social.msitc.de","amical.info","steampunk.social","art1sec.uber.space","friendica.heikosblog.eu","petroskowo.pl","friendica.retronerd.at","fediweij.nl","friendica.erabo.de","utopioca.com","sekretaerbaer.de","sozialer.irrpfad.de","friendica.glasserholdings.eu","punkrock.uber.space","friendica.jacobandersen.dev","social.bckr.me","openrealm.org","friendica.mbbit.de","ellenburg.computer","asteinhaus.de"]

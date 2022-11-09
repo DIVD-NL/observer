@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://basement.ragtag.moe wss://basement.ragtag.moe;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:06 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXydjOXDFfB1ecAIVAB
+X-Xss-Protection: 1; mode=block
+
+774
+["ihatebeinga.live","steffes.dev","mastodon.cloud","quitter.pl","space.rick.gr","freespeechextremist.com","yiff.life","fedi.absturztau.be","mastodon.social","social.inex.rocks","bungle.online","trollian.space","social.tchncs.de","en.relay.friendi.ca","kawen.space","mk.toast.cafe","stereophonic.space","lesbian.solutions","fediverse-lite.com","social.mikutter.hachune.net","social.softmetz.de","expired.mentality.rip","mk.vulpes.one","social.middleearth.fr","pirati.ca","social.fedinet.de","shitposter.club","anarchydica.net","snug.moe","cock.fish","mk.absturztau.be","misskey.bubbletea.dev","f.freinetz.ch","social.agb-web.de","udongein.xyz","schmaker.eu","shigusegubu.club","miraiverse.xyz","friendica.mnementh.co.uk","sfba.social","weeaboo.space","friendica.eskimo.com","pewtix.com","river.divineduty.xyz","misskey.ai","mastodon.halibut.com","raru.re","friendica.ellih.eu","vulpine.club","peoplemaking.games","phpc.social","mastodon.xyz","fedi.nullob.si","friendi.linuxand.beer","loma.ml","social.linux.pizza","meld.de","pl.nudie.social","rats-at.work","evil.social","pztrn.online","octodon.social","fabler.su","troll.cafe","queer.hacktivis.me","tea.iam.slg.br","fediverse.one","nebbia.fail","nerdica.net","social.trom.tf","etiketi.de","social.johnassel.de","friendica.bachgau.social","habbnn.com","mastodon.online","mstdn.io","friendica.opensocial.space","social.cool110.xyz","mk.nixnet.social","ryona.agency","tenforward.social","pleroma.lincolncyber.com","chaos.social","friendica.xyz","sweet.succubi.services","lain.com","toot.cat","social.tulsa.ok.us","social.jmueller.eu","tech.lgbt","outerheaven.club","social.badabam.net","testing.madhousebeyond.com","friendica.oldkid.digital","bae.st","hunk.city","mstdn.beer","mstdn.social","introvert.social","p.helene.moe","fosstodon.org","pleroma.salastil.com","pl.lain.sh","kansas-city.social","anonsys.net","social.yl.ms","mk.n0id.space","disqordia.space"]
+0
+

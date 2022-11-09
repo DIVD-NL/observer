@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://masto.popgeeks.com; font-src 'self' https://masto.popgeeks.com; img-src 'self' data: blob: https://masto.popgeeks.com https://popgeeks.files.fedi.monster; style-src 'self' https://masto.popgeeks.com 'nonce-FGHiBWSNxA2vlObUDcgQHg=='; media-src 'self' data: https://masto.popgeeks.com https://popgeeks.files.fedi.monster; frame-src 'self' https:; child-src 'self' blob: https://masto.popgeeks.com; worker-src 'self' blob: https://masto.popgeeks.com; connect-src 'self' blob: data: wss://masto.popgeeks.com https://masto.popgeeks.com https://popgeeks.files.fedi.monster; manifest-src 'self' https://masto.popgeeks.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:45 GMT
+Etag: W/"2db442f7b583ca8f1111f2c628fa028e"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:15:00.830925Z
+X-Request-Id: 9441e7ed-f780-48d0-93c6-01ba1f612405
+X-Runtime: 0.009653
+X-Xss-Protection: 0
+
+97
+["mas.to","masto.donte.com.br","federation.p1k3.com","hackers.town","mastodon.art","mastodon.social","follow.schmaller.de","social.outsourcedmath.com"]
+0
+

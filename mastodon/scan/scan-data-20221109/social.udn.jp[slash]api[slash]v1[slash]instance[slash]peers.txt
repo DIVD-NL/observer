@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 297
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:19:55 GMT
+Server: nginx/1.22.1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /api/v1/instance/peers was not found on this server.</p>
+<hr>
+<address>Apache/2.4.6 (CentOS) Server at social.udn.jp Port 80</address>
+</body></html>

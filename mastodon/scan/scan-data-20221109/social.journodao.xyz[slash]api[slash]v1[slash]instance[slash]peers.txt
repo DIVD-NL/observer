@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.journodao.xyz; img-src 'self' https: data: blob: https://social.journodao.xyz; style-src 'self' https://social.journodao.xyz 'nonce-20T23QGGG+WbXbG4OtoA4A=='; media-src 'self' https: data: https://social.journodao.xyz; frame-src 'self' https:; manifest-src 'self' https://social.journodao.xyz; connect-src 'self' data: blob: https://social.journodao.xyz https://social.journodao.xyz wss://social.journodao.xyz; script-src 'self' https://social.journodao.xyz; child-src 'self' blob: https://social.journodao.xyz; worker-src 'self' blob: https://social.journodao.xyz
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:44 GMT
+Etag: W/"41b027f7f47a845422aaa41bceccf9e2"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.724341Z
+X-Request-Id: 8a79e718-63ad-4f16-9ce8-ece52a1f0994
+X-Runtime: 0.006958
+X-Xss-Protection: 1; mode=block
+
+4b6
+["imaginair.es","vis.social","scholar.social","friendica.daniel-siepmann.de","herzbu.de","redeyes.club","anarchydica.net","friendica.hashy-net.de","friend.geoffray-levasseur.org","friendica.mschmidt-et.de","space.rick.gr","f.iroiro.party","social.anacreonte.eu","t2.thotsofa304.club","social.digitalcastle.me","friendica.mifritscher.de","follow.schmaller.de","friendica.togart.de","poliverso.org","friendica.nz","friendica.ucy.de","fr.readthefinemanual.net","friendica.opencloud.lu","social.tromdienste.de","kudabiverse.com","friendica.offsite.guru","friendica.ambag.es","quitter.pl","talkabout.cf","friendica.myportal.social","horizin.de","friendica.ironbug.org","social.jmueller.eu","frnd.nanoscopic.de","fri.aethercom.de","petroskowo.pl","f.kretschmann.social","hullblasters.club","toot.cafe","friendica.ingram-braun.net","friendica.kommune4.de","fosstodon.org","pztrn.online","mastodon.art","fabler.su","piratenpartei.social","exile.social","social.lucentinian.com","social.cyano.at","ioc.exchange","infosec.exchange","mastodon.nz","mastodon.lol","coales.co","mastodon.online","retro.pizza","mastodon.ie","indieweb.social","social.lol","mastodon.cloud","mstdn.social","mastodon.social","f.freinetz.ch"]
+0
+

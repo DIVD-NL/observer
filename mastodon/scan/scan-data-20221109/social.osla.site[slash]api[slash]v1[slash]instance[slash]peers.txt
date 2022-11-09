@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.osla.site; img-src 'self' https: data: blob: https://social.osla.site; style-src 'self' https://social.osla.site 'nonce-c+miis8lYyJALHHAq5Rphw=='; media-src 'self' https: data: https://social.osla.site; frame-src 'self' https:; manifest-src 'self' https://social.osla.site; connect-src 'self' data: blob: https://social.osla.site https://social.osla.site wss://social.osla.site; script-src 'self' https://social.osla.site; child-src 'self' blob: https://social.osla.site; worker-src 'self' blob: https://social.osla.site
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:16 GMT
+Etag: W/"8aeaced0655bf6d59d66de382f457f04"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.893185Z
+X-Request-Id: 1be8daba-c501-4d9e-b57d-b37f8de2a6ec
+X-Runtime: 0.013951
+X-Xss-Protection: 1; mode=block
+
+50
+["drprestonsamlitsmhs2021-try3.osla.space","mastodon.social","cloud.osla.space"]
+0
+

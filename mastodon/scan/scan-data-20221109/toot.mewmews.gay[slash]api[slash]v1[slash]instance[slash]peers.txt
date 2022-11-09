@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://toot.mewmews.gay; font-src 'self' https://toot.mewmews.gay; img-src 'self' data: blob: https://toot.mewmews.gay; style-src 'self' https://toot.mewmews.gay 'nonce-YcD8re24dcRI8YPBc5wFlQ=='; media-src 'self' data: https://toot.mewmews.gay; frame-src 'self' https:; child-src 'self' blob: https://toot.mewmews.gay; worker-src 'self' blob: https://toot.mewmews.gay; connect-src 'self' blob: data: wss://toot.mewmews.gay https://toot.mewmews.gay; manifest-src 'self' https://toot.mewmews.gay
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:58 GMT
+Etag: W/"0b00a93dbd0fc27d53e889b64a05da30"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Cache: HIT
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T05:40:00.153613Z
+X-Request-Id: bbc3232d-482c-442e-a296-405c709ae90b
+X-Runtime: 0.004518
+X-Xss-Protection: 0
+
+2c4
+["tech.lgbt","icosahedron.website","queer.party","botsin.space","misskey.mewmews.gay","dobbs.town","mk.absturztau.be","is.badat.dev","pixie.town","snowdin.town","misskey.bubbletea.dev","socel.net","plush.city","akko.chir.rs","chitter.xyz","infosec.exchange","skeletons.gay","social.tar.black","redeyes.club","chaos.social","mastodon.gamedev.place","fosstodon.org","petroskowo.pl","friendica.kommune4.de","catcatnya.com","is.nota.live","mstdn.social","kudabiverse.com","xirion.net","friendica.hashy-net.de","trans.enby.town","toot.site","friendica.mifritscher.de","mas.to","uwu.social","cathode.church","fri.aethercom.de","toot.theresnotime.io","friendica.togart.de","amble.quest","mastodon.art","crimew.gay"]
+0
+

@@ -1,0 +1,92 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.41
+Set-Cookie: oc_sessionPassphrase=U2jempYm6Wgb31zohTHRGYa9%2FeBOQuDjv%2Bg3C8wqtnRzGlPtqyW%2BNgh7uE%2FofqFAKT637k6zQmXSM4TGQ9U8RSYyKHpxQxtCJgDKr3iw7bAgMNrPo96HTtmvTO6w8pEs; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocskwmmgodcl=6prgi95h9fosig5s5co0svept7; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="WaKaDulyKJGyTVs34tvAmSjxyVjkUh0BPIb4iyWlbhI=:K8HrRNo1QP7VKm9Vgaio/GWT/zHSFH5zWdS54WmRGmE=">
+		<meta charset="utf-8">
+		<title>
+		VBZ cloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#00C82F">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=10">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=10">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#00C82F">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=10">
+		<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=47cd76e4-10">
+<link rel="stylesheet" href="/core/css/guest.css?v=80841b09-10">
+		<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/index.php/core/js/oc.js?v=80841b09"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/core/js/dist/main.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/core/js/dist/files_fileinfo.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/core/js/dist/files_client.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/files_sharing/js/dist/main.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/files_videoplayer/js/main.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/files_rightclick/js/script.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/files_rightclick/js/files.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/apps/theming/js/theming.js?v=80841b09-10"></script>
+<script nonce="V2FLYUR1bHlLSkd5VFZzMzR0dkFtU2p4eVZqa1VoMEJQSWI0aXlXbGJoST06SzhIclJObzFRUDdWS205VmdhaW8vR1dUL3pIU0ZINXpXZFM1NFdtUkdtRT0=" defer src="/core/js/dist/login.js?v=80841b09-10"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="VBZ cloud"/><meta property="og:description" content="No slogans.™"/><meta property="og:site_name" content="VBZ cloud"/><meta property="og:url" content="https://cloud.vbz.net/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.vbz.net/index.php/apps/theming/icon?v=10"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=10"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjEuMC40LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjEuMC40IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC52YnoubmV0XC9vY3NcL3YyLnBocFwvYXBwc1wvZmlsZXNcL2FwaVwvdjFcL2RpcmVjdEVkaXRpbmciLCJldGFnIjoiNjIyNmJhODczMzczZjVlNzNhM2VmNTA0MTA3NTIzZjcifSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLnZiei5uZXRcL2luZGV4LnBocFwvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAifSwibm90ZXMiOnsiYXBpX3ZlcnNpb24iOlsiMC4yIiwiMS4yIl0sInZlcnNpb24iOiI0LjMuMSJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6OCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQudmJ6Lm5ldFwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9jbG91ZC52YnoubmV0XC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xMS4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGlvbkVuYWJsZWQiOnRydWV9LCJmaWxlc19zaGFyaW5nIjp7InNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX19LCJzcHJlZWQiOnsiZmVhdHVyZXMiOlsiYXVkaW8iLCJ2aWRlbyIsImNoYXQtdjIiLCJjb252ZXJzYXRpb24tdjIiLCJndWVzdC1zaWduYWxpbmciLCJlbXB0eS1ncm91cC1yb29tIiwiZ3Vlc3QtZGlzcGxheS1uYW1lcyIsIm11bHRpLXJvb20tdXNlcnMiLCJmYXZvcml0ZXMiLCJsYXN0LXJvb20tYWN0aXZpdHkiLCJuby1waW5nIiwic3lzdGVtLW1lc3NhZ2VzIiwiZGVsZXRlLW1lc3NhZ2VzIiwibWVudGlvbi1mbGFnIiwiaW4tY2FsbC1mbGFncyIsImNvbnZlcnNhdGlvbi1jYWxsLWZsYWdzIiwibm90aWZpY2F0aW9uLWxldmVscyIsImludml0ZS1ncm91cHMtYW5kLW1haWxzIiwibG9ja2VkLW9uZS10by1vbmUtcm9vbXMiLCJyZWFkLW9ubHktcm9vbXMiLCJsaXN0YWJsZS1yb29tcyIsImNoYXQtcmVhZC1tYXJrZXIiLCJ3ZWJpbmFyeS1sb2JieSIsInN0YXJ0LWNhbGwtZmxhZyIsImNoYXQtcmVwbGllcyIsImNpcmNsZXMtc3VwcG9ydCIsImZvcmNlLW11dGUiLCJjb252ZXJzYXRpb24tdjMiLCJzaXAtc3VwcG9ydCIsImNoYXQtcmVhZC1zdGF0dXMiLCJwaG9uZWJvb2stc2VhcmNoIiwicmFpc2UtaGFuZCIsInJvb20tZGVzY3JpcHRpb24iLCJyaWNoLW9iamVjdC1zaGFyaW5nIiwidGVtcC11c2VyLWF2YXRhci1hcGkiLCJjaGF0LXJlZmVyZW5jZS1pZCJdLCJjb25maWciOnsiYXR0YWNobWVudHMiOnsiYWxsb3dlZCI6ZmFsc2V9LCJjaGF0Ijp7Im1heC1sZW5ndGgiOjMyMDAwLCJyZWFkLXByaXZhY3kiOjB9LCJjb252ZXJzYXRpb25zIjp7ImNhbi1jcmVhdGUiOmZhbHNlfSwicHJldmlld3MiOnsibWF4LWdpZi1zaXplIjozMTQ1NzI4fX19LCJ0aGVtaW5nIjp7Im5hbWUiOiJWQlogY2xvdWQiLCJ1cmwiOiIiLCJzbG9nYW4iOiJObyBzbG9nYW5zLlx1MjEyMiIsImNvbG9yIjoiIzAwQzgyRiIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMEM4MkYiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMEM4MkYiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDBDODJGIiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC52YnoubmV0XC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTAiLCJiYWNrZ3JvdW5kIjoiIzAwQzgyRiIsImJhY2tncm91bmQtcGxhaW4iOnRydWUsImJhY2tncm91bmQtZGVmYXVsdCI6dHJ1ZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC52YnoubmV0XC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTAiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLnZiei5uZXRcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xMCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiVkJaIGNsb3VkIiwidXJsIjoiIiwic2xvZ2FuIjoiTm8gc2xvZ2Fucy5cdTIxMjIiLCJjb2xvciI6IiMwMEM4MkYiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIxMCJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									VBZ cloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<span class="entity-name">VBZ cloud</span> – No slogans.™			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:19 GMT
+Location: https://www.byzero.de/api/v1/instance/peers
+Server: Caddy
+Server: nginx/1.14.2
+Content-Length: 0
+

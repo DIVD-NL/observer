@@ -1,0 +1,23 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778b7baa9883c6-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:36 GMT
+Location: https://www.hispashare.org/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FqU7ZQjifstfle5Ft%2FR4C1rTKaQluqawMniXZmSMABsIobDsrpkQ3eR6YWkzxAeb2LLUgFLj7Al2dvM2i28drTru%2Bdz2AkZecFSxlNyZJDNOxSF4UvJoTl430%2BaR7bYSF51et3w%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+91
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.17.8</center>
+</body>
+</html>
+
+0
+

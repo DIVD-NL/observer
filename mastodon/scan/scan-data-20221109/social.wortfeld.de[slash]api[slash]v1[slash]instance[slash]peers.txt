@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.wortfeld.de; img-src 'self' https: data: blob: https://social.wortfeld.de; style-src 'self' https://social.wortfeld.de 'nonce-NBfY3Sy8OcoqU9IVFifBBQ=='; media-src 'self' https: data: https://social.wortfeld.de; frame-src 'self' https:; manifest-src 'self' https://social.wortfeld.de; connect-src 'self' data: blob: https://social.wortfeld.de https://cdn.masto.host wss://social.wortfeld.de; script-src 'self' https://social.wortfeld.de; child-src 'self' blob: https://social.wortfeld.de; worker-src 'self' blob: https://social.wortfeld.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:02 GMT
+Etag: W/"deceaa1a3bf1b4b907d7fd05f17a2046"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.491845Z
+X-Request-Id: 28a8a1b6-b164-4803-87b8-302390f7000d
+X-Runtime: 0.007673
+X-Xss-Protection: 0
+
+22d
+["squeet.me","todon.eu","metalhead.club","muenster.im","radiosocial.de","machteburch.social","hub.brockha.us","chaos.social","mstdn.social","graz.social","wien.rocks","mastodon.online","bildung.social","muenchen.social","social.cologne","freunde.ma-nic.de","snabelen.no","social.tchncs.de","nerdculture.de","mastodontech.de","queer.party","beta.birdsite.live","social.diva.exchange","ruhr.social","nrw.social","norden.social","sueden.social","troet.cafe","hessen.social","social.anoxinon.de","det.social","social.anon-groups.de","loma.ml","mastodon.social"]
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bisset.me.uk; img-src 'self' https: data: blob: https://bisset.me.uk; style-src 'self' https://bisset.me.uk 'nonce-hoC/fsnQOzNwmf3eJ1c1LA=='; media-src 'self' https: data: https://bisset.me.uk; frame-src 'self' https:; manifest-src 'self' https://bisset.me.uk; connect-src 'self' data: blob: https://bisset.me.uk https://bisset.me.uk wss://bisset.me.uk; script-src 'self' https://bisset.me.uk; child-src 'self' blob: https://bisset.me.uk; worker-src 'self' blob: https://bisset.me.uk
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Etag: W/"02e3db1c66a9d295dd182731aa9003a7"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:35:00.190106Z
+X-Request-Id: a5fa54be-2d63-49bd-b08f-501f84556741
+X-Runtime: 0.006280
+X-Xss-Protection: 0
+
+303
+["fediscience.org","home.social","mastodon.world","mastodon.org.uk","aus.social","med-mastodon.com","ieji.de","mastodon.slightlycyberpunk.com","anarchydica.net","eigenmagic.net","masto.ai","ruby.social","mas.to","mastodon.nz","suedi.club","mastodon.lol","sigmoid.social","mastodon.me.uk","chirp.enworld.org","simonwillison.net","click.ba.it","m6n.io","dan.mastohon.com","meh.social","social.coop","mathstodon.xyz","hulvr.com","scholar.social","tech.lgbt","social.sgawolf.com","mastodon.sdf.org","oldbytes.space","infosec.exchange","data-folks.masto.host","mastodonapp.uk","mastodon.green","wybt.net","toot.community","bonn.social","boing.world","mxtthxw.art","tty0.social","fosstodon.org","mastodon.online","hachyderm.io","chaos.social","mastodon.scot","mastodon.social"]
+0
+

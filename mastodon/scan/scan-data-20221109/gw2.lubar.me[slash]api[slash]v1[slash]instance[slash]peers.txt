@@ -1,0 +1,24 @@
+HTTP/1.1 420 
+Connection: close
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,If-None-Match,Cache-Control,Content-Type,Range
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Range,Date
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: BYPASS
+Cf-Ray: 767773e4db2883cf-BRU
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 09 Nov 2022 15:06:30 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Origin-Agent-Cluster: ?1
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ujr97fGOUnjocTZWg9865DocsyXn1yiQXfHquXGEqELXG1rncALUtAjWBEEMGZPHO3IhBon90Q0O%2F2BKADWr0AvDaLW41ftmF8Rru4LvzlW0un1qSkLiInG6HH3MaC8%3D"}],"group":"cf-nel","max_age":604800}
+Sec-User-Is-A-Cutie: ?1
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Timing-Allow-Origin: *
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+Content-Length: 0
+

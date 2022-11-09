@@ -1,0 +1,25 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Content-Length: 54
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b811f992e08-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.liyuan.app; img-src 'self' https: data: blob: https://mastodon.liyuan.app; style-src 'self' https://mastodon.liyuan.app 'nonce-di4ff7XXBKgF6v4L+lr6XQ=='; media-src 'self' https: data: https://mastodon.liyuan.app; frame-src 'self' https:; manifest-src 'self' https://mastodon.liyuan.app; connect-src 'self' data: blob: https://mastodon.liyuan.app https://s3.llyuan.info wss://streaming.mastodon.liyuan.app; script-src 'self' https://mastodon.liyuan.app; child-src 'self' blob: https://mastodon.liyuan.app; worker-src 'self' blob: https://mastodon.liyuan.app
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:42 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2NGI2LAvS4bvya0pQLN%2Fc2KrtAfXmkW9uSIXCsZ%2BHb4CxQe96LeFO38pLO63jSTicKAJnPkSeo9nS8W5fUSKChO5yjpxu7DSlTcDQFHaQRBeMpsirjpVXr%2F8Qy%2B%2BtY1BTAn%2B3Vw%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.681485Z
+X-Request-Id: c72e991b-21f6-44ed-aeb6-005aed8e1e33
+X-Runtime: 0.004346
+X-Xss-Protection: 0
+
+{"error":"This method requires an authenticated user"}

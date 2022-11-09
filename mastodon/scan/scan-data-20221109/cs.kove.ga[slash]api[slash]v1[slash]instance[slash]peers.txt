@@ -1,0 +1,31 @@
+HTTP/1.1 203 
+Connection: close
+Content-Length: 631
+Age: 0
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:42 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: JSESSIONID=8E5F6D6B07AB59F94BD880FA1993B29C; Path=/; HttpOnly
+X-Server: ip-172-31-18-134
+
+<html> 
+  <head>
+    <title>kove.ga</title>
+    <meta http-equiv="refresh" content="1; URL=http://domain.dot.tk/p/?d=KOVE.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005860392"/>
+    <script type="text/javascript">
+    <!--
+      function redir(){ var $fwd = 'http://domain.dot.tk/p/?d=KOVE.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005860392'; if(window.parent){ window.parent.location=$fwd; }else{ window.location=$fwd; }}
+    //-->
+    </script>
+  </head>
+  <body onload="redir()">
+    <script language="text/javascript">
+    <!--
+      window.setTimeout('redir();', 50 * 1);
+    //-->
+    </script>
+  </body>
+</html>

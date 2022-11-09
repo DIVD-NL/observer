@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677662bf9c183c7-BRU
+Content-Security-Policy: upgrade-insecure-requests; default-src 'none'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; form-action 'self'; font-src 'self'; frame-ancestors 'self'; base-uri 'self'; connect-src 'self'; img-src 'self' https://pbs.twimg.com; frame-src 'self'
+Date: Wed, 09 Nov 2022 14:57:08 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: no-referrer
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ifAO0%2B2uatTy8dim8DdOdpXuNXQX9ipVQqW16RJYnj%2BDpzb9iULHe6K5wW91YNO8%2FJI6oxz6vW030Sd98eIs89KHyqM2TEhxRUPxrkkQGpZ4%2BOOvH3lieWnV1D88zre05A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Forwarded-Proto: https
+X-Forwarded-Scheme: https
+X-Frame-Options: DENY
+X-Powered-By: Cats <3
+Content-Length: 0
+

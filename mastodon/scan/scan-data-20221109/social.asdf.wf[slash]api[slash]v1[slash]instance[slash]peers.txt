@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.asdf.wf; img-src 'self' https: data: blob: https://social.asdf.wf; style-src 'self' https://social.asdf.wf 'nonce-wSAYyGKJnOWfp3nJ9W1y4w=='; media-src 'self' https: data: https://social.asdf.wf; frame-src 'self' https:; manifest-src 'self' https://social.asdf.wf; connect-src 'self' data: blob: https://social.asdf.wf https://cdn.masto.host wss://social.asdf.wf; script-src 'self' https://social.asdf.wf; child-src 'self' blob: https://social.asdf.wf; worker-src 'self' blob: https://social.asdf.wf
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:51 GMT
+Etag: W/"7368ab6a63aca2a3f0cd8359c93881e6"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.666089Z
+X-Request-Id: 153b102f-dd88-4abf-9804-c59ab62f5cbd
+X-Runtime: 0.008171
+X-Xss-Protection: 0
+
+5ce
+["r2.do","home.social","eeeeeeeee.eu","mastodon.cloud","willnorris.com","ioc.exchange","akko.chir.rs","mastodon.ie","aus.social","octodon.social","oldbytes.space","masto.ai","mamot.fr","botsin.space","layer8.space","fediscience.org","rag.pub","freeradical.zone","mastodon.lol","masto.chronos-tachyon.net","wake.st","soylent.green","sfba.social","wandering.shop","noc.social","inuh.net","xoxo.zone","wikis.world","a.gup.pe","social.masto.host","interconnected.systems","infosec.exchange","robot.rodeo","mastodonapp.uk","mastodon.scot","kolektiva.social","fosstodon.org","woof.group","xn--trt-tna.sebtobie.de","social.makerforums.info","bbs.kawa-kun.com","magicalgirl.party","mastodon.online","spacelasers.us","dan.mastohon.com","towns.gay","elekk.xyz","polyglot.city","mastodon.art","mstdn.social","legal.social","indieweb.social","cloudisland.nz","toot.community","chat.noelle.codes","bloor.tw","mas.to","expired.mentality.rip","simonwillison.net","jacobian.org","mastodon.bida.im","toot.cafe","fiasco.social","gruene.social","status.steren.fr","fedi.absturztau.be","mastodon.green","chaos.social","mastodon.me.uk","mastodon.sdf.org","saturation.social","movsw.0x0.st","campaign.openworlds.info","sciencemastodon.com","ausglam.space","social.skrep.in","genart.social","mastodon.ml","masto.design","hachyderm.io","todon.eu","mythago.space","c.im","eldritch.cafe","scholar.social","social.coop","tech.lgbt","merveilles.town","mastodon.social","pettingzoo.co","macaw.social","journa.host"]
+0
+

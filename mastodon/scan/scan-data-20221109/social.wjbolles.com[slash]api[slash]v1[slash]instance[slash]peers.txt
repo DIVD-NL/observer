@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.wjbolles.com; img-src 'self' https: data: blob: https://social.wjbolles.com; style-src 'self' https://social.wjbolles.com 'nonce-SEoLTU/HxvSOg2Qpmrvr9A=='; media-src 'self' https: data: https://social.wjbolles.com; frame-src 'self' https:; manifest-src 'self' https://social.wjbolles.com; connect-src 'self' data: blob: https://social.wjbolles.com https://files.example.com wss://social.wjbolles.com; script-src 'self' https://social.wjbolles.com; child-src 'self' blob: https://social.wjbolles.com; worker-src 'self' blob: https://social.wjbolles.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:00 GMT
+Etag: W/"53dabfded4d46284d43adcc39493f7d1"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T11:55:00.517339Z
+X-Request-Id: 0e3ba4b3-9b22-4f30-8f19-efd2f7357d7b
+X-Runtime: 0.041845
+X-Xss-Protection: 0
+
+5bb
+["mastodon.matrix.org","friendica.eskimo.com","f.freinetz.ch","friendica.opensocial.space","friendica.hubup.pro","oslo.town","social.yl.ms","social.chadwaltercummings.me","f.praschnig.com","troet.cafe","mastodon.libre-entreprise.com","mastodon.tetaneutral.net","social.softmetz.de","mastodon.gal","dizl.de","sometimes.social","librem.one","ioc.exchange","podcastindex.social","one.darnell.one","social.bau-ha.us","mstdn.social","101010.pl","social.badabam.net","pleroma.pt","friendica.ironbug.org","nerdica.net","friendica.oldkid.digital","xn--baw-joa.social","jorts.horse","imaginair.es","scholar.social","friendica.bachgau.social","quitter.pl","venera.social","social.masto.host","mspsocial.net","mathstodon.xyz","qoto.org","tooting.ch","mastodon.cipherbliss.com","mastodon.art","social.trom.tf","social.dropbear.xyz","freiburg.social","tech.lgbt","social.tromdienste.de","horche.demkontinuum.de","gnomos.org","mastodon.zaclys.com","mastodon.technology","social.opendesktop.org","retro.social","nekohell.eu","kosmos.social","friendica.vrije-mens.org","mastodon.xyz","loma.ml","norden.social","todon.eu","social.tchncs.de","mtd.ax9.eu","vis.social","mastodon.cloud","floss.social","pouet.chapril.org","mstdn.starnix.network","metalhead.club","jako.social","mastodon.org.uk","framapiaf.org","social.coop","fosstodon.org","mas.to","mastodon.underworld.fr","mamot.fr","mastodon.online","bsd.network","tilde.zone","chaos.social","mastodon.social","mastodon.kerenon.com"]
+0
+

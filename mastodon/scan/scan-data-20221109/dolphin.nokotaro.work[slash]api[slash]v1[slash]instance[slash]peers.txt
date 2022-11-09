@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766f4c9da2e08-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XJALmBz6OsZGU0cRjHdIZqorZpEQlgzAdyFi4EJJW7EZvZuBbH53f%2B5oktl1HbCUecMiOvF%2Bj6%2FAqjb7BFl7YvImmZvEE3LebCn6BbhhHk2xG1gIV0atQSn3Lopcj6Qtbp5ddI%2BtYl4%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=5.0000003284367e-06
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+25e
+["blob.cat","melilot.icu","mastodon.cardina1.red","pl.komittee.net","akanechan.love","misskey.nemonet.xyz","mastodon.zunda.ninja","dolphin.xn--931a.moe","yuzulia.xyz","e.usagi.top","mstdn.asterism.xyz","fedimas.com","dolphin.usagi.top","mk.a9z.dev","kiwifarms.cc","freespeechextremist.com","cyberia.nessel.cloud","freesoftwareextremist.com","imastodon.net","lapy.link","dolphin.natalie.ee","neckbeard.xyz","cmpwn.com","misskey.dev","misskey.nokotaro.com","misskey.m544.net","twingyeo.kr","mstdn.rinsuki.net","twista.283.cloud","pawoo.net","madost.one","fedibird.com","nya.social","gorone.xyz","misskey.io"]
+0
+

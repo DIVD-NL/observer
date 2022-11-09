@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 339
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:16:01 GMT
+Location: https://jforseth.tech/api/v1/instance/peers
+Server: Apache/2.4.41 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://jforseth.tech/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at pleroma.jforseth.tech Port 443</address>
+</body></html>

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://takeko.monster; img-src 'self' https: data: blob: https://takeko.monster; style-src 'self' https://takeko.monster 'nonce-Sq8TlBA5vqDlB9U0DzSxmw=='; media-src 'self' https: data: https://takeko.monster; frame-src 'self' https:; manifest-src 'self' https://takeko.monster; connect-src 'self' data: blob: https://takeko.monster https://takeko.monster wss://takeko.monster; script-src 'self' https://takeko.monster; child-src 'self' blob: https://takeko.monster; worker-src 'self' blob: https://takeko.monster
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:29 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.427134Z
+X-Request-Id: 9d26e991-4df1-4e71-9645-42b0b684c103
+X-Runtime: 0.008275
+X-Xss-Protection: 0
+
+0
+

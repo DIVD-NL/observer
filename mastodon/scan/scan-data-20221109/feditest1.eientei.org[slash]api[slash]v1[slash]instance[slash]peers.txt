@@ -1,0 +1,48 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 754
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:03 GMT
+Etag: "61ff0e4e-2f2"
+Server: nginx/1.22.0
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Pleroma Eientei</title>
+  <style>
+    body {
+        background-color: #aaa;
+	text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    div > * {
+        flex-grow: 0;
+    }
+    body, html {
+        height: 100%;
+    }
+    body, html, h1 {
+        margin: 0;
+        padding: 0;
+    }
+    h1 {
+        padding-bottom: 1em;
+    }
+    a {
+      color: #000;
+      font-family: sans;
+    }
+  </style>
+</head>
+<body>
+<div>
+  <h1>Service is restarting right now, retry in a minute or two</h1>
+  <p><a href="https://status.eientei.org">status/uptime</a></p>
+  <img src="/inprogress.png" alt="eientei"/>
+</div>
+</body>
+</html>

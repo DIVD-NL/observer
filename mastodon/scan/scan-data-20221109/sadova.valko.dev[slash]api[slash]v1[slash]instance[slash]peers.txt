@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:19 GMT
+Etag: W/"8febdc2796817a3ad9fa1af871f3fd1d"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:05:00.933994Z
+X-Request-Id: b5d7dad4-eb68-4e86-95d9-421bc1269232
+X-Runtime: 0.008482
+X-Xss-Protection: 1; mode=block
+
+f9
+["mastodon.online","universeodon.com","ioc.exchange","vulpine.club","mastodon.sdf.org","mastodon.coffee","mstdn.moe","mastodon.social","mastodont.cat","socel.net","mstdn.social","genomic.social","mas.to","mastodon.art","agora.echelon.pl","m.cmx.im"]
+0
+

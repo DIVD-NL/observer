@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 212
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:22:47 GMT
+Location: http://notavailable.goneo.de
+Server: Apache
+Strict-Transport-Security: max-age=0; includeSubDomains
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://notavailable.goneo.de">here</a>.</p>
+</body></html>

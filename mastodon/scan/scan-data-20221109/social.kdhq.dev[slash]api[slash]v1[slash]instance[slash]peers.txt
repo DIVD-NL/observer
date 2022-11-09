@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.kdhq.dev; img-src 'self' https: data: blob: https://social.kdhq.dev; style-src 'self' https://social.kdhq.dev 'nonce-UqIwPXuovngdH68vgzCKPA=='; media-src 'self' https: data: https://social.kdhq.dev; frame-src 'self' https:; manifest-src 'self' https://social.kdhq.dev; connect-src 'self' data: blob: https://social.kdhq.dev https://social.kdhq.dev wss://social.kdhq.dev; script-src 'self' https://social.kdhq.dev; child-src 'self' blob: https://social.kdhq.dev; worker-src 'self' blob: https://social.kdhq.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:46 GMT
+Etag: W/"c868283e4886c92c1a9fc14036fc65fe"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.010290Z
+X-Request-Id: d36f2fe8-79f6-49a2-b82c-87e533fd83ed
+X-Runtime: 0.014696
+X-Xss-Protection: 0
+
+f
+["ruby.social"]
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 53
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: report-uri https://sentry.mobilizon.org/api/2/security/?sentry_key=40b6fa4d621f40efa6155d70c9618301 ; report-to csp-endpoint;upgrade-insecure-requests;frame-ancestors 'none';frame-src player.twitch.tv mensuel.framapad.org hebdo.framapad.org lite.framacalc.org framatalk.org;font-src 'self' ;media-src 'self' ;img-src 'self' data: blob: *.tile.openstreetmap.org stats.framasoft.org search.joinmobilizon.org;connect-src 'self' * blob: https://instance1.mobilizon.org wss://instance1.mobilizon.org stats.framasoft.org sentry.mobilizon.org;style-src 'self' ;script-src 'self' 'unsafe-eval' 'sha256-4RS22DYeB7U14dra4KcQYxmwt5HkOInieXK1NUMBmQI=' 'sha256-zJdRXhLWm9NGI6BFr+sNmHBBrjAdJdFr7MpUq0EwK58=' stats.framasoft.org;default-src 'none';base-uri 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:35 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https://sentry.mobilizon.org/api/2/security/?sentry_key=40b6fa4d621f40efa6155d70c9618301"}],"group":"csp-endpoint","max-age":10886400}
+Reporting-Endpoints: csp-endpoint="https://sentry.mobilizon.org/api/2/security/?sentry_key=40b6fa4d621f40efa6155d70c9618301"
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: FyXzJK88NasCw90ABzOE
+X-Xss-Protection: 0
+
+{"errors":[{"message":"No query document supplied"}]}

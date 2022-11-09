@@ -1,0 +1,31 @@
+HTTP/1.1 203 
+Connection: close
+Content-Length: 643
+Age: 0
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 14:51:23 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: JSESSIONID=B292A5F3A084D7BF1E3E04258981551E; Path=/; HttpOnly
+X-Server: ip-172-31-40-58
+
+<html> 
+  <head>
+    <title>reitrace.ga</title>
+    <meta http-equiv="refresh" content="1; URL=http://domain.dot.tk/p/?d=REITRACE.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005481943"/>
+    <script type="text/javascript">
+    <!--
+      function redir(){ var $fwd = 'http://domain.dot.tk/p/?d=REITRACE.GA&i=193.105.73.176&c=32&ro=0&ref=unknown&_=1668005481943'; if(window.parent){ window.parent.location=$fwd; }else{ window.location=$fwd; }}
+    //-->
+    </script>
+  </head>
+  <body onload="redir()">
+    <script language="text/javascript">
+    <!--
+      window.setTimeout('redir();', 50 * 1);
+    //-->
+    </script>
+  </body>
+</html>

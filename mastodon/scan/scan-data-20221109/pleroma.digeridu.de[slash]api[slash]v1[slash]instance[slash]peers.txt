@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.digeridu.de wss://pleroma.digeridu.de;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:52 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Cowboy
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzfHZqEcaVwgsAAg1C
+X-Xss-Protection: 1; mode=block
+
+621
+["friendica.utzer.de","cybre.space","rollenspiel.group","social.dorf-post.de","dis-le.de","quitter.pl","social.fouquet.me","broken.graphics","mastodon.social","friendica.jb-net.us","my.medic.cafe","friendica.vrije-mens.org","fnordon.de","nerdica.net","social.tchncs.de","social.trom.tf","friendica.argentwolf.org","noc.social","the.shitposting.network","amical.info","etiketi.de","uberspace.social","social.softmetz.de","hostsharing.coop","mastodon.scot","friendica.bachgau.social","mastodon.online","pirati.ca","social.p0lymer.net","friendica.opensocial.space","social.fedinet.de","glitch.taks.garden","toot.berlin","anarchydica.net","uelfte.club","xoxo.zone","toot.fedilab.app","libranet.de","f.freinetz.ch","mastodon.lol","rollenspiel.social","eeeeeeeee.eu","chaos.social","friendica.xyz","friendica.mnementh.co.uk","toot.cat","layer8.space","ieji.de","social.jmueller.eu","tech.lgbt","unmedicated.schizoid.social","shitposting.army","fedi.ml","im-in.space","woof.group","lediver.se","schuppentier.social","sneed.network","f.praschnig.com","frnd.nanoscopic.de","friendica.ellih.eu","cuties.social","hal9.ooo","ruhr.social","social.tromdienste.de","bearologics.social","hunk.city","mastodon.coffee","mastodon.technology","social.troll.academy","mastodon.xyz","f.haeder.net","troet.cafe","wiesbaden.social","social.chadwaltercummings.me","mstdn.social","norden.social","nerdculture.de","loma.ml","ven.uber.space","post.lurk.org","friendica.hubup.pro","hessen.social","anonsys.net","pztrn.online","social.yl.ms","legal.social","digitalcourage.social","onlinegemein.de"]
+0
+

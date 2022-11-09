@@ -1,0 +1,106 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: * https://code.mygaia.org https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443;media-src 'self' blob:;frame-src prezi.com player.vimeo.com vine.co www.youtube.com 'self' nc: https://code.mygaia.org;child-src blob: 'self';frame-ancestors 'self' https://code.mygaia.org;worker-src blob: 'self';form-action 'self' https://code.mygaia.org
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: openresty
+Set-Cookie: 5141dd4dd0d78=1eae701bdb684a039b683f4cb28dc5ce; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=TmUqeUqxC9Ml92u7KdwLpcHC9b42K9uIci8JtxAH%2B%2FqBIBA17H510Ud81d%2FxhWQk3NEemFUuYB1jDFdkDvAU11OyAtaWTENjdtfCQWftFNNx5ptdOIrrBV2Vpzwww%2FzO; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: 5141dd4dd0d78=2293060c01a1cf96b08e92109577b9cd; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: 5141dd4dd0d78=2293060c01a1cf96b08e92109577b9cd; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: 5141dd4dd0d78=2293060c01a1cf96b08e92109577b9cd; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: 5141dd4dd0d78=2293060c01a1cf96b08e92109577b9cd; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000;includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/8.1.12
+X-Request-Id: RvF8QWMzk9YmLZFdrqUb
+X-Robots-Tag: none
+X-Served-By: cloud.mygaia.org
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="kvFEEpsOdZgw8ATuU42aAsJSKSkvQTEkaLSA27jIfGc=:pNoLZNd9BdJUk06KKu7UYPdgeHhACV9pXcP3qvCbCFQ=">
+		<meta charset="utf-8">
+		<title>
+			Login – Mygaia Cloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082C9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082C9">
+		<link rel="manifest" href="/apps/theming/manifest?v=14">
+		<link rel="stylesheet" href="/core/css/server.css?v=6030bad6-14">
+<link rel="stylesheet" href="/custom_apps/cospend/css/cospend-search.css?v=0cea24ae-14">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=1bf6e69c-14">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=47354877-14">
+<link rel="stylesheet" href="/core/css/guest.css?v=6030bad6-14">
+		<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/core/js/oc.js?v=6030bad6"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/core-common.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/core-main.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/core-files_fileinfo.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/core-files_client.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/js/core/merged-template-prepend.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/core-login.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/dist/files_sharing-main.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/custom_apps/collectives/js/collectives-files.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/apps/files_rightclick/js/script.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/apps/files_rightclick/js/files.js?v=6030bad6-14"></script>
+<script nonce="a3ZGRUVwc09kWmd3OEFUdVU0MmFBc0pTS1NrdlFURWthTFNBMjdqSWZHYz06cE5vTFpOZDlCZEpVazA2S0t1N1VZUGRnZUhoQUNWOXBYY1AzcXZDYkNGUT0=" defer src="/apps/theming/js/theming.js?v=6030bad6-14"></script>
+		<meta property="og:title" content="Mygaia Cloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Mygaia Cloud"/><meta property="og:url" content="https://cloud.mygaia.org/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.mygaia.org/core/img/favicon-touch.png"/><link rel="stylesheet" media="" href="/apps/theming/theme/default.css?plain=1&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: light)" href="/apps/theming/theme/light.css?plain=1&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/theming/theme/dark.css?plain=1&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="(prefers-contrast: more)" href="/apps/theming/theme/light-highcontrast.css?plain=1&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark) and (prefers-contrast: more)" href="/apps/theming/theme/dark-highcontrast.css?plain=1&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/light.css?plain=0&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/dark.css?plain=0&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/light-highcontrast.css?plain=0&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/dark-highcontrast.css?plain=0&amp;v=fa35e192" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/opendyslexic.css?plain=0&amp;v=fa35e192" class="theme"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-alternativeLogins" value="W10=">
+					<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjUuMC4xLjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjUuMC4xIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIiwibG9nbGV2ZWwiOjB9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKSgoPzpbLUEtWjAtOStfXStcXC4pK1stQS1aXSsoPzpcXFwvWy1BLVowLTkrJkAjJT89fl98ITosLjsoKV0qKSopKFxcc3xcXG58JCkifSwibWV0YWRhdGFBdmFpbGFibGUiOnsic2l6ZSI6WyJcL2ltYWdlXFxcLy4qXC8iXSwiZ3BzIjpbIlwvaW1hZ2VcXFwvLipcLyJdfSwiZmlsZXMiOnsiYmlnZmlsZWNodW5raW5nIjp0cnVlLCJibGFja2xpc3RlZF9maWxlcyI6WyIuaHRhY2Nlc3MiXSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sImNpcmNsZXMiOnsidmVyc2lvbiI6IjI1LjAuMCIsInN0YXR1cyI6eyJnbG9iYWxTY2FsZSI6ZmFsc2V9LCJzZXR0aW5ncyI6eyJmcm9udGVuZEVuYWJsZWQiOnRydWUsImFsbG93ZWRDaXJjbGVzIjoyNjIxNDMsImFsbG93ZWRVc2VyVHlwZXMiOjMxLCJtZW1iZXJzTGltaXQiOi0xfSwiY2lyY2xlIjp7ImNvbnN0YW50cyI6eyJmbGFncyI6eyIxIjoiU2luZ2xlIiwiMiI6IlBlcnNvbmFsIiwiNCI6IlN5c3RlbSIsIjgiOiJWaXNpYmxlIiwiMTYiOiJPcGVuIiwiMzIiOiJJbnZpdGUiLCI2NCI6IkpvaW4gUmVxdWVzdCIsIjEyOCI6IkZyaWVuZHMiLCIyNTYiOiJQYXNzd29yZCBQcm90ZWN0ZWQiLCI1MTIiOiJObyBPd25lciIsIjEwMjQiOiJIaWRkZW4iLCIyMDQ4IjoiQmFja2VuZCIsIjQwOTYiOiJMb2NhbCIsIjgxOTIiOiJSb290IiwiMTYzODQiOiJDaXJjbGUgSW52aXRlIiwiMzI3NjgiOiJGZWRlcmF0ZWQiLCI2NTUzNiI6Ik1vdW50IHBvaW50In0sInNvdXJjZSI6eyJjb3JlIjp7IjEiOiJOZXh0Y2xvdWQgQWNjb3VudCIsIjIiOiJOZXh0Y2xvdWQgR3JvdXAiLCI0IjoiRW1haWwgQWRkcmVzcyIsIjgiOiJDb250YWN0IiwiMTYiOiJDaXJjbGUiLCIxMDAwMCI6Ik5leHRjbG91ZCBBcHAifSwiZXh0cmEiOnsiMTAwMDEiOiJDaXJjbGVzIEFwcCIsIjEwMDAyIjoiQWRtaW4gQ29tbWFuZCBMaW5lIn19fSwiY29uZmlnIjp7ImNvcmVGbGFncyI6WzEsMiw0XSwic3lzdGVtRmxhZ3MiOls1MTIsMTAyNCwyMDQ4XX19LCJtZW1iZXIiOnsiY29uc3RhbnRzIjp7ImxldmVsIjp7IjEiOiJNZW1iZXIiLCI0IjoiTW9kZXJhdG9yIiwiOCI6IkFkbWluIiwiOSI6Ik93bmVyIn19LCJ0eXBlIjp7IjAiOiJzaW5nbGUiLCIxIjoidXNlciIsIjIiOiJncm91cCIsIjQiOiJtYWlsIiwiOCI6ImNvbnRhY3QiLCIxNiI6ImNpcmNsZSIsIjEwMDAwIjoiYXBwIn19fSwib2NtIjp7ImVuYWJsZWQiOnRydWUsImFwaVZlcnNpb24iOiIxLjAtcHJvcG9zYWwxIiwiZW5kUG9pbnQiOiJodHRwczpcL1wvY2xvdWQubXlnYWlhLm9yZ1wvb2NtIiwicmVzb3VyY2VUeXBlcyI6W3sibmFtZSI6ImZpbGUiLCJzaGFyZVR5cGVzIjpbInVzZXIiLCJncm91cCJdLCJwcm90b2NvbHMiOnsid2ViZGF2IjoiXC9wdWJsaWMucGhwXC93ZWJkYXZcLyJ9fV19LCJkYXYiOnsiY2h1bmtpbmciOiIxLjAiLCJidWxrdXBsb2FkIjoiMS4wIn0sImRlY2siOnsidmVyc2lvbiI6IjEuOC4xIiwiY2FuQ3JlYXRlQm9hcmRzIjpmYWxzZSwiYXBpVmVyc2lvbnMiOlsiMS4wIiwiMS4xIl19LCJmaWxlc19zaGFyaW5nIjp7ImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImRheXMiOjMwLCJlbmZvcmNlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOnRydWUsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjMxLCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjp0cnVlLCJpbmNvbWluZyI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX19fSwiZ3Vlc3RzIjp7ImVuYWJsZWQiOnRydWV9LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNi4wIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQubXlnYWlhLm9yZ1wvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5teWdhaWEub3JnXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNS4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6dHJ1ZX0sInJpY2hkb2N1bWVudHMiOnsidmVyc2lvbiI6IjcuMC4xIiwibWltZXR5cGVzIjpbImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnRleHQiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5zcHJlYWRzaGVldCIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LmdyYXBoaWNzIiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQucHJlc2VudGF0aW9uIiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dC1mbGF0LXhtbCIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnNwcmVhZHNoZWV0LWZsYXQteG1sIiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZ3JhcGhpY3MtZmxhdC14bWwiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24tZmxhdC14bWwiLCJhcHBsaWNhdGlvblwvdm5kLmxvdHVzLXdvcmRwcm8iLCJhcHBsaWNhdGlvblwvdm5kLnZpc2lvIiwiYXBwbGljYXRpb25cL3ZuZC5tcy12aXNpby5kcmF3aW5nIiwiYXBwbGljYXRpb25cL3ZuZC53b3JkcGVyZmVjdCIsImFwcGxpY2F0aW9uXC9tc29uZW5vdGUiLCJhcHBsaWNhdGlvblwvbXN3b3JkIiwiYXBwbGljYXRpb25cL3J0ZiIsInRleHRcL3J0ZiIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtd29yZC5kb2N1bWVudC5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXdvcmQudGVtcGxhdGUubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC50ZW1wbGF0ZS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQuYmluYXJ5Lm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwucHJlc2VudGF0aW9uIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5wcmVzZW50YXRpb25tbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwuc2xpZGVzaG93IiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5wcmVzZW50YXRpb24ubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LnRlbXBsYXRlLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5zbGlkZXNob3cubWFjcm9FbmFibGVkLjEyIiwidGV4dFwvY3N2Il0sIm1pbWV0eXBlc05vRGVmYXVsdE9wZW4iOlsiaW1hZ2VcL3N2Zyt4bWwiLCJhcHBsaWNhdGlvblwvcGRmIiwidGV4dFwvcGxhaW4iLCJ0ZXh0XC9zcHJlYWRzaGVldCJdLCJjb2xsYWJvcmEiOnsiY29udmVydC10byI6eyJhdmFpbGFibGUiOnRydWUsImVuZHBvaW50IjoiXC9jb29sXC9jb252ZXJ0LXRvIn0sImhhc01vYmlsZVN1cHBvcnQiOnRydWUsImhhc1Byb3h5UHJlZml4IjpmYWxzZSwiaGFzVGVtcGxhdGVTYXZlQXMiOmZhbHNlLCJoYXNUZW1wbGF0ZVNvdXJjZSI6dHJ1ZSwicHJvZHVjdE5hbWUiOiJDb2xsYWJvcmEgT25saW5lIERldmVsb3BtZW50IEVkaXRpb24iLCJwcm9kdWN0VmVyc2lvbiI6IjIyLjA1LjcuMyIsInByb2R1Y3RWZXJzaW9uSGFzaCI6IjBiNDJiM2UiLCJzZXJ2ZXJJZCI6ImIwOGE5NGZhIn0sImRpcmVjdF9lZGl0aW5nIjp0cnVlLCJ0ZW1wbGF0ZXMiOnRydWUsInByb2R1Y3ROYW1lIjoiTmV4dGNsb3VkIE9mZmljZSIsImNvbmZpZyI6eyJ3b3BpX3VybCI6Imh0dHBzOlwvXC9jb2RlLm15Z2FpYS5vcmciLCJwdWJsaWNfd29waV91cmwiOiJodHRwczpcL1wvY29kZS5teWdhaWEub3JnIiwiZGlzYWJsZV9jZXJ0aWZpY2F0ZV92ZXJpZmljYXRpb24iOiJ5ZXMiLCJlZGl0X2dyb3VwcyI6bnVsbCwidXNlX2dyb3VwcyI6bnVsbCwiZG9jX2Zvcm1hdCI6bnVsbCwidGltZW91dCI6MTV9fSwic3ByZWVkIjp7ImZlYXR1cmVzIjpbImF1ZGlvIiwidmlkZW8iLCJjaGF0LXYyIiwiY29udmVyc2F0aW9uLXY0IiwiZ3Vlc3Qtc2lnbmFsaW5nIiwiZW1wdHktZ3JvdXAtcm9vbSIsImd1ZXN0LWRpc3BsYXktbmFtZXMiLCJtdWx0aS1yb29tLXVzZXJzIiwiZmF2b3JpdGVzIiwibGFzdC1yb29tLWFjdGl2aXR5Iiwibm8tcGluZyIsInN5c3RlbS1tZXNzYWdlcyIsImRlbGV0ZS1tZXNzYWdlcyIsIm1lbnRpb24tZmxhZyIsImluLWNhbGwtZmxhZ3MiLCJjb252ZXJzYXRpb24tY2FsbC1mbGFncyIsIm5vdGlmaWNhdGlvbi1sZXZlbHMiLCJpbnZpdGUtZ3JvdXBzLWFuZC1tYWlscyIsImxvY2tlZC1vbmUtdG8tb25lLXJvb21zIiwicmVhZC1vbmx5LXJvb21zIiwibGlzdGFibGUtcm9vbXMiLCJjaGF0LXJlYWQtbWFya2VyIiwiY2hhdC11bnJlYWQiLCJ3ZWJpbmFyeS1sb2JieSIsInN0YXJ0LWNhbGwtZmxhZyIsImNoYXQtcmVwbGllcyIsImNpcmNsZXMtc3VwcG9ydCIsImZvcmNlLW11dGUiLCJzaXAtc3VwcG9ydCIsInNpcC1zdXBwb3J0LW5vcGluIiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwicmljaC1vYmplY3QtbGlzdC1tZWRpYSIsInJpY2gtb2JqZWN0LWRlbGV0ZSIsInVuaWZpZWQtc2VhcmNoIiwiY2hhdC1wZXJtaXNzaW9uIiwic2lsZW50LXNlbmQiLCJzaWxlbnQtY2FsbCIsInNlbmQtY2FsbC1ub3RpZmljYXRpb24iLCJ0YWxrLXBvbGxzIiwibWVzc2FnZS1leHBpcmF0aW9uIiwicmVhY3Rpb25zIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2FsbCI6eyJlbmFibGVkIjp0cnVlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMCwicmVhZC1wcml2YWN5IjowfSwiY29udmVyc2F0aW9ucyI6eyJjYW4tY3JlYXRlIjpmYWxzZX0sInByZXZpZXdzIjp7Im1heC1naWYtc2l6ZSI6MzE0NTcyOH0sInNpZ25hbGluZyI6eyJzZXNzaW9uLXBpbmctbGltaXQiOjIwMCwiaGVsbG8tdjItdG9rZW4ta2V5IjoiLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS1cbk1Ga3dFd1lIS29aSXpqMENBUVlJS29aSXpqMERBUWNEUWdBRTFMaU9Kc1E1TGhndDlnU0ZONmttdzg5bEw2emhcbm1zSWdCaUVpYmJXU3JKSmJRZVVlcHJzeW51NlRRcFpGalEyU21Sc1hMcWFMNFhxRU00MU15dlJyaXc9PVxuLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tXG4ifX0sInZlcnNpb24iOiIxNS4wLjEifSwidGhlbWluZyI6eyJuYW1lIjoiTXlnYWlhIENsb3VkIiwidXJsIjoiaHR0cHM6XC9cL25leHRjbG91ZC5jb20iLCJzbG9nYW4iOiJhIHNhZmUgaG9tZSBmb3IgYWxsIHlvdXIgZGF0YSIsImNvbG9yIjoiIzAwODJDOSIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDgyQzkiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDgyQzkiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA4MkM5IiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC5teWdhaWEub3JnXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTQiLCJiYWNrZ3JvdW5kIjoiaHR0cHM6XC9cL2Nsb3VkLm15Z2FpYS5vcmdcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9iYWNrZ3JvdW5kP3Y9MTQiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0IjpmYWxzZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC5teWdhaWEub3JnXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MTQiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLm15Z2FpYS5vcmdcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xNCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTXlnYWlhIENsb3VkIiwidXJsIjoiaHR0cHM6XC9cL25leHRjbG91ZC5jb20iLCJzbG9nYW4iOiJhIHNhZmUgaG9tZSBmb3IgYWxsIHlvdXIgZGF0YSIsImNvbG9yIjoiIzAwODJDOSIsImRlZmF1bHRDb2xvciI6IiMwMDgyQzkiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIxNCIsImVuYWJsZWRUaGVtZXMiOltdfQ==">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Mygaia Cloud								</h1>
+							</div>
+						</div>
+					</header>
+								<main>
+					
+<div>
+	<div id="login"></div>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener" class="entity-name">Mygaia Cloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

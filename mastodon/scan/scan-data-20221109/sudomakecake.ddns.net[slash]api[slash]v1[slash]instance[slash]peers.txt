@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://sudomakecake.ddns.net; img-src 'self' https: data: blob: https://sudomakecake.ddns.net; style-src 'self' https://sudomakecake.ddns.net 'nonce-puW6fm6BEMxLQF4V8trwhg=='; media-src 'self' https: data: https://sudomakecake.ddns.net; frame-src 'self' https:; manifest-src 'self' https://sudomakecake.ddns.net; connect-src 'self' data: blob: https://sudomakecake.ddns.net https://sudomakecake.ddns.net wss://sudomakecake.ddns.net; script-src 'self' https://sudomakecake.ddns.net 'unsafe-eval'; child-src 'self' blob: https://sudomakecake.ddns.net; worker-src 'self' blob: https://sudomakecake.ddns.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:21 GMT
+Etag: W/"159f2f846987794eedd81611f39bcf4c"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T15:50:00.391281Z
+X-Request-Id: e344f43e-d1ef-44d6-a1cf-7b7a92d38ee1
+X-Runtime: 0.031927
+X-Xss-Protection: 0
+
+230
+["assortedflotsam.com","botsin.space","eurovision.social","velocipederider.com","functional.cafe","qoto.org","masto.ai","fosstodon.org","triangletoot.party","todon.eu","fediscience.org","toot.bike","screenwriting.space","mastodon.cloud","snabelen.no","mastodon.world","lor.sh","mastodon.org.uk","wandering.shop","toot.wales","scholar.social","toot.community","mastodon.green","writing.exchange","mastodon.scot","mastodon.online","mastodon.social","a.gup.pe","mas.to","mastodon.art","friendica.ironbug.org","mstdn.social","digitalcourage.social","chaos.social"]
+0
+

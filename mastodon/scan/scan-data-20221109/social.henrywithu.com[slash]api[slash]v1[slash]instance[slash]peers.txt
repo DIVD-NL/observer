@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677858c380783c4-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:34 GMT
+Etag: W/"7b1883eb234b80d2208b177f277c3813"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hWE3iYvQGPljaPySkjkY%2FCVjGJbPe62laCBsN0C9K1ZqpG2eDBUmVcvQKJriO7gSp%2BOfouRB%2B4wxXlOZwyWficL2VWqnxjtpQHLNrsjvohTv%2Flki9ktC3KgPYbkUtup4wPQ1gR5wY2U%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=8.999999408843e-06
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:40:00.885946Z
+X-Request-Id: 56bb05ae-c773-4454-bdc9-3e8555da5516
+X-Runtime: 0.021693
+X-Xss-Protection: 0
+
+2
+[]
+0
+

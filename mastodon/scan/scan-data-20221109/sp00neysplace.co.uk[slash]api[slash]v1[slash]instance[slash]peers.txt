@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 261
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:20:13 GMT
+Location: https://www.sp00neysplace.co.uk/api/v1/instance/peers
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.sp00neysplace.co.uk/api/v1/instance/peers">here</a>.</p>
+</body></html>

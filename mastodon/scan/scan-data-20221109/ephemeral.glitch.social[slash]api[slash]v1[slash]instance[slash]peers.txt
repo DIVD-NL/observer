@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ephemeral-static.glitch.social; img-src 'self' https: data: blob: https://ephemeral-static.glitch.social; style-src 'self' https://ephemeral-static.glitch.social 'nonce-wYYNtsEKxwiCl2GEiF6APQ=='; media-src 'self' https: data: https://ephemeral-static.glitch.social; frame-src 'self' https:; manifest-src 'self' https://ephemeral-static.glitch.social; connect-src 'self' data: blob: https://ephemeral-static.glitch.social https://ephemeral-static.glitch.social wss://ephemeral.glitch.social; script-src 'self' https://ephemeral-static.glitch.social; child-src 'self' blob: https://ephemeral-static.glitch.social; worker-src 'self' blob: https://ephemeral-static.glitch.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:46 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.226532Z
+X-Request-Id: d4aa51f9-aca4-4156-aa11-0a1545ffb1f5
+X-Runtime: 0.015214
+X-Xss-Protection: 0
+
+0
+

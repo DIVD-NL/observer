@@ -1,0 +1,32 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 631
+Accept-Ranges: bytes
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:06 GMT
+Etag: "pdvh2nhj"
+Last-Modified: Wed, 22 Aug 2018 17:11:11 GMT
+Server: Caddy
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/common-daadaac9454e7d14470e7954e3143dca.css" />
+<link rel="stylesheet" media="all" href="/packs/default-02ad3ad1dc34a0912e8f71666a7f3ddb.css" />
+</head>
+<body class='error'>
+<div class='dialog'>
+<img alt='Mastodon' src='/oops.gif'>
+<div>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>

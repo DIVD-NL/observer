@@ -1,0 +1,107 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443 cloud.migennes.net:8443;media-src 'self' blob:;frame-src 'self';child-src blob: 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:29 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx
+Set-Cookie: oc_sessionPassphrase=ImQLyLA%2F0mBZgsb2fvh%2Bvp2yAhag%2Bd2xloSr6Xx8B8tulVcZFCQLoS59Asfn6G1fIzD9QO9wXS%2FQDlBrWVlEwUhpEEzo2t5RvA4nj32NDbPn2Fre%2BNMmvjmBW5SStIJn; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocgn5n2rd9d6=o91kh420p2ehalo5e587bhik7o; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: LFmWWad55nl1gnqvghJk
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="Bi80t2nWvlJI/oZHHxVBGvQQ3cMqYkfNPcchM0LidX8=:TFYHxFGghhZ4yeNoKnsIK5FbnqxtOi+MXK9WHHqmGgk=">
+		<meta charset="utf-8">
+		<title>
+		Le Nuage Migennois		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/apps/theming/favicon?v=4">
+		<link rel="apple-touch-icon" href="/apps/theming/icon?v=4">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/apps/theming/manifest?v=4">
+		<link rel="stylesheet" href="/apps/sociallogin/css/styles.css?v=dc067cae-4">
+<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=35c36e89-4">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-4">
+<link rel="stylesheet" href="/core/css/guest.css?v=94c937c2-4">
+		<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/core/js/oc.js?v=94c937c2"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/core-common.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/core-main.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/core-files_fileinfo.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/core-files_client.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/js/core/merged-template-prepend.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/core-login.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/files_sharing-main.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/dist/accessibility-accessibilityoca.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/apps/files_rightclick/js/script.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/apps/files_rightclick/js/files.js?v=94c937c2-4"></script>
+<script nonce="Qmk4MHQybld2bEpJL29aSEh4VkJHdlFRM2NNcVlrZk5QY2NoTTBMaWRYOD06VEZZSHhGR2doaFo0eWVOb0tuc0lLNUZibnF4dE9pK01YSzlXSEhxbUdnaz0=" defer src="/apps/theming/js/theming.js?v=94c937c2-4"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Le Nuage Migennois"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Le Nuage Migennois"/><meta property="og:url" content="https://cloud.migennes.net/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.migennes.net/apps/theming/icon?v=4"/><style>:root { --color-primary-text: #ffffff; }</style><link rel="stylesheet" href="/apps/theming/styles?v=4"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="Mw==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC40LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC40IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyIsIlRodW1icy5kYiIsInRodW1icy5kYiJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9jbG91ZC5taWdlbm5lcy5uZXRcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiJjNzQ4ZThmYzU4OGI1NGZjNWFmMzhjNDQ4MWExOWQyMCJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWUsInZlcnNpb25pbmciOnRydWV9LCJhY3Rpdml0eSI6eyJhcGl2MiI6WyJmaWx0ZXJzIiwiZmlsdGVycy1hcGkiLCJwcmV2aWV3cyIsInJpY2gtc3RyaW5ncyJdfSwiY2lyY2xlcyI6eyJ2ZXJzaW9uIjoiMjQuMC4xIiwic3RhdHVzIjp7Imdsb2JhbFNjYWxlIjpmYWxzZX0sInNldHRpbmdzIjp7ImZyb250ZW5kRW5hYmxlZCI6dHJ1ZSwiYWxsb3dlZENpcmNsZXMiOjI2MjE0MywiYWxsb3dlZFVzZXJUeXBlcyI6MzEsIm1lbWJlcnNMaW1pdCI6LTF9LCJjaXJjbGUiOnsiY29uc3RhbnRzIjp7ImZsYWdzIjp7IjEiOiJTaW5nbGUiLCIyIjoiUGVyc29uYWwiLCI0IjoiU3lzdGVtIiwiOCI6IlZpc2libGUiLCIxNiI6Ik9wZW4iLCIzMiI6Ikludml0ZSIsIjY0IjoiSm9pbiBSZXF1ZXN0IiwiMTI4IjoiRnJpZW5kcyIsIjI1NiI6IlBhc3N3b3JkIFByb3RlY3RlZCIsIjUxMiI6Ik5vIE93bmVyIiwiMTAyNCI6IkhpZGRlbiIsIjIwNDgiOiJCYWNrZW5kIiwiNDA5NiI6IkxvY2FsIiwiODE5MiI6IlJvb3QiLCIxNjM4NCI6IkNpcmNsZSBJbnZpdGUiLCIzMjc2OCI6IkZlZGVyYXRlZCIsIjY1NTM2IjoiTW91bnQgcG9pbnQifSwic291cmNlIjp7ImNvcmUiOnsiMSI6Ik5leHRjbG91ZCBVc2VyIiwiMiI6Ik5leHRjbG91ZCBHcm91cCIsIjQiOiJFbWFpbCBBZGRyZXNzIiwiOCI6IkNvbnRhY3QiLCIxNiI6IkNpcmNsZSIsIjEwMDAwIjoiTmV4dGNsb3VkIEFwcCJ9LCJleHRyYSI6eyIxMDAwMSI6IkNpcmNsZXMgQXBwIiwiMTAwMDIiOiJBZG1pbiBDb21tYW5kIExpbmUifX19LCJjb25maWciOnsiY29yZUZsYWdzIjpbMSwyLDRdLCJzeXN0ZW1GbGFncyI6WzUxMiwxMDI0LDIwNDhdfX0sIm1lbWJlciI6eyJjb25zdGFudHMiOnsibGV2ZWwiOnsiMSI6Ik1lbWJlciIsIjQiOiJNb2RlcmF0b3IiLCI4IjoiQWRtaW4iLCI5IjoiT3duZXIifX0sInR5cGUiOnsiMCI6InNpbmdsZSIsIjEiOiJ1c2VyIiwiMiI6Imdyb3VwIiwiNCI6Im1haWwiLCI4IjoiY29udGFjdCIsIjE2IjoiY2lyY2xlIiwiMTAwMDAiOiJhcHAifX19LCJvY20iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpVmVyc2lvbiI6IjEuMC1wcm9wb3NhbDEiLCJlbmRQb2ludCI6Imh0dHBzOlwvXC9jbG91ZC5taWdlbm5lcy5uZXRcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImZpbGVzX3NoYXJpbmciOnsiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9LCJzaGFyZWJ5bWFpbCI6eyJlbmFibGVkIjp0cnVlLCJzZW5kX3Bhc3N3b3JkX2J5X21haWwiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fX0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQubWlnZW5uZXMubmV0XC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldFwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvdmFsaWRhdGUifX0sInByb3Zpc2lvbmluZ19hcGkiOnsidmVyc2lvbiI6IjEuMTQuMCIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1ZlcnNpb24iOjIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc0ZlZGVyYXRlZEVuYWJsZWQiOnRydWUsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1B1Ymxpc2hlZEVuYWJsZWQiOnRydWV9LCJyZWdpc3RyYXRpb24iOnsiZW5hYmxlZCI6dHJ1ZSwiYXBpUm9vdCI6Ilwvb2NzXC92Mi5waHBcL2FwcHNcL3JlZ2lzdHJhdGlvblwvYXBpXC92MVwvIiwiYXBpTGV2ZWwiOiJ2MSJ9LCJzcHJlZWQiOnsiZmVhdHVyZXMiOlsiYXVkaW8iLCJ2aWRlbyIsImNoYXQtdjIiLCJjb252ZXJzYXRpb24tdjQiLCJndWVzdC1zaWduYWxpbmciLCJlbXB0eS1ncm91cC1yb29tIiwiZ3Vlc3QtZGlzcGxheS1uYW1lcyIsIm11bHRpLXJvb20tdXNlcnMiLCJmYXZvcml0ZXMiLCJsYXN0LXJvb20tYWN0aXZpdHkiLCJuby1waW5nIiwic3lzdGVtLW1lc3NhZ2VzIiwiZGVsZXRlLW1lc3NhZ2VzIiwibWVudGlvbi1mbGFnIiwiaW4tY2FsbC1mbGFncyIsImNvbnZlcnNhdGlvbi1jYWxsLWZsYWdzIiwibm90aWZpY2F0aW9uLWxldmVscyIsImludml0ZS1ncm91cHMtYW5kLW1haWxzIiwibG9ja2VkLW9uZS10by1vbmUtcm9vbXMiLCJyZWFkLW9ubHktcm9vbXMiLCJsaXN0YWJsZS1yb29tcyIsImNoYXQtcmVhZC1tYXJrZXIiLCJjaGF0LXVucmVhZCIsIndlYmluYXJ5LWxvYmJ5Iiwic3RhcnQtY2FsbC1mbGFnIiwiY2hhdC1yZXBsaWVzIiwiY2lyY2xlcy1zdXBwb3J0IiwiZm9yY2UtbXV0ZSIsInNpcC1zdXBwb3J0IiwiY2hhdC1yZWFkLXN0YXR1cyIsInBob25lYm9vay1zZWFyY2giLCJyYWlzZS1oYW5kIiwicm9vbS1kZXNjcmlwdGlvbiIsInJpY2gtb2JqZWN0LXNoYXJpbmciLCJ0ZW1wLXVzZXItYXZhdGFyLWFwaSIsImdlby1sb2NhdGlvbi1zaGFyaW5nIiwidm9pY2UtbWVzc2FnZS1zaGFyaW5nIiwic2lnbmFsaW5nLXYzIiwicHVibGlzaGluZy1wZXJtaXNzaW9ucyIsImNsZWFyLWhpc3RvcnkiLCJkaXJlY3QtbWVudGlvbi1mbGFnIiwibm90aWZpY2F0aW9uLWNhbGxzIiwiY29udmVyc2F0aW9uLXBlcm1pc3Npb25zIiwicmljaC1vYmplY3QtbGlzdC1tZWRpYSIsInJpY2gtb2JqZWN0LWRlbGV0ZSIsInVuaWZpZWQtc2VhcmNoIiwicmVhY3Rpb25zIiwiY2hhdC1yZWZlcmVuY2UtaWQiXSwiY29uZmlnIjp7ImF0dGFjaG1lbnRzIjp7ImFsbG93ZWQiOmZhbHNlfSwiY2hhdCI6eyJtYXgtbGVuZ3RoIjozMjAwMCwicmVhZC1wcml2YWN5IjowfSwiY29udmVyc2F0aW9ucyI6eyJjYW4tY3JlYXRlIjpmYWxzZX0sInByZXZpZXdzIjp7Im1heC1naWYtc2l6ZSI6MzE0NTcyOH0sInNpZ25hbGluZyI6eyJzZXNzaW9uLXBpbmctbGltaXQiOjIwMH19fSwidGhlbWluZyI6eyJuYW1lIjoiTGUgTnVhZ2UgTWlnZW5ub2lzIiwidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldCIsInNsb2dhbiI6ImEgc2FmZSBob21lIGZvciBhbGwgeW91ciBkYXRhIiwiY29sb3IiOiIjMDA4MmM5IiwiY29sb3ItdGV4dCI6IiNmZmZmZmYiLCJjb2xvci1lbGVtZW50IjoiIzAwODJjOSIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiIzAwODJjOSIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiMwMDgyYzkiLCJsb2dvIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTQiLCJiYWNrZ3JvdW5kIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldFwvY29yZVwvaW1nXC9iYWNrZ3JvdW5kLnBuZz92PTQiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0Ijp0cnVlLCJsb2dvaGVhZGVyIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTQiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldFwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTQifSwidXNlcl9zdGF0dXMiOnsiZW5hYmxlZCI6dHJ1ZSwic3VwcG9ydHNfZW1vamkiOnRydWV9LCJ3ZWF0aGVyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlfX0=">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTGUgTnVhZ2UgTWlnZW5ub2lzIiwidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLm1pZ2VubmVzLm5ldCIsInNsb2dhbiI6ImEgc2FmZSBob21lIGZvciBhbGwgeW91ciBkYXRhIiwiY29sb3IiOiIjMDA4MmM5IiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiNCJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Le Nuage Migennois								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins" class="alternative-logins">
+                    <a class="button register-button" href="/apps/registration/" >
+                Register            </a>
+                    <a class="button " href="https://cloud.migennes.net/apps/sociallogin/oauth/google" >
+                Log in with Google            </a>
+                    <a class="button " href="https://cloud.migennes.net/apps/sociallogin/oauth/facebook" >
+                Log in with Facebook            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://cloud.migennes.net" target="_blank" rel="noreferrer noopener" class="entity-name">Le Nuage Migennois</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

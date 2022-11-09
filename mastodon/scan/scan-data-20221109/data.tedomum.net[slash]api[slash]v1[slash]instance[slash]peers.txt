@@ -1,0 +1,28 @@
+HTTP/1.1 303 See Other
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';frame-ancestors 'none'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:33 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'none';camera 'none';fullscreen 'none';geolocation 'none';microphone 'none';payment 'none'
+Location: https://auth.tedomum.net/sso/saml/redirect/7df5ed8f-98a2-4537-9156-9f44d0b403b3?SAMLRequest=lZLJjtswDIbveYqB745lWx7HQhIgnXQJkCbBJO2hl4Es0R0BtuSKdJe3r5d2lh4ClAcBovh%2FIn9pibKpW7Hp6NHew7cOkGY3ffxsaotiPFwFnbfCSTQorGwABSlx3nzci2TOROsdOeXq4B%2FZdZVEBE%2FG2Um2266C4%2BHt%2Fvh%2Bd3hQjJXVghelzhnnVZHGmvFbgLSMVZLmmSyrWHFQk%2FQzeOw5q6DHBrOJhtjBziJJS32eJUkYxyErLjEXWS7S9Msk3fbDGitplD8StSiiSPZOzAm0a7pmboEiRBcNA0UetPGgKMp1lYFeVGGxkEnIszQPizi7DYuKc81KztIynW44%2FTHnjbHa2K%2FXPSmnIhQfLpdTeDqeLxNk89erO2exa8CfwX83Cj7d75%2Fb1pLkq7Zl22LU9cqHsflxkQqD9chcDnsxGuXX%2F8VogORQuIxeIp6hrTj0k%2B22J1cb9WvMD%2FHO%2BUbSdQOGjNFhNZaKdnhYJLAUPFE2de1%2B3HmQBKuAfAfBTbSeTa28%2FsTr3w%3D%3D&RelayState=http%3A%2F%2Fdata.tedomum.net%2Fapps%2Fuser_saml%2Fsaml%2Flogin
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: www
+Set-Cookie: ocda0628eb88=097ade63181d80cab21c820da4320121; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=uHJJGlI95B81tG7OfV7zw2zHL0oZCvoIEg17YvXzMxFIS8hDt2nxTO%2Bv6272kaSafZVmvdYzeRDw4oMB0hXJMl30FFs5D3HSmuMB43cEbIQ1j7pQvIHFN2Pwp1LXPfIv; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocda0628eb88=bcdf46113a83dbffde91a79ebd1ca390; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: saml_data=ZTQ4YmU3ZDMyMjgwM2NjZDgzZmI3NWQ0YzViZTA1MDljODQwNmVjYTkxN2E5MzAxNzk1NTE0NGU1ZmViMzRkZDIwNDJjOTk2YWQ5ZGEyOTQ0NjM2OWE0NTFmODY2ZmVlNzJlOWM5YmU2MmVmOWUzOTMzMTA2MDZkMDdhODc2MzRjMTEyOGVkZDljYzQ5NGVmMTdkNjI4N2MyYzc0M2Q1OTFmZTY0NTY0YTBkZWQxMDg4NDI0M2Q2ZmMyOTQzNDNhYjI3MjQ5MmQyNzcxNjEyMDIxOTcwMmIxMmRlN2ZhNzZ8MDhmNDU2ZGJiMTQ5NzYxNmNiN2RmODUzMDY0M2RkZDh8ZTg0MzNjMTQxOGUxODJkY2JjNDRhMDQyMjQzNDQ4N2IyYTNkMWY0MGFhNjE4NGJkZmIyMGE4ZWQwYzBhYzU0NmIwYzY4OGZiMWYzZWJiMzdjMjcyMDk0N2FkNWE1MDhjNzQ3YTg1ZWFjNzcwY2FiYjY4NzEwZDIyYzE3OTkxNjl8Mw%3D%3D; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=315360000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: www
+X-Request-Id: 6zGHmJ9yrsiYjKx5CAWI
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

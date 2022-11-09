@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767785b88edb83e3-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:40 GMT
+Location: https://social.idzerda.dev/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DkxfY0n%2BYlr9PRRezT%2F7%2BImhqeGtCFtN%2BDDcN7Wz1sDqIiVP31aPL%2Fo%2BsG76q8smgg3Rq3vB5mlghl6VRaSSdmnZoi9gVanQnIVloBSaiav3Ub%2BfDWmpk5dziGA9bm7JKWEhqsg%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+c2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+
+0
+

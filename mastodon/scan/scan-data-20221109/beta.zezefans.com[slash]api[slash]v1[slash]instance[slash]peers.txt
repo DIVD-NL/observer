@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: private, max-age=0, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:08 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Accept-Encoding
+X-Moeyy-Cache: DYNAMIC from frankfurt
+X-Moeyy-Edgeid: 16680058277971611000001
+
+["m.cmx.im","moeyy.cn","misskey.io","littlefo.rest","submarin.online","hello.2heng.xin"]

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:08:31 GMT
+Etag: W/"342-7SGewlOsb2F5/jO3VqlGyrhFrE8"
+Server: nginx/1.18.0 (Ubuntu)
+X-Powered-By: Express
+
+342
+<!DOCTYPE html><html><head><link rel="stylesheet" href="/stylesheets/login.css"><script src="/javascripts/login.js"></script></head><body><div class="login"><div class="loginbox"><h1></h1>Username:<br><input type="textbox" name="user" id="user"><br>Password:<br><input type="password" name="pass" id="pass"><br><br><button class="header" type="button" id="loginButton" onclick="login()">Login</button></div></div><script>// If the user presses enter while in the password field, treat it like a button press
+var input = document.getElementById('pass');
+input.addEventListener('keyup', function(event) {
+  if (event.keyCode === 13) {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Trigger the button element with a click
+    document.getElementById("loginButton").click();
+  }
+});</script></body></html>
+0
+

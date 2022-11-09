@@ -1,0 +1,121 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:05 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'self';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: oc_sessionPassphrase=OiitDXeg8F0QnwwMzDydM9fngL82EXMPgMvPjQxW7KlVp%2Foyp3YitG%2Bm%2Flg2vvKeeF6Whf5zbAUyemBcQTiHiuIMG3KN8ugSgvJNfhqdUzWmVUeVGBih%2BIONPm%2Bj8XYf; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc6ziqch6hzs=gfgqnijsiqvbr5o5sg4rt3gkv1; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+3831
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="8x/bGW6OWgu+wUK3xlMCN0++HA0eY5WEb9GNVHd+m7g=:lneWQQvKIHH2jzTy8D1jGADoenp1EKbiH5SiGz4174w=">
+		<meta charset="utf-8">
+		<title>
+		knirpscloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=6">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=6">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=6">
+		<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=35ff2a10-6">
+<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=4fda350b-6">
+<link rel="stylesheet" href="/core/css/guest.css?v=b5169f07-6">
+		<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/js/dist/main.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/index.php/js/core/merged-template-prepend.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/search/js/search.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/js/backgroundjobs.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/files_sharing/js/dist/main.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/apporder/js/apporder.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/epubreader/js/plugin.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/files_videoplayer/js/main.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/apps/rainloop/js/rainloop.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/search/js/searchprovider.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/js/files/fileinfo.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/js/files/client.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=" defer src="/core/js/dist/login.js?v=b5169f07-6"></script>
+<script nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","admin_audit":"/apps/admin_audit","analytics":"/apps/analytics","apporder":"/apps/apporder","breezedark":"/apps/breezedark","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","carnet":"/apps/carnet","checksum":"/apps/checksum","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dav":"/apps/dav","deck":"/apps/deck","documentserver_community":"/apps/documentserver_community","drawio":"/apps/drawio","epubreader":"/apps/epubreader","external":"/apps/external","extract":"/apps/extract","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_external":"/apps/files_external","files_markdown":"/apps/files_markdown","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","guests":"/apps/guests","imageconverter":"/apps/imageconverter","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","mail":"/apps/mail","maps":"/apps/maps","metadata":"/apps/metadata","music":"/apps/music","news":"/apps/news","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","ocsms":"/apps/ocsms","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","quota_warning":"/apps/quota_warning","rainloop":"/apps/rainloop","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","sharingpath":"/apps/sharingpath","social":"/apps/social","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","timemanager":"/apps/timemanager","twofactor_backupcodes":"/apps/twofactor_backupcodes","twofactor_totp":"/apps/twofactor_totp","updatenotification":"/apps/updatenotification","viewer":"/apps/viewer","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005825;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"19.0.13.1","versionstring":"19.0.13","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":7,"defaultExpireDateEnforced":false,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":false,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/19\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":true,"defaultInternalExpireDate":7,"defaultInternalExpireDateEnforced":false,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"shareByMailEnabled":true,"shareByMail":{"enforcePasswordProtection":false},"comments":{"maxAutoCompleteResults":10},"filesReader":{"enableEpub":"true","enablePdf":"true","enableCbx":"true"}};
+var _theme={"entity":"knirpscloud","name":"knirpscloud","title":"knirpscloud","baseUrl":"https:\/\/knirpscloud1.arcee.xyz\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/19\/go.php?to=PLACEHOLDER","slogan":"a safe home for all your data","logoClaim":"","shortFooter":"<a href=\"https:\/\/knirpscloud1.arcee.xyz\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">knirpscloud<\/a> \u2013 a safe home for all your data","longFooter":"<a href=\"https:\/\/knirpscloud1.arcee.xyz\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">knirpscloud<\/a> \u2013 a safe home for all your data","folder":""};
+var _oc_capabilities={"core":{"pollinterval":60,"webdav-root":"remote.php\/webdav"},"bruteforce":{"delay":0},"password_policy":{"minLength":8,"enforceNonCommonPassword":true,"enforceNumericCharacters":true,"enforceSpecialCharacters":true,"enforceUpperLowerCase":true,"api":{"generate":"https:\/\/b26e17d9.uber.space\/ocs\/v2.php\/apps\/password_policy\/api\/v1\/generate","validate":"https:\/\/b26e17d9.uber.space\/ocs\/v2.php\/apps\/password_policy\/api\/v1\/validate"}},"files":{"bigfilechunking":true,"blacklisted_files":[".htaccess"],"directEditing":{"url":"https:\/\/b26e17d9.uber.space\/ocs\/v2.php\/apps\/files\/api\/v1\/directEditing","etag":"6226ba873373f5e73a3ef504107523f7"},"versioning":true,"undelete":true},"activity":{"apiv2":["filters","filters-api","previews","rich-strings"]},"ocm":{"enabled":true,"apiVersion":"1.0-proposal1","endPoint":"https:\/\/b26e17d9.uber.space\/index.php\/ocm","resourceTypes":[{"name":"file","shareTypes":["user","group"],"protocols":{"webdav":"\/public.php\/webdav\/"}}]},"dav":{"chunking":"1.0"},"files_sharing":{"api_enabled":true,"public":{"enabled":true,"password":{"enforced":false,"askForOptionalPassword":false},"expire_date":{"enabled":true,"days":"7","enforced":false},"multiple_links":true,"expire_date_internal":{"enabled":true,"days":"7","enforced":false},"send_mail":false,"upload":true,"upload_files_drop":true},"resharing":false,"user":{"send_mail":false,"expire_date":{"enabled":true}},"group_sharing":true,"group":{"enabled":true,"expire_date":{"enabled":true}},"default_permissions":31,"federation":{"outgoing":true,"incoming":true,"expire_date":{"enabled":true}},"sharee":{"query_lookup_default":false},"sharebymail":{"enabled":true,"upload_files_drop":{"enabled":true},"password":{"enabled":true},"expire_date":{"enabled":true}}},"notifications":{"ocs-endpoints":["list","get","delete","delete-all","icons","rich-strings","action-web"],"push":["devices","object-data","delete"],"admin-notifications":["ocs","cli"]},"theming":{"name":"knirpscloud","url":"https:\/\/knirpscloud1.arcee.xyz\/","slogan":"a safe home for all your data","color":"#0082c9","color-text":"#ffffff","color-element":"#0082c9","color-element-bright":"#0082c9","color-element-dark":"#0082c9","logo":"https:\/\/b26e17d9.uber.space\/core\/img\/logo\/logo.svg?v=6","background":"https:\/\/b26e17d9.uber.space\/core\/img\/background.png?v=6","background-plain":false,"background-default":true,"logoheader":"https:\/\/b26e17d9.uber.space\/core\/img\/logo\/logo.svg?v=6","favicon":"https:\/\/b26e17d9.uber.space\/core\/img\/logo\/logo.svg?v=6"},"external":{"v1":["sites","device","groups","redirect"]},"deck":{"version":"1.2.11","canCreateBoards":true}};
+
+</script>
+		<link rel="stylesheet" href="/index.php/apps/theming/styles?v=6"/><script defer src="/index.php/apps/theming/js/theming?v=6" nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0="></script><script defer src="/index.php/apps/accessibility/js/accessibility?v=0" nonce="OHgvYkdXNk9XZ3Urd1VLM3hsTUNOMCsrSEEwZVk1V0ViOUdOVkhkK203Zz06bG5lV1FRdktJSEgyanpUeThEMWpHQURvZW5wMUVLYmlINVNpR3o0MTc0dz0="></script><meta property="og:title" content="knirpscloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="knirpscloud"/><meta property="og:url" content="https://b26e17d9.uber.space/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://b26e17d9.uber.space/index.php/apps/theming/icon?v=6"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMTkuMC4xMy4xIiwidmVyc2lvbnN0cmluZyI6IjE5LjAuMTMiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6ZmFsc2UsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MCwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQifQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									knirpscloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://knirpscloud1.arcee.xyz/" target="_blank" rel="noreferrer noopener" class="entity-name">knirpscloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>
+
+0
+

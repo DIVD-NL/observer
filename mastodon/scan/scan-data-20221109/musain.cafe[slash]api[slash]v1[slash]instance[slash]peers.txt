@@ -1,0 +1,28 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777ec07ee583e4-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://musain.cafe; img-src 'self' https: data: blob: https://musain.cafe; style-src 'self' https://musain.cafe 'nonce-Ph2yb6Ikl0KxdHAis8YavA=='; media-src 'self' https: data: https://musain.cafe; frame-src 'self' https:; manifest-src 'self' https://musain.cafe; connect-src 'self' data: blob: https://musain.cafe https://musain.cafe wss://musain.cafe; script-src 'self' https://musain.cafe; child-src 'self' blob: https://musain.cafe; worker-src 'self' blob: https://musain.cafe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:55 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LUf4raTq2pcEcm99R6s9uIkfXSAsKZKDkqdFUWAvmirKv%2BdQxdSD2LY4sijafTr8f6andcpVtu6zvZSh42rS6ve4CdEKZLTN1e4oAs6bym6KaAk%2F8drjjO1OHUV1%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.333788Z
+X-Request-Id: 8b8631fc-03db-4da5-b4fe-d6f6f67a9910
+X-Runtime: 0.006775
+X-Xss-Protection: 0
+
+0
+

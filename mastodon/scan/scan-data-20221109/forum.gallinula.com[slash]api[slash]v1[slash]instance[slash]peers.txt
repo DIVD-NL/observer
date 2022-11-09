@@ -1,0 +1,23 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:10 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.565603Z
+X-Request-Id: 11e6fc55-51a0-4182-af6b-bb87bc93f5e0
+X-Runtime: 0.004876
+X-Xss-Protection: 1; mode=block
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

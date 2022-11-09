@@ -1,0 +1,243 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, must-revalidate, max-age=0
+Cf-Apo-Via: origin,resnok
+Cf-Cache-Status: MISS
+Cf-Edge-Cache: cache,platform=wordpress
+Cf-Ray: 7677663d2875b9c0-BRU
+Content-Security-Policy: default-src 'self' http: https: *.youtube.com; img-src 'self' data: http: https: *.gravatar.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: https: https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js; style-src 'self' 'unsafe-inline' http: https: fonts.googleapis.com; font-src 'self' data: http: https: fonts.googleapis.com themes.googleusercontent.com www.googletagmanager.com pagead2.googlesyndication.com googleads.g.doubleclick.net www.google.com;
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:14 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://blog.dustinrue.com/wp-json/>; rel="https://api.w.org/"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3FDDM8XENdzqCNSCEk6UfGpTA3ayF3N5M23CG6zlESKh1V0la%2Fnbjq284bSPmcn6BvtloS8s3WM5%2BsTh7r6t%2BPT%2FEcoheHjHTel5JeBGvst5x2v2YyOaTIlJusYw07%2BPmX6ccR4%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Vary: Accept-Encoding
+X-Image-Proxy: main
+
+7728
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://blog.dustinrue.com/xmlrpc.php" />
+<title>Page not found &#8211; Dustin&#039;s Blog</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//blog.dustinrue.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Dustin&#039;s Blog &raquo; Feed" href="https://blog.dustinrue.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dustin&#039;s Blog &raquo; Comments Feed" href="https://blog.dustinrue.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.dustinrue.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://blog.dustinrue.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://blog.dustinrue.com/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='flat-fonts-css' href='//fonts.googleapis.com/css?family=Lobster%7CRoboto:400,700%7CRoboto+Slab%7CRoboto+Condensed' media='all' />
+<link rel='stylesheet' id='flat-theme-css' href='https://blog.dustinrue.com/wp-content/themes/flat/assets/css/flat.min.css?ver=1.7.11' media='all' />
+<link rel='stylesheet' id='flat-style-css' href='https://blog.dustinrue.com/wp-content/themes/flat/style.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://blog.dustinrue.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=6.1' media='all' />
+<script src='https://blog.dustinrue.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://blog.dustinrue.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://blog.dustinrue.com/wp-content/themes/flat/assets/js/flat.min.js?ver=1.7.11' id='flat-js-js'></script>
+<!--[if lt IE 9]>
+<script src='https://blog.dustinrue.com/wp-content/themes/flat/assets/js/html5shiv.min.js?ver=3.7.2' id='html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/blog.dustinrue.com\/wp-admin\/admin-ajax.php","nonce":"ae078223eb","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2147483647","cookieTimeRejected":"2592000","globalCookie":"0","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script async src='https://blog.dustinrue.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.2' id='cookie-notice-front-js'></script>
+
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-4537274-1' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["blog.dustinrue.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-4537274-1", {"anonymize_ip":true});
+gtag("config", "G-ETVLBMFDF5");
+</script>
+
+<link rel="https://api.w.org/" href="https://blog.dustinrue.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.dustinrue.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.dustinrue.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1" />
+<meta name="generator" content="Site Kit by Google 1.86.0" /><link type="image/x-icon" href="https://blog.dustinrue.com/wp-content/uploads/2020/08/favicon228.png" rel="shortcut icon"><style type="text/css"></style><style type="text/css">#masthead .site-title {font-family:Lobster}body {font-family:Roboto }h1,h2,h3,h4,h5,h6 {font-family:Roboto Slab}#masthead .site-description, .hentry .entry-meta {font-family:Roboto Condensed}</style>
+
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://blog.dustinrue.com/wp-content/uploads/2017/02/squared_metal.png"); background-position: center center; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+</head>
+<body class="error404 custom-background cookies-not-set" itemscope itemtype="http://schema.org/WebPage">
+<div id="page">
+<div class="container">
+<div class="row row-offcanvas row-offcanvas-left">
+<div id="secondary" class="col-lg-3">
+<header id="masthead" class="site-header" role="banner">
+<div class="hgroup">
+<h1 class="site-title display-title"><a href="https://blog.dustinrue.com/" title="Dustin&#039;s Blog" rel="home"><span itemprop="name">Dustin&#039;s Blog</span></a></h1><h2 itemprop="description" class="site-description">Mac, Linux and things in between</h2> </div>
+<button type="button" class="btn btn-link hidden-lg toggle-sidebar" data-toggle="offcanvas" aria-label="Sidebar"><i class="fa fa-gear"></i></button>
+<button type="button" class="btn btn-link hidden-lg toggle-navigation" aria-label="Navigation Menu"><i class="fa fa-bars"></i></button>
+<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+<div class="nav-menu"><ul>
+<li class="page_item page-item-1537"><a href="https://blog.dustinrue.com/about-the-author/">About the Author</a></li>
+<li class="page_item page-item-1531"><a href="https://blog.dustinrue.com/proxmox-cloud-init/">Proxmox Cloud-Init</a></li>
+</ul></div>
+</nav>
+</header>
+<div class="sidebar-offcanvas">
+<div id="main-sidebar" class="widget-area" role="complementary">
+<aside id="search-3" class="widget widget_search">
+<h3 class='widget-title'>Search</h3>
+<form method="get" id="searchform" action="https://blog.dustinrue.com/">
+<label for="s" class="assistive-text">Search</label>
+<input type="text" class="field" name="s" id="s" placeholder="Search" />
+<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+</aside>
+<aside id="recent-posts-5" class="widget widget_recent_entries">
+<h3 class='widget-title'>Recent Posts</h3>
+<ul>
+<li>
+<a href="https://blog.dustinrue.com/2022/11/installing-activitypub-in-wordpress/">Installing ActivityPub in WordPress</a>
+</li>
+<li>
+<a href="https://blog.dustinrue.com/2022/11/you-can-now-follow-this-site-on-the-fediverse/">You can now follow this site on the Fediverse</a>
+</li>
+<li>
+<a href="https://blog.dustinrue.com/2022/10/colima-cpu-architecture-emulation/">Colima CPU architecture emulation</a>
+</li>
+<li>
+<a href="https://blog.dustinrue.com/2022/09/my-essential-kubernetes-services/">My Essential Kubernetes Services</a>
+</li>
+<li>
+<a href="https://blog.dustinrue.com/2022/08/colima-kubernetes-and-helm-chart-testing/">Colima, Kubernetes and Helm Chart Testing</a>
+</li>
+</ul>
+</aside>
+<aside id="linkcat-7" class="widget widget_links">
+<h3 class='widget-title'>Links</h3>
+<ul class='xoxo blogroll'>
+<li><a href="https://hub.docker.com/u/dustinrue" rel="me" title="My collection of Docker images. I make no claim to their usefulness.">Docker Hub</a></li>
+<li><a href="https://fosstodon.org/@dustinrue" rel="me" title="Find me on Fosstodon">Fosstodon</a></li>
+<li><a href="https://github.com/dustinrue">Github Profile</a></li>
+<li><a href="https://www.npmjs.com/~dustinrue" title="Collection of NodeJS modules I&#8217;ve created">NodeJS Modules</a></li>
+<li><a href="https://pw.dustinrue.com" rel="me" title="Find me in Polywork, I guess">Polywork</a></li>
+<li><a href="https://twitter.com/dustinrue">Twitter</a></li>
+</ul>
+</aside>
+<aside id="tag_cloud-4" class="widget widget_tag_cloud">
+<h3 class='widget-title'>Tags</h3>
+<div class="tagcloud"><a href="https://blog.dustinrue.com/tag/android/" class="tag-cloud-link tag-link-266 tag-link-position-1" style="font-size: 11.962264150943pt;" aria-label="Android (7 items)">Android</a>
+<a href="https://blog.dustinrue.com/tag/ansible/" class="tag-cloud-link tag-link-281 tag-link-position-2" style="font-size: 8pt;" aria-label="ansible (3 items)">ansible</a>
+<a href="https://blog.dustinrue.com/tag/apple/" class="tag-cloud-link tag-link-256 tag-link-position-3" style="font-size: 22pt;" aria-label="Apple (45 items)">Apple</a>
+<a href="https://blog.dustinrue.com/tag/apple-tv/" class="tag-cloud-link tag-link-267 tag-link-position-4" style="font-size: 8pt;" aria-label="Apple TV (3 items)">Apple TV</a>
+<a href="https://blog.dustinrue.com/tag/audio/" class="tag-cloud-link tag-link-353 tag-link-position-5" style="font-size: 11.301886792453pt;" aria-label="audio (6 items)">audio</a>
+<a href="https://blog.dustinrue.com/tag/aws/" class="tag-cloud-link tag-link-330 tag-link-position-6" style="font-size: 9.3207547169811pt;" aria-label="AWS (4 items)">AWS</a>
+<a href="https://blog.dustinrue.com/tag/buildx/" class="tag-cloud-link tag-link-341 tag-link-position-7" style="font-size: 8pt;" aria-label="buildx (3 items)">buildx</a>
+<a href="https://blog.dustinrue.com/tag/ci-cd/" class="tag-cloud-link tag-link-318 tag-link-position-8" style="font-size: 8pt;" aria-label="ci/cd (3 items)">ci/cd</a>
+<a href="https://blog.dustinrue.com/tag/cloud/" class="tag-cloud-link tag-link-310 tag-link-position-9" style="font-size: 8pt;" aria-label="cloud (3 items)">cloud</a>
+<a href="https://blog.dustinrue.com/tag/colima/" class="tag-cloud-link tag-link-367 tag-link-position-10" style="font-size: 8pt;" aria-label="colima (3 items)">colima</a>
+<a href="https://blog.dustinrue.com/tag/docker/" class="tag-cloud-link tag-link-275 tag-link-position-11" style="font-size: 14.339622641509pt;" aria-label="docker (11 items)">docker</a>
+<a href="https://blog.dustinrue.com/tag/gitlab/" class="tag-cloud-link tag-link-297 tag-link-position-12" style="font-size: 9.3207547169811pt;" aria-label="gitlab (4 items)">gitlab</a>
+<a href="https://blog.dustinrue.com/tag/h264/" class="tag-cloud-link tag-link-42 tag-link-position-13" style="font-size: 8pt;" aria-label="h264 (3 items)">h264</a>
+<a href="https://blog.dustinrue.com/tag/helm/" class="tag-cloud-link tag-link-337 tag-link-position-14" style="font-size: 8pt;" aria-label="helm (3 items)">helm</a>
+<a href="https://blog.dustinrue.com/tag/hosting/" class="tag-cloud-link tag-link-370 tag-link-position-15" style="font-size: 8pt;" aria-label="hosting (3 items)">hosting</a>
+<a href="https://blog.dustinrue.com/tag/ios/" class="tag-cloud-link tag-link-146 tag-link-position-16" style="font-size: 8pt;" aria-label="iOS (3 items)">iOS</a>
+<a href="https://blog.dustinrue.com/tag/ipad/" class="tag-cloud-link tag-link-259 tag-link-position-17" style="font-size: 14.339622641509pt;" aria-label="iPad (11 items)">iPad</a>
+<a href="https://blog.dustinrue.com/tag/iphone/" class="tag-cloud-link tag-link-262 tag-link-position-18" style="font-size: 11.962264150943pt;" aria-label="iPhone (7 items)">iPhone</a>
+<a href="https://blog.dustinrue.com/tag/ipod/" class="tag-cloud-link tag-link-263 tag-link-position-19" style="font-size: 8pt;" aria-label="iPod (3 items)">iPod</a>
+<a href="https://blog.dustinrue.com/tag/iscsi/" class="tag-cloud-link tag-link-30 tag-link-position-20" style="font-size: 9.3207547169811pt;" aria-label="iscsi (4 items)">iscsi</a>
+<a href="https://blog.dustinrue.com/tag/k3s/" class="tag-cloud-link tag-link-319 tag-link-position-21" style="font-size: 9.3207547169811pt;" aria-label="k3s (4 items)">k3s</a>
+<a href="https://blog.dustinrue.com/tag/kubernetes/" class="tag-cloud-link tag-link-316 tag-link-position-22" style="font-size: 14.339622641509pt;" aria-label="Kubernetes (11 items)">Kubernetes</a>
+<a href="https://blog.dustinrue.com/tag/linux/" class="tag-cloud-link tag-link-252 tag-link-position-23" style="font-size: 16.716981132075pt;" aria-label="Linux (17 items)">Linux</a>
+<a href="https://blog.dustinrue.com/tag/lion/" class="tag-cloud-link tag-link-131 tag-link-position-24" style="font-size: 8pt;" aria-label="Lion (3 items)">Lion</a>
+<a href="https://blog.dustinrue.com/tag/mac/" class="tag-cloud-link tag-link-255 tag-link-position-25" style="font-size: 11.962264150943pt;" aria-label="Mac (7 items)">Mac</a>
+<a href="https://blog.dustinrue.com/tag/macos/" class="tag-cloud-link tag-link-304 tag-link-position-26" style="font-size: 11.301886792453pt;" aria-label="macos (6 items)">macos</a>
+<a href="https://blog.dustinrue.com/tag/mactipoftheweek/" class="tag-cloud-link tag-link-393 tag-link-position-27" style="font-size: 15.660377358491pt;" aria-label="mactipoftheweek (14 items)">mactipoftheweek</a>
+<a href="https://blog.dustinrue.com/tag/microsoft/" class="tag-cloud-link tag-link-260 tag-link-position-28" style="font-size: 13.811320754717pt;" aria-label="Microsoft (10 items)">Microsoft</a>
+<a href="https://blog.dustinrue.com/tag/music/" class="tag-cloud-link tag-link-360 tag-link-position-29" style="font-size: 9.3207547169811pt;" aria-label="music (4 items)">music</a>
+<a href="https://blog.dustinrue.com/tag/mysql/" class="tag-cloud-link tag-link-150 tag-link-position-30" style="font-size: 10.377358490566pt;" aria-label="MySQL (5 items)">MySQL</a>
+<a href="https://blog.dustinrue.com/tag/nginx/" class="tag-cloud-link tag-link-298 tag-link-position-31" style="font-size: 9.3207547169811pt;" aria-label="nginx (4 items)">nginx</a>
+<a href="https://blog.dustinrue.com/tag/opensolaris/" class="tag-cloud-link tag-link-257 tag-link-position-32" style="font-size: 8pt;" aria-label="OpenSolaris (3 items)">OpenSolaris</a>
+<a href="https://blog.dustinrue.com/tag/open-source/" class="tag-cloud-link tag-link-25 tag-link-position-33" style="font-size: 9.3207547169811pt;" aria-label="open source (4 items)">open source</a>
+<a href="https://blog.dustinrue.com/tag/os-x/" class="tag-cloud-link tag-link-21 tag-link-position-34" style="font-size: 11.962264150943pt;" aria-label="os x (7 items)">os x</a>
+<a href="https://blog.dustinrue.com/tag/plex/" class="tag-cloud-link tag-link-358 tag-link-position-35" style="font-size: 11.301886792453pt;" aria-label="plex (6 items)">plex</a>
+<a href="https://blog.dustinrue.com/tag/plexamp/" class="tag-cloud-link tag-link-359 tag-link-position-36" style="font-size: 9.3207547169811pt;" aria-label="plexamp (4 items)">plexamp</a>
+<a href="https://blog.dustinrue.com/tag/proxmox/" class="tag-cloud-link tag-link-295 tag-link-position-37" style="font-size: 10.377358490566pt;" aria-label="proxmox (5 items)">proxmox</a>
+<a href="https://blog.dustinrue.com/tag/rumor/" class="tag-cloud-link tag-link-73 tag-link-position-38" style="font-size: 10.377358490566pt;" aria-label="Rumor (5 items)">Rumor</a>
+<a href="https://blog.dustinrue.com/tag/rumors/" class="tag-cloud-link tag-link-264 tag-link-position-39" style="font-size: 8pt;" aria-label="Rumors (3 items)">Rumors</a>
+<a href="https://blog.dustinrue.com/tag/tablet/" class="tag-cloud-link tag-link-69 tag-link-position-40" style="font-size: 10.377358490566pt;" aria-label="Tablet (5 items)">Tablet</a>
+<a href="https://blog.dustinrue.com/tag/tablets/" class="tag-cloud-link tag-link-261 tag-link-position-41" style="font-size: 11.962264150943pt;" aria-label="Tablets (7 items)">Tablets</a>
+<a href="https://blog.dustinrue.com/tag/verizon/" class="tag-cloud-link tag-link-88 tag-link-position-42" style="font-size: 9.3207547169811pt;" aria-label="Verizon (4 items)">Verizon</a>
+<a href="https://blog.dustinrue.com/tag/virtualbox/" class="tag-cloud-link tag-link-41 tag-link-position-43" style="font-size: 8pt;" aria-label="virtualbox (3 items)">virtualbox</a>
+<a href="https://blog.dustinrue.com/tag/wordpress/" class="tag-cloud-link tag-link-279 tag-link-position-44" style="font-size: 10.377358490566pt;" aria-label="WordPress (5 items)">WordPress</a>
+<a href="https://blog.dustinrue.com/tag/zfs/" class="tag-cloud-link tag-link-24 tag-link-position-45" style="font-size: 8pt;" aria-label="zfs (3 items)">zfs</a></div>
+</aside>
+</div>
+</div>
+</div>
+<div id="primary" class="content-area col-lg-9" itemprop="mainContentOfPage">
+<section id="content" class="site-content error-404 not-found" role="main">
+<header>
+<h2 class="page-title">Not Found</h2>
+</header>
+<div class="page-content">
+<p>It looks like nothing was found at this location. Maybe try a search?</p>
+<form method="get" id="searchform" action="https://blog.dustinrue.com/">
+<label for="s" class="assistive-text">Search</label>
+<input type="text" class="field" name="s" id="s" placeholder="Search" />
+<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+</div>
+</section>
+<footer class="site-info" itemscope itemtype="http://schema.org/WPFooter">
+<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>.
+Theme: Flat 1.7.11 by <a rel="nofollow" href="https://themeisle.com/themes/flat/" title="Flat WordPress Theme">Themeisle</a>. </footer>
+</div>
+</div>
+</div>
+</div>
+
+<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom button" aria-label="Ok">Ok</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7677663d2875b9c0","version":"2022.11.0","r":1,"token":"bce3d816750948018eb6978226a60864","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+0
+

@@ -1,0 +1,115 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: public, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777dde180783db-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:19 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fUy9LjLklZ9eWcqMaGwqj9em9i3JAhC0IlBZMb7YyU3ARQfzsM6AyaJbQUu2w7FYE%2BTFT3hvTAxqkHXXy7UbntMESo3k9XtIlFAjYqjar1No3pJWH7EO0lryXUvsFw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Nf-Request-Id: 01GHEF7SX5VFAEH2V052AEV2HG
+
+de3
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/destyle.css@1.0.15/destyle.css" />
+    <title>【これは大変なことやと思うよ】ms.kvche.ch 跡地【これは教育やろなぁ】</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&display=swap');
+
+      .all_content {
+        font-family: 'Kiwi Maru', serif;
+        letter-spacing: 0.03em;
+        font-weight: 400;
+        background-image: url('https://media.sushi.ski/files/82024780-0980-4d39-a27a-83cdac3bee19.png'),
+          linear-gradient(to right, #eceff1, #eceff1);
+        background-repeat: no-repeat, repeat;
+        background-position: right 5% bottom 5%, 0;
+        background-size: 40%, cover;
+        width: 100%;
+        min-height: 100vh;
+        color: #263238;
+      }
+      .all_content > .container {
+        padding: 75px 25px;
+        max-width: 720px;
+        margin: 0 auto;
+        width: 100%;
+        backdrop-filter: opacity(20%);
+      }
+
+      .main_content > .head {
+        font-size: 50px;
+        font-weight: 500;
+        display: inline-block;
+        padding: 10px 25px;
+        background: #263238;
+        color: #eceff1;
+      }
+
+      .main_content > .content {
+        margin-top: 50px;
+      }
+
+      .main_content > .content > .p {
+        margin-top: 25px;
+        line-height: 2;
+      }
+
+      a {
+        color: #009688;
+        text-decoration: underline;
+        transition: 0.2s;
+      }
+
+      a:hover {
+        color: #80cbc4;
+      }
+
+      @media screen and (max-width: 700px) {
+        .all_content {
+          background-size: 80%, cover;
+        }
+
+        .main_content > .head {
+          font-size: 40px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="all_content">
+      <div class="container">
+        <div class="main_content">
+          <h1 class="head">410 GONE</h1>
+          <div class="content">
+            <p class="p">
+              <a href="https://kkcake.biz" target="_blank">kkcake</a>のGroundpolisインスタンス、ms.kvche.ch
+              は2021年10月16日に<s>爆散</s>閉鎖しました。<br />
+            </p>
+            <p class="p">
+              あんまりにもしょうもないミスでサーバー内の全データを消去してしまったというのが直接の原因なのですが、元々サーバー環境の見直しなどを考えていたのもあり、いろいろ手をかけて復帰させるよりかは一度畳んで別インスタンスとして再開したほうが良いだろうと判断したため、ここはこの度閉鎖という形にさせていただきます。
+            </p>
+            <p class="p">
+              なるべく早めに新自鯖の方建てたいとは思いますが、現状は一時避難先として
+              <a href="https://groundpolis.app/@kkcake" target="_blank">@<span class="__cf_email__" data-cfemail="355e5e56545e507552475a405b51455a595c461b544545">[email&#160;protected]</span></a>
+              を利用しています。<br />
+              諸々ご迷惑をおかけしますが、何卒宜しくお願いします。
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+
+0
+

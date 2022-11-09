@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://rinne.masto.host; img-src 'self' https: data: blob: https://rinne.masto.host; style-src 'self' https://rinne.masto.host 'nonce-098+RLqEjeHkO1B17Ln9aA=='; media-src 'self' https: data: https://rinne.masto.host; frame-src 'self' https:; manifest-src 'self' https://rinne.masto.host; connect-src 'self' data: blob: https://rinne.masto.host https://cdn.masto.host wss://rinne.masto.host; script-src 'self' https://rinne.masto.host; child-src 'self' blob: https://rinne.masto.host; worker-src 'self' blob: https://rinne.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:09 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.223660Z
+X-Request-Id: 343b4125-936c-493c-b0b2-88d7a65ec4d0
+X-Runtime: 0.007532
+X-Xss-Protection: 0
+
+0
+

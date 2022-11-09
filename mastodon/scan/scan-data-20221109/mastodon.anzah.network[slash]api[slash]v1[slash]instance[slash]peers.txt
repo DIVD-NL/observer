@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 371
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:57 GMT
+Server: nginx/1.22.0
+Set-Cookie: 6668-SessionId=e27f2bd690499d85043be44be7a7d59feced113a18b9d11234bcfe1eee0ebb69; HttpOnly; path=/;Secure; SameSite=Strict;
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>404 Not Found</title>
+</head>
+<body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr/>
+<p>ZNC 1.8.2 - <a href="https://znc.in">https://znc.in</a></p>
+</body>
+</html>

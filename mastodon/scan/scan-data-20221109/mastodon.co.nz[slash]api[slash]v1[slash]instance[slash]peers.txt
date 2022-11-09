@@ -1,0 +1,8 @@
+HTTP/1.1 308 Permanent Redirect
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Date: Wed, 09 Nov 2022 15:11:05 GMT
+Location: https://mastodon.nz
+Server: Caddy
+Content-Length: 0
+

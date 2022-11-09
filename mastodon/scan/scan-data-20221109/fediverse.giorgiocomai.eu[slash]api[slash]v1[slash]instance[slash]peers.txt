@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 3265
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://fediverse.giorgiocomai.eu wss://fediverse.giorgiocomai.eu;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:51:43 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Cowboy
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXyKxvw-6MT5p4ACEER
+X-Xss-Protection: 1; mode=block
+
+["octodon.social","tjpalanca.com","urbanists.social","mastodon.green","toot.site","mastodontti.fi","indiepocalypse.social","mastodon.cloud","toot.community","mathstodon.xyz","spinster.xyz","m.cmx.im","sciences.re","mastodon.garden","muenchen.social","mastodon.nl","xarxa.cloud","toot.bldrweb.org","social.cologne","timetheft.social","mastodon.se","friends.johalla.org","kith.kitchen","shrike.club","die-partei.social","mastodon.social","med-mastodon.com","social.bhsnw.com","amicale.net","gassner.io","mamot.fr","awscommunity.social","detroitriotcity.com","fediscience.org","duck.haus","respublicae.eu","todon.nl","writing.exchange","nerdica.net","gruene.social","beach.city","social.tchncs.de","hci.social","journa.host","mastodon.nu","cloudisland.nz","noc.social","mas.to","mastodon.zaclys.com","pleroma.1d4.us","werd.social","mastodon.me.uk","masto.ai","oslo.town","mystic.lgbt","dair-community.social","lor.sh","sociale.network","climatejustice.social","mastodon.ie","mastodon.uno","vis.social","mastodon.scot","benjojo.co.uk","halibut.com","friends.wimmer-edv.de","mastodon.online","sciences.social","piaille.fr","det.social","simonwillison.net","mstdn.io","social.coop","home.social","lothlorien.net","n-odes.social","uncorking.me","aus.social","eupolicy.social","bigshoulders.city","a.gup.pe","mastodonapp.uk","tooot.im","floss.social","mastodon.sdf.org","fediweij.nl","xoxo.zone","akademienl.social","trekkies.social","masthead.social","hostux.social","bbs.crumplab.com","social.romeov.me","tenforward.social","twit.social","bne.social","mastodon.lol","c.im","ifwo.eu","legrand.im","eeeeeeeee.eu","mastodon.art","chaos.social","archaeo.social","mastodon.top","ioc.exchange","camerondcampbell.masto.host","oldbytes.space","sueden.social","sfba.social","commiespace.duckdns.org","emily.news","mastodon.nz","infosec.exchange","toot.cat","layer8.space","mstdn.science","social.jmueller.eu","tech.lgbt","irrelephant.co","dragonscave.space","sigmoid.social","fedi.lowpassfilter.link","mastodontech.de","indieweb.social","berlin.social","scholar.social","mastodon.world","colliderbias.net","meow.social","nobigtech.es","physfluids.fr","cheeseburger.social","pleroma.doingyourmom.club","zirk.us","code4lib.social","toot.wales","mstdn.ca","socl.bz","mastodont.cat","glitterkitten.co.uk","ruhr.social","fashionviz.xyz","ecoevo.social","framapiaf.org","jawns.club","freiburg.social","retr0.id","mastodon.coffee","tooting.ch","eldritch.cafe","recsys.social","bayes.club","ptwg.xyz","econtwitter.net","social.masto.host","laterracita.online","todon.eu","mastodon.xyz","col.social","troet.cafe","vmst.io","mastodon.radio","social.blogsofwar.com","mstdn.social","genomic.social","socialism.social","scicomm.xyz","norden.social","nonexiste.net","norrebro.space","botsin.space","fosstodon.org","data-folks.masto.host","nerdculture.de","post.lurk.org","mastodon.namel.fr","qoto.org","friendica.hubup.pro","hachyderm.io","social.linux.pizza","social.deadsuperhero.com","masto.nobigtech.es","social.outsourcedmath.com","hulvr.com","plem.sapphic.site","fd.inggrismantap.my.id","sciencemastodon.com","wandering.shop","mapstodon.space","port87.social","podcastindex.social","anonsys.net","mastodon.org.uk","masto.design","genart.social","digitalcourage.social","kolektiva.social"]

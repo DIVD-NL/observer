@@ -1,0 +1,21 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=120, public
+Content-Security-Policy: frame-ancestors *.icann.org
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:39 GMT
+Location: http://archive.icann.org/api/v1/instance/peers
+Referrer-Policy: origin-when-cross-origin
+Server: Apache
+Strict-Transport-Security: max-age=48211200; preload
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Burst-Capacity: 200
+X-Ratelimit-Remaining: 195
+X-Ratelimit-Replenish-Rate: 100
+X-Ratelimit-Requested-Tokens: 5
+
+70
+<html><body>You are being <a href="http://archive.icann.org/api/v1/instance/peers">redirected</a>.</body></html>
+0
+

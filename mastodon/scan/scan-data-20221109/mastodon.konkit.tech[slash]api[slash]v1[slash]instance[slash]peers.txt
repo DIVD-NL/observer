@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b5f087d83d3-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:36 GMT
+Etag: W/"def73ef949f4ef324381124fb126a6f8"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=I79SIfBAjVZNRD4BpEA7Uixai4gUCYbp2tuB%2BeheEAphhVKHK0aRP%2BMBtuhCuVZ7Za5ZUcKVCgMdWQLVOo9ZBQDN1iPRefDTdl7hC%2FfrGTTduiFpW3JMvwMmSkBGb%2F5qet6xH%2B90kQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.934553Z
+X-Request-Id: ed5d1683-b618-4eca-80fc-a9bc645756d1
+X-Runtime: 0.029159
+X-Xss-Protection: 0
+
+5ba
+["mspsocial.net","toot.yosh.is","wandering.shop","mastodon.ie","mastodon.design","typo.social","front-end.social","mastodon.nz","ruby.social","mastodon.art","social.lol","merveilles.town","simonwillison.net","inuh.net","mastodonapp.uk","rebelsocial.media","toot.cafe","mindly.social","retr0.id","androiddev.social","a11y.info","econtwitter.net","vulpine.club","dapchat.online","lewisdale.dev","oldbytes.space","toot.pizza","genomic.social","social.veltens.org","zachleat.com","freeradical.zone","nerdculture.de","functional.cafe","tilde.zone","mastodon.nu","mastodon.green","octodon.social","mastodon.gamedev.place","phpc.social","mstdn.jp","mstdn.social","awscommunity.social","mas.to","jonleibowitz.social","social.tchncs.de","mastodon.bida.im","toot.thoughtworks.com","sfba.social","mastodon.cloud","infosec.exchange","epistolary.org","mathstodon.xyz","chaos.social","x0r.be","linuxrocks.online","toot.community","social.anoxinon.de","fosstodon.org","qoto.org","hax.technology","mastodon.gougere.fr","notacult.social","mastodon.se","m.sclo.nl","mastodon.xyz","mastodon.nl","toots.dgplug.org","mastodon.uno","hachyderm.io","vis.social","mastodont.cat","mastodontti.fi","friend.camp","tech.lgbt","mastodon.sdf.org","velocipederider.com","mastodon.online","types.pl","mastodon.social","pegelinux.top","bildung.social","astrodon.social","indieweb.social","social.coop","mastodon.lol","wien.rocks","mastodon.world","twit.social","mamot.fr","pony.social","journa.host"]
+0
+

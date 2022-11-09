@@ -1,0 +1,28 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Methods: GET, OPTIONS, POST
+Access-Control-Allow-Origin: https://*.facebook.net, https://*.yandex.ru, https://www.google-analytics.com, https://js.smi2.ru
+Age: 0
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:09:24 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Sun, 11 Nov 2012 09:17:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=d64ed1947d36b5766e35bf9ef092aea0; path=/
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+
+<HTML>
+<HEAD>
+	<TITLE>Ошибка 404 - документ не найден | Каспаров.Ru</TITLE>
+</HEAD>
+
+<BODY>
+<h1>Ошибка 404</h1>
+<h2>Документ не найден!</h2>
+
+</BODY>
+</HTML>

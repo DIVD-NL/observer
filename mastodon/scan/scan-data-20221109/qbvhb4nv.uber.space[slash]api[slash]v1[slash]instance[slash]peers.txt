@@ -1,0 +1,19 @@
+HTTP/1.1 402 Payment Required
+Connection: close
+Content-Length: 407
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:47 GMT
+Server: nginx
+
+
+<p>
+    <strong>This account has been disabled.</strong><br />
+    If you are the owner, please login to your dashboard:
+    <a href='https://dashboard.uberspace.de/'>dashboard.uberspace.de</a>.
+</p>
+
+<p>
+    <strong>Dieser Account wurde deaktiviert.</strong><br />
+    Falls es deiner ist, logge dich bitte ins Dashboard ein:
+    <a href='https://dashboard.uberspace.de/'>dashboard.uberspace.de</a>.
+</p>

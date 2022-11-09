@@ -1,0 +1,1529 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:13 GMT
+Link: <https://blog.lukaszkopczyk.com/wp-json/>; rel="https://api.w.org/"
+Server: LiteSpeed
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.30
+
+1c0c9
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html class="no-js g1-off-outside lt-ie10 lt-ie9" id="ie8" lang="pl-PL"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js g1-off-outside lt-ie10" id="ie9" lang="pl-PL"><![endif]-->
+<!--[if !IE]><!-->
+<html class="no-js g1-off-outside" lang="pl-PL"><!--<![endif]-->
+<head>
+	<meta charset="UTF-8"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="https://blog.lukaszkopczyk.com/xmlrpc.php"/>
+
+	<title>BLOG &#8211; Łukasz Kopczyk</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, height=device-height, width=device-width" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel="alternate" type="application/rss+xml" title="BLOG &raquo; Kanał z wpisami" href="https://blog.lukaszkopczyk.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BLOG &raquo; Kanał z komentarzami" href="https://blog.lukaszkopczyk.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.9.1 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script
+				src="//www.googletagmanager.com/gtag/js?id=UA-153687597-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var em_version = '7.9.1';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-153687597-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.ExactMetricsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (em_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = exactmetrics_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dNDMyYj': true,
+											});
+															__gtagTracker('config', 'UA-153687597-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.lukaszkopczyk.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://blog.lukaszkopczyk.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://blog.lukaszkopczyk.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://blog.lukaszkopczyk.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='adace-style-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace/assets/css/style.min.css?ver=1.3.27' type='text/css' media='all' />
+<link rel='stylesheet' id='shoppable-images-css-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace/assets/css/shoppable-images-front.min.css?ver=1.3.27' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mace-lazy-load-youtube-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/lazy-load/assets/css/youtube.min.css?ver=1.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='mace-gallery-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/gallery/css/gallery.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='g1-main-css' href='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/styles/news/all-light.min.css?ver=9.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-google-fonts-css' href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=9.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-dynamic-style-css' href='https://blog.lukaszkopczyk.com/files/sites/2/dynamic-style-1666964817.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-style-css' href='https://blog.lukaszkopczyk.com/wp-content/themes/bimber-child-theme/style.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-vc-css' href='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/styles/news/vc-light.min.css?ver=9.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-essb-css' href='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/styles/news/essb-light.min.css?ver=9.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-mashshare-css' href='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/styles/news/mashshare-light.min.css?ver=9.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=7.9.1' id='exactmetrics-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='exactmetrics-frontend-script-js-extra'>/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/blog.lukaszkopczyk.com","hash_tracking":"false","ua":"UA-153687597-1","v4_id":""};/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace/assets/js/slot-slideup.js?ver=1.3.27' id='adace-slot-slideup-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace/includes/shoppable-images/assets/js/shoppable-images-front.js?ver=1.3.27' id='shoppable-images-js-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace/assets/js/coupons.js?ver=1.3.27' id='adace-coupons-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/ad-ace//includes/adblock-detector/advertisement.js?ver=1.3.27' id='adace-adijs-pot-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/blog.lukaszkopczyk.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/blog.lukaszkopczyk.com\/wp-json\/wordpress-popular-posts","ID":0,"token":"9a054dcbf3","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.0.5' id='wpp-js-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0' id='modernizr-js'></script>
+<meta name="generator" content="Powered by LayerSlider 7.5.0 - Build Heros, Sliders, and Popups. Create Animations and Beautiful, Rich Web Content as Easy as Never Before on WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="https://api.w.org/" href="https://blog.lukaszkopczyk.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.lukaszkopczyk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.lukaszkopczyk.com/wp-includes/wlwmanifest.xml" />
+<link rel="preload" href="https://blog.lukaszkopczyk.com/wp-content/plugins/g1-socials/css/iconfont/fonts/g1-socials.woff" as="font" type="font/woff" crossorigin="anonymous">	<style>
+		.lazyload, .lazyloading {
+			opacity: 0;
+		}
+		.lazyloaded {
+			opacity: 1;
+		}
+		.lazyload,
+		.lazyloading,
+		.lazyloaded {
+			transition: opacity 0.175s ease-in-out;
+		}
+
+		iframe.lazyloading {
+			opacity: 1;
+			transition: opacity 0.375s ease-in-out;
+			background: #f2f2f2 no-repeat center;
+		}
+		iframe.lazyloaded {
+			opacity: 1;
+		}
+	</style>
+	
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://anchor.fm/s/2630644/podcast/rss" />
+
+	<style>img#wpstats{display:none}</style>
+		            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            	<style>
+	@font-face {
+		font-family: "bimber";
+							src:url("https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/bimber/fonts/bimber.eot");
+			src:url("https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/bimber/fonts/bimber.eot?#iefix") format("embedded-opentype"),
+			url("https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/bimber/fonts/bimber.woff") format("woff"),
+			url("https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/bimber/fonts/bimber.ttf") format("truetype"),
+			url("https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/bimber/fonts/bimber.svg#bimber") format("svg");
+				font-weight: normal;
+		font-style: normal;
+		font-display: block;
+	}
+	</style>
+	<meta name="theme-color" content="#1e73be" />
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = 'OneSignalSDKUpdaterWorker.js';
+                      OneSignal.SERVICE_WORKER_PATH = 'OneSignalSDKWorker.js';
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: '/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/' };
+        OneSignal.setDefaultNotificationUrl("https://blog.lukaszkopczyk.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '7c1f3a40-5666-49c8-99d1-4650fd6b1a59';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Dziękuję, że dołączyłeś do mnie";
+oneSignal_options['path'] = "https://blog.lukaszkopczyk.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.3a850f03-75f9-40a0-acb5-2bc8b318c823";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Wielkie korporacje technologiczne cenzurują konserwatystów. Możemy ominąć cenzurę.";
+oneSignal_options['promptOptions']['acceptButtonText'] = "POZA CENZURĄ";
+oneSignal_options['promptOptions']['cancelButtonText'] = "CENZURA";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Mam nadzieję, że powrócisz';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Dziękuję za subskrybcję!';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Zablokowano powiadomienia';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Dziękuję za Twoją subskrypcję!';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Dziękuję, że powróciłeś!';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Nie będziesz więcej otrzymywać powiadomień...';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'POZA CENZURĄ';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'CENZURA';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['offset'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="g1:switch-skin-css" content="https://blog.lukaszkopczyk.com/wp-content/themes/bimber/css/9.2.3/styles/mode-dark.min.css" />	<script>if("undefined"!=typeof localStorage){var skinItemId=document.getElementsByName("g1:skin-item-id");skinItemId=skinItemId.length>0?skinItemId[0].getAttribute("content"):"g1_skin",window.g1SwitchSkin=function(e,t){if(e){var n=document.getElementById("g1-switch-skin-css");if(n){n.parentNode.removeChild(n),document.documentElement.classList.remove("g1-skinmode");try{localStorage.removeItem(skinItemId)}catch(e){}}else{t?document.write('<link id="g1-switch-skin-css" rel="stylesheet" type="text/css" media="all" href="'+document.getElementsByName("g1:switch-skin-css")[0].getAttribute("content")+'" />'):((n=document.createElement("link")).id="g1-switch-skin-css",n.href=document.getElementsByName("g1:switch-skin-css")[0].getAttribute("content"),n.rel="stylesheet",n.media="all",document.head.appendChild(n)),document.documentElement.classList.add("g1-skinmode");try{localStorage.setItem(skinItemId,e)}catch(e){}}}};try{var mode=localStorage.getItem(skinItemId);window.g1SwitchSkin(mode,!0)}catch(e){}}</script>
+		<script>if("undefined"!=typeof localStorage){var nsfwItemId=document.getElementsByName("g1:nsfw-item-id");nsfwItemId=nsfwItemId.length>0?nsfwItemId[0].getAttribute("content"):"g1_nsfw_off",window.g1SwitchNSFW=function(e){e?(localStorage.setItem(nsfwItemId,1),document.documentElement.classList.add("g1-nsfw-off")):(localStorage.removeItem(nsfwItemId),document.documentElement.classList.remove("g1-nsfw-off"))};try{var nsfwmode=localStorage.getItem(nsfwItemId);window.g1SwitchNSFW(nsfwmode)}catch(e){}}</script>
+	<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home blog wp-embed-responsive g1-layout-stretched g1-hoverable g1-sidebar-normal wpb-js-composer js-comp-ver-6.9.0 vc_responsive" itemscope="" itemtype="http://schema.org/WebPage" >
+
+<div class="g1-body-inner">
+
+	<div id="page">
+		
+
+		
+
+					<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+																	<div class="g1-id g1-id-desktop">
+			<h1 class="g1-mega g1-mega-1st site-title">
+	
+			<a class=""
+			   href="https://blog.lukaszkopczyk.com/" rel="home">
+									BLOG							</a>
+
+			</h1>
+	
+            <script>
+            try {
+                if ( localStorage.getItem(skinItemId ) ) {
+                    var _g1;
+                    _g1 = document.getElementById('g1-logo-inverted-img');
+                    _g1.classList.remove('lazyload');
+                    _g1.setAttribute('src', _g1.getAttribute('data-src') );
+
+                    _g1 = document.getElementById('g1-logo-inverted-source');
+                    _g1.setAttribute('srcset', _g1.getAttribute('data-srcset'));
+                }
+            } catch(e) {}
+        </script>
+    
+			<p class="g1-delta g1-delta-3rd site-description">Łukasz Kopczyk</p>
+	</div>															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+																	<div class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-nsfw g1-drop-the-nsfw-on g1-drop-l">
+	<button class="g1-button-none g1-drop-toggle" title="Przełącz NSFW">
+		<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">NSFW</span>
+		<span class="g1-drop-toggle-arrow"></span>
+	</button>
+			<div class="g1-drop-content">
+			<p>Wyłącz ostrzeżenia <abbr title="Not Suitable For Work">NSFW</abbr> które odnoszą się do treści uznawanych za nieodpowiednie w miejscu pracy (<strong>N</strong>ot <strong>S</strong>uitable <strong>F</strong>or <strong>W</strong>ork).</p>
+		</div>
+	</div>
+
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+																	<ul id="g1-social-icons-1" class="g1-socials-items g1-socials-items-tpl-grid g1-socials-hb-list  ">
+			<li class="g1-socials-item g1-socials-item-facebook">
+	   <a class="g1-socials-item-link" href="https://www.facebook.com/kopczyk.lukasz" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Facebook</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-twitter">
+	   <a class="g1-socials-item-link" href="https://twitter.com/lukasz_kopczyk" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Twitter</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-instagram">
+	   <a class="g1-socials-item-link" href="https://instagram.com/lukasz_kopczyk/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">instagram</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-youtube">
+	   <a class="g1-socials-item-link" href="https://www.youtube.com/channel/UC17ILM1oUfCR_PK8DuZGEHA" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">youtube</span>
+		   </span>
+	   </a>
+	</li>
+	</ul>
+																	<div class="g1-drop g1-drop-nojs g1-drop-with-anim g1-drop-before g1-drop-the-skin g1-drop-the-skin-light g1-drop-l g1-drop-icon">
+	<button class="g1-button-none g1-drop-toggle">
+		<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Przełącz skórkę</span>
+		<span class="g1-drop-toggle-arrow"></span>
+	</button>
+			<div class="g1-drop-content">
+							<p class="g1-skinmode-desc">  Włącz ciemny motyw, który jest przyjemnieszy dla oczu podczas nocy.</p>
+				<p class="g1-skinmode-desc">Włącz jasny motyw, który jest przyjemniejszy dla oczu podczas dnia.</p>
+					</div>
+	</div>
+
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				<div class="g1-sticky-top-wrapper g1-hb-row-2">
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+																	<!-- BEGIN .g1-primary-nav -->
+<nav id="g1-primary-nav" class="g1-primary-nav"><ul id="g1-primary-nav-menu" class="g1-primary-nav-menu g1-menu-h"><li id="menu-item-2489" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-g1-standard menu-item-2489"><a href="https://blog.lukaszkopczyk.com/" aria-current="page">GŁÓWNA</a></li>
+<li id="menu-item-2632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-2632"><a href="https://blog.lukaszkopczyk.com/kategoria/news/">NEWS</a></li>
+<li id="menu-item-3069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-g1-standard menu-item-3069"><a>KATEGORIE</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2606"><a href="https://blog.lukaszkopczyk.com/kategoria/polityka/">POLITYKA</a></li>
+	<li id="menu-item-2602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2602"><a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/">CZŁOWIEK</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2607"><a href="https://blog.lukaszkopczyk.com/kategoria/religia/">RELIGIA</a></li>
+	<li id="menu-item-2603" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2603"><a href="https://blog.lukaszkopczyk.com/kategoria/kultura/">KULTURA</a></li>
+	<li id="menu-item-2493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2493"><a href="https://blog.lukaszkopczyk.com/kategoria/opowiesci/">OPOWIEŚCI</a></li>
+	<li id="menu-item-2605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2605"><a href="https://blog.lukaszkopczyk.com/kategoria/podroze/">PODRÓŻE</a></li>
+	<li id="menu-item-2622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2622"><a href="https://lukaszkopczyk.com">WIDEO</a></li>
+</ul>
+</li>
+</ul></nav><!-- END .g1-primary-nav -->
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				</div>
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-on">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+					<div class="g1-sticky-top-wrapper g1-hb-row-1">
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+																		<a class="g1-hamburger g1-hamburger-show  " href="#">
+		<span class="g1-hamburger-icon"></span>
+			<span class="g1-hamburger-label
+			g1-hamburger-label-hidden			">Menu</span>
+	</a>
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+																	<div class="g1-id g1-id-mobile">
+			<p class="g1-mega g1-mega-1st site-title">
+	
+		<a class=""
+		   href="https://blog.lukaszkopczyk.com/" rel="home">
+							BLOG					</a>
+
+			</p>
+	
+            <script>
+            try {
+                if ( localStorage.getItem(skinItemId ) ) {
+                    var _g1;
+                    _g1 = document.getElementById('g1-logo-mobile-inverted-img');
+                    _g1.classList.remove('lazyload');
+                    _g1.setAttribute('src', _g1.getAttribute('data-src') );
+
+                    _g1 = document.getElementById('g1-logo-mobile-inverted-source');
+                    _g1.setAttribute('srcset', _g1.getAttribute('data-srcset'));
+                }
+            } catch(e) {}
+        </script>
+    
+			<p class="g1-delta g1-delta-3rd site-description">Łukasz Kopczyk</p>
+	</div>															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+																		<div class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-search  g1-drop-s g1-drop-icon ">
+		<a class="g1-drop-toggle" href="https://blog.lukaszkopczyk.com/?s=">
+			<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Szukaj</span>
+			<span class="g1-drop-toggle-arrow"></span>
+		</a>
+		<div class="g1-drop-content">
+			
+
+<div role="search" class="search-form-wrapper">
+	<form method="get"
+	      class="g1-searchform-tpl-default g1-searchform-ajax search-form"
+	      action="https://blog.lukaszkopczyk.com/">
+		<label>
+			<span class="screen-reader-text">Szukaj:</span>
+			<input type="search" class="search-field"
+			       placeholder="Szukaj&hellip;"
+			       value="" name="s"
+			       title="Szukaj:" />
+		</label>
+		<button class="search-submit">Szukaj</button>
+	</form>
+
+			<div class="g1-searches g1-searches-ajax"></div>
+	</div>
+		</div>
+	</div>
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				</div>
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+			<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-on">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+	
+		
+		
+		
+
+
+	
+	<div class="page-body archive-body g1-row g1-row-layout-page g1-row-padding-m archive-body-stream">
+		<div class="g1-row-inner">
+
+			<div id="primary" class="g1-column g1-column-2of3">
+
+				
+									<div class="g1-collection g1-collection-stream g1-collection-narrow">
+						<h2 class="g1-delta g1-delta-2nd screen-reader-text g1-collection-title"><span>Ostatnie treści</span></h2>
+						<div class="g1-collection-viewport">
+							<ul class="g1-collection-items">
+																									
+									<li class="g1-collection-item">
+										
+<article id="post-3161" class="entry-tpl-stream g1-card g1-card-simple post-3161 post type-post status-publish format-standard has-post-thumbnail category-czlowiek category-polityka tag-feministki tag-kobiety tag-stare-gazety tag-sufrazystki" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a>, <a href="https://blog.lukaszkopczyk.com/kategoria/polityka/" class="entry-category entry-category-item-302">POLITYKA</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/wandalizm-sufrazystek-1914/" rel="bookmark">Wandalizm sufrażystek, 1914</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="Wandalizm sufrażystek, 1914" class="g1-frame" href="https://blog.lukaszkopczyk.com/wandalizm-sufrazystek-1914/"><div class="g1-frame-inner"><img width="608" height="201" src="https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-608x201.jpg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-608x201.jpg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-300x99.jpg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-768x254.jpg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-561x186.jpg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-265x88.jpg 265w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-531x176.jpg 531w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-364x120.jpg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-728x241.jpg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-758x251.jpg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-145x48.jpg 145w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-290x96.jpg 290w, https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914.jpg 1012w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="3168" data-permalink="https://blog.lukaszkopczyk.com/wandalizm-sufrazystek-1914/wandalizm_sufrazystek_1914/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914.jpg" data-orig-size="1012,335" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="wandalizm_sufrazystek_1914" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914-300x99.jpg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/10/wandalizm_sufrazystek_1914.jpg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2022-10-28T16:15:35+01:00" itemprop="datePublished">28 października 2022, 16:15</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Wandalizm sufrażystek w 1914 roku nie różni się od wandalizmu feministek w 2022 roku. Czy kobiety tylko tak potrafią walczyć o swoje ideały, t.j. wrzaskiem, niszczeniem i biciem? <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/wandalizm-sufrazystek-1914/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-3150" class="entry-tpl-stream g1-card g1-card-simple post-3150 post type-post status-publish format-image has-post-thumbnail category-news category-polityka tag-jaroslaw-wolski tag-wojna-na-ukrainie post_format-post-format-image" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/news/" class="entry-category entry-category-item-310">NEWS</a>, <a href="https://blog.lukaszkopczyk.com/kategoria/polityka/" class="entry-category entry-category-item-302">POLITYKA</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/jaroslaw-wolski-zyskal-popularnosc-dzieki-wojnie-na-ukrainie/" rel="bookmark">Jarosław Wolski zyskał popularność dzięki wojnie na Ukrainie</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="Jarosław Wolski zyskał popularność dzięki wojnie na Ukrainie" class="g1-frame" href="https://blog.lukaszkopczyk.com/jaroslaw-wolski-zyskal-popularnosc-dzieki-wojnie-na-ukrainie/"><div class="g1-frame-inner"><img width="608" height="342" src="https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-608x342.jpeg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-608x342.jpeg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-300x169.jpeg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-1024x576.jpeg 1024w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-768x432.jpeg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-1536x864.jpeg 1536w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-192x108.jpeg 192w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-384x216.jpeg 384w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-364x205.jpeg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-728x409.jpeg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-561x316.jpeg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-1122x631.jpeg 1122w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-265x149.jpeg 265w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-531x299.jpeg 531w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-758x426.jpeg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-1152x648.jpeg 1152w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-85x48.jpeg 85w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-171x96.jpeg 171w, https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2.jpeg 1600w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="3151" data-permalink="https://blog.lukaszkopczyk.com/jaroslaw-wolski-zyskal-popularnosc-dzieki-wojnie-na-ukrainie/fx8rdqoxwaahwy-2/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2.jpeg" data-orig-size="1600,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="FX8rDqOXwAAHWY-2" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-300x169.jpeg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2022/07/FX8rDqOXwAAHWY-2-1024x576.jpeg" /><span class="g1-frame-icon g1-frame-icon-image"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2022-07-19T15:30:37+01:00" itemprop="datePublished">19 lipca 2022, 15:30</time>			</p>
+		
+					<div class="entry-summary">
+				<p>W mojej ocenie Pan Wolski, politolog, dziennikarz, publicysta, cywilny analityk, dorobił się dzięki wojnie na Ukrainie. <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/jaroslaw-wolski-zyskal-popularnosc-dzieki-wojnie-na-ukrainie/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-2865" class="entry-tpl-stream g1-card g1-card-simple post-2865 post type-post status-publish format-standard has-post-thumbnail category-czlowiek tag-lesscalm tag-mary-quant tag-michal-malinski tag-moralnosc tag-przyzwoitosc tag-rewolucja-seksualna tag-skromnosc tag-skromny-ubior tag-wartosci-konserwatywne" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/niemoralni-paralitycy/" rel="bookmark">Niemoralni paralitycy w szeregach konserwatystów i katolików</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="Niemoralni paralitycy w szeregach konserwatystów i katolików" class="g1-frame" href="https://blog.lukaszkopczyk.com/niemoralni-paralitycy/"><div class="g1-frame-inner"><img width="608" height="380" src="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka.jpg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka.jpg 852w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka-300x187.jpg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka-768x480.jpg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka-77x48.jpg 77w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka-154x96.jpg 154w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="2885" data-permalink="https://blog.lukaszkopczyk.com/niemoralni-paralitycy/mini-spodniczka/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka.jpg" data-orig-size="852,532" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mini-spodniczka" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka-300x187.jpg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/mini-spodniczka.jpg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2021-08-22T10:25:01+01:00" itemprop="datePublished">22 sierpnia 2021, 10:25</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Manipulacje idiotów mają swoją określoną trwałość. W zetknięciu z faktami, rozsypują się niczym suchy liść zdeptany z satysfakcją jesienną porą. <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/niemoralni-paralitycy/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-2838" class="entry-tpl-stream g1-card g1-card-simple post-2838 post type-post status-publish format-standard has-post-thumbnail category-news tag-covid19 tag-facebook tag-szczepionki" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/news/" class="entry-category entry-category-item-310">NEWS</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/jakies-zero-decyduje-co-jest-prawda/" rel="bookmark">Jakieś zero decyduje, co jest prawdą!</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="Jakieś zero decyduje, co jest prawdą!" class="g1-frame" href="https://blog.lukaszkopczyk.com/jakies-zero-decyduje-co-jest-prawda/"><div class="g1-frame-inner"><img width="608" height="456" src="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714.jpg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714.jpg 1242w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-300x225.jpg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-1024x768.jpg 1024w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-768x576.jpg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-64x48.jpg 64w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-128x96.jpg 128w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-313x235.jpg 313w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="2847" data-permalink="https://blog.lukaszkopczyk.com/jakies-zero-decyduje-co-jest-prawda/img_7714/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714.jpg" data-orig-size="1242,932" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="img_7714" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-300x225.jpg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/img_7714-1024x768.jpg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2021-08-21T01:35:06+01:00" itemprop="datePublished">21 sierpnia 2021, 01:35</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Jakieś anonimowe zero decyduje, co jest prawdą, a co nie jest. To zero wie lepiej od lekarzy lub od wynalazcy technologii szczepionkowej mRNA/DNA. Siedzi za ekranem komputera i decyduje, co prawdą jest, a co prawdą nie jest. <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/jakies-zero-decyduje-co-jest-prawda/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-2637" class="entry-tpl-stream g1-card g1-card-simple post-2637 post type-post status-publish format-standard has-post-thumbnail category-religia tag-imigranci tag-islam tag-koran link_tag-prawy-pl" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/religia/" class="entry-category entry-category-item-303">RELIGIA</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/koran-mowi-wprost-i-zabijajcie-ich-gdziekolwiek-ich-spotkacie/" rel="bookmark">KORAN MÓWI WPROST: I ZABIJAJCIE ICH GDZIEKOLWIEK ICH SPOTKACIE</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="KORAN MÓWI WPROST: I ZABIJAJCIE ICH GDZIEKOLWIEK ICH SPOTKACIE" class="g1-frame" href="https://blog.lukaszkopczyk.com/koran-mowi-wprost-i-zabijajcie-ich-gdziekolwiek-ich-spotkacie/"><div class="g1-frame-inner"><img width="608" height="342" src="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-608x342.jpg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-608x342.jpg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-300x169.jpg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-1024x576.jpg 1024w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-768x432.jpg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-1536x864.jpg 1536w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-192x108.jpg 192w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-384x216.jpg 384w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-364x205.jpg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-728x409.jpg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-561x316.jpg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-1122x631.jpg 1122w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-265x149.jpg 265w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-531x299.jpg 531w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-758x426.jpg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-1152x648.jpg 1152w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-85x48.jpg 85w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-171x96.jpg 171w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-313x176.jpg 313w, https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1.jpg 1920w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="2638" data-permalink="https://blog.lukaszkopczyk.com/koran-mowi-wprost-i-zabijajcie-ich-gdziekolwiek-ich-spotkacie/islam_1/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1.jpg" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="islam_1" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-300x169.jpg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2021/08/islam_1-1024x576.jpg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2021-08-12T14:04:16+01:00" itemprop="datePublished">12 sierpnia 2021, 14:04</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Artykuł pochodzi z 2013 roku. Z artykułem polemizował jeden z redaktorów Gazety Prawnej w wydaniu internetowym. Od tamtego czasu islam mniej krwawy się nie zrobił. Od momentu wybuchu tzw. pandemii, terroryzm zniknął z pierwszych stron gazet, z głównych wydań serwisów informacyjnych. To nie oznacza, że krwawy islam przestał istnieć, albo że zrobił sobie przerwę <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/koran-mowi-wprost-i-zabijajcie-ich-gdziekolwiek-ich-spotkacie/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-2463" class="entry-tpl-stream g1-card g1-card-simple post-2463 post type-post status-publish format-standard has-post-thumbnail category-czlowiek" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/list-do-niewiast/" rel="bookmark">List do niewiast</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="List do niewiast" class="g1-frame" href="https://blog.lukaszkopczyk.com/list-do-niewiast/"><div class="g1-frame-inner"><img width="500" height="296" src="https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048.jpeg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048.jpeg 500w, https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-300x178.jpeg 300w, https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-364x215.jpeg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-81x48.jpeg 81w, https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-162x96.jpeg 162w, https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-313x185.jpeg 313w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="2464" data-permalink="https://blog.lukaszkopczyk.com/list-do-niewiast/af43827e-f23f-4b61-8900-b6a9d01f8048/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048.jpeg" data-orig-size="500,296" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="AF43827E-F23F-4B61-8900-B6A9D01F8048" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048-300x178.jpeg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2020/12/AF43827E-F23F-4B61-8900-B6A9D01F8048.jpeg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2020-12-27T07:35:58+01:00" itemprop="datePublished">27 grudnia 2020, 07:35</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Post kierowany do pobożnych niewiast. Drogie Niewiasty, poznałem w 2019 pobożną dziewczynę, która opowiedziała mi pewną historię. Nie czyniłem wobec niej awansów, atoli wzbudziłem na tyle jej zaufanie, że podzieliła się ze mną pewną historią. Otóż była ona w związku z pewnym mężczyzną, który nie czynił względem niej żadnych podchodów, co jej się bardzo bardzo [&hellip;] <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/list-do-niewiast/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-1364" class="entry-tpl-stream g1-card g1-card-simple post-1364 post type-post status-publish format-standard has-post-thumbnail category-czlowiek" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/nie-kastruj-swojego-mezczyzny-zostaw-mu-jaja/" rel="bookmark">NIE KASTRUJ SWOJEGO MĘŻCZYZNY! ZOSTAW MU JAJA!</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="NIE KASTRUJ SWOJEGO MĘŻCZYZNY! ZOSTAW MU JAJA!" class="g1-frame" href="https://blog.lukaszkopczyk.com/nie-kastruj-swojego-mezczyzny-zostaw-mu-jaja/"><div class="g1-frame-inner"><img width="608" height="405" src="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-608x405.jpg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-608x405.jpg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-1000x666.jpg 1000w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-768x512.jpg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-180x120.jpg 180w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-561x374.jpg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-1122x748.jpg 1122w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-364x243.jpg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-728x485.jpg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-758x505.jpg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-1152x768.jpg 1152w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280.jpg 1280w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="1365" data-permalink="https://blog.lukaszkopczyk.com/nie-kastruj-swojego-mezczyzny-zostaw-mu-jaja/gladiator-1931077_1280/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280.jpg" data-orig-size="1280,853" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="gladiator-1931077_1280" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280.jpg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/gladiator-1931077_1280-1000x666.jpg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2019-12-13T09:56:44+01:00" itemprop="datePublished">13 grudnia 2019, 09:56</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Pozwól swojemu mężczyźnie na bycie walecznym, agresywnym, na bycie sobą. Bo jeśli mu na to pozwolisz, to jednocześnie pozwolisz sobie na zostanie księżniczką. Inaczej będziesz doświadczać frustracji i nie będziesz wiedzieć nawet dlaczego tak się dzieje, a swoją złość będziesz wyładowywać właśnie na nim&#8230; Na mężczyźnie, któremu wycięłaś żywcem jaja&#8230; <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/nie-kastruj-swojego-mezczyzny-zostaw-mu-jaja/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-1356" class="entry-tpl-stream g1-card g1-card-simple post-1356 post type-post status-publish format-standard has-post-thumbnail category-czlowiek" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/czy-dzisiaj-sa-mozliwe-stare-malzenstwa/" rel="bookmark">CZY DZISIAJ SĄ MOŻLIWE STARE MAŁŻEŃSTWA?</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="CZY DZISIAJ SĄ MOŻLIWE STARE MAŁŻEŃSTWA?" class="g1-frame" href="https://blog.lukaszkopczyk.com/czy-dzisiaj-sa-mozliwe-stare-malzenstwa/"><div class="g1-frame-inner"><img width="608" height="405" src="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-608x405.jpeg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-608x405.jpeg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-1000x667.jpeg 1000w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-768x512.jpeg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-1536x1024.jpeg 1536w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-180x120.jpeg 180w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-561x374.jpeg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-1122x748.jpeg 1122w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-364x243.jpeg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-728x485.jpeg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-758x505.jpeg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-1152x768.jpeg 1152w, https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4.jpeg 1920w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="1357" data-permalink="https://blog.lukaszkopczyk.com/czy-dzisiaj-sa-mozliwe-stare-malzenstwa/24930ee7-8ecc-48e9-9bb4-b268af4e0fb4/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4.jpeg" data-orig-size="1920,1280" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4.jpeg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/12/24930EE7-8ECC-48E9-9BB4-B268AF4E0FB4-1000x667.jpeg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2019-12-03T09:29:19+01:00" itemprop="datePublished">3 grudnia 2019, 09:29</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Możliwe, gdy z powodu byle nieporozumienia czy jakiegoś powierzchownego niedopasowania druga połówka zostaje wyrzucona do kosza niczym jednorazówka w ciągu jednej milisekundy i zostawiona bez słowa?  <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/czy-dzisiaj-sa-mozliwe-stare-malzenstwa/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-2124" class="entry-tpl-stream g1-card g1-card-simple post-2124 post type-post status-publish format-standard has-post-thumbnail category-czlowiek" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/" class="entry-category entry-category-item-305">CZŁOWIEK</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/jak-zbudowac-udany-zwiazek/" rel="bookmark">Jak zbudować udany związek?</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2019-09-23T20:45:05+01:00" itemprop="datePublished">23 września 2019, 20:45</time>			</p>
+		
+					<div class="entry-summary">
+				<p>Jak zbudować udany związek? Jak tworzyć dobrą relację? To proste. Pracuj nad związkiem. Pracuj nad relacjami. Nie kończ ich. Nie wyrzucaj ludzi na śmietnik. <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/jak-zbudowac-udany-zwiazek/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																										
+									<li class="g1-collection-item">
+										
+<article id="post-1183" class="entry-tpl-stream g1-card g1-card-simple post-1183 post type-post status-publish format-standard has-post-thumbnail category-opowiesci" itemscope=""
+         itemtype="http://schema.org/Article">
+
+	<header class="entry-header">
+
+		<div class="entry-before-title">
+			<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">w</span> <a href="https://blog.lukaszkopczyk.com/kategoria/opowiesci/" class="entry-category entry-category-item-20">OPOWIEŚCI</a></span></span>
+						</div>
+
+		<h2 class="g1-beta g1-beta-1st entry-title"><a href="https://blog.lukaszkopczyk.com/mezczyzna-w-zoltej-kurtce-i-bezdomny-dwie-historie-o-zyczliwosci/" rel="bookmark">Mężczyzna w żółtej kurtce i bezdomny &#8211; dwie historie o życzliwości</a></h2>
+		
+		<div class="entry-after-title">
+					</div>
+	</header>
+
+	<div class="entry-featured-media " ><a title="Mężczyzna w żółtej kurtce i bezdomny &#8211; dwie historie o życzliwości" class="g1-frame" href="https://blog.lukaszkopczyk.com/mezczyzna-w-zoltej-kurtce-i-bezdomny-dwie-historie-o-zyczliwosci/"><div class="g1-frame-inner"><img width="608" height="732" src="https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-608x732.jpeg" class="attachment-bimber-stream size-bimber-stream wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-608x732.jpeg 608w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-623x750.jpeg 623w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-768x924.jpeg 768w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-1276x1536.jpeg 1276w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-561x675.jpeg 561w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-1122x1350.jpeg 1122w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-364x438.jpeg 364w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-728x876.jpeg 728w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-758x912.jpeg 758w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-1152x1386.jpeg 1152w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-313x377.jpeg 313w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-830x999.jpeg 830w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-40x48.jpeg 40w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-80x96.jpeg 80w, https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26.jpeg 1700w" sizes="(max-width: 608px) 100vw, 608px" data-attachment-id="1184" data-permalink="https://blog.lukaszkopczyk.com/mezczyzna-w-zoltej-kurtce-i-bezdomny-dwie-historie-o-zyczliwosci/c084f828-25a6-4481-9480-445aa3d4ce26/" data-orig-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26.jpeg" data-orig-size="1700,2046" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone XS Max&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1554674135&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="C084F828-25A6-4481-9480-445AA3D4CE26" data-image-description="" data-image-caption="" data-medium-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26.jpeg" data-large-file="https://blog.lukaszkopczyk.com/files/sites/2/2019/04/C084F828-25A6-4481-9480-445AA3D4CE26-623x750.jpeg" /><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+	<div class="entry-body">
+					<p class="g1-meta entry-meta entry-byline ">
+				
+				<time class="entry-date" datetime="2019-04-08T09:21:30+01:00" itemprop="datePublished">8 kwietnia 2019, 09:21</time>			</p>
+		
+					<div class="entry-summary">
+				<p>„Mężczyzna w żółtej kurtce” Wysiadłem z pociągu i wzrok skierowałem w telefon. Wtem dobiega do mnie mężczyzna i wręcza mi paczkę chusteczek mówiąc: &#8211; Wypadły panu chusteczki.&nbsp; Serdecznie mu podziękowałem z ogromnym uśmiechem i wdzięcznością. Dobrzy ludzie istnieją. Nawet kiedy wypadną ci chusteczki.&nbsp; Historia kolejna. Stoję przed dworcem głównym w mieście spotkań. Palę papierosa, piję [&hellip;] <a class="g1-link g1-link-more" href="https://blog.lukaszkopczyk.com/mezczyzna-w-zoltej-kurtce-i-bezdomny-dwie-historie-o-zyczliwosci/">Więcej</a></p>
+			</div>
+			</div>
+
+			<div class="entry-todome g1-dropable snax">
+			
+			
+			
+					</div>
+	</article>									</li>
+
+																								</ul>
+						</div>
+
+						
+	
+
+
+	<nav class="g1-pagination">
+		<p class="g1-pagination-label g1-pagination-label-links">Strony</p>
+
+		<ul>
+
+						
+												<li class="g1-pagination-item g1-pagination-item-current">
+						<strong class="g1-link g1-link-xl">1</strong>
+					</li>
+																<li class="g1-pagination-item">
+						<a class="g1-link g1-link-m" href="https://blog.lukaszkopczyk.com/page/2/">2</a>
+					</li>
+							
+										<li class="g1-pagination-item g1-pagination-item-next">
+					<a class="g1-link g1-link-m g1-link-right next" href="https://blog.lukaszkopczyk.com/page/2/">Następny</a>
+				</li>
+			
+		</ul>
+	</nav>
+
+	
+
+					</div><!-- .g1-collection -->
+				
+			</div><!-- .g1-column -->
+
+			<div id="secondary" class="g1-sidebar g1-with-cards g1-column g1-column-1of3">
+	<aside id="bimber_widget_facebook_page-2" class="widget g1-card g1-card-l g1-card-simple widget_bimber_widget_facebook_page"><header><h2 class="g1-delta g1-delta-2nd widgettitle"><span>Znajdź mnie na Facebooku</span></h2></header>			<div id="g1-widget-facebook-page-2"
+			     class=" g1-widget-facebook-page">
+				<script>
+					(function() {
+						var loadFB = function (d, s, id) {
+							var js, fjs = d.getElementsByTagName(s)[0];
+							if (d.getElementById(id)) return;
+							js = d.createElement(s);
+							js.onload = function() {
+								// After FB Page plugin is loaded, the height of its container changes.
+								// We need to notify theme about that so elements like eg. sticky widgets can react
+								FB.Event.subscribe('xfbml.render', function () {
+									jQuery('body').trigger('g1PageHeightChanged');
+								});
+							};
+							js.id = id;
+							js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.5";
+							fjs.parentNode.insertBefore(js, fjs);
+						};
+
+												document.addEventListener('lazybeforeunveil', function(e){
+							// Start loading FB SDK when the widget is near visible viewport.
+							if (-1 !== e.target.getAttribute('class').indexOf('fb-page')) {
+								loadFB(document, 'script', 'facebook-jssdk');
+							}
+						});
+
+											})();
+				</script>
+								<div class="fb-page lazyload" data-expand="600"
+				     data-href="https://www.facebook.com/kopczyk.lukasz"
+				     data-adapt-container-width="true"
+				     data-small-header="false"
+				     data-hide-cover="false"
+				     data-show-facepile="true"
+				     data-show-posts="false">
+				</div>
+			</div>
+			</aside></div><!-- #secondary -->
+
+		</div>
+		<div class="g1-row-background"></div>
+	</div>
+
+
+
+	
+<div class=" g1-prefooter g1-prefooter-3cols g1-row g1-row-layout-page">
+	<div class="g1-row-inner">
+
+		<div class="g1-column g1-column-1of3">
+			<aside id="g1_socials-2" class="widget widget_g1_socials"><ul id="g1-social-icons-2" class="g1-socials-items g1-socials-items-tpl-grid">
+			<li class="g1-socials-item g1-socials-item-facebook">
+	   <a class="g1-socials-item-link" href="https://www.facebook.com/kopczyk.lukasz" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-64 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Facebook</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-twitter">
+	   <a class="g1-socials-item-link" href="https://twitter.com/lukasz_kopczyk" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-64 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Twitter</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-instagram">
+	   <a class="g1-socials-item-link" href="https://instagram.com/lukasz_kopczyk/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-64 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">instagram</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-youtube">
+	   <a class="g1-socials-item-link" href="https://www.youtube.com/channel/UC17ILM1oUfCR_PK8DuZGEHA" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-64 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">youtube</span>
+		   </span>
+	   </a>
+	</li>
+	</ul>
+</aside>		</div>
+
+		<div class="g1-column g1-column-1of3">
+					</div>
+
+		<div class="g1-column g1-column-1of3">
+					</div>
+
+	</div>
+	<div class="g1-row-background">
+		<div class="g1-row-background-media">
+		</div>
+	</div>
+</div><!-- .g1-prefooter -->
+
+		<div class="g1-footer g1-row g1-row-layout-page">
+			<div class="g1-row-inner">
+				<div class="g1-column">
+
+					<p class="g1-footer-text"></p>
+
+					
+					
+					
+				</div><!-- .g1-column -->
+			</div>
+			<div class="g1-row-background">
+			</div>
+		</div><!-- .g1-row -->
+
+					<a href="#page" class="g1-back-to-top">Wróć do góry</a>
+						</div><!-- #page -->
+
+<div class="g1-canvas-overlay">
+</div>
+
+</div><!-- .g1-body-inner -->
+
+<div id="g1-breakpoint-desktop">
+</div>
+
+
+<div class="g1-canvas g1-canvas-global g1-canvas-no-js">
+	<div class="g1-canvas-inner">
+		<div class="g1-canvas-content">
+			<a class="g1-canvas-toggle" href="#">Zamknij</a>
+
+				<!-- BEGIN .g1-primary-nav -->
+	<nav id="g1-canvas-primary-nav" class="g1-primary-nav"><ul id="g1-canvas-primary-nav-menu" class="g1-primary-nav-menu g1-menu-v"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2489"><a href="https://blog.lukaszkopczyk.com/" aria-current="page">GŁÓWNA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2632"><a href="https://blog.lukaszkopczyk.com/kategoria/news/">NEWS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3069"><a>KATEGORIE</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2606"><a href="https://blog.lukaszkopczyk.com/kategoria/polityka/">POLITYKA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2602"><a href="https://blog.lukaszkopczyk.com/kategoria/czlowiek/">CZŁOWIEK</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2607"><a href="https://blog.lukaszkopczyk.com/kategoria/religia/">RELIGIA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2603"><a href="https://blog.lukaszkopczyk.com/kategoria/kultura/">KULTURA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2493"><a href="https://blog.lukaszkopczyk.com/kategoria/opowiesci/">OPOWIEŚCI</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2605"><a href="https://blog.lukaszkopczyk.com/kategoria/podroze/">PODRÓŻE</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2622"><a href="https://lukaszkopczyk.com">WIDEO</a></li>
+</ul>
+</li>
+</ul></nav>		<!-- END .g1-primary-nav -->
+	<ul id="g1-social-icons-3" class="g1-socials-items g1-socials-items-tpl-grid">
+			<li class="g1-socials-item g1-socials-item-facebook">
+	   <a class="g1-socials-item-link" href="https://www.facebook.com/kopczyk.lukasz" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Facebook</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-twitter">
+	   <a class="g1-socials-item-link" href="https://twitter.com/lukasz_kopczyk" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">Twitter</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-instagram">
+	   <a class="g1-socials-item-link" href="https://instagram.com/lukasz_kopczyk/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">instagram</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-youtube">
+	   <a class="g1-socials-item-link" href="https://www.youtube.com/channel/UC17ILM1oUfCR_PK8DuZGEHA" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">youtube</span>
+		   </span>
+	   </a>
+	</li>
+	</ul>
+
+
+<div role="search" class="search-form-wrapper">
+	<form method="get"
+	      class="g1-searchform-tpl-default search-form"
+	      action="https://blog.lukaszkopczyk.com/">
+		<label>
+			<span class="screen-reader-text">Szukaj:</span>
+			<input type="search" class="search-field"
+			       placeholder="Szukaj&hellip;"
+			       value="" name="s"
+			       title="Szukaj:" />
+		</label>
+		<button class="search-submit">Szukaj</button>
+	</form>
+
+	</div>
+		</div>
+							<div class="g1-canvas-background">
+			</div>
+			</div>
+</div>
+	<style type="text/css">
+		@media only screen and (max-width: 600px ) {
+			.adace-hide-on-mobile{
+				display:none !important;
+			}
+			.adace-hide-on-phone{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 800px ){
+			.adace-hide-on-portrait{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 801px  ) and  (max-width: 960px ){
+			.adace-hide-on-landscape{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 960px ){
+			.adace-hide-on-tablet{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 961px  ){
+			.adace-hide-on-desktop{
+				display:none !important;
+			}
+		}
+	</style>
+	<div class="adace-slideup-slot-wrap animate-in"><div class="adace-slideup-slot"><div class="adace-slot-wrapper adace-slideup adace-align-center adace-slot-wrapper-main" style="text-align:center;">
+	<div class="adace-disclaimer">
+			</div>
+	<div class="adace-slot">
+			<div class="adace-loader adace-loader-636bbfc9d89b3">
+		<script>
+			(function ($) {
+			var $self = $('.adace-loader-636bbfc9d89b3');
+			var $wrapper = $self.closest('.adace-slot-wrapper');
+
+			"use strict";
+			var adace_load_636bbfc9d89b3 = function(){
+				var viewport = $(window).width();
+				var tabletStart = 601;
+				var landscapeStart = 801;
+				var tabletEnd = 961;
+				var content = '%3Cdiv%20class%3D%22adace_adsense_636bbfc9d897e%22%3E%3Cscript%20async%20src%3D%22%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js%22%3E%3C%2Fscript%3E%0A%09%09%3Cins%20class%3D%22adsbygoogle%22%0A%09%09style%3D%22display%3Ablock%3B%22%0A%09%09data-ad-client%3D%22ca-pub-8181982052718057%22%0A%09%09data-ad-slot%3D%229252480661%22%0A%09%09data-ad-format%3D%22auto%22%0A%09%09%3E%3C%2Fins%3E%0A%09%09%3Cscript%3E%28adsbygoogle%20%3D%20window.adsbygoogle%20%7C%7C%20%5B%5D%29.push%28%7B%7D%29%3B%3C%2Fscript%3E%3C%2Fdiv%3E';
+				var unpack = true;
+				if(viewport<tabletStart){
+										if ($wrapper.hasClass('.adace-hide-on-mobile')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<landscapeStart){
+										if ($wrapper.hasClass('.adace-hide-on-portrait')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=landscapeStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-landscape')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-tablet')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-desktop')){
+						$wrapper.remove();
+					}
+				}
+				if(unpack) {
+					$self.replaceWith(decodeURIComponent(content));
+				}
+			}
+			if($wrapper.css('visibility') === 'visible' ) {
+				adace_load_636bbfc9d89b3();
+			} else {
+				//fire when visible.
+				var refreshIntervalId = setInterval(function(){
+					if($wrapper.css('visibility') === 'visible' ) {
+						adace_load_636bbfc9d89b3();
+						clearInterval(refreshIntervalId);
+					}
+				}, 999);
+			}
+
+
+			})(jQuery);
+		</script>
+	</div>
+		</div>
+</div>
+
+
+
+<span class="adace-slideup-slot-closer"><span class="closer-label">zamknij</span></span></div></div>
+<div class="adace-popup adace-popup-detector">
+	<div class="adace-popup-inner">
+		<div class="adace-detector-flag">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+				<path d="M8,0c0,2-7,2-7,2s0,6,0,8.4c0,4,7,5.2,7,5.6c0-0.4,7-1.6,7-5.6C15,8,15,2,15,2S8,2,8,0z M10.9,10.2l-0.7,0.7L8,8.7l-2.2,2.2
+	l-0.7-0.7L7.3,8L5.1,5.8l0.7-0.7L8,7.3l2.2-2.2l0.7,0.7L8.7,8L10.9,10.2z"/>
+			</svg>
+		</div>
+
+		<h2 class="adace-detector-title g1-beta g1-beta-1st">Za publikowane treści nie pobieram opłaty.</h2>
+
+		<div class="adace-detector-content">Proszę, wyłącz AdBlocka.</div>
+
+		<p class="adace-detector-buttons">
+						<a  class="adace-detector-button-refresh g1-button-simple g1-button g1-button-m">Odśwież</a>
+		</p>
+	</div>
+
+	<div class="adace-popup-background">
+	</div>
+</div>
+	<script>
+ 		!function(t){"use strict";var e;t.adi=function(n){var i=t.extend({},e.defaults,n);return new e(i)},(e=function(e){t.extend(this,e),this._check()&&(this._init(),this.active()),this._check()||this.inactive()}).prototype._check=function(){return void 0===t.adblock},e.prototype._init=function(){this._append()},e.prototype._setTemplate=function(t,e){return'<div class="jquery-adi"><div class="jquery-adi_content"><button class="jquery-adi_close"></button><h2>'+t+"</h2><p>"+e+"</p></div></div>"},e.prototype._append=function(e){this.$el=t(this._setTemplate(this.title,this.content)).appendTo(t(document.body)).addClass(this.theme),this._show()},e.prototype._show=function(){this.$el.show(),this._center(),this._controls(),this.onOpen(this.$el)},e.prototype._controls=function(){var e=this;function n(){e.$el.hide(),e.onClose(e.$el)}this.$el.on("click",".jquery-adi_close",n),t(document).on("keyup",function(t){27==t.keyCode&&n()})},e.prototype._center=function(){var t=this.$el.find(".jquery-adi_content");t.css("margin-top",-Math.abs(t.outerHeight()/2))},e.defaults={title:"Adblock detected!",content:"We noticed that you may have an Ad Blocker turned on. Please be aware that our site is best experienced with Ad Blockers turned off.",theme:"light",onOpen:function(){},onClose:function(){},active:function(){},inactive:function(){}}}(jQuery);
+
+		(function ($) {
+			"use strict";
+
+						var triggerAlert = false;
+			
+			var adblockDetectedAlert = function() {
+				$('html').addClass('adace-show-popup-detector');
+				$('.adace-detector-button-refresh').on('click', function(){
+					window.location.reload();
+				});
+				$('.adace-popup-close').on('click', function(){
+					console.log('e');
+					$('html').removeClass('adace-show-popup-detector');
+				});
+			};
+
+			$(document).ready(function () {
+				// Only when the AdBlocker is enabled this script will be available.
+				if ( typeof $.adi === 'function' ) {
+					$.adi({
+						onOpen: function (el) {
+							adblockDetectedAlert();
+						}
+					});
+				}
+
+				// Show alert on demand. AdBlocker can be disabled.
+				if (triggerAlert) {
+					adblockDetectedAlert();
+				}
+			});
+		})(jQuery);
+	</script>
+	<link rel='stylesheet' id='g1-socials-basic-screen-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/g1-socials/css/screen-basic.min.css?ver=1.2.27' type='text/css' media='all' />
+<link rel='stylesheet' id='g1-socials-snapcode-css' href='https://blog.lukaszkopczyk.com/wp-content/plugins/g1-socials/css/snapcode.min.css?ver=1.2.27' type='text/css' media='all' />
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/blog.lukaszkopczyk.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/youtube.js?ver=1.4.12' id='mace-lazy-load-youtube-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/lazysizes.min.js?ver=4.0' id='lazysizes-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/plugins/unveilhooks/ls.unveilhooks.min.js?ver=5.2.0' id='lazysizes-unveilhooks-js'></script>
+<script type='text/javascript' id='mace-gallery-js-extra'>
+/* <![CDATA[ */
+var macegallery = {"i18n":{"of":"z"},"html":"\n<div class=\"g1-gallery-wrapper g1-gallery-dark\">\n\t<div class=\"g1-gallery\">\n\t\t<div class=\"g1-gallery-header\">\n\t\t\t<div class=\"g1-gallery-header-left\">\n\t\t\t\t<div class=\"g1-gallery-logo\">\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<div class=\"g1-gallery-title g1-gamma g1-gamma-1st\">{title}<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-header-right\">\n\t\t\t\t<div class=\"g1-gallery-back-to-slideshow\">Wr\u00f3c do pokazu slajd\u00f3w<\/div>\n\t\t\t\t<div class=\"g1-gallery-thumbs-button\"><\/div>\n\t\t\t\t<div class=\"g1-gallery-numerator\">{numerator}<\/div>\n\t\t\t\t<div class=\"g1-gallery-close-button\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"g1-gallery-body\">\n\t\t\t<div class=\"g1-gallery-frames\">\n\t\t\t\t{frames}\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-thumbnails32\">\n\t\t\t\t<div class=\"g1-gallery-thumbnails-collection\">\n\t\t\t\t\t{thumbnails32}\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-sidebar\">\n\t\t\t\t\t<div class=\"g1-gallery-shares\">\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"g1-gallery-ad\"><\/div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails\">\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-up\"><\/div>\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-collection\">{thumbnails}<\/div>\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-down\"><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n","shares":"<a class=\"g1-gallery-share g1-gallery-share-pinterest bimber-share-pinterest\" href=\"https:\/\/pinterest.com\/pin\/create\/button?url=mace_replace_shortlink&description=mace_replace_title&media=mace_replace_image_url\" title=\"Udost\u0119pnij na Pinterest\" target=\"_blank\" rel=\"nofollow\">Udost\u0119pnij na Pinterest<\/a><a class=\"g1-gallery-share g1-gallery-share-fb bimber-share-facebook\" href=\"https:\/\/www.facebook.com\/dialog\/share?app_id=&display=popup&href=mace_replace_noesc_shortlink&quote=mace_replace_noesc_title\" title=\"Udost\u0119pnij na Facebook-a\" data-share-url=\"mace_replace_noesc_shortlink\" data-share-text=\"mace_replace_noesc_title\" data-on-share-callback=\"\" target=\"_blank\" rel=\"nofollow\">Udost\u0119pnij na Facebook-a<\/a><a class=\"g1-gallery-share g1-gallery-share-twitter bimber-share-twitter\" href=\"\/\/twitter.com\/intent\/tweet?url=mace_replace_shortlink&text=mace_replace_title%20\" title=\"Udost\u0119pnij na Twitter-a\" target=\"_blank\" rel=\"nofollow\">Udost\u0119pnij na Twitter-a<\/a>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/plugins/media-ace/includes/gallery/js/gallery.js?ver=1.4.12' id='mace-gallery-js'></script>
+<script type='text/javascript' id='bimber-shares-js-extra'>
+/* <![CDATA[ */
+var bimber_shares_config = {"debug_mode":"","facebook_sdk":{"url":"https:\/\/connect.facebook.net\/pl_PL\/sdk.js","app_id":"","version":"v5.0"},"microshares":{"tpl":"","domain":"https:\/\/blog.lukaszkopczyk.com\/"},"i18n":{"fb_app_id_not_set":"ID aplikacji Facebook nie ustawione w Theme Options > Shares"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/shares.min.js?ver=9.2.3' id='bimber-shares-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/stickyfill/stickyfill.min.js?ver=2.0.3' id='stickyfill-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1' id='jquery-placeholder-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/jquery.timeago/jquery.timeago.js?ver=1.5.2' id='jquery-timeago-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/jquery.timeago/locales/jquery.timeago.pl.js' id='jquery-timeago-pl-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/matchmedia/matchmedia.js' id='match-media-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/matchmedia/matchmedia.addlistener.js' id='match-media-add-listener-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1' id='picturefill-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0' id='jquery-waypoints-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2' id='enquire-js'></script>
+<script type='text/javascript' id='bimber-global-js-extra'>
+/* <![CDATA[ */
+var bimber_front_config = {"debug_mode":"","ajax_url":"https:\/\/blog.lukaszkopczyk.com\/wp-admin\/admin-ajax.php","timeago":"on","sharebar":"off","i18n":{"menu":{"go_to":"Id\u017a do"},"newsletter":{"subscribe_mail_subject_tpl":"Sprawd\u017a ten \u015bwietny artyku\u0142: %subject%"},"bp_profile_nav":{"more_link":"Wi\u0119cej"}},"comment_types":["wp"],"auto_load_limit":"0","auto_play_videos":"","use_gif_player":"1","setTargetBlank":"1","useWaypoints":"1","stack":"news","wpp":{"token":"c427e508e4"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/global.js?ver=9.2.3' id='bimber-global-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-11-02 06:41:43+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"pl"},"Notifications":["Powiadomienia"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"Brak wynik\u00f3w.","oneResult":"Znaleziono jeden wynik. U\u017cyj strza\u0142ek g\u00f3ra\/d\u00f3\u0142 do nawigacji.","manyResults":"Znaleziono %d wynik\u00f3w. U\u017cyj strza\u0142ek g\u00f3ra\/d\u00f3\u0142 do nawigacji.","itemSelected":"Wybrano obiekt."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/ajax-search.js?ver=9.2.3' id='bimber-ajax-search-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber-child-theme/modifications.js' id='bimber-child-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/nsfw-mode.js?ver=9.2.3' id='bimber-nsfw-mode-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/skin-mode.js?ver=9.2.3' id='bimber-skin-mode-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/libgif/libgif.js' id='libgif-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/players.js?ver=9.2.3' id='bimber-players-js'></script>
+<script type='text/javascript' src='https://blog.lukaszkopczyk.com/wp-content/themes/bimber/js/back-to-top.js?ver=9.2.3' id='bimber-back-to-top-js'></script>
+	<script src='https://stats.wp.com/e-202245.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'196184151',post:'0',tz:'1',srv:'blog.lukaszkopczyk.com',j:'1:11.5.1'} ]);
+		_stq.push([ 'clickTrackerInit', '196184151', '0' ]);
+	</script></body>
+</html>
+
+0
+

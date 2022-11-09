@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.eqgr.gr; img-src 'self' https: data: blob: https://mstdn.eqgr.gr; style-src 'self' https://mstdn.eqgr.gr 'nonce-9Sajn/KLYDSlHJIHve1Jqw=='; media-src 'self' https: data: https://mstdn.eqgr.gr; frame-src 'self' https:; manifest-src 'self' https://mstdn.eqgr.gr; connect-src 'self' data: blob: https://mstdn.eqgr.gr https://mstdn.eqgr.gr wss://mstdn.eqgr.gr; script-src 'self' https://mstdn.eqgr.gr; child-src 'self' blob: https://mstdn.eqgr.gr; worker-src 'self' blob: https://mstdn.eqgr.gr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:29 GMT
+Etag: W/"32ea674df82d7bfba50c633145117026"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:45:00.100196Z
+X-Request-Id: e2f34fb5-4db3-4c2b-b884-9cf85e172dde
+X-Runtime: 0.004322
+X-Xss-Protection: 0
+
+32
+["mastodon.online","mastodon.world","scicomm.xyz"]
+0
+

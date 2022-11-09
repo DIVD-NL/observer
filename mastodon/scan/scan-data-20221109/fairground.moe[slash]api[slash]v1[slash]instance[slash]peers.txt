@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://fairground.moe; img-src 'self' https: data: blob: https://fairground.moe; style-src 'self' https://fairground.moe 'nonce-b2/KAc5ZDLplMKhvVBP9+Q=='; media-src 'self' https: data: https://fairground.moe; frame-src 'self' https:; manifest-src 'self' https://fairground.moe; connect-src 'self' data: blob: https://fairground.moe https://fairground.sfo3.cdn.digitaloceanspaces.com wss://fairground.moe; script-src 'self' https://fairground.moe; child-src 'self' blob: https://fairground.moe; worker-src 'self' blob: https://fairground.moe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:50 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.882989Z
+X-Request-Id: 0b516843-ba0a-42b3-92b8-ca9acd11af2e
+X-Runtime: 0.005401
+X-Xss-Protection: 0
+
+0
+

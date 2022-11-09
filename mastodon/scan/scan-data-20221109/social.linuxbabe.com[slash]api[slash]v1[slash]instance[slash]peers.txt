@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Apo-Via: origin,host
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778612ebd1b9b9-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.linuxbabe.com; img-src 'self' https: data: blob: https://social.linuxbabe.com; style-src 'self' https://social.linuxbabe.com 'nonce-qXreNhTXqFwaFTrPluh+9A=='; media-src 'self' https: data: https://social.linuxbabe.com; frame-src 'self' https:; manifest-src 'self' https://social.linuxbabe.com; connect-src 'self' data: blob: https://social.linuxbabe.com https://social.linuxbabe.com wss://social.linuxbabe.com; script-src 'self' https://social.linuxbabe.com; child-src 'self' blob: https://social.linuxbabe.com; worker-src 'self' blob: https://social.linuxbabe.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:55 GMT
+Etag: W/"3ad1588de8126de1174a8615fd21ca01"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0bVh4y3KOYdWclR6VxfqvyR9VPhm7HJkfudoeQD6AxD%2FmBAtXami1nG3MXa2XB3bBJzhpMw4iTNZzJC%2Bz7OVxcbQKEWT0%2FbcCCMlGVce3X2mMgauuerb5FOsqFXnzWxzMZn7J%2BtL"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=5.9999983932357e-06
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Cached: STALE
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-06-22T08:15:00.957764Z
+X-Request-Id: bd446b5b-3bdd-44b0-a1eb-72442c393bc1
+X-Runtime: 0.174080
+X-Xss-Protection: 0
+
+5e
+["mastodon.online","squeet.me","social.yl.ms","pztrn.online","soc.schuerz.at","venera.social"]
+0
+

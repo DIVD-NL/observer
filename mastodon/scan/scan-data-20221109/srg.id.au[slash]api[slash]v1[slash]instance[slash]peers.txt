@@ -1,0 +1,115 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767787e81a8283d7-BRU
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Embedder-Policy: cross-origin
+Cross-Origin-Opener-Policy: cross-origin
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 09 Nov 2022 15:20:10 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: strict-origin-when-cross-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MdpnFqpJ0t94t4z0YtxFYMDVgxv7iDwO%2FMFeVDmZpet%2BNPOA1gzrtm981t%2FXOzWOS8JR454bzY7k38JemE0UyaXlM%2BQ66gHAHM9hgQdPgg7btl6FBlUUvWub%2BRk%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+
+140f
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://srg.id.au/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://srg.id.au/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://srg.id.au/favicon-16x16.png">
+<link rel="manifest" href="https://srg.id.au/site.webmanifest">
+<link rel="alternate" type="application/atom+xml" title="RSS" href="https://srg.id.au/atom.xml">
+<link rel="canonical" href="https://srg.id.au/." />
+<meta property="og:locale" content="en_AU" />
+<meta property="og:url" content="https://srg.id.au/." />
+<meta property="og:site_name" content="shaunak g · software developer" />
+<title>shaunak g · software developer</title>
+<meta property="og:title" content="shaunak g · software developer" />
+<meta property="twitter:title" content="shaunak g · software developer">
+<meta name="description" content="I&#x27;m a student software developer with many personal projects - check them out here!" />
+<meta property="og:description" content="I&#x27;m a student software developer with many personal projects - check them out here!" />
+<meta property="twitter:description" content="I&#x27;m a student software developer with many personal projects - check them out here!" />
+<meta property="og:image" content="https://srg.id.au/og.png">
+<meta property="twitter:image" content="https://srg.id.au/og.png">
+<link rel="stylesheet" href="https://srg.id.au/style.css" />
+<link rel="webmention" href="https://webmention.io/srg.id.au/webmention" />
+<link rel="pingback" href="https://webmention.io/srg.id.au/xmlrpc" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@shaunak_g" />
+<meta name="twitter:creator" content="@shaunak_g" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P80KQB5DMX" type="517953a8b0f5c137b83e5f47-text/javascript"></script>
+<script type="517953a8b0f5c137b83e5f47-text/javascript">
+
+            // Google Analytics
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-P80KQB5DMX');
+
+            // srg custom analytics
+            var _paq = window._paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+            var u="//analytics.x.srg.id.au/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+            
+        </script>
+
+</head>
+<body>
+<div class="main">
+<div class="links">
+<a href="https://srg.id.au"><b>srg</b></a>
+<a rel="me authn" href="https://github.com/shaunakg" target="_blank">github</a>
+<a rel="me" href="/cdn-cgi/l/email-protection#9ef6f7deedecf9b0f7fab0ffeb" target="_blank">email</a>
+<a rel="me" style="display:none" href="https://social.srg.id.au/@sg" target="_blank">mastodon</a>
+<a href="https://cdn.srg.id.au/cv.pdf">resumé</a>
+<a href="https://srg.id.au/posts/">posts</a>
+
+</div>
+<h1>404 - Page not found</h1>
+<p>
+Please try checking the link you used to get here. If you're following a link
+on this website that is no longer valid, please <a href="/cdn-cgi/l/email-protection#563e333a2616252431783f32783723">let me know</a>.
+</p>
+<p style="margin-top: 2em">
+You could also stay here and draw for a bit while the content you requested is being created.
+</p>
+<p>
+<b>Move your cursor</b> to draw a line on the page. <b>Click and drag</b> to make the line brighter. You might see
+other cursors making their own artwork - that's other people who are also active on the site.
+</p>
+</div>
+<div class="overlay" id="canvas-overlay">
+<canvas id="canvas" width="500" height="500"></canvas>
+</div>
+<div class="overlay" id="cursors-overlay"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/main.js" type="517953a8b0f5c137b83e5f47-text/javascript"></script>
+<footer id="main-footer">
+© 2022 Shaunak G (srg) · <a rel="pgpkey" href="/pgp.txt">pgp public key</a>
+</footer>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="517953a8b0f5c137b83e5f47-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"767787e81a8283d7","version":"2022.11.0","r":1,"token":"36292b9f92f44fdaa251a7dca4a4ebbd","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+0
+

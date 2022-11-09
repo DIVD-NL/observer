@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.daco.dev; img-src 'self' https: data: blob: https://m.daco.dev; style-src 'self' https://m.daco.dev 'nonce-YWFIk0KRy29YpwkY1Re7wQ=='; media-src 'self' https: data: https://m.daco.dev; frame-src 'self' https:; manifest-src 'self' https://m.daco.dev; connect-src 'self' data: blob: https://m.daco.dev https://m.daco.dev wss://m.daco.dev; script-src 'self' https://m.daco.dev; child-src 'self' blob: https://m.daco.dev; worker-src 'self' blob: https://m.daco.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:16 GMT
+Etag: W/"0491f62acc1fdad29a51226b7d8518b0"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.490698Z
+X-Request-Id: c3f22396-32b3-45d5-865c-14d205b0e7a0
+X-Runtime: 0.040900
+X-Xss-Protection: 0
+
+cc
+["mstdn.maud.io","matitodon.com","misskey.levome-dol.com","fedicy.allowed.org","best-friends.chat","mstdn.nere9.help","mastodon.social","mstdn.jp","kancolle.social","social.wideboys.org","mstdn.hyogo.jp"]
+0
+

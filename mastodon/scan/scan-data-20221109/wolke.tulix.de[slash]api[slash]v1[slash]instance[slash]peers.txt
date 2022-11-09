@@ -1,0 +1,166 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:20 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: ocymhjlay0sn=e0hdil9orriq2j15s1a55dev06; path=/; secure; HttpOnly
+Set-Cookie: oc_sessionPassphrase=LhqWhI7VcKy6HZMU%2FAznFG6tsOZocxGdIZ4S1aBtZGJHbGPQADORJNIdSq2nIcr8cAFMoFBX3FyU%2BpUH1ICBGdE9cZve5Rr0eufuIfdBPTt5LcbYTDOi4SXeaP%2Bsv04Q; path=/; secure; HttpOnly
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="d43PGQL7J4kb8GFhz4Zu9Y5bS4dTPk4xFMAPxP0yFRo=:McCbbVCsUPN5tyQ7nd40t9YPecE7WnZhfLZenZtCRWM=">
+		<meta charset="utf-8">
+		<title>
+		wolke.tulix.de		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#333333">
+		<link rel="icon" href="/apps/theming/favicon?v=23">
+		<link rel="apple-touch-icon-precomposed" href="/apps/theming/icon?v=23">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#333333">
+		<link rel="manifest" href="/apps/theming/manifest?v=23">
+		<link rel="stylesheet" href="/core/vendor/select2/select2.css?v=02e2bc9f-23">
+<link rel="stylesheet" href="/core/vendor/jquery-ui/themes/base/jquery-ui.css?v=02e2bc9f-23">
+<link rel="stylesheet" href="/apps/deck/css/activity.css?v=b654c2cc-23">
+<link rel="stylesheet" href="/apps/files_versions/css/versions.css?v=4fda350b-23">
+<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=1bf6e69c-23">
+<link rel="stylesheet" href="/apps/files_videoplayer/css/style.css?v=1bf6e69c-23">
+<link rel="stylesheet" href="/core/css/guest.css?v=02e2bc9f-23">
+		<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/vendor/core.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/js/core/merged-template-prepend.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/search/js/search.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/js/core/merged-share-backend.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/apps/firstrunwizard/js/jquery.colorbox.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/apps/firstrunwizard/js/firstrunwizard.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/apps/files_videoplayer/js/viewer.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/search/js/searchprovider.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/js/jquery-ui-fixes.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/js/files/fileinfo.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/js/files/client.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/js/contactsmenu.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/js/contactsmenu_templates.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/core/vendor/jsTimezoneDetect/jstz.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=" defer src="/js/core/merged-login.js?v=02e2bc9f-23"></script>
+<script nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0=">
+var oc_debug=false;
+var oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var oc_webroot="";
+var oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","admin_audit":"/apps/admin_audit","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","dav":"/apps/dav","deck":"/apps/deck","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_pdfviewer":"/apps/files_pdfviewer","files_sharing":"/apps/files_sharing","files_texteditor":"/apps/files_texteditor","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","gallery":"/apps/gallery","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","nextcloud_announcements":"/apps/nextcloud_announcements","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","provisioning_api":"/apps/provisioning_api","qownnotesapi":"/apps/qownnotesapi","serverinfo":"/apps/serverinfo","sharebymail":"/apps/sharebymail","social":"/apps/social","spreed":"/apps/spreed","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","tasks":"/apps/tasks","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","updatenotification":"/apps/updatenotification","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668007340;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var oc_config={"session_lifetime":1440,"session_keepalive":true,"version":"15.0.14.1","versionstring":"15.0.14","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/15\/go.php?to=user-sharing-federated","allowGroupSharing":true,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10},"shareByMailEnabled":true,"shareByMail":{"enforcePasswordProtection":false}};
+var oc_defaults={"entity":"wolke.tulix.de","name":"wolke.tulix.de","title":"wolke.tulix.de","baseUrl":"https:\/\/wolke.tulix.de","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/15\/go.php?to=PLACEHOLDER","slogan":"Daten sicherer teilen","logoClaim":"","shortFooter":"<a href=\"https:\/\/wolke.tulix.de\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">wolke.tulix.de<\/a> \u2013 Daten sicherer teilen<br\/><a href=\"https:\/\/www.tulix.de\/#imprint\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Legal notice<\/a> \u00b7 <a href=\"https:\/\/www.tulix.de\/datenschutz.html\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Privacy policy<\/a>","longFooter":"<a href=\"https:\/\/wolke.tulix.de\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">wolke.tulix.de<\/a> \u2013 Daten sicherer teilen<br\/><a href=\"https:\/\/www.tulix.de\/#imprint\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Legal notice<\/a> \u00b7 <a href=\"https:\/\/www.tulix.de\/datenschutz.html\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Privacy policy<\/a>","folder":""};
+var oc_capabilities={"core":{"pollinterval":60,"webdav-root":"remote.php\/webdav"},"bruteforce":{"delay":0},"activity":{"apiv2":["filters","filters-api","previews","rich-strings"]},"ocm":{"enabled":true,"apiVersion":"1.0-proposal1","endPoint":"https:\/\/wolke.tulix.de\/ocm","resourceTypes":[{"name":"file","shareTypes":["user","group"],"protocols":{"webdav":"\/public.php\/webdav\/"}}]},"deck":{"version":"0.6.6"},"dav":{"chunking":"1.0"},"files_sharing":{"api_enabled":true,"public":{"enabled":true,"password":{"enforced":false},"expire_date":{"enabled":false},"multiple_links":true,"send_mail":false,"upload":true,"upload_files_drop":true},"resharing":true,"user":{"send_mail":false,"expire_date":{"enabled":true}},"group_sharing":true,"group":{"enabled":true,"expire_date":{"enabled":true}},"default_permissions":31,"federation":{"outgoing":true,"incoming":true,"expire_date":{"enabled":true}},"sharebymail":{"enabled":true,"upload_files_drop":{"enabled":true},"password":{"enabled":true},"expire_date":{"enabled":true}}},"notifications":{"ocs-endpoints":["list","get","delete","delete-all","icons","rich-strings"],"push":["devices","object-data"],"admin-notifications":["ocs","cli"]},"theming":{"name":"wolke.tulix.de","url":"https:\/\/wolke.tulix.de","slogan":"Daten sicherer teilen","color":"#333333","color-text":"#ffffff","color-element":"#333333","logo":"https:\/\/wolke.tulix.de\/apps\/theming\/image\/logo?useSvg=1&v=23","background":"https:\/\/wolke.tulix.de\/apps\/theming\/image\/background?v=23","background-plain":false,"background-default":false},"password_policy":{"minLength":8,"enforceNonCommonPassword":true,"enforceNumericCharacters":false,"enforceSpecialCharacters":false,"enforceUpperLowerCase":false},"spreed":{"features":["audio","video","chat-v2","guest-signaling","empty-group-room","guest-display-names","multi-room-users","favorites","last-room-activity","no-ping","system-messages","mention-flag","in-call-flags","notification-levels","invite-groups-and-mails"]},"files":{"bigfilechunking":true,"blacklisted_files":[".htaccess"],"undelete":true,"versioning":true}};
+
+</script>
+		<link rel="stylesheet" href="/apps/theming/styles?v=23"/><script defer src="/apps/theming/js/theming?v=23" nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0="></script><script defer src="/apps/accessibility/js/accessibility?v=0" nonce="ZDQzUEdRTDdKNGtiOEdGaHo0WnU5WTViUzRkVFBrNHhGTUFQeFAweUZSbz06TWNDYmJWQ3NVUE41dHlRN25kNDB0OVlQZWNFN1duWmhmTFplblp0Q1JXTT0="></script><meta property="og:title" content="wolke.tulix.de"/><meta property="og:description" content="Daten sicherer teilen"/><meta property="og:site_name" content="wolke.tulix.de"/><meta property="og:url" content="https://wolke.tulix.de/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://wolke.tulix.de/apps/theming/icon?v=23"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+		<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									wolke.tulix.de								</h1>
+																	<img src="/apps/theming/image/logo?useSvg=1&amp;v=23"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<!--[if IE 8]><style>input[type="checkbox"]{padding:0;}</style><![endif]-->
+<form method="post" name="login">
+	<fieldset>
+									<div id="message" class="hidden">
+			<img class="float-spinner" alt=""
+				src="/core/img/loading-dark.gif">
+			<span id="messageText"></span>
+			<!-- the following div ensures that the spinner is always inside the #message div -->
+			<div style="clear: both;"></div>
+		</div>
+		<p class="grouptop">
+			<input type="text" name="user" id="user"
+				placeholder="Username or email"
+				aria-label="Username or email"
+				value=""
+				autofocus				autocomplete="on" autocapitalize="none" autocorrect="off" required>
+			<label for="user" class="infield">Username or email</label>
+		</p>
+
+		<p class="groupbottom">
+			<input type="password" name="password" id="password" value=""
+				placeholder="Password"
+				aria-label="Password"
+								autocomplete="on" autocapitalize="none" autocorrect="off" required>
+			<label for="password" class="infield">Password</label>
+		</p>
+
+		<div id="submit-wrapper">
+			<input type="submit" id="submit" class="login primary" title="" value="Log in" disabled="disabled" />
+			<div class="submit-icon icon-confirm-white"></div>
+		</div>
+
+		
+		
+				<div id="reset-password-wrapper" style="display: none;">
+			<input type="submit" id="reset-password-submit" class="login primary" title="" value="Reset password" disabled="disabled" />
+			<div class="submit-icon icon-confirm-white"></div>
+		</div>
+		
+		<div class="login-additional">
+						<div class="lost-password-container">
+				<a id="lost-password" href="">
+					Forgot password?				</a>
+				<a id="lost-password-back" href="" style="display:none;">
+					Back to login				</a>
+			</div>
+					</div>
+
+		<input type="hidden" name="timezone_offset" id="timezone_offset"/>
+		<input type="hidden" name="timezone" id="timezone"/>
+		<input type="hidden" name="requesttoken" value="d43PGQL7J4kb8GFhz4Zu9Y5bS4dTPk4xFMAPxP0yFRo=:McCbbVCsUPN5tyQ7nd40t9YPecE7WnZhfLZenZtCRWM=">
+	</fieldset>
+</form>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://wolke.tulix.de" target="_blank" rel="noreferrer noopener" class="entity-name">wolke.tulix.de</a> – Daten sicherer teilen<br/><a href="https://www.tulix.de/#imprint" class="legal" target="_blank" rel="noreferrer noopener">Legal notice</a> · <a href="https://www.tulix.de/datenschutz.html" class="legal" target="_blank" rel="noreferrer noopener">Privacy policy</a>			</p>
+		</footer>
+	</body>
+</html>

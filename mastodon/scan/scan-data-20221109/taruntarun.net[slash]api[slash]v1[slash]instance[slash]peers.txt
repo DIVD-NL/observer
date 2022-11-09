@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://taruntarun.net; img-src 'self' https: data: blob: https://taruntarun.net; style-src 'self' https://taruntarun.net 'nonce-xNZZvy/6sceifvGSIrAtYQ=='; media-src 'self' https: data: https://taruntarun.net; frame-src 'self' https:; manifest-src 'self' https://taruntarun.net; connect-src 'self' data: blob: https://taruntarun.net https://media.taruntarun.net/Mastodon wss://taruntarun.net; script-src 'self' https://taruntarun.net; child-src 'self' blob: https://taruntarun.net; worker-src 'self' blob: https://taruntarun.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:32 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.655985Z
+X-Request-Id: a0480b1c-7da6-464c-805d-8f5a26956421
+X-Runtime: 0.011663
+X-Xss-Protection: 0
+
+0
+

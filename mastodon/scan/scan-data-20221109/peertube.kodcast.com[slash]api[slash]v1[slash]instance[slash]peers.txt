@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 336
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:14:52 GMT
+Location: https://kodcast.com/api/v1/instance/peers
+Server: Apache/2.4.29 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://kodcast.com/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache/2.4.29 (Ubuntu) Server at peertube.kodcast.com Port 443</address>
+</body></html>

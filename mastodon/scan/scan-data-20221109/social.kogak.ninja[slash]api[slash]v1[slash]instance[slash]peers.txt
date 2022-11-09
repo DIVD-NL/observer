@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.kogak.ninja; img-src 'self' https: data: blob: https://social.kogak.ninja; style-src 'self' 'unsafe-inline' https://social.kogak.ninja; media-src 'self' https: data: https://social.kogak.ninja; frame-src 'self' https:; manifest-src 'self' https://social.kogak.ninja; connect-src 'self' data: blob: https://social.kogak.ninja https://social.kogak.ninja wss://social.kogak.ninja; script-src 'self' https://social.kogak.ninja; worker-src 'self' blob: https://social.kogak.ninja
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:48 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.417452Z
+X-Request-Id: 2e8a4707-bf2c-4aaa-81c0-355c91836c85
+X-Runtime: 0.006933
+X-Xss-Protection: 1; mode=block
+
+0
+

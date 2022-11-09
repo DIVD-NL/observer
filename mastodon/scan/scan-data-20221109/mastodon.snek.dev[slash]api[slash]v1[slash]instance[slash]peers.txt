@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Accept-Ranges: bytes
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.snek.dev; img-src 'self' https: data: blob: https://mastodon.snek.dev; style-src 'self' https://mastodon.snek.dev 'nonce-425RUZNTki05uoMxEYzl4Q=='; media-src 'self' https: data: https://mastodon.snek.dev; frame-src 'self' https:; manifest-src 'self' https://mastodon.snek.dev; connect-src 'self' data: blob: https://mastodon.snek.dev https://mastodon.snek.dev wss://mastodon.snek.dev; script-src 'self' https://mastodon.snek.dev; child-src 'self' blob: https://mastodon.snek.dev; worker-src 'self' blob: https://mastodon.snek.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:15 GMT
+Etag: W/"91dca9887149f6b3b425b50dd2a287a8"
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.14.0 (Ubuntu)
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+Via: 1.1 varnish
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.048261Z
+X-Request-Id: 2d08dd0e-4f49-4873-9a5b-7ae46a73a31c
+X-Runtime: 0.007899
+X-Served-By: cache-bru1480049-BRU
+X-Timer: S1668006735.133618,VS0,VE392
+X-Xss-Protection: 0
+
+8fd
+["treehouse.systems","friendica.mschmidt-et.de","ubiqueros.com","toot.cafe","f.freinetz.ch","tooot.im","floss.social","toot.aquilenet.fr","mastodon.nz","ioc.exchange","friendica.mifritscher.de","hackers.town","social.tromdienste.de","social.jmueller.eu","f.kretschmann.social","friendica.offsite.guru","petroskowo.pl","frnd.nanoscopic.de","friendica.hashy-net.de","framapiaf.org","poliverso.org","social.anacreonte.eu","friendica.ambag.es","social.zerotier.com","anarchydica.net","talkabout.cf","friendica.myportal.social","fri.aethercom.de","philos.fkn-systems.de","oceanplayground.social","mastodon.jordanwages.com","fr.readthefinemanual.net","friend.geoffray-levasseur.org","101010.pl","mas.to","pztrn.online","friendica.ucy.de","f.iroiro.party","sometimes.social","friend.camp","mastodon.acc.sunet.se","fabler.su","yiff.life","herzbu.de","social.linux.pizza","mastodon.online","rage.love","follow.schmaller.de","friendica.togart.de","anarchism.space","mastodon.top","tech.lgbt","friendica.ingram-braun.net","quitter.pl","tiny.tilde.website","aus.social","vulpine.club","sueden.social","friendica.ironbug.org","mastodon.social","troet.cafe","scholar.social","social.digitalcastle.me","friendica.daniel-siepmann.de","chaos.social","queer.party","berlin.social","weirder.earth","m.noxie.ch","mastodon.art","botsin.space","potate.space","chat.noelle.codes","octodon.social","elekk.xyz","c.im","jorts.horse","lain.com","mastodon.tech","gleasonator.com","outerheaven.club","tutut.delire.party","climatejustice.social","polyglot.city","cantos.social","mstdn.social","cybre.space","red.niboe.info","raggedfeathers.com","oldbytes.space","hsnl.social","friendica.kommune4.de","piratenpartei.social","icosahedron.website","todon.eu","infosec.exchange","mspsocial.net","toot.cat","retr0.id","vis.social","catcatnya.com","bsd.network","mastodon.ar.al","someone.elses.computer","cornputer.org","tilde.zone","nerdculture.de","writing.exchange","layer8.space","greatjustice.net","glitch.social","fosstodon.org","oulipo.social","social.gl-como.it","cathode.church","ruby.social","social.wxcafe.net","social.afront.org","fuckgov.org","trunk.mad-scientist.club","sfba.social","social.artemai.art","pixel.artemai.art","social.tchncs.de","mastodon.chaosfield.at","mastodon.green","magicalgirl.party","mastodon.coffee"]
+0
+

@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.stuartgeiger.com; img-src 'self' https: data: blob: https://m.stuartgeiger.com; style-src 'self' https://m.stuartgeiger.com 'nonce-+Y7Yej8QdVv18NKZbnk9Bw=='; media-src 'self' https: data: https://m.stuartgeiger.com; frame-src 'self' https:; manifest-src 'self' https://m.stuartgeiger.com; connect-src 'self' data: blob: https://m.stuartgeiger.com https://m.stuartgeiger.com wss://m.stuartgeiger.com; script-src 'self' https://m.stuartgeiger.com; child-src 'self' blob: https://m.stuartgeiger.com; worker-src 'self' blob: https://m.stuartgeiger.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:23 GMT
+Etag: W/"7c83deaa9c831f53f4f7f3a4158e3ec3"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: STALE
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T04:15:00.788522Z
+X-Request-Id: 3962b6d4-01ee-4075-84a0-c1d620ca7e83
+X-Runtime: 0.071486
+X-Xss-Protection: 1; mode=block
+
+38b
+["relay.homunyan.com","mastodon.coffee","front-end.social","mastodon.art","sciencemastodon.com","shitposter.club","layer8.space","wandering.shop","mastodon.world","social.horrorhub.club","awscommunity.social","mastodon.gamedev.place","freespeechextremist.com","social.jacobandersen.dev","ravenation.club","clubcyberia.co","mstdn.ca","hachyderm.io","writing.exchange","ryona.agency","chancellor.social","schleuss.online","androiddev.social","social.welford.me","mastodon.holeyfox.co","mastodon.scot","free.burningpixel.net","aus.social","eldritch.cafe","chudbuds.lol","mastodon.green","fosstodon.org","poa.st","mastodon.online","pleroma.salastil.com","dragonscave.space","mas.to","ieji.de","clacks.link","miss.mouse.services","infosec.exchange","tech.lgbt","mastodon.ie","bluestar.social","mastodon.nz","mastodonapp.uk","mastodon.social","mstdn.social","toot.community","mstdn.ghastr.com","kolektiva.social"]
+0
+

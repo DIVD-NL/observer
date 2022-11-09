@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.mcavey.net; img-src 'self' https: data: blob: https://social.mcavey.net; style-src 'self' https://social.mcavey.net 'nonce-pEMY1XXW520/hCymDKJU6Q=='; media-src 'self' https: data: https://social.mcavey.net; frame-src 'self' https:; manifest-src 'self' https://social.mcavey.net; connect-src 'self' data: blob: https://social.mcavey.net https://cdn.masto.host wss://social.mcavey.net; script-src 'self' https://social.mcavey.net; child-src 'self' blob: https://social.mcavey.net; worker-src 'self' blob: https://social.mcavey.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:05 GMT
+Etag: W/"b8fe9d879580d657db2c962f0f9b5eb3"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.133642Z
+X-Request-Id: f91136a9-7711-4ca3-b929-f00dcdcb3f8f
+X-Runtime: 0.012133
+X-Xss-Protection: 0
+
+b4e
+["mastodon.sdf.org","friend.camp","someone.elses.computer","digitalcourage.social","interconnected.systems","mstdn.io","camerondcampbell.masto.host","photog.social","epsilon-ix.masto.host","mastodon.technology","masto.pt","social.artemai.art","pixel.artemai.art","robot.rodeo","indieweb.social","werd.social","mastodon.express","one.darnell.one","unextro.net","m.tzyl.nl","publicspaces.net","mastodon.ocert.at","social.lightlyseared.online","bananachips.club","tech.lgbt","mamot.fr","photo.lapineige.fr","glitterkitten.co.uk","guineapig.party","loftypancake.masto.host","thepit.social","bitfudge.com","schykle.com","socialserver.science","androiddev.social","mnufc.masto.host","ludosphere.fr","1210.nl","awscommunity.social","podlibre.social","vmst.io","microblog.at","barmy.org","amastodon.uk","librem.one","mapstodon.space","en.osm.town","social.dropbear.xyz","tane.codes","toot.cafe","social.lol","xtaldave.net","wandering.shop","m.phase.org","kamu.social","social.rootaccess.org","bloor.tw","mastodonnederland.online","federate.social","ioc.exchange","b4udw3rk5.com","social.linux.pizza","silversword.online","treehouse.systems","sigmoid.social","eldritch.cafe","darkfriend.social","m.beiting.org","squeet.me","assortedflotsam.com","botsin.space","literatur.social","mstdn.media","aspiechattr.me","chaos.social","edi.social","mstdn.mx","wellduck.me","zirk.us","toot.fedilab.app","ifwo.eu","craftbeer.social","magicalgirl.party","econtwitter.net","social.sgawolf.com","c18.masto.host","mentalhealth.social","tutoteket.no","mas-to-don.be","postpandemicparty.org","mastonederland.nl","artisan.chat","goodman-wilson.com","sci.kiwi","braydmedia.de","animal.business","meshed.cloud","ecoevo.social","oortville.masto.host","swiss.social","mas.ggr.me","masto.kreks.nl","mastodon.ericbeckers.nl","xin.cat","snapp.social","fribygda.no","skrivel.se","mastodon.chriswiegman.com","is.aaronbsmith.com","masto.ashfurrow.com","akademienl.social","researchbuzz.masto.host","sauropods.win","mastodon.hsablonniere.com","paquita.masto.host","recsys.social","dair-community.social","greatjustice.net","weirder.earth","toot.cat","666.glitchwit.ch","toot.community","canada.masto.host","newsie.social","topspicy.social","spacey.space","williamsonday.buzz","social.nokes.name","mastodon.ie","purpleforest.social","pdx.social","troet.cafe","tweep.club","mastodon.design","mastodon.54park.de","toot.icu","retro.social","kcmo.social","peoplemaking.games","mastodon.art","queer.party","fosstodon.org","journa.host","masto.ai","mastodon.xyz","mstdn.social","hachyderm.io","sfba.social","genomic.social","a.gup.pe","data-folks.masto.host","yharnam.singles","mastodon.ar.al","social.spacebear.ee","mastodon.pirateparty.be","infosec.exchange","social.juanlu.space","octodon.social","mastodon.online","mastodon.gamedev.place","simonwillison.net","ruby.social","mastodonapp.uk","mastodon.nl","mastodon.social","social.coop"]
+0
+

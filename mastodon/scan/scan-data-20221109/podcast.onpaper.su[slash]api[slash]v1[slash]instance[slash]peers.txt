@@ -1,0 +1,795 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:16:32 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://podcast.onpaper.su/wp-json/>; rel="https://api.w.org/"
+Server: nginx/1.18.0
+
+ee4f
+<!doctype html>
+<html class="no-js" lang="ru-RU">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+		<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Страница не найдена - On Paper</title>
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:title" content="Страница не найдена - On Paper" />
+	<meta property="og:site_name" content="On Paper" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://podcast.onpaper.su/#organization","name":"On Paper","url":"https://podcast.onpaper.su/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://podcast.onpaper.su/#/schema/logo/image/","url":"https://podcast.onpaper.su/wp-content/uploads/2020/02/onpaper_logo_black-01-1-e1582631649661.png","contentUrl":"https://podcast.onpaper.su/wp-content/uploads/2020/02/onpaper_logo_black-01-1-e1582631649661.png","width":221,"height":35,"caption":"On Paper"},"image":{"@id":"https://podcast.onpaper.su/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://podcast.onpaper.su/#website","url":"https://podcast.onpaper.su/","name":"On Paper","description":"Подкасты о фотографии","publisher":{"@id":"https://podcast.onpaper.su/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://podcast.onpaper.su/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//www.youtube.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="On Paper &raquo; Лента" href="https://podcast.onpaper.su/feed/" />
+<link rel="alternate" type="application/rss+xml" title="On Paper &raquo; Лента комментариев" href="https://podcast.onpaper.su/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script
+				src="//www.googletagmanager.com/gtag/js?id=UA-71707294-2"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '8.10.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-71707294-2',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+															__gtagTracker('config', 'UA-71707294-2', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/podcast.onpaper.su\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='js_composer_front-css'  href='https://podcast.onpaper.su/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.5.0' media='all' />
+<link rel='stylesheet' id='ttg-reaktions-style-css'  href='https://podcast.onpaper.su/wp-content/plugins/ttg-reaktions/assets/css/style.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='reakticons-css'  href='https://podcast.onpaper.su/wp-content/plugins/ttg-reaktions/assets/reakticons/styles.css?ver=2' media='all' />
+<link rel='stylesheet' id='qt-socicon-css'  href='https://podcast.onpaper.su/wp-content/plugins/ttg-reaktions/assets/qt-socicon/styles.css?ver=2' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://podcast.onpaper.su/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://podcast.onpaper.su/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1' media='all' />
+<link rel='stylesheet' id='easy-swipebox-css'  href='https://podcast.onpaper.su/wp-content/plugins/easy-swipebox/public/css/swipebox.min.css?ver=1.1.2' media='all' />
+<link rel='stylesheet' id='qt_ajax_pageload_style-css'  href='https://podcast.onpaper.su/wp-content/plugins/qt-ajax-pageload/qt-apl-style.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='qtmplayer-socicon-css'  href='https://podcast.onpaper.su/wp-content/plugins/qtmplayer/assets/css/qtmplayer.css?ver%5B0%5D=1.0.3' media='all' />
+<link rel='stylesheet' id='wpcast-style-css'  href='https://podcast.onpaper.su/wp-content/themes/wpcast/style.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='wpcast-child-style-css'  href='https://podcast.onpaper.su/wp-content/themes/wpcast-child/style.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3Aregular%2C700%7CRubik%3A500&#038;subset=cyrillic-ext%2Clatin-ext%2Ccyrillic-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='material-icons-css'  href='https://podcast.onpaper.su/wp-content/themes/wpcast/fonts/google-icons/material-icons.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='vc_tta_style-css'  href='https://podcast.onpaper.su/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=6.5.0' media='all' />
+<link rel='stylesheet' id='kirki-styles-wpcast_config-css'  href='https://podcast.onpaper.su/wp-content/plugins/qtmplayer/customizer/kirki/assets/css/kirki-styles.css' media='all' />
+<style id='kirki-styles-wpcast_config-inline-css'>
+body, html{font-family:"Noto Sans", Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;letter-spacing:-0.02em;}strong{font-family:"Noto Sans", Helvetica, Arial, sans-serif;font-weight:700;font-style:normal;letter-spacing:-0.02em;}h1, h2, h3, h4, h5, h6{font-family:Rubik, Helvetica, Arial, sans-serif;font-weight:500;font-style:normal;letter-spacing:-0.04em;text-transform:uppercase;}.wpcast-btn, .wpcast-caption, .wpcast-itemmetas, .wpcast-menu, .wpcast-secondaryhead, .wpcast-cats, .wpcast-menu-tree , button, input[type="button"], input[type="submit"], .button, .wpcast-meta, .wpcast-readm, .wpcast-navlink {font-family:Rubik, Helvetica, Arial, sans-serif;font-weight:500;font-style:normal;letter-spacing:0.04em;text-transform:uppercase;}
+</style>
+<script src='https://podcast.onpaper.su/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.10.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/podcast.onpaper.su","hash_tracking":"false","ua":"UA-71707294-2","v4_id":""};</script>
+<script src='https://podcast.onpaper.su/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://podcast.onpaper.su/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://podcast.onpaper.su/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://podcast.onpaper.su/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://podcast.onpaper.su/wp-content/uploads/2020/02/cropped-izobrazhenie-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://podcast.onpaper.su/wp-content/uploads/2020/02/cropped-izobrazhenie-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://podcast.onpaper.su/wp-content/uploads/2020/02/cropped-izobrazhenie-180x180.png" />
+<meta name="msapplication-TileImage" content="https://podcast.onpaper.su/wp-content/uploads/2020/02/cropped-izobrazhenie-270x270.png" />
+		<style id="wp-custom-css">
+			.wpcast-btn.wpcast-icon-l, .wpcast-icon-l.give-btn {
+    padding: 0 10px 0 10px;
+}
+
+.qtmplayer__songdata p {
+    text-transform: none;
+}
+
+.wpcast-slider__c span + .wpcast-dot, .wpcast-slider__c .wpcast-meta {
+    display: none;
+}
+
+.wpcast-pageheader .wpcast-meta {
+    margin-top: 20px;
+    display: none;
+}
+
+.wpcast-cutme-3 {
+    -webkit-line-clamp: 5;
+    max-height: 7.5em;
+}
+
+.wpcast-footer__copy {
+    border-bottom: none;
+}
+
+.wpcast-pageheader h1 {
+    margin: 0;
+    text-transform: uppercase;
+}
+
+@media only screen and (min-width: 1201px){
+html {
+    font-size: 1.2rem;
+}}
+
+@media only screen and (min-width: 1201px){
+h1 {
+    font-size: 2.7rem;
+}}
+
+
+@media only screen and (min-width: 601px){
+html {
+    font-size: 1.1em;
+}}
+
+html {
+    font-size: 1.05em;
+}
+
+
+.qtmplayer-playlist li .qtmplayer-tit {
+    font-size: 15px;
+}
+
+.qtmplayer-playlist li .qtmplayer-art {
+    font-size: 13px;
+}
+
+.wpcast-logo_header_mob {
+    padding-top: 15px;
+}
+
+.wpcast-post .wpcast-caption {
+    max-width: 60%;
+}
+
+.wpcast-post__header .wpcast-itemmetas {
+    width: 40%;
+}
+
+.wpcast-grad-layer {
+    opacity: 0.4;
+}
+
+.grecaptcha-badge {display: none;}		</style>
+		
+	<!-- PLAYER CUSTOMIZATIONS start ========= -->
+
+	<style>
+			</style>
+
+	<!-- PLAYER CUSTOMIZATIONS END ========= -->
+	
+			<!-- THEME CUSTOMIZATIONS start ========= -->
+		<style>
+			body, blockquote::before, .qt-ajax-pageload::after { background-color: #f6f6f6; color: #777777; }
+			.wpcast-comments-section .comment-respond { background-color: #f9f9f9; }
+			a { color: #9f3741; }
+			.wp-block-separator { border-color: rgba(119,119,119,0.66) ; }
+			.wpcast-entrycontent p.has-drop-cap, .wpcast-entrycontent blockquote, .wpcast-entrycontent .wp-block-quote, blockquote, blockquote::before, .wpcast-single .wpcast-entrycontent .wp-block-quote, .wpcast-btn { border-color: rgba(119,119,119,0.2); }
+			h1, h2, h3, h4, h5, h6 { color: #343434; }
+			.wpcast-caption__s, .wpcast-caption__xs { color: rgba(119,119,119,0.66) }
+			.wpcast-paper, .wpcast-authorbox, .wpcast-menubar ul, .wpcast-paper blockquote::before { background-color: #ffffff; }
+			.wpcast-primary { background-color: #111618; }
+			.wpcast-primary-light .wpcast-caption { color:  rgba(255,255,255,0.7) }
+			.wpcast-primary .wpcast-btn, .wpcast-primary-light .wpcast-caption__s, .wpcast-primary-light .wpcast-btn { border-color: rgba(255,255,255,0.2) }
+			.wpcast-primary, .wpcast-primary h1, .wpcast-primary h2, .wpcast-primary h3, .wpcast-primary h4, .wpcast-primary h5, .wpcast-primary h6,
+			.wpcast-primary-light h1, .wpcast-primary-light h2, .wpcast-primary-light h3, .wpcast-primary-light h4, .wpcast-primary-light h5, .wpcast-primary-light h6  { color: #ffffff; }
+			.wpcast-primary-light { background-color: #353535; color: #ffffff; }
+			[class*="-catid-"]::before, .ttg-reaktions-accent, .wpcast-accent, .wpcast-btn-primary, .give-btn, .wpcast-scard:hover .wpcast-btn__ghost, .wpcast-menubar li::before, button.wpcast-btn-primary, .qt-ajax-pageload-blobs .blob { background-color: #9f3741; color: #ffffff; }
+			.wpcast-btn__white { color: #9f3741; }
+			.wpcast-form-wrapper input[type="text"]:focus, .wpcast-form-wrapper input[type="email"]:focus, .wpcast-form-wrapper input[type="password"]:focus, .wpcast-form-wrapper textarea:focus, .wpcast-menu-horizontal .wpcast-menubar > li ul, .wpcast-footer__copy, .wpcast-decor, .wpcast-caption::after, .wpcast-post__title, .wpcast-scard__t { border-color: #9f3741; }
+			.wpcast-grad-layer { background: #9f3741; /* Old browsers */ /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ background: linear-gradient(45deg, #9f3741 0%, #d84453 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#9f3741, endColorstr='#d84453',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */ }
+			.wpcast-negative .wpcast-caption, .qt-negative h1, .qt-negative h2, .qt-negative h3, .qt-negative h4, .qt-negative h5, .qt-negative h6 { color: #fff; }
+			@media only screen and (min-width: 1201px) { 
+				a:hover { color: #d84453; }
+				.wpcast-btn, .wpcast-post__title a {
+				  	background-image: linear-gradient(to right, rgba(216,68,83,0.5) 100%, #f6f6f6 100%); 
+				}
+				.wpcast-menu-horizontal .wpcast-menubar > li ul li a { 
+					background-image: linear-gradient(to right,  #9f3741 100%, #ffffff 100%); 
+				}
+				.wpcast-btn {
+					background-image: linear-gradient(to right, #d84453 100%, #f6f6f6 100%);
+				}
+				.wpcast-btn:hover {
+					border-color: #d84453; 
+					color: #ffffff; 
+				}
+			}
+							h1, h2, h3, h4, h5, h6 {
+					text-rendering: geometricPrecision;
+				}
+								.wpcast-btn, .wpcast-itemmetas, .wpcast-caption, .wpcast-menu, .wpcast-secondaryhead, .wpcast-cats, .wpcast-menu-tree , button, input[type="button"], input[type="submit"], .button , .wpcast-meta {
+					text-rendering: geometricPrecision;
+				}
+								html body {
+					text-rendering: geometricPrecision;
+				}
+						</style>
+		<!-- THEME CUSTOMIZATIONS END ========= -->
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>		<!-- QT Taxonomy Backgorund plugin start ========= -->
+		<style>
+
+			[class$="-catid-26"]::before{background: #dd3333;} [class$="-catid-55"]::before{background: #9f3741;} [class$="-catid-104"]::before{background: #ffffff;} [class$="-catid-100"]::before{background: #ffffff;} [class$="-catid-85"]::before{background: #ffffff;} [class$="-catid-56"]::before{background: #ffffff;} [class$="-catid-57"]::before{background: #ffffff;} [class$="-catid-87"]::before{background: #ffffff;} [class$="-catid-91"]::before{background: #ffffff;} [class$="-catid-89"]::before{background: #ffffff;} [class$="-catid-73"]::before{background: #ffffff;} 		</style>
+		<!-- QT Taxonomy Backgorund plugin END ========= -->
+			</head>
+	<body data-rsssl=1 id="wpcastBody" class="error404 wpcast-body qtmplayer__hide-audioblock wpb-js-composer js-comp-ver-6.5.0 vc_responsive">
+		<div id="wpcastGlobal" class="wpcast-global">
+			
+			
+<div id="wpcastHeaderBar" class="wpcast-headerbar">
+	<div id="wpcastHeaderBarContent" class="wpcast-headerbar__content wpcast-paper">
+		<div id="wpcastMenu" class="wpcast-menu wpcast-paper">
+	<div class="wpcast-menu__cont">
+		<h3 class="wpcast-menu__logo wpcast-left">
+			<a class="wpcast-logolink" href="https://podcast.onpaper.su/">
+						<img src="https://podcast.onpaper.su/wp-content/uploads/2020/02/onpaper_logo_black-01-1-1-e1582631129333.png" class="wpcast-logo_header_mob" alt="On Paper">
+				<img src="https://podcast.onpaper.su/wp-content/uploads/2020/02/onpaper_logo_black-01-1-e1582631649661.png" class="wpcast-logo_header" alt="On Paper">
+					</a>
+		</h3>
+
+
+					<nav class="wpcast-menu-horizontal">
+				<ul class="wpcast-menubar">
+				<li id="menu-item-1313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1313"><a href="https://podcast.onpaper.su/podkasty-o-fotografii/">Слушать</a></li>
+<li id="menu-item-1308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1308"><a href="https://podcast.onpaper.su/new-series/">Новые выпуски</a></li>
+<li id="menu-item-1315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1315"><a target="_blank" rel="noopener" href="https://onpaper.su/">Читать</a></li>
+<li id="menu-item-2014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2014"><a target="_blank" rel="noopener" href="https://galleryf11.com">Смотреть</a></li>
+				</ul>
+			</nav>
+		
+		
+
+
+		<span class="wpcast-btn wpcast-btn__r" data-wpcast-switch="open" data-wpcast-target="#wpcastSearchBar"><i class='material-icons'>search</i></span>
+		
+					<span class="wpcast-btn wpcast-btn__r " >
+				<i class="material-icons" data-wpcast-switch="wpcast-overlayopen" data-wpcast-target="#wpcastBody">menu</i>
+			</span>
+			
+
+					<a id="wpcastCta" target="_blank" class="wpcast-btn wpcast-btn-primary wpcast-icon-l "  href="https://podcast.onpaper.su/feed/">
+				<i class="material-icons">rss_feed</i>				Подписаться			</a>
+				</div>
+
+	
+<nav id="wpcastSearchBar" class="wpcast-searchbar wpcast-paper">
+	<div class="wpcast-searchbar__cont">
+		<form action="https://podcast.onpaper.su/" role="search" class="wpcast-paper">
+			<input name="s" type="text" placeholder="Поиск" id="wpcast-searchbar-input" value="" />
+			<button type="submit" name="Submit" class="wpcast-btn wpcast-icon-l wpcast-hide-on-small-only wpcast-btn-primary" value="Поиск" ><i class="material-icons">search</i> Поиск</button>
+		</form>
+
+		<a class="wpcast-btn wpcast-btn__r"  data-wpcast-switch="open" data-wpcast-target="#wpcastSearchBar"> <i class="material-icons">close</i></a>
+	</div>
+</nav>
+
+</div>			<div id="wpcast-Sticky" class="wpcast-primary wpcast-sticky">
+				<div class="wpcast-sticky__content">
+					<div class="wpcast-primary">
+							<div id="qtmplayerDebug" class="qtmplayer__debug"></div>
+	<div id="qtmplayer" class="qtmplayer qtmplayer-scrollbarstyle qtmplayer-hidden" data-showplayer="" data-analyzer="" data-autoplay="" data-hiquality="" data-qtmplayer-api="https://podcast.onpaper.su/?qtmplayer_json_data=" data-qtmplayer-smflash="https://podcast.onpaper.su/wp-content/plugins/qtmplayer/assets/soundmanager/swf/">
+		<div id="qtmplayer-controls"  class="qtmplayer__controls" data-hidetimeout="1000">
+	<div class="qtmplayer__controllayer">
+		<div class="qtmplayer__basic">
+			<a id="qtmplayerPlay" data-qtmplayer-playbtn class="qtmplayer__play qtmplayer-btn-secondary">
+				<i class="material-icons">play_arrow</i>
+				<i id="qtmplayerNotif" data-qtmplayerNotif class="qtmplayer__notification"></i>
+			</a>
+			<div class="qtmplayer__songdata">
+				<p class="qtmplayer__title"></p>
+				<p class="qtmplayer__artist"></p>
+			</div>
+			<span data-playeropen class="qtmplayer__openbtn"><i class="material-icons">keyboard_arrow_right</i></span>
+		</div>
+		<div class="qtmplayer__advanced">
+			<div class="qtmplayer__covercontainer">
+				<a class="qtmplayer__cover"></a>
+			</div>
+			<div class="qtmplayer__songdatam">
+				<p class="qtmplayer__title"></p>
+				<p class="qtmplayer__artist"></p>
+			</div>
+			<div class="qtmplayer__actions">
+				<!-- <span data-playeropen class="qtmplayer__openbtn qtmplayer__openbtnm"><i class="material-icons">keyboard_arrow_right</i></span> -->
+				<span class="qtmplayer__prev" data-control="prev">
+					<i class='material-icons'>skip_previous</i>
+				</span>
+				<a data-qtmplayer-playbtn class="qtmplayer__playmob">
+					<i class="material-icons">play_arrow</i>
+					<i id="qtmplayerNotifM" data-qtmplayerNotif class="qtmplayer__notification qtmplayer-content-secondary"></i>
+				</a>
+				<span class="qtmplayer__next" data-control="next">
+					<i class='material-icons'>skip_next</i>
+				</span>
+				<a id="qtmplayerCart" target="_blank" class="qtmplayer__cart">
+					<i class='material-icons'></i>
+				</a>
+			</div>
+			<div class="qtmplayer__trackcontainer">
+				<div id="qtmplayerTrackControl" data-qtmplayer-trackcontrol class="qtmplayer__track">
+					<span id="qtmplayerTime" class="qtmplayer__time">00:00</span>
+					<span id="qtmplayerDuration" class="qtmplayer__length">00:00</span>
+					<span class="qtmplayer-track-adv qtmplayer-tbg"></span>
+					<span id="qtMplayerBuffer" class="qtmplayer-track-adv qtmplayer-buffer"></span>
+					<span id="qtMplayerTadv" data-qtmplayer-trackadv class="qtmplayer-track-adv qtmplayer-content-accent"></span>
+					<span id="qtMplayerMiniCue" data-qtmplayer-minicue class="qtmplayer-track-minicue"></span>
+				</div>
+			</div>
+			<span class="qtmplayer__playlistbtn" data-playlistopen>
+				<i class='material-icons'>playlist_play</i>
+			</span>
+
+			<span class="qtmplayer__plclose qtmplayer__plclose__adv" data-playeropen>
+				<i class='material-icons'>chevron_left</i>
+			</span>
+
+
+			<div class="qtmplayer__volume qtmplayer-content-primary-light">
+				<i data-qtmplayer-vicon class="material-icons">volume_up</i>
+				<div class="qtmplayer__vcontainer">
+					<div data-qtmplayer-vcontrol class="qtmplayer__vcontrol">
+						<span data-qtmplayer-vtrack class="qtmplayer__vtrack"></span>
+						<span data-qtmplayer-vfill class="qtmplayer__vfill"></span>
+						<span data-qtmplayer-vball class="qtmplayer-track-minicue qtmplayer__vball"></span>
+					</div>
+				</div>
+			</div>
+			<div class="qtmplayer__bgimg"></div>
+		</div>
+	</div>
+</div>
+<div id="qtmplayer-playlistcontainer" class="qtmplayer__playlistcontainer qtmplayer-content-primary">
+	<span class="qtmplayer__plclose" data-playlistopen>
+		<i class='material-icons'>chevron_left</i>
+	</span>
+	<div class="qtmplayer__playlistmaster">
+		<div class="qtmplayer-column-left">
+			<div id="qtmplayer-cover" class="qtmplayer__album">
+				<a href="#" class="qtmplayer-btn qtmplayer-btn-ghost qtmplayer-btn-l qtmplayer-albumlink">Go to album</a>
+			</div>
+		</div>
+		<div id="qtmplayer-playlist" class="qtmplayer__playlist qtmplayer-content-primary qtmplayer-column-right">
+			<ul class="qtmplayer-playlist">
+				
+
+									<li class="qtmplayer-trackitem">
+						<img src="https://podcast.onpaper.su/wp-content/uploads/2020/04/czifrovoj-zum-digital-zoom-eowrdjnqqba-xy5ukvwzebm.1400x1400-100x100.jpg" alt="cover">						<span class="qtmplayer-play qtmplayer-link-sec qtmplayer-play-btn" 
+						data-qtmplayer-cover="https://podcast.onpaper.su/wp-content/uploads/2020/04/czifrovoj-zum-digital-zoom-eowrdjnqqba-xy5ukvwzebm.1400x1400-370x370.jpg" 
+						data-qtmplayer-file="https://anchor.fm/s/1210360c/podcast/play/48733813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-8%2F23d0a189-218d-2967-4700-34de7f615772.mp3" 
+						data-qtmplayer-title="Визуальный шум и насмотренность" 
+						data-qtmplayer-artist="Цифровой зум" 
+						data-qtmplayer-album="" 
+						data-qtmplayer-link="https://podcast.onpaper.su/vizualnyj-shum-i-nasmotrennost/" 
+						data-qtmplayer-price="" 
+						data-qtmplayer-buylink="https://podcast.onpaper.su/?qtmplayer_download=https%3A%2F%2Fanchor.fm%2Fs%2F1210360c%2Fpodcast%2Fplay%2F48733813%2Fhttps%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2022-2-8%252F23d0a189-218d-2967-4700-34de7f615772.mp3&amp;_noajax=1" 
+						data-qtmplayer-icon="download" ><i class='material-icons'>play_arrow</i></span>
+						<p>
+							<a class="qtmplayer-tit" href="https://podcast.onpaper.su/vizualnyj-shum-i-nasmotrennost/">Визуальный шум и насмотренность</a>
+							<span class="qtmplayer-art">Цифровой зум</span>
+						</p>
+					</li>
+										<li class="qtmplayer-trackitem">
+						<img src="https://podcast.onpaper.su/wp-content/uploads/2020/02/pif-new-1-1-100x100.jpg" alt="cover">						<span class="qtmplayer-play qtmplayer-link-sec qtmplayer-play-btn" 
+						data-qtmplayer-cover="https://podcast.onpaper.su/wp-content/uploads/2020/02/pif-new-1-1-370x370.jpg" 
+						data-qtmplayer-file="https://aphid.fireside.fm/d/1437767933/e6252e58-0f10-4d00-8be5-5fd8eb58aa34/2da46d6d-c05c-4931-8c33-9ab40f3b230e.mp3" 
+						data-qtmplayer-title="72: Не могу снимать. Что делать?" 
+						data-qtmplayer-artist="Похоже, я фотограф" 
+						data-qtmplayer-album="" 
+						data-qtmplayer-link="https://podcast.onpaper.su/72-ne-mogu-snimat-chto-delat/" 
+						data-qtmplayer-price="" 
+						data-qtmplayer-buylink="https://podcast.onpaper.su/?qtmplayer_download=https%3A%2F%2Faphid.fireside.fm%2Fd%2F1437767933%2Fe6252e58-0f10-4d00-8be5-5fd8eb58aa34%2F2da46d6d-c05c-4931-8c33-9ab40f3b230e.mp3&amp;_noajax=1" 
+						data-qtmplayer-icon="download" ><i class='material-icons'>play_arrow</i></span>
+						<p>
+							<a class="qtmplayer-tit" href="https://podcast.onpaper.su/72-ne-mogu-snimat-chto-delat/">72: Не могу снимать. Что делать?</a>
+							<span class="qtmplayer-art">Похоже, я фотограф</span>
+						</p>
+					</li>
+										<li class="qtmplayer-trackitem">
+						<img src="https://podcast.onpaper.su/wp-content/uploads/2020/04/czifrovoj-zum-digital-zoom-eowrdjnqqba-xy5ukvwzebm.1400x1400-100x100.jpg" alt="cover">						<span class="qtmplayer-play qtmplayer-link-sec qtmplayer-play-btn" 
+						data-qtmplayer-cover="https://podcast.onpaper.su/wp-content/uploads/2020/04/czifrovoj-zum-digital-zoom-eowrdjnqqba-xy5ukvwzebm.1400x1400-370x370.jpg" 
+						data-qtmplayer-file="https://anchor.fm/s/1210360c/podcast/play/47558653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-12%2F98152984-a333-5c3e-2112-91016c35a028.mp3" 
+						data-qtmplayer-title="О документальной фотографии и русской глубинке. Гость: Виль Равилов" 
+						data-qtmplayer-artist="Цифровой зум" 
+						data-qtmplayer-album="" 
+						data-qtmplayer-link="https://podcast.onpaper.su/o-dokumentalnoj-fotografii-i-russkoj-glubinke-gost-vil-ravilov/" 
+						data-qtmplayer-price="" 
+						data-qtmplayer-buylink="https://podcast.onpaper.su/?qtmplayer_download=https%3A%2F%2Fanchor.fm%2Fs%2F1210360c%2Fpodcast%2Fplay%2F47558653%2Fhttps%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2022-1-12%252F98152984-a333-5c3e-2112-91016c35a028.mp3&amp;_noajax=1" 
+						data-qtmplayer-icon="download" ><i class='material-icons'>play_arrow</i></span>
+						<p>
+							<a class="qtmplayer-tit" href="https://podcast.onpaper.su/o-dokumentalnoj-fotografii-i-russkoj-glubinke-gost-vil-ravilov/">О документальной фотографии и русской глубинке. Гость: Виль Равилов</a>
+							<span class="qtmplayer-art">Цифровой зум</span>
+						</p>
+					</li>
+										<li class="qtmplayer-trackitem">
+						<img src="https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-100x100.jpg" alt="cover">						<span class="qtmplayer-play qtmplayer-link-sec qtmplayer-play-btn" 
+						data-qtmplayer-cover="https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-370x370.jpg" 
+						data-qtmplayer-file="https://anchor.fm/s/12269564/podcast/play/45857538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-8%2F54392834-9937-3c7d-970e-fc7da01bebf7.mp3" 
+						data-qtmplayer-title="#12 Андреас Гурски: крайности глобализации в работах самого дорогого фотографа современности" 
+						data-qtmplayer-artist="Modern Color" 
+						data-qtmplayer-album="" 
+						data-qtmplayer-link="https://podcast.onpaper.su/12-andreas-gurski-krajnosti-globalizaczii-v-rabotah-samogo-dorogogo-fotografa-sovremennosti/" 
+						data-qtmplayer-price="" 
+						data-qtmplayer-buylink="https://podcast.onpaper.su/?qtmplayer_download=https%3A%2F%2Fanchor.fm%2Fs%2F12269564%2Fpodcast%2Fplay%2F45857538%2Fhttps%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2022-0-8%252F54392834-9937-3c7d-970e-fc7da01bebf7.mp3&amp;_noajax=1" 
+						data-qtmplayer-icon="download" ><i class='material-icons'>play_arrow</i></span>
+						<p>
+							<a class="qtmplayer-tit" href="https://podcast.onpaper.su/12-andreas-gurski-krajnosti-globalizaczii-v-rabotah-samogo-dorogogo-fotografa-sovremennosti/">#12 Андреас Гурски: крайности глобализации в работах самого дорогого фотографа современности</a>
+							<span class="qtmplayer-art">Modern Color</span>
+						</p>
+					</li>
+								</ul>
+		</div>
+	</div>
+</div>
+	</div>
+							</div>
+				</div>
+			</div>
+				</div>
+</div>
+
+
+<nav id="wpcastOverlay" class="wpcast-overlay wpcast-paper">
+	<div class="wpcast-overlay__closebar"><span class="wpcast-btn wpcast-btn__r"  data-wpcast-switch="wpcast-overlayopen" data-wpcast-target="#wpcastBody"> <i class="material-icons">close</i></span></div>
+
+		<div class="wpcast-hide-on-large-only">
+					<ul class="wpcast-menu-tree">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1313"><a href="https://podcast.onpaper.su/podkasty-o-fotografii/">Слушать</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1308"><a href="https://podcast.onpaper.su/new-series/">Новые выпуски</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1315"><a target="_blank" rel="noopener" href="https://onpaper.su/">Читать</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2014"><a target="_blank" rel="noopener" href="https://galleryf11.com">Смотреть</a></li>
+			</ul>
+						<ul class="wpcast-menu-tree wpcast-menu-tree__secondary">
+							</ul>
+				</div>
+	
+		<div class="wpcast-hide-on-large-and-down">
+			</div>
+	
+			<div id="wpcastSidebarOffcanvas" role="complementary" class="wpcast-sidebar wpcast-sidebar__secondary wpcast-sidebar__offcanvas">
+			<ul class="wpcast-row">
+				<li id="rss-3" class="wpcast-widget wpcast-col wpcast-s12 wpcast-m6 wpcast-l12  widget_rss"><h6 class="wpcast-widget__title wpcast-caption wpcast-caption__s"><span><a class="rsswidget rss-widget-feed" href="https://onpaper.su/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://podcast.onpaper.su/wp-includes/images/rss.png" alt="RSS" loading="lazy" /></a> <a class="rsswidget rss-widget-title" href="https://onpaper.su/">Читать о фотографии</a></span></h6><ul><li><a class='rsswidget' href='https://onpaper.su/lyuk-delaje-iz-knigi-winterreise-rossiya-1998-1999/'>Люк Делайе. Из книги «Winterreise». Россия, 1998-1999</a> <span class="rss-date">20.02.2022</span> <cite>Опыт фотографии</cite></li><li><a class='rsswidget' href='https://onpaper.su/ara-gyuler-stambul/'>Ара Гюлер. Стамбул</a> <span class="rss-date">13.07.2021</span> <cite>Опыт фотографии</cite></li><li><a class='rsswidget' href='https://onpaper.su/serhio-larrajn-iran-1959-g/'>Серхио Ларрайн. Иран, 1959 г.</a> <span class="rss-date">06.06.2021</span> <cite>Опыт фотографии</cite></li></ul></li><li id="wpcast_widget_list-2" class="wpcast-widget wpcast-col wpcast-s12 wpcast-m6 wpcast-l12  listwidget"><h6 class="wpcast-widget__title wpcast-caption wpcast-caption__s"><span>Выбор слушателей</span></h6>		<div class="qt-archives-widget">
+
+			<article class="wpcast-post wpcast-post__inline  post-1262 post type-post status-publish format-audio has-post-thumbnail hentry category-fotografiya tag-fotopropaganda tag-ilya-pilipenko tag-artyom-lezhepyokov tag-fotografiya post_format-post-format-audio qtserie-bresson-molchit">
+		<a class="wpcast-thumb" href="https://podcast.onpaper.su/fotografiya-i-propaganda/">
+		<img width="100" height="100" src="https://podcast.onpaper.su/wp-content/uploads/2020/02/arle7260000small-100x100.jpg" class="wpcast-post__thumb wp-post-image" alt="01. ФОТОГРАФИЯ И ПРОПАГАНДА" loading="lazy" srcset="https://podcast.onpaper.su/wp-content/uploads/2020/02/arle7260000small-100x100.jpg 100w, https://podcast.onpaper.su/wp-content/uploads/2020/02/arle7260000small-150x150.jpg 150w, https://podcast.onpaper.su/wp-content/uploads/2020/02/arle7260000small-370x370.jpg 370w" sizes="(max-width: 100px) 100vw, 100px" />	</a>
+		<h6><a class="wpcast-cutme-t-2" href="https://podcast.onpaper.su/fotografiya-i-propaganda/">01. ФОТОГРАФИЯ И ПРОПАГАНДА</a></h6>
+	<p class="wpcast-meta wpcast-small">
+		<a href="https://podcast.onpaper.su/fotografiya-i-propaganda/">24.02.2020</a>
+	</p>
+</article><article class="wpcast-post wpcast-post__inline  post-1362 post type-post status-publish format-audio has-post-thumbnail hentry category-featured category-sovremennoe-iskusstvo tag-fotodepartament tag-kosmost post_format-post-format-audio qtserie-vmesto-izobrazhenij">
+		<a class="wpcast-thumb" href="https://podcast.onpaper.su/006-zachem-nam-kriticheskoe-myshlenie/">
+		<img width="100" height="100" src="https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-100x100.jpg" class="wpcast-post__thumb wp-post-image" alt="006. Зачем нам критическое мышление?" loading="lazy" srcset="https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-100x100.jpg 100w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-770x770.jpg 770w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-1170x1170.jpg 1170w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-150x150.jpg 150w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-768x768.jpg 768w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-1536x1536.jpg 1536w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167-370x370.jpg 370w, https://podcast.onpaper.su/wp-content/uploads/2020/02/7c88644ebc976e6dfce03e7167.jpg 1800w" sizes="(max-width: 100px) 100vw, 100px" />	</a>
+		<h6><a class="wpcast-cutme-t-2" href="https://podcast.onpaper.su/006-zachem-nam-kriticheskoe-myshlenie/">006. Зачем нам критическое мышление?</a></h6>
+	<p class="wpcast-meta wpcast-small">
+		<a href="https://podcast.onpaper.su/006-zachem-nam-kriticheskoe-myshlenie/">15.12.2019</a>
+	</p>
+</article><article class="wpcast-post wpcast-post__inline  post-2106 post type-post status-publish format-audio has-post-thumbnail hentry category-istorii-o-fotografiyah post_format-post-format-audio qtserie-modern_color">
+		<a class="wpcast-thumb" href="https://podcast.onpaper.su/10-karera-dzhoelya-mejerovicza-kak-mini-istoriya-fotoiskusstva/">
+		<img width="100" height="100" src="https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-100x100.jpg" class="wpcast-post__thumb wp-post-image" alt="#10 Карьера Джоэля Мейеровица как мини-история фотоискусства" loading="lazy" srcset="https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-100x100.jpg 100w, https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-770x770.jpg 770w, https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-150x150.jpg 150w, https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-768x768.jpg 768w, https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000-370x370.jpg 370w, https://podcast.onpaper.su/wp-content/uploads/2021/01/m1000x1000.jpg 1000w" sizes="(max-width: 100px) 100vw, 100px" />	</a>
+		<h6><a class="wpcast-cutme-t-2" href="https://podcast.onpaper.su/10-karera-dzhoelya-mejerovicza-kak-mini-istoriya-fotoiskusstva/">#10 Карьера Джоэля Мейеровица как мини-история фотоискусства</a></h6>
+	<p class="wpcast-meta wpcast-small">
+		<a href="https://podcast.onpaper.su/10-karera-dzhoelya-mejerovicza-kak-mini-istoriya-fotoiskusstva/">23.03.2021</a>
+	</p>
+</article>		</div>
+				</li>			</ul>
+		</div>
+		
+
+
+</nav>
+
+					<!-- ========= QT-AJAX-PAGELOAD WRAPPER ============== -->
+		<div id="qtAjaxPageLoadWrapper" class="qt-apl-wrapper">
+		<div id="wpcastMaster" class="wpcast-master post-2204 post type-post status-publish format-audio has-post-thumbnail hentry category-fototehnologii post_format-post-format-audio qtserie-czifrovoj-zum">
+	<div class="wpcast-section wpcast-paper">
+		<div class="wpcast-container wpcast-notfound404">
+			<h2>404</h2>
+			<h4>Page Not Found</h4>
+						<ul class="wpcast-menubar">
+				<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-390"><a href="https://podcast.onpaper.su/">Home</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="https://podcast.onpaper.su/?page_id=375">Podcast</a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="https://podcast.onpaper.su/podkasty-o-fotografii/">Series</a></li>
+			</ul>
+
+			<div  class="wpcast-searchform">
+	<form action="https://podcast.onpaper.su/" role="search" class="wpcast-form-wrapper">
+		<div class="wpcast-fieldset">
+			<input id="s" name="s" placeholder="Введите фразу для поиска" type="text" required="required" value="" />
+		</div>
+		<button type="submit" name="Submit" class="wpcast-btn wpcast-btn__txt"><i class="material-icons">search</i></button>
+	</form>
+</div>
+		</div>
+	</div>
+</div>
+	
+				</div>
+		<!-- ========= END OF QT-AJAX-PAGELOAD WRAPPER ============== -->
+				<div id="wpcastFooter" class="wpcast-footer">
+				
+
+<div id="wpcastFooterMenu" class="wpcast-footer__section wpcast-section wpcast-primary-light">
+	<div class="wpcast-footer__content">
+
+
+				<a href="https://podcast.onpaper.su/" class="wpcast-footer__logo">
+			<h4>		<img src="https://podcast.onpaper.su/wp-content/uploads/2020/02/onpaper_logo_black-01-1-e1582631649661.png" class="wpcast-logo_footer" alt="On Paper">
+		</h4>
+		</a>
+
+
+				<ul class="wpcast-menubar">
+			<li id="menu-item-1628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1628"><a target="_blank" rel="noopener" href="https://onpaper.su/">Читать</a></li>
+<li id="menu-item-1627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627"><a href="https://podcast.onpaper.su/podkasty-o-fotografii/">Слушать</a></li>
+<li id="menu-item-2013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2013"><a target="_blank" rel="noopener" href="https://galleryf11.com">Смотреть</a></li>
+<li id="menu-item-1625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="https://podcast.onpaper.su/about/">О проекте</a></li>
+		</ul>
+
+
+		
+	</div>
+
+	 
+			<div class="wpcast-bgimg"><img src="https://podcast.onpaper.su/wp-content/uploads/2020/02/rs3644_alexander-aksakov_gamlakost_01-04-2009_3-scr.jpg" alt="Background"></div> 
+		 
+			<div class="wpcast-grad-layer"></div>
+			
+
+</div>	
+<div id="wpcastCopybar" class="wpcast-footer__copy wpcast-primary">
+	<p>
+		© 2020 - 2021 <a href="https://onpaper.su">On Paper</a>	</p>
+</div>		</div>
+	</div><!-- end of .wpcast-globacontainer -->
+	<script src='https://podcast.onpaper.su/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.5.0' id='wpb_composer_front_js-js'></script>
+<script src='https://podcast.onpaper.su/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://podcast.onpaper.su/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/podcast.onpaper.su\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/easy-swipebox/public/js/jquery.swipebox.min.js?ver=1.1.2' id='easy-swipebox-js'></script>
+<script id='easy-swipebox-init-js-extra'>
+var easySwipeBox_localize_init_var = {"lightbox":{"useCSS":true,"useSVG":true,"removeBarsOnMobile":true,"hideCloseButtonOnMobile":false,"hideBarsDelay":3000,"videoMaxWidth":1140,"vimeoColor":"cccccc","loopAtEnd":false,"autoplayVideos":false},"autodetect":{"autodetectImage":true,"autodetectVideo":true,"autodetectExclude":".no-swipebox"}};
+</script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/easy-swipebox/public/js/jquery.init.js?ver=1.1.2' id='easy-swipebox-init-js'></script>
+<script src='https://podcast.onpaper.su/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='https://podcast.onpaper.su/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.5.0' id='vc_accordion_script-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.5.0' id='vc_tta_autoplay_script-js'></script>
+<script src='https://www.youtube.com/iframe_api?ver=6.5.0' id='vc_youtube_iframe_api_js-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/themes/wpcast/components/modernizr/modernizr-custom.js?ver=3.5.0' id='modernizr-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/themes/wpcast/components/stellar/jquery.stellar.min.js?ver=0.6.2' id='stellar-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/themes/wpcast/js/qt-main.js?ver=1.0.0' id='qt-main-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/qt-ajax-pageload/js/qt-ajax-pageload.js?ver=1.0' id='qt_ajax_pageload_script-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/qtmplayer/assets/components/raphael/raphael.min.js?ver%5B0%5D=1.0.3' id='raphael-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/qtmplayer/assets/js/min/qtmplayer-min.js?ver%5B0%5D=1.0.3' id='qtmplayer-min-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/ttg-reaktions/js/popup/popup.js?ver=1.0' id='popup-js'></script>
+<script id='ttg_reaktions_script-js-extra'>
+var ajax_var = {"url":"https:\/\/podcast.onpaper.su\/wp-admin\/admin-ajax.php","nonce":"7ddaa351b1"};
+</script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/ttg-reaktions/js/ttg-reaktions.js?ver=1.0' id='ttg_reaktions_script-js'></script>
+<script src='https://www.google.com/recaptcha/api.js?render=6Lc-g90UAAAAABWpehyJMWDxyr1zKCtVuC4dCWpl&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script id='wpcf7-recaptcha-js-extra'>
+var wpcf7_recaptcha = {"sitekey":"6Lc-g90UAAAAABWpehyJMWDxyr1zKCtVuC4dCWpl","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src='https://podcast.onpaper.su/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6.1' id='wpcf7-recaptcha-js'></script>
+<script src='https://podcast.onpaper.su/wp-content/themes/wpcast/js/skip-link-focus-fix.js?ver=20151215' id='skip-link-focus-fix-js'></script>
+	</body>
+</html>
+0
+

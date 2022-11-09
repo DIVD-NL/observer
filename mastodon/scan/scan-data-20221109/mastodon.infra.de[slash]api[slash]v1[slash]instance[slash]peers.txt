@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.infra.de; img-src 'self' https: data: blob: https://mastodon.infra.de; style-src 'self' https://mastodon.infra.de 'nonce-rdR08LaAOLkBy4ThAwq5Nw=='; media-src 'self' https: data: https://mastodon.infra.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.infra.de; connect-src 'self' data: blob: https://mastodon.infra.de https://media.infra.de wss://mastodon.infra.de; script-src 'self' https://mastodon.infra.de 'unsafe-eval'; child-src 'self' blob: https://mastodon.infra.de; worker-src 'self' blob: https://mastodon.infra.de
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:29 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.272563Z
+X-Request-Id: 5630921b-7603-4a1f-9e9c-d1db5fef8bae
+X-Runtime: 0.015889
+X-Xss-Protection: 0
+Content-Length: 0
+

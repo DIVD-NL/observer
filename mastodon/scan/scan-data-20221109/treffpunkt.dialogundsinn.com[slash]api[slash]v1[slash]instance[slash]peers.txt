@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Orgin: *
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:21:11 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=c9c355774c301dd01b30ca1d9eb67cf1; path=/
+Vary: Accept-Encoding
+
+1f9
+{"mesosadminToken":null,"User":"Administrator","Language":"de","Servername":"s193.goserver.host","ShowHelp":null,"KeyCustomer":0,"RefKeyCustomer":0,"lang_text":"","is_admin":1,"is_support":0,"login_via_admin":0,"Prefix":"web","return_errors":1,"CountCustomers":"349","SubCustomers":"349","response":{},"messages":{"errors":{"arr_values":{"Endpoint Error":"No Endpoint: v1"}}},"BackToOverview":"1","Allow_EditHelp":"0","TwoFA_aktiv":null,"TwoFA_ForKeyCustomer":null,"Template":null,"Pagination_Count":null}
+0
+

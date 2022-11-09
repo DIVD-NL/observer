@@ -1,0 +1,126 @@
+HTTP/1.1 200 OK
+Connection: close
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:17:29 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.38 (Debian) mod_auth_kerb/5.4 OpenSSL/1.1.1n
+Set-Cookie: oc_sessionPassphrase=%2BAGdQhukFuRnOzU2YR8RA1ad1H2qIz%2FiS%2BMb4CRsiUfqmTewgRE96jhexybe7fVCgqh%2FmFByHXaF5YNfHPFR%2B%2BbrLtKBO%2B5avYZSqZ03cSUPVb%2Bgj%2FWV7Pbaebb7AyE5; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocidcoce2gkm=m9r4tnva1s7ui1nh3ged9to2sr; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="rsIDmFz7PYZMZuIQCeGIX5RA+SHRZ2v93RpZ0wcJ11M=:+rpJ1hK0d94dUYpFObXpFOx0sVSoNxqa8l41p19qox0=">
+		<meta charset="utf-8">
+		<title>
+		Ports Group AB		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#007B81">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#007B81">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=35c36e89-38">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-38">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=7d23ff90-38">
+<link rel="stylesheet" href="/core/css/guest.css?v=e7cceb11-38">
+		<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/core/js/dist/main.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/core/js/dist/files_fileinfo.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/core/js/dist/files_client.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/index.php/js/core/merged-template-prepend.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/encryption/js/encryption.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/files_sharing/js/dist/main.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/accessibility/js/accessibilityoca.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/files_videoplayer/js/main.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/apporder/js/apporder.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/files_rightclick/js/script.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/files_rightclick/js/files.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/apps/theming/js/theming.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=" defer src="/core/js/dist/login.js?v=e7cceb11-38"></script>
+<script nonce="cnNJRG1GejdQWVpNWnVJUUNlR0lYNVJBK1NIUloydjkzUnBaMHdjSjExTT06K3JwSjFoSzBkOTRkVVlwRk9iWHBGT3gwc1ZTb054cWE4bDQxcDE5cW94MD0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","admin_audit":"/apps/admin_audit","apporder":"/apps/apporder","bruteforcesettings":"/apps/bruteforcesettings","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","encryption":"/apps/encryption","federatedfilesharing":"/apps/federatedfilesharing","files":"/apps/files","files_external":"/apps/files_external","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trackdownloads":"/apps/files_trackdownloads","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","nextcloud_announcements":"/apps/nextcloud_announcements","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","recommendations":"/apps/recommendations","registration":"/apps/registration","serverinfo":"/apps/serverinfo","settings":"/apps/settings","support":"/apps/support","survey_client":"/apps/survey_client","systemtags":"/apps/systemtags","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","twofactor_gateway":"/apps/twofactor_gateway","twofactor_nextcloud_notification":"/apps/twofactor_nextcloud_notification","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668007049;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"22.2.10.2","versionstring":"22.2.10","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":7,"defaultExpireDateEnforced":false,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/22\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":true,"defaultInternalExpireDate":7,"defaultInternalExpireDateEnforced":false,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"Ports Group AB","name":"Ports Group AB","productName":"Nextcloud","title":"Ports Group AB","baseUrl":"https:\/\/portsgroup.com","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/22\/go.php?to=PLACEHOLDER","slogan":"","logoClaim":"","shortFooter":"<a href=\"https:\/\/portsgroup.com\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Ports Group AB<\/a><br\/><a href=\"https:\/\/portsgroup.com\/general-terms\/general-stipulations-legal-services.html\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Legal notice<\/a> \u00b7 <a href=\"https:\/\/portsgroup.com\/privacy-policy\/privacy-policy.pdf\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Privacy policy<\/a>","longFooter":"<a href=\"https:\/\/portsgroup.com\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Ports Group AB<\/a><br\/><a href=\"https:\/\/portsgroup.com\/general-terms\/general-stipulations-legal-services.html\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Legal notice<\/a> \u00b7 <a href=\"https:\/\/portsgroup.com\/privacy-policy\/privacy-policy.pdf\" class=\"legal\" target=\"_blank\" rel=\"noreferrer noopener\">Privacy policy<\/a>","folder":""};
+
+</script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Ports Group AB"/><meta property="og:description" content=""/><meta property="og:site_name" content="Ports Group AB"/><meta property="og:url" content="https://share.ports.net/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://share.ports.net/index.php/apps/theming/icon?v=38"/><style>:root { --color-primary-text: #ffffff; }</style><link rel="stylesheet" href="/index.php/apps/theming/styles?v=38"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjIuMi4xMC4yIiwidmVyc2lvbnN0cmluZyI6IjIyLjIuMTAiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6ZmFsc2UsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sImJydXRlZm9yY2UiOnsiZGVsYXkiOjB9LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9zaGFyZS5wb3J0cy5uZXRcL29jc1wvdjIucGhwXC9hcHBzXC9maWxlc1wvYXBpXC92MVwvZGlyZWN0RWRpdGluZyIsImV0YWciOiJjNzQ4ZThmYzU4OGI1NGZjNWFmMzhjNDQ4MWExOWQyMCJ9LCJjb21tZW50cyI6dHJ1ZSwidW5kZWxldGUiOnRydWUsInZlcnNpb25pbmciOnRydWV9LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyMi4zLjIiLCJzdGF0dXMiOnsiZ2xvYmFsU2NhbGUiOmZhbHNlfSwic2V0dGluZ3MiOnsiZnJvbnRlbmRFbmFibGVkIjp0cnVlLCJhbGxvd2VkQ2lyY2xlcyI6MjYyMTQzLCJhbGxvd2VkVXNlclR5cGVzIjozMSwibWVtYmVyc0xpbWl0IjotMX0sImNpcmNsZSI6eyJjb25zdGFudHMiOnsiZmxhZ3MiOnsiMSI6IlNpbmdsZSIsIjIiOiJQZXJzb25hbCIsIjQiOiJTeXN0ZW0iLCI4IjoiVmlzaWJsZSIsIjE2IjoiT3BlbiIsIjMyIjoiSW52aXRlIiwiNjQiOiJKb2luIFJlcXVlc3QiLCIxMjgiOiJGcmllbmRzIiwiMjU2IjoiUGFzc3dvcmQgUHJvdGVjdGVkIiwiNTEyIjoiTm8gT3duZXIiLCIxMDI0IjoiSGlkZGVuIiwiMjA0OCI6IkJhY2tlbmQiLCI0MDk2IjoiTG9jYWwiLCI4MTkyIjoiUm9vdCIsIjE2Mzg0IjoiQ2lyY2xlIEludml0ZSIsIjMyNzY4IjoiRmVkZXJhdGVkIiwiNjU1MzYiOiJNb3VudCBwb2ludCJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiTmV4dGNsb3VkIFVzZXIiLCIyIjoiTmV4dGNsb3VkIEdyb3VwIiwiNCI6IkVtYWlsIEFkZHJlc3MiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2lyY2xlIiwiMTAwMDAiOiJOZXh0Y2xvdWQgQXBwIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYmVyIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbiIsIjkiOiJPd25lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL3NoYXJlLnBvcnRzLm5ldFwvaW5kZXgucGhwXC9vY20iLCJyZXNvdXJjZVR5cGVzIjpbeyJuYW1lIjoiZmlsZSIsInNoYXJlVHlwZXMiOlsidXNlciIsImdyb3VwIl0sInByb3RvY29scyI6eyJ3ZWJkYXYiOiJcL3B1YmxpYy5waHBcL3dlYmRhdlwvIn19XX0sImRhdiI6eyJjaHVua2luZyI6IjEuMCJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVNwZWNpYWxDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVVwcGVyTG93ZXJDYXNlIjpmYWxzZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL3NoYXJlLnBvcnRzLm5ldFwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9zaGFyZS5wb3J0cy5uZXRcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjEyLjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0aW9uRW5hYmxlZCI6dHJ1ZX0sInJlZ2lzdHJhdGlvbiI6eyJlbmFibGVkIjp0cnVlLCJhcGlSb290IjoiXC9vY3NcL3YyLnBocFwvYXBwc1wvcmVnaXN0cmF0aW9uXC9hcGlcL3YxXC8iLCJhcGlMZXZlbCI6InYxIn0sInRoZW1pbmciOnsibmFtZSI6IlBvcnRzIEdyb3VwIEFCIiwidXJsIjoiaHR0cHM6XC9cL3BvcnRzZ3JvdXAuY29tIiwic2xvZ2FuIjoiIiwiY29sb3IiOiIjMDA3QjgxIiwiY29sb3ItdGV4dCI6IiNmZmZmZmYiLCJjb2xvci1lbGVtZW50IjoiIzAwN0I4MSIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiIzAwN0I4MSIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiMwMDdCODEiLCJsb2dvIjoiaHR0cHM6XC9cL3NoYXJlLnBvcnRzLm5ldFwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvbG9nbz91c2VTdmc9MSZ2PTM4IiwiYmFja2dyb3VuZCI6IiMwMDdCODEiLCJiYWNrZ3JvdW5kLXBsYWluIjp0cnVlLCJiYWNrZ3JvdW5kLWRlZmF1bHQiOnRydWUsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvc2hhcmUucG9ydHMubmV0XC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9MzgiLCJmYXZpY29uIjoiaHR0cHM6XC9cL3NoYXJlLnBvcnRzLm5ldFwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvbG9nbz91c2VTdmc9MSZ2PTM4In0sInVzZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWUsInN1cHBvcnRzX2Vtb2ppIjpmYWxzZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9LCJmaWxlc19zaGFyaW5nIjp7ImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImRheXMiOjcsImVuZm9yY2VkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjp0cnVlLCJkYXlzIjo3LCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9fX0=">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiUG9ydHMgR3JvdXAgQUIiLCJ1cmwiOiJodHRwczpcL1wvcG9ydHNncm91cC5jb20iLCJzbG9nYW4iOiIiLCJjb2xvciI6IiMwMDdCODEiLCJpbXByaW50VXJsIjoiaHR0cHM6XC9cL3BvcnRzZ3JvdXAuY29tXC9nZW5lcmFsLXRlcm1zXC9nZW5lcmFsLXN0aXB1bGF0aW9ucy1sZWdhbC1zZXJ2aWNlcy5odG1sIiwicHJpdmFjeVVybCI6Imh0dHBzOlwvXC9wb3J0c2dyb3VwLmNvbVwvcHJpdmFjeS1wb2xpY3lcL3ByaXZhY3ktcG9saWN5LnBkZiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIzOCJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Ports Group AB								</h1>
+																	<img src="/index.php/apps/theming/image/logo?useSvg=1&amp;v=38"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins" class="alternative-logins">
+                    <a class="button register-button" href="/index.php/apps/registration/" >
+                Register            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://portsgroup.com" target="_blank" rel="noreferrer noopener" class="entity-name">Ports Group AB</a><br/><a href="https://portsgroup.com/general-terms/general-stipulations-legal-services.html" class="legal" target="_blank" rel="noreferrer noopener">Legal notice</a> · <a href="https://portsgroup.com/privacy-policy/privacy-policy.pdf" class="legal" target="_blank" rel="noreferrer noopener">Privacy policy</a>			</p>
+		</footer>
+	</body>
+</html>

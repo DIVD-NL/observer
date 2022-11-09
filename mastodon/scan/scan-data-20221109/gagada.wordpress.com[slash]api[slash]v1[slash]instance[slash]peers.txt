@@ -1,0 +1,981 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=60
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:01:02 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Host-Header: WordPress.com
+Server: nginx
+Strict-Transport-Security: max-age=15552000
+Vary: Accept-Encoding
+Vary: Cookie
+X-Ac: 5.ams _dca BYPASS
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+
+11dad
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Seite nicht gefunden | GaGaDa</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://gagada.wordpress.com/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="IuKgvtqlDeM6l_HxodHteWM0XvnBKmAjljR9ydTfbfI" />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="GaGaDa &raquo; Feed" href="https://gagada.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GaGaDa &raquo; Kommentar-Feed" href="https://gagada.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1652185836h&ver=6.1-RC2-54694"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyNkltWAyEMhjckg2Nrqw8e18IlYmpgOASmsnuZ1taxta0vHHL5kp8EuY3CDCFDyNIXEak4DCy30QxesEeCemJ1hvlOzjBNg/sBh2SVZelo0IrOcmctMLxhwFxlfgcPLGPR0jcPwQjhDDxQrjRTQ3ItkkCO/bJbdvdSFyQ7KTEfglAnlarkXAmOhTAYKrb12bD0YFEBtbaTpJkRSVVIgsApU7um5jbeYnP7F3RZ/E5pKwY5qkmyqkPJwiW0J7L/XSKpjMHxDdwM39hD1z91vWD0kUAkGLuFtMj5mCEujK85pCHFjEbsN/fnk2eLnhbV/D6q82ldwbZoHeR9w/1dZPi8juz+qdYxAbNop8fiDyob9+pf+tVq9bxePi7Wmy+kuh6R?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;}body .is-layout-flow > .alignright{float: right;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;}body .is-layout-constrained > .alignright{float: right;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJyFjEEOwjAMBD9EsIogUg+It7SpCSlObNUOFb8nIA49wW1G2h1YxQUuhsXAbphRQeoIOZVE+MACak/CfVDdwWaaqxOqMRWFGU2GcP86yMJTDZa4QG5ELbimKaIpGIsT1kZ/oxHZEYfh09mKu9KQll/XBUfi2DBCW230fbrkc+dP/njoe9/NLxa0Xwg=?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&cssminify=yes' type='text/css' media='all' />
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"284261","siteURL":"http:\/\/gagada.wordpress.com","xhrURL":"https:\/\/gagada.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"06c0ec8d3f","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","i18n":{"followedText":"Neue Beitr\u00e4ge von dieser Website erscheinen nun in deinem <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Diese Leiste einklappen","unfoldBar":"Diese Leiste aufklappen"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/mobile-useragent-info.js,/wp-content/js/rlt-proxy.js,/wp-content/blog-plugins/wordads-classes/js/cmp-stub.js?m=1637704497j'></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gagada.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=32" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=114" />
+<link rel='openid.server' href='https://gagada.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://gagada.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://gagada.wordpress.com/osd.xml" title="GaGaDa" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+	<style type="text/css">
+					body {
+				background-color: #808080; background-image: url('https://gagada.files.wordpress.com/2012/02/gitter.png'); background-repeat: repeat; background-position: top center; background-attachment: scroll;			}
+				#site-generator {
+			border: 0;
+		}
+			}
+	</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="GaGaDa" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The Contentless Blog (formerly Didi Dodo Dada Block)" /><meta name="msapplication-task" content="name=Abonnieren;action-uri=https://gagada.wordpress.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=16" /><meta name="msapplication-task" content="name=Registriere dich für einen kostenlosen Blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com-Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com-Foren;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="The Contentless Blog (formerly Didi Dodo Dada Block)" />
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/de/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Meine persönlichen Informationen nicht verkaufen oder weitergeben';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"169","consentLanguage":"DE","locale":"de","vendorsAll":"BI9rv4__7a_t_z_f_T9ujzGr_v9e_dyGYcL5tn3gu5f635eC_-wnZou_VtXBUyPEl2pYJChto5k6gak2LVEiteY9jUmzlOZpRP4Mkk9jL2zrAwvt83NsfyBTPf_P7u7_Oyf_v_t_2_ue-_uu9-7vu_3-u5cbv_P_o_9_76P7fn5T_v_f3_F_n____-_73______v_wAA","vendorsLegInterest":"BI8Akw1biALsyxwZtAwigRAjCsJCqBQAQUAwtEBgA4OCnZWAT6wgQAIBQBGBECHAFGBAIAABIAkIgAkCLBAAACIBAACABEIhAAwMAgsALAwCAAEA0DFEKAAQJCDIgIilMCAqBIIDWyoQSgukNMIAqywAoJEbFQAIgkBFYAAgLBwDBEgJWLBAkxRvkAIwQoBRKhWohAAA","ajaxNonce":"7d7e22a8e7","modulePath":"https:\/\/s1.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/284261\/cmp\/vendors\/de\/","_":{"title":"Datenschutz & Cookies","intro":"Wir, WordPress.com, und unsere Werbepartner k\u00f6nnen Informationen auf deinem Ger\u00e4t speichern und\/oder abrufen. Au\u00dferdem verarbeiten wir personenbezogene Daten, wie etwa individuelle Kennungen, Browseraktivit\u00e4ten und weitere Standardinformationen einschlie\u00dflich deiner IP-Adresse, die von deinem Ger\u00e4t gesendet werden. Diese Informationen werden im Laufe der Zeit gesammelt und f\u00fcr personalisierte Anzeigen, Anzeigenmessung, Erkenntnisse \u00fcber Zielgruppen und Produktentwicklung f\u00fcr unser Werbeprogramm verwendet. Wenn das f\u00fcr dich in Ordnung ist, w\u00e4hle unten \u201eIch stimme zu\u201c aus. \u00dcber \u201eWeitere Informationen\u201c kannst du dir zus\u00e4tzliche Infos ansehen, deine Pr\u00e4ferenzen festlegen oder deine Zustimmung verweigern. Bitte beachte, dass deine Einstellungen f\u00fcr alle Websites im <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">WordPress.com-Netzwerk<\/a> gelten. Du kannst deine Einstellungen jederzeit \u00e4ndern, indem du auf den Datenschutzlink unter der jeweiligen Werbeanzeige klickst. Schlie\u00dflich m\u00f6chten wir dich darauf hinweisen, dass unsere Partner auf Grundlage eines berechtigten Interesses auch ohne deine Zustimmung bestimmte Daten verarbeiten k\u00f6nnen, du dieser Verarbeitung jedoch widersprechen kannst. Klicke dazu auf \u201eWeitere Informationen\u201c und deaktiviere \u201eBerechtigte Interessen\u201c unter dem jeweiligen Zweck oder Partner.","config":"Weitere Informationen","accept":"Ich stimme zu","viewPartners":"Partner anzeigen","error":"Leider ist ein unerwarteter Fehler aufgetreten. Bitte versuche es sp\u00e4ter noch einmal."}}</script>		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 5, 'ht': 0, 'tn': 'minileven', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': true, 'ad': { 'label': { 'text': 'Werbeanzeigen' }, 'reportAd': { 'text': 'Diese Anzeige melden' }, 'privacySettings': { 'text': 'Datenschutz', 'onClick': function() { window.__tcfapi && window.__tcfapi( 'showUi' ) } } }, 'siteid': 8982, 'blogid': 284261, 'js_hint': 'tcf2_test' };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script>	<script>
+		var sas_fallback = sas_fallback || [];
+		sas_fallback.push(
+			{ tag: "&lt;div id=&quot;atatags-26942-636bc0aed1885&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-636bc0aed1885\',location: 120,formFactor: \'001\',label: {text: \'Werbeanzeigen\',},creative: {reportAd: {text: \'Diese Anzeige melden\',},privacySettings: {text: \'Datenschutz\',onClick: function() { window.__tcfapi &amp;&amp; window.__tcfapi( \'showUi\' ); },}}});});&lt;/script&gt;", }
+		);
+	</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+
+<body class="error404 customizer-styles-applied mobile-theme">
+<div id="wrapper">
+			<div class="menu-search">
+			<nav id="access" class="site-navigation main-navigation" role="navigation">
+				<h3 class="menu-toggle">Menü</h3>
+
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="nav-menu"><ul>
+<li ><a href="https://gagada.wordpress.com/">Startseite</a></li><li class="page_item page-item-2"><a href="https://gagada.wordpress.com/about/">Impressung</a></li>
+<li class="page_item page-item-117"><a href="https://gagada.wordpress.com/manifesto/">Manifesto!</a></li>
+<li class="page_item page-item-26"><a href="https://gagada.wordpress.com/suchmahlschienen/">SuchMahlSchienen</a></li>
+</ul></div>
+			</nav><!-- #access -->
+			<div class="search-form">
+					<form method="get" id="searchform" action="https://gagada.wordpress.com/">
+		<label for="s" class="assistive-text">Suchen</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Suchen" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Suchen" />
+	</form>
+			</div><!-- .search-form-->
+		</div><!-- .menu-search-->
+
+	
+		<header id="branding" role="banner">
+							<div id="header-img">
+					<a href="https://gagada.wordpress.com/">
+						<img src="https://gagada.files.wordpress.com/2016/09/gagada-titel-neu.png" alt="" />
+					</a>
+				</div><!-- #header-img -->
+					</header><!-- #branding -->
+
+	
+	<div id="page" class="hfeed">
+		<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+				
+									<article id="post-0" class="post error404 not-found">
+						<header class="entry-header">
+							<h1 class="entry-title">Es konnte nichts gefunden werden.</h1>
+						</header><!-- .entry-header -->
+
+						<div class="entry-content">
+							<p>Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post.</p>
+								<form method="get" id="searchform" action="https://gagada.wordpress.com/">
+		<label for="s" class="assistive-text">Suchen</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Suchen" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Suchen" />
+	</form>
+						</div><!-- .entry-content -->
+					</article><!-- #post-0 -->
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-1" class="widget widget_text"><h3 class="widget-title">Was das isst?</h3>			<div class="textwidget">Rainer Fogelsank deutet dieh VrahGeh nach deim Woh ohNeh Weh durch das Da.</div>
+		</aside><aside id="calendar-2" class="widget widget_calendar"><h3 class="widget-title">Tagwaise</h3><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>November 2022</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Mittwoch">M</th>
+		<th scope="col" title="Donnerstag">D</th>
+		<th scope="col" title="Freitag">F</th>
+		<th scope="col" title="Samstag">S</th>
+		<th scope="col" title="Sonntag">S</th>
+		<th scope="col" title="Montag">M</th>
+		<th scope="col" title="Dienstag">D</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td><a href="https://gagada.wordpress.com/2022/11/01/" aria-label="Beiträge veröffentlicht am 1. November 2022">1</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://gagada.wordpress.com/2022/11/02/" aria-label="Beiträge veröffentlicht am 2. November 2022">2</a></td><td><a href="https://gagada.wordpress.com/2022/11/03/" aria-label="Beiträge veröffentlicht am 3. November 2022">3</a></td><td><a href="https://gagada.wordpress.com/2022/11/04/" aria-label="Beiträge veröffentlicht am 4. November 2022">4</a></td><td><a href="https://gagada.wordpress.com/2022/11/05/" aria-label="Beiträge veröffentlicht am 5. November 2022">5</a></td><td><a href="https://gagada.wordpress.com/2022/11/06/" aria-label="Beiträge veröffentlicht am 6. November 2022">6</a></td><td><a href="https://gagada.wordpress.com/2022/11/07/" aria-label="Beiträge veröffentlicht am 7. November 2022">7</a></td><td><a href="https://gagada.wordpress.com/2022/11/08/" aria-label="Beiträge veröffentlicht am 8. November 2022">8</a></td>
+	</tr>
+	<tr>
+		<td id="today">9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Vorherige und nächste Monate" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://gagada.wordpress.com/2022/10/">&laquo; Okt</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Mondnahtwaise</h3>
+			<ul>
+					<li><a href='https://gagada.wordpress.com/2022/11/'>November 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/10/'>Oktober 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/09/'>September 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/08/'>August 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/07/'>Juli 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/06/'>Juni 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/05/'>Mai 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/04/'>April 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/03/'>März 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/02/'>Februar 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2022/01/'>Januar 2022</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/12/'>Dezember 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/11/'>November 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/10/'>Oktober 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/09/'>September 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/08/'>August 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/07/'>Juli 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/06/'>Juni 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/05/'>Mai 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/04/'>April 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/03/'>März 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/02/'>Februar 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2021/01/'>Januar 2021</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/12/'>Dezember 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/11/'>November 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/10/'>Oktober 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/09/'>September 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/08/'>August 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/07/'>Juli 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/06/'>Juni 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/05/'>Mai 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/04/'>April 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/03/'>März 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/02/'>Februar 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2020/01/'>Januar 2020</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/12/'>Dezember 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/11/'>November 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/10/'>Oktober 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/09/'>September 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/08/'>August 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/07/'>Juli 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/06/'>Juni 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/05/'>Mai 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/04/'>April 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/03/'>März 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/02/'>Februar 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2019/01/'>Januar 2019</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/12/'>Dezember 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/11/'>November 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/10/'>Oktober 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/09/'>September 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/08/'>August 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/07/'>Juli 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/06/'>Juni 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/05/'>Mai 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/04/'>April 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/03/'>März 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/02/'>Februar 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2018/01/'>Januar 2018</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/12/'>Dezember 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/11/'>November 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/10/'>Oktober 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/09/'>September 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/08/'>August 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/07/'>Juli 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/06/'>Juni 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/05/'>Mai 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/03/'>März 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/02/'>Februar 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2017/01/'>Januar 2017</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/12/'>Dezember 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/10/'>Oktober 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/09/'>September 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/08/'>August 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/07/'>Juli 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/06/'>Juni 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/05/'>Mai 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/04/'>April 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/03/'>März 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/02/'>Februar 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2016/01/'>Januar 2016</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/12/'>Dezember 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/11/'>November 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/10/'>Oktober 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/09/'>September 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/08/'>August 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/07/'>Juli 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/06/'>Juni 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/05/'>Mai 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/04/'>April 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/03/'>März 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/02/'>Februar 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2015/01/'>Januar 2015</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/12/'>Dezember 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/11/'>November 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/10/'>Oktober 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/09/'>September 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/08/'>August 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/07/'>Juli 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/06/'>Juni 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/05/'>Mai 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/04/'>April 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/03/'>März 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/02/'>Februar 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2014/01/'>Januar 2014</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/12/'>Dezember 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/11/'>November 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/10/'>Oktober 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/09/'>September 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/08/'>August 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/07/'>Juli 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/06/'>Juni 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/05/'>Mai 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/04/'>April 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/03/'>März 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/02/'>Februar 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2013/01/'>Januar 2013</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/12/'>Dezember 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/11/'>November 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/10/'>Oktober 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/09/'>September 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/08/'>August 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/07/'>Juli 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/06/'>Juni 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/05/'>Mai 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/04/'>April 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/03/'>März 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/02/'>Februar 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2012/01/'>Januar 2012</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/12/'>Dezember 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/11/'>November 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/10/'>Oktober 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/09/'>September 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/08/'>August 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/07/'>Juli 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/06/'>Juni 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/05/'>Mai 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/04/'>April 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/03/'>März 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/02/'>Februar 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2011/01/'>Januar 2011</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/12/'>Dezember 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/11/'>November 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/10/'>Oktober 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/09/'>September 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/08/'>August 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/07/'>Juli 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/06/'>Juni 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/05/'>Mai 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/04/'>April 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/03/'>März 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/02/'>Februar 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2010/01/'>Januar 2010</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/12/'>Dezember 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/11/'>November 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/10/'>Oktober 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/09/'>September 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/08/'>August 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/07/'>Juli 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/06/'>Juni 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/05/'>Mai 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/04/'>April 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/03/'>März 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/02/'>Februar 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2009/01/'>Januar 2009</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/12/'>Dezember 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/11/'>November 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/10/'>Oktober 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/09/'>September 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/08/'>August 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/07/'>Juli 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/06/'>Juni 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/05/'>Mai 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/04/'>April 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/03/'>März 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/02/'>Februar 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2008/01/'>Januar 2008</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/12/'>Dezember 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/11/'>November 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/10/'>Oktober 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/09/'>September 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/08/'>August 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/07/'>Juli 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/06/'>Juni 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/05/'>Mai 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/04/'>April 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/03/'>März 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/02/'>Februar 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2007/01/'>Januar 2007</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/12/'>Dezember 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/11/'>November 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/10/'>Oktober 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/09/'>September 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/08/'>August 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/07/'>Juli 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/2006/06/'>Juni 2006</a></li>
+	<li><a href='https://gagada.wordpress.com/1984/03/'>März 1984</a></li>
+			</ul>
+
+			</aside><aside id="categories-1" class="widget widget_categories"><h3 class="widget-title">EinGehordnert</h3>
+			<ul>
+					<li class="cat-item cat-item-220059"><a href="https://gagada.wordpress.com/category/blognrolle/">Blog&#039;n&#039;Rolle</a>
+</li>
+	<li class="cat-item cat-item-220061"><a href="https://gagada.wordpress.com/category/dadablabla/">Dadablabla</a>
+</li>
+	<li class="cat-item cat-item-220067"><a href="https://gagada.wordpress.com/category/eigenton/">Eigenton</a>
+</li>
+	<li class="cat-item cat-item-230509"><a href="https://gagada.wordpress.com/category/gehlauscht/">gehLauscht</a>
+</li>
+	<li class="cat-item cat-item-1131713"><a href="https://gagada.wordpress.com/category/grossunartig/">gRossUnArtig!</a>
+</li>
+	<li class="cat-item cat-item-220062"><a href="https://gagada.wordpress.com/category/hirnensanger/">Hirnensänger</a>
+</li>
+	<li class="cat-item cat-item-220153"><a href="https://gagada.wordpress.com/category/kunstfahrtich/">KünstFährtIch</a>
+</li>
+	<li class="cat-item cat-item-230463"><a href="https://gagada.wordpress.com/category/pfundstykk/">PfundsTykk</a>
+</li>
+	<li class="cat-item cat-item-232626"><a href="https://gagada.wordpress.com/category/realdada/">RealDaDa</a>
+</li>
+	<li class="cat-item cat-item-223203"><a href="https://gagada.wordpress.com/category/sauselklang/">SäuselkLang</a>
+</li>
+	<li class="cat-item cat-item-220111"><a href="https://gagada.wordpress.com/category/tekkelkopp/">Tekkelkopp</a>
+</li>
+	<li class="cat-item cat-item-220155"><a href="https://gagada.wordpress.com/category/tollwucht/">Tollwucht</a>
+</li>
+	<li class="cat-item cat-item-2944112"><a href="https://gagada.wordpress.com/category/viehdeo/">ViehDeo</a>
+</li>
+	<li class="cat-item cat-item-220065"><a href="https://gagada.wordpress.com/category/werkzeile/">Werkzeile</a>
+</li>
+	<li class="cat-item cat-item-5989960"><a href="https://gagada.wordpress.com/category/ziehtiert/">ZiehTiert</a>
+</li>
+			</ul>
+
+			</aside><aside id="linkcat-220059" class="widget widget_links"><h3 class="widget-title">Blog'n'Rolle</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://dada.blogger.de/">Dada</a></li>
+<li><a href="http://fraktalwelten.wordpress.com/" rel="me" title="kommPuter mAchn bbilDehr ous zAhlen">Fraktale Welten</a></li>
+<li><a href="http://tamagothi.wordpress.com/" title="Das Blog das Nacktächters">Lumières dans la nuit</a></li>
+<li><a href="http://blog.frank-eckert.com/" rel="friend met" title="Frangk und freu in die triefe naht hiNain!">Nachtgedanken</a></li>
+<li><a href="http://rankenstein.sirn23.de/" rel="contact muse" title="Der der der stayne ranke ist">Rankenstein</a></li>
+<li><a href="http://sukkulentarium.sirn23.de/" title="Es pihkt im mond es pickd im auGeh">Sukkulentarium</a></li>
+<li><a href="http://spam.tamagothi.de/" rel="me" title="Aus. dehhm. intteer nett frIsch auf dehhm tiSchschsch.">Unser täglich Spam</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-1131713" class="widget widget_links"><h3 class="widget-title">gRossUnArtig!</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://neutsch.org/Startseite" title="Anlaufstelle für schwache Verben und hässliche Substantive aller Sprachen, denen der Weg aus dem Regelmaß erlirchten werden soll">Gesellschaft zur Stärkung der Verben</a></li>
+<li><a href="http://www.larrycarlson.com/medijate/">Medijate</a></li>
+<li><a href="http://pointlessdiagrams.com/">Pointless Diagrams</a></li>
+<li><a href="http://uncyclopedia.org/wiki/Main_Page">UNCYCLOPEDIA</a></li>
+
+	</ul>
+</aside>
+<aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">LätzTee Sennfe</h3>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="orinoco" class="recentcommentsavatartop" style="height:48px; width:48px;"><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow"><img alt='' src='https://0.gravatar.com/avatar/c70ebce4a25e072f071d5be62e304a0d?s=48&#038;d=wavatar&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstexttop" style=""><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow">orinoco</a> bei <a href="https://gagada.wordpress.com/2022/11/07/einwurfschlitz/#comment-11110">Einwurfschlitz</a></td></tr><tr><td title="Kurz verlinkt | Schwerdtfegr (beta)" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://schwerdtfegr.wordpress.com/2022/11/07/kurz-verlinkt-408/" rel="nofollow"><img alt='' src='https://secure.gravatar.com/blavatar/f017bc161d60856d76effaa16937c045?s=48' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="https://schwerdtfegr.wordpress.com/2022/11/07/kurz-verlinkt-408/" rel="nofollow">Kurz verlinkt | Schw&hellip;</a> bei <a href="https://gagada.wordpress.com/2021/05/24/hier-kommt-coronakill/#comment-11109">Hier kommt Coronakill</a></td></tr><tr><td title="orinoco" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow"><img alt='' src='https://0.gravatar.com/avatar/c70ebce4a25e072f071d5be62e304a0d?s=48&#038;d=wavatar&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow">orinoco</a> bei <a href="https://gagada.wordpress.com/2022/11/05/gute-unterhaltung/#comment-11107">Gute Unterhaltung</a></td></tr><tr><td title="orinoco" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow"><img alt='' src='https://0.gravatar.com/avatar/c70ebce4a25e072f071d5be62e304a0d?s=48&#038;d=wavatar&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow">orinoco</a> bei <a href="https://gagada.wordpress.com/2022/11/04/entsorgung/#comment-11104">Entsorgung</a></td></tr><tr><td title="orinoco" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow"><img alt='' src='https://0.gravatar.com/avatar/c70ebce4a25e072f071d5be62e304a0d?s=48&#038;d=wavatar&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a></td><td class="recentcommentstextend" style=""><a href="https://orinoco.abades.dynu.net/comments.html" rel="nofollow">orinoco</a> bei <a href="https://gagada.wordpress.com/2022/11/03/nehmen-sie-platz-2/#comment-11102">Nehmen sie Platz!</a></td></tr>				</table>
+				</aside><aside id="top-posts-2" class="widget widget_top-posts"><h3 class="widget-title">FielGehlÄsen</h3><ul><li><a href="https://gagada.wordpress.com/2021/05/24/hier-kommt-coronakill/" class="bump-view" data-bump-view="tp">Hier kommt Coronakill</a></li><li><a href="https://gagada.wordpress.com/2006/09/24/zen-p0rrrno/" class="bump-view" data-bump-view="tp">zen p0RrrNo</a></li><li><a href="https://gagada.wordpress.com/2013/04/22/organ-im-mund/" class="bump-view" data-bump-view="tp">Organ im Mund</a></li><li><a href="https://gagada.wordpress.com/2014/12/19/einfach-alle-anderen-rausschmeisen/" class="bump-view" data-bump-view="tp">Einfach alle anderen rausschmeißen</a></li><li><a href="https://gagada.wordpress.com/2018/04/20/so-kackt-man-bei-der-bundeswehr/" class="bump-view" data-bump-view="tp">So kackt man bei der Bundeswehr</a></li><li><a href="https://gagada.wordpress.com/2022/08/04/kraftkacken-im-energiewald/" class="bump-view" data-bump-view="tp">Kraftkacken im Energiewald</a></li><li><a href="https://gagada.wordpress.com/2022/08/05/valid-for-all-of-human-history/" class="bump-view" data-bump-view="tp">Valid for all of human history</a></li><li><a href="https://gagada.wordpress.com/2022/11/04/entsorgung/" class="bump-view" data-bump-view="tp">Entsorgung</a></li><li><a href="https://gagada.wordpress.com/2016/06/21/keine-ueberstunden/" class="bump-view" data-bump-view="tp">Keine Überstunden!</a></li><li><a href="https://gagada.wordpress.com/2022/10/27/katzkunst/" class="bump-view" data-bump-view="tp">Katzkunst</a></li></ul></aside><aside id="blog-stats-2" class="widget widget_blog-stats"><h3 class="widget-title">Blog Stats</h3>		<ul>
+			<li>223.049 hits</li>
+		</ul>
+		</aside>			<div id="atatags-286348-636bc0aedb1fc"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-286348-636bc0aedb1fc',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Werbeanzeigen',
+						},
+						creative: {
+							reportAd: {
+								text: 'Diese Anzeige melden',
+							},
+							privacySettings: {
+								text: 'Datenschutz',
+								onClick: function() { window.__tcfapi && window.__tcfapi( 'showUi' ); },
+							}
+						}
+					});
+				});
+			</script>		</div><!-- #secondary .widget-area -->
+	
+	</div><!-- #main -->
+</div><!-- #page -->
+
+</div><!-- #wrapper -->
+
+<footer id="colophon" role="contentinfo">
+	<div id="site-generator">
+		<p><a href="https://gagada.wordpress.com/api/v1/instance/peers?ak_action=reject_mobile">Ganze Seite ansehen</a></p>
+		<p><a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Erstelle kostenlos eine Website oder ein Blog auf WordPress.com.</a></p>
+					</div>
+</footer><!-- #colophon -->
+
+<!--  -->
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+				<script type="text/javascript">
+		( function() {
+			function init() {
+				document.body.addEventListener( 'is.post-load', function() {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+		</script>	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-minileven actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Abonnieren</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Abonniert</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://gagada.wordpress.com">
+				<img alt='' src='https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' />				GaGaDa			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Schließe dich 215 Followern an</div>
+																					<div>
+										<input type="email" name="email" placeholder="Gib deine E-Mail-Adresse ein" class="actnbr-email-field" aria-label="Gib deine E-Mail-Adresse ein" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="284261" />
+										<input type="hidden" name="source" value="https://gagada.wordpress.com/api/v1/instance/peers" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="79f1d986a7" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Anmelden">
+												Anmelden											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Du hast bereits ein WordPress.com-Konto? <a href="https://wordpress.com/log-in?signup_flow=account">Melde dich jetzt an.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://gagada.wordpress.com">
+				<img alt='' src='https://secure.gravatar.com/blavatar/e6f82c521006703521d8f511b27d89a0?s=50&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' />				GaGaDa			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://gagada.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fgagada.wordpress.com%2Fapi%2Fv1%2Finstance%2Fpeers">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Anpassen</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Abonnieren</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Abonniert</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Registrieren</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?signup_flow=account">Anmelden</a></li>
+																	<li class="flb-report"><a href="http://en.wordpress.com/abuse/">Melde diesen Inhalt</a></li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/feeds/358292">
+											Website im Reader anzeigen										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Abonnements verwalten</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Diese Leiste einklappen</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJxdzdEKwjAMBdAfsgsyFfYgfkvahtmZZKVpNz/f+iKyt8C95wb27MKqlbTCYhBpS4Hye1jsBH9RfZKQQW4eJGli2ki/fRNkdkLajsLzOrvMbU5qsK8lYjQXGM36TpdB8uCbRqajlPZzGPs357GAoFUq/XK1YHhZRw+5n2/XaRyn6TIuH8G5Sdw='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767785fe0e79b9ba-BRU
+Date: Wed, 09 Nov 2022 15:18:52 GMT
+Location: https://faf.social/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ys%2F%2BlKkwuJ62WoH0mJdU0KBeO3RMJ%2FaTw9vHUpSwHp2lcm7BDj8Nc6NKI7mZ6WngyA7KWh3ljo4afC1riVBN%2BruU170w2g9ATQBc2gmhW5GNLHZxR6FBDK0cxhkOU3Nf0QhCGvxRPA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Length: 0
+

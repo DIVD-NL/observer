@@ -1,0 +1,115 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self' stun.nextcloud.com:443;media-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:25 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: strict-origin
+Server: nginx
+Set-Cookie: ocgk8btiov44=7qjedg6h4141pra8bq0be2rt3t; path=/; secure; HttpOnly
+Set-Cookie: oc_sessionPassphrase=dgyJbGwrFvGqqirWzYS3a8rXBpnoO7AmNkgKaY3TVeG714JSS7zkJTX3rMYczaemXjR61IS0i6X0AnuX2xiQvYennqYCgFDLmCmMIryMMA5efw7tk4o08idv8%2BLsWCwE; path=/; secure; HttpOnly
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15552000; includeSubDomains;
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+2ec4
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="mVj41tKVOMlqIVI5QyCBAXKhCtsVcTfyXP86xxAb4wQ=:yxqCv7PffJkCFwN9aHPAWwvzSKxGPUKnBKwVlSdqqnw=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=6a154fe0">
+<link rel="stylesheet" href="/core/css/guest.css?v=a8645b18">
+		<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/js/dist/main.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/js/core/merged-template-prepend.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/search/js/search.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/apps/files_sharing/js/dist/main.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/apps/epubreader/js/plugin.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/apps/files_videoplayer/js/main.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/search/js/searchprovider.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/js/files/fileinfo.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/js/files/client.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=" defer src="/core/js/dist/login.js?v=a8645b18"></script>
+<script nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","admin_audit":"/apps/admin_audit","audioplayer":"/apps/audioplayer","audioplayer_editor":"/apps/audioplayer_editor","bookmarks":"/apps/bookmarks","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","camerarawpreviews":"/apps/camerarawpreviews","checksum":"/apps/checksum","circles":"/apps/circles","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","dav":"/apps/dav","epubreader":"/apps/epubreader","event_update_notification":"/apps/event_update_notification","external":"/apps/external","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_external":"/apps/files_external","files_fulltextsearch":"/apps/files_fulltextsearch","files_fulltextsearch_tesseract":"/apps/files_fulltextsearch_tesseract","files_pdfviewer":"/apps/files_pdfviewer","files_readmemd":"/apps/files_readmemd","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","fulltextsearch":"/apps/fulltextsearch","groupfolders":"/apps/groupfolders","guests":"/apps/guests","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","news":"/apps/news","notifications":"/apps/notifications","oauth2":"/apps/oauth2","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","social":"/apps/social","socialsharing_diaspora":"/apps/socialsharing_diaspora","socialsharing_email":"/apps/socialsharing_email","socialsharing_facebook":"/apps/socialsharing_facebook","socialsharing_twitter":"/apps/socialsharing_twitter","spreed":"/apps/spreed","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","twofactor_backupcodes":"/apps/twofactor_backupcodes","viewer":"/apps/viewer","whiteboard":"/apps/whiteboard","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005845;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"version":"18.0.5.1","versionstring":"18.0.5","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":true,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":7,"defaultExpireDateEnforced":false,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/18\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10},"shareByMailEnabled":true,"shareByMail":{"enforcePasswordProtection":false},"filesReader":{"enableEpub":"true","enablePdf":"true","enableCbx":"true"}};
+var _theme={"entity":"Nextcloud","name":"Nextcloud","title":"Nextcloud","baseUrl":"https:\/\/nextcloud.com","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/18\/go.php?to=PLACEHOLDER","slogan":"a safe home for all your data","logoClaim":"","shortFooter":"<a href=\"https:\/\/nextcloud.com\" target=\"_blank\" rel=\"noreferrer noopener\">Nextcloud<\/a> \u2013 a safe home for all your data","longFooter":"<a href=\"https:\/\/nextcloud.com\" target=\"_blank\" rel=\"noreferrer noopener\">Nextcloud<\/a> \u2013 a safe home for all your data","folder":""};
+var _oc_capabilities={"core":{"pollinterval":60,"webdav-root":"remote.php\/webdav"},"bruteforce":{"delay":0},"files":{"bigfilechunking":true,"blacklisted_files":[".htaccess"],"directEditing":{"url":"https:\/\/cloud.crossflowdesigns.com\/ocs\/v2.php\/apps\/files\/api\/v1\/directEditing","etag":"6226ba873373f5e73a3ef504107523f7"},"versioning":true,"undelete":true},"activity":{"apiv2":["filters","filters-api","previews","rich-strings"]},"ocm":{"enabled":true,"apiVersion":"1.0-proposal1","endPoint":"https:\/\/cloud.crossflowdesigns.com\/ocm","resourceTypes":[{"name":"file","shareTypes":["user","group"],"protocols":{"webdav":"\/public.php\/webdav\/"}}]},"dav":{"chunking":"1.0"},"files_sharing":{"api_enabled":true,"public":{"enabled":true,"password":{"enforced":false,"askForOptionalPassword":false},"expire_date":{"enabled":true,"days":"7","enforced":false},"multiple_links":true,"expire_date_internal":{"enabled":false},"send_mail":true,"upload":true,"upload_files_drop":true},"resharing":true,"user":{"send_mail":false,"expire_date":{"enabled":true}},"group_sharing":true,"group":{"enabled":true,"expire_date":{"enabled":true}},"default_permissions":31,"federation":{"outgoing":true,"incoming":true,"expire_date":{"enabled":true}},"sharee":{"query_lookup_default":false},"sharebymail":{"enabled":true,"upload_files_drop":{"enabled":true},"password":{"enabled":true},"expire_date":{"enabled":true}}},"notifications":{"ocs-endpoints":["list","get","delete","delete-all","icons","rich-strings","action-web"],"push":["devices","object-data","delete"],"admin-notifications":["ocs","cli"]},"external":{"v1":["sites","device","groups","redirect"]},"fulltextsearch":{"remote":true,"providers":[]},"spreed":{"features":["audio","video","chat-v2","guest-signaling","empty-group-room","guest-display-names","multi-room-users","favorites","last-room-activity","no-ping","system-messages","mention-flag","in-call-flags","notification-levels","invite-groups-and-mails","locked-one-to-one-rooms","read-only-rooms","chat-read-marker","webinary-lobby","start-call-flag","chat-replies","circles-support"],"config":{"chat":{"max-length":32000}}}};
+
+</script>
+		<script defer src="/apps/accessibility/js/accessibility?v=0" nonce="bVZqNDF0S1ZPTWxxSVZJNVF5Q0JBWEtoQ3RzVmNUZnlYUDg2eHhBYjR3UT06eXhxQ3Y3UGZmSmtDRndOOWFIUEFXd3Z6U0t4R1BVS25CS3dWbFNkcXFudz0="></script><meta property="og:title" content="Nextcloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://cloud.crossflowdesigns.com/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.crossflowdesigns.com/core/img/favicon-touch.png"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>
+
+0
+

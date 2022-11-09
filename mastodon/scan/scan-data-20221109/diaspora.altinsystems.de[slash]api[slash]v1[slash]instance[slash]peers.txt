@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; connect-src 'self' https://gestis-api.dguv.de https://api.cabr2.de; img-src 'self' data: https://api.cabr2.de;
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:38 GMT
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+a2
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+0
+

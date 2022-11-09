@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:20:06 GMT
+Location: http://ww1.getloci.com/?sub1=fdfbaa84-6041-11ed-b80e-3a543c89aed7
+Server: Cowboy
+Set-Cookie: sid=fdfbaa84-6041-11ed-b80e-3a543c89aed7; path=/; domain=.getloci.com; expires=Mon, 27 Nov 2090 18:34:14 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

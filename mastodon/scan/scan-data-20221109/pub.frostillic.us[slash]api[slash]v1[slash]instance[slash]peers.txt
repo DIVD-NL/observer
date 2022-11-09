@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://pub.frostillic.us; img-src 'self' https: data: blob: https://pub.frostillic.us; style-src 'self' https://pub.frostillic.us 'nonce-MmtOczubZeyttb+/Yo7Z3Q=='; media-src 'self' https: data: https://pub.frostillic.us; frame-src 'self' https:; manifest-src 'self' https://pub.frostillic.us; connect-src 'self' data: blob: https://pub.frostillic.us https://pub.frostillic.us wss://pub.frostillic.us; script-src 'self' https://pub.frostillic.us; child-src 'self' blob: https://pub.frostillic.us; worker-src 'self' blob: https://pub.frostillic.us
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:43 GMT
+Etag: W/"ec7b34c6d2cc2e2e024846b14352940f"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.706349Z
+X-Request-Id: ff5d5f72-e5af-41ee-bd7f-bc1df987c64b
+X-Runtime: 0.012236
+X-Xss-Protection: 0
+
+643
+["honk.farm","oliphant.social","micro.blog","manton.org","twit.social","art0.us","dice.camp","mk.toast.cafe","snowdin.town","awscommunity.social","journa.host","netmonkey.xyz","indieweb.social","mastodon.lol","wien.rocks","mastodon.thebeeches.house","layer8.space","tenforward.social","andr3.net","mastodon.gamedev.place","toot.community","mastodon.world","mastodon.me.uk","cryptotooter.com","jorts.horse","fediscience.org","dragon.style","merveilles.town","todon.nl","hespere.de","mastodon.online","noc.social","mastodon.sdf.org","mxtthxw.art","pixelfed.social","corteximplant.com","socel.net","social.lol","outerheaven.club","masthead.social","byte23.net","ioc.exchange","aus.social","photog.social","mastodon.cc","qoto.org","nozzi.social","retro.social","mastodon.scot","toot.cafe","linuxrocks.online","mastodon.green","yiff.life","norden.social","equestria.social","swiss.social","mstdn.io","chitter.xyz","plush.city","slime.global","octodon.social","redliberal.com","infosec.exchange","socialclub.nyc","mstdn.social","toot.theresnotime.io","mastodon.fredspieler.com","freeradical.zone","woof.group","aleph.land","oldbytes.space","toot.fedilab.app","writing.exchange","fosstodon.org","restless.systems","bitbang.social","researchbuzz.masto.host","androiddev.social","swiss-talk.net","social.bund.de","social.tchncs.de","front-end.social","absolutelyhar.am","livellosegreto.it","mastodon.nz","mspsocial.net","tech.lgbt","mastodon.cloud","kitzmiller.social","toot.wales","troet.cafe","mas.to","mastodon.art","wandering.shop","xoxo.zone","hachyderm.io","mastodon.social","mastodon.beer","chaos.social"]
+0
+

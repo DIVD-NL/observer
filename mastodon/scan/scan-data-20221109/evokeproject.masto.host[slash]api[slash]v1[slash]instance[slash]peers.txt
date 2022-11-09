@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://evokeproject.masto.host; img-src 'self' https: data: blob: https://evokeproject.masto.host; style-src 'self' https://evokeproject.masto.host 'nonce-Nr+o2l12KIcPPL/jGtkehg=='; media-src 'self' https: data: https://evokeproject.masto.host; frame-src 'self' https:; manifest-src 'self' https://evokeproject.masto.host; connect-src 'self' data: blob: https://evokeproject.masto.host https://cdn.masto.host wss://evokeproject.masto.host; script-src 'self' https://evokeproject.masto.host; child-src 'self' blob: https://evokeproject.masto.host; worker-src 'self' blob: https://evokeproject.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Etag: W/"01f1fde92c02a65e2cda5193db36bce6"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.219036Z
+X-Request-Id: 650e6285-93cf-49c8-a78c-976f8e290081
+X-Runtime: 0.006454
+X-Xss-Protection: 0
+
+73
+["mstdn.social","scicomm.xyz","mstdn.science","ecoevo.social","mastodon.xyz","qoto.org","mas.to","mastodon.social"]
+0
+

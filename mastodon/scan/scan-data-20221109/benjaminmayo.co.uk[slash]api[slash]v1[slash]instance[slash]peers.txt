@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 7677662548a1b9b1-BRU
+Date: Wed, 09 Nov 2022 14:57:07 GMT
+Expires: Wed, 09 Nov 2022 15:57:07 GMT
+Location: https://bzamayo.com/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=G2YUSSB%2F%2BWSJWrC%2BbuQja8lXdFGTdsKX%2BIgFZ2MsWu8vH%2BOKTs1%2FxU0dqHjkOlzyDlGiOtPJ2rft4pRcWM%2BsGgUVYH39HE5XZ4KyWQsBSf5Le%2BpGu4sl7bukkSTifvne74ePhls%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+
+0
+

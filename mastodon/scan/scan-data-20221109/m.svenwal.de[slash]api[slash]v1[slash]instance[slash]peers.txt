@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.svenwal.de; img-src 'self' https: data: blob: https://m.svenwal.de; style-src 'self' https://m.svenwal.de 'nonce-uSwy3MWksfremN30rEWdLw=='; media-src 'self' https: data: https://m.svenwal.de; frame-src 'self' https:; manifest-src 'self' https://m.svenwal.de; connect-src 'self' data: blob: https://m.svenwal.de https://files.example.com wss://m.svenwal.de; script-src 'self' https://m.svenwal.de; child-src 'self' blob: https://m.svenwal.de; worker-src 'self' blob: https://m.svenwal.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:23 GMT
+Etag: W/"561194b7157c8f766d8a16d4e136a9c1"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.689262Z
+X-Request-Id: c01eb0a3-05a2-4dee-b8c6-5a028e1c425f
+X-Runtime: 0.018586
+X-Xss-Protection: 0
+
+fc6
+["relay.libranet.de","sueden.social","datflow.tech","squanch.xyz","cathode.church","queer.party","photog.social","edi.social","wirnity.de","movsw.0x0.st","fedi.technodro.me","friendica-test.rompe.org","t2.thotsofa304.club","expression.social","schmaker.eu","augsburg.social","hermit.cafe","woblfedi.de","mordor.social","social.main-angler.de","meld.de","whitelion.me","social.dorf-post.de","maescool.be","mastodon.corecoding.dev","techspace.social","qoto.org","chrispelli.fun","friendica.heikosblog.eu","mastodon.eric.ovh","boritsch.de","space.rick.gr","horche.demkontinuum.de","social.xenofem.me","social.wildeboer.net","raccoon.place","social.cool110.xyz","pericles.uber.space","friendica.opensocial.space","mistli.net","f.praschnig.com","updog.no","mathstodon.xyz","pouque.net","s.mikka.md","social.techn1k.de","social.azkware.net","shitposting.army","pleroma.salastil.com","hostux.social","bnkr.cc","gazouiller.fr","mastodon.humanistische-union.de","toot.nx-pod.de","eeeeeeeee.eu","stereophonic.space","respublicae.eu","social.dev-wiki.de","nangang.travnewmatic.com","toot.site","kirche.social","hyperpla.net","chat.noelle.codes","mastodon.oi7.de","ieji.de","monocles.social","mastodon.someotherguy.xyz","amical.info","social-wahn.de","friendica.jb-net.us","berserker.town","social.yl.ms","social.tchncs.de","storo.social","peoplemaking.games","dragonscave.space","machteburch.social","mastodon.rzgierskopp.de","bae.st","m.gtk.pw","linksgruenversifft.social","friendica.xyz","mastouille.fr","mistodon.cloud","scl.clttr.info","wien.rocks","loma.ml","f.haeder.net","gleasonator.com","comm.social","lgbt.io","mstdn.starnix.network","embassy.social","g1zm0.social","pleroma.1d4.us","todon.nl","fediverse-lite.com","fedisabled.social","octodon.social","mastodon.digitalsuccess.dev","blessedgeeks.com","nonexiste.net","ersei.net","social.linux.pizza","liberdon.com","toot.berlin","misskey.bubbletea.dev","mstdn.io","social.undisruptable.technology","gensokyo.town","tines.spork.org","bunt.social","social.bau-ha.us","bitcoinhackers.org","toot.mantyke.icu","mastodon.macsnet.cz","mastodon.nz","brotka.st","social.bund.de","bergstrasse.social","weirder.earth","rollenspiel.social","infosec.exchange","toot.inkwell.space","climatejustice.social","mk.mistli.net","dizl.de","the.goofs.space","mastodon.sandwich.net","die-partei.social","merveilles.town","mk.chocoflan.net","writing.exchange","shitposter.club","mamot.fr","elb.cloud","hemmer.land","freecumextremist.com","friendica.ironbug.org","plma.plus.st","mastodon.la","am.pirateradio.social","mindly.social","toot.cafe","bonn.social","dresden.network","botsin.space","mastodon.online","weeb.su","hessen.social","livellosegreto.it","friends.deko.cloud","retrotroet.com","social.zwoelfdreifuenfundvierzig.net","masto.donte.com.br","hejfolks.social","ruhr.social","hackers.town","dice.camp","social.tcit.fr","eupublic.social","floss.social","social.audiovalentine.com","pl.nulled.red","arktos.social","mastodon.sdf.org","nicecrew.digital","libranet.de","fosstodon.org","pleroma.foxfam.club","kinky.business","novoa.nagoya","mastodon.uy","soc.schuerz.at","mas.to","pixelfed.social","mastodon.art","wandering.shop","mastodon.exitmusic.world","tooot.im","literatur.social","shrine.moe","mastodon.green","nymwars.org","fedi.intkos.link","muenchen.social","squeet.me","m.geraffel.net","c.im","masochi.st","friendica.myportal.social","mk.vulpes.one","mastodon.ir0k.de","cafe.moien.net","gruene.social","a.gup.pe","oldbytes.space","rdh27785.net","bildung.social","venera.social","norden.social","brvt.telent.net","digitalcourage.social","fulda.social","troet.cafe","tech.lgbt","xoxo.zone","101010.pl","md.kakise.tech","todon.eu","pirati.ca","medibubble.org","mastodontech.de","det.social","nrw.social","freiburg.social","social.anoxinon.de","expired.mentality.rip","birdsite.wilde.cloud","mstdn.social","chaos.social","mastodon.lol","letsalllovela.in","misskey.de","mk.absturztau.be","metalhead.club","eldritch.cafe","anonsys.net","nerdculture.de","mastodon.social","social.cologne","fedi.nullob.si"]
+0
+

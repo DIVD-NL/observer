@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:14 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9
+X-Powered-By: PHP/5.4.16
+
+78a
+<html>
+	<head>
+		<script>
+			var forwardingUrl = "/page/bouncy.php?&bpae=GbhOd60molx7j3N1PCv5MXmj0CGgelGyucw11ZEGMxPM0xRo%2F7wPQy21dnz1HaeXEE3oOIOpCvaoIz3RPJP%2B%2FGjJ7kjz%2FmiK6qWxolrcvX%2FvgVZJtJmm%2B6HR%2Fc4DJQkVAoe%2Fd%2BzY8ckYN63fDo3T2F5aQqsc3g8oxmhV2aoxBvPlo4ht%2Bqhk6JXAgb8H%2FCbq7aD41ieaqEFuD0oPzueMcdDxghpSa4IYOBv7iH9E5z58BwC2HPMcnSaIuSOFqxSYpHLE8A6AMZuFyw9xiDm%2Bflg89JHTJS3OoHimmHHEeIbqtO6YwZkolsVLFuhj9ZdHNhKfqa4R5jL1hQHV3Ww329H5XcsJ6klak0L0Df7ykrqjPwZ31juHKFFwXMEaRAkTvo9oJeKla3O1vg%3D%3D&redirectType=js";
+			var destinationUrl = "/page/bouncy.php?&bpae=GbhOd60molx7j3N1PCv5MXmj0CGgelGyucw11ZEGMxPM0xRo%2F7wPQy21dnz1HaeXEE3oOIOpCvaoIz3RPJP%2B%2FGjJ7kjz%2FmiK6qWxolrcvX%2FvgVZJtJmm%2B6HR%2Fc4DJQkVAoe%2Fd%2BzY8ckYN63fDo3T2F5aQqsc3g8oxmhV2aoxBvPlo4ht%2Bqhk6JXAgb8H%2FCbq7aD41ieaqEFuD0oPzueMcdDxghpSa4IYOBv7iH9E5z58BwC2HPMcnSaIuSOFqxSYpHLE8A6AMZuFyw9xiDm%2Bflg89JHTJS3OoHimmHHEeIbqtO6YwZkolsVLFuhj9ZdHNhKfqa4R5jL1hQHV3Ww329H5XcsJ6klak0L0Df7ykrqjPwZ31juHKFFwXMEaRAkTvo9oJeKla3O1vg%3D%3D&redirectType=meta";
+			var addDetection = true;
+			if (addDetection) {
+				var inIframe = window.self !== window.top;
+				forwardingUrl += "&inIframe=" + inIframe;
+				var inPopUp = (window.opener !== undefined && window.opener !== null && window.opener !== window);
+				forwardingUrl += "&inPopUp=" + inPopUp;
+			}
+			window.location.replace(forwardingUrl);
+		</script>
+		<noscript>
+			<meta http-equiv="refresh" content="1;url=/page/bouncy.php?&bpae=GbhOd60molx7j3N1PCv5MXmj0CGgelGyucw11ZEGMxPM0xRo%2F7wPQy21dnz1HaeXEE3oOIOpCvaoIz3RPJP%2B%2FGjJ7kjz%2FmiK6qWxolrcvX%2FvgVZJtJmm%2B6HR%2Fc4DJQkVAoe%2Fd%2BzY8ckYN63fDo3T2F5aQqsc3g8oxmhV2aoxBvPlo4ht%2Bqhk6JXAgb8H%2FCbq7aD41ieaqEFuD0oPzueMcdDxghpSa4IYOBv7iH9E5z58BwC2HPMcnSaIuSOFqxSYpHLE8A6AMZuFyw9xiDm%2Bflg89JHTJS3OoHimmHHEeIbqtO6YwZkolsVLFuhj9ZdHNhKfqa4R5jL1hQHV3Ww329H5XcsJ6klak0L0Df7ykrqjPwZ31juHKFFwXMEaRAkTvo9oJeKla3O1vg%3D%3D&redirectType=meta" />
+		</noscript>
+	</head>
+</html>
+0
+

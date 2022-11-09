@@ -1,0 +1,164 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777a375bc4d488-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:50 GMT
+Last-Modified: Thu, 05 May 2022 16:03:31 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2NOvQ2MODiHfccz8gnUWzppJ2sBa68eRd4iSMGtwdDDA%2FBTF94FuaHrb0v75cWdS2SsXQemW%2FP96CtA4CN3i2V2Uh2hkNVUslorXos4uzcS5XP%2BFPinJpI0IZlpSPXTnYezczhM1bFpyqhnbuOc%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+17de
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quick Start</title>
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/graphite.css">
+<link rel="stylesheet" href="assets/pygments.css">
+</head>
+<body class="node homepage">
+<header class="masthead">
+<h1><a href="index.html">Moew Relay</a></h1>
+<p class="tagline">A scientific Mastodon relay</p>
+<nav class="menu">
+<input id="menu-check" type="checkbox" />
+<label id="menu-label" for="menu-check" class="unselectable">
+<span class="icon close-icon">✕</span>
+<span class="icon open-icon">☰</span>
+<span class="text">Menu</span>
+</label>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="members.html">Members</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="faq.html">FAQ</a></li>
+</ul>
+</nav>
+</header>
+<article class="main">
+<header class="title">
+<h1>立即使用</h1>
+<p class="subtitle">用中继代替关注 Bot.</p>
+<hr>
+</header>
+<h1 id="id">
+这是什么
+</h1>
+<p>
+Mastodon 中继是 ActivityPub 网络中的转发结点，订阅某一中继的所有实例可以互相同步自己实例的公共时间轴，进而在“跨站时间轴”中看到来自其他实例用户的公开消息，所有消息经过中继自动转发广播，而不需要使用 Follow bot 等手段来人为增加跨站交互。对于用户数较少或与外部实例交互不多的小型实例尤其实用，新建实例也可以通过订阅中继简单快速地丰富自己的跨站时间轴内容，一定程度上避免初期用户少的情况下站点过于冷清。
+</p>
+<p>
+关于 Mastodon 中继功能的详细信息可以参看 <a href="https://github.com/tootsuite/mastodon/pull/7998">Github issue</a> 和 <a href="https://github.com/tootsuite/mastodon/releases/tag/v2.5.0">v2.5.0 Release Note</a>. 本站的基本情况可以在 <a href="about.html">About</a> 页面查看。
+</p>
+<h1 id="id-2">
+如何使用
+</h1>
+<h2 id="id-3">
+版本要求
+</h2>
+<p>
+Mastodon 自 v2.5.0 版本添加了对中继服务的支持，首先需要确认你所在的实例运行在足够新的 Mastodon 版本上。如果你是某一实例的普通用户，请联系所在实例的管理员进行配置；如果你是某一实例的管理员，但目前运行在一个尚不支持中继功能的版本，请首先参考官方的 <a href="https://github.com/tootsuite/mastodon/releases">Release Note</a> 进行升级。
+</p>
+<p>
+技术上，其它 ActivityPub 实现也可能兼容并可以使用此中继。
+</p>
+<h2 id="id-4">
+添加并启用
+</h2>
+<div class="infobox warning">
+<p>
+Note: By subscribing this relay, you acknowledge, understand and agree that this is a (mostly) Chinese speaking relay, it is supposed and assumed that majority of the users in your instance toot in Chinese, or at least can read Chinese. Otherwise your instance may be removed and blocked without any notice nor explanation if too many non-Chinese toots are sent to us or unwelcomed content are reported by any of our subscribers.
+</p>
+</div>
+<p>
+一个 Mastodon 实例可以订阅多个中继服务，实例管理员可在后台设置中的“管理-中继-添加新中继”添加以下地址（其他与 Mastodon 兼容的 ActivityPub 实现也可能可以使用此地址）：
+</p>
+<span>
+<code>https://mastodon-relay.moew.science/inbox</code>
+</span>
+<p>
+新添加的中继默认处于禁用状态，点击 Enable 按扭并等待几分钟后刷新页面，如果状态变为 Enabled 即已经成功添加并订阅本中继服务。如果状态长时间处于 Pending, 可能是订阅回调消息丢失，可以尝试删除后重新添加并启用。
+</p>
+<p>
+如果是 Pleroma 或其他与其兼容的 ActivityPub 实现，则可以通过以下命令关注 (Follow) 中继：
+</p>
+<span>
+<code>MIX_ENV=prod mix pleroma.relay follow https://mastodon-relay.moew.science/actor</code>, 或者
+<code>./bin/pleroma_ctl relay follow https://mastodon-relay.moew.science/actor</code>
+</span>
+<h1 id="id-5">
+其它说明
+</h1>
+<h2 id="id-6">
+不受欢迎的内容
+</h2>
+<p>
+设立此中继的初衷是希望促进中文用户间的交流，但鉴于中继本身放大信息流动的天然特性，有一些内容是不适合以此种形式传播的。
+</p>
+<p>
+以下内容在本中继不受欢迎，大量发布、或主要发布涉及相关内容的实例将可能被移除转发列表并被屏蔽，且相关操作不会有任何事先告知：
+</p>
+<ul>
+<li>
+大量非中文内容
+</li>
+<li>
+大量非原创或无意义的转发、重复内容刷屏
+</li>
+<li>
+大量虚假内容、大量广告或其他商业目的的内容
+</li>
+<li>
+讨论政治、发表政见
+</li>
+<li>
+发布成人内容等不适合公开展示的内容
+</li>
+<li>
+血腥内容
+</li>
+<li>
+煽动暴力、宣扬恐怖主义
+</li>
+<li>
+针对他人的人身攻击、仇恨言论
+</li>
+<li>
+其他另人反感的内容
+</li>
+</ul>
+
+<p>
+中继管理员保留判定任意给定内容或订阅实例是否合规、以及作出封禁决定的最终权利。
+</p>
+
+<h2 id="id-7">
+资源消耗
+</h2>
+<p>
+启用中继功能后实例会收到来自同一中继其他实例的<b>所有</b>公开消息，消息量的增加会直接导致实例数据库与媒体文件空间占用的增加，并且会消耗更多的计算资源来处理这些消息，对于配置较低的实例可能造成一定压力，如果出现存储或性能问题，可以尝试禁用中继来缓解。
+</p>
+<h2 id="id-8">
+故障影响
+</h2>
+<p>
+中继只是一个消息流转服务，并不影响实例本身的功能，在中继发生故障（或被实例禁用）时，将不能再收到来自中继转发的其他实例消息，但仍然可以通过原生的跨站交互功能获取到 ActivityPub 网络上的消息。即：跨站时间轴中来自同中继其他实例的消息可能减少，其余功能均不受影响。
+</p>
+<h2 id="id-9">
+成员
+</h2>
+<p>
+订阅本中继的成员可在 <a href="members.html">Members</a> 页面查看，页面定时更新，内容可能存在一定延迟。
+</p>
+</article>
+</body>
+</html>
+
+0
+

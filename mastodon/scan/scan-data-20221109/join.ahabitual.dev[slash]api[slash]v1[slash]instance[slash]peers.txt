@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 2
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:09:45 GMT
+Server: Apache/2.4.54 (Debian)
+X-Account-Management-Status: none
+X-Powered-By: PHP/7.4.32
+X-Response-Type: json
+
+[]

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.stsecurity.moe; img-src 'self' https: data: blob: https://mastodon.stsecurity.moe; style-src 'self' https://mastodon.stsecurity.moe 'nonce-ZVBKiz4iJ/dY2nvN5It61g=='; media-src 'self' https: data: https://mastodon.stsecurity.moe; frame-src 'self' https:; manifest-src 'self' https://mastodon.stsecurity.moe; connect-src 'self' data: blob: https://mastodon.stsecurity.moe https://s3.stsecurity.moe wss://mastodon.stsecurity.moe; script-src 'self' https://mastodon.stsecurity.moe; child-src 'self' blob: https://mastodon.stsecurity.moe; worker-src 'self' blob: https://mastodon.stsecurity.moe
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:17 GMT
+Etag: W/"ee540e6c3f590d9ba830430cd3cefc70"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.420434Z
+X-Request-Id: a2f78102-ca52-4303-b5d4-15bbb1b8ec6c
+X-Runtime: 0.036656
+X-Xss-Protection: 0
+
+81
+["alive.bar","kinky.business","bgme.me","fedi.z0ne.moe","etiketi.de","neckbeard.xyz","friendica.utzer.de","fault.stsecurity.moe"]
+0
+

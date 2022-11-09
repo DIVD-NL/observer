@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.embros.org; img-src 'self' https: data: blob: https://mastodon.embros.org; style-src 'self' https://mastodon.embros.org 'nonce-W9dSRTJNS/HI732b3+c1zA=='; media-src 'self' https: data: https://mastodon.embros.org; frame-src 'self' https:; manifest-src 'self' https://mastodon.embros.org; connect-src 'self' data: blob: https://mastodon.embros.org https://mastodon.embros.org wss://mastodon.embros.org; script-src 'self' https://mastodon.embros.org; child-src 'self' blob: https://mastodon.embros.org; worker-src 'self' blob: https://mastodon.embros.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:15 GMT
+Etag: W/"1808fdb8d69e99688131385b3ed51cc5"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.660301Z
+X-Request-Id: 3b53fb8f-f9cd-4235-8e80-ed08610a49c9
+X-Runtime: 0.040514
+X-Xss-Protection: 0
+
+341
+["toot.thoughtworks.com","front-end.social","octodon.social","social.veltens.org","absolutelyhar.am","mastodon.nz","tech.lgbt","mastodon.cloud","unbound.social","mastodon.green","kitzmiller.social","oliphant.social","art0.us","journa.host","fosstodon.org","netmonkey.xyz","infosec.exchange","mastodon.thebeeches.house","hachyderm.io","layer8.space","social.anoxinon.de","vulpine.club","mastodon.world","mastodon.lol","cryptotooter.com","chaos.social","mastodon.coffee","todon.nl","u8.is","mstdn.social","mastodon.art","friend.camp","hespere.de","mastodon.me.uk","beige.party","mathstodon.xyz","assemblag.es","merveilles.town","mastodon.online","mxtthxw.art","troet.cafe","federation.p1k3.com","csdisaster.club","social.tchncs.de","masto.pt","mastodon.social","toot.cairobraga.com","triangletoot.party","pixelfed.social","wien.rocks"]
+0
+

@@ -1,0 +1,120 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=OLu%2BTpQzBGa4vABEUnZK%2F5ISyTfg%2BgLFKyMZh8B9gZmUa6o1lqFCRTGf5it3z%2Fhbs11KvsBcVZPsqjyPLJwGQBMzXpyzs0hFmCJBJ24Q6mm2UPMc%2F4XjHXUKYQzfIXXr; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: ocrcougxmbuv=528c9c5b12b250d08973618bd7f40328; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15552000
+Upgrade: h2,h2c
+Vary: User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: Y2u_1noHj12ZWtehhJNzlgAAAFw
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="QkmWovrd4NwaNf6bEw44qR+s9T1oeTPHkme5DHZpfWE=:Lj7Gl4rlhJBRULqoJ2Zf6kznpg5cTFa951PeZCcHJxA=">
+		<meta charset="utf-8">
+		<title>
+			Login – Steffen&#039;s Cloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=16">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=16">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=16">
+		<link rel="stylesheet" href="/core/css/server.css?v=76324b62-16">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=1bf6e69c-16">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=d233662f-16">
+<link rel="stylesheet" href="/core/css/guest.css?v=76324b62-16">
+		<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/core-common.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/core-main.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/core-files_fileinfo.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/core-files_client.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/index.php/js/core/merged-template-prepend.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/core-login.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/apps/encryption/js/encryption.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/dist/files_sharing-main.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/apps/files_rightclick/js/script.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/apps/files_rightclick/js/files.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=" defer src="/apps/theming/js/theming.js?v=76324b62-16"></script>
+<script nonce="UWttV292cmQ0TndhTmY2YkV3NDRxUitzOVQxb2VUUEhrbWU1REhacGZXRT06TGo3R2w0cmxoSkJSVUxxb0oyWmY2a3pucGc1Y1RGYTk1MVBlWkNjSEp4QT0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"activity":"/apps/activity","bookmarks":"/apps/bookmarks","calendar":"/apps/calendar","cloud_federation_api":"/apps/cloud_federation_api","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","dashboard":"/apps/dashboard","dav":"/apps/dav","deck":"/apps/deck","encryption":"/apps/encryption","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_accesscontrol":"/apps/files_accesscontrol","files_automatedtagging":"/apps/files_automatedtagging","files_external":"/apps/files_external","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","firstrunwizard":"/apps/firstrunwizard","integration_mastodon":"/apps/integration_mastodon","keeweb":"/apps/keeweb","lookup_server_connector":"/apps/lookup_server_connector","mail":"/apps/mail","news":"/apps/news","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","photos":"/apps/photos","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","related_resources":"/apps/related_resources","settings":"/apps/settings","sharebymail":"/apps/sharebymail","support":"/apps/support","survey_client":"/apps/survey_client","suspicious_login":"/apps/suspicious_login","text":"/apps/text","theming":"/apps/theming","twofactor_backupcodes":"/apps/twofactor_backupcodes","twofactor_totp":"/apps/twofactor_totp","updatenotification":"/apps/updatenotification","user_status":"/apps/user_status","viewer":"/apps/viewer","weather_status":"/apps/weather_status","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005846;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":7200,"session_keepalive":true,"auto_logout":false,"version":"25.0.0.18","versionstring":"25.0.0","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":25,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$","loglevel":4};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":true,"defaultExpireDate":14,"defaultExpireDateEnforced":false,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/25\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"defaultRemoteExpireDateEnabled":false,"defaultRemoteExpireDate":null,"defaultRemoteExpireDateEnforced":null},"files":{"max_chunk_size":10485760}};
+var _theme={"entity":"Steffen's Cloud","name":"Steffen's Cloud","productName":"Nextcloud","title":"Steffen's Cloud","baseUrl":"https:\/\/cloud.kaffeeringe.de","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/25\/go.php?to=PLACEHOLDER","slogan":"Statt Dropbox","logoClaim":"","folder":""};
+
+</script>
+		<meta property="og:title" content="Steffen&amp;#039;s Cloud"/><meta property="og:description" content="Statt Dropbox"/><meta property="og:site_name" content="Steffen&amp;#039;s Cloud"/><meta property="og:url" content="https://cloud.kaffeeringe.de/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.kaffeeringe.de/index.php/apps/theming/icon?v=16"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/default.css?plain=1&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: light)" href="/index.php/apps/theming/theme/light.css?plain=1&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/theming/theme/dark.css?plain=1&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="(prefers-contrast: more)" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=1&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark) and (prefers-contrast: more)" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=1&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light.css?plain=0&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark.css?plain=0&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/light-highcontrast.css?plain=0&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/dark-highcontrast.css?plain=0&amp;v=1574bddb" class="theme"/><link rel="stylesheet" media="" href="/index.php/apps/theming/theme/opendyslexic.css?plain=0&amp;v=1574bddb" class="theme"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-alternativeLogins" value="W10=">
+					<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjo3MjAwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjUuMC4wLjE4IiwidmVyc2lvbnN0cmluZyI6IjI1LjAuMCIsImVuYWJsZV9hdmF0YXJzIjp0cnVlLCJsb3N0X3Bhc3N3b3JkX2xpbmsiOm51bGwsIm1vZFJld3JpdGVXb3JraW5nIjpmYWxzZSwic2hhcmluZy5tYXhBdXRvY29tcGxldGVSZXN1bHRzIjoyNSwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQiLCJsb2dsZXZlbCI6NH0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKSgoPzpbLUEtWjAtOStfXStcXC4pK1stQS1aXSsoPzpcXFwvWy1BLVowLTkrJkAjJT89fl98ITosLjsoKV0qKSopKFxcc3xcXG58JCkifSwibWV0YWRhdGFBdmFpbGFibGUiOnsic2l6ZSI6WyJcL2ltYWdlXFxcLy4qXC8iXX0sImZpbGVzIjp7ImJpZ2ZpbGVjaHVua2luZyI6dHJ1ZSwiYmxhY2tsaXN0ZWRfZmlsZXMiOlsiLmh0YWNjZXNzIl0sInVuZGVsZXRlIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLmthZmZlZXJpbmdlLmRlXC9pbmRleC5waHBcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIiwiYnVsa3VwbG9hZCI6IjEuMCJ9LCJkZWNrIjp7InZlcnNpb24iOiIxLjguMSIsImNhbkNyZWF0ZUJvYXJkcyI6ZmFsc2UsImFwaVZlcnNpb25zIjpbIjEuMCIsIjEuMSJdfSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJkYXlzIjoxNCwiZW5mb3JjZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfSwic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwic2VuZF9wYXNzd29yZF9ieV9tYWlsIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6eyJlbmFibGVkIjp0cnVlfSwicGFzc3dvcmQiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfX19LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNi4wIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQua2FmZmVlcmluZ2UuZGVcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL2dlbmVyYXRlIiwidmFsaWRhdGUiOiJodHRwczpcL1wvY2xvdWQua2FmZmVlcmluZ2UuZGVcL29jc1wvdjIucGhwXC9hcHBzXC9wYXNzd29yZF9wb2xpY3lcL2FwaVwvdjFcL3ZhbGlkYXRlIn19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjE1LjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjp0cnVlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjp0cnVlfSwidGhlbWluZyI6eyJuYW1lIjoiU3RlZmZlbidzIENsb3VkIiwidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLmthZmZlZXJpbmdlLmRlIiwic2xvZ2FuIjoiU3RhdHQgRHJvcGJveCIsImNvbG9yIjoiIzAwODJjOSIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA4MmM5IiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC5rYWZmZWVyaW5nZS5kZVwvY29yZVwvaW1nXC9sb2dvXC9sb2dvLnN2Zz92PTE2IiwiYmFja2dyb3VuZCI6Imh0dHBzOlwvXC9jbG91ZC5rYWZmZWVyaW5nZS5kZVwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvYmFja2dyb3VuZD92PTE2IiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvY2xvdWQua2FmZmVlcmluZ2UuZGVcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xNiIsImZhdmljb24iOiJodHRwczpcL1wvY2xvdWQua2FmZmVlcmluZ2UuZGVcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0xNiJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6ZmFsc2V9LCJ3ZWF0aGVyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlfX0=">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiU3RlZmZlbidzIENsb3VkIiwidXJsIjoiaHR0cHM6XC9cL2Nsb3VkLmthZmZlZXJpbmdlLmRlIiwic2xvZ2FuIjoiU3RhdHQgRHJvcGJveCIsImNvbG9yIjoiIzAwODJjOSIsImRlZmF1bHRDb2xvciI6IiMwMDgyYzkiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIxNiIsImVuYWJsZWRUaGVtZXMiOltdfQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Steffen&#039;s Cloud								</h1>
+							</div>
+						</div>
+					</header>
+								<main>
+					
+<div>
+	<div id="login"></div>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://cloud.kaffeeringe.de" target="_blank" rel="noreferrer noopener" class="entity-name">Steffen's Cloud</a> – Statt Dropbox			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Access-Control-Allow-Headers: Authorization, Content-Type, Idempotency-Key
+Access-Control-Allow-Methods: POST, PUT, DELETE, GET, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-RateLimit-Reset, X-RateLimit-Limit, X-RateLimit-Remaining, X-Request-Id
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:12 GMT
+Referrer-Policy: same-origin
+Server: Caddy
+Server: Cowboy
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 2siv6ba2po4u93ijrc0240f1
+X-Xss-Protection: 1; mode=block
+
+[null,"friendica.ironbug.org","mastodon.technology","mastodon.wafflec.one","noovi.org","friendica.xyz","friendica.ennimedia.de","nu.federati.net","r2r0.de","friendica.feneas.org","squeet.me","social.isurf.ca","anonsys.net","mastodon.etalab.gouv.fr","libranet.de","f.praschnig.com","friendica.vrije-mens.org","mastodon.club","pirati.ca","social.kithop.ca","social.broers.me","rizomatica.org","less.re","friendica.hashy-net.de","mordor.social","status.fsf.org","social.trom.tf","f.freinetz.ch","loadaverage.org","meld.de","loma.ml","linuxrocks.online","anticapitalist.party","kitty.town","creature.cafe","dis-le.de","point.community","chaos.social","friendica.eskimo.com","nerdica.net","friendicarg.nsupdate.info","friendica.astatu.berlin","nsfw.wnymathguy.com","aria.company","social.federatedservices.ch","social.scaldra.net","venera.social","friendica.utzer.de","micromookie.com","etiketi.de"]

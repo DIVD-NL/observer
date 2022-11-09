@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.foltran.dev; img-src 'self' https: data: blob: https://social.foltran.dev; style-src 'self' https://social.foltran.dev 'nonce-gJHT470EHUxxF0L9S0fFMQ=='; media-src 'self' https: data: https://social.foltran.dev; frame-src 'self' https:; manifest-src 'self' https://social.foltran.dev; connect-src 'self' data: blob: https://social.foltran.dev https://social.foltran.dev wss://social.foltran.dev; script-src 'self' https://social.foltran.dev 'unsafe-eval'; child-src 'self' blob: https://social.foltran.dev; worker-src 'self' blob: https://social.foltran.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:24 GMT
+Etag: W/"7deb43f49206f2d31b56f91d14dce4ca"
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T22:40:00.373312Z
+X-Request-Id: 9e722a4a36e6017d48b0ba0a69ddc161
+X-Runtime: 0.006482
+X-Xss-Protection: 0
+
+d8
+["mstdn.social","linuxrocks.online","toot.thoughtworks.com","floss.social","jacobian.org","simonwillison.net","aeracode.org","mas.to","mastodon.cloud","saturation.social","qoto.org","mastodon.social","fosstodon.org"]
+0
+

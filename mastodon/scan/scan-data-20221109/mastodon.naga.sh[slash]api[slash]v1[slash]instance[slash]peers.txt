@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.naga.sh; img-src 'self' https: data: blob: https://mastodon.naga.sh; style-src 'self' https://mastodon.naga.sh 'nonce-4/iTZ/dV/N2ZkGrTLNo+KQ=='; media-src 'self' https: data: https://mastodon.naga.sh; frame-src 'self' https:; manifest-src 'self' https://mastodon.naga.sh; connect-src 'self' data: blob: https://mastodon.naga.sh https://files.example.com wss://mastodon.naga.sh; script-src 'self' https://mastodon.naga.sh; child-src 'self' blob: https://mastodon.naga.sh; worker-src 'self' blob: https://mastodon.naga.sh
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:54 GMT
+Etag: W/"d6519293a894ebebe771ffd52a7bebfa"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.583410Z
+X-Request-Id: eb50edf3-33bf-4f83-88d5-a29d69d63d4b
+X-Runtime: 0.008850
+X-Xss-Protection: 1; mode=block
+
+1fb
+["climatejustice.social","wien.rocks","mastodontech.de","elekk.xyz","rage.love","birb.site","wandering.shop","sueden.social","det.social","social.cologne","hub.uckermark.social","metalhead.club","mastodont.cat","nerdculture.de","socialwagrien.de","mstdn.social","talk.stayas.one","astronomy.social","freiburg.social","a.gup.pe","social.tchncs.de","mastodon.green","wandzeitung.xyz","norden.social","chaos.social","troet.cafe","digitalcourage.social","social.zwoelfdreifuenfundvierzig.net","mastodon.social"]
+0
+

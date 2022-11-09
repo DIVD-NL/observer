@@ -1,0 +1,103 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: * https://192.168.1.2 https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443;media-src 'self' blob:;frame-src prezi.com player.vimeo.com vine.co www.youtube.com 'self' https://192.168.1.2;child-src blob: 'self';frame-ancestors 'self' https://192.168.1.2;worker-src 'self' blob:;form-action 'self' https://192.168.1.2
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:52 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: oc_sessionPassphrase=%2B3i4jeasvR3%2FbxmvCVWDYokW7vgbymmzKzVBxY4Zf82OiymgJX%2FiXxwTxbA%2BjOIomaAd0aiDRuckRRXHJDOwiZ%2Bph1rsiiRIY%2Fq461JhjC7Tc1NkACGOILNy4t3MbkgP; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc0nb3c9nv7b=932c5vai49bpf0klq76l4vcq7d; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+Upgrade: h2,h2c
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: Y2u_8Pgs_vKQNHZjI8efMQAAABQ
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="pqWvqeLcVJZe222b/T3lGrwEbS8a/XCovkGdTh5xY6Y=:y+bK3JeaAqdqrTfJqVSGSshDJE500kDqiAr5CXVCJsc=">
+		<meta charset="utf-8">
+		<title>
+		NextCloudPi		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=0">
+		<link rel="stylesheet" href="/apps/breezedark/css/guest-automatic.css?v=55e0bc98-0">
+<link rel="stylesheet" href="/apps/cospend/css/cospend-search.css?v=a717ccee-0">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-0">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-0">
+<link rel="stylesheet" href="/core/css/guest.css?v=8160720f-0">
+		<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/index.php/core/js/oc.js?v=8160720f"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/core-common.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/core-main.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/core-files_fileinfo.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/core-files_client.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/index.php/js/core/merged-template-prepend.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/core-login.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/files_sharing-main.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/dist/accessibility-accessibilityoca.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/breezedark/js/breezedark.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/apporder/js/apporder.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/collectives/js/collectives-files.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/files_rightclick/js/script.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/files_rightclick/js/files.js?v=8160720f-0"></script>
+<script nonce="cHFXdnFlTGNWSlplMjIyYi9UM2xHcndFYlM4YS9YQ292a0dkVGg1eFk2WT06eStiSzNKZWFBcWRxclRmSnFWU0dTc2hESkU1MDBrRHFpQXI1Q1hWQ0pzYz0=" defer src="/apps/theming/js/theming.js?v=8160720f-0"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="NextCloudPi"/><meta property="og:description" content="keep your data close"/><meta property="og:site_name" content="NextCloudPi"/><meta property="og:url" content="https://fals.tru.io/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://fals.tru.io/core/img/favicon-touch.png"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=0"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC41LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC41IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9mYWxzLnRydS5pb1wvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6ImM3NDhlOGZjNTg4YjU0ZmM1YWYzOGM0NDgxYTE5ZDIwIn0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyNC4wLjEiLCJzdGF0dXMiOnsiZ2xvYmFsU2NhbGUiOmZhbHNlfSwic2V0dGluZ3MiOnsiZnJvbnRlbmRFbmFibGVkIjp0cnVlLCJhbGxvd2VkQ2lyY2xlcyI6MjYyMTQzLCJhbGxvd2VkVXNlclR5cGVzIjozMSwibWVtYmVyc0xpbWl0IjotMX0sImNpcmNsZSI6eyJjb25zdGFudHMiOnsiZmxhZ3MiOnsiMSI6IlNpbmdsZSIsIjIiOiJQZXJzb25hbCIsIjQiOiJTeXN0ZW0iLCI4IjoiVmlzaWJsZSIsIjE2IjoiT3BlbiIsIjMyIjoiSW52aXRlIiwiNjQiOiJKb2luIFJlcXVlc3QiLCIxMjgiOiJGcmllbmRzIiwiMjU2IjoiUGFzc3dvcmQgUHJvdGVjdGVkIiwiNTEyIjoiTm8gT3duZXIiLCIxMDI0IjoiSGlkZGVuIiwiMjA0OCI6IkJhY2tlbmQiLCI0MDk2IjoiTG9jYWwiLCI4MTkyIjoiUm9vdCIsIjE2Mzg0IjoiQ2lyY2xlIEludml0ZSIsIjMyNzY4IjoiRmVkZXJhdGVkIiwiNjU1MzYiOiJNb3VudCBwb2ludCJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiTmV4dGNsb3VkIFVzZXIiLCIyIjoiTmV4dGNsb3VkIEdyb3VwIiwiNCI6IkVtYWlsIEFkZHJlc3MiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2lyY2xlIiwiMTAwMDAiOiJOZXh0Y2xvdWQgQXBwIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYmVyIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbiIsIjkiOiJPd25lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2ZhbHMudHJ1LmlvXC9pbmRleC5waHBcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImRlY2siOnsidmVyc2lvbiI6IjEuNy4xIiwiY2FuQ3JlYXRlQm9hcmRzIjpmYWxzZSwiYXBpVmVyc2lvbnMiOlsiMS4wIiwiMS4xIl19LCJmaWxlc19zaGFyaW5nIjp7ImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfX0sImZvcm1zIjp7InZlcnNpb24iOiIyLjUuMSIsImFwaVZlcnNpb25zIjpbInYxIiwidjEuMSJdfSwibm90ZXMiOnsiYXBpX3ZlcnNpb24iOlsiMC4yIiwiMS4zIl0sInZlcnNpb24iOiI0LjUuMSJ9LCJub3RpZmljYXRpb25zIjp7Im9jcy1lbmRwb2ludHMiOlsibGlzdCIsImdldCIsImRlbGV0ZSIsImRlbGV0ZS1hbGwiLCJpY29ucyIsInJpY2gtc3RyaW5ncyIsImFjdGlvbi13ZWIiLCJ1c2VyLXN0YXR1cyJdLCJwdXNoIjpbImRldmljZXMiLCJvYmplY3QtZGF0YSIsImRlbGV0ZSJdLCJhZG1pbi1ub3RpZmljYXRpb25zIjpbIm9jcyIsImNsaSJdfSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVNwZWNpYWxDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVVwcGVyTG93ZXJDYXNlIjpmYWxzZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL2ZhbHMudHJ1LmlvXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL2ZhbHMudHJ1LmlvXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNC4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6ZmFsc2UsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1B1Ymxpc2hlZEVuYWJsZWQiOnRydWV9LCJyaWNoZG9jdW1lbnRzIjp7InZlcnNpb24iOiI2LjMuMCIsIm1pbWV0eXBlcyI6WyJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC50ZXh0IiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuc3ByZWFkc2hlZXQiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24iLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC50ZXh0LWZsYXQteG1sIiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuc3ByZWFkc2hlZXQtZmxhdC14bWwiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24tZmxhdC14bWwiLCJhcHBsaWNhdGlvblwvdm5kLmxvdHVzLXdvcmRwcm8iLCJhcHBsaWNhdGlvblwvdm5kLnZpc2lvIiwiYXBwbGljYXRpb25cL3ZuZC5tcy12aXNpby5kcmF3aW5nIiwiYXBwbGljYXRpb25cL3ZuZC53b3JkcGVyZmVjdCIsImFwcGxpY2F0aW9uXC9tc29uZW5vdGUiLCJhcHBsaWNhdGlvblwvbXN3b3JkIiwiYXBwbGljYXRpb25cL3J0ZiIsInRleHRcL3J0ZiIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtd29yZC5kb2N1bWVudC5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXdvcmQudGVtcGxhdGUubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC50ZW1wbGF0ZS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwuc2hlZXQuYmluYXJ5Lm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludCIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwucHJlc2VudGF0aW9uIiwiYXBwbGljYXRpb25cL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5wcmVzZW50YXRpb25tbC50ZW1wbGF0ZSIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwuc2xpZGVzaG93IiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LmFkZGluLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5wcmVzZW50YXRpb24ubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1wb3dlcnBvaW50LnRlbXBsYXRlLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5zbGlkZXNob3cubWFjcm9FbmFibGVkLjEyIiwidGV4dFwvY3N2Il0sIm1pbWV0eXBlc05vRGVmYXVsdE9wZW4iOlsiaW1hZ2VcL3N2Zyt4bWwiLCJhcHBsaWNhdGlvblwvcGRmIiwidGV4dFwvcGxhaW4iLCJ0ZXh0XC9zcHJlYWRzaGVldCJdLCJjb2xsYWJvcmEiOnsiY29udmVydC10byI6eyJhdmFpbGFibGUiOnRydWV9LCJoYXNNb2JpbGVTdXBwb3J0Ijp0cnVlLCJoYXNQcm94eVByZWZpeCI6ZmFsc2UsImhhc1RlbXBsYXRlU2F2ZUFzIjpmYWxzZSwiaGFzVGVtcGxhdGVTb3VyY2UiOnRydWV9LCJkaXJlY3RfZWRpdGluZyI6dHJ1ZSwidGVtcGxhdGVzIjp0cnVlLCJwcm9kdWN0TmFtZSI6Ik5leHRjbG91ZCBPZmZpY2UiLCJjb25maWciOnsid29waV91cmwiOiJodHRwczpcL1wvZmFscy50cnUuaW9cL2FwcHNcL3JpY2hkb2N1bWVudHNjb2RlXC9wcm94eS5waHA/cmVxPSIsInB1YmxpY193b3BpX3VybCI6Imh0dHBzOlwvXC8xOTIuMTY4LjEuMlwvYXBwc1wvcmljaGRvY3VtZW50c2NvZGVcL3Byb3h5LnBocD9yZXE9IiwiZGlzYWJsZV9jZXJ0aWZpY2F0ZV92ZXJpZmljYXRpb24iOiJ5ZXMiLCJlZGl0X2dyb3VwcyI6bnVsbCwidXNlX2dyb3VwcyI6bnVsbCwiZG9jX2Zvcm1hdCI6bnVsbCwidGltZW91dCI6MTV9fSwic3ByZWVkIjp7ImZlYXR1cmVzIjpbImF1ZGlvIiwidmlkZW8iLCJjaGF0LXYyIiwiY29udmVyc2F0aW9uLXY0IiwiZ3Vlc3Qtc2lnbmFsaW5nIiwiZW1wdHktZ3JvdXAtcm9vbSIsImd1ZXN0LWRpc3BsYXktbmFtZXMiLCJtdWx0aS1yb29tLXVzZXJzIiwiZmF2b3JpdGVzIiwibGFzdC1yb29tLWFjdGl2aXR5Iiwibm8tcGluZyIsInN5c3RlbS1tZXNzYWdlcyIsImRlbGV0ZS1tZXNzYWdlcyIsIm1lbnRpb24tZmxhZyIsImluLWNhbGwtZmxhZ3MiLCJjb252ZXJzYXRpb24tY2FsbC1mbGFncyIsIm5vdGlmaWNhdGlvbi1sZXZlbHMiLCJpbnZpdGUtZ3JvdXBzLWFuZC1tYWlscyIsImxvY2tlZC1vbmUtdG8tb25lLXJvb21zIiwicmVhZC1vbmx5LXJvb21zIiwibGlzdGFibGUtcm9vbXMiLCJjaGF0LXJlYWQtbWFya2VyIiwiY2hhdC11bnJlYWQiLCJ3ZWJpbmFyeS1sb2JieSIsInN0YXJ0LWNhbGwtZmxhZyIsImNoYXQtcmVwbGllcyIsImNpcmNsZXMtc3VwcG9ydCIsImZvcmNlLW11dGUiLCJzaXAtc3VwcG9ydCIsImNoYXQtcmVhZC1zdGF0dXMiLCJwaG9uZWJvb2stc2VhcmNoIiwicmFpc2UtaGFuZCIsInJvb20tZGVzY3JpcHRpb24iLCJyaWNoLW9iamVjdC1zaGFyaW5nIiwidGVtcC11c2VyLWF2YXRhci1hcGkiLCJnZW8tbG9jYXRpb24tc2hhcmluZyIsInZvaWNlLW1lc3NhZ2Utc2hhcmluZyIsInNpZ25hbGluZy12MyIsInB1Ymxpc2hpbmctcGVybWlzc2lvbnMiLCJjbGVhci1oaXN0b3J5IiwiZGlyZWN0LW1lbnRpb24tZmxhZyIsIm5vdGlmaWNhdGlvbi1jYWxscyIsImNvbnZlcnNhdGlvbi1wZXJtaXNzaW9ucyIsInJpY2gtb2JqZWN0LWxpc3QtbWVkaWEiLCJyaWNoLW9iamVjdC1kZWxldGUiLCJ1bmlmaWVkLXNlYXJjaCIsInJlYWN0aW9ucyIsImNoYXQtcmVmZXJlbmNlLWlkIl0sImNvbmZpZyI6eyJhdHRhY2htZW50cyI6eyJhbGxvd2VkIjpmYWxzZX0sImNoYXQiOnsibWF4LWxlbmd0aCI6MzIwMDAsInJlYWQtcHJpdmFjeSI6MH0sImNvbnZlcnNhdGlvbnMiOnsiY2FuLWNyZWF0ZSI6ZmFsc2V9LCJwcmV2aWV3cyI6eyJtYXgtZ2lmLXNpemUiOjMxNDU3Mjh9LCJzaWduYWxpbmciOnsic2Vzc2lvbi1waW5nLWxpbWl0IjoyMDB9fX0sInRoZW1pbmciOnsibmFtZSI6Ik5leHRDbG91ZFBpIiwidXJsIjoiaHR0cHM6XC9cL293bnlvdXJiaXRzLmNvbSIsInNsb2dhbiI6ImtlZXAgeW91ciBkYXRhIGNsb3NlIiwiY29sb3IiOiIjMDA4MmM5IiwiY29sb3ItdGV4dCI6IiNmZmZmZmYiLCJjb2xvci1lbGVtZW50IjoiIzAwODJjOSIsImNvbG9yLWVsZW1lbnQtYnJpZ2h0IjoiIzAwODJjOSIsImNvbG9yLWVsZW1lbnQtZGFyayI6IiMwMDgyYzkiLCJsb2dvIjoiaHR0cHM6XC9cL2ZhbHMudHJ1LmlvXC9pbmRleC5waHBcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3Y9MCZ1c2VTdmc9MSIsImJhY2tncm91bmQiOiJodHRwczpcL1wvZmFscy50cnUuaW9cL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2JhY2tncm91bmQ/dj0wIiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvZmFscy50cnUuaW9cL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dj0wJnVzZVN2Zz0xIiwiZmF2aWNvbiI6Imh0dHBzOlwvXC9mYWxzLnRydS5pb1wvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvbG9nbz92PTAmdXNlU3ZnPTEifX0=">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiTmV4dENsb3VkUGkiLCJ1cmwiOiJodHRwczpcL1wvb3dueW91cmJpdHMuY29tIiwic2xvZ2FuIjoia2VlcCB5b3VyIGRhdGEgY2xvc2UiLCJjb2xvciI6IiMwMDgyYzkiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIwIn0=">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									NextCloudPi								</h1>
+																	<img src="/index.php/apps/theming/image/logo?v=0&amp;useSvg=1"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://ownyourbits.com" target="_blank" rel="noreferrer noopener" class="entity-name">NextCloudPi</a> – keep your data close			</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 219
+Accept-Ranges: bytes
+Age: 0
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:20:13 GMT
+Server: Apache
+Via: 1.1 varnish, 1.1 varnish
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Served-By: cache-iad-kcgs7200031-IAD, cache-bru1480023-BRU
+X-Timer: S1668007213.044836,VS0,VE153
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /api/v1/instance/peers was not found on this server.</p>
+</body></html>

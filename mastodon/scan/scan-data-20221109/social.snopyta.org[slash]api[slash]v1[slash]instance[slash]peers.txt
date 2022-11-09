@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.snopyta.org; img-src 'self' https: data: blob: https://social.snopyta.org; style-src 'self' https://social.snopyta.org 'nonce-9UcY4Am6WJqw11A6tKTUhA=='; media-src 'self' https: data: https://social.snopyta.org; frame-src 'self' https:; manifest-src 'self' https://social.snopyta.org; connect-src 'self' data: blob: https://social.snopyta.org https://social.snopyta.org wss://social.snopyta.org; script-src 'self' https://social.snopyta.org; child-src 'self' blob: https://social.snopyta.org; worker-src 'self' blob: https://social.snopyta.org
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:36 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: 6bef2170-5279-4558-a592-d840046dfb3f
+X-Runtime: 0.005059
+X-Xss-Protection: 0
+
+0
+

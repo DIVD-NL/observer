@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:21:45 GMT
+Location: http://ww1.antirep.net/?sub1=38b429b2-6042-11ed-81cb-10713d6a1962
+Server: Cowboy
+Set-Cookie: sid=38b429b2-6042-11ed-81cb-10713d6a1962; path=/; domain=.antirep.net; expires=Mon, 27 Nov 2090 18:35:53 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

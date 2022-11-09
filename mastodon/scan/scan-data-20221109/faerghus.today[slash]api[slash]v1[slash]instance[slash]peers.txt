@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767767324de4b9a7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://faerghus.today; img-src 'self' https: data: blob: https://faerghus.today; style-src 'self' https://faerghus.today 'nonce-AYszz78TZeCX7ynUsmS60Q=='; media-src 'self' https: data: https://faerghus.today; frame-src 'self' https:; manifest-src 'self' https://faerghus.today; connect-src 'self' data: blob: https://faerghus.today https://faerghus.today wss://faerghus.today; script-src 'self' https://faerghus.today; child-src 'self' blob: https://faerghus.today; worker-src 'self' blob: https://faerghus.today
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:51 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0QCJ1wV4RwOHtzr%2F45mrXl%2B62u3UVJqc1%2BT4O3oFhMqREYerhEK6kONy1FldDV5In9slRrnk9LBJiIBkAmv%2BGzdYe0HhQSumEOSplhYcMd5WKHUcVCMJdyirqhkOgJsnTg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.173601Z
+X-Request-Id: 7cc5aadf-a3c2-4b2b-a915-ffb5fb0bb885
+X-Runtime: 0.006656
+X-Xss-Protection: 1; mode=block
+
+0
+

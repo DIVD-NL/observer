@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b3b7a53b9a5-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.janstenpickle.io; img-src 'self' https: data: blob: https://mastodon.janstenpickle.io; style-src 'self' https://mastodon.janstenpickle.io 'nonce-gSM2qSZGbjqj7gq3wR9PDQ=='; media-src 'self' https: data: https://mastodon.janstenpickle.io; frame-src 'self' https:; manifest-src 'self' https://mastodon.janstenpickle.io; connect-src 'self' data: blob: https://mastodon.janstenpickle.io https://mastodon.janstenpickle.io wss://mastodon.janstenpickle.io; script-src 'self' https://mastodon.janstenpickle.io; child-src 'self' blob: https://mastodon.janstenpickle.io; worker-src 'self' blob: https://mastodon.janstenpickle.io
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:31 GMT
+Etag: W/"0ee5e7d3b60688abc671776628e308ff"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=n3WfCHUwaRUpm9HOGtW1iGbdHI%2B4KOKMxVg5JQ6mvIGt%2BmkEqbAL74DQocbCcWVeggunAV6o5x2KGJWilNcPAD%2Bfi0MTUAUisdx%2FBJu6nC%2BSKLLvwgyg6rOTNu%2FLfZ4htLZI4dDrHoudCoPI"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.226578Z
+X-Request-Id: e748935f-17ee-4569-8d11-2c9f14d022ec
+X-Runtime: 0.019206
+X-Xss-Protection: 0
+
+a95
+["loci.onl","bonn.social","dice.camp","social.blogsofwar.com","hci.social","epistolary.org","climatejustice.social","meow.social","cr8r.gg","kudabiverse.com","brignell.co","sauropods.win","toot.ahnlak.com","mastodon.nl","hachyderm.io","berlin.social","dan.mastohon.com","librem.one","queer.party","noc.social","akademienl.social","vis.social","mastodon.me.uk","earfolds.com","mastodon.cloud","social.lol","friend.camp","toot.wales","social.spacebear.ee","fimidi.com","bloor.tw","mastodon.neilzone.co.uk","writing.exchange","todon.eu","mendeddrum.org","things.uk","scicomm.xyz","rollenspiel.social","scholar.social","masto.social","digitalcourage.social","nobigtech.es","glasgow.social","someone.elses.computer","octodon.social","detroitriotcity.com","ruby.social","troet.cafe","med-mastodon.com","socialnotwork.net","thicc.horse","mastodon.cc","cloudisland.nz","nerdculture.de","im-in.space","graz.social","eupolicy.social","framapiaf.org","toot.cat","sciences.social","bhre.social","sarcasm.stream","newsie.social","focal.social","phpc.social","toot.site","nangang.travnewmatic.com","mastodon.gamedev.place","universeodon.com","mastodon.xyz","sciencemastodon.com","awscommunity.social","saturation.social","gruene.social","mastodon.johndevine.co.uk","empty.cafe","masthead.social","ieji.de","linuxrocks.online","kraud.social","lor.sh","social.deadsuperhero.com","birdsite.thorlaksson.com","rouge.eu.org","layer8.space","mstdn.ca","mindly.social","wandering.shop","mathstodon.xyz","raccoon.place","know.me.uk","xoxo.zone","social.linux.pizza","qoto.org","ryan.doesthings.online","h4.io","home.social","mythago.space","artisan.chat","mastodon.nz","sfba.social","tech.lgbt","social.nofftopia.com","mastodon.nu","meowr.me","campaign.openworlds.info","ioc.exchange","aus.social","kolektiva.social","tane.codes","icosahedron.website","mastodon.green","indieweb.social","mstdn.science","macaw.social","ravenation.club","jorts.horse","fediscience.org","dftba.club","mamot.fr","sd.ai","ser.endipito.us","mstdn.jp","zeroes.ca","econtwitter.net","www.clearairflying.com","hulvr.com","hemmer.land","netmonkey.xyz","federate.social","activism.openworlds.info","pixels.jdt.io","mastodon.coffee","types.pl","mastodon.sdf.org","eupublic.social","mastodon.ie","social.coop","xtaldave.net","mastodon.org.uk","robot.rodeo","journa.host","stefanbohacek.online","c.im","eigenmagic.net","mastodon.ar.al","masto.ai","vulpine.club","twtr.vrij.social","mastodon.art","toot.community","mas.to","fosstodon.org","muenchen.social","tooting.ch","mastodon.lol","zirk.us","mastodon.world","mastodon.scot","mastodon.online","mastodonapp.uk","chaos.social","freeradical.zone","fenetre.dev","mstdn.social","infosec.exchange","mastodon.social"]
+0
+

@@ -1,0 +1,115 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767788080d902e26-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:15 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FHvm2p9CwiPBu%2BqgNtCfrFU35grKvWj%2Bkge%2FScXFRTpfoQrNQ%2B27BOW4M6Ig4vRYuDISEr0sPFBBk7mnoK26%2FDrR3EBafci3ajye79YU6MTv5XjaxGyIdu7gSs26sxm5Sdmz0Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/7.3.33
+X-Turbo-Charged-By: LiteSpeed
+X-Xss-Protection: 1; mode=block
+
+10ed
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Not Found - Hong's Status</title>
+<script src="/cdn-cgi/apps/head/tzVvLe5HmM5x4jNb--M_jFCbGho.js"></script><link rel="shortcut icon" href="https://status.topbug.net/theme/neo-gnu/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/theme/base/css/display.css?version=1.2.0-beta4" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/theme/neo-gnu/css/display.css?version=1.2.0-beta4" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/MobileProfile/mp-screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/theme/neo-gnu/css/mp-screen.css?version=1.2.0-beta4" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/MobileProfile/mp-handheld.css" media="handheld" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/OStatus/theme/base/css/ostatus.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta4" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/Bookmark/css/bookmark.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/Event/css/event.css" media="" />
+<link rel="stylesheet" type="text/css" href="https://status.topbug.net/plugins/Poll/css/poll.css" media="" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://status.topbug.net/opensearch/people" title="Hong's Status People Search" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://status.topbug.net/opensearch/notice" title="Hong's Status Notice Search" />
+</head>
+<body id="error">
+<div id="wrap">
+<div id="header">
+<address id="site_contact" class="h-card">
+<a class="home bookmark" href="https://status.topbug.net/xuhdev">
+<img class="logo u-photo p-name" src="https://status.topbug.net/theme/neo-gnu/logo.png" alt="Hong's Status" />
+</a>
+</address>
+<div id="site_nav_global_primary">
+<form id="header-search" class="form" method="get" action="https://status.topbug.net/search/notice">
+<fieldset>
+<input name="q" size="20" id="search-q" />
+<input type="submit" value="Search" />
+</fieldset>
+</form>
+<ul class="nav">
+<li id="nav_login">
+<a href="https://status.topbug.net/main/login" title="Login to the site.">Login</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="core">
+<div id="aside_primary_wrapper">
+<div id="content_wrapper">
+<div id="site_nav_local_views_wrapper">
+<div id="content">
+<h1>Not Found</h1>
+<div id="content_inner">
+<div class="error">Page not found.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul class="nav" id="site_nav_global_secondary">
+<li>
+<a href="https://status.topbug.net/doc/help">Help</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/about">About</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/faq">FAQ</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/tos">TOS</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/privacy">Privacy</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/source">Source</a>
+</li>
+<li>
+<a href="https://status.topbug.net/main/version">Version</a>
+</li>
+<li>
+<a href="https://status.topbug.net/doc/contact">Contact</a>
+</li>
+</ul>
+<p><strong>Hong's Status</strong> is a social network, courtesy of <a href="http://www.topbug.net">Hong Xu</a>. It runs on <a href="https://www.gnu.org/software/social/">GNU social</a>, version 1.2.0-beta4, available under the <a href="https://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+<p>
+<img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15" />
+All Hong's Status content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+<p>
+<a href="#" id="mobile-toggle-disable">Switch to desktop site layout.</a>
+</p>
+</div>
+</div>
+</body>
+</html>
+
+0
+

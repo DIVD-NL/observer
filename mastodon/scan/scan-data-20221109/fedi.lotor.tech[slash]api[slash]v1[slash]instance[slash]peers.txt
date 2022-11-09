@@ -1,0 +1,27 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://fedi.lotor.tech; font-src 'self' https://fedi.lotor.tech; img-src 'self' data: blob: https://fedi.lotor.tech https://us-east-1.linodeobjects.com; style-src 'self' https://fedi.lotor.tech 'nonce-pF5ktnzEmF5yeoTGQQq4wg=='; media-src 'self' data: https://fedi.lotor.tech https://us-east-1.linodeobjects.com; frame-src 'self' https:; child-src 'self' blob: https://fedi.lotor.tech; worker-src 'self' blob: https://fedi.lotor.tech; connect-src 'self' blob: data: wss://fedi.lotor.tech https://fedi.lotor.tech https://us-east-1.linodeobjects.com; manifest-src 'self' https://fedi.lotor.tech
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:57 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.723439Z
+X-Request-Id: 1a09f7a4-1ad0-4203-b3a4-b14e48a915b0
+X-Runtime: 0.008936
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

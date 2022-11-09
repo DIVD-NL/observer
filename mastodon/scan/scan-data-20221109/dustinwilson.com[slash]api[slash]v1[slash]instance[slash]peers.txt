@@ -1,0 +1,125 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:44 GMT
+Etag: W/"62e9672f-1c5f"
+Server: nginx
+Vary: Accept-Encoding
+
+1c5f
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>dW: 404 Not Found</title>
+
+  <!--
+
+        lxx. dxd  .xxo
+        0MM;:MMM: oMMd
+   :0NMWWMM;KMMMK KMM.
+  oMMO,,XMMdMM0MM,MMK
+  WMM.  0MMNMW.WMXMMc
+  NMM,  NMMMMd xMMMM
+  'NMWkXMMMMM. 'MMMO
+    ;odc.lllc   cll.
+
+  WELCOME, NOSY PERSON!
+
+  If you're digging through the source code here it likely means you are
+  interested in how something was done on this website. This is the best way
+  to learn how to design for the Web. This is in fact how I first learned how
+  to do it myself.
+
+  The content and design of this website are copyrighted by me, but you are
+  welcome to take a look around. You may find some hidden things, too.
+
+  -->
+
+  <meta charset="utf-8">
+  <meta name="author" content="Dustin Wilson">
+  <meta name="description" content="dW is the blog/portfolio of Dustin Wilson, a designer, illustrator, &amp; developer with a great affinity for the Web. Here he rambles on seemingly aimlessly about whatever interests him at any given moment.">
+  <meta http-equiv="last-modified" content="Sun, 13 Feb 2022 14:45:50 GMT">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- Preloading -->
+
+  <link rel="preload" href="/fonts/dw.woff2" as="font" type="font/woff2" crossorigin="">
+
+  <!-- Icons -->
+
+  <link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="/images/icons/favicon.svg">
+
+  <!-- Windows Pinned Site -->
+
+  <meta name="msapplication-TileImage" content="/images/icons/144.png">
+  <meta name="msapplication-TileColor" content="#353845">
+  <meta name="msapplication-name" content="dW">
+
+  <!-- Feeds -->
+
+  <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feeds/atom/">
+  <link rel="alternate" type="application/json" title="JSON Feed" href="/feeds/json/">
+
+  <!-- Styles -->
+
+  <link rel="stylesheet" href="/styles/main.css?v=6">
+
+  <!-- Scripts -->
+
+  <script type="module" src="/scripts/js/main.js"></script>
+ </head>
+
+ <body id="error">
+  <header>
+   <div id="logo">dW</div>
+
+   <nav aria-label="Main Navigation">
+    <input type="checkbox" id="menu-toggle">
+
+    <label for="menu-toggle" aria-expanded="false"><svg viewBox="0 0 26 26" role="img" aria-labelledby="menu-icon--title"><title id="menu-icon--title">Menu</title><path d="M2 3h22v4H2z"/><path d="M2 11h22v4H2z"/><path d="M2 19h22v4H2z"/></svg></label>
+
+    <ul>
+     <li><a href="/" tabindex="0">Portfolio</a></li>
+     <li><a href="/blog/" tabindex="0">Blog</a></li>
+     <li><a href="/archive/" tabindex="0">Archive</a></li>
+     <li><a href="/about/" tabindex="0">About</a></li>
+    </ul>
+   </nav>
+  </header>
+
+  <main>
+   <main>
+    <header>
+     <h1>404 <span class="nowrap">Not Found</span></h1>
+    </header>
+
+    <p>The resource you requested could not <span class="nowrap">be located.</span></p>
+   </main>
+  </main>
+
+  <footer>
+   <template id="style-switcher">
+    <fieldset aria-label="Style Switcher">
+     <input type="checkbox" id="style-switcher--dark-theme">
+
+     <label for="style-switcher--dark-theme"><svg role="img" viewBox="0 0 56 30" aria-labelledby="style-switcher--title"><title id="style-switcher--title">Dark Theme</title><circle cx="15" cy="15" r="13"/><path class="light" d="M19,15c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S19,12.8,19,15z M16,8V7c0-0.5-0.4-1-1-1h0c-0.5,0-1,0.4-1,1v1c0,0.5,0.4,1,1,1h0C15.6,9,16,8.6,16,8z M16,23v-1c0-0.5-0.4-1-1-1h0c-0.5,0-1,0.4-1,1v1c0,0.5,0.4,1,1,1h0C15.6,24,16,23.6,16,23zM8,14H7c-0.5,0-1,0.4-1,1v0c0,0.5,0.4,1,1,1h1c0.5,0,1-0.4,1-1v0C9,14.4,8.6,14,8,14z M23,14h-1c-0.5,0-1,0.4-1,1v0c0,0.5,0.4,1,1,1h1c0.5,0,1-0.4,1-1v0C24,14.4,23.6,14,23,14z M9.3,19.2l-0.7,0.7c-0.4,0.4-0.4,1,0,1.4l0,0c0.4,0.4,1,0.4,1.4,0l0.7-0.7c0.4-0.4,0.4-1,0-1.4l0,0C10.4,18.9,9.7,18.9,9.3,19.2z M19.9,8.6l-0.7,0.7c-0.4,0.4-0.4,1,0,1.4l0,0c0.4,0.4,1,0.4,1.4,0l0.7-0.7c0.4-0.4,0.4-1,0-1.4l0,0C21,8.2,20.3,8.2,19.9,8.6z M19.2,20.7l0.7,0.7c0.4,0.4,1,0.4,1.4,0v0c0.4-0.4,0.4-1,0-1.4l-0.7-0.7c-0.4-0.4-1-0.4-1.4,0l0,0C18.9,19.6,18.9,20.3,19.2,20.7z M8.6,10.1l0.7,0.7c0.4,0.4,1,0.4,1.4,0l0,0c0.4-0.4,0.4-1,0-1.4l-0.7-0.7c-0.4-0.4-1-0.4-1.4,0l0,0C8.2,9,8.2,9.7,8.6,10.1z"/><path class="dark" d="M44,17.7c-2.8-0.7-5-2.9-5.7-5.7c-0.3-1.3-0.3-2.5-0.1-3.6c0.1-0.4-0.3-0.7-0.7-0.6c-3.1,1.5-5,5-4.3,8.8c0.6,3.1,3.1,5.6,6.2,6.2c3.8,0.7,7.3-1.2,8.8-4.3c0.2-0.4-0.2-0.8-0.6-0.7C46.5,18.1,45.3,18.1,44,17.7z"/></svg></label>
+    </fieldset>
+   </template>
+
+   <nav aria-label="Social Navigation">
+    <ul>
+     <li><a href="https://ko-fi.com/dustinwilson" title="Ko-fi" tabindex="0"><svg id="ko-fi-icon" role="img" aria-labelledby="ko-fi-icon--title" viewBox="0 0 26 26"><title id="ko-fi-icon--title">Ko-fi</title><circle class="st0" cx="13" cy="13" r="13"/><path class="counter" d="M19.3,13.9C18.6,14,18,14,18,14V9h0.9c0.6,0,1.2,0.3,1.6,0.8c0.3,0.4,0.5,0.8,0.5,1.5C21,13,20.2,13.6,19.3,13.9 M23.6,11.2c0-1.4-1.1-2.8-1.9-3.4C21,7.3,20,7,19,7H4.7C4.2,7,4,7.5,4,7.7c0,0,0,0.2,0,0.2s0,5.7,0,9.1c0.1,2,2.1,2,2.1,2s6.5,0,9.6,0c0.1,0,0.3,0,0.4-0.1c1.8-0.4,1.8-2,1.8-2.9C21.6,16,23.6,14.5,23.6,11.2z"/><path d="M10.9,17c0.2,0.1,0.2,0,0.2,0s2.2-2.1,3.2-3.3c0.9-1.1,1-2.9-0.6-3.5C12.3,9.5,11,11,11,11c-1.1-1.2-2.8-1.2-3.5-0.3c-0.8,0.8-0.5,2.2,0.1,3C8.1,14.4,10.4,16.5,10.9,17C10.8,16.9,10.8,16.9,10.9,17"/></svg></a></li>
+     <li><a href="https://mastodon.dustinwilson.com/@dustin" title="Mastodon" tabindex="0"><svg id="mastodon-icon" role="img" aria-labelledby="mastodon-icon--title" viewBox="0 0 26 26"><title id="mastodon-icon--title">Mastodon</title><path d="M25 8.5c0-5.6-3.7-7.3-3.7-7.3C19.5.4 16.3 0 13 0 9.7 0 6.5.4 4.7 1.2 4.7 1.2 1 3 1 8.5V13c.2 5.5 1 11 6 12.3 2.4.6 4.4.8 6 .7 3-.2 4.6-1 4.6-1l-.1-2.2s-2.1.6-4.5.6c-2.3-.1-4.7-.3-5.1-3.2v-.8a29.6 29.6 0 0010.2.4c3.2-.4 6-2.4 6.4-4.2.5-2.9.5-7 .5-7z"/><path class="counter" d="M20 9v6h-2V9.2c0-1.2-1-1.9-2-1.9-1.2 0-1.8.8-2 2.2V13h-2V9.5c-.2-1.4-.8-2.2-2-2.2-1 0-2 .7-2 1.9V15H6V9c0-1.2.3-2.2 1-3 .6-.6 1.5-1 2.6-1 1.2 0 2.2.5 2.8 1.4l.6 1 .6-1c.6-1 1.6-1.4 2.8-1.4 1.1 0 2 .4 2.6 1 .7.8 1 1.8 1 3z"/></svg></a></li>
+     <li><a href="/feeds/" title="RSS Feeds" tabindex="0"><svg id="rss-icon" role="img" aria-label="rss-icon--title" viewBox="0 0 26 26"><title id="rss-icon--title">RSS Feeds</title><path d="M21 25H5a4 4 0 01-4-4V5a4 4 0 014-4h16a4 4 0 014 4v16a4 4 0 01-4 4z"/><path class="counter" d="M7 17a2 2 0 110 4 2 2 0 010-4zM5 5v3a13 13 0 0113 13h3A16 16 0 005 5zm0 6v3c4 0 7 3 7 7h3c0-5.6-4.4-10-10-10z"/></svg></a></li>
+     <li><a href="https://twitter.com/dustinwilson" title="Twitter" tabindex="0"><svg id="hellsite-icon" role="img" aria-labelledby="hellsite-icon--title" viewBox="0 0 26 26"><title id="hellsite-icon--title">Twitter</title><path d="M22.5,8c0,0.2,0,0.4,0,0.7c0,6.7-5,14.4-14,14.4v0c-2.7,0-5.3-0.8-7.5-2.3c0.4,0,0.8,0.1,1.2,0.1c2.2,0,4.4-0.8,6.1-2.2c-2.1,0-4-1.4-4.6-3.5c0.7,0.1,1.5,0.1,2.2-0.1C3.6,14.6,2,12.5,2,10.1c0,0,0,0,0-0.1c0.7,0.4,1.5,0.6,2.2,0.6C2,9.2,1.4,6.2,2.7,3.9C5.2,7.1,8.9,9,12.8,9.2c-0.4-1.8,0.1-3.6,1.4-4.8c2-1.9,5.1-1.8,7,0.2c1.1-0.2,2.2-0.6,3.1-1.2c-0.4,1.2-1.1,2.2-2.2,2.8c1-0.1,1.9-0.4,2.8-0.8C24.3,6.4,23.5,7.3,22.5,8z"/></svg></a></li>
+    </ul>
+   </nav>
+
+   <p><small>©<time datetime="2022">2022</time> <span class="nowrap">Dustin Wilson</span></small></p>
+  </footer>
+ </body>
+</html>
+0
+

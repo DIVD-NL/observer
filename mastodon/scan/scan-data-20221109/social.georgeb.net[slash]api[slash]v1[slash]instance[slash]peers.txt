@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677857808bb2e14-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.georgeb.net; img-src 'self' https: data: blob: https://social.georgeb.net; style-src 'self' https://social.georgeb.net 'nonce-WufGDn/5iNYaBnHPjTB8Zw=='; media-src 'self' https: data: https://social.georgeb.net; frame-src 'self' https:; manifest-src 'self' https://social.georgeb.net; connect-src 'self' data: blob: https://social.georgeb.net https://social.georgeb.net wss://social.georgeb.net; script-src 'self' https://social.georgeb.net 'unsafe-eval'; child-src 'self' blob: https://social.georgeb.net; worker-src 'self' blob: https://social.georgeb.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:30 GMT
+Etag: W/"542bbb27ed30c051bb1fafbc788b2dff"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vOTG4t%2FC76b2GsryeJBTvkLplBYyOY0u2HW8BqCNHAOkPwqZxP8ceoYV9gCqjkO51o1LdnJGi8lmvPurbQ0WV4vv7R5YfBTQ3aq%2FbLD67EF1j1ops69S0jpgc5MTnI4pOmf9aAg%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.834946Z
+X-Request-Id: 508914a9-4fa3-4bfb-a8aa-91a85326582e
+X-Runtime: 0.018258
+X-Xss-Protection: 0
+
+41b
+["floss.social","vt.social","hub.natehiggers.online","mastodon.social","nightshift.social","newsie.social","social.anoxinon.de","restless.systems","infosec.exchange","jaesharp.social","noc.social","nerdculture.de","mastodon.technology","mastodon.world","seal.cafe","ravenation.club","androiddev.social","fosstodon.org","mastodon.gamedev.place","mastodon.art","mstdn.starnix.network","chaos.social","idlethumbs.social","octodon.social","mstdn.social","eupolicy.social","mastodon.online","social.tar.black","sfba.social","tech.lgbt","mastodon.com.tr","pleroma.jamesp.org","toot.community","liberdon.com","mk.chocoflan.net","cybercrusade.xyz","mastodon.sdf.org","chudbuds.lol","mk.starnix.network","gly.one","leafposter.club","sleepy.cafe","freespeechextremist.com","ieji.de","rojogato.com","mastodonapp.uk","mas.to","beefyboys.win","linuxrocks.online","a.gup.pe","mastodon.lol","djsumdog.com","mk.gabe.rocks","social.mrhands.horse","poa.st","spacey.space","indieweb.social","gleasonator.com","fediverse.pl","masto.ai","eveningzoo.club","pl.seahorse.sh"]
+0
+

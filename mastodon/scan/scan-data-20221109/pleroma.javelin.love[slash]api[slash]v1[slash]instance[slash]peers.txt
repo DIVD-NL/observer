@@ -1,0 +1,16 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Content-Length: 168
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:01 GMT
+Location: http://javelin.love
+Server: openresty
+X-Frame-Options: sameorigin
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body>
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>

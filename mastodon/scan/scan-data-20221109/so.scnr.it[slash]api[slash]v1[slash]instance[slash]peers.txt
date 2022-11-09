@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://so.scnr.it; img-src 'self' https: data: blob: https://so.scnr.it; style-src 'self' https://so.scnr.it 'nonce-u19cpVZ6Q/4fLZU/tgoQWQ=='; media-src 'self' https: data: https://so.scnr.it; frame-src 'self' https:; manifest-src 'self' https://so.scnr.it; connect-src 'self' data: blob: https://so.scnr.it https://so.scnr.it wss://so.scnr.it; script-src 'self' https://so.scnr.it; child-src 'self' blob: https://so.scnr.it; worker-src 'self' blob: https://so.scnr.it
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:38 GMT
+Etag: W/"c8b5644719f4cd47118ce37a45015b25"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:15:00.055446Z
+X-Request-Id: 06a1c8ce-5477-475f-b64d-80af8b3be8ed
+X-Runtime: 0.031848
+X-Xss-Protection: 0
+
+423
+["muenchen.social","microblog.social","kanoa.de","norden.social","ieji.de","wp-social.net","esperanto.masto.host","queer.party","ifwo.eu","troet.cafe","kif.rocks","mastodon.online","woblfedi.de","infosec.exchange","mastodon.top","feuerwehr.social","fnx.li","ioc.exchange","r2.do","mastodon.cloud","metalhead.club","qoto.org","mastodon.moeller.email","social.saarland","beta.birdsite.live","twitter.1d4.us","nonexiste.net","mastodon.wurzelmann.at","m.geraffel.net","todon.eu","graz.social","social.wien.rocks","social.jmueller.eu","chaos.social","mastodon.social","social.agb-web.de","frnd.nanoscopic.de","friendica.opensocial.space","social.dorf-post.de","social.outsourcedmath.com","social.yl.ms","friendica.xyz","f.freinetz.ch","etiketi.de","f.praschnig.com","pirati.ca","friendica.eskimo.com","friendica.mnementh.co.uk","social.trom.tf","social.fedinet.de","friendica.utzer.de","friendica.bachgau.social","anonsys.net","nerdica.net","social.johnassel.de","social.softmetz.de","loma.ml","schmaker.eu","space.rick.gr","friendica.oldkid.digital","horizin.de"]
+0
+

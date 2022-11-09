@@ -1,0 +1,55 @@
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:56:57 GMT
+Etag: "f26d4f294011b572117d6d1682d251446c3cf1c5f5d9c0128b7eff19a8ee8c8e"
+Last-Modified: Sun, 25 Sep 2022 20:22:59 GMT
+Strict-Transport-Security: max-age=31556926
+Vary: x-fh-requested-host, accept-encoding
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Served-By: cache-bru1480076-BRU
+X-Timer: S1668005818.598961,VS0,VE1
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2ko</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    @media (prefers-color-scheme: light) {
+      body {
+        background: white;
+      }
+    }
+
+    p {
+      font-size: 5rem;
+    }
+  </style>
+</head>
+
+<body>
+  <p>👉👈</p>
+</body>
+
+</html>

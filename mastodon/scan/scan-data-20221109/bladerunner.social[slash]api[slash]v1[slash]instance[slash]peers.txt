@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bladerunner.social; img-src 'self' https: data: blob: https://bladerunner.social; style-src 'self' https://bladerunner.social 'nonce-EHVirchX46jMFJWrvUPWdA=='; media-src 'self' https: data: https://bladerunner.social; frame-src 'self' https:; manifest-src 'self' https://bladerunner.social; connect-src 'self' data: blob: https://bladerunner.social https://bladerunner.social wss://bladerunner.social; script-src 'self' https://bladerunner.social; child-src 'self' blob: https://bladerunner.social; worker-src 'self' blob: https://bladerunner.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Etag: W/"09e8c7a1edb7dc44895353a7dc61b84e"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T09:50:00.071420Z
+X-Request-Id: c1451588-9213-4132-87ce-ca2e1e36cb01
+X-Runtime: 0.004909
+X-Xss-Protection: 0
+
+13
+["mastodon.social"]
+0
+

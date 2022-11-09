@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.krekt.net; img-src 'self' https: data: blob: https://m.krekt.net; style-src 'self' https://m.krekt.net 'nonce-ldRqMRG8N1tXcmSpCHI4ow=='; media-src 'self' https: data: https://m.krekt.net; frame-src 'self' https:; manifest-src 'self' https://m.krekt.net; connect-src 'self' data: blob: https://m.krekt.net https://m.krekt.net wss://m.krekt.net; script-src 'self' https://m.krekt.net; child-src 'self' blob: https://m.krekt.net; worker-src 'self' blob: https://m.krekt.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:17 GMT
+Etag: W/"1bbcde9bb6f83868d21a830a453c2fd8"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.808324Z
+X-Request-Id: 74eacd16-7a6b-4a37-bfc6-d6d4c2a14802
+X-Runtime: 0.024917
+X-Xss-Protection: 0
+
+2ee
+["mamot.fr","nondeterministic.computer","m.rakyll.org","floss.social","fosstodon.org","dan.mastohon.com","botsin.space","queer.party","simonwillison.net","schwanksta.com","journa.host","nerdculture.de","hackers.town","m.trisweb.com","oslo.town","c.im","weirder.earth","mastodon.xyz","mastodonapp.uk","mastodon.art","mastodon.world","diode.zone","tube.cyberia.club","writing.exchange","social.targaryen.house","interconnected.systems","blahaj.social","social.tchncs.de","queer.af","mastodon.gamedev.place","octodon.social","social.lol","tilde.zone","infosec.exchange","101010.pl","mastodon.social","mastodon.lol","mastodon.online","mastodon.ie","toot.cat","mstdn.social","hachyderm.io","toot.community","mahood.dev","mastodon.cloud","masthead.social"]
+0
+

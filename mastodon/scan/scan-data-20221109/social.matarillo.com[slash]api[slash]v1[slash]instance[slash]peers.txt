@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.matarillo.com; img-src 'self' https: data: blob: https://social.matarillo.com; style-src 'self' https://social.matarillo.com 'nonce-Wy+Eemt5s9pQUvu3jUrT8w=='; media-src 'self' https: data: https://social.matarillo.com; frame-src 'self' https:; manifest-src 'self' https://social.matarillo.com; connect-src 'self' data: blob: https://social.matarillo.com https://social.matarillo.com wss://social.matarillo.com; script-src 'self' https://social.matarillo.com; child-src 'self' blob: https://social.matarillo.com; worker-src 'self' blob: https://social.matarillo.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:01 GMT
+Etag: W/"020966fcc29395c9e27638d736171abf"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:30:00.943638Z
+X-Request-Id: 16b9990f-3f2b-4325-a7ad-c9382a5c4015
+X-Runtime: 0.007609
+X-Xss-Protection: 0
+
+2
+[]
+0
+

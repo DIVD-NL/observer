@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.listerdale.it; img-src 'self' https: data: blob: https://mastodon.listerdale.it; style-src 'self' https://mastodon.listerdale.it 'nonce-OC9krgm6VehOJOJgqZ+VFw=='; media-src 'self' https: data: https://mastodon.listerdale.it; frame-src 'self' https:; manifest-src 'self' https://mastodon.listerdale.it; connect-src 'self' data: blob: https://mastodon.listerdale.it https://mastodon.listerdale.it wss://mastodon.listerdale.it; script-src 'self' https://mastodon.listerdale.it; child-src 'self' blob: https://mastodon.listerdale.it; worker-src 'self' blob: https://mastodon.listerdale.it
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:44 GMT
+Etag: W/"5b210fa13e3a805c2deb2e7162670ee5"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.080638Z
+X-Request-Id: d0ad0034-b19e-4ca3-9cfc-60d3b795a2b2
+X-Runtime: 0.014863
+X-Xss-Protection: 1; mode=block
+
+678
+["saturation.social","growers.social","mastodon.pl","ieji.de","scholar.social","social.sturtz.io","social.linux.pizza","writing.exchange","nerdculture.de","vis.social","newsie.social","journa.host","queef.social","masthead.social","blacktwitter.io","socl.bz","amplifyukraine.eu","sfba.social","sully.site","chaos.social","med-mastodon.com","h4.io","econtwitter.net","octodon.social","misskey.ai","meow.social","layer8.space","photog.social","usne.social","mastodon.technology","aus.social","mastodon.nl","social.stlouist.com","mastodon-belgium.be","hachyderm.io","infosec.exchange","m.sclo.nl","meowr.me","social.anji.nl","mstdn.schoolidol.club","mastodon.uno","mstdn.love","hackers.town","wandering.shop","social.tchncs.de","mstdn.rndmm.us","1210.nl","mastodon.world","treehouse.systems","mastodon.scot","kpop.social","equestria.social","m.cmx.im","fedi.vern.cc","universeodon.com","intahnet.co.uk","someone.elses.computer","mastodon.neilzone.co.uk","social.cryptography.dog","social.coop","masto.social","mas.to","mstdn.moe","mastodon.sdf.org","toot.community","mastodon.triggerphra.se","dresden.network","mastodont.cat","lor.sh","socialclub.nyc","ioc.exchange","masto.pt","socel.net","x0r.be","macaw.social","mastodon.la","social.politicaconciencia.org","mastodon.online","djsumdog.com","mastodon.tech","eigenmagic.net","mastodon.coffee","jawns.club","mastodon.art","mastodonapp.uk","pixey.org","noc.social","masto.ai","linuxrocks.online","mstdn.social","tech.lgbt","mindly.social","mastodon.social","freeradical.zone","mastodon.green","social.hispabot.freemyip.com","kolektiva.social","fosstodon.org","bbq.snoot.com","mastodon.cloud","gensokyo.social"]
+0
+

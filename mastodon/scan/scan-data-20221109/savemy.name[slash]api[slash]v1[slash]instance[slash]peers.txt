@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:21 GMT
+Location: https://social.savemy.name
+Server: openresty
+Strict-Transport-Security: max-age=63072000;includeSubDomains; preload
+X-Served-By: savemy.name
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>

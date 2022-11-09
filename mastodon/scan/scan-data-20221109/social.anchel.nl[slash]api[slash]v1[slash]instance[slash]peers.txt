@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:48 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 982
+X-Ratelimit-Reset: 1668007087
+
+["chaos.social","gts.superseriousbusiness.org","hostux.social","hsnl.social","ieji.de","m.sclo.nl","mas.to","mastodon.coffee","mastodon.ie","mastodon.nl","mastodon.nu","mastodon.online","mastodon.social","mastodon.top","mstdn.science","mstdn.social","schleuss.online","social.sp-codes.de","sonomu.club","space.jeroenvd.nl","toet.dnzm.nl","toon.social","toot.community"]

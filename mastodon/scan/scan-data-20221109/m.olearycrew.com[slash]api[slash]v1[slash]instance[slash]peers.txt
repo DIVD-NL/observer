@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.olearycrew.com; img-src 'self' https: data: blob: https://m.olearycrew.com; style-src 'self' https://m.olearycrew.com 'nonce-W5Sp5GatJLIfCy9KIRkGww=='; media-src 'self' https: data: https://m.olearycrew.com; frame-src 'self' https:; manifest-src 'self' https://m.olearycrew.com; connect-src 'self' data: blob: https://m.olearycrew.com https://m.olearycrew.com wss://m.olearycrew.com; script-src 'self' https://m.olearycrew.com; child-src 'self' blob: https://m.olearycrew.com; worker-src 'self' blob: https://m.olearycrew.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:20 GMT
+Etag: W/"0af797dd62a8faabedd2e3e09c2275f2"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.165700Z
+X-Request-Id: 52cad59b-a4a0-40a1-8004-78380227400a
+X-Runtime: 0.006608
+X-Xss-Protection: 1; mode=block
+
+116
+["octodon.social","phpc.social","cornputer.org","sdf.land","rag.pub","infosec.exchange","emily.news","jaesharp.social","m.rakyll.org","mastodon.notasquirrel.dev","lonely.town","amastodon.uk","awscommunity.social","mastodon.social","ruby.social","mastodon.online","hachyderm.io"]
+0
+

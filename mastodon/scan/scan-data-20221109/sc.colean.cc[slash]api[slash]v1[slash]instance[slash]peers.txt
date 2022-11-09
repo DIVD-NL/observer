@@ -1,0 +1,23 @@
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Content-Length: 299
+Alt-Svc: h3-29=":443", h2=":443"
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:17:21 GMT
+Referrer-Policy: same-origin
+Server: Colean
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>503 Service Unavailable</title>
+</head><body>
+<h1>Service Unavailable</h1>
+<p>The server is temporarily unable to service your
+request due to maintenance downtime or capacity
+problems. Please try again later.</p>
+</body></html>

@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://nymwars.org; font-src 'self' https://nymwars.org; img-src 'self' data: blob: https://nymwars.org https://media.nymwars.org; style-src 'self' https://nymwars.org 'nonce-S4yRXw0eWiNCsS1fQY1wZg=='; media-src 'self' data: https://nymwars.org https://media.nymwars.org; frame-src 'self' https:; child-src 'self' blob: https://nymwars.org; worker-src 'self' blob: https://nymwars.org; connect-src 'self' blob: data: wss://nymwars.org https://nymwars.org https://media.nymwars.org; manifest-src 'self' https://nymwars.org
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:20 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.023445Z
+X-Request-Id: 0eee7ab4-e19c-4b68-a754-a7e450762093
+X-Runtime: 0.008556
+X-Xss-Protection: 0
+
+0
+

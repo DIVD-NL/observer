@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 513
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:15 GMT
+Last-Modified: Fri, 22 Jul 2022 21:30:17 GMT
+Server: nginx
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <input type="hidden" id="http" name="http" value="5000">
+        <input type="hidden" id="https" name="https" value="5001">
+        <input type="hidden" id="prefer_https" name="prefer_https" value="false">
+    </body>
+    <script type="text/javascript">
+        var protocol=location.protocol;
+        var port=location.protocol === "https:" ? 5001 : 5000;
+        var URL=protocol+"//"+location.hostname+":"+port+"/";
+        location.replace(URL);
+    </script>
+</html>

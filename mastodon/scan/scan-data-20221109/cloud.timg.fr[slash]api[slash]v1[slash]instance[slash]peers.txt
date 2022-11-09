@@ -1,0 +1,93 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.10.3
+Set-Cookie: ocwo1qxs7olp=j9fipavubn7rcn2so9l0dpqec6; path=/; secure; HttpOnly
+Set-Cookie: oc_sessionPassphrase=h6JcAv%2BClthjxWl48rT92abdSCAQ%2FWETEdXg5IRveZtUUu9rX%2F8pjkJgnxFBk2WL%2BKJekEZJWmM7UmySMtGPlCY839yldJdaAerPmaUceltR5OKt3U8lXOdiHYlg1hob; path=/; secure; HttpOnly
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+153f
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="9fS815UwvAUTMv5pfI1FJNiEfg3FJu8FQGF13IHJXoM=:h4Tf4ONH20Rxe4gEG+gzT4DUVWOSVZl3EyA/5MmTFM4=">
+		<meta charset="utf-8">
+		<title>
+		Nextcloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/apps/theming/manifest?v=0">
+		<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=ca9f0d77-0">
+<link rel="stylesheet" href="/core/css/guest.css?v=7ca63960-0">
+		<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/oc.js?v=7ca63960"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/dist/main.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/js/core/merged-template-prepend.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/search/js/search.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/backgroundjobs.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/dist/share_backend.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/apps/files_videoplayer/js/main.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/search/js/searchprovider.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/files/fileinfo.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/files/client.js?v=7ca63960-0"></script>
+<script nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0=" defer src="/core/js/dist/login.js?v=7ca63960-0"></script>
+		<link rel="stylesheet" href="/apps/theming/styles?v=0"/><script defer src="/apps/theming/js/theming?v=0" nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0="></script><script defer src="/apps/accessibility/js/accessibility?v=0" nonce="OWZTODE1VXd2QVVUTXY1cGZJMUZKTmlFZmczRkp1OEZRR0YxM0lISlhvTT06aDRUZjRPTkgyMFJ4ZTRnRUcrZ3pUNERVVldPU1ZabDNFeUEvNU1tVEZNND0="></script><meta property="og:title" content="Nextcloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://cloud.timg.fr/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.timg.fr/core/img/favicon-touch.png"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener" class="entity-name">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>
+
+0
+

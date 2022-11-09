@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:29 GMT
+Permissions-Policy: interest-cohort=()
+Server: gotosocial
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 999
+X-Ratelimit-Reset: 1668007469
+
+["chaos.social","fosstodon.org","infosec.exchange","masto.nobigtech.es","mastodon.ie","mastodon.matrix.org","mastodon.sdf.org","mastodon.social","mastodon.uno","mastodon.xyz","mstdn.social","social.tenak.net","toot.community"]

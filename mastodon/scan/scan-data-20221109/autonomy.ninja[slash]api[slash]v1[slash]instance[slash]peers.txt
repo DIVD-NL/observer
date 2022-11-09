@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://autonomy.ninja; img-src 'self' https: data: blob: https://autonomy.ninja; style-src 'self' https://autonomy.ninja 'nonce-iGJfwadjOJ1wQ/mynY6Dug=='; media-src 'self' https: data: https://autonomy.ninja; frame-src 'self' https:; manifest-src 'self' https://autonomy.ninja; connect-src 'self' data: blob: https://autonomy.ninja https://autonomy.ninja wss://autonomy.ninja; script-src 'self' https://autonomy.ninja; child-src 'self' blob: https://autonomy.ninja; worker-src 'self' blob: https://autonomy.ninja
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:50:49 GMT
+Etag: W/"c4c81874820a631daf8f0858e641fa7e"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T14:55:00.734038Z
+X-Request-Id: 5f0ac665-02c2-4bda-be53-57c5b07223cb
+X-Runtime: 0.016623
+X-Xss-Protection: 0
+
+3bc
+["mastodon.coffee","bofh.social","stop.voring.me","nonexiste.net","pleroma.1d4.us","eeeeeeeee.eu","anarchism.space","digiwake.net","social.tulsa.ok.us","uncorking.me","mathstodon.xyz","social.lol","tech.lgbt","writing.exchange","geeknews.chat","vmst.io","social.coop","commiespace.duckdns.org","a.gup.pe","hcommons.social","labyrinth.social","toot.wales","hachyderm.io","mastodon.world","waferbaby.com","resistit.net","friendica.myportal.social","toot.community","reckless.dev","hey.hagelb.org","scholar.social","freeradical.zone","mastodon.lol","postpandemicparty.org","port87.social","sciencemastodon.com","cursoryreview.org","sfba.social","mastodon.art","mstdn.social","mas.to","our.devchatter.com","halifaxsocial.ca","outerheaven.club","ak.kawen.space","vibewave.space","snowdin.town","masto.ai","fediscience.org","infosec.exchange","mastodon.green","post.lurk.org","mastodon.online","mastodonapp.uk","journa.host","kolektiva.social","mastodon.social"]
+0
+

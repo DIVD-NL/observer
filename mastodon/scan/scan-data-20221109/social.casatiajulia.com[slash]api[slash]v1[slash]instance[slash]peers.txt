@@ -1,0 +1,104 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self' blob:;style-src 'self' 'unsafe-inline';img-src 'self' data: blob: https://demo.eu.collaboraonline.com https://*.tile.openstreetmap.org;font-src 'self' data:;connect-src 'self' blob: stun.nextcloud.com:443;media-src 'self' blob:;frame-src 'self' https://demo.eu.collaboraonline.com;child-src blob: 'self';frame-ancestors 'self' https://demo.eu.collaboraonline.com;worker-src 'self' blob:;form-action 'self' https://demo.eu.collaboraonline.com
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:18:01 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'self';fullscreen 'self';geolocation 'none';microphone 'self';payment 'none'
+Onsuccess: unset Referrer-Policy
+Onsuccess: unset X-Content-Type-Options
+Onsuccess: unset X-Frame-Options
+Onsuccess: unset X-Permitted-Cross-Domain-Policies
+Onsuccess: unset X-Robots-Tag
+Onsuccess: unset X-XSS-Protection
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Set-Cookie: oc_sessionPassphrase=CKS0%2BSkL7ro5gxvZWOBWXH%2BMkYYkaPkaX%2BJ1Mwr9awK7FrmihupvJne4psSzlTrg403gSRpUPgBCveHvjmqYDfDnt0ve9LvRozWVDZYu7UknVtF2DLer140lKzgKSZjQ; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc5xwt0fgivv=e925aa41a5177c2d143cc44d3624351a; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/7.4.32
+X-Request-Id: VhgoTmGx4otnO5wBTqya
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="tlt+op3XcnqEmmDD4FckywLdoQ7TnE9EdMfCQCZFAbY=:2g4QjdnvERjcrivslz9ruXS0lliC9BY+HYinAVEGa9w=">
+		<meta charset="utf-8">
+		<title>
+		Casa tía Julia - Refugio de Ideas		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#B32712">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=18">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=18">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#B32712">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=18">
+		<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-18">
+<link rel="stylesheet" href="/core/css/guest.css?v=92519489-18">
+		<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/index.php/core/js/oc.js?v=92519489"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/core-common.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/core-main.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/core-files_fileinfo.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/core-files_client.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/index.php/js/core/merged-template-prepend.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/core/js/backgroundjobs.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/core-login.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/files_sharing-main.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/dist/accessibility-accessibilityoca.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/apps/files_rightclick/js/script.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/apps/files_rightclick/js/files.js?v=92519489-18"></script>
+<script nonce="dGx0K29wM1hjbnFFbW1ERDRGY2t5d0xkb1E3VG5FOUVkTWZDUUNaRkFiWT06Mmc0UWpkbnZFUmpjcml2c2x6OXJ1WFMwbGxpQzlCWStIWWluQVZFR2E5dz0=" defer src="/apps/theming/js/theming.js?v=92519489-18"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/index.php/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="Casa tía Julia - Refugio de Ideas"/><meta property="og:description" content="Espacio de formación y colaboración online"/><meta property="og:site_name" content="Casa tía Julia - Refugio de Ideas"/><meta property="og:url" content="https://social.casatiajulia.com/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://social.casatiajulia.com/index.php/apps/theming/icon?v=18"/><link rel="stylesheet" href="/index.php/apps/theming/styles?v=18"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC41LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC41IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCJ9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9zb2NpYWwuY2FzYXRpYWp1bGlhLmNvbVwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6ImM3NDhlOGZjNTg4YjU0ZmM1YWYzOGM0NDgxYTE5ZDIwIn0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyNC4wLjEiLCJzdGF0dXMiOnsiZ2xvYmFsU2NhbGUiOmZhbHNlfSwic2V0dGluZ3MiOnsiZnJvbnRlbmRFbmFibGVkIjp0cnVlLCJhbGxvd2VkQ2lyY2xlcyI6MjYyMTQzLCJhbGxvd2VkVXNlclR5cGVzIjozMSwibWVtYmVyc0xpbWl0IjotMX0sImNpcmNsZSI6eyJjb25zdGFudHMiOnsiZmxhZ3MiOnsiMSI6IlNpbmdsZSIsIjIiOiJQZXJzb25hbCIsIjQiOiJTeXN0ZW0iLCI4IjoiVmlzaWJsZSIsIjE2IjoiT3BlbiIsIjMyIjoiSW52aXRlIiwiNjQiOiJKb2luIFJlcXVlc3QiLCIxMjgiOiJGcmllbmRzIiwiMjU2IjoiUGFzc3dvcmQgUHJvdGVjdGVkIiwiNTEyIjoiTm8gT3duZXIiLCIxMDI0IjoiSGlkZGVuIiwiMjA0OCI6IkJhY2tlbmQiLCI0MDk2IjoiTG9jYWwiLCI4MTkyIjoiUm9vdCIsIjE2Mzg0IjoiQ2lyY2xlIEludml0ZSIsIjMyNzY4IjoiRmVkZXJhdGVkIiwiNjU1MzYiOiJNb3VudCBwb2ludCJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiTmV4dGNsb3VkIFVzZXIiLCIyIjoiTmV4dGNsb3VkIEdyb3VwIiwiNCI6IkVtYWlsIEFkZHJlc3MiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2lyY2xlIiwiMTAwMDAiOiJOZXh0Y2xvdWQgQXBwIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYmVyIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbiIsIjkiOiJPd25lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL3NvY2lhbC5jYXNhdGlhanVsaWEuY29tXC9pbmRleC5waHBcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIn0sImZpbGVzX3NoYXJpbmciOnsiYXBpX2VuYWJsZWQiOnRydWUsInB1YmxpYyI6eyJlbmFibGVkIjp0cnVlLCJwYXNzd29yZCI6eyJlbmZvcmNlZCI6ZmFsc2UsImFza0Zvck9wdGlvbmFsUGFzc3dvcmQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJtdWx0aXBsZV9saW5rcyI6dHJ1ZSwiZXhwaXJlX2RhdGVfaW50ZXJuYWwiOnsiZW5hYmxlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZV9yZW1vdGUiOnsiZW5hYmxlZCI6ZmFsc2V9LCJzZW5kX21haWwiOmZhbHNlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9LCJzaGFyZWJ5bWFpbCI6eyJlbmFibGVkIjp0cnVlLCJzZW5kX3Bhc3N3b3JkX2J5X21haWwiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fX0sImZvcm1zIjp7InZlcnNpb24iOiIyLjUuMSIsImFwaVZlcnNpb25zIjpbInYxIiwidjEuMSJdfSwibm90aWZpY2F0aW9ucyI6eyJvY3MtZW5kcG9pbnRzIjpbImxpc3QiLCJnZXQiLCJkZWxldGUiLCJkZWxldGUtYWxsIiwiaWNvbnMiLCJyaWNoLXN0cmluZ3MiLCJhY3Rpb24td2ViIiwidXNlci1zdGF0dXMiXSwicHVzaCI6WyJkZXZpY2VzIiwib2JqZWN0LWRhdGEiLCJkZWxldGUiXSwiYWRtaW4tbm90aWZpY2F0aW9ucyI6WyJvY3MiLCJjbGkiXX0sInBhc3N3b3JkX3BvbGljeSI6eyJtaW5MZW5ndGgiOjEwLCJlbmZvcmNlTm9uQ29tbW9uUGFzc3dvcmQiOnRydWUsImVuZm9yY2VOdW1lcmljQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VTcGVjaWFsQ2hhcmFjdGVycyI6ZmFsc2UsImVuZm9yY2VVcHBlckxvd2VyQ2FzZSI6ZmFsc2UsImFwaSI6eyJnZW5lcmF0ZSI6Imh0dHBzOlwvXC9zb2NpYWwuY2FzYXRpYWp1bGlhLmNvbVwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9zb2NpYWwuY2FzYXRpYWp1bGlhLmNvbVwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvdmFsaWRhdGUifX0sInByb3Zpc2lvbmluZ19hcGkiOnsidmVyc2lvbiI6IjEuMTQuMCIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1ZlcnNpb24iOjIsIkFjY291bnRQcm9wZXJ0eVNjb3Blc0ZlZGVyYXRlZEVuYWJsZWQiOnRydWUsIkFjY291bnRQcm9wZXJ0eVNjb3Blc1B1Ymxpc2hlZEVuYWJsZWQiOnRydWV9LCJyaWNoZG9jdW1lbnRzIjp7InZlcnNpb24iOiI2LjIuMCIsIm1pbWV0eXBlcyI6WyJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC50ZXh0IiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuc3ByZWFkc2hlZXQiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5ncmFwaGljcyIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnByZXNlbnRhdGlvbiIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LnRleHQtZmxhdC14bWwiLCJhcHBsaWNhdGlvblwvdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5zcHJlYWRzaGVldC1mbGF0LXhtbCIsImFwcGxpY2F0aW9uXC92bmQub2FzaXMub3BlbmRvY3VtZW50LmdyYXBoaWNzLWZsYXQteG1sIiwiYXBwbGljYXRpb25cL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQucHJlc2VudGF0aW9uLWZsYXQteG1sIiwiYXBwbGljYXRpb25cL3ZuZC5sb3R1cy13b3JkcHJvIiwiYXBwbGljYXRpb25cL3ZuZC52aXNpbyIsImFwcGxpY2F0aW9uXC92bmQubXMtdmlzaW8uZHJhd2luZyIsImFwcGxpY2F0aW9uXC92bmQud29yZHBlcmZlY3QiLCJhcHBsaWNhdGlvblwvbXNvbmVub3RlIiwiYXBwbGljYXRpb25cL21zd29yZCIsImFwcGxpY2F0aW9uXC9ydGYiLCJ0ZXh0XC9ydGYiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LndvcmRwcm9jZXNzaW5nbWwuZG9jdW1lbnQiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LndvcmRwcm9jZXNzaW5nbWwudGVtcGxhdGUiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXdvcmQuZG9jdW1lbnQubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy13b3JkLnRlbXBsYXRlLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnNwcmVhZHNoZWV0bWwuc2hlZXQiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnNwcmVhZHNoZWV0bWwudGVtcGxhdGUiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLnNoZWV0Lm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtZXhjZWwudGVtcGxhdGUubWFjcm9FbmFibGVkLjEyIiwiYXBwbGljYXRpb25cL3ZuZC5tcy1leGNlbC5hZGRpbi5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLWV4Y2VsLnNoZWV0LmJpbmFyeS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXBvd2VycG9pbnQiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnByZXNlbnRhdGlvbm1sLnByZXNlbnRhdGlvbiIsImFwcGxpY2F0aW9uXC92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwudGVtcGxhdGUiLCJhcHBsaWNhdGlvblwvdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnByZXNlbnRhdGlvbm1sLnNsaWRlc2hvdyIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC5hZGRpbi5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXBvd2VycG9pbnQucHJlc2VudGF0aW9uLm1hY3JvRW5hYmxlZC4xMiIsImFwcGxpY2F0aW9uXC92bmQubXMtcG93ZXJwb2ludC50ZW1wbGF0ZS5tYWNyb0VuYWJsZWQuMTIiLCJhcHBsaWNhdGlvblwvdm5kLm1zLXBvd2VycG9pbnQuc2xpZGVzaG93Lm1hY3JvRW5hYmxlZC4xMiIsInRleHRcL2NzdiJdLCJtaW1ldHlwZXNOb0RlZmF1bHRPcGVuIjpbImltYWdlXC9zdmcreG1sIiwiYXBwbGljYXRpb25cL3BkZiIsInRleHRcL3BsYWluIiwidGV4dFwvc3ByZWFkc2hlZXQiXSwiY29sbGFib3JhIjp7ImNvbnZlcnQtdG8iOnsiYXZhaWxhYmxlIjp0cnVlLCJlbmRwb2ludCI6IlwvY29vbFwvY29udmVydC10byJ9LCJoYXNNb2JpbGVTdXBwb3J0Ijp0cnVlLCJoYXNQcm94eVByZWZpeCI6ZmFsc2UsImhhc1RlbXBsYXRlU2F2ZUFzIjpmYWxzZSwiaGFzVGVtcGxhdGVTb3VyY2UiOnRydWUsInByb2R1Y3ROYW1lIjoiQ29sbGFib3JhIE9ubGluZSIsInByb2R1Y3RWZXJzaW9uIjoiMjIuMDUuNy4yc25hcHNob3QiLCJwcm9kdWN0VmVyc2lvbkhhc2giOiI3ZjI3ZDI5Iiwic2VydmVySWQiOiJkZDdlMDQ1YSJ9LCJkaXJlY3RfZWRpdGluZyI6dHJ1ZSwidGVtcGxhdGVzIjp0cnVlLCJwcm9kdWN0TmFtZSI6IkNvbGxhYm9yYSBPbmxpbmUiLCJjb25maWciOnsid29waV91cmwiOiJodHRwczpcL1wvZGVtby5ldS5jb2xsYWJvcmFvbmxpbmUuY29tIiwicHVibGljX3dvcGlfdXJsIjoiaHR0cHM6XC9cL2RlbW8uZXUuY29sbGFib3Jhb25saW5lLmNvbSIsImRpc2FibGVfY2VydGlmaWNhdGVfdmVyaWZpY2F0aW9uIjoiIiwiZWRpdF9ncm91cHMiOm51bGwsInVzZV9ncm91cHMiOm51bGwsImRvY19mb3JtYXQiOm51bGwsInRpbWVvdXQiOjE1fX0sInNwcmVlZCI6eyJmZWF0dXJlcyI6WyJhdWRpbyIsInZpZGVvIiwiY2hhdC12MiIsImNvbnZlcnNhdGlvbi12NCIsImd1ZXN0LXNpZ25hbGluZyIsImVtcHR5LWdyb3VwLXJvb20iLCJndWVzdC1kaXNwbGF5LW5hbWVzIiwibXVsdGktcm9vbS11c2VycyIsImZhdm9yaXRlcyIsImxhc3Qtcm9vbS1hY3Rpdml0eSIsIm5vLXBpbmciLCJzeXN0ZW0tbWVzc2FnZXMiLCJkZWxldGUtbWVzc2FnZXMiLCJtZW50aW9uLWZsYWciLCJpbi1jYWxsLWZsYWdzIiwiY29udmVyc2F0aW9uLWNhbGwtZmxhZ3MiLCJub3RpZmljYXRpb24tbGV2ZWxzIiwiaW52aXRlLWdyb3Vwcy1hbmQtbWFpbHMiLCJsb2NrZWQtb25lLXRvLW9uZS1yb29tcyIsInJlYWQtb25seS1yb29tcyIsImxpc3RhYmxlLXJvb21zIiwiY2hhdC1yZWFkLW1hcmtlciIsImNoYXQtdW5yZWFkIiwid2ViaW5hcnktbG9iYnkiLCJzdGFydC1jYWxsLWZsYWciLCJjaGF0LXJlcGxpZXMiLCJjaXJjbGVzLXN1cHBvcnQiLCJmb3JjZS1tdXRlIiwic2lwLXN1cHBvcnQiLCJjaGF0LXJlYWQtc3RhdHVzIiwicGhvbmVib29rLXNlYXJjaCIsInJhaXNlLWhhbmQiLCJyb29tLWRlc2NyaXB0aW9uIiwicmljaC1vYmplY3Qtc2hhcmluZyIsInRlbXAtdXNlci1hdmF0YXItYXBpIiwiZ2VvLWxvY2F0aW9uLXNoYXJpbmciLCJ2b2ljZS1tZXNzYWdlLXNoYXJpbmciLCJzaWduYWxpbmctdjMiLCJwdWJsaXNoaW5nLXBlcm1pc3Npb25zIiwiY2xlYXItaGlzdG9yeSIsImRpcmVjdC1tZW50aW9uLWZsYWciLCJub3RpZmljYXRpb24tY2FsbHMiLCJjb252ZXJzYXRpb24tcGVybWlzc2lvbnMiLCJyaWNoLW9iamVjdC1saXN0LW1lZGlhIiwicmljaC1vYmplY3QtZGVsZXRlIiwidW5pZmllZC1zZWFyY2giLCJyZWFjdGlvbnMiLCJjaGF0LXJlZmVyZW5jZS1pZCJdLCJjb25maWciOnsiYXR0YWNobWVudHMiOnsiYWxsb3dlZCI6ZmFsc2V9LCJjaGF0Ijp7Im1heC1sZW5ndGgiOjMyMDAwLCJyZWFkLXByaXZhY3kiOjB9LCJjb252ZXJzYXRpb25zIjp7ImNhbi1jcmVhdGUiOmZhbHNlfSwicHJldmlld3MiOnsibWF4LWdpZi1zaXplIjozMTQ1NzI4fSwic2lnbmFsaW5nIjp7InNlc3Npb24tcGluZy1saW1pdCI6MjAwfX19LCJ0aGVtaW5nIjp7Im5hbWUiOiJDYXNhIHRcdTAwZWRhIEp1bGlhIC0gUmVmdWdpbyBkZSBJZGVhcyIsInVybCI6Imh0dHBzOlwvXC9jYXNhdGlhanVsaWEuY29tIiwic2xvZ2FuIjoiRXNwYWNpbyBkZSBmb3JtYWNpXHUwMGYzbiB5IGNvbGFib3JhY2lcdTAwZjNuIG9ubGluZSIsImNvbG9yIjoiI0IzMjcxMiIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiNCMzI3MTIiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiNCMzI3MTIiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjQjMyNzEyIiwibG9nbyI6Imh0dHBzOlwvXC9zb2NpYWwuY2FzYXRpYWp1bGlhLmNvbVwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvbG9nbz91c2VTdmc9MSZ2PTE4IiwiYmFja2dyb3VuZCI6Imh0dHBzOlwvXC9zb2NpYWwuY2FzYXRpYWp1bGlhLmNvbVwvaW5kZXgucGhwXC9hcHBzXC90aGVtaW5nXC9pbWFnZVwvYmFja2dyb3VuZD92PTE4IiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvc29jaWFsLmNhc2F0aWFqdWxpYS5jb21cL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dXNlU3ZnPTEmdj0xOCIsImZhdmljb24iOiJodHRwczpcL1wvc29jaWFsLmNhc2F0aWFqdWxpYS5jb21cL2luZGV4LnBocFwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dXNlU3ZnPTEmdj0xOCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiQ2FzYSB0XHUwMGVkYSBKdWxpYSAtIFJlZnVnaW8gZGUgSWRlYXMiLCJ1cmwiOiJodHRwczpcL1wvY2FzYXRpYWp1bGlhLmNvbSIsInNsb2dhbiI6IkVzcGFjaW8gZGUgZm9ybWFjaVx1MDBmM24geSBjb2xhYm9yYWNpXHUwMGYzbiBvbmxpbmUiLCJjb2xvciI6IiNCMzI3MTIiLCJpbXByaW50VXJsIjoiIiwicHJpdmFjeVVybCI6IiIsImludmVydGVkIjpmYWxzZSwiY2FjaGVCdXN0ZXIiOiIxOCJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Casa tía Julia - Refugio de Ideas								</h1>
+																	<img src="/index.php/apps/theming/image/logo?useSvg=1&amp;v=18"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://casatiajulia.com" target="_blank" rel="noreferrer noopener" class="entity-name">Casa tía Julia - Refugio de Ideas</a> – Espacio de formación y colaboración online			</p>
+		</footer>
+	</body>
+</html>

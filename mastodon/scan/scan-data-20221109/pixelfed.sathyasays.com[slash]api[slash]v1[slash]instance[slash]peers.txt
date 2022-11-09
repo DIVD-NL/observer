@@ -1,0 +1,23 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767781065b1cb9b1-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:15:28 GMT
+Location: https://pixelfed.sathyasays.com:443/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OKZFTrlSQw1lvSG5efZZhte3pkxC0AM52PoMPHjayZ0JEEP5bbNlekPMn%2B1wrjF19KeuXybw8K%2FDIHNnWlnF2yjZZ0weymTT7VNNdCtC%2FJoQNfJtWQ%2Br3JPMcOK%2BzNHoZPVM7ERPiffm2A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+6e
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+</body>
+</html>
+
+0
+

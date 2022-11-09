@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://dabzyum.masto.host; img-src 'self' https: data: blob: https://dabzyum.masto.host; style-src 'self' https://dabzyum.masto.host 'nonce-lxt8RXNDBhwQnaP5ZSXk4w=='; media-src 'self' https: data: https://dabzyum.masto.host; frame-src 'self' https:; manifest-src 'self' https://dabzyum.masto.host; connect-src 'self' data: blob: https://dabzyum.masto.host https://cdn.masto.host wss://dabzyum.masto.host; script-src 'self' https://dabzyum.masto.host; child-src 'self' blob: https://dabzyum.masto.host; worker-src 'self' blob: https://dabzyum.masto.host
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:32 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.953142Z
+X-Request-Id: 212e062b-be6f-4726-99e2-06db689523ca
+X-Runtime: 0.005113
+X-Xss-Protection: 0
+
+0
+

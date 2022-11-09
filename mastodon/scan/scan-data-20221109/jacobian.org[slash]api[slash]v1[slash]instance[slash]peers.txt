@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=1200
+Cf-Cache-Status: MISS
+Cf-Ray: 767778864d0483de-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:40 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: strict-origin-when-cross-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FSETe8BPJa4nbinSp1gDC4UcfA1DLoh0nPeE3dkEdl870VpLdBUgO%2B4gIhJl42R4lYOe7POF%2BZclm1qR6xGwTPa3rjMNRw%2F4XSej%2FVY6vGnkNkkmjvguNXrBp7Yc7mg%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+
+899
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>404 Page not found - Jacob Kaplan-Moss</title><link href="/main.min.aad349384fd7773e718d951f15128576494328375e13f73cbe5875eb18e1aade.css" rel=stylesheet><link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Roboto+Condensed:300,400,700|Source+Code+Pro:400,700" rel=stylesheet><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.5.0/css/all.css integrity=sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU crossorigin=anonymous><link href=/index.xml rel=alternate type=application/rss+xml title="Jacob Kaplan-Moss"><link href=/index.xml rel=feed type=application/rss+xml title="Jacob Kaplan-Moss"></head><body class="font-serif antialiased tracking-wide bg-tan"><div class=jkm-header-background><header class="container px-2 py-8 mx-auto lg:flex"><h1 class="inline-block px-4 text-3xl font-bold tracking-tighter text-orange-500 bg-black rounded-md lg:text-4xl"><a href=/>Jacob Kaplan-Moss</a></h1><nav class="pt-5 font-sans font-bold uppercase lg:flex-1 lg:text-right"><ul><li class=inline><a class=nav-link href=/posts/>Archive</a></li><li class=inline><a class=nav-link rel=me href=https://github.com/jacobian title=github><i class="fab fa-github"></i></a></li><li class=inline><a class=nav-link rel=me href=https://social.jacobian.org/@jacob title=mastodon><i class="fab fa-mastodon"></i></a></li><li class=inline><a class=nav-link rel=me href=https://twitter.com/jacobian title=twitter><i class="fab fa-twitter"></i></a></li><li class=inline><a class=nav-link rel=me href=https://linkedin.com/in/jacobian title=linkedin><i class="fab fa-linkedin-in"></i></a></li></ul></nav></header></div><div class="container px-2 mx-auto mt-4"><main class=mt-8><h1 class="mb-4 text-4xl font-bold leading-tight tracking-tighter text-center">Not Found
+<span class="text-lg font-light">404</span></h1></main></div><footer class="container px-2 mx-auto text-center"><p class="mt-10 mb-4 text-xs text-gray-800">© Jacob Kaplan-Moss</p></footer></body></html>
+0
+

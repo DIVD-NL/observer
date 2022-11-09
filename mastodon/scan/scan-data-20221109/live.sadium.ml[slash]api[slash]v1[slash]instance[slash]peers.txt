@@ -1,0 +1,15 @@
+HTTP/1.1 302 Moved Temporarily
+Connection: close
+Content-Length: 145
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:08 GMT
+Location: https://sadium.ml
+Server: nginx/1.18.0
+
+<html>
+<head><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>

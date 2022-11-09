@@ -1,0 +1,22 @@
+HTTP/1.1 500 Error 500 - Internal Server Error
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:58:15 GMT
+Server: Apache
+Upgrade: h2
+Vary: User-Agent
+
+d2
+<html>
+	<head>
+		<title>Error 500 - Internal Server Error</title>
+	</head>
+	<body>
+		<h1>Error 500 - Internal Server Error</h1>
+		<p>Apologies but the website is unavailable at the moment.</p>
+	</body>
+</html>
+
+0
+

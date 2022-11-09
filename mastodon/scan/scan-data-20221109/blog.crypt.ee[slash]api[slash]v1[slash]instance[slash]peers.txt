@@ -1,0 +1,55 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, private, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677663b3aad2e56-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:11 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Nl7B%2BdIVx4Umb5eqZluEUOwCWcya3SJgCT6T331ORN1cw5Sl9KIjAopqfA2WiZizIm0KsOiZAOmEMi17xbt8VcZYPtpH%2F1I839wU2wTiEVTG01SV9k9gHQAT1g6USOU%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=2592000; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+4b6
+<!doctype html>
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)| IEMobile |!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>404 — Page not found</title>
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta http-equiv="cleartype" content="on">
+<link rel="stylesheet" href="/public/ghost.min.css?v=9c35977893" />
+</head>
+<body>
+<main role="main" id="main">
+<div class="gh-app">
+<div class="gh-viewport">
+<div class="gh-view">
+<section class="error-content error-404 js-error-container">
+<section class="error-details">
+<section class="error-message">
+<h1 class="error-code">404</h1>
+<h2 class="error-description">Page not found</h2>
+<a class="error-link" href="https://blog.crypt.ee">Go to the front page →</a>
+</section>
+</section>
+</section>
+</div>
+</div>
+</div>
+</main>
+</body>
+</html>
+
+0
+

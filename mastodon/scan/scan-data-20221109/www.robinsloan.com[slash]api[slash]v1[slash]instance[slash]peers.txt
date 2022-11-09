@@ -1,0 +1,311 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=3600
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:44 GMT
+Etag: W/"40c238a104c8ff0f13fe8039f853ee97"
+Last-Modified: Sun, 23 Oct 2022 00:37:49 GMT
+Server: AmazonS3
+Vary: Accept-Encoding
+Via: 1.1 35fb5634bb95f448906ffae36e04b158.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 95cDuSvx_wtVDbPKgEdIPUHdO7TuJqV-XlUyKyAUh5lVPRbcVtX0DQ==
+X-Amz-Cf-Pop: CDG50-C2
+X-Amz-Error-Code: AccessDenied
+X-Amz-Error-Message: Access Denied
+X-Cache: Error from cloudfront
+
+7e0e
+<!DOCTYPE html>
+<html lang="en">
+<!--
+  A cold rain starting
+  and no hat --
+  so?
+
+  Matsuo Basho
+-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="generator" content="The very hands of Sloan">
+<meta name="description" content="">
+<link rel="preload" href="/font/eskapade-fraktur/EskapadeFraktur.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/font/trade-gothic-next/trade-gothic-next-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/font/trade-gothic-next/trade-gothic-next-bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="next" href="/confirm/main/subscribe/">
+<!-- here: the web's most recherché method of asserting copyright! -->
+<link rel="schema.dcterms" href="https://dublincore.org/specifications/dublin-core/dcmi-terms/">
+<meta name="dcterms.dateCopyrighted" content="2022">
+<meta name="dcterms.rightsHolder" content="Robin Sloan">
+<!-- for the ghost of google reader -->
+<link rel="alternate" type="application/atom+xml" href="https://www.robinsloan.com/feed.xml">
+<link rel="icon" href="/img/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="/img/favicon-256.png">
+<title>Not found</title>
+<!-- an offering for the jealous gods -->
+<meta property="og:site_name" content="Robin Sloan">
+<meta property="og:url" content="https://www.robinsloan.com/40X/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Not found">
+<meta property="og:image" content="letter-board.png">
+<meta property="twitter:image" content="letter-board.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@robinsloan">
+<meta name="twitter:creator" content="@robinsloan">
+<meta name="twitter:title" content="Not found">
+<style type="text/css">
+@charset "UTF-8"; @font-face { font-family: "Eskapade Fraktur"; src: url("/font/eskapade-fraktur/EskapadeFraktur.woff2"); font-style: normal; font-weight: normal; font-display: swap; } @font-face { font-family: "Filosofia"; src: url("/font/filosofia/filosofiaot-regular-webfont.woff2") format("woff2"); font-style: normal; font-weight: normal; font-display: swap; } @font-face { font-family: "Filosofia"; src: url("/font/filosofia/filosofiaot-italic-webfont.woff2") format("woff2"); font-style: italic; font-weight: normal; font-display: swap; } @font-face { font-family: "Filosofia"; src: url("/font/filosofia/filosofiaot-bold-webfont.woff2") format("woff2"); font-style: normal; font-weight: bold; font-display: swap; } /* @font-face { font-family: "Filosofia Grand"; src: url("/font/filosofia/filosofiagrandot-bold-webfont.woff2") format("woff2"); font-style: normal; font-weight: bold; font-display: swap; } @font-face { font-family: "Filosofia Grand"; src: url("/font/filosofia/filosofiagrandot-regular-webfont.woff2") format("woff2"); font-style: normal; font-weight: normal; font-display: swap; } */ @font-face { font-family: "Trade Gothic Next"; src: url("/font/trade-gothic-next/trade-gothic-next-regular.woff2") format("woff2"); font-style: normal; font-weight: normal; font-display: swap; } @font-face { font-family: "Trade Gothic Next"; src: url("/font/trade-gothic-next/trade-gothic-next-italic.woff2") format("woff2"); font-style: italic; font-weight: normal; font-display: swap; } @font-face { font-family: "Trade Gothic Next"; src: url("/font/trade-gothic-next/trade-gothic-next-bold.woff2") format("woff2"); font-style: normal; font-weight: bold; font-display: swap; } :root { --text-block-width: 48rem; /* was: 64ch */ --text-size: 1.5rem; --line-height: 2rem; --headline-font-stack: "Eskapade Fraktur", serif; --serif-font-stack: Filosofia, serif; --sans-serif-font-stack: "Trade Gothic Next", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; --monospace-font-stack: "VCTR Mono Trial", "JetBrains Mono", Menlo, Consolas, "Andale Mono", "Lucida Console", "Courier New", Courier, monospace; --pink: hsl(345, 80%, 80%); --green: hsl(102, 40%, 57%); --gold: hsl(42, 85%, 57%); --nice-blue: hsl(208, 100%, 45%); --dark-blue: hsl(208, 100%, 27.5%); --businessland-blue: hsl(231, 18%, 36%); --nice-red: hsl(14, 76%, 55%); --nice-purple: hsl(230, 57%, 55%); --very-dark-reddish: hsl(14, 50%, 10%); /* was 46, 100%, 5% */ --spot-color-highlight: hsla(14, 76%, 55%, 0.25); --alert-border: hsla(14, 76%, 55%, 1.0); --alert-body: hsla(14, 76%, 55%, 0.25); --audience-border: hsla(102, 40%, 57%, 1.0); --audience-body: hsla(102, 40%, 57%, 0.25); --cosmic-latte: hsl(42, 100%, 96%); /* hsl(35, 100%, 96%); */ --paper-gray: hsl(42, 0%, 96%); /* hsl(35, 100%, 96%); */ --paper-icy: hsl(208, 100%, 98%); /* icy */ /* defaults */ --spot-color: var(--nice-red); --spot-color-fade: hsla(14, 76%, 55%, 25%); --backdrop-color: var(--nice-red); --lab-color: var(--nice-purple); --background-color: var(--cosmic-latte); --body-text-color: rgba(0, 0, 0, 0.95); --body-text-color-mid: rgba(0, 0, 0, 0.5); --body-text-color-gray: rgba(0, 0, 0, 0.25); --body-link-color: var(--nice-blue); --body-text-complementary-color: var(--dark-blue); --caption-text-color: var(--body-text-color-gray); --caption-link-color: var(--body-text-color-gray); /* end defaults */ --submit-text-color: var(--paper-icy); --submit-text-hover-color: var(--paper-icy); --submit-hover-color: var(--body-text-icy); --email-field-background-color: var(--paper-icy); --email-field-border-color: var(--spot-color); --header-footer-text-color: var(--paper-icy); --header-footer-link-color: var(--body-text-color); --header-footer-text-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.25); } *, *::before, *::after { box-sizing: border-box; text-rendering: optimizeLegibility; } video::cue { color: var(--gold); font-family: var(--sans-serif-font-stack); } body, h1, h2, h3, h4, p, li, figure, figcaption, blockquote, dl, dd { margin: 0; } input, button, textarea, select { font-family: inherit; } html { font-size: 14px; overflow-x: hidden; overflow-y: scroll; height: 100%; min-height: 100%; min-height: 100vh; -webkit-font-smoothing: antialiased; -moz-font-smoothing: antialiased; font-smoothing: antialiased; } ::selection { background: var(--spot-color-highlight); } ::-moz-selection { background: var(--spot-color-highlight); } body { position: relative; display: block; font-family: var(--sans-serif-font-stack); font-size: var(--text-size); font-display: swap; line-height: var(--line-height); font-variant-numeric: lining-nums; font-variant: lining-nums; margin: 0 0 0 0; padding: 0 0 0 0; background-color: var(--backdrop-color); height: 100%; min-height: 100%; color: var(--body-text-color); } header { position: relative; display: grid; align-content: center; grap: 2rem; grid-template-columns: 1fr min(var(--text-block-width), 100%) 1fr; width: 100%; height: 4rem; margin: 0 0 0 0; align-self: start; padding: 0 1rem 0 1rem; background-color: var(--backdrop-color); } body.lab { /* --spot-color: var(--lab-color); */ } header > * { grid-column: 2; } nav { display: flex; align-items: center; justify-content: center; } nav span { display: inline-block; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; height: 2rem; margin: 0 1rem 0 0; color: var(--gold); } nav a { display: inline-block; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; height: 2rem; margin: 0 2rem 0 0; text-decoration: none; text-shadow: var(--header-footer-text-shadow); } nav a:link, nav a:visited { color: var(--header-footer-text-color); } nav a:active, nav a:hover { color: var(--header-footer-link-color); text-shadow: none; } nav a:last-child { margin-right: 0; } main { position: relative; display: grid; align-content: start; grid-template-columns: 1fr min(var(--text-block-width), 100%) 1fr; min-height: calc(100vh - 8rem); /* -4rem for nav, -2 to make the footer peek in */ margin: 0 0.25rem 0 0.25rem; padding: 0 1rem 0.25rem 1rem; border-radius: 0.5rem; /* interesting that the bottom padding just makes it feel so much better */ background-color: var(--background-color); } body.home main, body.meteor main { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; --text-size: 1.25rem; --background-color: var(--paper-gray); } /* body.lab main { font-family: var(--monospace-font-stack); font-size: 1.125rem; --text-size: 1.125rem; --background-color: var(--paper-gray); } */ body.newsletter main, body.note main, body.lab main { font-family: var(--serif-font-stack); --background-color: var(--cosmic-latte); font-size: 1.5rem; --text-size: 1.5rem; } main > * { grid-column: 2; } main.splash { align-content: center; } figure { display: block; width: 100%; max-width: 100%; margin: 0 auto 2rem auto; } figure.full-bleed { width: 100%; grid-column: 1 / -1; /* "span from the first grid line to the last grid line" */ max-width: 1280px; margin: 0 auto 2rem auto; } figure picture, figure img { display: block; width: 100%; height: auto; max-width: 100%; margin: 0 0 0 0; padding: 0 0 0 0; box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.125); } figure picture.blend { mix-blend-mode: multiply; } figcaption { font-family: var(--sans-serif-font-stack); font-size: 1.0rem; line-height: 2rem; text-align: right; margin: 0 0 0 0; padding: 0 0 0 0; color: var(--caption-text-color); } figcaption a, figcaption a:link, figcaption a:visited { color: var(--caption-link-color); text-decoration-color: var(--caption-link-color); } figcaption a:hover, figcaption a:active { text-decoration-color: var(--body-link-color); color: var(--body-link-color); } img { display: block; width: 100%; max-width: 100%; margin: 0 0 0 0; } hr { border: none; background-image: none; margin: 0 0 2rem 0; border-bottom: 1px solid rgba(0, 0, 0, 0.125); } /* hr:before { display: block; margin: 0 auto 0 auto; width: auto; height: 2rem; font-family: var(--serif-font-stack); font-size: 2rem; line-height: 2rem; color: var(--spot-color); font-weight: 800; text-align: center; content: '* * *'; text-shadow: var(--misprint-x) var(--misprint-y) var(--misprint-color); } */ hr:nth-of-type(2n+0):before { color: var(--green); } hr:nth-of-type(3n+0):before { color: var(--pink); } hr:nth-of-type(4n+0):before { color: var(--nice-blue); } hr.link { width: 25%; margin: 0 auto 2rem auto; border-bottom: 1px dashed var(--body-text-color-gray); } hr.link:before { display: none; } h1 { font-family: var(--headline-font-stack); font-style: normal; font-weight: normal; font-size: 4.0rem; line-height: 4rem; /* 4rem? */ text-align: center; padding: 2rem 0 2rem 0; margin: 2rem 0 2rem 0; width: 100%; color: var(--spot-color); /* it's a funny font... sort of off-center on this axis */ /* this sort of gets the vertical rhythm right */ transform: translateY(0.5rem); } main.splash h1 span.first-line { font-weight: 800; } main.splash h1 span.second-line { font-weight: 650; } main.splash h1 span.third-line { font-weight: 650; } directory-section { columns: 2; column-gap: 2rem; margin: 0 0 2rem 0; font-size: 1.0rem; } directory-section span.pub { display: inline; margin-left: 0.25rem; white-space: nowrap; } directory-section span.pub::before { content: '('; } directory-section span.pub::after { content: ')'; } @media only screen and (max-width: 48rem) { directory-section { columns: 1; font-size: 1.25rem; } directory-section h3 { font-size: 1.25rem; } } directory-block { display: block; /* -1rem * 2 = 2rem = gap */ break-inside: avoid-column; margin: 0 0 2rem 0; } directory-block h3 { font-family: inherit; font-style: normal; font-weight: bold; font-size: inherit; margin: 0 0 0 0; color: var(--spot-color); } directory-list ul { margin: 0 0 0 0; } directory-block ul li { margin: 0 0 0 2rem; text-indent: -2rem; /* so hacky */ } directory-block ul li:before { display: none; } hgroup { margin: 0 0 0 0; } h2 { font-family: var(--sans-serif-font-stack); font-weight: normal; font-size: 1.5rem; line-height: 2rem; margin: 0 0 2rem 0; padding: 0 0 0 0; color: var(--spot-color); } h2 a, h2 a:link, h2 a:visited { text-decoration-color: var(--body-text-color); } h2 a, h2 a:active, h2 a:hover { text-decoration-color: var(--body-link-color); } h2 a { margin-right: 0.25rem; } body.newsletter h2 { line-height: 4rem; text-align: center; background-color: var(--spot-color-fade); border-radius: 0.5rem; /* border-bottom: 1px dashed var(--spot-color); border-top: 1px dashed var(--spot-color); */ } body.newsletter h2 a, body.newsletter h2 a:link, body.newsletter h2 a:active, body.newsletter h2 a:visited { color: var(--spot-color); text-decoration: none; } body.newsletter h2 a:hover { color: var(--body-link-color); } hgroup h2 { margin: 0 0 0 0; } h3 { font-family: var(--serif-font-stack); font-style: italic; font-weight: normal; line-height: 2rem; margin: 0 auto 2rem auto; } main stamp-thwack { /* a bit hacky, who cares */ position: absolute; grid-column: 3; height: 4rem; font-family: var(--sans-serif-font-stack); margin: 4rem auto 0 -4rem; font-size: 1.25rem; letter-spacing: 0.0625rem; text-align: left; text-transform: uppercase; color: var(--body-text-complementary-color); transform: rotateZ(15deg); } main stamp-thwack label { display: inline-block; text-align: right; width: 5rem; } archive-list { text-align: center; width: auto; margin: 0 auto 0 auto; /* interesting that this extra bit just makes it feel so much better */ } archive-list h3 { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; font-style: normal; color: var(--body-text-color-gray); } p { text-indent: 0; margin: 0 0 2rem 0; hyphens: manual; /* https://css.christmas/2019/9 */ /* hyphenate-limit-chars: 6 3 2; maybe */ hyphenate-limit-last: always; text-align: justify; } p.alert { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; padding: 2rem; margin: 0 -2rem 2rem -2rem; text-align: left; max-width: 100%; } p.alert.caution { background-color: var(--alert-body); border-left: 2px solid var(--alert-border); } p.alert.audience { background-color: var(--audience-body); border-left: 2px solid var(--audience-border); } div.info { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; padding: 2rem 2rem 0 2rem; margin: 0 -2rem 2rem -2rem; text-align: left; background-color: var(--audience-body); border-left: 2px solid var(--audience-border); } div.info p { text-align: left; } p.caption { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; color: var(--body-text-color-gray); line-height: 2rem; text-align: right; margin: -2rem 0 2rem 0; } footer p { text-align: left; } details { color: var(--body-text-complementary-color); font-family: var(--sans-serif-font-stack); font-size: 1.25rem; } details summary { font-family: var(--serif-font-stack); font-size: 1.5rem; color: var(--body-text-color); cursor: pointer; margin-bottom: 2rem; } details summary::marker { color: var(--body-text-complementary-color); } details summary p { display: inline; } details summary::after { display: inline-block; margin-left: 0.5rem; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; content: '(Expand for a brief explanation.)'; color: var(--body-text-color-gray); } blockquote { margin: 0 0 0 2rem; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; color: var(--body-text-complementary-color); } main.home blockquote { font-family: var(--serif-font-stack); font-size: 1.5rem; font-style: italic; } blockquote p { text-align: left; } blockquote ul li:before { color: var(--body-text-complementary-color); } code { font-family: monospace; font-size: 1.2rem; color: var(--dark-blue); } pre { color: var(--dark-blue); margin: 0 0 2rem 0; padding: 0 0 0 0; font-family: var(--monospace-font-stack); font-size: 1.125rem; white-space: pre; overflow-x: hidden; } .bigger-screen { display: block; } .smaller-screen { display: none; } p.spacetime { /* text-indent: 2rem; */ font-size: 1.5rem; font-family: var(--serif-font-stack); font-style: italic; color: var(--spot-color); hyphens: none; } a { text-decoration-color: var(--body-text-color-gray); text-decoration-thickness: 2px; text-underline-offset: 0.0625rem; cursor: pointer; } a:link, a:visited { color: var(--body-text-color); cursor: pointer; } a:hover, a:active { text-decoration-color: var(--body-link-color); color: var(--body-link-color); cursor: pointer; } i, em { font-style: italic; } small { /* font-family: var(--sans-serif-font-stack); */ text-transform: lowercase; font-variant: small-caps; font-size: 1.5rem; white-space: nowrap; } /* b, strong { font-weight: normal; background-color: var(--spot-color-highlight); } */ b, strong { font-weight: bold; } strong.sans { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; } ul { margin: 0 0 2rem 0; padding: 0 0 0 0; list-style-type: none; } ul li { margin: 0 0 0 2rem; padding: 0 0 0 0; text-indent: -1rem; /* so hacky */ } ul li p { /* what a hack?! i have no idea why the -2rem is necessary */ margin: -2rem 0 2rem 0; text-align: left; } ul li:last-child p { margin: -2rem 0 0 0; } ul li:before { font-family: var(--sans-serif-font-stack); font-weight: bold; content: "-"; color: var(--spot-color); display: inline-block; width: 1rem; /* Also needed for space (tweak if needed) */ } ol { margin: 0 0 0 2rem; padding: 0 0 0 0; list-style-type: none; counter-reset: olcounter; } ol li { padding: 0 0 0 0; counter-increment: olcounter; } ol li::before { /* the annoying space is appearing because these are inline elements */ color: var(--spot-color); margin-left: -2.0rem; width: 1.0rem; overflow: hidden; padding-right: calc(1.0rem - 3px); /* ugh! inline elements! */ content: counter(olcounter) "."; } ol li p { /* what a hack?! i have no idea why the -2rem is necessary */ margin: -2rem 0 2rem 0; text-align: left; } span.nobr { white-space: nowrap; } span.tilde-hmm { color: var(--spot-color); } loading-spinner-placeholder { display: inline-block; width: 1rem; height: 1rem; } loading-spinner { display: inline-block; border: 2px solid var(--spot-color); border-top: 2px solid transparent; border-radius: 50%; width: 1rem; height: 1rem; animation: spin 2s linear infinite; } @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } } form.signup { display: flex; flex-direction: row; flex-wrap: wrap; margin: 0 0 2rem 0; } input[type=email] { font-family: var(--sans-serif-font-stack); font-style: normal; flex-grow: 2; margin: 0 2rem 0 0; font-size: 1.25rem; height: 4rem; text-align: center; border: none; border-radius: 0.5rem; background-color: var(--email-field-background-color); border: 1px solid var(--email-field-border-color); } form.spring input[type=email] { border: 1px solid var(--green); } form.lab input[type=email] { border: 1px solid var(--lab-color); } input[type=submit] { flex-grow: 1; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; height: 4rem; line-height: 4rem; background-color: var(--spot-color); color: var(--submit-text-color); text-align: center; border: none; border-radius: 0.5rem; -webkit-appearance: none; cursor: pointer; margin: 0 0 0 0; padding: 0 0 0 0; } form.spring input[type=submit] { background-color: var(--green); } form.lab input[type=submit] { background-color: var(--lab-color); } input[type=submit].loading { animation: submit-loading 0.8s linear infinite; /* cubic-bezier(0,0.5,0.5,1.0) */ } @keyframes submit-loading { 0% { box-shadow: 0 0 0 0 var(--spot-color); } 50% { box-shadow: 0 0 1px 2px var(--spot-color); } 100% { box-shadow: 0 0 0 0 var(--background-color); } } form input[type=submit]:hover { background-color: var(--body-text-color); } input[type=submit]:hover { color: var(--paper-icy); background-color: var(--body-text-color); } footer form.signup input[type=email] { border: none; } footer form.signup input[type=submit] { box-shadow: none; } footer form.signup input[type=submit] { background-color: var(--body-text-color-mid); } footer form.signup input[type=submit]:hover { background-color: var(--body-text-color); } form.response { display: none; position: relative; flex-direction: column; flex-wrap: nowrap; margin: 0 0 2rem 0; } form.response div.stamp { z-index: 10; position: absolute; top: 25%; left: 50%; background-image: url("/img/sent.gif"); background-repeat: no-repeat; background-size: contain; background-position: center; width: max(50%, 24rem); height: max(50%, 24rem); transform: translateX(-50%) translateY(-50%) rotate(-15deg); pointer-events: none; opacity: 0.0; } form.response.sent { pointer-events: none; } form.response.sent div.stamp { opacity: 0.5; } textarea { width: 100%; max-width: 100%; border-radius: 0.5rem; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; padding: 0.5rem 1rem 0.5rem 1rem; margin: 0 0 0.5rem 0; min-height: 16rem; } form.response div.submit-block { display: flex; flex-direction: row; justify-content: space-between; align-items: center; flex-wrap: wrap-reverse; } form.response div.submit-block input[type=submit] { max-width: 50%; } form.response.sent input[type=submit] { background-color: var(--body-text-color); } form.response div.submit-block p { max-width: 50%; font-family: var(--sans-serif-font-stack); font-size: 1rem; line-height: 1.25rem; margin: 0 2rem 0 calc(0.5rem + 1px); text-align: left; } select { max-width: 100%; font-family: var(--sans-serif-font-stack); font-size: 1rem; padding: 0.25rem; border-radius: 0.5rem; margin: 0 0 0.5rem 0; } footer { display: grid; grid-template-columns: 1fr min(var(--text-block-width), 100%) 1fr; background-color: var(--backdrop-color); padding: 2rem 1rem 0 1rem; margin: 0 0 0 0; font-family: var(--sans-serif-font-stack); font-size: 1.25rem; text-shadow: var(--header-footer-text-shadow); } footer p { hyphens: none; color: var(--header-footer-text-color); } footer > * { grid-column: 2; } footer a { text-decoration-color: var(--header-footer-text-color); } footer a:link, footer a:visited { color: var(--header-footer-text-color); } footer a:hover, footer a:active { color: var(--header-footer-link-color); text-decoration-color: var(--header-footer-link-color); text-shadow: none; } video { outline: none; width: 100%; height: auto; object-fit: cover; } /* email confirmations */ main.confirm { display: flex; flex-direction: column; align-items: center; align-content: center; justify-content: center; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background-color: var(--spot-color); text-align: center; margin: 0 0 0 0; border-radius: 0; background-size: auto; background-position: center; overflow-x: hidden; overflow-y: hidden; } main.confirm section { background-color: var(--backdrop-color); border-radius: 0.5rem; padding: 2rem; } main.confirm h1 { font-family: var(--headline-font-stack); font-size: 8rem; font-weight: normal; font-style: normal; line-height: 6rem; text-shadow: none; color: var(--paper-icy); filter: drop-shadow(0 0 0.25rem rgba(0, 0, 0, 0.5)); margin: 0 0 2rem 0; padding: 0 0 0 0; text-shadow: 0 0 0.5rem var(--spot-color), 0 0 1.0rem var(--spot-color), 0 0 2.0rem var(--body-text-color); } main.confirm h2 { font-family: var(--sans-serif-font-stack); font-size: 1.25rem; line-height: 2rem; padding: 0.25rem 1rem 0.5rem 1rem; /* background-color: rgba(0, 0, 0, 0.5); */ /* border-radius: 0.5rem; */ color: var(--paper-icy); text-shadow: 0 0 0.5rem var(--nice-purple), 0 0 1.0rem var(--nice-purple), 0 0 2.0rem var(--body-text-color); } main.confirm h2 a:link, main.confirm h2 a:visited, main.confirm h2 a:active { color: var(--paper-icy); text-decoration-color: var(--paper-icy); } main.confirm h3 { position: absolute; top: calc(100% - 4rem); width: auto; font-family: var(--sans-serif-font-stack); font-size: 1.0rem; font-style: normal; line-height: 1.0rem; padding: 0.5rem 1rem 0.75rem 1rem; margin: 0 auto 0 auto; background-color: rgba(0, 0, 0, 0.5); border-radius: 0.5rem; color: var(--paper-icy); } main.confirm h3 a:link, main.confirm h3 a:visited, main.confirm h3 a:active { color: var(--paper-icy); text-decoration-color: var(--paper-icy); } @media only screen and (max-width: 64rem) { main stamp-thwack { display: none; } } @media only screen and (max-width: 48rem) { p { hyphens: auto; text-align: left; } p.alert, div.info { padding: 2rem 1rem 2rem 1rem; margin: 0 0 2rem 0; } h1 { font-size: 2.5rem; line-height: 4rem; margin: 0 0 0 0; } /* super hack to "reset" the line breaks on the headline */ /* for smaller screens: */ /* main.splash h1 br { content: " "; display: none; } */ main:last-child { margin-bottom: 2rem; } input[type=email] { width: 100%; margin: 0 0 1rem 0; } form.response div.submit-block p { max-width: 100%; margin: 0.25rem 0 0 0; text-align: center; } form.response div.submit-block input[type=submit] { max-width: 100%; } } /* additional miscellaneous interventions... */ @media only screen and (min-width: 1600px) { /* was 1280px */ html { font-size: 18px; } } @media only screen and (max-width: 400px) { html { font-size: 13px; } h1, main.splash h1 { font-size: 4.0rem; line-height: 4rem; margin: 0 0 0 0; } main { min-height: calc(100vh - 24rem); /* bring up footer for mobile screens */ } main.splash { align-content: start; } .bigger-screen { display: none; } .smaller-screen { display: block; } } @media only screen and (max-width: 320px) { html { font-size: 11px; } }
+</style>
+<script type="text/javascript">
+if (window.location.hostname.includes("amazonaws.com") ||
+    window.location.hostname.includes("cloudfront.net") ) {
+  window.location.hostname = "www.robinsloan.com";
+}
+
+// const API_URL = "http://localhost:8080/double-dagger-super-function"
+const API_URL = "https://us-west2-double-dagger.cloudfunctions.net/double-dagger-super-function"
+const MD5_MATCH = /^[a-f0-9]{32}$/;
+
+var Society = {};
+var S = Society;
+
+Society.post = async function(payload) {
+  return await fetch(API_URL, {
+    method: "POST",
+    mode: "cors",
+    cache: "no-cache",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(payload)
+  });
+}
+
+Society.fetchSubscriberInfo = async function() {
+  let payload = { "method": "get_tags",
+                  "id": id };
+
+  let response = await S.post(payload);
+  let json = await response.json();
+
+  if (json["status"] == "unsubscribed") {
+    return;
+  }
+
+  document.querySelectorAll(".email").forEach( emailField => {
+    emailField.innerHTML = `<i>${json["email"]}</i>`;
+  });
+
+  email = json["email"];
+}
+
+Society.setupResponseFields = function() {
+  let responseFields = document.querySelectorAll("form.response");
+  if (responseFields.length == 0) { return; }
+
+  responseFields.forEach(responseField => {
+    responseField.style.display = "flex";
+  });
+
+  let stampSound = new Audio("/media/stamp-sound.mp3");
+  let sendButtons = document.querySelectorAll("input[type=submit].send-button");
+
+  sendButtons.forEach( sendButton => {
+    sendButton.addEventListener("click", async(e) => {
+      e.preventDefault(); // so the form doesn't "really" submit
+
+      let slug = sendButton.dataset.slug;
+      let text = document.querySelector(`textarea#${slug}-text`);
+      if (text.value.length == 0) { return; }
+      let dropdown = document.querySelector(`select#${slug}-mode`);
+
+      document.querySelector(`form#${slug}-response`).classList.add("sent");
+      stampSound.play();
+
+      let payload = { "method": "send_response",
+                      "url":  window.location.href,
+                      "slug": slug,
+                      "from": email,
+                      "text": text.value,
+                      "mode": dropdown.options[dropdown.selectedIndex].text
+                    };
+
+      let response = await S.post(payload);
+      // let json = await response.json();
+    });
+  });
+}
+
+Society.hideNonSubscriberContent = async function() {
+  let nonSubscriberOnlyElements = document.querySelectorAll(".non-subscriber-only");
+  nonSubscriberOnlyElements.forEach( element => {
+    element.remove();
+  });
+}
+
+Society.hideSubscriberContent = async function() {
+  let subscriberOnlyElements = document.querySelectorAll(".subscriber-only");
+  subscriberOnlyElements.forEach( element => {
+    element.remove();
+  });
+}
+
+Society.keepFunctionWarm = async function() {
+  const payload = { "method": "keep_warm" }
+
+  // no await, because we don't care; fire and forget
+  let response = S.post(payload);
+}
+
+Society.setupLinkTabHandler = async function() {
+  Society.origin = (new URL(window.location.href)).origin;
+
+  // make links to other websites open in new tabs
+  document.body.addEventListener("click", (e) => {
+    if (e.target.nodeName.toUpperCase() === "A") {
+      const url = new URL(e.target.href);
+      if ((url) && (url.origin !== Society.origin)) {
+        e.target.target = "_blank";
+      }
+    }
+  }, true);
+}
+
+var Hack = {};
+
+Hack.compensateForTypographicalWeirdness = async function() {
+  if (IS_SAFARI) {
+    console.log("💀 I'm sorry");
+    let hackStyle = document.createElement("style");
+    hackStyle.type = "text/css";
+    document.querySelector("head").appendChild(hackStyle);
+    hackStyle.sheet.insertRule("a { text-underline-offset: 0.125rem; }", 0);
+  }
+}
+
+// this runs immediately:
+
+var id;
+var email;
+
+let possibleId = window.location.hash.slice(1);
+if ((possibleId.length > 0) && (possibleId.match(MD5_MATCH))) {
+  id = possibleId;
+  history.replaceState(null, document.title, window.location.pathname);
+}
+
+const IS_SAFARI = navigator.vendor && navigator.vendor.indexOf("Apple") > -1;
+
+document.addEventListener("DOMContentLoaded", async () => {
+  if (id && id.length > 0) {
+    S.hideNonSubscriberContent();
+    await S.fetchSubscriberInfo(); // needed for next line
+    S.setupResponseFields();
+  } else {
+    S.hideSubscriberContent();
+    S.keepFunctionWarm(); // every visit pings the function to keep it running
+  }
+
+  S.setupLinkTabHandler();
+  V.setupVideoPlayers();
+  Hack.compensateForTypographicalWeirdness();
+});
+
+document.addEventListener("copy", e => {
+  let originalText = window.getSelection().toString();
+  // remove manual hyphens, if they exist; sheesh
+  let newText = originalText.replace(/\u00AD/g, "");
+  e.clipboardData.setData("text/plain", newText);
+  e.preventDefault();
+});
+
+// video stuff
+
+var VideoHandler = {};
+var V = VideoHandler;
+
+var videoCurrentlyPlaying;
+var globallyUnmuted = false;
+
+VideoHandler.playVideo = function(video) {
+  if (videoCurrentlyPlaying && videoCurrentlyPlaying !== video) {
+    videoCurrentlyPlaying.muted = true;
+  }
+  video.play();
+  /*
+  // this messes with mobile playback
+  // i.e. when a video is unmuted, it can't autoplay
+  if (globallyUnmuted) {
+    video.muted = false;
+  }
+  */
+  videoCurrentlyPlaying = video;
+}
+
+VideoHandler.pauseVideo = function(video) {
+  video.pause();
+  if (videoCurrentlyPlaying === video) {
+    videoCurrentlyPlaying = null;
+  }
+}
+
+let videoIntersectionOptions = {
+  root: document.querySelector("main"),
+  rootMargin: "0px",
+  threshold: 0.333
+}
+
+function videoIntersectionHandler(entries) {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      V.playVideo(entry.target);
+    } else {
+      V.pauseVideo(entry.target);
+    }
+  });
+}
+
+VideoHandler.setupVideoPlayers = async function() {
+  let videos = document.querySelectorAll("video");
+
+  if (videos.length == 0) { return; }
+
+  let videoObserver = new IntersectionObserver(videoIntersectionHandler, videoIntersectionOptions);
+
+  videos.forEach(video => {
+    video.pause();
+
+    if (IS_SAFARI) {
+      video.removeAttribute("controls");
+    }
+
+    // this doesn't work on Safari, for unknown reasons!
+    let captions = video.textTracks[0];
+    if (captions) {
+      captions.mode = "hidden";
+    }
+
+    video.addEventListener("click", e => {
+      let v = e.target;
+      v.muted = !v.muted;
+      // globallyUnmuted = !v.muted;
+      e.preventDefault();
+    });
+
+    videoObserver.observe(video);
+  });
+}
+</script>
+</head>
+<body>
+<main class="confirm" style="background-image: url('/img/letter-board.png')">
+<h1><span class="text">Shockingly,</span></h1>
+<h2><span class="text">I&nbsp;can&rsquo;t find anything at that address. <a href="/">Flee to safety.</a></span></h2>
+<h3><a href="https://open.smk.dk/en/artwork/image/KMS3059">Board Partition with Letter Rack and Music Book, Cornelius Norbertus Gijsbrechts, 1667-1668</a></h3>
+</main>
+</body>
+</html>
+0
+

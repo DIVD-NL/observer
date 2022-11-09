@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.diniscorreia.com; img-src 'self' https: data: blob: https://mastodon.diniscorreia.com; style-src 'self' https://mastodon.diniscorreia.com 'nonce-/7HbfbzTAeEsAfBDXVJBLA=='; media-src 'self' https: data: https://mastodon.diniscorreia.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.diniscorreia.com; connect-src 'self' data: blob: https://mastodon.diniscorreia.com https://dcmastodon.files.fedi.monster wss://mastodon.diniscorreia.com; script-src 'self' https://mastodon.diniscorreia.com; child-src 'self' blob: https://mastodon.diniscorreia.com; worker-src 'self' blob: https://mastodon.diniscorreia.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:16 GMT
+Etag: W/"1e5ca82fcc2c8536afd419e9c4c6c9d1"
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:45:00.700476Z
+X-Request-Id: e049f6a1-7f80-4e7c-8ecc-055860084d5b
+X-Runtime: 0.011815
+X-Xss-Protection: 0
+
+443
+["mastodonapp.uk","andr3.net","rojogato.com","mas.to","triangletoot.party","icosahedron.website","absolutelyhar.am","mastodon.green","mastodon.nz","coletivos.org","mastodon.lol","berlin.social","masto.pt","infosec.exchange","genomic.social","zachleat.com","mastodon.ar.al","mastodon.world","pdx.social","genart.social","ruhr.social","mastodon.xyz","xoxo.zone","mastodon.cloud","sueden.social","mastodon.art","pleroma.pt","mastodon.online","mstdn.io","universeodon.com","mastodon.social","swiss.social","mindly.social","hachyderm.io","eupolicy.social","fosstodon.org","ravenation.club","sfba.social","social.sturtz.io","front-end.social","comerocudequemestalendo.com","masto.masto.com","tech.lgbt","paquita.masto.host","mastodon.com.tr","mstdn.social","mstdn.mx","pleroma.jamesp.org","mastodon.sdf.org","mk.chocoflan.net","mk.starnix.network","leafposter.club","cybercrusade.xyz","chudbuds.lol","social.lol","mastodon.technology","mk.gabe.rocks","linuxrocks.online","mstdn.starnix.network","beefyboys.win","floss.social","gly.one","seal.cafe","sleepy.cafe","poa.st","freespeechextremist.com"]
+0
+

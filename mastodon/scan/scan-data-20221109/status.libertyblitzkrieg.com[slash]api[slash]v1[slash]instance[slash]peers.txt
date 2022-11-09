@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Apo-Via: origin,host
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767787fbc8f72e56-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:13 GMT
+Server: cloudflare
+Vary: Accept-Encoding
+
+157
+<!DOCTYPE html>
+<html>
+    <iframe src="https://cloudways-static-content.s3.us-east-1.amazonaws.com/error_page/maintenance-domain-mapping.html" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+</html>
+0
+

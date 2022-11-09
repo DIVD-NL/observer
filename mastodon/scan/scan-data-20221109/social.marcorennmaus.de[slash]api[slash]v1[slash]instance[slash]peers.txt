@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.marcorennmaus.de; img-src 'self' https: data: blob: https://social.marcorennmaus.de; style-src 'self' https://social.marcorennmaus.de 'nonce-QMZ2hN8VgR7ZyDtppm7p7w=='; media-src 'self' https: data: https://social.marcorennmaus.de; frame-src 'self' https:; manifest-src 'self' https://social.marcorennmaus.de; connect-src 'self' data: blob: https://social.marcorennmaus.de https://social.marcorennmaus.de wss://social.marcorennmaus.de; script-src 'self' https://social.marcorennmaus.de; child-src 'self' blob: https://social.marcorennmaus.de; worker-src 'self' blob: https://social.marcorennmaus.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:02 GMT
+Etag: W/"187a74afbd5111211b73535d87907184"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:45:00.865351Z
+X-Request-Id: f66ae9d4-ea87-402b-9b2e-187dacdef36c
+X-Runtime: 0.006713
+X-Xss-Protection: 0
+
+4a0
+["bocchi.social","social.fellr.net","tonkku.me","pasta.ga","eeeeeeeee.eu","anonsys.net","mastodon.ericlathrop.com","masto.astrra.space","koyu.space","strangeparts.com","video.ploud.fr","social.tromdienste.de","friendica.myportal.social","friendica.ironbug.org","fri.aethercom.de","friendica.ucy.de","friendica.mifritscher.de","friendica.togart.de","anarchydica.net","social.anacreonte.eu","poliverso.org","t2.thotsofa304.club","v2.ebano.social","f.kretschmann.social","f.iroiro.party","friendica.offsite.guru","redeyes.club","petroskowo.pl","quitter.pl","kudabiverse.com","friendica.hashy-net.de","toot.works","friendica.ambag.es","fr.readthefinemanual.net","social.afront.org","friendica.mschmidt-et.de","social.jmueller.eu","friendica.kommune4.de","friend.geoffray-levasseur.org","trollian.space","social.tyngsboroughma.net","social.anoxinon.de","pztrn.online","friendica.daniel-siepmann.de","fedi.nullob.si","f.freinetz.ch","fosstodon.org","follow.schmaller.de","friendica.opencloud.lu","la-verite-vaincra.com","chaos.social","social.dbot.dev","mstdn.ca","video.marcorennmaus.de","mastodonapp.uk","masto.ezhevita.dev","mstdn.bx23.net","aus.social","mastodon.social","mastodon.art"]
+0
+

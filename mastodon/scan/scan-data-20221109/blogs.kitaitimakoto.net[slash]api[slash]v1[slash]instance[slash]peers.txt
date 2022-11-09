@@ -1,0 +1,95 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677665b5cef2e02-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:16 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MNNjcxLZ14CtNG1e4qCXP06e1EOL%2Fy3bSU3alN7A8ofr5lR3Jh%2F00kDbldD%2BWSRlvSYVUfvRyokd5UaxKrZpF2Yt3pEA8HSHBe8FghDqk66%2FOovPZaPajQqYfX69572FNBtPkOPF8SwR4g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+b47
+<!DOCTYPE html>
+<html class="konkoni-light">
+    <head>
+        <meta charset="utf-8" />
+        <title>Page not found ⋅ Plume</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="/static/cached/22d94781/css/konkoni-light/theme.css" />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" type="image/png" href="/static/cached/22d94781/css/konkoni-light/images/konkoniFeatherFilled32.png">
+        <meta content='#282c37' name='theme-color'/>
+        
+    </head>
+    <body>
+        <header>
+            <nav id="menu">
+                <a href="#" aria-label="Menu" title="Menu" role="button" aria-haspopup="true" aria-controls="content" aria-epanded="false"><i class="icon icon-menu"></i></a>
+            </nav>
+            <div id="content" role="menu" aria-labelled-by="menu">
+                <nav>
+                    <a href="/" class="title">
+                        <img src="/static/cached/22d94781/css/konkoni-light/images/konkoniFeather.svg">
+                        <p>Plume</p>
+                    </a>
+                    <hr/>
+                    
+                </nav>
+                <nav>
+                    
+                        <a href="/search">
+                            <i class="icon icon-search"></i>
+                            <span class="mobile-label">Search</span>
+                        </a>
+                        <a href="/login">
+                            <i class="icon icon-log-in"></i>
+                            <span class="mobile-label">Log In</span>
+                        </a>
+                        <a href="/users/new">
+                            <i class="icon icon-user-plus"></i>
+                            <span class="mobile-label">Register</span>
+                        </a>
+                    
+                </nav>
+            </div>
+        </header>
+        <div class="messages">
+            
+        </div>
+        <main>
+            
+  
+  <h1>We couldn&#39;t find this page.</h1>
+  <p>The link that led you here may be broken.</p>
+
+  <p>Page not found</p>
+
+        </main>
+        <footer>
+            <hr/>
+            <div>
+                <h3>コンコニ</h3>
+                <a href="/about">About this instance</a>
+                <a href="/privacy">Privacy policy</a>
+                
+            </div>
+            <div>
+                <h3>Plume 0.7.2</h3>
+                <a href="https://docs.joinplu.me">Documentation</a>
+                <a href="https://github.com/Plume-org/Plume">Source code</a>
+                <a href="https://matrix.to/#/#plume-blog:matrix.org">Matrix room</a>
+            </div>
+        </footer>
+        <script type="module">
+          import init from '/static/cached/22d94781/plume_front.js';
+          (async () => await init())();
+        </script>
+    </body>
+</html>
+
+
+
+0
+

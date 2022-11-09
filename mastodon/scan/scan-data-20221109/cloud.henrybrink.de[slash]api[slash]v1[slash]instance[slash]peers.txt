@@ -1,0 +1,102 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src 'self';frame-ancestors 'self';form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:25 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'none';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Caddy
+Server: nginx
+Set-Cookie: oc_sessionPassphrase=AdtnzqzhCePCoTnlUW5Vq5CfYvRGJbfqFwl9uswfkseSjVX3qNGX7sy3CiWxuXmGS28seiQLUEhj6bgS1A1qjL2tlEJqbDZ%2FSEgQuJWiAYuu7EoAmgAmmemnQ%2BGgxGsi; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: ocbeld9iwxko=fmjkkms2if4gd5kq2tl6sue4g5; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload;
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: wxYnSopGOqe1yvxhA9Gm
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="wlJjlqAM/yIKme3uvzOwtPZxutYKDYPzHQSvq08FH4U=:hDcs2O19vXBBrpm2z1jm45AVy5c8TOKdSk+e4ShfbvM=">
+		<meta charset="utf-8">
+		<title>
+			Login – Henry Brink | CLOUD		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0091FF">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0091FF">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/core/css/server.css?v=09e7f2c9-55">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=1bf6e69c-55">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=47354877-55">
+<link rel="stylesheet" href="/core/css/guest.css?v=09e7f2c9-55">
+		<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/core/js/oc.js?v=09e7f2c9"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/core-common.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/core-main.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/core-files_fileinfo.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/core-files_client.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/js/core/merged-template-prepend.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/core-login.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/dist/files_sharing-main.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/apps/files_rightclick/js/script.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/apps/files_rightclick/js/files.js?v=09e7f2c9-55"></script>
+<script nonce="d2xKamxxQU0veUlLbWUzdXZ6T3d0UFp4dXRZS0RZUHpIUVN2cTA4Rkg0VT06aERjczJPMTl2WEJCcnBtMnoxam00NUFWeTVjOFRPS2RTaytlNFNoZmJ2TT0=" defer src="/apps/theming/js/theming.js?v=09e7f2c9-55"></script>
+		<meta property="og:title" content="Henry Brink | CLOUD"/><meta property="og:description" content="Powered by Nextcloud"/><meta property="og:site_name" content="Henry Brink | CLOUD"/><meta property="og:url" content="https://cloud.henrybrink.de/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.henrybrink.de/core/img/favicon-touch.png"/><link rel="stylesheet" media="" href="/apps/theming/theme/default.css?plain=1&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: light)" href="/apps/theming/theme/light.css?plain=1&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/theming/theme/dark.css?plain=1&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="(prefers-contrast: more)" href="/apps/theming/theme/light-highcontrast.css?plain=1&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="(prefers-color-scheme: dark) and (prefers-contrast: more)" href="/apps/theming/theme/dark-highcontrast.css?plain=1&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/light.css?plain=0&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/dark.css?plain=0&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/light-highcontrast.css?plain=0&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/dark-highcontrast.css?plain=0&amp;v=8effee40" class="theme"/><link rel="stylesheet" media="" href="/apps/theming/theme/opendyslexic.css?plain=0&amp;v=8effee40" class="theme"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MA==">
+					<input type="hidden" id="initial-state-core-alternativeLogins" value="W10=">
+					<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjUuMC4xLjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjUuMC4xIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIiwibG9nbGV2ZWwiOjB9">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKSgoPzpbLUEtWjAtOStfXStcXC4pK1stQS1aXSsoPzpcXFwvWy1BLVowLTkrJkAjJT89fl98ITosLjsoKV0qKSopKFxcc3xcXG58JCkifSwibWV0YWRhdGFBdmFpbGFibGUiOnsic2l6ZSI6WyJcL2ltYWdlXFxcLy4qXC8iXSwiZ3BzIjpbIlwvaW1hZ2VcXFwvLipcLyJdfSwiZmlsZXMiOnsiYmlnZmlsZWNodW5raW5nIjp0cnVlLCJibGFja2xpc3RlZF9maWxlcyI6WyIuaHRhY2Nlc3MiXSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL2Nsb3VkLmhlbnJ5YnJpbmsuZGVcL29jbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIiwiYnVsa3VwbG9hZCI6IjEuMCJ9LCJkZWNrIjp7InZlcnNpb24iOiIxLjguMSIsImNhbkNyZWF0ZUJvYXJkcyI6ZmFsc2UsImFwaVZlcnNpb25zIjpbIjEuMCIsIjEuMSJdfSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJkYXlzIjoxNCwiZW5mb3JjZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjp0cnVlLCJ1cGxvYWQiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp0cnVlfSwicmVzaGFyaW5nIjp0cnVlLCJ1c2VyIjp7InNlbmRfbWFpbCI6ZmFsc2UsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZ3JvdXBfc2hhcmluZyI6dHJ1ZSwiZ3JvdXAiOnsiZW5hYmxlZCI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkZWZhdWx0X3Blcm1pc3Npb25zIjozMSwiZmVkZXJhdGlvbiI6eyJvdXRnb2luZyI6dHJ1ZSwiaW5jb21pbmciOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9LCJleHBpcmVfZGF0ZV9zdXBwb3J0ZWQiOnsiZW5hYmxlZCI6dHJ1ZX19LCJzaGFyZWUiOnsicXVlcnlfbG9va3VwX2RlZmF1bHQiOmZhbHNlLCJhbHdheXNfc2hvd191bmlxdWUiOnRydWV9LCJzaGFyZWJ5bWFpbCI6eyJlbmFibGVkIjp0cnVlLCJzZW5kX3Bhc3N3b3JkX2J5X21haWwiOnRydWUsInVwbG9hZF9maWxlc19kcm9wIjp7ImVuYWJsZWQiOnRydWV9LCJwYXNzd29yZCI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlLCJlbmZvcmNlZCI6ZmFsc2V9fX0sImZvcm1zIjp7InZlcnNpb24iOiIzLjAuMSIsImFwaVZlcnNpb25zIjpbInYyIl19LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNi4wIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwYXNzd29yZF9wb2xpY3kiOnsibWluTGVuZ3RoIjoxMCwiZW5mb3JjZU5vbkNvbW1vblBhc3N3b3JkIjp0cnVlLCJlbmZvcmNlTnVtZXJpY0NoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlU3BlY2lhbENoYXJhY3RlcnMiOmZhbHNlLCJlbmZvcmNlVXBwZXJMb3dlckNhc2UiOmZhbHNlLCJhcGkiOnsiZ2VuZXJhdGUiOiJodHRwczpcL1wvY2xvdWQuaGVucnlicmluay5kZVwvb2NzXC92Mi5waHBcL2FwcHNcL3Bhc3N3b3JkX3BvbGljeVwvYXBpXC92MVwvZ2VuZXJhdGUiLCJ2YWxpZGF0ZSI6Imh0dHBzOlwvXC9jbG91ZC5oZW5yeWJyaW5rLmRlXC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNS4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6ZmFsc2V9LCJ0aGVtaW5nIjp7Im5hbWUiOiJIZW5yeSBCcmluayB8IENMT1VEIiwidXJsIjoiaHR0cHM6XC9cL2hlbnJ5YnJpbmsuZGUiLCJzbG9nYW4iOiJQb3dlcmVkIGJ5IE5leHRjbG91ZCIsImNvbG9yIjoiIzAwOTFGRiIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDkxRkYiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDkxRkYiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA5MUZGIiwibG9nbyI6Imh0dHBzOlwvXC9jbG91ZC5oZW5yeWJyaW5rLmRlXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9NTUiLCJiYWNrZ3JvdW5kIjoiaHR0cHM6XC9cL2Nsb3VkLmhlbnJ5YnJpbmsuZGVcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9iYWNrZ3JvdW5kP3Y9NTUiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0IjpmYWxzZSwibG9nb2hlYWRlciI6Imh0dHBzOlwvXC9jbG91ZC5oZW5yeWJyaW5rLmRlXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9NTUiLCJmYXZpY29uIjoiaHR0cHM6XC9cL2Nsb3VkLmhlbnJ5YnJpbmsuZGVcL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj01NSJ9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiSGVucnkgQnJpbmsgfCBDTE9VRCIsInVybCI6Imh0dHBzOlwvXC9oZW5yeWJyaW5rLmRlIiwic2xvZ2FuIjoiUG93ZXJlZCBieSBOZXh0Y2xvdWQiLCJjb2xvciI6IiMwMDkxRkYiLCJkZWZhdWx0Q29sb3IiOiIjMDA5MUZGIiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiNTUiLCJlbmFibGVkVGhlbWVzIjpbXX0=">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Henry Brink | CLOUD								</h1>
+							</div>
+						</div>
+					</header>
+								<main>
+					
+<div>
+	<div id="login"></div>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://henrybrink.de" target="_blank" rel="noreferrer noopener" class="entity-name">Henry Brink | CLOUD</a> – Powered by Nextcloud			</p>
+		</footer>
+	</body>
+</html>

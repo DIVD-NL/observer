@@ -1,0 +1,13 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:19 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+X-Account-Management-Status: none
+X-Powered-By: PHP/5.4.16
+
+68
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}
+0
+

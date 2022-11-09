@@ -1,0 +1,272 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 11186
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:44 GMT
+Etag: "5fd38cfd-2bb2"
+Last-Modified: Fri, 11 Dec 2020 15:15:09 GMT
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+Server: nginx/1.23.1
+Strict-Transport-Security: max-age=15768000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>C'est le délire ce soir !</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>Le Délire !</h1>
+        </header>
+
+        <section class="description">
+            <h1>Kewa ?</h1>
+            <p>
+                <strong>Bienvenue sur Le Délire</strong>&nbsp;!
+                Nous sommes un collectif hébergeant un ensemble de services
+                libres, et proposons l'utilisation à prix libre de ces services
+                à tout.e.s. Nous faisons confiance à ces personnes pour
+                qu'elles en fassent un usage responsable&nbsp;; en échange de cela,
+                nous leur demandons de nous faire confiance dans la maintenance
+                de ces services et de notre respect de leurs données privées.
+            </p>
+        </section>
+
+        <section class="description">
+            <h1>Comment y avoir accès ?</h1>
+            <p>
+                Certains services sont en accès libre&nbsp;; d'autres demandent
+                notre intervention pour vous y créer un compte. Vous pouvez
+                voir la liste des différents services ci-dessous. Si vous
+                souhaitez <strong>bénéficier des services restreints</strong>
+                que nous hébergeons, vous pouvez nous contacter via Mastodon
+                (<a href="https://tutut.delire.party/@adngdb">@adngdb</a> et <a
+                href="https://tutut.delire.party/@bnjbvr">@bnjbvr</a>) ou rejoindre
+            notre <a
+                href="https://matrix.to/#/#delire:delire.party">canal
+                Matrix</a>. Dans tous les cas, contactez-nous&nbsp;: ceci est
+            avant tout une aventure humaine&nbsp;!
+            </p>
+            <p>L'utilisation de ces services est régie par nos
+                <a href="/cgu.html">Conditions Générales d'Utilisation</a>.
+                C'est Le Délire, mais un délire qui reste
+                dans les limites de la légalité, tout de même.
+            </p>
+            <p>
+                Mettre en place ces services et en prendre soin prend du temps
+                dans la durée, comme en témoigne notre <a href="https://tutut.delire.party/@admin">activité
+                d'administration</a> (mises à jour des différents services, mise en place de sauvegardes
+                automatiques). Si vous appréciez l'utilisation de ces services, ou voulez simplement aider dans la <a
+                href="https://degooglisons-internet.org/">dégooglisation
+                d'Internet</a>,
+                vous pouvez <strong>soutenir financièrement</strong> l'équipe
+                d'administration du Délire&nbsp;: nous acceptons les dons
+                réguliers <a href="https://liberapay.com/Le_Delire/">via la plateforme Liberapay</a> !
+            </p>
+        </section>
+
+        <section class="services">
+            <h1>Services</h1>
+            <h2>En accès libre</h2>
+            <ul>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://steroids.delire.party/">
+                                Wekan
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Pour mettre votre productivité
+                            sous stéroïdes, un tableau Kanban.
+                        </span>
+                        <span>steroids.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/wekan.png" alt="Logo de Wekan" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://plaisir.delire.party/">
+                                Wallabag
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Parce que c'est toujours un
+                            plaisir de lire… plus tard.
+                        </span>
+                        <span>plaisir.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/wallabag.png" alt="Logo de Wallabag" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://urss.delire.party/">
+                                FreshRSS
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Pour lire vos fl'URSS, euh, vos flux RSS.
+                        </span>
+                        <span>urss.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/freshrss.png" alt="Logo de FreshRSS" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://colle.delire.party/">
+                                PrivateBin
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Partager des textes courts et
+                            sniffer de la colle, toujours aussi délire.
+                        </span>
+                        <span>colle.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/privatebin.png" alt="Logo de PrivateBin" />
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+        <section class="services">
+            <h2>Restreints (nous demander pour l'inscription)</h2>
+            <ul>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://teuf.delire.party/">
+                                Funkwhale
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            On écoute la musique, on fait la teuf.
+                        </span>
+                        <span>teuf.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/funkwhale.png" alt="Logo de Funkwhale" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://tutut.delire.party/">
+                                Mastodon
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Une instance du média social de micro-blogging,
+                            pour faire toot-toot, les rageux.
+                        </span>
+                        <span>tutut.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/mastodon.png" alt="Logo de Mastodon" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://nuage.delire.party/">
+                                NextCloud
+                            </a>
+                        </h3>
+                        <span class="subtitle">J'ai la tête dans le cloud.</span>
+                        <span>nuage.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/nextcloud.png" alt="Logo de NextCloud" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://manif.delire.party/">
+                                Matrix / Riot
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Pour s'organiser sans donner ses données aux multinationales.
+                        </span>
+                        <span>manif.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/riot.png" alt="Logo de Riot" />
+                    </div>
+                </li>
+                <li class="card">
+                    <div class="text">
+                        <h3 class="name">
+                            <a href="https://kodkod.delire.party/">
+                                Gitea
+                            </a>
+                        </h3>
+                        <span class="subtitle">
+                            Un endroit où stocker notre
+                            code-kod-kodeeeeeeeeeeeeette.
+                        </span>
+                        <span>kodkod.delire.party</span>
+                    </div>
+                    <div class="img">
+                        <img src="img/gitea.png" alt="Logo de Gitea" />
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>
+                Le Délire !
+                par <a href="https://tutut.delire.party/@bnjbvr">Ben</a> et <a href="https://tutut.delire.party/@adngdb">Adri</a> -
+                <a href="https://liberapay.com/Le_Delire/">Nous soutenir sur Liberapay</a> -
+                <a href="https://kodkod.delire.party/adngdb/delire.party">Sources sur kodkod</a>
+            </p>
+            <p>
+                Pour nous signaler un abus ou une quelconque requête de
+                support, vous pouvez nous envoyer un <a
+                href="mailto:delire-party@framalistes.org">email</a>. Nous
+                essayerons de vous répondre dans un délai approprié selon l'urgence
+                de la requête.
+            </p>
+        </footer>
+
+        <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+        <script>
+        (function(f, a, t, h, o, m){
+            a[h]=a[h]||function(){
+                (a[h].q=a[h].q||[]).push(arguments)
+            };
+            o=f.createElement('script'),
+            m=f.getElementsByTagName('script')[0];
+            o.async=1; o.src=t; o.id='fathom-script';
+            m.parentNode.insertBefore(o,m)
+        })(document, window, '//1984.b.delire.party/tracker.js', 'fathom');
+        fathom('set', 'siteId', 'UCDLU');
+        fathom('trackPageview');
+        </script>
+        <!-- / Fathom -->
+
+    </body>
+</html>

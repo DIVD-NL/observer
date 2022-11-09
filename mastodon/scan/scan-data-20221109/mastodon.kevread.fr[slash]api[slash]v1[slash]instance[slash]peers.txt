@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:37 GMT
+Etag: W/"f186130683d953ea3479d980d0660c61"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.650395Z
+X-Request-Id: feb644af-e4de-4af3-95ea-8449b0b3efbc
+X-Runtime: 0.011537
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+ab
+["video.pcf.fr","tube.tr4sk.me","mastodon.libre-entreprise.com","pouet.april.org","birdsite.link","tutut.delire.party","social.tcit.fr","framapiaf.org","tube.shanti.cafe"]
+0
+

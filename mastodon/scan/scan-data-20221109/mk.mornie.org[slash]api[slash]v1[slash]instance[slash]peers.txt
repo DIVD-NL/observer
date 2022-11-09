@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 104
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: private, max-age=0, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:10 GMT
+Server: Caddy
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+["fosstodon.org","social.anoxinon.de","framapiaf.org","floss.social","wandering.shop","mastodon.social"]

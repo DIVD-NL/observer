@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677818f4b2ab9b7-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.binarylife.ru wss://pleroma.binarylife.ru;media-src 'self';img-src 'self' data: blob:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:50 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8zsuQppVal5YWaBU2QXuyJj4Xb2egcBNUnyIRw76%2B9w88r9sHEvjgghQEdc68z%2FabQFlTdu7b6tQMK9fpEfA%2B5Vhcfv3S%2BZMFqH39BzlUVxdknDP9nHTz28qxXuqyE2lsAWr0eXRuto%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXze-OrWb-PL2IAGGFR
+X-Xss-Protection: 1; mode=block
+
+2d9
+["relay.schizoid.social","embracing.space","fuckonthefirst.date","cybre.space","pleroma.site","gameliberty.club","wintermute.fr.to","poa.st","anarchism.space","hackers.town","fosstodon.org","masto.nixnet.xyz","layer8.space","hunk.city","niu.moe","aspirant.de","fedi.absturztau.be","lor.sh","qoto.org","calculate.social","mastodon.sdf.org","social.hodakov.me","mastodon.ml","hentai.baby","social.librem.one","unmedicated.schizoid.social","mastodon.social","ubuntu.social","soc.ialis.me","gensokyo.social","quey.org","patch.cx","shitposting.army","mastodonsocial.ru","mastodon.technology","sneed.network","phreedom.tk","ministry.moonbutt.science","rrfarmbot.appspot.com","eeeeeeeee.eu","infosec.exchange","the.shitposting.network"]
+0
+

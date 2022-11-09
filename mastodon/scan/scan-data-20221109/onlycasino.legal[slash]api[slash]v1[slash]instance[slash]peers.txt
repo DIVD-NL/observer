@@ -1,0 +1,28 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777f6fb8a82e20-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://onlycasino.legal; img-src 'self' https: data: blob: https://onlycasino.legal; style-src 'self' https://onlycasino.legal 'nonce-xJM08UOpoUGWcU9blZmZ6w=='; media-src 'self' https: data: https://onlycasino.legal; frame-src 'self' https:; manifest-src 'self' https://onlycasino.legal; connect-src 'self' data: blob: https://onlycasino.legal https://media.onlycasino.legal wss://onlycasino.legal; script-src 'self' https://onlycasino.legal; child-src 'self' blob: https://onlycasino.legal; worker-src 'self' blob: https://onlycasino.legal
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:23 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lW9uLu2U%2F2F2ZqwuKBX1rsiIA0gFvChHKi%2F6vKfQzQ%2BU6XwagBEqSJTEP%2FZk%2Ba%2FcuZmW%2BO2eMAIYwAvgL9RYoPJQBvuDHTmAc6keRnA5Q0agAoO%2BNAX5hpud%2Fpz4byfH8WeT"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.537493Z
+X-Request-Id: c50b21da-a812-4e42-8192-c8c4aadd31ad
+X-Runtime: 0.014013
+X-Xss-Protection: 0
+
+0
+

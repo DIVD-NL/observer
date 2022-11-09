@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.incognitus.net; img-src 'self' https: data: blob: https://mastodon.incognitus.net; style-src 'self' https://mastodon.incognitus.net 'nonce-0sPGIfriUJkOq0w8foGcbA=='; media-src 'self' https: data: https://mastodon.incognitus.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.incognitus.net; connect-src 'self' data: blob: https://mastodon.incognitus.net https://files.example.com wss://mastodon.incognitus.net; script-src 'self' https://mastodon.incognitus.net 'unsafe-eval'; child-src 'self' blob: https://mastodon.incognitus.net; worker-src 'self' blob: https://mastodon.incognitus.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:30 GMT
+Etag: W/"408bc808e88c96cb7b2c77cfed92f8a1"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.752873Z
+X-Request-Id: 3b8441c8-14ea-4e65-b4b9-12b84cae2f05
+X-Runtime: 0.006443
+X-Xss-Protection: 0
+
+787
+["eeeeeeeee.eu","pleroma.1d4.us","uncorking.me","commiespace.duckdns.org","nonexiste.net","blahaj.social","social.finkhaeuser.de","intahnet.co.uk","wandering.shop","port87.social","data-folks.masto.host","mas.to","stoopid.club","brettspiel.space","botsin.space","mastodon.org.uk","mastodon.matrix.org","tiny.tilde.website","weirder.earth","ubuntu.social","plush.city","mastodon.sdf.org","sonomu.club","moa.st","troet.cafe","mastodon.technology","rollenspiel.social","toot.cat","retro.social","social.secret-wg.org","social.linux.pizza","soc.umrath.net","mastodon.uno","mastodon.gougere.fr","mastodon.room409.xyz","universeodon.com","mastodont.cat","s10y.eu","noagendasocial.com","bitcoinhackers.org","floss.social","functional.cafe","chaos.social","chatterbook.us","cybersecurity.theater","fed.hvn.network","hachyderm.io","cloud-native.social","himk.am","mastodon.lol","mastodon.cloud","freeradical.zone","panthermoderns.org","rdrama.cc","mastodon.scot","sarcasm.stream","social.tchncs.de","indieweb.social","chickenfan.club","social.targaryen.house","squeet.me","toet.dnzm.nl","mastodon.ar.al","toot.wales","masto.ai","xn--lofll-1sat.is","honk.petersanchez.com","zef.social","toot.si","floe.earth","ioc.exchange","queer.party","pleroma.stream","bsd.network","social.alster.space","slime.global","social.bearveloper.dev","social.binarydad.com","social.coop","tech.lgbt","pawoo.net","terra.incognita.net","chinwag.org","infosec.exchange","social.wideboys.org","todon.nl","c.im","octodon.social","mastodon.online","dobbs.town","bae.st","mstdn.social","appdot.net","assortedflotsam.com","mastodon.me.uk","hostux.social","peoplemaking.games","elekk.xyz","hackers.town","mastodon.ml","mastodon.gamedev.place","f.freinetz.ch","tragi.cc","gleasonator.com","typo.social","toot.cafe","helvede.net","fosstodon.org","mastodon.green","tilde.zone","eigenmagic.net","mindly.social","mastodon.art","aus.social","mastodon.social","noc.social"]
+0
+

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:28 GMT
+Etag: W/"73ada15f29921344cee69f74f1d8af00"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.545979Z
+X-Request-Id: cd619ea4-29f9-4a2d-98e1-f3ab2d476033
+X-Runtime: 0.029958
+X-Xss-Protection: 1; mode=block
+
+cf
+["mastodon.social","poa.st","noagendasocial.com","liberdon.com","crowleyclub.com","podcastindex.social","masthead.social","noc.social","freeradical.zone","ioc.exchange","infosec.exchange","fv.cottongin.xyz"]
+0
+

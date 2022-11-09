@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.lothlorien.net; img-src 'self' https: data: blob: https://mastodon.lothlorien.net; style-src 'self' https://mastodon.lothlorien.net 'nonce-EdXLYHrIRSeXCDulwi42XA=='; media-src 'self' https: data: https://mastodon.lothlorien.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.lothlorien.net; connect-src 'self' data: blob: https://mastodon.lothlorien.net https://mastodon.lothlorien.net wss://mastodon.lothlorien.net; script-src 'self' https://mastodon.lothlorien.net; child-src 'self' blob: https://mastodon.lothlorien.net; worker-src 'self' blob: https://mastodon.lothlorien.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:43 GMT
+Etag: W/"ddb1c8f9a95452af60f6041d89932ed1"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T00:40:00.005205Z
+X-Request-Id: 59db693b-10fa-4296-857b-ff338bff7768
+X-Runtime: 0.009579
+X-Xss-Protection: 0
+
+a3
+["botsin.space","mas.to","universeodon.com","mastodon.social","eeeeeeeee.eu","pleroma.1d4.us","nonexiste.net","thetooniverse.xyz","port87.social","toot.community"]
+0
+

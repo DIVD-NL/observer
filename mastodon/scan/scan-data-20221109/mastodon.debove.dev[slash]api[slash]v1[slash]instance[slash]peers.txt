@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.debove.dev; img-src 'self' https: data: blob: https://mastodon.debove.dev; style-src 'self' https://mastodon.debove.dev 'nonce-GsiwzIXg4jIDZIZIe/pL0w=='; media-src 'self' https: data: https://mastodon.debove.dev; frame-src 'self' https:; manifest-src 'self' https://mastodon.debove.dev; connect-src 'self' data: blob: https://mastodon.debove.dev https://mastodon.debove.dev wss://mastodon.debove.dev; script-src 'self' https://mastodon.debove.dev; child-src 'self' blob: https://mastodon.debove.dev; worker-src 'self' blob: https://mastodon.debove.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:10 GMT
+Etag: W/"29c6226ac4ebde01ef60394c1827910e"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.168999Z
+X-Request-Id: 5ea8d8c4-cf14-4434-92d6-ca5dc9040175
+X-Runtime: 0.015318
+X-Xss-Protection: 0
+
+146
+["mastodon.xyz","bitcoinhackers.org","mstdn.fr","mastodon.lol","mastodon.nl","eldritch.cafe","tech.lgbt","amicale.net","mastodon.online","sciences.re","respublicae.eu","h4.io","framapiaf.org","mastodon.gougere.fr","tooting.ch","mamot.fr","masto.bike","mastodon.green","boitam.eu","mastodon.top","piaille.fr","mastodon.social"]
+0
+

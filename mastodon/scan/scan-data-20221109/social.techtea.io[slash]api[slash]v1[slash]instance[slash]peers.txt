@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 3092
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.techtea.io wss://social.techtea.io;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:43 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: openresty
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzskBXPITl5I0B8FKC
+X-Served-By: social.techtea.io
+X-Xss-Protection: 1; mode=block
+
+["friendica.utzer.de","cybre.space","toot.site","mastodon.cloud","quitter.pl","social.msitc.de","socks.pinnoto.org","fedi.absturztau.be","linuxrocks.online","mastodon.social","friendica.jb-net.us","queer.party","red.niboe.info","mamot.fr","social.tchncs.de","friendica.ironbug.org","social.anaproy.nl","noc.social","open.audio","mastodon.1o1.io","libretooth.gr","fedi.xaloc.space","amical.info","hellsite.site","toot-lab.reclaim.technology","la-verite-vaincra.nohost.me","sunbeam.city","plush.city","aus.social","pirati.ca","banana.dog","aspiechattr.me","floss.social","stop.voring.me","dica.interfel.de","social.wideboys.org","social.isurf.ca","dragon.style","libranet.de","social.broers.me","friendica.valvin.fr","monads.online","metalhead.club","f.freinetz.ch","masto.pt","social.exozy.me","eeeeeeeee.eu","mastodon.art","schmaker.eu","ioc.exchange","masto.nogafam.es","oc.todon.fr","friendica.mnementh.co.uk","osna.social","sovran.me","social.surfnet.space","squeet.me","anarchism.space","friendica.eskimo.com","blob.cat","noagendasocial.com","im-in.space","mastodon.indie.host","meow.social","friendica.ellih.eu","ruhr.social","social.tromdienste.de","framapiaf.org","pleroma.soykaf.com","mastodon.technology","tooting.ch","social.masto.host","en.osm.town","mastodon.xyz","fluf.club","troet.cafe","equestria.social","friendi.linuxand.beer","masto.1146.nohost.me","loma.ml","qoto.org","tube.tchncs.de","social.linux.pizza","masto.nobigtech.es","f.matri.ml","mast.linuxgamecast.com","pztrn.online","bitcoinhackers.org","bsd.network","onlinegemein.de","liberdon.com","octodon.social","dis-le.de","social.avery.cafe","surfin.dog","horizin.de","social.thierrytalbert.fr","friends.johalla.org","uwu.social","mastodon.acc.sunet.se","fediverse.one","social.gl-como.it","mastodon.gougere.fr","friendica.vrije-mens.org","todon.nl","nerdica.net","mastodon.ml","nixnet.social","social.trom.tf","mas.to","the.shitposting.network","cawfee.club","sociale.network","newsbots.eu","etiketi.de","m.costas.dev","mastodon.uno","friendica.bachgau.social","mastodon.online","social.coop","mstdn.io","khiar.net","mstdn.starnix.network","social.librem.one","paypig.org","friendica.opensocial.space","social.cool110.xyz","merveilles.town","freespeech.group","shorage.de","mk.nixnet.social","redeyes.club","mordor.social","podworko.fidura.waw.pl","chaos.social","friendica.xyz","social.anufrij.de","canic.us","layer8.space","horche.demkontinuum.de","mastodon.fam-ribbers.com","social.jmueller.eu","tech.lgbt","unmedicated.schizoid.social","zap.dog","shitposting.army","venera.social","tilde.zone","indieweb.social","sneed.network","social.opendesktop.org","f.praschnig.com","a.rathersafe.space","blog.serverok.pl","friendica.oldkid.digital","tube.kockatoo.org","social.esmailelbob.xyz","beta.birdsite.live","hunk.city","g1zm0.social","soc.schuerz.at","f.haeder.net","hackers.town","mstdn.social","mastodon.codingfield.com","tooteam.potchan.org","botsin.space","fosstodon.org","social.anoxinon.de","101010.pl","freeradical.zone","wandering.shop","librenet.co.za","anonsys.net","social.yl.ms","la-verite-vaincra.com"]

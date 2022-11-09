@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.chaosmagick.com; img-src 'self' https: data: blob: https://social.chaosmagick.com; style-src 'self' https://social.chaosmagick.com 'nonce-Kt1hlBwE7SR/gOfMANEOBg=='; media-src 'self' https: data: https://social.chaosmagick.com; frame-src 'self' https:; manifest-src 'self' https://social.chaosmagick.com; connect-src 'self' data: blob: https://social.chaosmagick.com https://social.chaosmagick.com wss://social.chaosmagick.com; script-src 'self' https://social.chaosmagick.com; child-src 'self' blob: https://social.chaosmagick.com; worker-src 'self' blob: https://social.chaosmagick.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:04 GMT
+Etag: W/"80eab33a79b52f0525b255e3f704116d"
+Permissions-Policy: interest-cohort=()
+Server: Elestio
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cache-Status: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.633430Z
+X-Request-Id: 81df51bf-5e82-4f20-890a-baeb6cf253a4
+X-Runtime: 0.008505
+X-Xss-Protection: 0
+
+4a
+["ni.hil.ist","pagan.plus","eldritch.cafe","fosstodon.org","mastodon.xyz"]
+0
+

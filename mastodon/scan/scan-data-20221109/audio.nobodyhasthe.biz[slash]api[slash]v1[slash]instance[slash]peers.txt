@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 179
+Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src https://s3.us-east-2.wasabisys.com 'self' data:; font-src 'self' data:; object-src 'none'; media-src https://s3.us-east-2.wasabisys.com 'self' data:
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:04 GMT
+Server: nginx
+Vary: Cookie, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Not Found</title>
+</head>
+<body>
+  <h1>Not Found</h1><p>The requested resource was not found on this server.</p>
+</body>
+</html>

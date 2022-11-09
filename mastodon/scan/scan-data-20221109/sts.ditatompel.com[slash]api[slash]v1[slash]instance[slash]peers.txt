@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778825ac89d4a4-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://sts.ditatompel.com; img-src 'self' https: data: blob: https://sts.ditatompel.com; style-src 'self' https://sts.ditatompel.com 'nonce-xCXrMJWuig6gnUt0m/Gz5Q=='; media-src 'self' https: data: https://sts.ditatompel.com; frame-src 'self' https:; manifest-src 'self' https://sts.ditatompel.com; connect-src 'self' data: blob: https://sts.ditatompel.com https://sts.ditatompel.com wss://sts.ditatompel.com; script-src 'self' https://sts.ditatompel.com; child-src 'self' blob: https://sts.ditatompel.com; worker-src 'self' blob: https://sts.ditatompel.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:20 GMT
+Etag: W/"9de393f69665651751617fc8bf7938e2"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FEZ%2Bec7Nerw17wihK8u4%2BmnzR6IMEUkaPyDNj%2BtPP2P5GNSo5vUona0V72suOvXSJnAQ7hExVRjKdo1ZAu9biFdTSqACbF%2F1bNe7URhPd%2BzebknnvrqYkPuBP8xV6Twpf6kkE6M%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:20:00.008250Z
+X-Request-Id: 448f96db-390f-4962-a910-463d157bf1fc
+X-Runtime: 0.021791
+X-Xss-Protection: 0
+
+78d
+["social.yl.ms","social.johnassel.de","keybored.me","social.jmueller.eu","friendica.bachgau.social","follow.schmaller.de","f.kretschmann.social","f.iroiro.party","friendica.ambag.es","horizin.de","friendica.opencloud.lu","social.softmetz.de","friendica.ingram-braun.net","friendica.ru","social.thierrytalbert.fr","friendica.m14xa.ru","social.fedinet.de","friendica.hashy-net.de","social.outsourcedmath.com","friendica.mifritscher.de","friendica.utzer.de","friendica.hubup.pro","letus.inspiredlife.fun","friendica.ironbug.org","friendicarg.nsupdate.info","social.digitalcastle.me","quitter.pl","nsfw.wnymathguy.com","space.rick.gr","poliverso.org","friendica.myportal.social","scl.clttr.info","nerdica.net","kudabiverse.com","social.dorf-post.de","pztrn.online","vicedomini.cloud","friendica.oldkid.digital","friendica.offsite.guru","talkabout.cf","soc.citizen4.eu","fr.readthefinemanual.net","fed.sonnenmulde.at","f.freinetz.ch","fri.aethercom.de","social.tromdienste.de","friendica.togart.de","social.cyano.at","friendica.opensocial.space","friend.geoffray-levasseur.org","friendica.vrije-mens.org","friendica.nz","friendica.hellquist.eu","anarchydica.net","social.lucentinian.com","herzbu.de","social.anacreonte.eu","redeyes.club","social.cool110.xyz","rud.life","friendica.a-zwenkau.de","t2.thotsofa304.club","schmaker.eu","f.praschnig.com","walls.social","social.chadwaltercummings.me","fabler.su","friendica.eskimo.com","friendica.dezucked.com","v2.ebano.social","la-verite-vaincra.com","hullblasters.club","friend.snet.blog","social.gl-como.it","social.tyngsboroughma.net","friendica.daniel-siepmann.de","opensocial.at","friendica.ucy.de","friendl.y-y.li","friendica.mschmidt-et.de","friendica.me","social.trom.tf","friendica.steampunk.social","g1zm0.social","steampunk.social","mb.neurario.com","friendica.kommune4.de","bots.reinhart1010.id","frnd.nanoscopic.de","philos.fkn-systems.de","petroskowo.pl","piratenpartei.social"]
+0
+

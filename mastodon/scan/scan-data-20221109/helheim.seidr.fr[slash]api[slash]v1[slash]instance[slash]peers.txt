@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://helheim.seidr.fr; img-src 'self' https: data: blob: https://helheim.seidr.fr; style-src 'self' https://helheim.seidr.fr 'nonce-wa1tHsltHQXJnuvt0Fr8ng=='; media-src 'self' https: data: https://helheim.seidr.fr; frame-src 'self' https:; manifest-src 'self' https://helheim.seidr.fr; connect-src 'self' data: blob: https://helheim.seidr.fr https://helheim.seidr.fr wss://helheim.seidr.fr; script-src 'self' https://helheim.seidr.fr; child-src 'self' blob: https://helheim.seidr.fr; worker-src 'self' blob: https://helheim.seidr.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:08:22 GMT
+Etag: W/"867567c68dbaf1978d344bf863f393ed"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.167188Z
+X-Request-Id: f06005e9-ab7f-4fe9-8efc-8e16312e8fa6
+X-Runtime: 0.006609
+X-Xss-Protection: 0
+
+3f7
+["mastodon.xyz","friendica.daniel-siepmann.de","metalhead.club","friendica.mschmidt-et.de","your.sensor.community","fr.readthefinemanual.net","f.kretschmann.social","machteburch.social","social.tromdienste.de","social.jmueller.eu","quitter.pl","framapiaf.org","mastodon.jfmblinux.fr","mas.to","fri.aethercom.de","friendica.opencloud.lu","friendica.offsite.guru","mk.chocoflan.net","cybercrusade.xyz","chudbuds.lol","gly.one","freespeechextremist.com","beefyboys.win","djsumdog.com","social.mrhands.horse","sleepy.cafe","gleasonator.com","poa.st","noc.social","fediverse.pl","mstdn.social","nicecrew.digital","seal.cafe","pl.seahorse.sh","eveningzoo.club","hub.natehiggers.online","nightshift.social","pleroma.jamesp.org","rojogato.com","mk.starnix.network","mastodon.sdf.org","mstdn.starnix.network","leafposter.club","mk.gabe.rocks","linuxrocks.online","social.anoxinon.de","floss.social","fosstodon.org","mastodon.technology","friendica.togart.de","friendica.myportal.social","friendica.ucy.de","mastodon.social"]
+0
+

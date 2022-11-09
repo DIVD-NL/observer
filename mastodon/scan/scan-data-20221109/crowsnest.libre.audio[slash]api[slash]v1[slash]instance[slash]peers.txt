@@ -1,0 +1,16 @@
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Content-Length: 299
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:57:31 GMT
+Server: Apache/2.4.51 (Fedora) OpenSSL/1.1.1l mod_auth_gssapi/1.6.3
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>503 Service Unavailable</title>
+</head><body>
+<h1>Service Unavailable</h1>
+<p>The server is temporarily unable to service your
+request due to maintenance downtime or capacity
+problems. Please try again later.</p>
+</body></html>

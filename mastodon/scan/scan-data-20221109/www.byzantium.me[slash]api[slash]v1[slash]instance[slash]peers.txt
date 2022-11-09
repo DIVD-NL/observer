@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://www.byzantium.me wss://www.byzantium.me;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:32 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXz2XDZet-d8P0AFlHB
+X-Xss-Protection: 1; mode=block
+
+5ba
+["kurosawa.moe","socialgoblins.club","gorf.pub","troll.cafe","amala.schwartzwelt.xyz","pl.cursed.observer","freespeechextremist.com","social.handholding.io","shrike.club","mastodon.social","chudbuds.lol","lizards.live","detroitriotcity.com","sneed.social","gleasonator.com","journa.host","mastodon.nu","urchan.org","freecumextremist.com","leafposter.club","eientei.org","dumbopinions.xyz","pieville.net","friendica.myportal.social","cawfee.club","leadslinger.org","sperg.city","stereophonic.space","quietplace.xyz","mastodon.online","fr13nd5.com","shortstackran.ch","shitposter.club","elfnostate.info","seal.cafe","morale.ch","gameliberty.club","misskey.bubbletea.dev","milker.cafe","calobar.club","glindr.org","eeeeeeeee.eu","fedibird.com","pleroma.skyshanty.xyz","honkwerx.tech","shigusegubu.club","gearlandia.haus","fedi.pawlicker.com","pl.gamers.exposed","pleroma.nobodyhasthe.biz","noagendasocial.com","varishangout.net","geofront.rocks","mugicha.club","rdrama.cc","collapsitarian.io","shitpost.racing","retard.tech","poa.st","s.ystn.win","nationaljustice.social","muh.wang","eveningzoo.club","wolfgirl.bar","bae.st","sleepy.cafe","shitpost.cloud","pooper.social","headcannon.xyz","mstdn.social","undergamer.quest","rojogato.com","akko.disqordia.space","monstergirl.space","pleroma.kitsunemimi.club","nicecrew.digital","news.twtr.plus","strelizia.net","hidamari.apartments","social.teci.world","bitcoinhackers.org","sneed.vip","freeatlantis.com","liberdon.com"]
+0
+

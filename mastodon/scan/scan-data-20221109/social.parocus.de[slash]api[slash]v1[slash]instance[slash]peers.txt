@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.parocus.de; img-src 'self' https: data: blob: https://social.parocus.de; style-src 'self' https://social.parocus.de; media-src 'self' https: data: https://social.parocus.de; frame-src 'self' https:; manifest-src 'self' https://social.parocus.de; connect-src 'self' data: blob: https://social.parocus.de https://social.parocus.de wss://social.parocus.de; script-src 'self' https://social.parocus.de; child-src 'self' blob: https://social.parocus.de; worker-src 'self' blob: https://social.parocus.de
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:16 GMT
+Referrer-Policy: strict-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.490948Z
+X-Request-Id: 3e13c69a-bbd2-4ad5-8aa1-fc133889d5fb
+X-Runtime: 0.006798
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+
+0
+

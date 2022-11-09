@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.vasi.li wss://social.vasi.li;media-src 'self';img-src 'self' data: blob:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:57 GMT
+Permissions-Policy: interest-cohort=()
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXztXPOCAUGJOQABozR
+X-Xss-Protection: 1; mode=block
+
+1f9
+["woof.group","mstdn.fr","iwatedon.net","digipres.club","social.tulsa.ok.us","lgbt.io","libranet.de","hentai.baby","unmedicated.schizoid.social","mastodon.social","oslo.town","wintermute.fr.to","merveilles.town","mstdn.social","cathode.church","toot.fedilab.app","mastodon.jepsen.io","mastodon.ar.al","a.rathersafe.space","hunk.city","circletocqueville.no","social.wideboys.org","weirder.earth","m.bonzoesc.net","eeeeeeeee.eu","howlsoverelpaso.xyz","jawns.club","goblin.camp","chaos.social","bsd.network"]
+0
+

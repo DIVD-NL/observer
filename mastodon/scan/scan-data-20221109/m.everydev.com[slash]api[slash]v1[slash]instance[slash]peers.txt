@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.everydev.com; img-src 'self' https: data: blob: https://m.everydev.com; style-src 'self' https://m.everydev.com 'nonce-HL+lzdSvLHo66+WnSuPdzg=='; media-src 'self' https: data: https://m.everydev.com; frame-src 'self' https:; manifest-src 'self' https://m.everydev.com; connect-src 'self' data: blob: https://m.everydev.com https://m.everydev.com wss://m.everydev.com; script-src 'self' https://m.everydev.com; child-src 'self' blob: https://m.everydev.com; worker-src 'self' blob: https://m.everydev.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:15 GMT
+Etag: W/"a11831ec63ee3d18c7d0b7304b69e179"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.451775Z
+X-Request-Id: ffa5670d-aead-47ba-91af-2ed692893c81
+X-Runtime: 0.006850
+X-Xss-Protection: 0
+
+310
+["mastodon.social","pleroma.1d4.us","uncorking.me","port87.social","commiespace.duckdns.org","anonsys.net","eeeeeeeee.eu","nonexiste.net","fd.inggrismantap.my.id","cheeseburger.social","friendica.kommune4.de","mastodon.world","social.tchncs.de","sfba.social","masthead.social","indieweb.social","mastodon.ie","mastodon.green","friendica.mschmidt-et.de","mstdn.social","mastodon.online","friendica.hashy-net.de","friendica.ucy.de","kudabiverse.com","fri.aethercom.de","herzbu.de","friendica.daniel-siepmann.de","social.jmueller.eu","friendica.offsite.guru","redeyes.club","petroskowo.pl","f.kretschmann.social","t2.thotsofa304.club","thetooniverse.xyz","friendica.myportal.social","capitalism.wtf","rls.social","v2.ebano.social","dair-community.social","f.iroiro.party","hachyderm.io"]
+0
+

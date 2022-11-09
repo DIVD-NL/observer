@@ -1,0 +1,30 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778937cbb183d7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://toot.site; font-src 'self' https://toot.site; img-src 'self' data: blob: https://toot.site; style-src 'self' https://toot.site 'nonce-cuu7NcbYJbCxKZsPIPDXoQ=='; media-src 'self' data: https://toot.site; frame-src 'self' https:; child-src 'self' blob: https://toot.site; worker-src 'self' blob: https://toot.site; connect-src 'self' blob: data: wss://toot.site https://toot.site; manifest-src 'self' https://toot.site
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:04 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=M6liNNvMI4SB9la4sgUsK%2Fe53trrJu09l7bXcRlIkWjiZdLw1WB1PMx%2F6QPYYSsrHYrS9F0xPSOVWLVvssMPe5dgR98XENJwWcbcqjjD5MhJotmvGscIv85bgn8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.192519Z
+X-Request-Id: 85693d3e-cff6-4b23-bd95-b0deb78574b2
+X-Runtime: 0.008956
+X-Xss-Protection: 0
+
+0
+

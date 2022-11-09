@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mdn.keasti.net; img-src 'self' https: data: blob: https://mdn.keasti.net; style-src 'self' https://mdn.keasti.net 'nonce-Kwule6DBprrGlB4UqR3u4Q=='; media-src 'self' https: data: https://mdn.keasti.net; frame-src 'self' https:; manifest-src 'self' https://mdn.keasti.net; connect-src 'self' data: blob: https://mdn.keasti.net https://mdn.keasti.net wss://mdn.keasti.net; script-src 'self' https://mdn.keasti.net; child-src 'self' blob: https://mdn.keasti.net; worker-src 'self' blob: https://mdn.keasti.net
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:40 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.21.6
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.377130Z
+X-Request-Id: f0864e95-fe76-4728-8d05-02eeb31f878f
+X-Runtime: 0.011505
+X-Xss-Protection: 0
+
+0
+

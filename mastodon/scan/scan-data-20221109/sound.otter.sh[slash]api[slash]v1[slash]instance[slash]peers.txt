@@ -1,0 +1,13 @@
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Content-Length: 32
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:20:09 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+X-Powered-By: reel2bits
+
+{
+  "error": "page not found"
+}

@@ -1,0 +1,10 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 231
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:45 GMT
+Referrer-Policy: no-referrer
+Server: nginx/1.22.0
+Strict-Transport-Security: max-age=63072000; preload
+
+<!DOCTYPE html><html><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>404 Not Found</title></head><body>404: /api/v1/instance/peers does not exist on this server.</body></html>

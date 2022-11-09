@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.pettingzoo.dev; img-src 'self' https: data: blob: https://mastodon.pettingzoo.dev; style-src 'self' https://mastodon.pettingzoo.dev 'nonce-JLarPmfr55dGsZYhOOseZA=='; media-src 'self' https: data: https://mastodon.pettingzoo.dev; frame-src 'self' https:; manifest-src 'self' https://mastodon.pettingzoo.dev; connect-src 'self' data: blob: https://mastodon.pettingzoo.dev https://ptzo-masto-pettingzoo-dev.sfo3.cdn.digitaloceanspaces.com wss://stream.mastodon.pettingzoo.dev; script-src 'self' https://mastodon.pettingzoo.dev; child-src 'self' blob: https://mastodon.pettingzoo.dev; worker-src 'self' blob: https://mastodon.pettingzoo.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:02 GMT
+Etag: W/"2cd63d827fc2113c55afd3708b71d212"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.068587Z
+X-Request-Id: bcbc2b55-2852-4c41-98b4-69eada3e8bbf
+X-Runtime: 0.005540
+X-Xss-Protection: 0
+
+7c
+["pleroma.pettingzoo.dev","xn--go8hij.ws","relay.fedi.tools","relay.pettingzoo.dev","hubzilla.fediversum.de","hub.volse.no"]
+0
+

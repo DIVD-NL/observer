@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778c2befedb9bd-BRU
+Content-Language: en-us
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:23:05 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LM8%2Fc%2BdyMNpLcM%2BKAk9cUkn8IViLKw4FNn%2Fz5f6nRz%2Bbr3XMJjebpQZkEoxw84%2FjzOttx5aOH5oDXLOzhHqK7O8VcHDEt2Z63NEZvgjG%2BjobWkZJRGYomhYQDPR4N6ZLZH1G"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Language, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+730
+["river.group.lt", "bookwyrm.social", "lire.boitam.eu", "cutebook.club", "book.dansmonorage.blue", "reading.taks.garden", "books.badwolfbay.games", "good.franv.site", "boookz.zoethical.org", "58b5-123-243-227-98.ngrok.io", "books.underscore.world", "books.mxhdr.net", "wyrms.de", "books.unexist.dev", "mastodon.social", "bookwyrm.lond.com.br", "books.solarpunk.moe", "books.solarpunkanarchism.org", "bookwyrm.spaceling.sh", "mastodon.sdf.org", "shoko.one", "nerdica.net", "a57f-2600-1700-bab1-3b90-859d-235d-9cc7-218a.ngrok.io", "weirder.earth", "bookwyrm.tardis.pw", "cybre.space", "bookwyrm.cincodenada.com", "mamot.fr", "mstdn.social", "kirja.casa", "hackers.town", "books.mennisch.net", "friendica.bachgau.social", "friendica.vrije-mens.org", "social.trom.tf", "chaos.social", "f.freinetz.ch", "friendica.xyz", "anonsys.net", "b908-100-37-168-240.ngrok.io", "loma.ml", "tankie.ml", "masstoc.io", "iddqd.social", "bookrastinating.com", "c734-2601-645-8880-25e0-d163-aeb2-ab26-a7e7.ngrok.io", "yyyyy.club", "social.fedinet.de", "climatejustice.global", "open.audio", "library.southfox.me", "freeatlantis.com", "jorts.horse", "bookwyrm.tk", "bookwyrm.pt", "friendica.eskimo.com", "velhaestante.com.br", "books.faithcollapsing.com", "libriliberi.club", "books.redshifts.xyz", "books.ihatebeinga.live", "reading.unbl.ink", "library.cybre.city", "noagendasocial.com", "gameliberty.club", "book.evilcyberhacker.net", "fosstodon.org", "mas.to", "books.theunseen.city", "mastodon.online", "booktoot.club", "bookwyrm.gatti.ninja", "justicewarrior.social", "muenster.im", "books.idas.social", "libri.ragnate.la", "citrus.farm", "mastodon.art", "books.meowy.tech", "post.lurk.org", "subversive.zone", "books.birdsonbicycles.racing", "wyrms.sublm.nl", "lore.livellosegreto.it", "merveilles.town", "mastodon.top", "stereodon.social", "eldritch.cafe"]
+0
+

@@ -1,0 +1,114 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:03:56 GMT
+Link: <https://gnusocial.jp/main/amcd.json>; rel="acct-mgmt"; type="application/json"
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Upgrade: h2
+Vary: User-Agent
+X-Account-Management-Status: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+127e
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+ <head>
+  <title>Not Found - gnusocial.jp</title>
+  <link rel="shortcut icon" href="https://gnusocial.jp/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/theme/base/css/display.css?version=2.0.1-beta0" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/theme/neo-gnu/css/display.css?version=2.0.1-beta0" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/Embed/css/embed.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=2.0.1-beta0" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/Markdown/css/markdown.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/EmojiShortnames/css/emoji-shortnames.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/EmbedNotice/css/embednotice.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://gnusocial.jp/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://gnusocial.jp/opensearch/people" title="gnusocial.jp People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://gnusocial.jp/opensearch/notice" title="gnusocial.jp Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://gnusocial.jp/main/public">
+      <img class="logo u-photo p-name" src="https://gnusocial.jp/theme/neo-gnu/logo.png" alt="gnusocial.jp"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://gnusocial.jp/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="top_nav_doc_faq">
+       <a href="https://gnusocial.jp/doc/faq" title="Frequently asked questions">FAQ</a>
+      </li>
+      <li id="nav_login">
+       <a href="https://gnusocial.jp/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="page_notice" class="system_notice"></div>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://gnusocial.jp/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/tos">TOS</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://gnusocial.jp/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>gnusocial.jp</strong> is a social network, courtesy of <a href="https://gnusocial.jp">GNU social JP</a>. It runs on <a href="https://gnusocial.rocks/">GNU social</a>, version 2.0.1-beta0, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>
+     <img id="license_cc" src="/theme/licenses/cc_by_3.0_80x15.png" alt="Creative Commons Attribution 3.0" width="80" height="15"/>
+ All gnusocial.jp content and data are available under the <a class="license" rel="external license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0</a> license.</p>
+   </div>
+  </div>
+ </body>
+<!-- 99ms --></html>
+
+0
+

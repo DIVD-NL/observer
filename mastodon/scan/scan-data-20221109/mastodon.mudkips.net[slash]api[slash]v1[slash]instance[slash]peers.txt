@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.mudkips.net; img-src 'self' https: data: blob: https://mastodon.mudkips.net; style-src 'self' https://mastodon.mudkips.net 'nonce-+eqayh6F9PmunYPxeeQHOg=='; media-src 'self' https: data: https://mastodon.mudkips.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.mudkips.net; connect-src 'self' data: blob: https://mastodon.mudkips.net https://mastodon.mudkips.net wss://mastodon.mudkips.net; script-src 'self' https://mastodon.mudkips.net; child-src 'self' blob: https://mastodon.mudkips.net; worker-src 'self' blob: https://mastodon.mudkips.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:50 GMT
+Etag: W/"68d0de7be90e2090987f0ce00a4a8008"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:45:00.418017Z
+X-Request-Id: 4f1cbe41-d55f-4e4b-bca9-b21885fac127
+X-Runtime: 0.025294
+X-Xss-Protection: 0
+
+5d
+["isnot.online","inuh.net","mastodon.social","ioc.exchange","infosec.exchange","sfba.social"]
+0
+

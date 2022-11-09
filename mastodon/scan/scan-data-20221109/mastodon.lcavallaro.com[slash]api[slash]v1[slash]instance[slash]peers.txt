@@ -1,0 +1,51 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b6dc897b9a7-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:11:39 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YK7lVCjEOr6GkuZ3duirA%2FRa%2F%2F6Y2n%2F3KwcjncsT5Z%2BLCT8oL7pAUPv98Dd%2F08V6AzHOGBMXq09YoF90e3wZnut0%2FU2Kk7nqZfEPHdXTASUbXjqTIiCUSxEMEVu%2Fg3Wri9gVNrz8wT1LvA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.3.5
+X-Request-Id: a4d8cc08-6a42-4f87-893a-164cc8963956
+X-Robots-Tag: noindex,nofollow,noarchive,nosnippet,noimageindex,nocache,notranslate
+X-Runtime: 0.047037
+X-Xss-Protection: 1; mode=block
+
+37e
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/common-50d0784d.css" />
+<link rel="stylesheet" media="all" crossorigin="anonymous" href="/packs/css/default-525fdc56.chunk.css" />
+<script src="/packs/js/common-997d98113e1e433a9a9f.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-3575ff3a9778f505dd05.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>
+
+0
+

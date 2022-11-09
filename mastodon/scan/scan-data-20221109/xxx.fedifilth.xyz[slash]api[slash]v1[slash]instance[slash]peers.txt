@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: public, max-age=864000
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778bd888592e4a-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:51 GMT
+Expires: Sat, 19 Nov 2022 15:22:51 GMT
+Last-Modified: Wed, 09 Nov 2022 15:22:51 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PxbPiT2%2FziLoqFL1KCM7hNkeDyFq0nb81nD%2FjCk06oiWgSPcLyVl0jjc213YK3b8JIjtYCF1%2Fcc9317uz6YrckWVGZU4soIEEZeJ0VT5tbrFBAVV4u0bpsZsaQ2FzO1eEqhD3w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+219
+<form action="https://xxx.fedifilth.xyz/api/v1/instance/peers" method="post"><button type="submit" style="font-size:3em;">I'm not a robot! Click to continue.</button></form>193.105.73.176 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36 
+<a href="https://xxx.fedifilth.xyz/p.php?s=1"><span class="xyz">1</span></a>
+<a href="https://xxx.fedifilth.xyz/p.php?s=2"><span class="xyz">2</span></a>
+<a href="https://xxx.fedifilth.xyz/p.php?s=3"><span class="xyz">3</span></a>
+0
+

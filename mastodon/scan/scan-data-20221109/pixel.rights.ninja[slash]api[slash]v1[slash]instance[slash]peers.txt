@@ -1,0 +1,27 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767780f47b38b9b3-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:15:25 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7k4E9NOZfl5Rb6HrchoX9fMeBkOf83BDopo8N9L%2FF6d4OlE2ZWxqg9bNsnBVYhlhrGlLe%2BqLRqWuzqVkXHeOkYvp4BE8oheTE%2BeBB0%2F5Qlzr58iBF9AaWvDXYvoBhj7kFxjiGzQ%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+81
+<html>
+<head><title>410 Gone</title></head>
+<body>
+<center><h1>410 Gone</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 785
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.openlp.org wss://social.openlp.org;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:14 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzq4GcjHuZRTwAAr2h
+X-Xss-Protection: 1; mode=block
+
+["friendica.bachgau.social","friendica.utzer.de","schmaker.eu","friends.wimmer-edv.de","ruhr.social","friendica.vrije-mens.org","horizin.de","social.tromdienste.de","f.haeder.net","f.praschnig.com","friendica.xyz","loma.ml","a.rathersafe.space","hunk.city","nerdica.net","anonsys.net","wiesbaden.social","social.yl.ms","chatter.llamarific.social","etiketi.de","f.freinetz.ch","social.jmueller.eu","frnd.nanoscopic.de","unmedicated.schizoid.social","social.trom.tf","pirati.ca","shitposting.army","social.agb-web.de","social.softmetz.de","friendica.ellih.eu","sneed.network","friendica.opensocial.space","social.fedinet.de","social.wideboys.org","onlinegemein.de","social.johnassel.de","space.rick.gr","friendica.oldkid.digital","eeeeeeeee.eu","kirche.social","the.shitposting.network"]

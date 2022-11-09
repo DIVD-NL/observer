@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://thomashaley.social; img-src 'self' https: data: blob: https://thomashaley.social; style-src 'self' https://thomashaley.social 'nonce-fkHPTWBpS8jjXfl/pn57ow=='; media-src 'self' https: data: https://thomashaley.social; frame-src 'self' https:; manifest-src 'self' https://thomashaley.social; connect-src 'self' data: blob: https://thomashaley.social https://thomashaley.social wss://thomashaley.social; script-src 'self' https://thomashaley.social; child-src 'self' blob: https://thomashaley.social; worker-src 'self' blob: https://thomashaley.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:44 GMT
+Etag: W/"fafadcd4db23c1762b7f2ec86c708d9b"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.140287Z
+X-Request-Id: af3d1642-0dc5-46c2-a165-db7078192b37
+X-Runtime: 0.010632
+X-Xss-Protection: 0
+
+37d
+["fenetre.dev","linernotes.club","pleroma.1d4.us","nonexiste.net","byte23.net","eeeeeeeee.eu","mastodon.lol","a.gup.pe","beach.city","friend.camp","social.spacebear.ee","writing.exchange","hax0rbana.social","uncorking.me","bigthinking.social","tech.lgbt","social.lol","hci.social","m6n.io","someone.elses.computer","social.coop","scholar.social","postpandemicparty.org","qoto.org","botsin.space","hachyderm.io","mastodon.scot","port87.social","fandom.ink","chaos.social","mamot.fr","mastodon.green","mastodon.sdf.org","masthead.social","infosec.exchange","mastodon.art","taciturn.social","mastodon.org.uk","octodon.social","aus.social","mas.to","mstdn.social","ieji.de","mastodon.slightlycyberpunk.com","mastodon.nz","petrous.vislae.town","wandering.shop","dair-community.social","eigenmagic.net","toot.community","fosstodon.org","mastodon.online","masto.ai","ecoevo.social","mastodon.social"]
+0
+

@@ -1,0 +1,13 @@
+HTTP/1.1 526 
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-store, no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767786f37973b9b1-BRU
+Date: Wed, 09 Nov 2022 15:19:31 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qk%2BR04U7AT5CcKsjDHX4aDkJUIOWN8y%2Bb9ralTA3qEgSUjbsGOiBGSSXgOXgMNTfr3yg18ihXrIBBTYtZhIXrV8pfPUxg3vONWURpwvYmFTElMc1zu3xdZE1bSC3J42LqTW8OA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=1.200000042445e-05
+Content-Length: 0
+

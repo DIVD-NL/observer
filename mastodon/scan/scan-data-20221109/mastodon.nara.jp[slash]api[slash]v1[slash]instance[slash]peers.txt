@@ -1,0 +1,31 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 353
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:53 GMT
+Etag: "161-5ec4dbacaaf0d"
+Last-Modified: Mon, 31 Oct 2022 05:17:54 GMT
+Server: nginx
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>鹿トドン: mastodon.nara.jp</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .gone {
+    background: url("mastodon.jpg") no-repeat center / cover;
+    width: 100%;
+    height: 100vh;
+  }
+</style>
+</head>
+
+<body>
+<div class="gone"></div>  
+</body>
+</html>

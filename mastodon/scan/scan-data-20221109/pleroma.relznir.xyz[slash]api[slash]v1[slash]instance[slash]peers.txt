@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.relznir.xyz wss://pleroma.relznir.xyz;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:14 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Referrer-Policy: no-referrer
+Server: nginx
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzgXpodT_Ig-sAJvbB
+X-Xss-Protection: 1; mode=block
+
+bb
+["botsin.space","sneed.network","eeeeeeeee.eu","a.rathersafe.space","raru.re","shitposting.army","hunk.city","social.wideboys.org","unmedicated.schizoid.social","the.shitposting.network"]
+0
+

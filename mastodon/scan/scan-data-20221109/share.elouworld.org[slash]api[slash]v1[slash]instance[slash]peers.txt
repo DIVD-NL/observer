@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://share.elouworld.org; img-src 'self' https: data: blob: https://share.elouworld.org; style-src 'self' https://share.elouworld.org 'nonce-CkpqavasCBUJZU5UAZA1fA=='; media-src 'self' https: data: https://share.elouworld.org; frame-src 'self' https:; manifest-src 'self' https://share.elouworld.org; connect-src 'self' data: blob: https://share.elouworld.org https://share.elouworld.org wss://share.elouworld.org; script-src 'self' https://share.elouworld.org 'unsafe-eval'; child-src 'self' blob: https://share.elouworld.org; worker-src 'self' blob: https://share.elouworld.org
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:26 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.968829Z
+X-Request-Id: f035d514-5acd-45e2-9f05-9c3de1943b3d
+X-Runtime: 0.014416
+X-Xss-Protection: 0
+
+0
+

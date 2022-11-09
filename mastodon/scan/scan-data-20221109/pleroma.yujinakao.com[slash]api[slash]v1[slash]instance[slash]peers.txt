@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 3281
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.yujinakao.com wss://pleroma.yujinakao.com;media-src 'self' https://pleroma.yujinakao.com;img-src 'self' data: blob: https://pleroma.yujinakao.com;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:25 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.23.2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzg_TFOSdH3e0AAMry
+X-Xss-Protection: 1; mode=block
+
+["friendica.utzer.de","cybre.space","mastodon.cloud","quitter.pl","xarxa.cloud","mstdn.poyo.me","md.ilyamikcoder.com","mastodon.social","photog.social","social.network.europa.eu","misskey.m544.net","friendica.jb-net.us","queer.party","kafeneio.social","novoa.nagoya","red.niboe.info","mamot.fr","climatejustice.global","bungle.online","mastodon.la","social.tchncs.de","friendica.ironbug.org","chin-co-ne.co","gensokyo.town","lor.sh","donotban.com","social.mikutter.hachune.net","mastodon.scot","quietplace.xyz","douchi.space","pirati.ca","social.mezzo.moe","cmpwn.com","stop.voring.me","snug.moe","social.wideboys.org","masthead.social","mk.absturztau.be","waha.work","libranet.de","arktos.social","misskey.bubbletea.dev","kiritan.work","pawoo.net","metalhead.club","f.freinetz.ch","eeeeeeeee.eu","mastodon.art","social.yesterweb.org","squeet.me","friendica.eskimo.com","noagendasocial.com","misskey.noellabo.jp","nrw.social","activism.openworlds.info","mastodon.eole.education","mstdn.fr","nekocave.xyz","diaspodon.fr","momo.mame.moe","mstdn.love","toot.wales","raru.re","social.wake.st","mstdn.sublimer.me","pokemon.mastportal.info","social.tromdienste.de","framapiaf.org","freak.university","mastodon.coffee","barritar.uc-netcorsoft.de","literatur.social","social.freetalklive.com","mastodon.xyz","pasta.ga","troet.cafe","helladoge.com","pullopen.xyz","emacsen.net","nonexiste.net","mstdn.fuyumori.net","loma.ml","qoto.org","social.linux.pizza","social.outsourcedmath.com","alive.bar","koyu.space","liker.social","podcastindex.social","mastodon.org.uk","bitcoinhackers.org","bsd.network","dobbs.town","social.brevsprekk.net","bgme.me","bookwor.ms","watadon.com","octodon.social","puntarella.party","minohdon.jp","vocalodon.net","m.cmx.im","homoo.social","friends.johalla.org","social.timespiral.co.jp","fv.cottongin.xyz","socnet.supes.com","hentai.baby","birb.space","respublicae.eu","friendica.vrije-mens.org","meganekeesu.tokyo","wintermute.fr.to","mstdn.nere9.help","nerdica.net","friendica.ingram-braun.net","mastodon.ml","cloudisland.nz","the.shitposting.network","pieville.net","sociale.network","climatejustice.social","etiketi.de","handon.club","mastodon.uno","hostsharing.coop","mastodooooooon.xyz","baraag.net","odakyu.app","mastodon.online","girlcock.club","social.coop","mstdn.io","paypig.org","friendica.opensocial.space","social.cool110.xyz","mastodon.in.th","merveilles.town","mstdn.jp","mastodon.sdf.org","friends.deko.cloud","hostux.social","mordor.social","gameliberty.club","social.zdx.fr","itabashi.0j0.jp","mastodon.lol","fedibird.com","chaos.social","mastodon.top","friendica.xyz","toot.gnous.eu","ashka.me","toot.cat","nofan.xyz","unmedicated.schizoid.social","shitposting.army","venera.social","1234.as","mast.moe","sneed.network","relay.schizoid.social","f.praschnig.com","busshi.moe","a.rathersafe.space","iyasaretai.pw","muknown.jp","mastodon.cc","best-friends.chat","donphan.social","toot.aquilenet.fr","hunk.city","mstdn.beer","zhub.link","social.drastical.tech","todon.eu","social.dark-alexandr.net","m.tkw.fm","mstdn.social","gorone.xyz","social.linksfraktion.de","grumpys.online","botsin.space","social.wildeboer.net","fosstodon.org","101010.pl","is.nota.live","mstdn.asterism.xyz","mstdn.maud.io","anonsys.net","x0r.be","oransns.com","me.ns.ci"]

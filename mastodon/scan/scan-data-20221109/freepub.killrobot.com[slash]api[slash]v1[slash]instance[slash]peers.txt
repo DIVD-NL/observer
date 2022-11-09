@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://freepub.killrobot.com wss://freepub.killrobot.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:10 GMT
+Fly-Request-Id: 01GHEEC2EDTB5YN9TR7D338R9B-cdg
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Fly/be34d0b0 (2022-11-08)
+Via: 1.1 fly.io
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXyhSg5c9css4EABGUB
+X-Xss-Protection: 1; mode=block
+
+60d
+["octodon.social","masto.ai","fedi.safewebbox.com","cybre.space","mastodon.au","mastodon.green","ioc.exchange","lsngl.us","social.dev-wiki.de","descentraliza.me","friendica.daniel-siepmann.de","cdrom.tokyo","mastodon.coffee","pooper.social","mathstodon.xyz","mastodon.technology","vis.social","pleroma.envs.net","mastodon.nz","infosec.exchange","famichiki.jp","mastodon.online","masto.dotsod.com","toot-lab.reclaim.technology","mastodon.xyz","graphics.social","masto.namwen.me","social.refi64.com","layer8.space","mstdn.io","social.coop","social.chinwag.org","troet.cafe","mastodon.se","social.artemai.art","linuxrocks.online","dcentralisedmedia.com","xn--y9azesw6bu.xn--y9a3aq","noagendasocial.com","mstdn.starnix.network","toot.cafe","social.librem.one","mastodon.social","mastodon.gamedev.place","aus.social","mstdn.social","pleroma.atyh.cc","mastodon.com.tr","shitposter.club","friendica.jb-net.us","mastodon.tekdmn.me","indieweb.social","fosstodon.org","djsumdog.com","floss.social","social.anoxinon.de","qoto.org","atyh.cc","hachyderm.io","social.linux.pizza","mamot.fr","awscommunity.social","mastodon.hackerdrinks.social","rdrama.cc","meow.social","anime.website","refi64.social","mk.nixnet.social","togethr.party","masthead.social","soykaf.org","social.snopyta.org","tippetarius.ru","mastodon.org.uk","social.tchncs.de","twit.social","toot.wales","pixelfed.social","mastodon.lol","eveningzoo.club","rollenspiel.social","melb.social","c.im","leafposter.club","mas.to","fedibird.com","mastodon.art","chaos.social","mastodon.davidpeach.co.uk"]
+0
+

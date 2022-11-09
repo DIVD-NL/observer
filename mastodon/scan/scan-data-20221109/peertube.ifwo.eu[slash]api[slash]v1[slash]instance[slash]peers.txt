@@ -1,0 +1,101 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, must-revalidate, private
+Cache-Control: no-transform
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:50 GMT
+Expires: Wed, 09 Nov 2022 15:14:50 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: locale=en; path=/; secure; httponly; samesite=lax
+Set-Cookie: cloudpanel=78kf30f6gpi885jelvc7km9t3k; path=/; secure; httponly; samesite=lax
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+da7
+<!doctype html>
+<html  lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="CloudPanel">
+  <meta name="author" content="Stefan Wieczorek">
+  <title>CloudPanel | Log In</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg?v=2.1.0">
+      <link href="/assets/css/bootstrap.min.css?v=2.1.0" rel="stylesheet">
+    <link href="/assets/css/bootstrap-utilities.min.css?v=2.1.0" rel="stylesheet">
+    <link href="/assets/css/style.css?v=2.1.0" rel="stylesheet">
+    <link href="/assets/css/frontend/login.css?v=2.1.0" rel="stylesheet">  <script type="text/javascript" src="/assets/js/jquery.min.js?v=2.1.0"></script>
+  <script type="text/javascript" src="/assets/js/bootstrap.bundle.min.js?v=2.1.0"></script>
+</head>
+<body>
+<div class="login-container">
+  <div class="logo">
+    <a title="CloudPanel"  href="/login">
+      <img alt="CloudPanel" src="/assets/images/cloudpanel-cloud.svg?v=2.1.0" height="75">
+    </a>
+  </div>
+  <div class="login-form-container">
+    
+        <div class="form-container">
+      <form action="/login" method="post">
+        <div class="row">
+          <div class="col">
+            <input type="text" name="userName" required="required" autocomplete="new-password" class="form-control form-control-lg" placeholder="User Name">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <input type="password" name="password" required="required" autocomplete="new-password" class="form-control form-control-lg" placeholder="Password">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <input type="hidden" name="_csrf_token" value="bb2ad80738912efc6b9202fb3.-B4lcIG_NSK2z9dNJHVrblRJ1P8Uud3B8cY9nbUds5o.p21kJ9H7RhrHkLl6VRY4XB4jpod_jZaNlY9c1M8oyvypdmdD5e0BdsOWvA">
+            <button type="submit" name="submit" class="btn btn-blue btn-login">Log In</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+      <div class="footer-container">
+  <div class="language-selector d-flex">
+    <label for="localeSelector">Language:</label>
+    <form name="localeSelector" action="/locale/change" method="post">
+      <select id="localeSelector" name="locale" class="form-select form-select-sm">
+              <option  value="ar">Arabic</option>
+              <option selected value="en">English</option>
+              <option  value="fr">French</option>
+              <option  value="de">German</option>
+              <option  value="nl">Dutch</option>
+              <option  value="gr">Greek</option>
+              <option  value="lt">Lithuanian</option>
+              <option  value="id">Indonesian</option>
+              <option  value="it">Italian</option>
+              <option  value="es">Spanish</option>
+              <option  value="pl">Polish</option>
+              <option  value="pt_BR">Portuguese (Brasil)</option>
+              <option  value="ro">Romanian</option>
+              <option  value="ru">Russian</option>
+              <option  value="tr">Turkish</option>
+              <option  value="uk">Ukrainian</option>
+              <option  value="vi">Vietnamese</option>
+            </select>
+   </form>
+  </div>
+</div>
+<script>
+jQuery(document).ready(function() {
+  jQuery('#localeSelector').on('change', function() {
+    document.forms['localeSelector'].submit();
+  });
+});
+</script>
+
+
+  </div>
+</body>
+</html>
+0
+

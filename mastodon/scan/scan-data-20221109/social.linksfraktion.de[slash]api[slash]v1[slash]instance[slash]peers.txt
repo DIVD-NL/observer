@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.linksfraktion.de; img-src 'self' https: data: blob: https://social.linksfraktion.de; style-src 'self' https://social.linksfraktion.de 'nonce-5MpuFsgQurCqwOKpcAR9Ng=='; media-src 'self' https: data: https://social.linksfraktion.de; frame-src 'self' https:; manifest-src 'self' https://social.linksfraktion.de; connect-src 'self' data: blob: https://social.linksfraktion.de https://social.linksfraktion.de wss://social.linksfraktion.de; script-src 'self' https://social.linksfraktion.de; child-src 'self' blob: https://social.linksfraktion.de; worker-src 'self' blob: https://social.linksfraktion.de
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:54 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.848011Z
+X-Request-Id: 888c33a5-a6ed-4cb6-97b6-de4aff90da5e
+X-Runtime: 0.005966
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,23 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 303
+Cache-Control: max-age=86400
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:10:55 GMT
+Expires: Thu, 10 Nov 2022 15:10:55 GMT
+Location: https://www.asrun.eu/urlredirect.php
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://www.asrun.eu/urlredirect.php">here</a>.</p>
+<hr>
+<address>Apache/2.4.54 (Debian) Server at mastodon.asrun.eu Port 80</address>
+</body></html>

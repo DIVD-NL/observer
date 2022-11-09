@@ -1,0 +1,13 @@
+HTTP/1.1 200 Whatever
+Connection: close
+Content-Type: text/plain
+Date: Wed, 09 Nov 2022 14:56:57 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: epochttpd/0.1
+Strict-Transport-Security: max-age=0; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Debug: 18
+X-Frame-Options: DENY
+
+please hold while your call is connected.

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 60
+Cache-Control: private, max-age=0, must-revalidate
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:08 GMT
+Server: nginx
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+["relay.mastodon.fun","mastodon-relay.moew.science","3.srl"]

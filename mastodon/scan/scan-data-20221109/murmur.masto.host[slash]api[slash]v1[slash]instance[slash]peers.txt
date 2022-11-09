@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 169
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:59 GMT
+Location: https://masto.host/host-server-404/
+Server: nginx/1.16.0
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.16.0</center>
+</body>
+</html>

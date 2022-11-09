@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:51 GMT
+Expect-Ct: enforce,max-age=86400,report-uri="https://qp1xqx5r.uriports.com/reports/report"
+Nel: {"report_to":"default","max_age":2592000,"include_subdomains":true,"failure_fraction":1.0}
+Referrer-Policy: same-origin
+Report-To: {"group":"default","max_age":10886400,"endpoints":[{"url":"https://qp1xqx5r.uriports.com/reports"}],"include_subdomains":true}
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Upgrade: h2,h2c
+X-Account-Management-Status: none
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1; mode=block
+
+2
+[]
+0
+

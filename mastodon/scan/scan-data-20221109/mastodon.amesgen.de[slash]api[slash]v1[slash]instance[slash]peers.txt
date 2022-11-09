@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.amesgen.de; img-src 'self' https: data: blob: https://mastodon.amesgen.de; style-src 'self' https://mastodon.amesgen.de 'nonce-K3Y8cXKIzSLomSDh5VPKmw=='; media-src 'self' https: data: https://mastodon.amesgen.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.amesgen.de; connect-src 'self' data: blob: https://mastodon.amesgen.de https://mastodon.amesgen.de wss://mastodon.amesgen.de; script-src 'self' https://mastodon.amesgen.de; child-src 'self' blob: https://mastodon.amesgen.de; worker-src 'self' blob: https://mastodon.amesgen.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:51 GMT
+Etag: W/"8530f9fc3bf73d9266cd77e87947337d"
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.742269Z
+X-Request-Id: 6fbac778-9acc-4cfc-a399-61cd82fe79d0
+X-Runtime: 0.009586
+X-Xss-Protection: 0
+
+291
+["econtwitter.net","noc.social","mastodon.gamedev.place","infosec.exchange","types.pl","hachyderm.io","jawns.club","newsie.social","mastodon.online","digitalcourage.social","climatejustice.social","mastodon.cloud","mastodon.world","bbq.snoot.com","mindly.social","toot.payfrit.com","mastodon.green","sfba.social","floss.social","fosstodon.org","mas.to","nyan.network","101010.pl","journa.host","bitcoinhackers.org","spinster.xyz","photog.social","mastodon.me.uk","freiburg.social","queer.party","astrodon.social","mastodon.neilzone.co.uk","mstdn.social","functional.cafe","noagendasocial.com","mathstodon.xyz","qoto.org","mastodon.social","gensokyo.social"]
+0
+

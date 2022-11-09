@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767765f78e3a83cf-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.antisocial.science; img-src 'self' https: data: blob: https://mastodon.antisocial.science; style-src 'self' https://mastodon.antisocial.science 'nonce-TXIkKyJcSlhZ8OU/GNvhYw=='; media-src 'self' https: data: https://mastodon.antisocial.science; frame-src 'self' https:; manifest-src 'self' https://mastodon.antisocial.science; connect-src 'self' data: blob: https://mastodon.antisocial.science https://mastodon.antisocial.science wss://mastodon.antisocial.science; script-src 'self' https://mastodon.antisocial.science; child-src 'self' blob: https://mastodon.antisocial.science; worker-src 'self' blob: https://mastodon.antisocial.science
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:00 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wL3xgsShA8Frygagt5UlvyjlTCFUXSaBjfnyU15Jh%2B1TAFAlgOnw7gPE0IQ6BA7keMcZ9rfPY6Lk7meYdvR1OMHAxBQGfxTOzNBXoQghvxsuHya6Hontio3VnB1ePtBgAKy0mMY%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.202032Z
+X-Request-Id: b7156b65-1262-49b9-a148-7d12badeb2c9
+X-Runtime: 0.005034
+X-Xss-Protection: 0
+
+0
+

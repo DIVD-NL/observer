@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:37 GMT
+Expect-Ct: max-age=7776000, enforce
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://jrmora.com/api/v1/instance/peers
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(), encrypted-media=(self)
+Referrer-Policy: no-referrer-when-downgrade
+Server: LiteSpeed
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: on
+X-Frame-Options: SAMEORIGIN
+X-Litespeed-Cache: miss
+X-Qc-Cache: miss
+X-Qc-Pop: EU-LU-LUX-413
+X-Redirect-By: WordPress
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

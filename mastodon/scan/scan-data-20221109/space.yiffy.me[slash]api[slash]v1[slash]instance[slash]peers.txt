@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767787e86f22b9a7-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://space.yiffy.me; img-src 'self' https: data: blob: https://space.yiffy.me; style-src 'self' https://space.yiffy.me 'nonce-N1Tmb6G7oFLj/f0laUK1Hw=='; media-src 'self' https: data: https://space.yiffy.me; frame-src 'self' https:; manifest-src 'self' https://space.yiffy.me; connect-src 'self' data: blob: https://space.yiffy.me https://space.yiffy.me wss://space.yiffy.me; script-src 'self' https://space.yiffy.me; child-src 'self' blob: https://space.yiffy.me; worker-src 'self' blob: https://space.yiffy.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:10 GMT
+Etag: W/"d3d75a9197dd503e0d8784b91e24f6a1"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qXyKYaxZXNBzR4JKrplaRRASdh31yzbzvE400ZUOzmhYSb%2BAN7fCyoq4M78XftCeGECK5TkkGFEgdv87bfNOIxyDG2PrLt1wCStD85KEE%2Bk3jroAlZT8B%2B%2Fliii1wwYWYA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T18:00:00.717103Z
+X-Request-Id: 05d2d053-8662-4e57-8543-a7849acd07f5
+X-Runtime: 0.022649
+X-Xss-Protection: 0
+
+268
+["social.tromdienste.de","friendica.offsite.guru","herzbu.de","fri.aethercom.de","friendica.mifritscher.de","poliverso.org","follow.schmaller.de","friendica.ucy.de","quitter.pl","t2.thotsofa304.club","friendica.myportal.social","friendica.hashy-net.de","redeyes.club","social.jmueller.eu","friendica.ambag.es","f.kretschmann.social","friendica.opencloud.lu","friendica.togart.de","fr.readthefinemanual.net","f.iroiro.party","friendica.ironbug.org","friendica.daniel-siepmann.de","friend.geoffray-levasseur.org","petroskowo.pl","v2.ebano.social","anarchydica.net","f.freinetz.ch","friendica.kommune4.de","baraag.net"]
+0
+

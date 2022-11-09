@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://comicscamp.club; img-src 'self' https: data: blob: https://comicscamp.club; style-src 'self' https://comicscamp.club 'nonce-Zb/Dw7XDfx/VoC1BVWA3Ow=='; media-src 'self' https: data: https://comicscamp.club; frame-src 'self' https:; manifest-src 'self' https://comicscamp.club; connect-src 'self' data: blob: https://comicscamp.club https://cdn.masto.host wss://comicscamp.club; script-src 'self' https://comicscamp.club; child-src 'self' blob: https://comicscamp.club; worker-src 'self' blob: https://comicscamp.club
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:28 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.981424Z
+X-Request-Id: 45608f7f-9be0-4041-8c28-2e8baa5d9ef8
+X-Runtime: 0.007293
+X-Xss-Protection: 0
+
+0
+

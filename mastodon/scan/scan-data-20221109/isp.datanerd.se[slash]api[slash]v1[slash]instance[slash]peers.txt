@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://isp.datanerd.se; img-src 'self' https: data: blob: https://isp.datanerd.se; style-src 'self' https://isp.datanerd.se 'nonce-i0eSMhLhWi61fdgPfO0E3Q=='; media-src 'self' https: data: https://isp.datanerd.se; frame-src 'self' https:; manifest-src 'self' https://isp.datanerd.se; connect-src 'self' data: blob: https://isp.datanerd.se https://isp.datanerd.se wss://isp.datanerd.se; script-src 'self' https://isp.datanerd.se; child-src 'self' blob: https://isp.datanerd.se; worker-src 'self' blob: https://isp.datanerd.se
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:39 GMT
+Etag: W/"fac0db80a46394b9602c2d4a43d3f472"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.518938Z
+X-Request-Id: ca0b9e71-70d4-4893-819a-bfa8122463db
+X-Runtime: 0.034151
+X-Xss-Protection: 0
+
+288
+["piaille.fr","tooot.im","tilde.zone","masto.ai","ursal.zone","mastodon.acc.sunet.se","norden.social","mastodontech.de","kafeneio.social","astrodon.social","mastodonapp.uk","fosstodon.org","mastodon.nu","kanoa.de","nerdculture.de","mastodon.nz","mastodon.world","social.rights.ninja","toot.community","chaos.social","journa.host","bitcoinhackers.org","infosec.exchange","aus.social","mastodon.uno","mastodon.eus","mastodon.ie","mastodon.nl","mathstodon.xyz","swiss-talk.net","ieji.de","mastodon.scot","spacey.space","mastodon.online","mastodon.se","mastodon.social","mas.to","mastodon.sdf.org","mastodon.lol","climatejustice.social","mastodon.top"]
+0
+

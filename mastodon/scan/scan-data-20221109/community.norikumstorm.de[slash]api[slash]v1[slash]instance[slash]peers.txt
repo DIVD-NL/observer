@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:29 GMT
+Etag: W/"609a8e24-148"
+Last-Modified: Tue, 11 May 2021 14:01:08 GMT
+Permissions-Policy: : interest-cohort=()
+Server: nginx/1.22.0
+Strict-Transport-Security: max-age=8294400; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+148
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wos is?</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Habidehre!</h1>
+<p>Wonnst des lesen konnst donn host di valaffa.</p>
+<p>Schaug dass'd weida kimmst!</p>
+</body>
+</html>
+
+0
+

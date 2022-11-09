@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 2928
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.nuemedia.se wss://social.nuemedia.se;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:12 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.20.2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzqvS3k2DEoasAMqFC
+X-Xss-Protection: 1; mode=block
+
+["octodon.social","nya.social","kurosawa.moe","amala.schwartzwelt.xyz","mastodon.cloud","toot.community","space.rick.gr","birds.garden","bergstrasse.social","freespeechextremist.com","social.handholding.io","justicewarrior.social","horizin.de","linuxrocks.online","friends.johalla.org","mastodon.arch-linux.cz","mastodon.social","futuregadgetlab.cc","refusal.biz","chudbuds.lol","friendica.jb-net.us","queer.party","artisan.chat","mindly.social","cyberstorm.one","novoa.nagoya","beefyboys.win","mastodon.sludgepool.org","mamot.fr","tuusin.misono-ya.info","detroitriotcity.com","social.fbxl.net","pl.valkyrie.world","gleasonator.com","birb.space","respublicae.eu","writing.exchange","nerdica.net","social.tchncs.de","journa.host","mastodon.nu","social.trom.tf","noc.social","mas.to","mirr0r.city","eientei.org","pieville.net","masto.ai","cawfee.club","social.softmetz.de","vis.social","robot.rodeo","friendica.bachgau.social","mastodon.online","social.danksquad.org","clubcyberia.co","blazingopen.space","mstdn.starnix.network","aus.social","pirati.ca","shortstackran.ch","friendica.opensocial.space","shitposter.club","mastodonapp.uk","sms.cybik.moe","riddly.rakka.tk","tw.c-p-b.com","vt.social","djsumdog.com","floss.social","ak.kawen.space","mastodon.sdf.org","seal.cafe","freespeech.group","social.helvetica.fm","miruku.cafe","social.lovingexpressions.net","ryona.agency","hostux.social","we.1being.org","gameliberty.club","vtuber.house","f.freinetz.ch","coales.co","twit.social","mastodon.lol","social.defluence.me","c.im","eeeeeeeee.eu","mastodon.art","chaos.social","pleroma.doserver.duckdns.org","poster.place","schmaker.eu","friendica.xyz","iddqd.social","gearlandia.haus","pl.kitsunemimi.club","mspsocial.net","ubuntu.social","social.treehouse.systems","braydmedia.de","infosec.exchange","fedi.vern.cc","skippers-bin.com","layer8.space","social.chinwag.org","blob.cat","noagendasocial.com","ieji.de","social.jmueller.eu","tech.lgbt","varishangout.net","tilde.zone","someone.elses.computer","mugicha.club","fedi.ml","im-in.space","scholar.social","rdrama.cc","meow.social","fedi.intkos.link","v2br.social","poa.st","mastodon.halibut.com","eveningzoo.club","frennet.xyz","glitterkitten.co.uk","beta.birdsite.live","social.tromdienste.de","bae.st","hunk.city","sleepy.cafe","whinge.town","soc.schuerz.at","mastodon.technology","akm.longyap.name.my","toot.dummy.cafe","universeodon.com","monocles.social","vmst.io","waifuism.life","nangang.travnewmatic.com","mastodon.gamedev.place","mstdn.social","rojogato.com","botsin.space","toot.kif.rocks","akko.disqordia.space","fosstodon.org","nerdculture.de","loma.ml","qoto.org","jvpiter.net","social.linux.pizza","pl.fediverse.pl","nicecrew.digital","strelizia.net","comfyboy.club","akko.saturno.black","social.076.ne.jp","anonsys.net","pztrn.online","bitcoinhackers.org","is-a.cat","social.yl.ms","dobbs.town","refuse2.work","freeatlantis.com","neenster.org","kolektiva.social"]

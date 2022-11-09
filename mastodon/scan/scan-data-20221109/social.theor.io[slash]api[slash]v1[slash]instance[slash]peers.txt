@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.theor.io; img-src 'self' https: data: blob: https://social.theor.io; style-src 'self' https://social.theor.io 'nonce-MOQ5O884pXVkoPrdmEgrlA=='; media-src 'self' https: data: https://social.theor.io; frame-src 'self' https:; manifest-src 'self' https://social.theor.io; connect-src 'self' data: blob: https://social.theor.io https://files.social.theor.io wss://social.theor.io; script-src 'self' https://social.theor.io 'unsafe-eval'; child-src 'self' blob: https://social.theor.io; worker-src 'self' blob: https://social.theor.io
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:45 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.391135Z
+X-Request-Id: 56922220-ae28-4015-8643-93b5c363442a
+X-Runtime: 0.013262
+X-Xss-Protection: 0
+
+0
+

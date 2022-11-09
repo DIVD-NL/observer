@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://woofer.skycademc.com; img-src 'self' https: data: blob: https://woofer.skycademc.com; style-src 'self' https://woofer.skycademc.com 'nonce-E7TBcCeZ3EOvb/ok9TOsSw=='; media-src 'self' https: data: https://woofer.skycademc.com; frame-src 'self' https:; manifest-src 'self' https://woofer.skycademc.com; connect-src 'self' data: blob: https://woofer.skycademc.com https://woofer.skycademc.com wss://woofer.skycademc.com; script-src 'self' https://woofer.skycademc.com; child-src 'self' blob: https://woofer.skycademc.com; worker-src 'self' blob: https://woofer.skycademc.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:21 GMT
+Etag: W/"f30d0314437f3250676caec9f89c675b"
+Permissions-Policy: interest-cohort=()
+Server: openresty
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.463945Z
+X-Request-Id: c23acae7-14a6-4a7d-aa40-1654701e1972
+X-Runtime: 0.150869
+X-Served-By: woofer.skycademc.com
+X-Xss-Protection: 0
+
+371
+["friendica.daniel-siepmann.de","anarchydica.net","social.jmueller.eu","f.iroiro.party","friendica.offsite.guru","quitter.pl","fri.aethercom.de","kudabiverse.com","friendica.ambag.es","poliverso.org","frnd.nanoscopic.de","f.kretschmann.social","t2.thotsofa304.club","friendica.nz","friend.geoffray-levasseur.org","social.anacreonte.eu","redeyes.club","friendica.myportal.social","herzbu.de","friendica.mschmidt-et.de","petroskowo.pl","friendica.opencloud.lu","friendica.togart.de","social.digitalcastle.me","friendica.hashy-net.de","friendica.ironbug.org","friendica.mifritscher.de","fr.readthefinemanual.net","friendica.ucy.de","social.tromdienste.de","horizin.de","fabler.su","follow.schmaller.de","friendica.ingram-braun.net","v2.ebano.social","pztrn.online","piratenpartei.social","friendica.kommune4.de","social.tyngsboroughma.net","social.gl-como.it","la-verite-vaincra.com"]
+0
+

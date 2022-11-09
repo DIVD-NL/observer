@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.zentonic.org; img-src 'self' https: data: blob: https://social.zentonic.org; style-src 'self' https://social.zentonic.org 'nonce-e0BaH7jj/V63SucjESmC7Q=='; media-src 'self' https: data: https://social.zentonic.org; frame-src 'self' https:; manifest-src 'self' https://social.zentonic.org; connect-src 'self' data: blob: https://social.zentonic.org https://social.zentonic.org wss://social.zentonic.org; script-src 'self' https://social.zentonic.org; child-src 'self' blob: https://social.zentonic.org; worker-src 'self' blob: https://social.zentonic.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:04 GMT
+Etag: W/"615a1311136e9a53f60b3dddeeca67be"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.352626Z
+X-Request-Id: 7dd7dfcf-1406-4ff5-9bf0-4d600778e141
+X-Runtime: 0.006240
+X-Xss-Protection: 1; mode=block
+
+7c6
+["social.coop","peertube.cloud.nerdraum.de","beta.birdsite.live","infosec.exchange","loma.ml","bitcoinhackers.org","mastodon.sdf.org","mstdn.social","pixel.gruene.social","ebildungslabor.de","digitalcourage.social","norden.social","kopfkino.social","catcatnya.com","pixelfed.de","chaos.social","mastodon.cloud","ruhr.social","metalhead.club","kirche.social","geraffel.social","systerserver.town","fosstodon.org","queer.party","lgbt.io","photog.social","mstdn.science","social.anoxinon.de","legal.social","mastodon.green","tyrol.social","climatejustice.social","post.lurk.org","blovice.bahnhof.cz","scholar.social","fex.techbio.eu","bildung.social","octodon.social","layer8.space","openbiblio.social","sueden.social","eldritch.cafe","a.gup.pe","mastodon.lol","ieji.de","cybre.town","todon.eu","mastodon.social","liberdon.com","troet.cafe","social.saarland","climatejustice.video","open.audio","climatejustice.events","climatejustice.global","wue.social","cybre.space","meteo.social","freiburg.social","die-partei.social","deppenkessel.de","social.lemue.org","todon.nl","squeet.me","stop.voring.me","mastodon.top","m.draussen.social","social.bund.de","friendica.andreaskilgus.de","mthie.net","microblog.social","skinnyver.se","social.cologne","misskey.bubbletea.dev","pl.tkammer.de","lain.com","social.xenofem.me","outerheaven.club","social.wildeboer.net","fediverse.one","social.skrep.in","mastodon.ml","mastodon.nu","framapiaf.org","floss.social","medibubble.org","feuerwehr.social","mastodon.online","halibut.com","muenchen.social","econtwitter.net","edi.social","fediscience.org","corteximplant.com","literatur.social","feedbeat.me","hessen.social","dresden.network","social.kabi.tk","subversive.zone","am.pirateradio.social","mobilize.berlin","embassy.social","brockha.us","mastodonapp.uk","glitterkitten.co.uk","hachyderm.io","nerdculture.de","mastodont.cat","social.tchncs.de","mastodon.art","nrw.social","botsin.space","social.bau-ha.us","det.social","podcasts.social","mastodon.xyz"]
+0
+

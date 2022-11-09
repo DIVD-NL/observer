@@ -1,0 +1,20 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767780195cb02e62-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:50 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qwT7S35sSQr%2F1jGAZ9D3ONxQAHYtMyTVJnabnp2%2Bw44K3SVfjP3G6kJCJ4Us67nXbKO3cIGMEF5coHjSswHXRb%2Fx3%2F7nVxEdoFfAG8j7metL%2BFKUd3JQ1sluwsFOD4te2KbDiWI73SHJvfysWw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Tk: N
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668006900
+Content-Length: 0
+

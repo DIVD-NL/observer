@@ -1,0 +1,53 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: frame-ancestors 'self'; object-src 'none';
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:49 GMT
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+476
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+    <title>Konferenz der Informatikfachschaften</title>
+    <meta name="description" content="Die Konferenz der Informatikfachschaften (KIF) ist ein halbjährlich stattfindendes Treffen von Studierenden des Fachbereichs Informatik." />
+
+  
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="assets/materialize.css" />
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="assets/main.css">
+    <link rel="canonical" href="/404.html" />
+  
+</head>
+
+
+  <body class="bg">
+
+    <div class="container">
+    <div class="section txt-center">
+      <h1>404</h1>
+
+      <p><strong>Page not found :(</strong></p>
+      <p>The requested page could not be found.</p>
+    </div>
+</div>
+      
+    <!--  Scripts-->                                                                               
+<script src="js/jquery.min.js"></script>
+<script src="js/materialize.min.js"></script>
+
+  </body>
+
+</html>
+
+0
+

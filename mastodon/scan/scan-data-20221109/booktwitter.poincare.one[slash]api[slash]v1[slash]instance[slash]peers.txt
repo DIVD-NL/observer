@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://booktwitter.poincare.one; img-src 'self' https: data: blob: https://booktwitter.poincare.one; style-src 'self' https://booktwitter.poincare.one 'nonce-Ut4Uf/4RCnnqnfm0cDbnoQ=='; media-src 'self' https: data: https://booktwitter.poincare.one; frame-src 'self' https:; manifest-src 'self' https://booktwitter.poincare.one; connect-src 'self' data: blob: https://booktwitter.poincare.one https://booktwitter.poincare.one wss://booktwitter.poincare.one; script-src 'self' https://booktwitter.poincare.one; child-src 'self' blob: https://booktwitter.poincare.one; worker-src 'self' blob: https://booktwitter.poincare.one
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Etag: W/"bbdb8c27bf2b1ed26b6d4e58ba43bcb9"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:10:00.165910Z
+X-Request-Id: 2f9fed4e-d8d4-4467-a409-fa6bc37fc3e3
+X-Runtime: 0.012651
+X-Xss-Protection: 1; mode=block
+
+30
+["aus.social","mastodon.social","f.freinetz.ch"]
+0
+

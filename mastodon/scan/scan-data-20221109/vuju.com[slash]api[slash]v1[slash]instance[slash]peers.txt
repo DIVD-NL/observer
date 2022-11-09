@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://vuju.com wss://vuju.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';frame-src 'self' https:;
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:11 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXz1KXcMfCeK18AALOh
+X-Xss-Protection: 1; mode=block
+
+3ca
+["pleroma.doserver.duckdns.org","octodon.social","tailswish.industries","social.jlamothe.net","toot.kif.rocks","mindly.social","aipi.social","merveilles.town","biplus.date","bae.st","fosstodon.org","nerdculture.de","social.shadowfacts.net","notnull.click","kfem.cat","hachyderm.io","social.linux.pizza","petrous.vislae.town","tuusin.misono-ya.info","mastodon.coffee","snug.moe","trollian.space","sfba.social","o3o.ca","eldritch.cafe","news.twtr.plus","rcsocial.net","mk.absturztau.be","social.hendrixgames.com","mast.dragon-fly.club","mastodon.online","freespeechextremist.com","mythago.space","poa.st","fedi.nullob.si","writing.exchange","ausglam.space","noagendasocial.com","cybre.club","mstdn.starnix.network","mstdn.ca","tech.lgbt","mastodon.social","social.trom.tf","bozgor.org","genau.qwertqwefsday.eu","mastodon.lol","thisis.mylegendary.quest","social.inex.rocks","social.growyourown.services","piggo.space","shitposter.club","glitterkitten.co.uk","chaos.social"]
+0
+

@@ -1,0 +1,16 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 211
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Etag: "5d601872-d3"
+Server: nginx/1.14.2
+
+<html>
+	<head>
+		<title>woopswie</title>
+	</head>
+	<body>
+		<p>sorry something is horribly broken and its taking me a while to fix it. bophadees will be back, eventually, and probably soon.</p>
+	</body>
+</html>

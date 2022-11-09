@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.arks.social; img-src 'self' https: data: blob: https://mstdn.arks.social; style-src 'self' https://mstdn.arks.social 'nonce-yf0hzwHevBEAg9mdRAwoLA=='; media-src 'self' https: data: https://mstdn.arks.social; frame-src 'self' https:; manifest-src 'self' https://mstdn.arks.social; connect-src 'self' data: blob: https://mstdn.arks.social https://files.mstdn.arks.social wss://mstdn.arks.social; script-src 'self' https://mstdn.arks.social; child-src 'self' blob: https://mstdn.arks.social; worker-src 'self' blob: https://mstdn.arks.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:23 GMT
+Etag: W/"655ce04ebc1bc77bf8203503c910d15f"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:40:00.527247Z
+X-Request-Id: 3ca969dd-fef3-43bf-b1f5-41c5d3b59420
+X-Runtime: 0.011967
+X-Xss-Protection: 0
+
+ed
+["arks.social","mastodon.social","relay.homunyan.com","mastodon.holeyfox.co","social.seattle.wa.us","akko.anemoneya.me","misskey.bubbletea.dev","eeeeeeeee.eu","fedi.astrid.tech","social.theredcaps.net","mastodonapp.uk","bluestar.social"]
+0
+

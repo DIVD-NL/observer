@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://kvalhe.im; img-src 'self' https: data: blob: https://kvalhe.im; style-src 'self' https://kvalhe.im 'nonce-385QDkNUXSTBB0OLzXaM9w=='; media-src 'self' https: data: https://kvalhe.im; frame-src 'self' https:; manifest-src 'self' https://kvalhe.im; connect-src 'self' data: blob: https://kvalhe.im https://kvalhe.im wss://kvalhe.im; script-src 'self' https://kvalhe.im; child-src 'self' blob: https://kvalhe.im; worker-src 'self' blob: https://kvalhe.im
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:51 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding,Origin
+Via: 1.1 69154db4091f3dbde5ecf072840fdce0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: SmzinuxyAyc2s5MQkEnbiKJiou2Vz6kyFFNmyACaZ83fTFdGfLSu_g==
+X-Amz-Cf-Pop: BRU50-C1
+X-Cache: Error from cloudfront
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.517448Z
+X-Request-Id: 8d5a6179-62c9-424b-9f74-ad805e5a0d6d
+X-Runtime: 0.005337
+X-Xss-Protection: 0
+
+0
+

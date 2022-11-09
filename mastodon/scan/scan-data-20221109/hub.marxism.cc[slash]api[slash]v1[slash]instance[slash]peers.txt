@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777829ffb1b9c3-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:25 GMT
+Etag: W/"f6c879e434ca4ca3975aec5516c68526"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=77YhlgpbMGjACQvAMqIOjVrX1XLG4mztx9E1GiBmaon%2BnK9VbN%2FeJrqaPvW6ASfFj8DL0ns%2FXx8fbdI7Lfe0Yeen2tSado8XVMCtjgrnhpJKWEnYBRjyquK2VRs8V5DwaQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.670479Z
+X-Request-Id: 6970ccae-39c2-4bf2-9765-db2d7f0642d3
+X-Runtime: 0.038699
+X-Xss-Protection: 0
+
+2b4
+["relay.fedibird.com","relay.freespeech.club","pleroma.sembei.net","pleroma.freespeech.club","cowfee.org","blimey.social","pleroma.foxfam.club","qip.wang","thx.one","pl.rokoucha.net","p.oshiteku.app","pleroma.atsuchan.page","pleroma.noellabo.jp","pr.shc.kanagawa.jp","pleroma.ga","pleroma.io","thisis.mylegendary.quest","social.cosnomi.com","sts.lqt.moe","nullwhere.social","shalmirane.de","social.vengeful.eu","pleroma.anduin.net","social.ppmx.org","social.codeplumbers.eu","social.herag.xyz","pleroma.lincolncyber.com","pleroma.mnko.info","everywhereforever.net","nofan.xyz","mastodon.art","donotban.com","wxw.moe","m.cmx.im","bgme.me","mastodon.online","o3o.ca","alive.bar","douchi.space"]
+0
+

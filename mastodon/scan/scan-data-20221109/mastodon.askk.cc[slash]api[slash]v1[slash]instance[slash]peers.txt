@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.askk.cc; img-src 'self' https: data: blob: https://mastodon.askk.cc; style-src 'self' https://mastodon.askk.cc 'nonce-eojGsKrolWUHCE4JAGGYFQ=='; media-src 'self' https: data: https://mastodon.askk.cc; frame-src 'self' https:; manifest-src 'self' https://mastodon.askk.cc; connect-src 'self' data: blob: https://mastodon.askk.cc https://mastodon.askk.cc wss://mastodon.askk.cc; script-src 'self' https://mastodon.askk.cc; child-src 'self' blob: https://mastodon.askk.cc; worker-src 'self' blob: https://mastodon.askk.cc
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:56 GMT
+Etag: W/"82683529eb10387fb18f985b0b579ecd"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: STALE
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-09-27T08:30:00.338841Z
+X-Request-Id: 22f9e852-87e6-4a85-b6e7-ac389fcb7541
+X-Runtime: 0.006650
+X-Xss-Protection: 0
+
+6eb
+["sn.nekojita.moe","qip.wang","lrtg.cf","el5.net","crazylab.online","weibo.run","iddqd.social","caonima.wtf","mk.outv.im","buta.moe","shalmirane.de","social.herag.xyz","post.wznmickey.com","social.cybershock.life","social.codeplumbers.eu","dudu.best","fediverse-lite.com","pleroma.notbren.xyz","social.ppmx.org","social.boiledscript.com","nullwhere.social","pleroma.takeko.cyou","pleroma.anduin.net","social.simcu.com","dasgelobteland.art","mastodon.ktachibana.party","mastodon.buzhangjiuzhou.com","fet.bar","sansschatten.com","ramen.iu0.win","fairy.id","biplus.date","trebo.chat","orz.uno","dudu.capricom.info","me.ns.ci","mstdn.homes","mstdn.one","shiina.cafe","cryptocartel.social","1234.as","makito.me","kansas-city.social","rondoalive.xyz","ingwie.me","foxsay.southfox.me","hax.technology","kafeneio.social","kokoro.shugetsu.space","b612.me","pnk.solar","poplava.net","malu.today","barritar.uc-netcorsoft.de","mstdn.ca","mastodon.li","hedgehog.pub","social.edzilla.info","isekai.wtf","justabit.social","toot.krinetzki.de","social.stardenver.de","mastodon.o3o.icu","waytoomuch.info","xmflsct.com","mstdn.myifn.de","acg.mn","imastodon.org","mastodon.localecho.net","ozhika.me","patchouli.today","masto.therealblue.de","lejaua6.club","social.plaxon.de","m.wulingate.com","mastodon.uy","qpomelo.network","cx.cx","ftp.rip","donotban.com","d-fens.systems","nya.fangluo.top","dora.im","twitter.1d4.us","nonexiste.net","wxw.cat","o3o.ca","botsin.space","balbec.xyz","0ne.day","pleroma.1d4.us","social.malacology.net","2to2.xyz","kazv.moe","thefire.work","zone.liolok.com","pirati.ca","mastodon.xsoftware.it","toot.mantyke.icu","fedilove.cyou","hashi.icu","nofan.xyz","mastodon.tedomum.net","mastodon.uno","sociale.network","nekoland.fangluo.top","wxw.moe","hello.2heng.xin"]
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.ericlathrop.com; img-src 'self' https: data: blob: https://mastodon.ericlathrop.com; style-src 'self' https://mastodon.ericlathrop.com 'nonce-IDIXb/Fv57IwKMVROYQtrQ=='; media-src 'self' https: data: https://mastodon.ericlathrop.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.ericlathrop.com; connect-src 'self' data: blob: https://mastodon.ericlathrop.com https://mastodon.ericlathrop.com wss://mastodon.ericlathrop.com; script-src 'self' https://mastodon.ericlathrop.com; child-src 'self' blob: https://mastodon.ericlathrop.com; worker-src 'self' blob: https://mastodon.ericlathrop.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:16 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.479707Z
+X-Request-Id: 1cd799cf-2f05-44c5-9116-580d6eeb8f71
+X-Runtime: 0.007285
+X-Xss-Protection: 0
+
+0
+

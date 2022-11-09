@@ -1,0 +1,37 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: https://sandbox.sbtest1.uber.space
+Cache-Control: no-cache
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline' 'self' https://sbtest1.uber.space; font-src 'self' data: https://sbtest1.uber.space; child-src https://sbtest1.uber.space; frame-src 'self' blob: https://sandbox.sbtest1.uber.space; connect-src 'self' blob: https://sbtest1.uber.space https://sbtest1.uber.space https://sandbox.sbtest1.uber.space; img-src 'self' data: blob: https://sbtest1.uber.space; media-src blob:; frame-ancestors 'self' https://sbtest1.uber.space; worker-src 'self'; script-src 'self' resource: https://sbtest1.uber.space
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 09 Nov 2022 15:17:21 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+321
+<!DOCTYPE html>
+<html id="four-oh-four">
+<!-- If this file is not called customize.dist/src/template.html, it is generated -->
+<head>
+    <title data-localization="main_title">CryptPad: Collaboration suite, encrypted and open-source</title>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="icon" type="image/png" href="/customize/favicon/main-favicon.png" id="favicon"/>
+    <script async data-bootload="/customize/four-oh-four.js" data-main="/common/boot.js?ver=1.0" src="/bower_components/requirejs/require.js?ver=2.3.5"></script>
+</head>
+<body class="html">
+<noscript>
+<h1>404</h1>
+<h3>We couldn't find the page you were looking for</h3>
+
+</noscript>
+
+0
+

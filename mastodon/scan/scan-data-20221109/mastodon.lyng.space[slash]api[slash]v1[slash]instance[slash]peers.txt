@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.lyng.space; img-src 'self' https: data: blob: https://mastodon.lyng.space; style-src 'self' https://mastodon.lyng.space 'nonce-0u1IXuPm8Wbgf1Bu3UvbDg=='; media-src 'self' https: data: https://mastodon.lyng.space; frame-src 'self' https:; manifest-src 'self' https://mastodon.lyng.space; connect-src 'self' data: blob: https://mastodon.lyng.space https://mastodon.lyng.space wss://mastodon.lyng.space; script-src 'self' https://mastodon.lyng.space; child-src 'self' blob: https://mastodon.lyng.space; worker-src 'self' blob: https://mastodon.lyng.space
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:45 GMT
+Etag: W/"38c8e7a6237608d7c9b2b4336c50b9ec"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.873614Z
+X-Request-Id: c9137fa0-4933-4dba-be6c-f7f21ea39443
+X-Runtime: 0.021848
+X-Xss-Protection: 0
+
+38d
+["social.data.coop","sparkly.uni.horse","merveilles.town","mastodon.xyz","friendica.oldkid.digital","scicomm.xyz","friendica.mnementh.co.uk","machteburch.social","quitter.pl","mastodon.online","social.geekwisdom.org","kampftoast.de","layer8.space","framapiaf.org","mastodon.jfmblinux.fr","mas.to","mk.chocoflan.net","cybercrusade.xyz","chudbuds.lol","gly.one","freespeechextremist.com","sleepy.cafe","djsumdog.com","social.mrhands.horse","beefyboys.win","pl.seahorse.sh","poa.st","eveningzoo.club","hub.natehiggers.online","noc.social","nicecrew.digital","pleroma.jamesp.org","nightshift.social","seal.cafe","gleasonator.com","rojogato.com","fediverse.pl","mstdn.starnix.network","leafposter.club","mk.starnix.network","mastodon.sdf.org","mstdn.social","linuxrocks.online","mk.gabe.rocks","social.anoxinon.de","mastodon.technology","floss.social","mastodon.social","cybre.town","mastodon.uno","fosstodon.org"]
+0
+

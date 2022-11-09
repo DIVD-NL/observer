@@ -1,0 +1,20 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Security-Policy: frame-ancestors 'self' https://*.gcaillaut.fr;
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:51 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Tk: N
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668006897
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://s.twentyzen.digital; img-src 'self' https: data: blob: https://s.twentyzen.digital; style-src 'self' https://s.twentyzen.digital 'nonce-+SuxrLonGaaIQxftccecSA=='; media-src 'self' https: data: https://s.twentyzen.digital; frame-src 'self' https:; manifest-src 'self' https://s.twentyzen.digital; connect-src 'self' data: blob: https://s.twentyzen.digital https://s.twentyzen.digital wss://s.twentyzen.digital; script-src 'self' https://s.twentyzen.digital 'unsafe-eval'; child-src 'self' blob: https://s.twentyzen.digital; worker-src 'self' blob: https://s.twentyzen.digital
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:18 GMT
+Etag: W/"1c9b606b46631979488775c29b0a9fed"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.274141Z
+X-Request-Id: 750eb9d8-49ca-4ae3-8e6b-f348b847060b
+X-Runtime: 0.003362
+X-Xss-Protection: 0
+
+13
+["mastodon.social"]
+0
+

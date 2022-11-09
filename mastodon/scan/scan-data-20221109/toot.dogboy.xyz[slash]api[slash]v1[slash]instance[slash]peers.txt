@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.dogboy.xyz; img-src 'self' https: data: blob: https://toot.dogboy.xyz; style-src 'self' https://toot.dogboy.xyz 'nonce-qOrxjRm9nTr0ZfdXaRdqcA=='; media-src 'self' https: data: https://toot.dogboy.xyz; frame-src 'self' https:; manifest-src 'self' https://toot.dogboy.xyz; connect-src 'self' data: blob: https://toot.dogboy.xyz https://toot.dogboy.xyz wss://toot.dogboy.xyz; script-src 'self' https://toot.dogboy.xyz 'unsafe-eval'; child-src 'self' blob: https://toot.dogboy.xyz; worker-src 'self' blob: https://toot.dogboy.xyz
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:53 GMT
+Etag: W/"fb3eed880052e20c895c3b7161a7f858"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.659716Z
+X-Request-Id: f989324f-bd1d-4254-9f34-f9ec0be22d8c
+X-Runtime: 0.005113
+X-Xss-Protection: 0
+
+50
+["mastodon.social","berserker.town","libranet.de","cawfee.club","weeaboo.space"]
+0
+

@@ -1,0 +1,23 @@
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Content-Length: 371
+Content-Security-Policy: default-src 'none'; base-uri 'self'; form-action 'self' https:; frame-ancestors 'none'; img-src 'self' data: https:; media-src 'self' https:; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self'; connect-src 'self' wss://pleroma.soupwhale.com; upgrade-insecure-requests;
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:16:16 GMT
+Referrer-Policy: same-origin
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>503 Service Unavailable</title>
+</head><body>
+<h1>Service Unavailable</h1>
+<p>The server is temporarily unable to service your
+request due to maintenance downtime or capacity
+problems. Please try again later.</p>
+<hr>
+<address>Apache Server at pleroma.soupwhale.com Port 443</address>
+</body></html>

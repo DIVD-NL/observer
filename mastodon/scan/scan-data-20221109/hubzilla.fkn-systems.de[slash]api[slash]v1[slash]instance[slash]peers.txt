@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 27
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: frame-ancestors 'self' *.fkn-systems.de *.fkn-service.de fkn-service.de linux-events.org l-p-d.org bs-lug.de matomo.fkn-service.de
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:09:26 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Permissions-Policy: interest-cohort=();
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache
+Set-Cookie: PHPSESSID=8434e76e595d938dc334dac23495aeed; path=/; secure; HttpOnly; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+{"error":"not implemented"}

@@ -1,0 +1,15 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767789ad8cd6b9a1-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:21:22 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=84oDMUw7HdPv%2B3VfIqsQVUZs%2B63C44hKdNdTLxITGAiRI6VY%2FSZEFb%2BMH3FJPe8syt8j0CmdiJLpZ%2FW%2BhpcD2pxFhcU9QhL72B8dH%2F38wAzRzmYx%2B1l%2FyBsoWBCtWA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Origin
+
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.matej-lach.me; img-src 'self' https: data: blob: https://social.matej-lach.me; style-src 'self' https://social.matej-lach.me 'nonce-PcS8t6ZYQI7eDaRxaGOUlw=='; media-src 'self' https: data: https://social.matej-lach.me; frame-src 'self' https:; manifest-src 'self' https://social.matej-lach.me; connect-src 'self' data: blob: https://social.matej-lach.me https://social.matej-lach.me wss://social.matej-lach.me; script-src 'self' https://social.matej-lach.me; child-src 'self' blob: https://social.matej-lach.me; worker-src 'self' blob: https://social.matej-lach.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:02 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.731603Z
+X-Request-Id: b9dec2ff-c3c1-41df-bc2a-0d8356e299fc
+X-Runtime: 0.005643
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:23 GMT
+Etag: W/"bf02418e46f11052a4a57760ae5c04ea"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.015559Z
+X-Request-Id: 8a86cbbd-4a44-4611-a4e2-cee53b94cc68
+X-Runtime: 0.007628
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+4c2
+["mindly.social","mastodon.green","toot.io","mastodon.art","freeradical.zone","friendica.ironbug.org","tech.lgbt","cloudisland.nz","fr.readthefinemanual.net","mastodon.nu","kolektiva.social","infosec.exchange","social.deadsuperhero.com","mstdn.io","mastodon-pa.sorbonne-universite.fr","mastodon.hawaga.org.uk","fosstodon.org","tilde.zone","cuff.social","calico.social","ruby.social","chaos.social","bbq.snoot.com","sigmoid.social","gensokyo.social","mastodon.cloud","saturation.social","scholar.social","federated.press","mastodonapp.uk","f.freinetz.ch","masthead.social","666.glitchwit.ch","mastodon.world","piaille.fr","mastodon.acc.umu.se","newsie.social","vulpine.club","glauca.space","floss.social","writing.exchange","journa.host","noc.social","m6n.io","mastodon.lol","blacktwitter.io","fediscience.org","jade.moe","med-mastodon.com","social.linux.pizza","sfba.social","qoto.org","mastodon.ie","mastodon.online","mastodon.social","framapiaf.org","hachyderm.io","weirder.earth","mas.to","mstdn.social","mstdn.mx","toot.cat","dair-community.social","godforsaken.website","raru.re","nitecrew.rip","social.wildeboer.net","toot.community","social.vrutkovs.eu","botsin.space","beta.mstdn.cf","librem.one","jawns.club"]
+0
+

@@ -1,0 +1,10 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:14:58 GMT
+
+2d
+{"error":"credentials are missing or wrong."}
+0
+

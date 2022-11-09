@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sarunint.com; img-src 'self' https: data: blob: https://mastodon.sarunint.com; style-src 'self' https://mastodon.sarunint.com 'nonce-qcEY4IYBCuvHZ78sRRy2aw=='; media-src 'self' https: data: https://mastodon.sarunint.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.sarunint.com; connect-src 'self' data: blob: https://mastodon.sarunint.com https://s3.us-west-002.backblazeb2.com wss://mastodon.sarunint.com; script-src 'self' https://mastodon.sarunint.com; child-src 'self' blob: https://mastodon.sarunint.com; worker-src 'self' blob: https://mastodon.sarunint.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:11 GMT
+Etag: W/"f3cb3193ca5e1825bb221696fec68790"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 297
+X-Ratelimit-Reset: 2022-11-09T15:15:00.507340Z
+X-Request-Id: 36f18af4-409d-4984-a9ea-216db5094edd
+X-Runtime: 0.046262
+X-Xss-Protection: 0
+
+ca
+["mastodon.online","indieweb.social","floss.social","toot.fedilab.app","tech.lgbt","mastodon.world","mastodon.social","bensmith.uk","mastodonapp.uk","mastodon.in.th","fosstodon.org","linuxrocks.online"]
+0
+

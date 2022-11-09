@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pler.garrison.beer wss://pler.garrison.beer;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:46 GMT
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzev16hqV59OIAZ32x
+X-Xss-Protection: 1; mode=block
+
+6f9
+["cybre.space","castlecannon.house","cute.science","fedi.garrison.beer","la-verite-vaincra.nohost.me","plush.city","friendica.chilemasto.casa","london.fetish.church","friendica.valvin.fr","mastodon.art","squeet.me","friendica.ennimedia.de","queer.garden","meow.social","nsfw.wnymathguy.com","bananachips.club","godforsaken.website","noovi.org","loma.ml","octodon.social","opensocial.at","lewd.town","weirder.earth","friendica.vrije-mens.org","friendica.argentwolf.org","sleeping.town","office.lectures-estivales.eu","girlcock.club","sinblr.com","social.cool110.xyz","friendica.poppelreuter.de","ondergrond.org","glaceon.social","kink.clinic","notbird.site","friends.deko.cloud","snacka.uluntu.se","chaos.social","friendica.code-alongsi.de","goblin.camp","mspsocial.net","tech.lgbt","social.cybre.city","nuklear.family","outerheaven.club","f.praschnig.com","friendica.djan-gicquel.fr","jorts.horse","iscute.moe","social.hannebrook.info","friendica.hubup.pro","wandering.shop","stonerkitty.monster","librenet.co.za","social.yl.ms","friendica.utzer.de","fedi.absturztau.be","mastodon.social","scl.clttr.info","cybre.city","kawen.space","retro.social","social.isurf.ca","libranet.de","friend.camp","f.freinetz.ch","udongein.xyz","fedi.cybre.city","freindal.hallertau.social","raru.re","vulpine.club","mastodon.technology","eldritch.cafe","social.outsourcedmath.com","friendica.feneas.org","laserdisc.party","pztrn.online","iam.lydi.as","thesnakepostoffice.online","sendero.social","social.gl-como.it","decept.org","magnificentbeardsfan.club","nerdica.net","social.trom.tf","medievalist.masto.host","misandry.city","poly.cybre.city","tabletop.social","tiny-pillowfort.floating-in.space","elle.systems","venera.social","kinky.business","g1zm0.social","hackers.town","social.scribblers.club"]
+0
+

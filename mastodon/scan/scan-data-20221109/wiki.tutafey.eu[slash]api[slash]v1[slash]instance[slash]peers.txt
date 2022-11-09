@@ -1,0 +1,9 @@
+HTTP/1.1 404 
+Connection: close
+Content-Length: 1036
+Content-Language: fr
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:22 GMT
+Server: Apache/2.4.41 (Ubuntu)
+
+<!doctype html><html lang="fr"><head><title>État HTTP 404 – Not Found</title><style type="text/css">h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>État HTTP 404 – Not Found</h1><hr class="line" /><p><b>Type</b> Rapport d''état</p><p><b>message</b> &#47;api&#47;v1&#47;instance&#47;peers</p><p><b>description</b> La ressource demandée n''est pas disponible.</p><hr class="line" /><h3>Apache Tomcat/8.5.39 (Ubuntu)</h3></body></html>

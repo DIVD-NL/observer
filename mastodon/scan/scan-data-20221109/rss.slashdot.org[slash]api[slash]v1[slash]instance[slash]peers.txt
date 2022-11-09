@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778393dea0b9a7-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:13 GMT
+Location: https://slashdot.org/api/v1/instance/peers
+Server: cloudflare
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

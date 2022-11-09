@@ -1,0 +1,99 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:30 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+c58
+<!DOCTYPE html>
+<html class="default-light">
+    <head>
+        <meta charset="utf-8" />
+        <title>Page not found ⋅ Plume</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="/static/cached/9b51783f/css/default-light/theme.css" />
+        <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" type="image/png" href="/static/cached/9b51783f/icons/trwnh/feather-filled/plumeFeatherFilled64.png">
+        <meta content='#282c37' name='theme-color'/>
+        
+    <script type="text/javascript" src="/ynh_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynh_overlay.css"><script type="text/javascript" src="/ynhtheme/custom_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynhtheme/custom_overlay.css"></head>
+    <body>
+        <header>
+            <nav id="menu">
+                <a href="#" aria-label="Menu" title="Menu" role="button" aria-haspopup="true" aria-controls="content" aria-epanded="false"><i class="icon icon-menu"></i></a>
+            </nav>
+            <div id="content" role="menu" aria-labelled-by="menu">
+                <nav>
+                    <a href="/" class="title">
+                        <img src="/static/cached/9b51783f/icons/trwnh/feather/plumeFeather256.png">
+                        <p>Plume</p>
+                    </a>
+                    <hr/>
+                    
+                </nav>
+                <nav>
+                    
+                        <a href="/search">
+                            <i class="icon icon-search"></i>
+                            <span class="mobile-label">Search</span>
+                        </a>
+                        <a href="/login">
+                            <i class="icon icon-log-in"></i>
+                            <span class="mobile-label">Log In</span>
+                        </a>
+                        <a href="/users/new">
+                            <i class="icon icon-user-plus"></i>
+                            <span class="mobile-label">Register</span>
+                        </a>
+                    
+                </nav>
+            </div>
+        </header>
+        <div class="messages">
+            
+        </div>
+        <main>
+            
+  
+  <h1>We couldn&#39;t find this page.</h1>
+  <p>The link that led you here may be broken.</p>
+
+  <p>Page not found</p>
+
+        </main>
+        <footer>
+            <hr/>
+            <div>
+                <h3>Plume de wivodaim</h3>
+                <a href="/about">About this instance</a>
+                <a href="/privacy">Privacy policy</a>
+                
+            </div>
+            <div>
+                <h3>Plume 0.7.2</h3>
+                <a href="https://docs.joinplu.me">Documentation</a>
+                <a href="https://github.com/Plume-org/Plume">Source code</a>
+                <a href="https://matrix.to/#/#plume-blog:matrix.org">Matrix room</a>
+            </div>
+        </footer>
+        <script type="module">
+          import init from '/static/cached/9b51783f/plume_front.js';
+          (async () => await init())();
+        </script>
+    </body>
+</html>
+
+
+
+0
+

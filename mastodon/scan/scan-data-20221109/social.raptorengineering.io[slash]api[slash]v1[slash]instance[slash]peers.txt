@@ -1,0 +1,97 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 4260
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:26 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Strict-Transport-Security: max-age=15768000
+Via: 1.1 vidar.starlink.edu:444
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Not Found - Raptor Engineering Microblog</title>
+  <link rel="shortcut icon" href="https://social.raptorengineering.io/theme/neo-gnu/favicon.ico"/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/theme/base/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/theme/neo-gnu/css/display.css?version=1.2.0-beta4" media="screen, projection, tv, print"/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/plugins/OStatus/theme/base/css/ostatus.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/js/extlib/jquery-ui/css/smoothness/jquery-ui.css?version=1.2.0-beta4" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/plugins/Bookmark/css/bookmark.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/plugins/Event/css/event.css" media=""/>
+  <link rel="stylesheet" type="text/css" href="https://social.raptorengineering.io/plugins/Poll/css/poll.css" media=""/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://social.raptorengineering.io/opensearch/people" title="Raptor Engineering Microblog People Search"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://social.raptorengineering.io/opensearch/notice" title="Raptor Engineering Microblog Notice Search"/>
+ </head>
+ <body id="error">
+  <div id="wrap">
+   <div id="header">
+    <address id="site_contact" class="h-card">
+     <a class="home bookmark" href="https://social.raptorengineering.io/main/public">
+      <img class="logo u-photo p-name" src="https://www.raptorengineering.com/logo2.png" alt="Raptor Engineering Microblog"/>
+     </a>
+    </address>
+    <div id="site_nav_global_primary">
+     <form id="header-search" class="form" method="get" action="https://social.raptorengineering.io/search/notice">
+      <fieldset>
+       <input name="q" size="20" id="search-q"/>
+       <input type="submit" value="Search"/>
+      </fieldset>
+     </form>
+     <ul class="nav">
+      <li id="nav_login">
+       <a href="https://social.raptorengineering.io/main/login" title="Login to the site.">Login</a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="core">
+    <div id="aside_primary_wrapper">
+     <div id="content_wrapper">
+      <div id="site_nav_local_views_wrapper">
+       <div id="content">
+        <h1>Not Found</h1>
+        <div id="content_inner">
+         <div class="error">Page not found.</div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <ul class="nav" id="site_nav_global_secondary">
+     <li>
+      <a href="https://social.raptorengineering.io/doc/help">Help</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/about">About</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/faq">FAQ</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/tos">TOS</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/privacy">Privacy</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/source">Source</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/main/version">Version</a>
+     </li>
+     <li>
+      <a href="https://social.raptorengineering.io/doc/contact">Contact</a>
+     </li>
+    </ul>
+<p><strong>Raptor Engineering Microblog</strong> is a social network, courtesy of <a href="https://www.raptorengineering.com">Raptor Engineering, LLC</a>. It runs on <a href="https://www.gnu.org/software/social/">GNU social</a>, version 1.2.0-beta4, available under the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>.</p>
+    <p>Content and data copyright by Raptor Engineering, LLC. All rights reserved.</p>
+   </div>
+  </div>
+ </body>
+<!-- 282ms --></html>

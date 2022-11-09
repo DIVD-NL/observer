@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:29 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://clerks.me/api/v1/instance/peers
+Server: Apache/2.4.54 (cPanel) OpenSSL/1.1.1q mod_bwlimited/1.4
+Vary: Accept-Encoding,Cookie
+X-Redirect-By: WordPress
+Content-Length: 0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.tangoz.de; img-src 'self' https: data: blob: https://social.tangoz.de; style-src 'self' https://social.tangoz.de 'nonce-k+vaKXjpfjTDZx0I7GYTRA=='; media-src 'self' https: data: https://social.tangoz.de; frame-src 'self' https:; manifest-src 'self' https://social.tangoz.de; connect-src 'self' data: blob: https://social.tangoz.de https://social.tangoz.de wss://social.tangoz.de; script-src 'self' https://social.tangoz.de; child-src 'self' blob: https://social.tangoz.de; worker-src 'self' blob: https://social.tangoz.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:44 GMT
+Etag: W/"803a103f8bd7a7246be32bd2c9cd5b28"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.920964Z
+X-Request-Id: a04ec2eb-766f-44e5-9c52-f1aa31ab687e
+X-Runtime: 0.011243
+X-Xss-Protection: 0
+
+450
+["freiburg.social","social.michels.xyz","pixel.gruene.social","darmstadt.social","machteburch.social","rollenspiel.social","ioc.exchange","social.bund.de","mastodon.nu","lustigetiernamenbubble.de","masthead.social","sueden.social","mastodon.cloud","mastodon.nistkasten-dresden.de","social.anoxinon.de","quasselkopf.de","todon.eu","odenwald.social","sauropods.win","mstdn.social","fosstodon.org","medibubble.org","mastodon.radio","norden.social","mastodon.sdf.org","retrotroet.com","mastodontech.de","mastodon.flying-snail.de","social.ksite.de","toot.bike","mastodon.online","social.jonaskoeritz.de","mastodon.lol","edi.social","koyu.space","scholar.social","chaos.social","social.dev-wiki.de","social.lol","squeet.me","troet.cafe","nrw.social","pirati.ca","social.tchncs.de","rls.social","hessen.social","berlin.social","det.social","mastodon.social","f.haeder.net","bildung.social","kirche.social","mhz.social","librem.one","georgi.family","bonn.social","muenchen.social","mastodon.eble.name","climatejustice.social","mastodon.green","digitalcourage.social","gruene.social","legal.social","ruhr.social"]
+0
+

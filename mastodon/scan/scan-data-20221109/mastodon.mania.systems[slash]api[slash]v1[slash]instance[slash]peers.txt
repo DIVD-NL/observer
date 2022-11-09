@@ -1,0 +1,39 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Content-Length: 1034
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:11:45 GMT
+Strict-Transport-Security: max-age=63072000;
+Vary: Origin
+X-Request-Id: 7631dafb-e9cb-434f-85f4-b039e25bc240
+X-Runtime: 0.004665
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - dev.glitch.social</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<script src="/packs/js/locales-42ea441da954f629b909.js" crossorigin="anonymous"></script>
+<script src="/packs/js/core/common-baf24f682d4d6842dc99.chunk.js" crossorigin="anonymous"></script>
+
+<script src="/packs/js/flavours/glitch/common-70f98b9c6632b4441cd6.chunk.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" media="all" href="/packs/css/flavours/glitch/common-4a4327fd.chunk.css" />
+
+<script src="/packs/js/flavours/glitch/error-8b81bb6692786f8bba60.chunk.js" crossorigin="anonymous"></script>
+
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='dev.glitch.social' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>

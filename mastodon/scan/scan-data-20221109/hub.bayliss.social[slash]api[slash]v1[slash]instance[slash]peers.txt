@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://hub.bayliss.social; img-src 'self' https: data: blob: https://hub.bayliss.social; style-src 'self' https://hub.bayliss.social 'nonce-2QrpXoOmvtSDp6z3F+QD/g=='; media-src 'self' https: data: https://hub.bayliss.social; frame-src 'self' https:; manifest-src 'self' https://hub.bayliss.social; connect-src 'self' data: blob: https://hub.bayliss.social https://s3.richbayliss.online wss://hub.bayliss.social; script-src 'self' https://hub.bayliss.social; child-src 'self' blob: https://hub.bayliss.social; worker-src 'self' blob: https://hub.bayliss.social
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:22 GMT
+Etag: W/"1c86cdef14570f30517987a7ca4fd3fc"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.387632Z
+X-Request-Id: fa003974-577b-402e-b403-b4cf3a1ba763
+X-Runtime: 0.010019
+X-Xss-Protection: 0
+
+296
+["kcmo.social","genomic.social","a.gup.pe","data-folks.masto.host","social.linux.pizza","mastodon.scot","yharnam.singles","bitcoinhackers.org","appdot.net","social.fellr.net","dice.camp","666.glitchwit.ch","mastodon.online","mas.to","dogsex.org","m.trisweb.com","social.xbm.se","nancy.social","kith.kitchen","socel.net","mastodon.art","med-mastodon.com","eeeeeeeee.eu","thetooniverse.xyz","pleroma.1d4.us","mstdn.binarytango.com","clar.ke","toot.community","infosec.exchange","mastodon.gamedev.place","port87.social","commiespace.duckdns.org","hachyderm.io","mastodonapp.uk","dotnet.social","spacey.space","cheeseburger.social","mastodon.social","fosstodon.org"]
+0
+

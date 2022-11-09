@@ -1,0 +1,1163 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Countrycode: BE
+Date: Wed, 09 Nov 2022 15:22:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Surrogate-Control: content="ESI/1.0"
+Via: 1.1 20b61f8a897671342027285e75830e4e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: sWqZVbcJfMM-lOJC51bQx6Noem4GKkp80tBpJvAMchxlFPgYBRaMKA==
+X-Amz-Cf-Pop: CDG50-C1
+X-Cache: Error from cloudfront
+X-Clientip: 193.105.73.176
+
+136a4
+ <!DOCTYPE html>
+<html lang="es">
+ <head>
+   <script>
+ var country = 'BE';
+ var isSpainOrLatamUser = true;
+</script>
+ <title>No se ha encontrado la página</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="Android. Noticias e información sobre el Sistema Operativo para dispositivos móviles de Google: Android Market, aplicaciones, móviles, tablets y más en Xataka Android.">
+      <meta name="robots" content="noodp">
+<meta property="fb:admins" content="100000716994885">
+<meta property="fb:pages" content="196404757037207">
+<meta property="fb:app_id" content="195946050422925">
+<meta name="application-name" content="Xataka Android">
+<meta name="msapplication-tooltip" content="Android: Todo sobre el Sistema Operativo móvil de Google en Xataka Android">
+<meta name="msapplication-starturl" content="https://www.xatakandroid.com">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="msapplication-task" content="name=Lo mejor;action-uri=https://www.xatakandroid.com/lomejor;icon-uri=https://img.weblogssl.com/css/xatakandroid/p/v6/images/pin-bg-lomejor-icon.ico">
+ <script>
+ window.ga = window.ga || function () { (window.ga.q = window.ga.q || []).push(arguments); };
+ window.googletag = window.googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ window.dataLayer = [{"site":"XTA","siteSection":"errorPage","vertical":"Technology","amp":"no"}];
+ window.dataLayer[0].visitor_country = country;
+ googletag.cmd.push(function(){ googletag.pubads().setTargeting("site", "XTA").setTargeting("siteSection", "errorPage").setTargeting("vertical", "Technology").setTargeting("amp", "no").setTargeting('visitor_country', country); });
+</script>
+   <script type="text/javascript">
+
+ var gdprAppliesGlobally = true;
+
+ (function() {
+  function n() {
+   if (!window.frames.__cmpLocator) {
+    if (document.body && document.body.firstChild) {
+     var e = document.body;
+     var t = document.createElement("iframe");
+     t.style.display = "none";
+     t.name = "__cmpLocator";
+     t.title = "cmpLocator";
+     e.insertBefore(t, e.firstChild)
+    } else {
+     setTimeout(n, 5)
+    }
+   }
+  }
+
+  function e(e, t, n) {
+   if (typeof n !== "function") {
+    return
+   }
+   if (!window.__cmpBuffer) {
+    window.__cmpBuffer = []
+   }
+   if (e === "ping") {
+    n({
+     gdprAppliesGlobally: window.gdprAppliesGlobally,
+     cmpLoaded: false
+    }, true)
+   } else {
+    window.__cmpBuffer.push({
+     command: e,
+     parameter: t,
+     callback: n
+    })
+   }
+  }
+  e.stub = true;
+
+  function t(r) {
+   if (!window.__cmp || window.__cmp.stub !== true) {
+    return
+   }
+   if (!r.data) {
+    return
+   }
+   var a = typeof r.data === "string";
+   var e;
+   try {
+    e = a ? JSON.parse(r.data) : r.data
+   } catch (t) {
+    return
+   }
+   if (e.__cmpCall) {
+    var o = e.__cmpCall;
+    window.__cmp(o.command, o.parameter, function(e, t) {
+     var n = {
+      __cmpReturn: {
+       returnValue: e,
+       success: t,
+       callId: o.callId
+      }
+     };
+     r.source.postMessage(a ? JSON.stringify(n) : n, "*")
+    })
+   }
+  }
+  if (typeof window.__cmp !== "function") {
+   window.__cmp = e;
+   if (window.addEventListener) {
+    window.addEventListener("message", t, false)
+   } else {
+    window.attachEvent("onmessage", t)
+   }
+  }
+  n()
+ })();
+
+
+ (function(e) {
+  var t = document.createElement("script");
+  t.id = "spcloader";
+  t.type = "text/javascript";
+  t.async = true;
+  t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+  t.charset = "utf-8";
+  var n = document.getElementsByTagName("script")[0];
+  n.parentNode.insertBefore(t, n)
+ })("7bd10a97-724f-47b3-8e9f-867f0dea61c8");
+
+ function scrollListener(e) {
+  var o = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight || 0,
+   n = Math.max(document.body.scrollHeight || 0, document.documentElement.scrollHeight || 0, document.body.offsetHeight || 0, document.documentElement.offsetHeight || 0, document.body.clientHeight || 0, document.documentElement.clientHeight || 0);
+  30 <= (window.pageYOffset || document.body.scrollTop || document.documentElement.scrollTop || 0) / (n - o) * 100 && (Didomi.setUserAgreeToAll(), window.removeEventListener("scroll", scrollListener))
+ }
+
+ window.didomiOnReady = window.didomiOnReady || [], window.didomiOnReady.push(function(e) {
+  e.notice.isVisible() && window.addEventListener("scroll", scrollListener)
+ });
+
+</script>
+<script type="didomi/javascript">
+ if (!window.frames['__tcfapiLocator']) {
+  if (document.head) {
+   var head = document.head,
+   iframe = document.createElement('iframe');
+   iframe.style.cssText = 'display:none';
+   iframe.name = '__tcfapiLocator';
+   head.appendChild(iframe);
+  }
+ }
+</script><script>
+ window.WSL2 = window.WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.enableDidomiOverlay = 1;
+</script>
+
+ <script type="didomi/javascript" async="async" data-vendor="didomi:google" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+  window.ga = window.ga || function () { (window.ga.q = window.ga.q || []).push(arguments); };
+  window.googletag = window.googletag || {};
+  googletag.cmd = googletag.cmd || [];
+ </script><script>
+   var apstagSlots = [       {
+   slotID: 'div-gpt-top',
+   slotName: '/1018282/XatakaAndroid-TOP-portada',
+   sizes: [[1000,250],[970,250],[728,90]]
+  },
+   {
+   slotID: 'div-gpt-lat',
+   slotName: '/1018282/XatakaAndroid-LAT-portada',
+   sizes: [[300,600],[300,250],[160,600]]
+  },
+   {
+   slotID: 'div-gpt-lat2',
+   slotName: '/1018282/XatakaAndroid-LAT2-portada',
+   sizes: [[300,600],[300,250],[160,600]]
+  },
+   {
+   slotID: 'div-gpt-cen',
+   slotName: '/1018282/XatakaAndroid-CEN-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+   {
+   slotID: 'div-gpt-cen2',
+   slotName: '/1018282/XatakaAndroid-CEN2-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+   {
+   slotID: 'div-gpt-bot2',
+   slotName: '/1018282/XatakaAndroid-BOT2-portada',
+   sizes: [[970,250],[728,90],[300,250]]
+  },
+ ];
+  </script> <script async src="https://img.weblogssl.com/LPbackend/vendor/prebid-gdpr-v6.21.1.js?v=ccfcadcb"></script>
+<script type="didomi/javascript" data-vendor="didomi:google">
+ var PREBID_TIMEOUT = 3000;
+ var adUnits = [{"code":"div-gpt-top","mediaTypes":{"banner":{"sizes":[[1000,250],[970,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652490"}},{"bidder":"criteo","params":{"zoneId":"1080034"}},{"bidder":"appnexus","params":{"placementId":"11286742"}},{"bidder":"ix","params":{"siteId":"309124","size":[970,250]}},{"bidder":"ix","params":{"siteId":"309124","size":[728,90]}},{"bidder":"ix","params":{"siteId":"309124","size":[970,90]}},{"bidder":"richaudience","params":{"pid":"oSAGFhi2Mr","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146693","placementId":"160671"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a969d1b018282d0265bd209e85600a6"}}]},{"code":"div-gpt-lat","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652494"}},{"bidder":"criteo","params":{"zoneId":"1080033"}},{"bidder":"appnexus","params":{"placementId":"11286751"}},{"bidder":"ix","params":{"siteId":"311336","size":[300,600]}},{"bidder":"ix","params":{"siteId":"311336","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311336","size":[160,600]}},{"bidder":"richaudience","params":{"pid":"IEwyycSLcq","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146694","placementId":"160672"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a96954e018282d02eb5d209e13f00a8"}}]},{"code":"div-gpt-lat2","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652502"}},{"bidder":"criteo","params":{"zoneId":"1080028"}},{"bidder":"appnexus","params":{"placementId":"11286752"}},{"bidder":"ix","params":{"siteId":"311338","size":[300,600]}},{"bidder":"ix","params":{"siteId":"311338","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311338","size":[160,600]}},{"bidder":"richaudience","params":{"pid":"1rZDP70N65","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146695","placementId":"160673"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a96903e018282d02a5bd209e4c900af"}}]},{"code":"div-gpt-cen","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652506"}},{"bidder":"criteo","params":{"zoneId":"1080030"}},{"bidder":"appnexus","params":{"placementId":"11286754"}},{"bidder":"ix","params":{"siteId":"311340","size":[970,250]}},{"bidder":"ix","params":{"siteId":"311340","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311340","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"2IMdAXWzMO","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146696","placementId":"160674"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a96903e018282d02a5bd209da2200ad"}}]},{"code":"div-gpt-cen2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652510"}},{"bidder":"criteo","params":{"zoneId":"1080029"}},{"bidder":"appnexus","params":{"placementId":"11286755"}},{"bidder":"ix","params":{"siteId":"311342","size":[970,250]}},{"bidder":"ix","params":{"siteId":"311342","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311342","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"qL9eAVRIjf","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146697","placementId":"160675"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a969d1b018282d0265bd209ddaf00a4"}}]},{"code":"div-gpt-bot2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139470","zoneId":"652514"}},{"bidder":"criteo","params":{"zoneId":"1080027"}},{"bidder":"appnexus","params":{"placementId":"11286757"}},{"bidder":"ix","params":{"siteId":"311344","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311344","size":[728,90]}},{"bidder":"richaudience","params":{"pid":"JuqtDY37I0","supplyType":"site"}},{"bidder":"teads","params":{"pageId":"146698","placementId":"160676"}},{"bidder":"yahoossp","params":{"dcn":"8a96903e018282d02a5bd1faf6a5005e","pos":"8a96954e018282d02eb5d209d6b400a6"}}]}];
+ var pbjs = pbjs || {};
+ pbjs.que = pbjs.que || [];
+   googletag.cmd.push(function() { googletag.pubads().disableInitialLoad(); });
+  pbjs.bidderSettings = {
+ rubicon: { bidCpmAdjustment: function(bidCpm) { return 0.9 * bidCpm; } }
+};
+
+pbjs.que.push(function() {
+    
+   pbjs.setConfig({
+    consentManagement: { cmpApi: 'iab', timeout: 2000, defaultGdprScope : true },
+    priceGranularity: 'dense'
+   });
+   });
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({ pubID: '3500', adServer: 'googletag', bidTimeout: 2e3 });
+
+(function() {
+ var bidders = ['a9', 'prebid'];
+ var requestManager = { adserverRequestSent: false };
+
+ bidders.forEach(function(bidder) { requestManager[bidder] = false; });
+
+ function allBiddersBack() {
+  return bidders.reduce(function (p, c) { return p && requestManager[c]; }, true);
+ }
+
+  function sendAdserverRequest() {
+    if (requestManager.adserverRequestSent === true) { return; }
+    requestManager.adserverRequestSent = true;
+    pbjs.adserverRequestSent = true;
+    googletag.cmd.push(function() {
+           apstag.setDisplayBids();
+      googletag.pubads().setRequestNonPersonalizedAds(window.ConsentforGoogleIs);
+               pbjs.onEvent('setTargeting', function() { googletag.pubads().refresh(); });
+             pbjs.setTargetingForGPTAsync();
+              });
+  }
+
+ function headerBidderBack(bidder) {
+  if (requestManager.adserverRequestSent === true) { return; }
+  if (bidders.indexOf(bidder) >= 0) { requestManager[bidder] = true; }
+  if (allBiddersBack()) { sendAdserverRequest(); }
+ }
+
+ function requestBids(apstagSlots, adUnits, bidTimeout) {
+  
+  pbjs.que.push(function() {
+   pbjs.addAdUnits(adUnits);
+   pbjs.requestBids({ bidsBackHandler: function (bidResponses) { headerBidderBack('prebid'); } });
+  });
+
+     apstag.fetchBids({ slots: apstagSlots, timeout: bidTimeout }, function(bids) { headerBidderBack('a9'); });
+   }
+
+ requestBids(apstagSlots, adUnits, PREBID_TIMEOUT)
+ setTimeout(function() { sendAdserverRequest(); }, PREBID_TIMEOUT);
+
+ })();
+
+</script>
+ <script>
+  googletag.cmd.push(function() {
+                googletag.defineSlot('/1018282/XatakaAndroid-TOP-portada', [[1000,250],[970,250],[728,90]], 'div-gpt-top')                 .setTargeting('pos', 'top').setTargeting('fold', 'atf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XatakaAndroid-LAT-portada', [[300,600],[300,250],[160,600]], 'div-gpt-lat')                 .setTargeting('pos', '1').setTargeting('fold', 'atf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XatakaAndroid-LAT2-portada', [[300,600],[300,250],[160,600]], 'div-gpt-lat2')                 .setTargeting('pos', '2').setTargeting('fold', 'btf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XatakaAndroid-CEN-portada', [[970,250],[728,90],[300,250]], 'div-gpt-cen')                 .setTargeting('pos', 'cen1').setTargeting('fold', 'mtf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XatakaAndroid-CEN2-portada', [[970,250],[728,90],[300,250]], 'div-gpt-cen2')                 .setTargeting('pos', 'nat1').setTargeting('fold', 'mtf')   .addService(googletag.pubads());
+        googletag.defineSlot('/1018282/XatakaAndroid-BOT2-portada', [[970,250],[728,90],[300,250]], 'div-gpt-bot2')                 .setTargeting('pos', 'footer').setTargeting('fold', 'btf')   .addService(googletag.pubads());
+       googletag.defineOutOfPageSlot('/1018282/XatakaAndroid-INT-portada', 'div-gpt-int')                 .setTargeting('pos', 'inread').setTargeting('fold', 'mtf')   .addService(googletag.pubads());       googletag.defineSlot('/1018282/XatakaAndroid-INT2-portada', [1,1], 'div-gpt-int2')               .addService(googletag.pubads());
+ 
+     googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+ });
+</script>
+  
+   <script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@type":"WebPage","headline":"No se ha encontrado la p\u00e1gina","url":"https:\/\/www.xatakandroid.com"}
+ </script>
+<!--[if gte IE 9]>
+<link rel="shortcut icon" type="image/x-icon" href="https://img.weblogssl.com/css/xatakandroid/p/v6/images/pin-bg-home-icon.ico">
+<link rel=icon type="image/ico" href="https://img.weblogssl.com/css/xatakandroid/p/v6/images/pin-bg-home-icon.ico">
+<![endif]-->
+<link rel="shortcut icon" href="https://img.weblogssl.com/css/xatakandroid/p/common/favicon.ico" type="image/ico">
+<link rel="apple-touch-icon" href="https://img.weblogssl.com/css/xatakandroid/p/common/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://img.weblogssl.com/css/xatakandroid/p/common/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://img.weblogssl.com/css/xatakandroid/p/common/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://img.weblogssl.com/css/xatakandroid/p/common/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://img.weblogssl.com/css/xatakandroid/p/common/apple-touch-icon-57-precomposed.png">
+<link rel="preconnect" href="https://static.sunmedia.tv/" crossorigin>
+<link rel="dns-prefetch" href="https://static.sunmedia.tv/">
+<link rel="preconnect" href="https://static.criteo.net/" crossorigin>
+<link rel="dns-prefetch" href="https://static.criteo.net/">
+<link rel="preconnect" href="https://ib.adnxs.com/" crossorigin>
+<link rel="dns-prefetch" href="https://ib.adnxs.com/">
+<link rel="preconnect" href="https://bidder.criteo.com/" crossorigin>
+<link rel="dns-prefetch" href="https://bidder.criteo.com/">
+<link rel="preload" as="style" href="https://img.weblogssl.com/css/xatakandroid/p/skin-site-xataka-d/main.css?v=1667991649">
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xatakandroid/p/v6/ie7.css">
+<![endif]-->
+      <link rel="canonical" href="https://www.xatakandroid.com">
+ <link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xatakandroid/p/skin-site-xataka-d/main.css?v=1667991649">
+ </head>
+ <body class="js-desktop js-body prod">
+    <script>dataLayer.push({ contentGroup1: '404' });</script>
+   <script type="didomi/javascript">
+ function sendcomscore() {
+
+ var s = document.createElement("script"),
+ el = document.getElementsByTagName("script")[0];
+ s.setAttribute("data-vendor", "iab:77");
+ s.setAttribute("type", "text/javascript");
+ s.text = 'var cs_ucfr = ""; \
+ if (Didomi.getUserStatusForVendor(77)) { \
+  var cs_ucfr = "1"; \
+ } else if (Didomi.getUserStatusForVendor(77) == false) { \
+  var cs_ucfr = "0"; \
+ } \
+ \
+ var _comscore = _comscore || []; \
+ var configs = { \
+  c1: "2", \
+  c2: "6035191", \
+  cs_ucfr: cs_ucfr \
+ }; \
+ var keyword = keyword || ""; \
+ if (keyword) { \
+  configs.options = { \
+   url_append: "comscorekw=" + keyword \
+  }; \
+ } \
+ _comscore.push(configs); \
+ var s = document.createElement("script"), \
+ el = document.getElementsByTagName("script")[0]; \
+ \
+ s.src = "https://sb.scorecardresearch.com/cs/6035191/beacon.js"; \
+ \
+ window.didomiEventListeners = []; \
+ \
+ el.parentNode.insertBefore(s, el);';
+ el.parentNode.insertBefore(s, el);
+}
+
+if(Didomi.getUserStatusForVendor(77) == undefined){
+
+ window.didomiEventListeners = window.didomiEventListeners || [];
+ window.didomiEventListeners.push({
+  event: 'consent.changed',
+  listener: function(context) {
+
+  sendcomscore()
+  }
+ });
+} else {
+ sendcomscore()
+}</script>
+
+   <div class="customize-me">
+   <div class="head-content-favs">
+    <div class="head-container head-container-with-ad head-container-with-corner m-favicons-compact m-head-masthead">
+ <div class="head head-with-ad is-init">
+  <div class="head-favicons-container">
+ <nav class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a id="favicons-toggle" href="https://www.webedia.es/" data-target="#head-favicons"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+ </nav>
+</div>
+  <div class="masthead-site-lead ">
+ <div class="masthead-container">
+  <div class="masthead-logo">
+   <h1 class="masthead-logo-brand">
+    <a href="/" class="masthead-brand">Xataka Android</a>
+   </h1>
+     </div>
+       <nav class="masthead-actions">
+    <ul class="masthead-actions-list">
+     <li class="masthead-actions-list-item"><a href="#sections" class="masthead-actions-menu m-v1 js-toggle" data-searchbox="#search-field-1">Menú</a></li>
+     <li class="masthead-actions-list-item"><a href="#headlines" class="masthead-actions-nuevo m-v1 js-toggle">Nuevo</a></li>
+    </ul>
+   </nav>
+   </div>
+</div>
+     <div class="masthead-site-nav-container js-nano-container">
+ <nav class="masthead-site-nav ">
+     <a class="masthead-nav-search js-toggle" data-searchbox="#search-field-2" href="#search"></a>
+    <ul class="masthead-nav-topics">
+                      <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/analisis">ANÁLISIS</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/moviles-android">MÓVILES</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/aplicaciones-android">APLICACIONES</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/juegos-android">JUEGOS</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/tutoriales">TUTORIALES</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/categoria/guias-de-compra">GUÍAS DE COMPRA</a>
+     </li>
+                <li class="masthead-nav-topics-item">
+      <a class="masthead-nav-topics-anchor" href="https://www.xatakandroid.com/guia-completa/whatsapp-guia-uso-funciones-trucos-consejos">WHATSAPP</a>
+     </li>
+         </ul>
+  <ul class="masthead-nav-social">
+    <li class="masthead-nav-social-item"><a href="https://flipboard.com/@xatakandroid" class="masthead-nav-social-anchor masthead-social-flipboard" rel="nofollow">Flipboard</a></li>
+    <li class="masthead-nav-social-item"><a href="https://instagram.com/xataka" class="masthead-nav-social-anchor masthead-social-instagram" rel="nofollow">Instagram</a></li>
+    <li class="masthead-nav-social-item"><a href="https://www.youtube.com/user/XatakaTv?sub_confirmation=1" class="masthead-nav-social-anchor masthead-social-youtube" rel="nofollow">Youtube</a></li>
+    <li class="masthead-nav-social-item"><a href="https://twitter.com/xatakandroid" class="masthead-nav-social-anchor masthead-social-twitter" rel="nofollow">Twitter</a></li>
+ </ul>
+ </nav>
+</div>
+   </div>
+</div>
+
+    <div class="page-container">
+     <div class="content-container">
+      <main>
+       <div class='article m-is-error'>
+	<div class='article-header'>
+		<h1>Lo sentimos!</h1>
+	</div>
+	<div class='article-content'>
+		<div class='blob'>
+			<h2>La página que buscas no existe</h2>
+			<p>Quizá has escrito mal la dirección, o la hemos roto nosotros.</p>
+			<p>Puedes mirar en los <a href="/archivos">archivos de Xataka Android</a> o usar este buscador para encontrar lo que quieres:</p>
+		</div>
+		<div class='article-asset-normal'>
+			<div class='asset-content'>
+				<div class='search-box search-box-block'>
+					<div class='search-form js-search-form'>
+						<input id='search-field-4' type='text' placeholder="Buscar en " data-container='#search-container-4' class='search-container-4'>
+						<button class='search-button js-search-button' data-field='#search-field-4'>Buscar</button>
+					</div>
+				</div>
+				<section id='search-container-4' class='js-search-results'></section>
+			</div>
+		</div>
+	</div>
+</div>
+      </main>
+      <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Footer = {'moduleConf' : 'c1'};
+</script>
+ <footer class="foot js-foot">
+ <div class="wrapper foot-wrapper foot-wrapper-show">
+  <div id="newsletter" class="newsletter-box">
+   <div class="menu-follow foot-menu-follow">
+    <span class="item-meta foot-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a href="http://twitter.com/xatakandroid" class="icon-twitter link-twitter" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/XatakaAndroid" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/user/XatakaTv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+ </li>
+ <li>
+  <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+ </li>
+ <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+ <li>
+  <a href="https://flipboard.com/@xatakandroid" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+ </li>
+</ul>
+   </div>
+  </div>
+  <nav class="menu-categories foot-menu-categories">
+   <p class="nav-heading">En Xataka Android hablamos de...</p>
+   <ul>
+   <li><a class="list-item foot-list-item" href="/categoria/moviles-android">Móviles Android</a></li>   <li><a class="list-item foot-list-item" href="/categoria/tablets-android">Tablets</a></li>   <li><a class="list-item foot-list-item" href="/categoria/analisis">Análisis</a></li>   <li><a class="list-item foot-list-item" href="/categoria/aplicaciones-android">Aplicaciones Android</a></li>   <li><a class="list-item foot-list-item" href="/categoria/tutoriales">Tutoriales</a></li>   <li><a class="list-item foot-list-item" href="/categoria/juegos-android">Juegos Android</a></li>    <li><a class="list-item foot-list-item" href="/tag/filtraciones">Filtraciones</a></li>   <li><a class="list-item foot-list-item" href="/tag/google">Google</a></li>   <li><a class="list-item foot-list-item" href="/tag/xiaomi">Xiaomi</a></li>   <li><a class="list-item foot-list-item" href="/tag/actualizaciones-de-android">Actualizaciones de Android</a></li>   <li><a class="list-item foot-list-item" href="/tag/google-play">Google Play</a></li>   <li><a class="list-item foot-list-item" href="/tag/cazando-gangas">Cazando gangas</a></li> </ul>   <p class="view-even-more"><a href="/archivos" class="btn">Ver más temas</a></p>
+  </nav>
+     <script>
+ document.write('\
+  <div class="search-box foot-search">\
+   <div class="search-form js-search-form">\
+    <input id="search-field-3" type="text" placeholder="Buscar en Xataka Android" class="search-container-3" data-container="#search-container-3">\
+    <button class="search-button js-search-button" data-field="#search-field-3">Buscar</button>\
+   </div>\
+  </div>')
+</script>   <div id="search-container-3" class="js-search-results"></div>
+   </div>
+</footer>
+<script>
+ (function() {
+  var form = document.createElement('form');
+  form.method = 'POST';
+  form.classList.add('js-subscription', 'newsletter-form', 'foot-newsletter-form');
+  form.setAttribute('data-url', "https://mailer.weblogssl.com/subscribe_check/#email#/xatakandroid/Xataka Android");
+  form.innerHTML = '<p class="nav-heading">Recibe un email al día con los artículos de Xataka Android: </p>\
+   <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">\
+   <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>';
+  var newsletterContainer = document.getElementById('newsletter');
+  newsletterContainer.insertBefore(form, newsletterContainer.firstChild);
+ })();
+</script>
+<div class="foot-external js-foot-external">
+ <div class="wrapper foot-wrapper">
+  <header class="foot-head">
+   <a class="backlink foot-backlink" href="#">Subir</a>
+   <p class="webedia-brand foot-webedia-brand">
+ <a href="https://www.webedia.es/" class="webedia-logo foot-webedia-logo"><span>Webedia</span></a>
+</p>
+  </header>
+    <div class="menu-external foot-menu-external">
+   <div class="spain-blogs">
+          <div class="links-category">
+    <p class="channel-title"> Tecnología </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka</a></li><li><a class="list-item foot-list-item"  href="//www.xatakamovil.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li><li><a class="list-item foot-list-item"  href="//www.xatakafoto.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Foto</a></li><li><a class="list-item foot-list-item"  href="//www.xatakandroid.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Android</a></li><li><a class="list-item foot-list-item"  href="//www.xatakahome.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Smart Home</a></li><li><a class="list-item foot-list-item"  href="//www.xatakawindows.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Windows</a></li><li><a class="list-item foot-list-item"  href="//www.xatakaciencia.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Ciencia</a></li><li><a class="list-item foot-list-item"  href="//www.applesfera.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Applesfera</a></li><li><a class="list-item foot-list-item"  href="//www.genbeta.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Genbeta</a></li><li><a class="list-item foot-list-item"  href="//magnet.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Magnet</a></li><li><a class="list-item foot-list-item"  href="//www.mundoxiaomi.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Mundo Xiaomi</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Videojuegos </p><ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos</a></li><li><a class="list-item foot-list-item"  href="//www.vidaextra.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Vida Extra</a></li><li><span class="list-item foot-list-item">Millenium</span></li><li><a class="list-item foot-list-item"  href="//www.3djuegospc.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos PC</a></li><li><a class="list-item foot-list-item"  href="//www.3djuegosguias.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos Guías</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Entretenimiento </p><ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Sensacine</a></li><li><a class="list-item foot-list-item"  href="//www.espinof.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Espinof</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Gastronomía </p><ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Estilo de vida </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.vitonica.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Vitónica</a></li><li><a class="list-item foot-list-item"  href="//www.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Trendencias</a></li><li><a class="list-item foot-list-item"  href="//www.trendenciashombre.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li><li><a class="list-item foot-list-item"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Decoesfera</a></li><li><a class="list-item foot-list-item"  href="//www.compradiccion.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Compradiccion</a></li><li><a class="list-item foot-list-item"  href="//www.poprosa.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Poprosa</a></li></ul>
+  </div>
+ 
+   </div>
+       <div class="latam-blogs">
+     <p class="channel-title">Latinoamérica</p>
+           <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.xataka.com.mx?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka México</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.lat#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos LATAM</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com.mx#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Sensacine México</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com.mx?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Directo al Paladar México</a></li></ul>
+  </div>
+ 
+    </div>
+     </div>
+ </div>
+</div>
+ <aside id="head-favicons" class="head-favicons-container m-is-later js-head-favicons m-favicons-compact">
+ <div class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a class="js-group-toggle" href="#" data-target="#head-network"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+  <ul class="head-favicons-list">
+                                 <li>
+      <a class="favicon tec-xataka
+       " rel="nofollow" href="//www.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-vidaextra
+       "  href="//www.vidaextra.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Vida Extra</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-espinof
+       "  href="//www.espinof.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Espinof</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-genbeta
+       "  href="//www.genbeta.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Genbeta</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-directoalpaladar
+       "  href="//www.directoalpaladar.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Directo al Paladar</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakaciencia
+       "  href="//www.xatakaciencia.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Ciencia</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendencias
+       "  href="//www.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Trendencias</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-applesfera
+       "  href="//www.applesfera.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Applesfera</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakamovil
+       "  href="//www.xatakamovil.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Móvil</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-decoesfera
+       " rel="nofollow" href="//decoracion.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Decoesfera</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-vitonica
+       " rel="nofollow" href="//www.vitonica.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Vitónica</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakafoto
+       "  href="//www.xatakafoto.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Foto</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendenciashombre
+       "  href="//www.trendenciashombre.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Trendencias Hombre</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakandroid
+              favicon-current
+       "  href="//www.xatakandroid.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Android</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakahome
+       "  href="//www.xatakahome.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Smart Home</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakawindows
+       "  href="//www.xatakawindows.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Windows</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-magnet
+       "  href="//magnet.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Magnet</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-compradiccion
+       "  href="//www.compradiccion.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Compradiccion</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-3djuegos
+       "  href="//www.3djuegos.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-sensacine
+       "  href="https://www.sensacine.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Sensacine</span>
+      </a>
+     </li>
+                          <li>
+      <span class="favicon tech-millenium ">
+       <span>Millenium</span>
+      </span>
+     </li>
+                          <li>
+      <a class="favicon est-poprosa
+       "  href="//www.poprosa.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Poprosa</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-mundoxiaomi
+       "  href="//www.mundoxiaomi.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>Mundo Xiaomi</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegospc
+       "  href="//www.3djuegospc.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos PC</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegosguias
+       "  href="//www.3djuegosguias.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos Guías</span>
+      </a>
+     </li>
+         </ul>
+ </div>
+</aside>
+<aside class="favicons-expanded-container js-favicons-expand" id="head-network">
+ <div class="favicons-expanded">
+           <div class="favicons-expanded-inner">
+    <ul><li><h4>Tecnología</h4></li><li><a class="favicon tec-xataka"  rel="nofollow"  href="//www.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka
+     </a></li><li><a class="favicon tec-xatakamovil"  href="//www.xatakamovil.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Móvil
+     </a></li><li><a class="favicon tec-xatakafoto"  href="//www.xatakafoto.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Foto
+     </a></li><li><a class="favicon tec-xatakandroid"  href="//www.xatakandroid.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Android
+     </a></li><li><a class="favicon tec-xatakahome"  href="//www.xatakahome.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Smart Home
+     </a></li><li><a class="favicon tec-xatakawindows"  href="//www.xatakawindows.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Windows
+     </a></li><li><a class="favicon tec-xatakaciencia"  href="//www.xatakaciencia.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Ciencia
+     </a></li><li><a class="favicon tec-applesfera"  href="//www.applesfera.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Applesfera
+     </a></li><li><a class="favicon tec-genbeta"  href="//www.genbeta.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Genbeta
+     </a></li><li><a class="favicon tec-magnet"  href="//magnet.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Magnet
+     </a></li><li><a class="favicon tec-mundoxiaomi"  href="//www.mundoxiaomi.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Mundo Xiaomi
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Videojuegos</h4></li><li><a class="favicon tech-3djuegos"  href="//www.3djuegos.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos
+     </a></li><li><a class="favicon tec-vidaextra"  href="//www.vidaextra.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Vida Extra
+     </a></li><li><span class="favicon tech-millenium"><span></span>Millenium</span></li><li><a class="favicon tec-3djuegospc"  href="//www.3djuegospc.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos PC
+     </a></li><li><a class="favicon tec-3djuegosguias"  href="//www.3djuegosguias.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos Guías
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Entretenimiento</h4></li><li><a class="favicon oci-sensacine"  href="https://www.sensacine.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Sensacine
+     </a></li><li><a class="favicon oci-espinof"  href="//www.espinof.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Espinof
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Gastronomía</h4></li><li><a class="favicon est-directoalpaladar"  href="//www.directoalpaladar.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Directo al Paladar
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Estilo de vida</h4></li><li><a class="favicon est-vitonica"  rel="nofollow"  href="//www.vitonica.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Vitónica
+     </a></li><li><a class="favicon est-trendencias"  href="//www.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Trendencias
+     </a></li><li><a class="favicon est-trendenciashombre"  href="//www.trendenciashombre.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Trendencias Hombre
+     </a></li><li><a class="favicon est-decoesfera"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Decoesfera
+     </a></li><li><a class="favicon tec-compradiccion"  href="//www.compradiccion.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Compradiccion
+     </a></li><li><a class="favicon est-poprosa"  href="//www.poprosa.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=favicons"><span></span>Poprosa
+     </a></li></ul>
+  </div>
+ 
+ </div>
+ </aside>
+
+
+   <section id="sections" class="head-menu-container head-menu-sections ">
+ <a href="#sections" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#sections" class="close close-corner js-toggle js-menu-close">Inicio</a>
+  <div id="opt-in"></div>
+       <div class="head-menu-extras">
+    <p class="nav-heading">Destacamos</p>
+    <ul>
+                     <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="http://premios.xataka.com/">
+      Premios Xataka
+      </a></li>
+                          <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="https://www.xataka.com/black-friday">
+      Black Friday
+      </a></li>
+         </ul>
+   </div>
+       <div id="sections-search"></div>
+   <script>
+    document.getElementById("sections-search").innerHTML = '\
+     <div class="head-menu-search">\
+      <div class="head-search-form js-search-form">\
+       <input id="search-field-1" type="text" placeholder="Buscar en Xataka Android" class="search-container-1" data-container="#search-container-1">\
+       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>\
+      </div>\
+     </div>';
+   </script>
+    <div id="search-container-1" class="js-search-results"></div>
+    <div id="sections-login-wrapper" class="sections-login">
+   <div id="js-login" class="user-card"></div>
+  </div>
+  <nav class="head-menu-categories">
+    <ul>
+           <li><a class="head-list-item js-track-header-event" href="/categoria/moviles-android">Móviles Android</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/tablets-android">Tablets</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/analisis">Análisis</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/aplicaciones-android">Aplicaciones Android</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/tutoriales">Tutoriales</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/juegos-android">Juegos Android</a></li>                <li><a class="head-list-item js-track-header-event" href="/tag/filtraciones">Filtraciones</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/google">Google</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/xiaomi">Xiaomi</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/actualizaciones-de-android">Actualizaciones de Android</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/google-play">Google Play</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/cazando-gangas">Cazando gangas</a></li>         </ul>
+    <p class="head-more-item">
+     <a href="/archivos" class="btn js-track-header-event">Ver más temas</a>
+    </p>
+  </nav>
+  <aside class="head-menu-follow">
+   <span class="head-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a href="http://twitter.com/xatakandroid" class="icon-twitter link-twitter" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/XatakaAndroid" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/user/XatakaTv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+ </li>
+ <li>
+  <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+ </li>
+ <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+ <li>
+  <a href="https://flipboard.com/@xatakandroid" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+ </li>
+ <li id="sections-newsletter">
+  <a href="#head-menu-newsletter" class="icon-email link-email js-toggle-subscribe">E-mail</a>
+ </li>
+</ul>
+  </aside>
+  <section id="head-menu-newsletter" class="head-menu-newsletter">
+   <a href="#head-menu-newsletter" class="close close-corner js-toggle-subscribe"></a>
+   <form class="newsletter-form head-newsletter-form js-subscription" method="post" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/xatakandroid/Xataka Android" data-id="#head-menu-newsletter">
+    <h3 class="newsletter-heading">Recibe un email al día con los artículos de Xataka Android: </h3>
+    <p><input class="newsletter-input js-email" type="email" placeholder="Tu correo electrónico">
+    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>
+   </form>
+  </section>
+  <nav class="head-menu-extras">
+   <ul class="head-list">
+         <li><a class="head-list-item section-tv js-track-header-event" href="https://www.youtube.com/user/XatakaTv?sub_confirmation=1">Xataka
+      <span>TV</span>
+    </a></li>
+        <li><a class="head-list-item section-lomejor js-track-header-event" href="/lomejor">Lo mejor</a></li>
+    <li><a class="head-list-item section-staff js-track-header-event" href="/quienes-somos">Equipo editorial</a></li>
+    <li><a class="head-list-item section-contact js-track-header-event" href="/contacto">Contacta con nosotros</a></li>
+    <li id="sections-login">
+     <span id="login"></span>
+    </li>
+   </ul>
+  </nav>
+     <aside class="head-menu-external">
+    <p class="nav-heading">Más sitios que te gustarán</p>
+    <ul>
+                                    <li><a class="head-list-item js-track-header-event" rel="nofollow" href="https://www.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.xatakamovil.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.genbeta.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Genbeta</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.vidaextra.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Vidaextra</a></li>                       <li><a class="head-list-item js-track-header-event"  href="https://www.applesfera.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Applesfera</a></li>         </ul>
+   </aside>
+    <div class="head-menu-channels">
+   <h3>Explora en nuestros medios</h3>
+   <ul>
+         <li><a href="#head-channel-tecnologia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Tecnología
+        <span class="head-item-meta m-desc">Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...</span></a><ul id="head-channel-tecnologia" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event" rel="nofollow"  href="//www.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka</a></li><li><a class="head-list-item tec-xatakamovil js-track-header-event"   href="//www.xatakamovil.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li><li><a class="head-list-item tec-xatakafoto js-track-header-event"   href="//www.xatakafoto.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Foto</a></li><li><a class="head-list-item tec-xatakandroid js-track-header-event"   href="//www.xatakandroid.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Android</a></li><li><a class="head-list-item tec-xatakahome js-track-header-event"   href="//www.xatakahome.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Smart Home</a></li><li><a class="head-list-item tec-xatakawindows js-track-header-event"   href="//www.xatakawindows.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Windows</a></li><li><a class="head-list-item tec-xatakaciencia js-track-header-event"   href="//www.xatakaciencia.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka Ciencia</a></li><li><a class="head-list-item tec-applesfera js-track-header-event"   href="//www.applesfera.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Applesfera</a></li><li><a class="head-list-item tec-genbeta js-track-header-event"   href="//www.genbeta.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Genbeta</a></li><li><a class="head-list-item tec-magnet js-track-header-event"   href="//magnet.xataka.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Magnet</a></li><li><a class="head-list-item tec-mundoxiaomi js-track-header-event"   href="//www.mundoxiaomi.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Mundo Xiaomi</a></li></ul></li>         <li><a href="#head-channel-videojuegos" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Videojuegos
+        <span class="head-item-meta m-desc">Consolas, juegos, PC, PS4, Switch, Nintendo 3DS y Xbox...</span></a><ul id="head-channel-videojuegos" class="head-channel-list"><li><a class="head-list-item tech-3djuegos js-track-header-event"   href="//www.3djuegos.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos</a></li><li><a class="head-list-item tec-vidaextra js-track-header-event"   href="//www.vidaextra.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Vida Extra</a></li><li><span class="head-list-item tech-millenium js-track-header-event">Millenium</span></li><li><a class="head-list-item tec-3djuegospc js-track-header-event"   href="//www.3djuegospc.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos PC</a></li><li><a class="head-list-item tec-3djuegosguias js-track-header-event"   href="//www.3djuegosguias.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos Guías</a></li></ul></li>         <li><a href="#head-channel-entretenimiento" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Entretenimiento
+        <span class="head-item-meta m-desc">Series, cine, estrenos en cartelera, premios, rodajes, nuevas películas, televisión...</span></a><ul id="head-channel-entretenimiento" class="head-channel-list"><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Sensacine</a></li><li><a class="head-list-item oci-espinof js-track-header-event"   href="//www.espinof.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Espinof</a></li></ul></li>         <li><a href="#head-channel-gastronomia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Gastronomía
+        <span class="head-item-meta m-desc">Recetas, recetas de cocina fácil, pinchos, tapas, postres...</span></a><ul id="head-channel-gastronomia" class="head-channel-list"><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li></ul></li>         <li><a href="#head-channel-Estilodevida" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Estilo de vida
+        <span class="head-item-meta m-desc">Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...</span></a><ul id="head-channel-Estilodevida" class="head-channel-list"><li><a class="head-list-item est-vitonica js-track-header-event" rel="nofollow"  href="//www.vitonica.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Vitónica</a></li><li><a class="head-list-item est-trendencias js-track-header-event"   href="//www.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Trendencias</a></li><li><a class="head-list-item est-trendenciashombre js-track-header-event"   href="//www.trendenciashombre.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li><li><a class="head-list-item est-decoesfera js-track-header-event" rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Decoesfera</a></li><li><a class="head-list-item tec-compradiccion js-track-header-event"   href="//www.compradiccion.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Compradiccion</a></li><li><a class="head-list-item est-poprosa js-track-header-event"   href="//www.poprosa.com?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Poprosa</a></li></ul></li>         <li><a href="#head-channel-latinoamerica" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Latinoamérica
+        <span class="head-item-meta m-desc">Publicaciones de México...</span></a><ul id="head-channel-latinoamerica" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.mx?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Xataka México</a></li><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com.mx?utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Directo al Paladar México</a></li><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com.mx#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">Sensacine México</a></li><li><a class="head-list-item tec-3djuegoslat js-track-header-event"   href="//www.3djuegos.lat#utm_source=xatakandroid&utm_medium=network&utm_campaign=footer">3DJuegos LATAM</a></li></ul></li>       </ul>
+  </div>
+  <nav class="head-menu-links">
+   <ul class="head-list">
+         <li><a class="head-list-item js-track-header-event" href="https://weblogs.webedia.es/aviso-legal.html">Aviso legal</a></li>
+        <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+    <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/cookies">Condiciones de uso de cookies</a></li>
+    <li><a class="head-list-item js-track-header-event" href="mailto:publicidad@webedia-group.com">Publicidad</a></li>
+   </ul>
+  </nav>
+ </div>
+</section>
+<div id="headlines" class="head-menu-container head-menu-new m-menu-right">
+ <a href="#headlines" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#headlines" class="close close-corner js-toggle">Inicio</a>
+       <p class="nav-heading">Reciente</p>
+    <ul id="recent-posts">
+    <li><a href="/sistema-operativo/primer-galaxy-a-recibe-android-13-one-ui-5-comienza-actualizacion-samsung-galaxy-a53-5g" class="head-new-item">
+  El primer Galaxy A que recibe Android 13 y One UI 5: comienza la actualización del Samsung Galaxy A53 5G
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T15:00:27Z"></time></span></a></li> <li><a href="/guias-de-compra/ticwatch-esta-rebajas-amazon-antes-black-friday-este-reloj-wearos-doble-pantalla-cae-precio" class="head-new-item">
+  TicWatch está de rebajas en Amazon antes del Black Friday: este reloj con WearOS y doble pantalla cae de precio
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T14:00:36Z"></time></span></a></li> <li><a href="/guias-de-compra/mediamarkt-tiene-todos-chromecast-google-tv-oferta-elige-resolucion-hd-4k-para-tu-vieja-tele" class="head-new-item">
+  MediaMarkt tiene todos los Chromecast con Google TV en oferta: elige entre la resolución HD o 4K para tu vieja tele
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T13:30:26Z"></time></span></a></li> <li><a href="/moviles-android/google-pixel-8-pixel-8-pro-asoman-su-primera-filtracion-casi-ano-antes-su-lanzamiento" class="head-new-item">
+  Los Google Pixel 8 y Pixel 8 Pro asoman en su primera filtración casi un año antes de su lanzamiento
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T12:16:27Z"></time></span></a></li> <li><a href="/moviles-android/realme-10-caracteristicas-ficha-tecnica-precio" class="head-new-item">
+  Realme 10 4G: un nuevo 'básico' con 50 megapíxeles, carga rápida y hasta 16GB de RAM
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T11:00:25Z"></time></span></a></li> <li><a href="/aplicaciones-android/mejor-editor-video-android-luma-fusion-fin-se-puede-descargar" class="head-new-item">
+  El mejor editor de vídeo ya en Android: Luma Fusion por fin se puede descargar
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T10:00:44Z"></time></span></a></li> <li><a href="/tutoriales/ultimas-novedades-youtube-premium-llego-tambien-forma-silenciosa-a-que-no-pagan" class="head-new-item">
+  Una de las últimas novedades de YouTube Premium llegó también de forma silenciosa a los que no pagan
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T09:00:33Z"></time></span></a></li> <li><a href="/tutoriales/usar-whatsapp-ventana-flotante-mejor-forma-no-perder-vista-tus-chats-haces-otras-cosas" class="head-new-item">
+  Usar WhatsApp en una ventana flotante es la mejor forma de no perder de vista tus chats mientras haces otras cosas
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-09T07:00:28Z"></time></span></a></li> <li><a href="/aplicaciones-android/google-home-permite-probar-su-proxima-aplicacion-asi-puedes-apuntarte-a-su-version-preliminar" class="head-new-item">
+  Google Home ya permite probar su próxima aplicación: así puedes apuntarte a su versión preliminar
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T22:23:23Z"></time></span></a></li> <li><a href="/aplicaciones-android/google-maps-para-android-problemas-comunes-sus-soluciones" class="head-new-item m-republish" ><span class="head-new-video-desc">Google Maps para Android: los problemas más comunes y sus soluciones</span><span class="head-item-meta">
+             Por si te lo perdiste
+           </span></a></li> <li><a href="/moviles-android/nuevo-plegable-honor-tope-gama-normal-seran-oficiales-a-final-mes-filtraciones" class="head-new-item">
+  El nuevo plegable de Honor y un tope de gama 'normal' serán oficiales a final de mes, según filtraciones
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T17:02:04Z"></time></span></a></li> <li><a href="/guias-de-compra/mediamarkt-tiene-xiaomi-compacto-potente-gama-media-android-descuento-150-euros" class="head-new-item">
+  MediaMarkt tiene el Xiaomi compacto más potente en la gama media Android, con un descuento de 150 euros
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T16:01:39Z"></time></span></a></li> <li><a href="/aplicaciones-android/amazon-photos-planta-cara-a-google-fotos-su-nueva-actualizacion-app-renovada-completo" class="head-new-item">
+  Amazon Photos planta cara a Google Fotos con su nueva actualización: la app renovada por completo
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T15:01:56Z"></time></span></a></li> <li><a href="/guias-de-compra/black-friday-honor-esta-oferta-acaba-hoy-deja-magic4-lite-carga-rapida-66-w-a-precio-historico" class="head-new-item">
+  ¡Black Friday en Honor! Esta oferta acaba hoy y deja el Magic4 Lite con carga rápida de 66 W a un precio histórico
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T14:01:55Z"></time></span></a></li> <li><a href="https://www.xatakamovil.com/procesadores/dimensity-9200-mediatek-bestia-nucleos-arm-potentes-raytracing-primero-wifi-7?utm_source=xatakandroid&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+  El Dimensity 9200 de MediaTek es una bestia con los núcleos ARM más potentes, raytracing y el primero con WiFi 7 
+  <span class="head-item-meta">
+   en Xataka Móvil <time class="js-header-post" datetime="2022-11-08T14:43:39Z"></time></span></a></li> <li><a href="/aplicaciones-android/invasion-otra-vez-stories-signal-ultima-anadirlos-a-su-app" class="head-new-item">
+  La invasión (otra vez) de los 'Stories': Signal es la última en añadirlos a su app
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T13:01:55Z"></time></span></a></li> <li><a href="/guias-de-compra/mediamarkt-tiene-samsung-days-mejor-pack-para-no-perderte-mundial-galaxy-z-flip4-smart-tv-regalo" class="head-new-item">
+  MediaMarkt tiene en los Samsung Days el mejor pack para no perderte el Mundial: un Galaxy Z Flip4 con una Smart TV de regalo
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T12:01:54Z"></time></span></a></li> <li><a href="/aplicaciones-android/yo-no-ronco-tu-movil-no-opina-estas-apps-pueden-demostrar" class="head-new-item">
+  "Yo no ronco". Tu móvil no opina lo mismo y estas apps lo pueden demostrar
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T11:31:57Z"></time></span></a></li> <li><a href="/moviles-android/oppo-a58-5g-caracteristicas-precio-ficha-tecnica" class="head-new-item">
+  OPPO A58 5G: el nuevo gama media de OPPO viene con cerebro Mediatek, cámara de 50 Mpx y a tope de batería
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T10:31:52Z"></time></span></a></li> <li><a href="/tutoriales/no-quiero-que-facebook-sepa-esto-mi-asi-puedes-borrar-datos-personales-facebook" class="head-new-item">
+  No quiero que Facebook sepa esto sobre mí: así puedes borrar datos personales de Facebook
+  <span class="head-item-meta"><time class="js-header-post" datetime="2022-11-08T09:21:53Z"></time></span></a></li>  </ul>
+  <p class="head-more-item"><a href="#" class="btn" id="view-more" data-blog="xatakandroid">Ver más artículos</a></p>
+     <div class="head-menu-video">
+    <p class="nav-heading"> Xataka
+     <span>TV</span>
+    </p>
+    <ul id="recent-videos">
+          <li><a href="https://www.xataka.com/medicina-y-salud/tenis-santa-marta-mucho-que-tenis-tecnologia-deporte-para-mejorar-condicion-personas-discapacidad" class="head-new-item"><span class="head-new-video-thumb"><img alt="Tecnolog&#x00ED;a&#x20;y&#x20;deporte&#x20;para&#x20;ayudar&#x20;a&#x20;gente&#x20;con&#x20;discapacidad,&#x20;as&#x00ED;&#x20;es&#x20;la&#x20;Escuela&#x20;de&#x20;Tenis&#x20;de&#x20;Santa&#x20;Marta" src="https://img.youtube.com/vi/YQSqTj2NJHI/mqdefault.jpg"></span><span class="head-new-video-desc">Tecnología y deporte para ayudar a gente con discapacidad, así es la Escuela de Tenis de Santa Marta</span></a></li>     <li><a href="https://www.xataka.com/analisis/apple-watch-ultra-analisis-caracteristicas-precio-especificaciones" class="head-new-item"><span class="head-new-video-thumb"><img alt="ESTA&#x20;ES&#x20;LA&#x20;REVIEW&#x20;QUE&#x20;QUER&#x00CD;AS&#x20;VER&#x20;DEL&#x20;APPLE&#x20;WATCH&#x20;ULTRA" src="https://img.youtube.com/vi/FpMsOJ67-a8/mqdefault.jpg"></span><span class="head-new-video-desc">ESTA ES LA REVIEW QUE QUERÍAS VER DEL APPLE WATCH ULTRA</span></a></li>     <li><a href="https://www.xataka.com/analisis/airpods-pro-2a-generacion-analisis-caracteristicas-precio-especificaciones" class="head-new-item"><span class="head-new-video-thumb"><img alt="AirPods&#x20;Pro&#x20;2&#x20;VS&#x20;AirPods&#x20;3&#x3A;&#x20;pocas&#x20;DIFERENCIAS&#x20;pero&#x20;DECISIVAS" src="https://img.youtube.com/vi/UH7uHC9LCLk/mqdefault.jpg"></span><span class="head-new-video-desc">AirPods Pro 2 VS AirPods 3: pocas DIFERENCIAS pero DECISIVAS</span></a></li>    </ul>
+    <p class="head-more-item"><a href="#" class="btn" id="view-more-videos" data-blog="xatakandroid">Ver más vídeos</a></p>
+   </div>
+   </div>
+</div>
+<nav id="search" class="head-menu-container head-menu-searchapp">
+</nav>
+<script>
+ document.getElementById("search").innerHTML = '\
+ <a href="#search" class="head-menu-toggler js-toggle"></a>\
+ <div class="head-menu">\
+  <a href="#search" class="close close-corner js-toggle">Inicio</a>\
+  <h2>Buscar</h2>\
+  <div class="head-menu-search">\
+   <div class="head-search-form js-search-form">\
+    <input id="search-field-2" type="text" placeholder="Buscar en Xataka Android" class="search-container-2" data-container="#search-container-2">\
+    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>\
+   </div>\
+  </div>\
+  <section id="search-container-2" class="js-search-results"></section>\
+ </div>';
+</script>
+<nav class="nav nav-list nav-register" id="nav-twitter-register"></nav>
+<div id="react-login"></div>
+<nav class="nav nav-list nav-login" id="nav-login"></nav>
+<nav class="nav nav-list nav-register" id="nav-register"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover"></nav>
+<nav class="nav nav-list nav-login" id="nav-pick"></nav>
+<div id="js-edit-user-profile-form"></div>
+<div id="js-user-comments"></div>
+<div id="js-modal-user-deactivate"></div>
+
+  
+     </div>
+    </div>
+   </div>
+  </div>
+   <div id="div-gpt-int" style="width:1px; height:1px;">
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int"); });
+  </script>
+ </div>
+   <div id="div-gpt-int2" style="width:1px; height:1px;">
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int2"); });
+  </script>
+ </div>
+   <script>
+ var WSL2 = WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.fbapikey = "195946050422925";
+ WSL2.config.fbApiVersion = "v8.0";
+ WSL2.config.siteName = "Xataka Android";
+ WSL2.config.jsPath = "https://img.weblogssl.com/LPbackend/prod/v2/js";
+ WSL2.config.gtmContainerId = "GTM-NB7BQ4F";
+ WSL2.config.gtmContainerIdGlobal = "GTM-TWST58M";
+ WSL2.config.imagePath = "https://img.weblogssl.com/css/xatakandroid/p/v6";
+ WSL2.config.desktopSiteUrl = "https://www.xatakandroid.com";
+ WSL2.config.cookieDomain = "";
+ WSL2.config.enableEditorialRecommendations = "1";
+ WSL2.config.s3ImagePath = "https://i.blogs.es";
+ WSL2.config.socialTwitter = "xatakandroid";
+ WSL2.config.enableUniformSocialShareGallery = "0";
+ WSL2.config.twitterSocial = "xatakandroid";
+ WSL2.config.enableCen2AdInComments = 0;
+ WSL2.config.enableGiphyInComments = 0;
+ WSL2.config.enablePinterestSharing = 0;
+ WSL2.config.enableAdblockEcommerce = 1;
+ WSL2.config.adminUrl = "https://admin.xatakandroid.com";
+ WSL2.config.blogDomain = "xatakandroid.com";
+ WSL2.config.blogMeta = {
+  siteName: "xatakandroid",
+  mnemonic: "XatakaAndroid",
+  blogDomain: "xatakandroid.com"
+ };
+ WSL2.config.showMxSiteFloatingBox = 0;
+ WSL2.config.enableGoogleAnalytics = 0;
+ WSL2.config.enableWebVitals = 0;
+ WSL2.config.enableAdblockMonetization = 1;
+ WSL2.config.insuradsLink = "https://cdn.insurads.com/bootstrap/KMWM4DLN.js";
+ WSL2.config.uniformDateTimeFormat = "Y-m-d\TH:i:s\Z";
+ WSL2.config.enableDailymotionAutoplay = "1";
+ WSL2.config.dailymotionAutoplayLimit = 0;
+ WSL2.config.enableWebpImage = "1";
+ WSL2.config.enableGoogleAnalyticsCD21 = "1";
+ WSL2.config.productSiteUrl = "https://www.xataka.com";
+ WSL2.config.homepageVersion = "v4";
+ WSL2.config.desktopDailymotionPlayerId = "";
+ WSL2.config.mobileDailymotionPlayerId = "";
+</script>
+<script>
+ function injectScript(src, type = 'text/javascript') {
+  var script = document.createElement('script');
+  script.src = src;
+  script.async = true;
+  script.type = type;
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(script, firstScriptTag);
+ }
+
+ if (document.querySelectorAll('div.js-dailymotion').length) {
+  if ('ES' === window.country) {
+   injectScript('https://img.weblogssl.com/LPbackend/prod/v2/js/dailymotion-ccfcadcb.js', 'didomi/javascript');	
+  } else {
+   injectScript('https://img.weblogssl.com/LPbackend/prod/v2/js/dailymotion-ccfcadcb.js');
+  }
+ }
+</script>
+<script>
+ WSL2.config.enableNanomediaHeader = 1;
+ WSL2.config.device = "desktop";
+ WSL2.config.useTimeAbbreviations = "0";
+ </script>
+  <script async src="https://img.weblogssl.com/LPbackend/prod/v2/js/main-ccfcadcb.js"></script>
+      <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Recommendations = WSLModules.Recommendations || {};
+  WSLModules.Recommendations.Editorial = {
+   endpoint: "https://recommendations.weblogssl.com/editorial/xatakandroid",
+   version: "v1"
+  }
+ </script>
+  <div id="dialog"></div>
+<div class="ui-widget-overlay video-light-box-overlay" id="ui-widget-overlay" style="display:none;"></div>
+ <script>
+  (function(d) {
+   if ('ES' !== country) {
+    return;
+   }
+
+   var b = d.body;
+   var e = d.createElement('script');
+   e.id = 'parsely-cfg';
+   e.src = '//cdn.parsely.com/keys/xatakandroid.com/p.js';
+   e.async = true;
+   e.setAttribute('data-parsely-site', "xatakandroid.com");
+   b.appendChild(e);
+  })(document);
+ </script>
+<script type="text/x-template" id="js-adblock-products">
+ [{"url":"https:\/\/www.amazon.es\/dp\/B07NRK942P\/?tag=xta-banner-adblock-21","title":"Xiaomi Mi 9","asin":"B07NRK942P","image":"https:\/\/img.weblogssl.com\/g\/images\/xaomi9.jpg","price":"388,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Xiaomi-Redmi-Note-Ranura-h%C3%ADbrida\/dp\/B07PB8TYCJ\/?tag=xta-banner-adblock-21","title":"Xiaomi Redmi Note 7","asin":"B07PB8TYCJ","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi_Redmi_Note_7.jpg","price":"170,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Xiaomi-MI-A2-Smartphone-importada\/dp\/B07FMPVBQR\/?tag=xta-banner-adblock-21","title":"Xiaomi MI A2","asin":"B07FMPVBQR","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi_MI_A2.jpg","price":"147,98","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/SanDisk-Ultra-Android-microSDXC-adaptador\/dp\/B0758NHWS8\/?tag=xta-banner-adblock-21","title":"Tarjeta de memoria microSDXC de 256 GB","asin":"B0758NHWS8","image":"https:\/\/img.weblogssl.com\/g\/images\/Tarjeta_de_memoria_microSDXC.jpg","price":"39,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Xiaomi-Pocophone-F1-Smartphone-Snapdragon\/dp\/B07H3KGXZT\/?tag=xta-banner-adblock-21","title":"Xiaomi Pocophone F1 Color Negro grafito [Versi\u00f3n Espa\u00f1ola]","asin":"B07H3KGXZT","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi_Pcophone_F1.jpg","price":"278,05","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B07NDVXLL5\/?tag=xta-banner-adblock-21","title":"Samsung Galaxy M20","asin":"B07NDVXLL5","image":"https:\/\/img.weblogssl.com\/g\/images\/Samsung_Galaxy_M20.jpg","price":"225,94","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/iPosible-Capacidad-Velocidad-Smartphones-Dispositivos\/dp\/B075M9LXNY\/?tag=xta-banner-adblock-21","title":"Bater\u00eda Externa, Power Bank","asin":"B075M9LXNY","image":"https:\/\/img.weblogssl.com\/g\/images\/Bateria_Externa.jpg","price":"25,90","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B07PQMZ6WV\/?tag=xta-banner-adblock-21","title":"Samsung Galaxy A40","asin":"B07PQMZ6WV","image":"https:\/\/img.weblogssl.com\/g\/images\/Samsung_Galaxy_A40.jpg","price":"210,95","currency":"EUR"}]
+</script>
+ <script type="didomi/javascript" data-vendor="iab:184" >
+  !function(t,e,a){"use strict";var i=t.scimhtiraidem||{};function s(t){var e=i[a]||{};i[a]=e,e[t]||(e[t]=function(){i._queue[a].push({method:t,args:Array.prototype.slice.apply(arguments)})})}t.googletag=t.googletag||{},t.googletag.cmd=t.googletag.cmd||[],t.googletag.cmd.push(function(){var e=t.localStorage.getItem("mics_sgmts"),a=JSON.parse(e),i=a||{};Object.keys(i).forEach(function(e){t.googletag.pubads().setTargeting("mics_"+e,i[e].map(String))})});var r="init call config push pushDefault addProperties addProperty onFinish onStart _reset".split(" ");i._queue=i._queue||{},i._names=i._names||[],i._names.push(a),i._queue[a]=i._queue[a]||[],i._startTime=(new Date).getTime(),i._snippetVersion="2.0";for(var o=0;o<r.length;o++)s(r[o]);t.scimhtiraidem=i,t[a]=i[a];var n=e.createElement("script");n.setAttribute("type","text/javascript"),n.setAttribute("src","https://static.mediarithmics.com/tag/2/tag.min.js"),n.setAttribute("async","true"),e.getElementsByTagName("script")[0].parentNode.appendChild(n)}(window,document,"webediaMics");
+
+  webediaMics.init("xatakandroid-sp-2020");
+  webediaMics.call("syncFeeds");
+
+  var gen_data = {
+
+   //UTILS
+
+   global_container : function (str) {
+    var j = 0;
+    if (Object.keys(dataLayer).length > 0) {
+     dataLayer.forEach(function(item, index) {
+      if (item[str]) j = index;
+     });
+    }
+    return (dataLayer[j][str]) ? dataLayer[j][str] : null;
+   },
+
+   dateISO: function (date) {
+    var dateiso;
+    Date.parse(date) ? dateiso = new Date(date).toISOString() : dateiso = "";
+    return dateiso;
+   },
+
+   //EXTRACTION FUNCTIONS
+   extract_post: function() {
+    var post = {}
+    if (this.global_container("postId")) post["postId"] = this.global_container("postId");
+    if (this.global_container("publishedDate")) post["publishedDate"] = this.global_container("publishedDate");
+    if (this.global_container("site")) post["site"] = this.global_container("site");
+    this.global_container("partner") ?  post["partner"] = this.global_container("videoContent") : post["partner"] = false;
+    if (this.global_container("blockLength")) post["blockLength"] = this.global_container("blockLength");
+    if (this.global_container("mapping")) post["mapping"] = this.global_container("mapping");
+    if (this.global_container("elementsInPage") && this.global_container("elementsInPage").length > 0) post["elementsInPage"] = this.global_container("elementsInPage");
+    if (this.global_container("modifiedDate")) post["modifiedDate"] = this.dateISO(this.global_container("modifiedDate"));
+    if (this.global_container("categories") && this.global_container("categories").length > 0) post["categories"] = this.global_container("categories");
+    if (this.global_container("tags") && this.global_container("tags").length > 0) post["tags"] = this.global_container("tags");
+    if (this.global_container("postType")) post["postType"] = this.global_container("postType");
+    return post;
+   },
+
+   extract_category:function() {
+    var catPage = {}
+    if (this.global_container("site")) catPage["site"] = this.global_container("site");
+    if (this.global_container("mapping")) catPage["mapping"] = this.global_container("mapping");
+    if (this.global_container("categories") && this.global_container("categories").length > 0) catPage["categories"] = this.global_container("categories");
+    return catPage
+   },
+
+   extract_data : function () {
+    var data = {}
+    data['pageTitle'] = document.title;
+    data['urlPath'] = window.location.pathname;
+    if (this.global_container("siteSection")) data["name"] = this.global_container("siteSection");
+    if (this.global_container("vertical")) data["vertical"] = this.global_container("vertical");
+    data["channel_id"] = this.global_container("site") + "_ES";
+    this.global_container("videoContent") ? data["has_video"] = this.global_container("videoContent") : data["has_video"] = false;
+    if (data["name"] === "postPage" || data["name"] == "postpage"){
+     data['weblogs'] = this.extract_post();
+    }
+    else if (data["name"] == "categorypage"){
+     data['weblogs'] = this.extract_category();
+    }
+
+    if (this.global_container("brandClub")) data['brandClub'] = this.global_container("brandClub")
+
+    return data;
+   }
+  };
+
+  var extracted_data = gen_data.extract_data();
+  var event_type = (gen_data.global_container("site_route")) ? gen_data.global_container("site_route") : 'error_event_datalayer_empty';
+  if (gen_data.global_container("user_id")) {
+   webediaMics.addProperty("$user_account_id", gen_data.global_container("user_id"));
+   webediaMics.addProperty("$compartment_id", "1539");
+  }
+  webediaMics.push(event_type, extracted_data);
+ </script>
+  </body>
+</html>
+
+
+0
+

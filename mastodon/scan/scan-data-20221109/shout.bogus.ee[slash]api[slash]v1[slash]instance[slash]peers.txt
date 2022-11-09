@@ -1,0 +1,29 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 552
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:31 GMT
+Onion-Location: http://bogus.ahcbagldgzdpa74g2mh74fvk5zjzpfjbvgqin6g3mfuu66tynv2gkiid.onion
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Header-Bogus: Like, seriously. Don't depend on this shit.
+X-Header-Curiosity: bogus.ee/isanyoneoutthereactuallyreadingthis.html
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->

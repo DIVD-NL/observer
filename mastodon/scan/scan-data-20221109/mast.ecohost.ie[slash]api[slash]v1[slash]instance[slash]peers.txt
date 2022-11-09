@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767779dedf11b9ab-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mast.ecohost.ie; img-src 'self' https: data: blob: https://mast.ecohost.ie; style-src 'self' https://mast.ecohost.ie 'nonce-lNuHuvFhNMzSDfw46QB4zg=='; media-src 'self' https: data: https://mast.ecohost.ie; frame-src 'self' https:; manifest-src 'self' https://mast.ecohost.ie; connect-src 'self' data: blob: https://mast.ecohost.ie https://mast.ecohost.ie wss://mast.ecohost.ie; script-src 'self' https://mast.ecohost.ie; child-src 'self' blob: https://mast.ecohost.ie; worker-src 'self' blob: https://mast.ecohost.ie
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:35 GMT
+Etag: W/"26f0d63495cfd437fc3d42b21ca8ea5e"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6DS6P2sEAGqKIOb7v%2FpwP9xz075uMXgn0k9m9BQkDHoLPeiGo35HBDlaymChQl747PwdWgMTDR67dtg6xambejIOx%2Bawk2upD1%2F3Ti2fDhdSwKVDl58O9sVWdV6tYZiRq%2F0%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T00:15:00.467283Z
+X-Request-Id: 3f82d160-31b0-44ba-b819-eb6ce29303f1
+X-Runtime: 0.041319
+X-Xss-Protection: 0
+
+414
+["mastodon.radio","friend.camp","fediscience.org","masto.ai","social.spacebear.ee","writing.exchange","sociale.network","mastodon.sdf.org","mastodon.art","activism.openworlds.info","scicomm.xyz","mathstodon.xyz","weirder.earth","octodon.social","genomic.social","tabletop.social","cybre.space","mstdn.science","mastodon.social","fosstodon.org","mas.to","qoto.org","a.gup.pe","scholar.social","mastodon.internet-czas-dzialac.pl","101010.pl","fed.celp.de","sigmoid.social","wandering.shop","zirk.us","notnull.click","framapiaf.org","mcd.dk","mastodon.scot","linuxrocks.online","hispagatos.space","mamot.fr","indieweb.social","mastodon.acc.umu.se","chaos.social","anarchydica.net","pleroma.doserver.duckdns.org","greendragon.pub","archaeo.social","social.coop","hcommons.social","floss.social","social.tchncs.de","social.linux.pizza","mastodon.ie","vis.social","infosec.exchange","digitalcourage.social","tech.lgbt","mastodon.xyz","mastodon.online","mstdn.social","tailswish.industries","thisis.mylegendary.quest","mastodon.coffee","hachyderm.io"]
+0
+

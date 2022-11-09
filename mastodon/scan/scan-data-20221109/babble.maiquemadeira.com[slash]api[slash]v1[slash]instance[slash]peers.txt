@@ -1,0 +1,21 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Accept-Ranges: bytes
+Cache-Control: no-cache, no-store, private, must-revalidate, max-age=0, max-stale=0, post-check=0, pre-check=0
+Date: Wed, 09 Nov 2022 14:57:05 GMT
+Location: https://portfolio.adobe.com/missing
+Server: adobe
+Vary: Accept-Language, Accept-Encoding,Fastly-SSL, X-Use-Renderer
+Via: 1.1 varnish
+X-App-Name: Pro2-Renderer
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Content-Type-Options: nosniff
+X-Served-By: cache-bru1480022-BRU
+X-Timer: S1668005826.580596,VS0,VE114
+X-Trace-Id: OZ++a598JYiv5G1C/5L5dYONj8I
+X-Xss-Protection: 1; mode=block
+
+0
+

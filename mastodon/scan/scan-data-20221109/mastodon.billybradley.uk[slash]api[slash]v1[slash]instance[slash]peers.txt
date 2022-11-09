@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:58 GMT
+Etag: W/"33362368f6e23d645e4d0569360f0c8c"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:30:00.654510Z
+X-Request-Id: a941bf77-da32-4228-9cf9-3797a819049c
+X-Runtime: 0.022799
+X-Xss-Protection: 1; mode=block
+
+61
+["mas.to","mastodon.technology","pars.ee","mastodon.online","mastodon.social","social.henzi.org"]
+0
+

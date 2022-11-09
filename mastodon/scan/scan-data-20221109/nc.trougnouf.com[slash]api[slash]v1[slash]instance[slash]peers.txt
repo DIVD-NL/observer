@@ -1,0 +1,159 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-UHg3WXg0YzBUYkdsWWtzbjNwTG54N2dxbG9QVmVwNFd2czh3SnJPYkxjWT06RUd5Y2hjeEJPOS9wTkFCdHB1YmZqOTBhd3F5WFA4OVAyWWRGUUlQb0c3OD0='; style-src 'self' 'unsafe-inline'; frame-src *; img-src * data: blob:; font-src 'self' data:; media-src *; connect-src *; object-src 'none'; base-uri 'self';
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:05 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2.4.54 (Unix) OpenSSL/3.0.7 mpm-itk/2.4.7-04 PHP/8.1.12
+Set-Cookie: oc55bdfgc45j=4bfna0kq0uo8goht97p2jbie91; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc_sessionPassphrase=LjeFeT8BHQWeiz4Ux6EESRk7Dz0QWS6Mi1BoXL9X5JLwKhXqcc3l7Y5RSnebQ3R3IqZIhcTJtstIfgjjobVB3it26vLPbNiZdCv9PjDb7mNLmrX3wCc3UkCRj54cjpFG; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc55bdfgc45j=etigh5nbgceum22msijofmp65s; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc55bdfgc45j=etigh5nbgceum22msijofmp65s; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Set-Cookie: oc55bdfgc45j=etigh5nbgceum22msijofmp65s; path=/; secure; HttpOnly; SameSite=Lax
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/8.1.12
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+2d12
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="Px7Yx4c0TbGlYksn3pLnx7gqloPVep4Wvs8wJrObLcY=:EGychcxBO9/pNABtpubfj90awqyXP89P2YdFQIPoG78=">
+		<meta charset="utf-8">
+		<title>
+			Nextcloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/core/img/favicon.ico">
+		<link rel="apple-touch-icon" href="/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/core/img/manifest.json">
+		<link rel="stylesheet" href="/core/css/server.css?v=b8785aa0-0">
+<link rel="stylesheet" href="/apps/theming/css/default.css?v=d71e67e7-0">
+<link rel="stylesheet" href="/core/css/guest.css?v=b8785aa0-0">
+		<script nonce="UHg3WXg0YzBUYkdsWWtzbjNwTG54N2dxbG9QVmVwNFd2czh3SnJPYkxjWT06RUd5Y2hjeEJPOS9wTkFCdHB1YmZqOTBhd3F5WFA4OVAyWWRGUUlQb0c3OD0=" defer src="/index.php/core/js/oc.js?v=b8785aa0"></script>
+<script nonce="UHg3WXg0YzBUYkdsWWtzbjNwTG54N2dxbG9QVmVwNFd2czh3SnJPYkxjWT06RUd5Y2hjeEJPOS9wTkFCdHB1YmZqOTBhd3F5WFA4OVAyWWRGUUlQb0c3OD0=" defer src="/dist/core-common.js?v=b8785aa0-0"></script>
+<script nonce="UHg3WXg0YzBUYkdsWWtzbjNwTG54N2dxbG9QVmVwNFd2czh3SnJPYkxjWT06RUd5Y2hjeEJPOS9wTkFCdHB1YmZqOTBhd3F5WFA4OVAyWWRGUUlQb0c3OD0=" defer src="/dist/core-main.js?v=b8785aa0-0"></script>
+<script nonce="UHg3WXg0YzBUYkdsWWtzbjNwTG54N2dxbG9QVmVwNFd2czh3SnJPYkxjWT06RUd5Y2hjeEJPOS9wTkFCdHB1YmZqOTBhd3F5WFA4OVAyWWRGUUlQb0c3OD0=" defer src="/core/js/update.js?v=b8785aa0-0"></script>
+			</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-projects_enabled" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjUuMC4xLjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjUuMC4xIiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOmZhbHNlLCJzaGFyaW5nLm1heEF1dG9jb21wbGV0ZVJlc3VsdHMiOjI1LCJzaGFyaW5nLm1pblNlYXJjaFN0cmluZ0xlbmd0aCI6MCwiYmxhY2tsaXN0X2ZpbGVzX3JlZ2V4IjoiXFwuKHBhcnR8ZmlsZXBhcnQpJCIsImxvZ2xldmVsIjowfQ==">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2IiwicmVmZXJlbmNlLWFwaSI6dHJ1ZSwicmVmZXJlbmNlLXJlZ2V4IjoiKFxcc3xcXG58XikoaHR0cHM/OlxcXC9cXFwvKSgoPzpbLUEtWjAtOStfXStcXC4pK1stQS1aXSsoPzpcXFwvWy1BLVowLTkrJkAjJT89fl98ITosLjsoKV0qKSopKFxcc3xcXG58JCkifSwibWV0YWRhdGFBdmFpbGFibGUiOnsic2l6ZSI6WyJcL2ltYWdlXFxcLy4qXC8iXSwiZ3BzIjpbIlwvaW1hZ2VcXFwvLipcLyJdfSwiZmlsZXMiOnsiYmlnZmlsZWNodW5raW5nIjp0cnVlLCJibGFja2xpc3RlZF9maWxlcyI6WyIuaHRhY2Nlc3MiXSwiY29tbWVudHMiOnRydWUsInVuZGVsZXRlIjp0cnVlLCJ2ZXJzaW9uaW5nIjp0cnVlfSwiYWN0aXZpdHkiOnsiYXBpdjIiOlsiZmlsdGVycyIsImZpbHRlcnMtYXBpIiwicHJldmlld3MiLCJyaWNoLXN0cmluZ3MiXX0sImNpcmNsZXMiOnsidmVyc2lvbiI6IjI1LjAuMCIsInN0YXR1cyI6eyJnbG9iYWxTY2FsZSI6ZmFsc2V9LCJzZXR0aW5ncyI6eyJmcm9udGVuZEVuYWJsZWQiOnRydWUsImFsbG93ZWRDaXJjbGVzIjoyNjIxNDMsImFsbG93ZWRVc2VyVHlwZXMiOjMxLCJtZW1iZXJzTGltaXQiOi0xfSwiY2lyY2xlIjp7ImNvbnN0YW50cyI6eyJmbGFncyI6eyIxIjoiU2luZ2xlIiwiMiI6IlBlcnNvbmFsIiwiNCI6IlN5c3RlbSIsIjgiOiJWaXNpYmxlIiwiMTYiOiJPcGVuIiwiMzIiOiJJbnZpdGUiLCI2NCI6IkpvaW4gUmVxdWVzdCIsIjEyOCI6IkZyaWVuZHMiLCIyNTYiOiJQYXNzd29yZCBQcm90ZWN0ZWQiLCI1MTIiOiJObyBPd25lciIsIjEwMjQiOiJIaWRkZW4iLCIyMDQ4IjoiQmFja2VuZCIsIjQwOTYiOiJMb2NhbCIsIjgxOTIiOiJSb290IiwiMTYzODQiOiJDaXJjbGUgSW52aXRlIiwiMzI3NjgiOiJGZWRlcmF0ZWQiLCI2NTUzNiI6Ik1vdW50IHBvaW50In0sInNvdXJjZSI6eyJjb3JlIjp7IjEiOiJOZXh0Y2xvdWQgQWNjb3VudCIsIjIiOiJOZXh0Y2xvdWQgR3JvdXAiLCI0IjoiRW1haWwgQWRkcmVzcyIsIjgiOiJDb250YWN0IiwiMTYiOiJDaXJjbGUiLCIxMDAwMCI6Ik5leHRjbG91ZCBBcHAifSwiZXh0cmEiOnsiMTAwMDEiOiJDaXJjbGVzIEFwcCIsIjEwMDAyIjoiQWRtaW4gQ29tbWFuZCBMaW5lIn19fSwiY29uZmlnIjp7ImNvcmVGbGFncyI6WzEsMiw0XSwic3lzdGVtRmxhZ3MiOls1MTIsMTAyNCwyMDQ4XX19LCJtZW1iZXIiOnsiY29uc3RhbnRzIjp7ImxldmVsIjp7IjEiOiJNZW1iZXIiLCI0IjoiTW9kZXJhdG9yIiwiOCI6IkFkbWluIiwiOSI6Ik93bmVyIn19LCJ0eXBlIjp7IjAiOiJzaW5nbGUiLCIxIjoidXNlciIsIjIiOiJncm91cCIsIjQiOiJtYWlsIiwiOCI6ImNvbnRhY3QiLCIxNiI6ImNpcmNsZSIsIjEwMDAwIjoiYXBwIn19fSwib2NtIjp7ImVuYWJsZWQiOnRydWUsImFwaVZlcnNpb24iOiIxLjAtcHJvcG9zYWwxIiwiZW5kUG9pbnQiOiJodHRwczpcL1wvbmMudHJvdWdub3VmLmNvbSIsInJlc291cmNlVHlwZXMiOlt7Im5hbWUiOiJmaWxlIiwic2hhcmVUeXBlcyI6WyJ1c2VyIiwiZ3JvdXAiXSwicHJvdG9jb2xzIjp7IndlYmRhdiI6IlwvcHVibGljLnBocFwvd2ViZGF2XC8ifX1dfSwiZGF2Ijp7ImNodW5raW5nIjoiMS4wIiwiYnVsa3VwbG9hZCI6IjEuMCJ9LCJmaWxlc19zaGFyaW5nIjp7ImFwaV9lbmFibGVkIjp0cnVlLCJwdWJsaWMiOnsiZW5hYmxlZCI6dHJ1ZSwicGFzc3dvcmQiOnsiZW5mb3JjZWQiOmZhbHNlLCJhc2tGb3JPcHRpb25hbFBhc3N3b3JkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOmZhbHNlfSwibXVsdGlwbGVfbGlua3MiOnRydWUsImV4cGlyZV9kYXRlX2ludGVybmFsIjp7ImVuYWJsZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGVfcmVtb3RlIjp7ImVuYWJsZWQiOmZhbHNlfSwic2VuZF9tYWlsIjpmYWxzZSwidXBsb2FkIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6dHJ1ZX0sInJlc2hhcmluZyI6dHJ1ZSwidXNlciI6eyJzZW5kX21haWwiOmZhbHNlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImdyb3VwX3NoYXJpbmciOnRydWUsImdyb3VwIjp7ImVuYWJsZWQiOnRydWUsImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWV9fSwiZGVmYXVsdF9wZXJtaXNzaW9ucyI6MzEsImZlZGVyYXRpb24iOnsib3V0Z29pbmciOnRydWUsImluY29taW5nIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfSwiZXhwaXJlX2RhdGVfc3VwcG9ydGVkIjp7ImVuYWJsZWQiOnRydWV9fSwic2hhcmVlIjp7InF1ZXJ5X2xvb2t1cF9kZWZhdWx0IjpmYWxzZSwiYWx3YXlzX3Nob3dfdW5pcXVlIjp0cnVlfSwic2hhcmVieW1haWwiOnsiZW5hYmxlZCI6dHJ1ZSwic2VuZF9wYXNzd29yZF9ieV9tYWlsIjp0cnVlLCJ1cGxvYWRfZmlsZXNfZHJvcCI6eyJlbmFibGVkIjp0cnVlfSwicGFzc3dvcmQiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZSwiZW5mb3JjZWQiOmZhbHNlfX19LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNS4xIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJwcm92aXNpb25pbmdfYXBpIjp7InZlcnNpb24iOiIxLjE1LjAiLCJBY2NvdW50UHJvcGVydHlTY29wZXNWZXJzaW9uIjoyLCJBY2NvdW50UHJvcGVydHlTY29wZXNGZWRlcmF0ZWRFbmFibGVkIjp0cnVlLCJBY2NvdW50UHJvcGVydHlTY29wZXNQdWJsaXNoZWRFbmFibGVkIjp0cnVlfSwidGhlbWluZyI6eyJuYW1lIjoiTmV4dGNsb3VkIiwidXJsIjoiaHR0cHM6XC9cL25leHRjbG91ZC5jb20iLCJzbG9nYW4iOiJhIHNhZmUgaG9tZSBmb3IgYWxsIHlvdXIgZGF0YSIsImNvbG9yIjoiIzAwODJjOSIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA4MmM5IiwibG9nbyI6Imh0dHBzOlwvXC9uYy50cm91Z25vdWYuY29tXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCIsImJhY2tncm91bmQiOiJodHRwczpcL1wvbmMudHJvdWdub3VmLmNvbVwvY29yZVwvaW1nXC9iYWNrZ3JvdW5kLnBuZz92PTAiLCJiYWNrZ3JvdW5kLXBsYWluIjpmYWxzZSwiYmFja2dyb3VuZC1kZWZhdWx0Ijp0cnVlLCJsb2dvaGVhZGVyIjoiaHR0cHM6XC9cL25jLnRyb3Vnbm91Zi5jb21cL2NvcmVcL2ltZ1wvbG9nb1wvbG9nby5zdmc/dj0wIiwiZmF2aWNvbiI6Imh0dHBzOlwvXC9uYy50cm91Z25vdWYuY29tXC9jb3JlXC9pbWdcL2xvZ29cL2xvZ28uc3ZnP3Y9MCJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nextcloud								</h1>
+							</div>
+						</div>
+					</header>
+								<main>
+					<div class="guest-box update" data-productname="Nextcloud" data-version="25.0.1">
+	<div class="updateOverview">
+				<h2 class="title">Nextcloud will be updated to version 25.0.1</h2>
+						<div class="text-left">
+			<span>The following apps will be updated:</span>
+			<ul class="content appList">
+								<li>Activity (activity)</li>
+								<li>Circles (circles)</li>
+								<li>Cloud Federation API (cloud_federation_api)</li>
+								<li>Comments (comments)</li>
+								<li>Contacts Interaction (contactsinteraction)</li>
+								<li>Dashboard (dashboard)</li>
+								<li>WebDAV (dav)</li>
+								<li>Federated file sharing (federatedfilesharing)</li>
+								<li>Federation (federation)</li>
+								<li>Files (files)</li>
+								<li>External storage support (files_external)</li>
+								<li>PDF viewer (files_pdfviewer)</li>
+								<li>Right click (files_rightclick)</li>
+								<li>File sharing (files_sharing)</li>
+								<li>Deleted files (files_trashbin)</li>
+								<li>Versions (files_versions)</li>
+								<li>First run wizard (firstrunwizard)</li>
+								<li>Log Reader (logreader)</li>
+								<li>Lookup Server Connector (lookup_server_connector)</li>
+								<li>Nextcloud announcements (nextcloud_announcements)</li>
+								<li>Notifications (notifications)</li>
+								<li>OAuth 2.0 (oauth2)</li>
+								<li>Photos (photos)</li>
+								<li>Privacy (privacy)</li>
+								<li>Provisioning API (provisioning_api)</li>
+								<li>Recommendations (recommendations)</li>
+								<li>Monitoring (serverinfo)</li>
+								<li>Nextcloud settings (settings)</li>
+								<li>Share by mail (sharebymail)</li>
+								<li>Support (support)</li>
+								<li>Usage survey (survey_client)</li>
+								<li>Collaborative tags (systemtags)</li>
+								<li>Text (text)</li>
+								<li>Theming (theming)</li>
+								<li>Two factor backup codes (twofactor_backupcodes)</li>
+								<li>Two-Factor TOTP Provider (twofactor_totp)</li>
+								<li>Update notification (updatenotification)</li>
+								<li>User status (user_status)</li>
+								<li>Viewer (viewer)</li>
+								<li>Weather status (weather_status)</li>
+								<li>Nextcloud workflow engine (workflowengine)</li>
+							</ul>
+		</div>
+						<div class="text-left">
+			<span>These incompatible apps will be disabled:</span>
+			<ul class="content appList">
+								<li>accessibility (accessibility)</li>
+								<li>files_videoplayer (files_videoplayer)</li>
+								<li>News (news)</li>
+								<li>Polls (polls)</li>
+							</ul>
+		</div>
+						<div class="text-left margin-top bold">
+			Please make sure that the database, the config folder and the data folder have been backed up before proceeding.		</div>
+		<input class="updateButton primary margin-top" type="button" value="Start update">
+		<div class="notecard warning">
+			To avoid timeouts with larger installations, you can instead run the following command from your installation directory:			<pre>./occ upgrade</pre>
+		</div>
+	</div>
+
+	<div class="update-progress hidden">
+		<h2 id="update-progress-title"></h2>
+		<div id="update-progress-icon" class="icon-loading-dark"></div>
+		<p id="update-progress-message-error" class="hidden"></p>
+		<ul id="update-progress-message-warnings" class="hidden"></ul>
+		<p id="update-progress-message"></p>
+		<a class="update-show-detailed">Detailed logs <span class="icon-caret-white"></span></a>
+		<div id="update-progress-detailed" class="hidden"></div>
+	</div>
+</div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener" class="entity-name">Nextcloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>
+
+0
+

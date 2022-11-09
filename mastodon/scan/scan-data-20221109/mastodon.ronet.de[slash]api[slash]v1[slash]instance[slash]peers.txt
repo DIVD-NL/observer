@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.ronet.de; img-src 'self' https: data: blob: https://mastodon.ronet.de; style-src 'self' https://mastodon.ronet.de 'nonce-IO6JkM7JFYGRHXyHX5nu8Q=='; media-src 'self' https: data: https://mastodon.ronet.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.ronet.de; connect-src 'self' data: blob: https://mastodon.ronet.de https://mastodon.ronet.de wss://mastodon.ronet.de; script-src 'self' https://mastodon.ronet.de; child-src 'self' blob: https://mastodon.ronet.de; worker-src 'self' blob: https://mastodon.ronet.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:08 GMT
+Etag: W/"d41d9944141266aa346ddc8001ead972"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T11:55:00.771428Z
+X-Request-Id: 56c2a1d3-4031-4f98-a0e8-b5d9e8d2ee94
+X-Runtime: 0.013538
+X-Xss-Protection: 0
+
+180
+["relay.libranet.de","nangang.travnewmatic.com","social.beachcom.org","todon.eu","social.anoxinon.de","mstdn.social","squeet.me","fediverse-lite.com","nerdculture.de","anonsys.net","mastodon.social","libranet.de","nrw.social","subversive.zone","social.cologne","mobilize.berlin","tried-to-do.science","mastouille.fr","misskey.de","mastodon.green","pleroma.foxfam.club","chaos.social"]
+0
+

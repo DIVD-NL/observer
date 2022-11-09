@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.mastolivre.fr; img-src 'self' https: data: blob: https://social.mastolivre.fr; style-src 'self' https://social.mastolivre.fr 'nonce-w6L3Kfnk7ZVJfxN2NCVGKg=='; media-src 'self' https: data: https://social.mastolivre.fr; frame-src 'self' https:; manifest-src 'self' https://social.mastolivre.fr; connect-src 'self' data: blob: https://social.mastolivre.fr https://social.mastolivre.fr wss://social.mastolivre.fr; script-src 'self' https://social.mastolivre.fr; child-src 'self' blob: https://social.mastolivre.fr; worker-src 'self' blob: https://social.mastolivre.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:00 GMT
+Etag: W/"faf1f902aef602bdaeb1239a911fae79"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.251393Z
+X-Request-Id: bb351141-dbf6-43f7-a3f9-fab3f2dc06a7
+X-Runtime: 0.008414
+X-Xss-Protection: 0
+
+338
+["obo.sh","indiepocalypse.social","nerdculture.de","mastodon.tedomum.net","birdsite.wilde.cloud","social.atypique.net","pixelfed.social","social.jmueller.eu","pewtix.com","h4.io","mastodon.zaclys.com","mas.to","lire.im","metalhead.club","mastodonapp.uk","mastodon.social","mathstodon.xyz","toot.portes-imaginaire.org","pleroma.lord.re","bae.st","toot.aquilenet.fr","social.targaryen.house","social.baradoz.cloud","dice.camp","tooting.ch","imaginair.es","mastodon.top","mastodon.cipherbliss.com","piaille.fr","mastodon.underworld.fr","framapiaf.org","mstdn.social","mamot.fr","mastodon.cloud","ludosphere.fr","tiphon.nerv-project.eu","mastouille.fr","write.as","mastodon.gamedev.place","diaspodon.fr","pouet.chapril.org","travelpandas.fr","mastodon.iriseden.eu","mastodon.art","mastodon.online","twtr.plus","bw.diaspodon.fr"]
+0
+

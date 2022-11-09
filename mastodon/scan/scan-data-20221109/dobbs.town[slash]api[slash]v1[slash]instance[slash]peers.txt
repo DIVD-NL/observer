@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://dobbs.town; img-src 'self' https: data: blob: https://dobbs.town; style-src 'self' https://dobbs.town 'nonce-h6AwhkTZivUQ9Cre1hfLFA=='; media-src 'self' https: data: https://dobbs.town; frame-src 'self' https:; manifest-src 'self' https://dobbs.town; connect-src 'self' data: blob: https://dobbs.town https://cdn.masto.host wss://dobbs.town; script-src 'self' https://dobbs.town; child-src 'self' blob: https://dobbs.town; worker-src 'self' blob: https://dobbs.town
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:40 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.082906Z
+X-Request-Id: 66ab84b7-e853-4dab-b2b5-4a6709c5fb45
+X-Runtime: 0.005093
+X-Xss-Protection: 0
+
+0
+

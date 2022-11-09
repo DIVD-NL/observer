@@ -1,0 +1,30 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 359
+Age: 3
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:10:56 GMT
+Etag: "af09b088579c31f4e2f7553013c68216-ssl"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+X-Nf-Request-Id: 01GHEF3DQDX7F1XXWHVA7YG2ER
+
+<html>
+
+<head>
+  <title>410 Gone</title>
+  <style>
+   p { color: #FFFFFF; font-family: monospace, arial; font-size: 100%; }
+   h3 {color: #FFFFFF; }
+   body { background-color: #000000; }
+   </style>
+  <head>
+
+  <body>
+    <h3>410 Gone</h3>
+    <hr />
+    <p>Powered by <a href="https://github.com/atsu1125/netlify-410">netlify-410</a></p>
+  </body>
+
+</html>

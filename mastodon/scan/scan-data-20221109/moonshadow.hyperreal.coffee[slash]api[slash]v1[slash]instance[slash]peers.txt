@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://moonshadow.hyperreal.coffee; img-src 'self' https: data: blob: https://moonshadow.hyperreal.coffee; style-src 'self' https://moonshadow.hyperreal.coffee 'nonce-g82pjgiptfrrpi0DuVCbkA=='; media-src 'self' https: data: https://moonshadow.hyperreal.coffee; frame-src 'self' https:; manifest-src 'self' https://moonshadow.hyperreal.coffee; connect-src 'self' data: blob: https://moonshadow.hyperreal.coffee https://moonshadow.hyperreal.coffee wss://moonshadow.hyperreal.coffee; script-src 'self' https://moonshadow.hyperreal.coffee; child-src 'self' blob: https://moonshadow.hyperreal.coffee; worker-src 'self' blob: https://moonshadow.hyperreal.coffee
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:19 GMT
+Etag: W/"51841771c3c3495b19ad2946044cdd6e"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.866851Z
+X-Request-Id: 2563e310-543c-4b36-ace9-291946df9367
+X-Runtime: 0.021777
+X-Xss-Protection: 0
+
+50b
+["twtr.plus","mastodon.matrix.org","pixelfed.social","social.wildeboer.net","pony.social","lemmy.ml","tooot.im","queer.af","old.mermaid.town","skyjake.fi","mastodon.xyz","nya.social","nixnet.social","scitech.video","scholar.social","fedi.absturztau.be","emacsen.net","intahnet.co.uk","mathstodon.xyz","ioc.exchange","framapiaf.org","bsd.network","mastodon.ar.al","cybre.space","pleroma.envs.net","wandering.shop","mastodon.lol","indieweb.social","tilde.zone","tech.lgbt","fightforthefuture.org","firmware.network","mastodon.technology","floss.social","nerdculture.de","birdsite.slashdev.space","hub.hoteldaan.nl","expired.mentality.rip","shortstackran.ch","hello.2heng.xin","qoto.org","shigusegubu.club","milker.cafe","bae.st","write.as","chinwag.org","treehouse.systems","shitposter.club","chaos.social","darmstadt.social","mastodon.art","linuxrocks.online","mstdn.io","fedi.xerz.one","post.lurk.org","mastodon.fredspieler.com","toot.aquilenet.fr","freeradical.zone","mastodon.sdf.org","hackers.town","venera.social","queer.party","merveilles.town","rollenspiel.social","masto.ai","mspsocial.net","mas.to","mstdn.social","hachyderm.io","lor.sh","mastodon.online","infosec.exchange","botsin.space","mastodon.social","fosstodon.org","mastodon.cloud","hostux.social","troet.cafe","aus.social"]
+0
+

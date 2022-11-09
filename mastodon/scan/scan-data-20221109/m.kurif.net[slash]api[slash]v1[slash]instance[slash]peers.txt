@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=86400, public
+Content-Security-Policy: style-src 'self' 'unsafe-inline'; script-src 'self'; object-src 'self'; img-src data: https:; media-src data: https:; connect-src 'self' wss://m.kurif.net; upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:20 GMT
+Etag: W/"101f639bd1ee02e4260299424a77ad15"
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Powered-By: ARR/3.0
+X-Request-Id: 430c761d-dae7-4e57-89f4-b1c9125fdd9f
+X-Runtime: 0.004376
+X-Xss-Protection: 1; mode=block
+
+["mstdn.jp"]

@@ -1,0 +1,586 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://digitalspice.co.uk/wp-json/>; rel="https://api.w.org/"
+Server: nginx
+X-Powered-By: PHP/5.6.40
+
+ec0a
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Page not found &#8211; Digital Spice</title>
+	    <style id="tf_lazy_style">
+		[data-tf-src]{opacity:0}.tf_svg_lazy{transition:filter .3s linear!important;filter:blur(25px);opacity:1;transform:translateZ(0)}.tf_svg_lazy_loaded{filter:blur(0)}.module[data-lazy],.module[data-lazy] .ui,.module_row[data-lazy]:not(.tb_first),.module_row[data-lazy]:not(.tb_first)>.row_inner,.module_row:not(.tb_first) .module_column[data-lazy],.module_subrow[data-lazy]>.subrow_inner{background-image:none!important}
+	    </style>
+	    <noscript><style>[data-tf-src]{display:none!important}.tf_svg_lazy{filter:none!important;opacity:1!important}</style></noscript>
+	    	    <style id="tf_lazy_common">
+							/*chrome bug,prevent run transition on the page loading*/
+				body:not(.page-loaded),body:not(.page-loaded) #header,body:not(.page-loaded) a,body:not(.page-loaded) img,body:not(.page-loaded) figure,body:not(.page-loaded) div,body:not(.page-loaded) i,body:not(.page-loaded) li,body:not(.page-loaded) span,body:not(.page-loaded) ul{animation:none!important;transition:none!important}body:not(.page-loaded) #main-nav li .sub-menu{display:none}
+				img{max-width:100%;height:auto}
+						.tf_fa{display:inline-block;width:1em;height:1em;stroke-width:0;stroke:currentColor;overflow:visible;fill:currentColor;pointer-events:none;vertical-align:middle}#tf_svg symbol{overflow:visible}.tf_lazy{position:relative;visibility:visible;display:block;opacity:.3}.wow .tf_lazy{visibility:hidden;opacity:1;position:static;display:inline}.tf_audio_lazy audio{visibility:hidden;height:0}.mejs-container{visibility:visible}.tf_iframe_lazy{transition:opacity .3s ease-in-out;min-height:10px}.tf_carousel .swiper-wrapper{display:flex}.tf_carousel .swiper-slide{flex-shrink:0;opacity:0}.tf_carousel .tf_lazy{contain:none}.swiper-wrapper>br,.tf_lazy.swiper-wrapper .tf_lazy:after,.tf_lazy.swiper-wrapper .tf_lazy:before{display:none}.tf_lazy:after,.tf_lazy:before{content:'';display:inline-block;position:absolute;width:10px!important;height:10px!important;margin:0 3px;top:50%!important;right:50%!important;left:auto!important;border-radius:100%;background-color:currentColor;visibility:visible;animation:tf-hrz-loader infinite .75s cubic-bezier(.2,.68,.18,1.08)}.tf_lazy:after{width:6px!important;height:6px!important;right:auto!important;left:50%!important;margin-top:3px;animation-delay:-.4s}@keyframes tf-hrz-loader{0%{transform:scale(1);opacity:1}50%{transform:scale(.1);opacity:.6}100%{transform:scale(1);opacity:1}}.tf_lazy_lightbox{position:fixed;background:rgba(11,11,11,.8);color:#ccc;top:0;left:0;display:flex;align-items:center;justify-content:center;z-index:999}.tf_lazy_lightbox .tf_lazy:after,.tf_lazy_lightbox .tf_lazy:before{background:#fff}.tf_video_lazy video{width:100%;height:100%;position:static;object-fit:cover}
+		</style>
+			<noscript><style>body:not(.page-loaded) #main-nav li .sub-menu{display:block}</style></noscript>
+    	    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+		<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+	<link rel="preload" href="https://digitalspice.co.uk/wp-content/uploads/themify-css/concate/themify-concate-2721659019-4063965239.min.css" as="style"><link id="themify_concate-css" rel="stylesheet" href="https://digitalspice.co.uk/wp-content/uploads/themify-css/concate/themify-concate-2721659019-4063965239.min.css"><link rel="preload" href="https://digitalspice.co.uk/wp-content/uploads/themify-css/concate/themify-mobile-2721659019-472224222.min.css" as="style" media="screen and (max-width:12000px)"><link id="themify_mobile_concate-css" rel="stylesheet" href="https://digitalspice.co.uk/wp-content/uploads/themify-css/concate/themify-mobile-2721659019-472224222.min.css" media="screen and (max-width:12000px)"><link rel="alternate" type="application/rss+xml" title="Digital Spice &raquo; Feed" href="https://digitalspice.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Digital Spice &raquo; Comments Feed" href="https://digitalspice.co.uk/comments/feed/" />
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v6.6.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-40898159-1"  type="text/javascript" data-cfasync="false"></script>
+			<script type="text/javascript" data-cfasync="false">
+				var em_version = '6.6.2';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-40898159-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( em_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dNDMyYj' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-40898159-1', {
+						forceSSL:true,page_path:'/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( 'undefined' !== typeof (
+											arguments[1].hitType
+										) ) {
+											hitObject = arguments[1];
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var gaKey, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+									};
+									for ( gaKey in gaMap ) {
+										if ( 'undefined' !== typeof args[gaKey] ) {
+											hit[gaMap[gaKey]] = args[gaKey];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4" as="style" /><link rel='stylesheet' id='contact-form-7-css'  href='https://digitalspice.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=2.3.2" as="style" /><link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://digitalspice.co.uk/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=2.3.2' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/google-analytics-dashboard-for-wp/assets/css/frontend.min.css?ver=6.6.2" as="style" /><link rel='stylesheet' id='exactmetrics-popular-posts-style-css'  href='https://digitalspice.co.uk/wp-content/plugins/google-analytics-dashboard-for-wp/assets/css/frontend.min.css?ver=6.6.2' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=4.4.7" as="style" /><link rel='stylesheet' id='moove_gdpr_frontend-css'  href='https://digitalspice.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=4.4.7' media='all' />
+<style id='moove_gdpr_frontend-inline-css'>
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+				 	font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#d18937;border-color:#d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#d18937;border:1px solid #d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li:hover a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li:hover button{color:#000}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g{color:#d18937}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button{color:#000}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button i{color:#000}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
+</style>
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap.css?ver=3.3.5.1" as="style" /><link rel='stylesheet' id='wpdevelop-bts-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap.css?ver=3.3.5.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap-theme.css?ver=3.3.5.1" as="style" /><link rel='stylesheet' id='wpdevelop-bts-theme-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap-theme.css?ver=3.3.5.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/css/wpbc_time-selector.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-time_picker-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/css/wpbc_time-selector.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/css/time_picker_skins/grey.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-time_picker-skin-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/css/time_picker_skins/grey.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/css/client.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-client-pages-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/css/client.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/css/calendar.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-calendar-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/css/calendar.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/css/skins/traditional.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-calendar-skin-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/css/skins/traditional.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/core/timeline/v2/css/timeline_v2.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-flex-timeline-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/core/timeline/v2/css/timeline_v2.css?ver=8.8.1' media='all' />
+<link rel="preload" href="https://digitalspice.co.uk/wp-content/plugins/booking/core/timeline/v2/css/timeline_skin_v2.css?ver=8.8.1" as="style" /><link rel='stylesheet' id='wpbc-flex-timeline-skin-css'  href='https://digitalspice.co.uk/wp-content/plugins/booking/core/timeline/v2/css/timeline_skin_v2.css?ver=8.8.1' media='all' />
+<script src='https://digitalspice.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script id='exactmetrics-frontend-script-js-extra'>
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/digitalspice.co.uk","hash_tracking":"false","ua":"UA-40898159-1"};
+</script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=6.6.2' id='exactmetrics-frontend-script-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=2.3.2' id='responsive-lightbox-swipebox-js'></script>
+<script src='https://digitalspice.co.uk/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.6.10' id='responsive-lightbox-infinite-scroll-js'></script>
+<script id='responsive-lightbox-js-extra'>
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/digitalspice.co.uk\/wp-admin\/admin-ajax.php","nonce":"7c449e2106"};
+</script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.3.2' id='responsive-lightbox-js'></script>
+<script id='wpbc-global-vars-js-extra'>
+var wpbc_global1 = {"wpbc_ajaxurl":"https:\/\/digitalspice.co.uk\/wp-admin\/admin-ajax.php","wpdev_bk_plugin_url":"https:\/\/digitalspice.co.uk\/wp-content\/plugins\/booking","wpdev_bk_today":"[2022,11,9,14,57]","visible_booking_id_on_page":"[]","booking_max_monthes_in_calendar":"1y","user_unavilable_days":"[999]","wpdev_bk_edit_id_hash":"","wpdev_bk_plugin_filename":"wpdev-booking.php","bk_days_selection_mode":"multiple","wpdev_bk_personal":"0","block_some_dates_from_today":"0","message_verif_requred":"This field is required","message_verif_requred_for_check_box":"This checkbox must be checked","message_verif_requred_for_radio_box":"At least one option must be selected","message_verif_emeil":"Incorrect email field","message_verif_same_emeil":"Your emails do not match","message_verif_selectdts":"Please, select booking date(s) at Calendar.","parent_booking_resources":"[]","new_booking_title":"Thank you for your online booking.  We will send confirmation of your booking as soon as possible.","new_booking_title_time":"7000","type_of_thank_you_message":"message","thank_you_page_URL":"https:\/\/digitalspice.co.uk\/thank-you","is_am_pm_inside_time":"true","is_booking_used_check_in_out_time":"false","wpbc_active_locale":"en_US","wpbc_message_processing":"Processing","wpbc_message_deleting":"Deleting","wpbc_message_updating":"Updating","wpbc_message_saving":"Saving","message_checkinouttime_error":"Error! Please reset your check-in\/check-out dates above.","message_starttime_error":"Start Time is invalid. The date or time may be booked, or already in the past! Please choose another date or time.","message_endtime_error":"End Time is invalid. The date or time may be booked, or already in the past. The End Time may also be earlier that the start time, if only 1 day was selected! Please choose another date or time.","message_rangetime_error":"The time(s) may be booked, or already in the past!","message_durationtime_error":"The time(s) may be booked, or already in the past!","bk_highlight_timeslot_word":"Times:"};
+</script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/js/wpbc_vars.js?ver=8.8.1' id='wpbc-global-vars-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/assets/libs/bootstrap/js/bootstrap.js?ver=3.3.5.1' id='wpdevelop-bootstrap-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/js/datepick/jquery.datepick.wpbc.5.6.js?ver=5.6' id='wpbc-datepick-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/js/client.js?ver=8.8.1' id='wpbc-main-client-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/js/wpbc_times.js?ver=8.8.1' id='wpbc-times-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/js/wpbc_time-selector.js?ver=8.8.1' id='wpbc-time-selector-js'></script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.js?ver=8.8.1' id='wpbc-timeline-flex-js'></script>
+<link rel="https://api.w.org/" href="https://digitalspice.co.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://digitalspice.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://digitalspice.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.10" />
+
+	<style>
+	@keyframes themifyAnimatedBG{
+		0%{background-color:#33baab}100%{background-color:#e33b9e}50%{background-color:#4961d7}33.3%{background-color:#2ea85c}25%{background-color:#2bb8ed}20%{background-color:#dd5135}
+	}
+	.page-loaded .module_row.animated-bg{
+		animation:themifyAnimatedBG 30000ms infinite alternate
+	}
+	</style>
+	<style id="tb_inline_styles">.tb_animation_on{overflow-x:hidden}.themify_builder .wow{visibility:hidden;animation-fill-mode:both}.themify_builder .tf_lax_done{transition-duration:.8s;transition-timing-function:cubic-bezier(.165,.84,.44,1)}.wow.tf_lax_done{animation-fill-mode:backwards}[data-sticky-active].tb_sticky_scroll_active{z-index:1}[data-sticky-active].tb_sticky_scroll_active .hide-on-stick{display:none}@media screen and (min-width:1025px){.hide-desktop{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important}}@media screen and (min-width:769px) and (max-width:1024px){.hide-tablet_landscape{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important}}@media screen and (min-width:481px) and (max-width:768px){.hide-tablet{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important}}@media screen and (max-width:480px){.hide-mobile{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important}}</style><noscript><style>.themify_builder .wow,.wow .tf_lazy{visibility:visible!important}</style></noscript></head>
+<body class="error404 skin-default default_width sidebar1 no-home tb_animation_on elementor-default elementor-kit-5174 ready-view header-block fixed-header-enabled footer-block theme-font-slab-sans search-off header-widgets-off filter-hover-none filter-featured-only sidemenu-active">
+<div id="pagewrap" class="tf_box hfeed site">
+    <a class="screen-reader-text skip-to-content" href="#content">Skip to content</a>
+					<div id="headerwrap"  class=' tf_box tf_w'>
+
+			
+			                                                    <div class="header-icons tf_hide">
+                                <a id="menu-icon" class="tf_inline_b tf_text_dec" href="#mobile-menu" aria-label="Menu"><span class="menu-icon-inner tf_inline_b tf_vmiddle tf_overflow"></span><span class="screen-reader-text">Menu</span></a>
+				                            </div>
+                        
+			<header id="header" class="tf_box pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+	            
+	            <div class="header-bar tf_box">
+				    <div id="site-logo"><a href="https://digitalspice.co.uk" title="Digital Spice"><img decoding="async" data-tf-not-load="1" src="https://cdn.digitalspice.co.uk/wp-content/uploads/2021/03/07172027/ds_website_logo.png" alt="Digital Spice" title="ds_website_logo" width="" height="" class="site-logo-image"></a></div><div id="site-description" class="site-description"><span>Digital with an added dash of spice</span></div>				</div>
+				<!-- /.header-bar -->
+
+									<div id="mobile-menu" class="sidemenu sidemenu-off tf_scrollbar">
+												
+						<div class="navbar-wrapper clearfix">
+                            																						<div class="social-widget tf_inline_b tf_vmiddle">
+									<div id="themify-social-links-1012" class="widget themify-social-links"><ul class="social-links horizontal">
+							<li class="social-link-item twitter font-icon icon-medium">
+								<a href="https://twitter.com/videoforums" aria-label="twitter" ><i><svg  aria-label="Twitter" role="img" class="tf_fa tf-fab-twitter"><use href="#tf-fab-twitter"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item vimeo font-icon icon-medium">
+								<a href="https://vimeo.com/marcpeters" aria-label="vimeo" ><i><svg  aria-label="vimeo" role="img" class="tf_fa tf-fab-vimeo"><use href="#tf-fab-vimeo"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item instagram font-icon icon-medium">
+								<a href="https://www.instagram.com/videoforums/" aria-label="instagram" ><i><svg  aria-label="instagram" role="img" class="tf_fa tf-fab-instagram"><use href="#tf-fab-instagram"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item --></ul></div>								    								</div>
+								<!-- /.social-widget -->
+							
+							
+							<nav id="main-nav-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+								<ul id="main-nav" class="main-nav clearfix tf_box"><li class="menu-item-custom-5037 menu-item menu-item-type-custom menu-item-object-custom menu-item-5037" ><a  href="http://www.digitalspice.co.uk">home</a> </li>
+<li class="menu-item-page-3611 menu-item menu-item-type-post_type menu-item-object-page menu-item-5038" ><a  href="http://digitalspice.co.uk/contact-me/">contact me</a> </li>
+</ul>							</nav>
+							<!-- /#main-nav-wrap -->
+                                                    </div>
+
+						
+							<a id="menu-icon-close" aria-label="Close menu" class="tf_close tf_hide" href="#"><span class="screen-reader-text">Close Menu</span></a>
+
+																	</div><!-- #mobile-menu -->
+                     					<!-- /#mobile-menu -->
+				
+				
+				
+			</header>
+			<!-- /#header -->
+				        
+		</div>
+		<!-- /#headerwrap -->
+	
+	<div id="body" class="tf_box tf_clear tf_mw clearfix">
+		
+	<!-- layout-container -->
+<div id="layout" class="pagewidth tf_box clearfix">
+        <!-- content -->
+    <main id="content" class="tf_box clearfix">
+	 <h1 itemprop="name" class="page-title">404 </h1>	<p>Page not found.</p>
+	    </main>
+    <!-- /content -->
+        
+    <aside id="sidebar" class="tf_box" itemscope="itemscope" itemtype="https://schema.org/WPSidebar">
+
+        <div id="themify-feature-posts-1009" class="widget feature-posts"><h4 class="widgettitle">Recent Posts</h4><ul class="feature-posts-list"><li><a href="https://digitalspice.co.uk/first-time-skateboarding/"></a><a href="https://digitalspice.co.uk/first-time-skateboarding/" class="feature-posts-title">First time skateboarding</a> <br /><small>December 30, 2020</small> <br /></li><li><a href="https://digitalspice.co.uk/cscc-2020/"></a><a href="https://digitalspice.co.uk/cscc-2020/" class="feature-posts-title">CSCC 2020</a> <br /><small>November 23, 2020</small> <br /></li><li><a href="https://digitalspice.co.uk/sandy-balls/"><img decoding="async" data-tf-not-load="1" src="https://cdn.digitalspice.co.uk/wp-content/uploads/2020/08/19202622/August-2020-1222.jpg" width="50" height="50" class="post-img" title="Sandy Balls" alt="Sandy Balls"></a><a href="https://digitalspice.co.uk/sandy-balls/" class="feature-posts-title">Sandy Balls</a> <br /><small>August 19, 2020</small> <br /></li></ul></div><div id="text-1010" class="widget widget_text"><h4 class="widgettitle">Social media links</h4>			<div class="textwidget"><p>This is me on Mastodon <a rel="me" href="https://mastodon.social/@digitalspice">Mastodon</a></p>
+</div>
+		</div><div id="themify-twitter-1011" class="widget twitter"><h4 class="widgettitle">Latest Tweets</h4><div class="twitter-list ">
+				<div class="twitter-block"><ul class="twitter-list"><li class="twitter-item">@wbuxtonofficial Kudos to Lewis for getting in the car. Two weeks after COVID my fitness had taken a real battering… https://t.co/NsLh7nnePD<br /><em class="twitter-timestamp"><small>2 years ago</small></em></li><li class="twitter-item">A weekend of CSCC racing at last! It was a wee bit wet last time out at Donington. But what’s a bit of rain, eh?!… https://t.co/AxxD3lKLMO<br /><em class="twitter-timestamp"><small>2 years ago</small></em></li><li class="twitter-item">@susiebear78 @CSCCRacing I have everything crossed that you’ll all get to race!<br /><em class="twitter-timestamp"><small>2 years ago</small></em></li></ul></div><div class="follow-user"><a href="//twitter.com/digitalspiceuk">→ Follow me</a></div></div></div>
+    </aside>
+    <!-- /#sidebar -->
+
+    </div>
+<!-- /layout-container -->
+    </div><!-- /body -->
+<div id="footerwrap" class="tf_box tf_clear ">
+				<footer id="footer" class="tf_box pagewidth tf_scrollbar tf_rel clearfix" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+			<div class="back-top tf_textc clearfix back-top-float back-top-hide"><div class="arrow-up"><a aria-label="Back to top" href="#header"><span class="screen-reader-text">Back To Top</span></a></div></div>
+			<div class="main-col first clearfix">
+				<div class="footer-left-wrap first">
+																	<div class="footer-logo-wrapper clearfix">
+							<div id="footer-logo"><a href="https://digitalspice.co.uk" title="Digital Spice"><span>Digital Spice</span></a></div>							<!-- /footer-logo -->
+						</div>
+					
+											<div class="social-widget tf_inline_b tf_vmiddle">
+							<div id="themify-social-links-1015" class="widget themify-social-links"><ul class="social-links horizontal">
+							<li class="social-link-item twitter font-icon icon-medium">
+								<a href="https://twitter.com/videoforums" aria-label="twitter" ><i><svg  aria-label="Twitter" role="img" class="tf_fa tf-fab-twitter"><use href="#tf-fab-twitter"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item vimeo font-icon icon-medium">
+								<a href="https://vimeo.com/marcpeters" aria-label="vimeo" ><i><svg  aria-label="vimeo" role="img" class="tf_fa tf-fab-vimeo"><use href="#tf-fab-vimeo"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item -->
+							<li class="social-link-item instagram font-icon icon-medium">
+								<a href="https://www.instagram.com/videoforums/" aria-label="instagram" ><i><svg  aria-label="instagram" role="img" class="tf_fa tf-fab-instagram"><use href="#tf-fab-instagram"></use></svg></i>  </a>
+							</li>
+							<!-- /themify-link-item --></ul></div>						</div>
+						<!-- /.social-widget -->
+									</div>
+
+				<div class="footer-right-wrap">
+																	<div class="footer-nav-wrap">
+													</div>
+						<!-- /.footer-nav-wrap -->
+					
+											<div class="footer-text tf_clear clearfix">
+							<div class="footer-text-inner">
+								<div class="one">&copy; <a href="https://digitalspice.co.uk">Digital Spice</a> 2022</div><div class="two">Powered by <a href="http://wordpress.org">WordPress</a> &bull; <a href="https://themify.me">Themify WordPress Themes</a></div>							</div>
+						</div>
+						<!-- /.footer-text -->
+									</div>
+			</div>
+
+												<div class="section-col clearfix">
+						<div class="footer-widgets-wrap">
+							
+		<div class="footer-widgets clearfix">
+							<div class="col3-1 first tf_box tf_float">
+					<div id="themify-feature-posts-1003" class="widget feature-posts"><h4 class="widgettitle">Recent Posts</h4><ul class="feature-posts-list"><li><a href="https://digitalspice.co.uk/first-time-skateboarding/"></a><a href="https://digitalspice.co.uk/first-time-skateboarding/" class="feature-posts-title">First time skateboarding</a> <br /><small>December 30, 2020</small> <br /></li><li><a href="https://digitalspice.co.uk/cscc-2020/"></a><a href="https://digitalspice.co.uk/cscc-2020/" class="feature-posts-title">CSCC 2020</a> <br /><small>November 23, 2020</small> <br /></li><li><a href="https://digitalspice.co.uk/sandy-balls/"><img decoding="async" data-tf-not-load="1" src="https://cdn.digitalspice.co.uk/wp-content/uploads/2020/08/19202622/August-2020-1222.jpg" width="50" height="50" class="post-img" title="Sandy Balls" alt="Sandy Balls"></a><a href="https://digitalspice.co.uk/sandy-balls/" class="feature-posts-title">Sandy Balls</a> <br /><small>August 19, 2020</small> <br /></li></ul></div>				</div>
+							<div class="col3-1 tf_box tf_float">
+					<div id="text-1004" class="widget widget_text"><h4 class="widgettitle">About</h4>			<div class="textwidget">The Ultra theme is Themify's flagship theme. It's a WordPress designed to give you more control on the design of your theme. Built to work seamlessly with our drag & drop Builder plugin, it gives you the ability to customize the look and feel of your content. </div>
+		</div>				</div>
+							<div class="col3-1 tf_box tf_float">
+					<div id="themify-twitter-1005" class="widget twitter"><h4 class="widgettitle">Latest Tweets</h4><div class="twitter-list ">
+				<div class="twitter-block"><ul class="twitter-list"><li class="twitter-item">@WSWoodcarving Can you email us: https://t.co/yaVrIRPFSP. Our team will reply you via email.<br /><em class="twitter-timestamp"><small>4 days ago</small></em></li><li class="twitter-item">@WSWoodcarving If the module panel is already open, that button will be on disabled state.<br /><em class="twitter-timestamp"><small>4 days ago</small></em></li></ul></div></div></div>				</div>
+					</div>
+		<!-- /.footer-widgets -->
+
+								<!-- /footer-widgets -->
+						</div>
+					</div>
+							
+					</footer><!-- /#footer -->
+				
+	</div><!-- /#footerwrap -->
+</div><!-- /#pagewrap -->
+<!-- wp_footer -->
+
+  <aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom" role="note" aria-label="GDPR Cookie Banner">
+    <div class="moove-gdpr-info-bar-container">
+      <div class="moove-gdpr-info-bar-content">
+        
+<div class="moove-gdpr-cookie-notice">
+  <p>We are using cookies to give you the best experience on our website.</p><p>You can find out more about which cookies we are using or switch them off in <span data-href="#moove_gdpr_cookie_modal" class="change-settings-button">settings</span>.</p></div>
+<!--  .moove-gdpr-cookie-notice -->        
+<div class="moove-gdpr-button-holder">
+  <button class="mgbutton moove-gdpr-infobar-allow-all" aria-label="Accept">Accept</button>
+  </div>
+<!--  .button-container -->      </div>
+      <!-- moove-gdpr-info-bar-content -->
+    </div>
+    <!-- moove-gdpr-info-bar-container -->
+  </aside>
+  <!-- #moove_gdpr_cookie_info_bar  -->
+			<!--googleoff:all-->
+			<!--noindex-->
+			<script type="text/template" id="tf_vars">
+				var themifyScript = {"headerType":"header-block","sticky_header":"","pageLoaderEffect":"","infiniteEnable":"0"};
+var tbLocalScript = {"builder_url":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder","css_module_url":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/css/modules/","js_module_url":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/","js_modules":{"fwr":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/fullwidthRows.js","bgs":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/backgroundSlider.js","fwv":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/fullwidthvideo.js","feature":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/feature.js","parallax":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/parallax.js","bgzs":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/bgzoom_scroll.js","bgzoom":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/bgzoom.js","gallery":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/gallery.js","menu":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/menu.js","read":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/readMore.js","sticky":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/sticky.js","alert":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/alert.js","tab":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/tab.js","accordion":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/accordion.js","oc":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/overlay-content.js","video":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/modules/video.js","sh":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/themify-builder/js/themify.scroll-highlight.js"},"breakpoints":{"tablet_landscape":[769,1024],"tablet":[481,768],"mobile":480},"fullwidth_support":"1","addons":[]};
+var themify_vars = {"version":"5.1.8","url":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify","wp":"5.6.10","ajax_url":"https://digitalspice.co.uk/wp-admin/admin-ajax.php","includesURL":"https://digitalspice.co.uk/wp-includes/","emailSub":"Check this out!","lightbox":{"i18n":{"tCounter":"%curr% of %total%"}},"s_v":"5.3.7","a_v":"3.6.2","i_v":"4.1.4","js_modules":{"fxh":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/fixedheader.js","lb":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/lightbox.min.js","gal":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/themify.gallery.js","sw":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/swiper/swiper.min.js","tc":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/themify.carousel.js","map":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/map.js","img":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/jquery.imagesloaded.min.js","at":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/autoTiles.js","iso":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/isotop.js","inf":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/infinite.js","lax":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/lax.js","video":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/video-player.js","audio":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/audio-player.js","side":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/themify.sidemenu.js","edge":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/edge.Menu.js","wow":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/tf_wow.js","share":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/sharer.js","mega":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/megamenu/js/themify.mega-menu.js","drop":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/themify.dropdown.js","wc":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/wc.js"},"css_modules":{"sw":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/swiper/swiper.css","an":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/animate.min.css","video":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/modules/video.css","audio":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/modules/audio.css","drop":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/modules/dropdown.css","lb":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/css/lightbox.css","mega":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/megamenu/css/megamenu.css"},"is_min":"1","wp_embed":"https://digitalspice.co.uk/wp-includes/js/wp-embed.min.js","theme_js":"https://digitalspice.co.uk/wp-content/themes/themify-ultra/js/themify.script.js","theme_v":"5.2.1","theme_url":"https://digitalspice.co.uk/wp-content/themes/themify-ultra","menu_point":"12000","done":{"tb_parallax":true}};			</script>
+			<!--/noindex-->
+			<!--googleon:all-->
+			<script nomodule defer src="https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/fallback.js"></script>
+			<script defer="defer" src='https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/main.js?ver=5.1.8' id='themify-main-script-js'></script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://digitalspice.co.uk/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/i18n.min.js?ver=9e36b5da09c96c657b0297fd6f7cb1fd' id='wp-i18n-js'></script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21' id='lodash-js'></script>
+<script id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/url.min.js?ver=1b4bb2b3f526a1db366ca3147ac39562' id='wp-url-js'></script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/hooks.min.js?ver=d0d9f43e03080e6ace9a3dabbd5f9eee' id='wp-hooks-js'></script>
+<script id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script src='https://digitalspice.co.uk/wp-includes/js/dist/api-fetch.min.js?ver=c207d2d188ba8bf763f7acd50b7fd5a9' id='wp-api-fetch-js'></script>
+<script id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://digitalspice.co.uk/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "f36f197279" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://digitalspice.co.uk/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = [];
+</script>
+<script defer="defer" src='https://digitalspice.co.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
+<script id='moove_gdpr_frontend-js-extra'>
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/digitalspice.co.uk\/wp-admin\/admin-ajax.php","post_id":"5185","plugin_dir":"https:\/\/digitalspice.co.uk\/wp-content\/plugins\/gdpr-cookie-compliance","show_icons":"all","is_page":"","strict_init":"1","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365"};
+</script>
+<script src='https://digitalspice.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.4.7' id='moove_gdpr_frontend-js'></script>
+
+
+<!-- V1 -->
+<div id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" role="complementary" aria-label="GDPR Settings Screen">
+  <div class="moove-gdpr-modal-content moove-clearfix logo-position-center moove_gdpr_modal_theme_v1">
+    <button class="moove-gdpr-modal-close" aria-label="Close GDPR Cookie Settings">
+      <span class="gdpr-sr-only">Close GDPR Cookie Settings</span>
+      <span class="gdpr-icon moovegdpr-arrow-close"></span>
+    </button>
+    <div class="moove-gdpr-modal-left-content">
+      
+<div class="moove-gdpr-company-logo-holder">
+  <img decoding="async" loading="lazy" src="http://digitalspice.co.uk/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png" alt="Digital Spice" title="Digital Spice" width="350" height="233" class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->      <ul id="moove-gdpr-menu">
+        
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+  <button data-href="#privacy_overview" class="moove-gdpr-tab-nav" aria-label="Privacy Overview">
+    <span class="gdpr-svg-icon">
+      <svg class="icon icon-privacy-overview" viewBox="0 0 26 32">
+        <path d="M11.082 27.443l1.536 0.666 1.715-0.717c5.018-2.099 8.294-7.014 8.294-12.442v-5.734l-9.958-5.325-9.702 5.325v5.862c0 5.376 3.2 10.24 8.115 12.365zM4.502 10.138l8.166-4.506 8.397 4.506v4.813c0 4.838-2.893 9.19-7.347 11.034l-1.101 0.461-0.922-0.41c-4.352-1.894-7.194-6.195-7.194-10.957v-4.941zM12.029 14.259h1.536v7.347h-1.536v-7.347zM12.029 10.394h1.536v2.483h-1.536v-2.483z" fill="currentColor"></path>
+      </svg>      
+    </span> 
+    <span class="gdpr-nav-tab-title">Privacy Overview</span>
+  </button>
+</li>
+
+  <li class="menu-item-strict-necessary-cookies menu-item-off">
+    <button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav" aria-label="Strictly Necessary Cookies">
+      <span class="gdpr-svg-icon">
+        <svg class="icon icon-strict-necessary" viewBox="0 0 26 32">
+          <path d="M22.685 5.478l-9.984 10.752-2.97-4.070c-0.333-0.461-0.973-0.538-1.434-0.205-0.435 0.333-0.538 0.947-0.23 1.408l3.686 5.094c0.179 0.256 0.461 0.41 0.768 0.435h0.051c0.282 0 0.538-0.102 0.742-0.307l10.854-11.699c0.358-0.435 0.333-1.075-0.102-1.434-0.384-0.384-0.998-0.358-1.382 0.026v0zM22.301 12.954c-0.563 0.102-0.922 0.64-0.794 1.203 0.128 0.614 0.179 1.229 0.179 1.843 0 5.094-4.122 9.216-9.216 9.216s-9.216-4.122-9.216-9.216 4.122-9.216 9.216-9.216c1.536 0 3.021 0.384 4.378 1.101 0.512 0.23 1.126 0 1.357-0.538 0.205-0.461 0.051-0.998-0.384-1.254-5.478-2.944-12.314-0.922-15.283 4.557s-0.922 12.314 4.557 15.258 12.314 0.922 15.258-4.557c0.896-1.638 1.357-3.482 1.357-5.35 0-0.768-0.077-1.51-0.23-2.253-0.102-0.538-0.64-0.896-1.178-0.794z" fill="currentColor"></path>
+        </svg>
+      </span> 
+      <span class="gdpr-nav-tab-title">Strictly Necessary Cookies</span>
+    </button>
+  </li>
+
+
+
+
+      </ul>
+      
+<div class="moove-gdpr-branding-cnt">
+  
+		<a href="https://wordpress.org/plugins/gdpr-cookie-compliance" target="_blank" rel="noopener noreferrer nofollow" class='moove-gdpr-branding'>Powered by&nbsp; <span>GDPR Cookie Compliance</span></a>
+		</div>
+<!--  .moove-gdpr-branding -->    </div>
+    <!--  .moove-gdpr-modal-left-content -->
+    <div class="moove-gdpr-modal-right-content">
+      <div class="moove-gdpr-modal-title">
+         
+      </div>
+      <!-- .moove-gdpr-modal-ritle -->
+      <div class="main-modal-content">
+
+        <div class="moove-gdpr-tab-content">
+          
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+      <span class="tab-title">Privacy Overview</span>
+    <div class="moove-gdpr-tab-main-content">
+  	<p>This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.</p>
+  	  </div>
+  <!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->          
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+    <span class="tab-title">Strictly Necessary Cookies</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.</p>
+      <div class="moove-gdpr-status-bar ">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <span class="gdpr-sr-only">Enable or Disable Cookies</span>        
+              <input type="checkbox" aria-label="Strictly Necessary Cookies"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round" data-text-enable="Enabled" data-text-disabled="Disabled"></span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+              <div class="moove-gdpr-strict-warning-message" style="margin-top: 10px;">
+          <p>If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.</p>
+        </div>
+        <!--  .moove-gdpr-tab-main-content -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+          
+          
+          
+        </div>
+        <!--  .moove-gdpr-tab-content -->
+      </div>
+      <!--  .main-modal-content -->
+      <div class="moove-gdpr-modal-footer-content">
+        <div class="moove-gdpr-button-holder">
+  <button class="mgbutton moove-gdpr-modal-allow-all button-visible"  aria-label="Enable All">Enable All</button>
+  <button class="mgbutton moove-gdpr-modal-save-settings button-visible" aria-label="Save Changes">Save Changes</button>
+</div>
+<!--  .moove-gdpr-button-holder -->      </div>
+      <!--  .moove-gdpr-modal-footer-content -->
+    </div>
+    <!--  .moove-gdpr-modal-right-content -->
+
+    <div class="moove-clearfix"></div>
+
+  </div>
+  <!--  .moove-gdpr-modal-content -->
+</div>
+<!-- #moove_gdpr_cookie_modal  --><svg id="tf_svg" style="display:none"><defs><symbol id="tf-fab-twitter" viewBox="0 0 32 32"><path d="M28.688 9.5q.063.25.063.813 0 3.313-1.25 6.594t-3.531 6-5.906 4.406-8 1.688q-5.5 0-10.063-2.938.688.063 1.563.063 4.563 0 8.188-2.813-2.188 0-3.844-1.281t-2.281-3.219q.625.063 1.188.063.875 0 1.75-.188-1.5-.313-2.688-1.25t-1.875-2.281-.688-2.906v-.125q1.375.813 2.938.875-2.938-2-2.938-5.5 0-1.75.938-3.313Q4.69 7.251 8.221 9.063t7.531 2q-.125-.75-.125-1.5 0-2.688 1.906-4.625T22.127 3q2.875 0 4.813 2.063 2.25-.438 4.188-1.563-.75 2.313-2.875 3.625 1.875-.25 3.75-1.063-1.375 2-3.313 3.438z"></path></symbol><symbol id="tf-fab-vimeo" viewBox="0 0 32 32"><path d="M25.188 2q1.188 0 2 .813t.813 2v22.375q0 1.188-.813 2t-2 .813H2.813q-1.188 0-2-.813t-.813-2V4.813q0-1.188.813-2t2-.813h22.375zm-1.625 9.313q.188-4-2.938-4.063-4.188-.125-5.688 4.75.938-.563 1.969-.281t.844 1.656q-.063 1.063-1.313 3.063-1.688 2.625-2.438 1.75-.75-.938-1.813-7.438-.563-3.5-2.875-3.25-.438.063-.938.313t-1.156.781-1.125.938l-1.406 1.219-1.375 1.188 1 1.25q1.313-.938 1.563-.938.75 0 1.313 1.469t1.625 5.344q.438 1.563.625 2.438 1.25 3.25 3 3.25 2.875 0 7-5.375 4-5.125 4.125-8.063z"></path></symbol><symbol id="tf-fab-instagram" viewBox="0 0 32 32"><path d="M14 8.813q3 0 5.094 2.094t2.094 5.094-2.094 5.094T14 23.189t-5.094-2.094-2.094-5.094 2.094-5.094T14 8.813zm0 11.875q1.938 0 3.313-1.375T18.688 16t-1.375-3.313T14 11.312t-3.313 1.375T9.312 16t1.375 3.313T14 20.688zM23.125 8.5q0 .688-.469 1.188t-1.156.5-1.188-.5-.5-1.188.5-1.156 1.188-.469 1.156.469.469 1.156zm4.813 1.75q.063 1.688.063 5.75t-.063 5.75q-.188 3.813-2.281 5.906t-5.906 2.219q-1.688.125-5.75.125t-5.75-.125q-3.813-.188-5.875-2.25-.813-.75-1.313-1.75t-.719-1.938-.219-2.188Q0 20.061 0 15.999t.125-5.813q.188-3.75 2.25-5.813Q4.438 2.248 8.25 2.06q1.688-.063 5.75-.063t5.75.063q3.813.188 5.906 2.281t2.281 5.906zm-3 14q.188-.5.313-1.281t.188-1.875.063-1.781v-6.625l-.063-1.781-.188-1.875-.313-1.281q-.75-1.938-2.688-2.688-.5-.188-1.281-.313t-1.875-.188-1.75-.063h-6.656l-1.781.063-1.875.188-1.281.313q-1.938.75-2.688 2.688-.188.5-.313 1.281t-.188 1.875-.063 1.75v6l.031 1.531.094 1.594.188 1.344.25 1.125q.813 1.938 2.688 2.688.5.188 1.281.313t1.875.188 1.75.063h6.656l1.781-.063 1.875-.188 1.281-.313q1.938-.813 2.688-2.688z"></path></symbol><style id="tf_fonts_style">.tf_fa.tf-fab-twitter{width:0.998046875em}</style></defs></svg>			<link rel="preload" href="https://digitalspice.co.uk/wp-content/themes/themify-ultra/js/themify.script.js?ver=5.2.1" as="script"/> 
+						<link rel="prefetch" href="https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/themify.sidemenu.js?ver=5.1.8" as="script"/> 
+						<link rel="prefetch" href="https://digitalspice.co.uk/wp-content/themes/themify-ultra/themify/js/modules/jquery.imagesloaded.min.js?ver=4.1.4" as="script"/> 
+						<link rel="preload" href="https://cdn.digitalspice.co.uk/wp-content/uploads/2021/03/07172027/ds_website_logo.png" as="image"/> 
+						<link rel="preload" href="https://cdn.digitalspice.co.uk/wp-content/uploads/2020/08/19202622/August-2020-1222.jpg" as="image"/> 
+			
+
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Public+Sans:400i,600i,700i,400,600,700%7CRoboto+Slab:300,700,400%7CSorts+Mill+Goudy:400,400i&display=swap"/><link id="themify-google-fonts-css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Public+Sans:400i,600i,700i,400,600,700%7CRoboto+Slab:300,700,400%7CSorts+Mill+Goudy:400,400i&display=swap"/>	</body>
+</html>
+
+0
+

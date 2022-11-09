@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777cc4bb42d488-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.zombor.net; img-src 'self' https: data: blob: https://mastodon.zombor.net; style-src 'self' https://mastodon.zombor.net 'nonce-BizfbKX5ARiYBNONAvfhaA=='; media-src 'self' https: data: https://mastodon.zombor.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.zombor.net; connect-src 'self' data: blob: https://mastodon.zombor.net https://mastodon.zombor.net wss://mastodon.zombor.net; script-src 'self' https://mastodon.zombor.net; child-src 'self' blob: https://mastodon.zombor.net; worker-src 'self' blob: https://mastodon.zombor.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:34 GMT
+Etag: W/"e70c5d7e26fe49d7e7e363a5bc4b9904"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CsNKqam6st1PUkOQzVHaA7J1g5qeXltq5BRJVrFz3uZRrXArrJp%2FvsHP8k%2FGFvCpcLVO0xQYShsGmzGFhTV9tBr2IkPz%2Bbgu73m09FTe%2BGJVQTIWELsQr9hPvCjUJ7IXqC9MmKCe"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.445813Z
+X-Request-Id: 4d026988-19d4-49c8-847a-d9563dfad8d4
+X-Runtime: 0.014503
+X-Xss-Protection: 0
+
+[]

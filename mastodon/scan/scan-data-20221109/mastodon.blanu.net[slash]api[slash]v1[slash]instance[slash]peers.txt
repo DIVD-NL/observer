@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.blanu.net; img-src 'self' https: data: blob: https://mastodon.blanu.net; style-src 'self' https://mastodon.blanu.net 'nonce-VP9lT83tji0/mEpyUQzx9g=='; media-src 'self' https: data: https://mastodon.blanu.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.blanu.net; connect-src 'self' data: blob: https://mastodon.blanu.net https://cdn.masto.host wss://mastodon.blanu.net; script-src 'self' https://mastodon.blanu.net; child-src 'self' blob: https://mastodon.blanu.net; worker-src 'self' blob: https://mastodon.blanu.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:59 GMT
+Etag: W/"73f386fcaf2db07af62f3e95ef7f5865"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.424267Z
+X-Request-Id: a920fe41-c593-4b02-a599-dd6267b71cf9
+X-Runtime: 0.007344
+X-Xss-Protection: 0
+
+335
+["anonsys.net","chat.noelle.codes","social.joncamfield.com","friendica.mnementh.co.uk","mastodon.mit.edu","mastodon.online","elekk.xyz","corginet.duckdns.org","ourvillage.news","twitter.1d4.us","nonexiste.net","pleroma.1d4.us","freeradical.zone","discorporea.com","fosstodon.org","mastodon.xyz","social.tchncs.de","sitedethib.com","floss.social","friendica.ellih.eu","friendica.jb-net.us","r2.do","merveilles.town","social.tromdienste.de","todon.eu","social.softmetz.de","pirati.ca","social.yl.ms","tech.lgbt","wiesbaden.social","cybre.space","social.trom.tf","friendica.utzer.de","nerdica.net","aana.site","hachyderm.io","cloudisland.nz","someone.elses.computer","social.critzo.xyz","social.blogsofwar.com","mstdn.social","sueden.social","glasgow.social","mamot.fr","infosec.exchange","mastodon.social","octodon.social"]
+0
+

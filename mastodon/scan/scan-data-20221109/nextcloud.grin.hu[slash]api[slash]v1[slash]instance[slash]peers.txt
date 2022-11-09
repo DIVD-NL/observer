@@ -1,0 +1,107 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'self';style-src 'self' 'unsafe-inline';img-src 'self' data: blob: * https://source.unsplash.com https://images.unsplash.com;font-src 'self' data:;connect-src 'self' wss://nextcloud.grin.hu;media-src 'self';frame-src 'self' data: prezi.com player.vimeo.com vine.co www.youtube.com;child-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:14:10 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'self';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: nginx/1.18.0
+Set-Cookie: oc_sessionPassphrase=eKu%2BmacMMEXot82Nm6o4qweXsKQNI7BLJp7b5Q%2FDRDyDewFL6BW%2Fj9cEqG8HqSzyWOF91tNFCrkMMFCTb%2Fxrqh9qlIQzXC3wtykQCqaxWjesb1kj59YS7ST2pILZ%2B14h; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: oc9q0v1uken8=d9036e41ar7q3ula5flgcvfmq1; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: Xa6u4fct5H7Yp78jj0nd
+X-Robots-Tag: none
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="KmrdvhpowZlMqYczG6z5ubbqPBbWLc09a9bNRlFxyNA=:bC2py34drf474fBWXcGI1sWieWavSvhXDISAISIn+rQ=">
+		<meta charset="utf-8">
+		<title>
+		grinscloud		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/apps/theming/favicon?v=5">
+		<link rel="apple-touch-icon" href="/apps/theming/icon?v=5">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/apps/theming/manifest?v=5">
+		<link rel="stylesheet" href="/apps/sociallogin/css/styles.css?v=2bee8ff5-5">
+<link rel="stylesheet" href="/apps/registration/css/register-button.css?v=35c36e89-5">
+<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=b5ecd63e-5">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=198068b3-5">
+<link rel="stylesheet" href="/apps/unsplash/css/login_static.css?v=47354877-5">
+<link rel="stylesheet" href="/core/css/guest.css?v=1ebf8487-5">
+		<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/core/js/oc.js?v=1ebf8487"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/core-common.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/core-main.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/core-files_fileinfo.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/core-files_client.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/js/core/merged-template-prepend.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/core-login.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/files_sharing-main.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/dist/accessibility-accessibilityoca.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/apps/bbb/js/filelist.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/apps/apporder/js/apporder.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/apps/files_rightclick/js/script.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/apps/files_rightclick/js/files.js?v=1ebf8487-5"></script>
+<script nonce="S21yZHZocG93WmxNcVljekc2ejV1YmJxUEJiV0xjMDlhOWJOUmxGeHlOQT06YkMycHkzNGRyZjQ3NGZCV1hjR0kxc1dpZVdhdlN2aFhESVNBSVNJbityUT0=" defer src="/apps/theming/js/theming.js?v=1ebf8487-5"></script>
+		<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="/apps/accessibility/css/user-a82fd95db10ff25dfad39f07372ebe37"/><meta property="og:title" content="grinscloud"/><meta property="og:description" content="kind of safe home for some of your data"/><meta property="og:site_name" content="grinscloud"/><meta property="og:url" content="https://nextcloud.grin.hu/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://nextcloud.grin.hu/apps/theming/icon?v=5"/><style>:root { --color-primary-text: #ffffff; }</style><link rel="stylesheet" href="/apps/theming/styles?v=5"/><link rel="stylesheet" href="https://nextcloud.grin.hu/apps/unsplash/api/login.css"/><link rel="stylesheet" href="https://nextcloud.grin.hu/apps/unsplash/api/login.css"/><meta name="robots" content="noindex, nofollow"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-hideLoginForm" value="ZmFsc2U=">
+					<input type="hidden" id="initial-state-core-countAlternativeLogins" value="MQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMjQuMC40LjEiLCJ2ZXJzaW9uc3RyaW5nIjoiMjQuMC40IiwiZW5hYmxlX2F2YXRhcnMiOnRydWUsImxvc3RfcGFzc3dvcmRfbGluayI6bnVsbCwibW9kUmV3cml0ZVdvcmtpbmciOnRydWUsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MjUsInNoYXJpbmcubWluU2VhcmNoU3RyaW5nTGVuZ3RoIjowLCJibGFja2xpc3RfZmlsZXNfcmVnZXgiOiJcXC4ocGFydHxmaWxlcGFydCkkIn0=">
+					<input type="hidden" id="initial-state-core-capabilities" value="eyJjb3JlIjp7InBvbGxpbnRlcnZhbCI6NjAsIndlYmRhdi1yb290IjoicmVtb3RlLnBocFwvd2ViZGF2In0sIm1ldGFkYXRhQXZhaWxhYmxlIjp7InNpemUiOlsiXC9pbWFnZVxcXC8uKlwvIl19LCJmaWxlcyI6eyJiaWdmaWxlY2h1bmtpbmciOnRydWUsImJsYWNrbGlzdGVkX2ZpbGVzIjpbIi5odGFjY2VzcyJdLCJkaXJlY3RFZGl0aW5nIjp7InVybCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuZ3Jpbi5odVwvb2NzXC92Mi5waHBcL2FwcHNcL2ZpbGVzXC9hcGlcL3YxXC9kaXJlY3RFZGl0aW5nIiwiZXRhZyI6ImIwNWQwMTdjNzIzYzYxOTA3ZjYwZDY5NThjZjVhZTk1In0sImNvbW1lbnRzIjp0cnVlLCJ1bmRlbGV0ZSI6dHJ1ZSwidmVyc2lvbmluZyI6dHJ1ZX0sImFjdGl2aXR5Ijp7ImFwaXYyIjpbImZpbHRlcnMiLCJmaWx0ZXJzLWFwaSIsInByZXZpZXdzIiwicmljaC1zdHJpbmdzIl19LCJjaXJjbGVzIjp7InZlcnNpb24iOiIyNC4wLjEiLCJzdGF0dXMiOnsiZ2xvYmFsU2NhbGUiOmZhbHNlfSwic2V0dGluZ3MiOnsiZnJvbnRlbmRFbmFibGVkIjp0cnVlLCJhbGxvd2VkQ2lyY2xlcyI6MjYyMTQzLCJhbGxvd2VkVXNlclR5cGVzIjozMSwibWVtYmVyc0xpbWl0Ijo1MH0sImNpcmNsZSI6eyJjb25zdGFudHMiOnsiZmxhZ3MiOnsiMSI6IlNpbmdsZSIsIjIiOiJQZXJzb25hbCIsIjQiOiJTeXN0ZW0iLCI4IjoiVmlzaWJsZSIsIjE2IjoiT3BlbiIsIjMyIjoiSW52aXRlIiwiNjQiOiJKb2luIFJlcXVlc3QiLCIxMjgiOiJGcmllbmRzIiwiMjU2IjoiUGFzc3dvcmQgUHJvdGVjdGVkIiwiNTEyIjoiTm8gT3duZXIiLCIxMDI0IjoiSGlkZGVuIiwiMjA0OCI6IkJhY2tlbmQiLCI0MDk2IjoiTG9jYWwiLCI4MTkyIjoiUm9vdCIsIjE2Mzg0IjoiQ2lyY2xlIEludml0ZSIsIjMyNzY4IjoiRmVkZXJhdGVkIiwiNjU1MzYiOiJNb3VudCBwb2ludCJ9LCJzb3VyY2UiOnsiY29yZSI6eyIxIjoiTmV4dGNsb3VkIFVzZXIiLCIyIjoiTmV4dGNsb3VkIEdyb3VwIiwiNCI6IkVtYWlsIEFkZHJlc3MiLCI4IjoiQ29udGFjdCIsIjE2IjoiQ2lyY2xlIiwiMTAwMDAiOiJOZXh0Y2xvdWQgQXBwIn0sImV4dHJhIjp7IjEwMDAxIjoiQ2lyY2xlcyBBcHAiLCIxMDAwMiI6IkFkbWluIENvbW1hbmQgTGluZSJ9fX0sImNvbmZpZyI6eyJjb3JlRmxhZ3MiOlsxLDIsNF0sInN5c3RlbUZsYWdzIjpbNTEyLDEwMjQsMjA0OF19fSwibWVtYmVyIjp7ImNvbnN0YW50cyI6eyJsZXZlbCI6eyIxIjoiTWVtYmVyIiwiNCI6Ik1vZGVyYXRvciIsIjgiOiJBZG1pbiIsIjkiOiJPd25lciJ9fSwidHlwZSI6eyIwIjoic2luZ2xlIiwiMSI6InVzZXIiLCIyIjoiZ3JvdXAiLCI0IjoibWFpbCIsIjgiOiJjb250YWN0IiwiMTYiOiJjaXJjbGUiLCIxMDAwMCI6ImFwcCJ9fX0sIm9jbSI6eyJlbmFibGVkIjp0cnVlLCJhcGlWZXJzaW9uIjoiMS4wLXByb3Bvc2FsMSIsImVuZFBvaW50IjoiaHR0cHM6XC9cL25leHRjbG91ZC5ncmluLmh1XC9vY20iLCJyZXNvdXJjZVR5cGVzIjpbeyJuYW1lIjoiZmlsZSIsInNoYXJlVHlwZXMiOlsidXNlciIsImdyb3VwIl0sInByb3RvY29scyI6eyJ3ZWJkYXYiOiJcL3B1YmxpYy5waHBcL3dlYmRhdlwvIn19XX0sImRhdiI6eyJjaHVua2luZyI6IjEuMCJ9LCJkZWNrIjp7InZlcnNpb24iOiIxLjcuMiIsImNhbkNyZWF0ZUJvYXJkcyI6ZmFsc2UsImFwaVZlcnNpb25zIjpbIjEuMCIsIjEuMSJdfSwiZmlsZXNfc2hhcmluZyI6eyJhcGlfZW5hYmxlZCI6dHJ1ZSwicHVibGljIjp7ImVuYWJsZWQiOnRydWUsInBhc3N3b3JkIjp7ImVuZm9yY2VkIjpmYWxzZSwiYXNrRm9yT3B0aW9uYWxQYXNzd29yZCI6ZmFsc2V9LCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjpmYWxzZX0sIm11bHRpcGxlX2xpbmtzIjp0cnVlLCJleHBpcmVfZGF0ZV9pbnRlcm5hbCI6eyJlbmFibGVkIjpmYWxzZX0sImV4cGlyZV9kYXRlX3JlbW90ZSI6eyJlbmFibGVkIjpmYWxzZX0sInNlbmRfbWFpbCI6ZmFsc2UsInVwbG9hZCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnRydWV9LCJyZXNoYXJpbmciOnRydWUsInVzZXIiOnsic2VuZF9tYWlsIjpmYWxzZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJncm91cF9zaGFyaW5nIjp0cnVlLCJncm91cCI6eyJlbmFibGVkIjp0cnVlLCJleHBpcmVfZGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImRlZmF1bHRfcGVybWlzc2lvbnMiOjIxLCJmZWRlcmF0aW9uIjp7Im91dGdvaW5nIjp0cnVlLCJpbmNvbWluZyI6dHJ1ZSwiZXhwaXJlX2RhdGUiOnsiZW5hYmxlZCI6dHJ1ZX0sImV4cGlyZV9kYXRlX3N1cHBvcnRlZCI6eyJlbmFibGVkIjp0cnVlfX0sInNoYXJlZSI6eyJxdWVyeV9sb29rdXBfZGVmYXVsdCI6ZmFsc2UsImFsd2F5c19zaG93X3VuaXF1ZSI6dHJ1ZX0sInNoYXJlYnltYWlsIjp7ImVuYWJsZWQiOnRydWUsInNlbmRfcGFzc3dvcmRfYnlfbWFpbCI6dHJ1ZSwidXBsb2FkX2ZpbGVzX2Ryb3AiOnsiZW5hYmxlZCI6dHJ1ZX0sInBhc3N3b3JkIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX0sImV4cGlyZV9kYXRlIjp7ImVuYWJsZWQiOnRydWUsImVuZm9yY2VkIjpmYWxzZX19fSwiZm9ybXMiOnsidmVyc2lvbiI6IjIuNS4xIiwiYXBpVmVyc2lvbnMiOlsidjEiLCJ2MS4xIl19LCJmdWxsdGV4dHNlYXJjaCI6eyJyZW1vdGUiOnRydWUsInByb3ZpZGVycyI6W119LCJub3RlcyI6eyJhcGlfdmVyc2lvbiI6WyIwLjIiLCIxLjMiXSwidmVyc2lvbiI6IjQuNS4xIn0sIm5vdGlmaWNhdGlvbnMiOnsib2NzLWVuZHBvaW50cyI6WyJsaXN0IiwiZ2V0IiwiZGVsZXRlIiwiZGVsZXRlLWFsbCIsImljb25zIiwicmljaC1zdHJpbmdzIiwiYWN0aW9uLXdlYiIsInVzZXItc3RhdHVzIl0sInB1c2giOlsiZGV2aWNlcyIsIm9iamVjdC1kYXRhIiwiZGVsZXRlIl0sImFkbWluLW5vdGlmaWNhdGlvbnMiOlsib2NzIiwiY2xpIl19LCJub3RpZnlfcHVzaCI6eyJ0eXBlIjpbImZpbGVzIiwiYWN0aXZpdGllcyIsIm5vdGlmaWNhdGlvbnMiXSwiZW5kcG9pbnRzIjp7IndlYnNvY2tldCI6IndzczpcL1wvbmV4dGNsb3VkLmdyaW4uaHVcL3B1c2hcL3dzIiwicHJlX2F1dGgiOiJodHRwczpcL1wvbmV4dGNsb3VkLmdyaW4uaHVcL2FwcHNcL25vdGlmeV9wdXNoXC9wcmVfYXV0aCJ9fSwicGFzc3dvcmRfcG9saWN5Ijp7Im1pbkxlbmd0aCI6MTAsImVuZm9yY2VOb25Db21tb25QYXNzd29yZCI6dHJ1ZSwiZW5mb3JjZU51bWVyaWNDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVNwZWNpYWxDaGFyYWN0ZXJzIjpmYWxzZSwiZW5mb3JjZVVwcGVyTG93ZXJDYXNlIjpmYWxzZSwiYXBpIjp7ImdlbmVyYXRlIjoiaHR0cHM6XC9cL25leHRjbG91ZC5ncmluLmh1XC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC9nZW5lcmF0ZSIsInZhbGlkYXRlIjoiaHR0cHM6XC9cL25leHRjbG91ZC5ncmluLmh1XC9vY3NcL3YyLnBocFwvYXBwc1wvcGFzc3dvcmRfcG9saWN5XC9hcGlcL3YxXC92YWxpZGF0ZSJ9fSwicHJvdmlzaW9uaW5nX2FwaSI6eyJ2ZXJzaW9uIjoiMS4xNC4wIiwiQWNjb3VudFByb3BlcnR5U2NvcGVzVmVyc2lvbiI6MiwiQWNjb3VudFByb3BlcnR5U2NvcGVzRmVkZXJhdGVkRW5hYmxlZCI6dHJ1ZSwiQWNjb3VudFByb3BlcnR5U2NvcGVzUHVibGlzaGVkRW5hYmxlZCI6dHJ1ZX0sInJlZ2lzdHJhdGlvbiI6eyJlbmFibGVkIjp0cnVlLCJhcGlSb290IjoiXC9vY3NcL3YyLnBocFwvYXBwc1wvcmVnaXN0cmF0aW9uXC9hcGlcL3YxXC8iLCJhcGlMZXZlbCI6InYxIn0sInRoZW1pbmciOnsibmFtZSI6ImdyaW5zY2xvdWQiLCJ1cmwiOiJodHRwczpcL1wvbmV4dGNsb3VkLmdyaW4uaHVcLyIsInNsb2dhbiI6ImtpbmQgb2Ygc2FmZSBob21lIGZvciBzb21lIG9mIHlvdXIgZGF0YSIsImNvbG9yIjoiIzAwODJjOSIsImNvbG9yLXRleHQiOiIjZmZmZmZmIiwiY29sb3ItZWxlbWVudCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWJyaWdodCI6IiMwMDgyYzkiLCJjb2xvci1lbGVtZW50LWRhcmsiOiIjMDA4MmM5IiwibG9nbyI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuZ3Jpbi5odVwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2xvZ28/dXNlU3ZnPTEmdj01IiwiYmFja2dyb3VuZCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuZ3Jpbi5odVwvYXBwc1wvdGhlbWluZ1wvaW1hZ2VcL2JhY2tncm91bmQ/dj01IiwiYmFja2dyb3VuZC1wbGFpbiI6ZmFsc2UsImJhY2tncm91bmQtZGVmYXVsdCI6ZmFsc2UsImxvZ29oZWFkZXIiOiJodHRwczpcL1wvbmV4dGNsb3VkLmdyaW4uaHVcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NSIsImZhdmljb24iOiJodHRwczpcL1wvbmV4dGNsb3VkLmdyaW4uaHVcL2FwcHNcL3RoZW1pbmdcL2ltYWdlXC9sb2dvP3VzZVN2Zz0xJnY9NSJ9LCJ1c2VyX3N0YXR1cyI6eyJlbmFibGVkIjp0cnVlLCJzdXBwb3J0c19lbW9qaSI6dHJ1ZX0sIndlYXRoZXJfc3RhdHVzIjp7ImVuYWJsZWQiOnRydWV9fQ==">
+					<input type="hidden" id="initial-state-theming-data" value="eyJuYW1lIjoiZ3JpbnNjbG91ZCIsInVybCI6Imh0dHBzOlwvXC9uZXh0Y2xvdWQuZ3Jpbi5odVwvIiwic2xvZ2FuIjoia2luZCBvZiBzYWZlIGhvbWUgZm9yIHNvbWUgb2YgeW91ciBkYXRhIiwiY29sb3IiOiIjMDA4MmM5IiwiaW1wcmludFVybCI6IiIsInByaXZhY3lVcmwiOiIiLCJpbnZlcnRlZCI6ZmFsc2UsImNhY2hlQnVzdGVyIjoiNSJ9">
+					<input type="hidden" id="initial-state-accessibility-data" value="eyJjaGVja01lZGlhIjp0cnVlLCJ0aGVtZSI6ZmFsc2UsImhpZ2hjb250cmFzdCI6ZmFsc2V9">
+					<input type="hidden" id="initial-state-comments-maxAutoCompleteResults" value="MTA=">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									grinscloud								</h1>
+																	<img src="/apps/theming/image/logo?useSvg=1&amp;v=5"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+    <div id="alternative-logins" class="alternative-logins">
+                    <a class="button register-button" href="/apps/registration/" >
+                Register            </a>
+            </div>
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nextcloud.grin.hu/" target="_blank" rel="noreferrer noopener" class="entity-name">grinscloud</a> – kind of safe home for some of your data			</p>
+		</footer>
+	</body>
+</html>

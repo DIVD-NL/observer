@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, must-revalidate, private
+Content-Security-Policy-Report-Only: default-src 'self' data: wss: *.google-analytics.com maps.google.com *.tile.openstreetmap.org *.gstatic.com *.googleapis.com checkout.stripe.com js.stripe.com cdn.ravenjs.com sentry.io; style-src 'self' 'unsafe-inline' *.googleapis.com;
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:13:22 GMT
+Expires: Wed, 09 Nov 2022 15:13:22 GMT
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept
+X-Clacks-Overhead: GNU Terry Pratchett
+
+53
+{"code":404,"message":"No route found for \"GET \/crm\/api\/v1\/instance\/peers\""}
+0
+

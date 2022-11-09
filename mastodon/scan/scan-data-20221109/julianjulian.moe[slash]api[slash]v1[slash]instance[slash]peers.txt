@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://julianjulian.moe; img-src 'self' https: data: blob: https://julianjulian.moe; style-src 'self' https://julianjulian.moe 'nonce-gUj4sWVbKXZyf+9rP5uZ8A=='; media-src 'self' https: data: https://julianjulian.moe; frame-src 'self' https:; manifest-src 'self' https://julianjulian.moe; connect-src 'self' data: blob: https://julianjulian.moe https://cdn.masto.host wss://julianjulian.moe; script-src 'self' https://julianjulian.moe; child-src 'self' blob: https://julianjulian.moe; worker-src 'self' blob: https://julianjulian.moe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:43 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.716621Z
+X-Request-Id: 788cf2b0-6ebb-4e6a-97de-a19f2d3a1f26
+X-Runtime: 0.006609
+X-Xss-Protection: 0
+
+0
+

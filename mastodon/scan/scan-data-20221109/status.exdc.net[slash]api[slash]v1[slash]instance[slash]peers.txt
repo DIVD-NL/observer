@@ -1,0 +1,16 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 281
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:20:12 GMT
+Server: Apache/2.4.54 (Debian)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.</p>
+<hr>
+<address>Apache/2.4.54 (Debian) Server at status.exdc.net Port 443</address>
+</body></html>

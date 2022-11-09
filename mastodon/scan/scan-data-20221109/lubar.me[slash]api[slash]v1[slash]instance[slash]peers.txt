@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677793dbaa783c6-BRU
+Content-Type: text/html
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 09 Nov 2022 15:10:09 GMT
+Location: https://mastodon.lubar.me/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Origin-Agent-Cluster: ?1
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RgaQKSNPzZBxv8lKaNtZrHQJS%2B9Q8ecUoNh8Y6IsB665uIJfukc10WOcnVm6cZNPkLQ%2FadJ7gExrb8f2xPpGjz1EMbhGtGv4MscnuYuTuU51cv91MaQbFd%2BOCg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Sec-User-Is-A-Cutie: ?1
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+0
+

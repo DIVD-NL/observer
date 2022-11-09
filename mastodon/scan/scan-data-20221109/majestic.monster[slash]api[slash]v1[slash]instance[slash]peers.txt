@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 34
+Access-Control-Allow-Headers: Accept, Accept-Language, Authorization, Cache-Control, Content-Disposition, Content-Encoding, Content-Language, Content-Length, Content-MD5, Content-Range, Content-Type, Date, Host, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Origin, OriginToken, Pragma, Range, Slug, Transfer-Encoding, Want-Digest, X-MediaBrowser-Token, X-Emby-Token, X-Emby-Client, X-Emby-Client-Version, X-Emby-Device-Id, X-Emby-Device-Name, X-Emby-Authorization
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Private-Network: true
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:29 GMT
+Server: Caddy
+Server: Kestrel
+
+Unable to find the specified file.

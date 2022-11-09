@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://staging.matarillo.com; img-src 'self' https: data: blob: https://staging.matarillo.com; style-src 'self' https://staging.matarillo.com 'nonce-9bgqq2W00rp/I4DuTJUkbg=='; media-src 'self' https: data: https://staging.matarillo.com; frame-src 'self' https:; manifest-src 'self' https://staging.matarillo.com; connect-src 'self' data: blob: https://staging.matarillo.com https://staging.matarillo.com wss://staging.matarillo.com; script-src 'self' https://staging.matarillo.com; child-src 'self' blob: https://staging.matarillo.com; worker-src 'self' blob: https://staging.matarillo.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:14 GMT
+Etag: W/"337104971f0b65ea3a742807421d4038"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.975490Z
+X-Request-Id: a8f4ba64-b2ce-4e0f-8338-2440c860d193
+X-Runtime: 0.015642
+X-Xss-Protection: 0
+
+9d
+["mastodon.cloud","mstdn.maud.io","pawoo.net","port87.social","uncorking.me","eeeeeeeee.eu","commiespace.duckdns.org","pleroma.1d4.us","cheeseburger.social"]
+0
+

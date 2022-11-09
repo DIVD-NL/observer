@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://frisphook.hilciferous.nl; img-src 'self' https: data: blob: https://frisphook.hilciferous.nl; style-src 'self' https://frisphook.hilciferous.nl 'nonce-r+vdOms32opTLd4f3FJXPg=='; media-src 'self' https: data: https://frisphook.hilciferous.nl; frame-src 'self' https:; manifest-src 'self' https://frisphook.hilciferous.nl; connect-src 'self' data: blob: https://frisphook.hilciferous.nl https://frisphook.hilciferous.nl wss://frisphook.hilciferous.nl; script-src 'self' https://frisphook.hilciferous.nl; child-src 'self' blob: https://frisphook.hilciferous.nl; worker-src 'self' blob: https://frisphook.hilciferous.nl
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:51:54 GMT
+Etag: W/"1df8ff22f24a5741a269fc6f3b1736b6"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.943996Z
+X-Request-Id: abc0888b-cf49-4aa1-952f-594510ec7ce8
+X-Runtime: 0.007947
+X-Xss-Protection: 0
+
+ce
+["nondeterministic.computer","vocalounge.cafe","chaos.social","foo.sx","tilde.zone","mstdn.social","cztwitter.cz","hackers.town","fosstodon.org","infosec.exchange","kalaam.hilciferous.nl","mastodon.social"]
+0
+

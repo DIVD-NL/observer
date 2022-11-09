@@ -1,0 +1,24 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.lumbung.space; img-src 'self' https: data: blob: https://social.lumbung.space; style-src 'self' https://social.lumbung.space 'nonce-1EG9DcVshF+LlXl+5pvxmw=='; media-src 'self' https: data: https://social.lumbung.space; frame-src 'self' https:; manifest-src 'self' https://social.lumbung.space; connect-src 'self' data: blob: https://social.lumbung.space https://social.lumbung.space wss://social.lumbung.space; script-src 'self' https://social.lumbung.space; child-src 'self' blob: https://social.lumbung.space; worker-src 'self' blob: https://social.lumbung.space
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:57 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.761252Z
+X-Request-Id: 4de4c7e8-7bc7-47d6-8c3c-a7dd2ded0123
+X-Runtime: 0.004031
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

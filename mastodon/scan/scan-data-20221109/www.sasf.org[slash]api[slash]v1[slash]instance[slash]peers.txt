@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778badc9cb2e20-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:44 GMT
+Location: https://southamptonanimalshelter.com/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PnlRciWtGKCdo1MvT3BLIC2n2Ls%2F1QeEj%2F6CzuzSDNq%2Fi62xtTmhprjljif8LVQOBNYBr5Mfq3ZGzcHsenKFOeN%2BncLk%2FcbMIdMbFFK31Kwu8AK3ganEQh%2BIwwrrqr8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Backend: banner
+
+a1
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 262
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:14:24 GMT
+Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
+Location: https://domains.co.uk/?mdlp_my_domain_list=order-co-uk
+Server: nginx
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: 0301 NC:000000 UP:
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://domains.co.uk/?mdlp_my_domain_list=order-co-uk">here</a>.</p>
+</body></html>

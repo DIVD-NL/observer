@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sisao.de; img-src 'self' https: data: blob: https://mastodon.sisao.de; style-src 'self' https://mastodon.sisao.de 'nonce-8vJZPBbylkMk7Dl5179YGw=='; media-src 'self' https: data: https://mastodon.sisao.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.sisao.de; connect-src 'self' data: blob: https://mastodon.sisao.de https://mastodon.sisao.de wss://mastodon.sisao.de; script-src 'self' https://mastodon.sisao.de 'unsafe-eval'; child-src 'self' blob: https://mastodon.sisao.de; worker-src 'self' blob: https://mastodon.sisao.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:16 GMT
+Etag: W/"c57d6d075744f2fe2c6d00ec20e3d1c6"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.284988Z
+X-Request-Id: db6b102e-688c-48ed-96a7-bdc50bf307fc
+X-Runtime: 0.016043
+X-Xss-Protection: 0
+
+c5
+["troet.cafe","social.bau-ha.us","chaos.social","berlin.social","social.bund.de","muenchen.social","edi.social","nrw.social","mastodon.cloud","det.social","digitalcourage.social","mastodon.social"]
+0
+

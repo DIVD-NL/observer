@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677660b9c89b9ae-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://at.wiki.br; img-src 'self' https: data: blob: https://at.wiki.br; style-src 'self' https://at.wiki.br 'nonce-nzrAz9li1HekBuSgz9vLjw=='; media-src 'self' https: data: https://at.wiki.br; frame-src 'self' https:; manifest-src 'self' https://at.wiki.br; connect-src 'self' data: blob: https://at.wiki.br https://at.wiki.br wss://at.wiki.br; script-src 'self' https://at.wiki.br; child-src 'self' blob: https://at.wiki.br; worker-src 'self' blob: https://at.wiki.br
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:04 GMT
+Etag: W/"4a8f953195080ad5e3863683d25bc994"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gj4Lyha627TISHP5AFr4WuXU6qc%2BDq8o24HAqTW%2FyBnXqF1wiGd0U2aYtfK4TZn2vzNOIhhMgvPxS%2BaYFPQoBGZ1P3AiUuC5lXZgCamrBdegmEZy8ej3ba2pE254"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:40:00.671500Z
+X-Request-Id: 19feb762-bddc-4c3e-91f9-a084440140cc
+X-Runtime: 0.010169
+X-Xss-Protection: 0
+
+58
+["f.iroiro.party","mastodon.social","honk.tedunangst.com","fosstodon.org","bsd.network"]
+0
+

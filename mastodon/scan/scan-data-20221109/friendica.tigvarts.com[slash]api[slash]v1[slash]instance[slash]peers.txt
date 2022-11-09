@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 802
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:24 GMT
+Server: Apache/2.4.54 (Debian)
+Strict-Transport-Security: max-age=31536000
+X-Account-Management-Status: none
+
+["friendica.tigvarts.com","friendica.vrije-mens.org","loma.ml","friendica.a-zwenkau.de","nerdica.net","social.trom.tf","libranet.de","poliverso.org","opensocial.at","social.tromdienste.de","venera.social","social.fedinet.de","kudabiverse.com","friendica.xyz","friendica.utzer.de","letus.inspiredlife.fun","friendica.eskimo.com","anonsys.net","friendica.bachgau.social","onlinegemein.de","f.freinetz.ch","friendicarg.nsupdate.info","friendica.hashy-net.de","etiketi.de","social.softmetz.de","la-verite-vaincra.com","friendica.ru","ibicadi.com","friendica.opensocial.space","nsfw.wnymathguy.com","friendica.me","fika.grin.hu","bronyfurry.com","friendica.opencloud.lu","scl.clttr.info","social.dorf-post.de","piratenpartei.social","social.agb-web.de","social.outsourcedmath.com","friendica.heikosblog.eu"]

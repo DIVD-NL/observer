@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:45 GMT
+Etag: W/"6d08e4fab3877651a582384792d1b590"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:05:00.712419Z
+X-Request-Id: fe551129-4d98-409b-9a9b-c6ee437b71ce
+X-Runtime: 0.006414
+X-Xss-Protection: 1; mode=block
+
+129
+["hom.ph","pleroma.1d4.us","dragon.style","tailswish.industries","gulp.cafe","port87.social","bae.st","pawb.fun","tonybark.com","redwombat.social","thetooniverse.xyz","earfolds.com","home.charon.monster","meow.social","social.singing.dog","unix.dog","eeeeeeeee.eu","mastodon.art","fedi.togen.xyz"]
+0
+

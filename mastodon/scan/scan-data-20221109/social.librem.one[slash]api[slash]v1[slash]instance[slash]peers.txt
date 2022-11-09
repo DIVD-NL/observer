@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.librem.one; img-src 'self' https: data: blob: https://social.librem.one; style-src 'self' 'unsafe-inline' https://social.librem.one; media-src 'self' https: data: https://social.librem.one; frame-src 'self' https:; manifest-src 'self' https://social.librem.one; connect-src 'self' data: blob: https://social.librem.one https://social.librem.one wss://social.librem.one; script-src 'self' https://social.librem.one; worker-src 'self' blob: https://social.librem.one
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:55 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.972174Z
+X-Request-Id: 7ed34dd9-9205-4c2d-944d-b7c57f753059
+X-Runtime: 0.006587
+X-Xss-Protection: 1; mode=block
+
+0
+

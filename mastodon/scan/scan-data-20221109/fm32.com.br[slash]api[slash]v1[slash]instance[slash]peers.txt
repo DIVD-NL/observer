@@ -1,0 +1,90 @@
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677679ebafc2e50-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:08 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CtFnwO6XcxEW0xBtZpw8v%2FEW07Q3MwuuUQKqvB%2B%2F0gWe0wDFA40zNxoB%2BHfRmlMif5BgiP21RGNh7CS9jJNkxvyo8eXQA8j9%2B40gfJceqYvpA%2FQwq7K6f7IAf1ywlA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+626
+<!doctype html>
+<html>
+<head>
+<title>Serviço Fora do Ar!</title>
+<meta charset="utf-8"/>
+<style>
+body {
+  background:rgb(239, 198, 35);
+  background: linear-gradient(
+    135deg,
+    rgba(239, 198, 35, 1) 35%,
+    rgba(255, 234, 10, 1) 100%
+  );
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ flex-wrap: wrap;	
+ overflow:  hidden;
+}
+a{
+  color:black;
+}
+.error-image {
+  max-width: 720px;
+  width: 90%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.error-image h1 {
+  font-size: 120px;
+  margin: 48px auto 20px;
+}
+
+.error-msg-container {
+  margin: 0;
+  max-width: 800px;
+  width: 80%;
+  text-align: center;
+}
+
+.error-msg-container h1 {
+  font-size: 56px;
+  max-width: 560px;
+  margin: auto auto 48px;
+}
+
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KVYVLG832G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KVYVLG832G');
+</script>
+</head>
+<body>
+<div class="error-image">
+  <h1>👷🏾</h1>
+</div>
+<div class="error-msg-container">
+  <h1>Serviço fora do ar!</h1>
+  <p>The service does not exist or is under maintenance, please try <a href="https://felipemateus.com">home page</a>.</p>
+  <p>We apologize for any inconvenience.</p>
+</div>
+</body>
+</html>
+
+0
+

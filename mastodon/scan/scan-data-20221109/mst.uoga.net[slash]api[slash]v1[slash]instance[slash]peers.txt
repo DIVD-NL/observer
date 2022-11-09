@@ -1,0 +1,16 @@
+HTTP/1.1 301 Redirected
+Connection: close
+Content-Length: 135
+Cache-Control: no-transform
+Content-Security-Policy: script-src 'self'
+Content-Type: text/html; charset=utf-8
+Feature-Policy: vibrate 'self'; sync-xhr 'self'
+Location: https://www.aikido-fegersheim.org/api/v1/instance/peers
+Referrer-Policy: strict-origin
+Strict-Transport-Security: max-age=16000000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html><TITLE>Moved</TITLE><P>The document has moved <A HREF="https://www.aikido-fegersheim.org/api/v1/instance/peers">here</A>

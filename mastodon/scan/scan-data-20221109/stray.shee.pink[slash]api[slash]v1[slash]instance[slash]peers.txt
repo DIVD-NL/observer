@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://stray.shee.pink; img-src 'self' https: data: blob: https://stray.shee.pink; style-src 'self' https://stray.shee.pink 'nonce-cB5YC+HEwogtnn/LDaQB5A=='; media-src 'self' https: data: https://stray.shee.pink; frame-src 'self' https:; manifest-src 'self' https://stray.shee.pink; connect-src 'self' data: blob: https://stray.shee.pink https://media.hostdon.ne.jp wss://stray.shee.pink; script-src 'self' https://stray.shee.pink; child-src 'self' blob: https://stray.shee.pink; worker-src 'self' blob: https://stray.shee.pink
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:18 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Status: 404 Not Found
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Powered-By: Phusion Passenger(R) 6.0.12
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.011955Z
+X-Request-Id: 7c682f85-3e23-42af-b404-746866803f5a
+X-Runtime: 0.009297
+X-Xss-Protection: 0
+
+0
+

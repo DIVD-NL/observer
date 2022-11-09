@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778556c928d4a4-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:25 GMT
+Etag: W/"9f1998beee31904b0174971a4632c4c9"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ky2B1e8C2AtYjQsMjvzveP2NzyzWQwlGiYllTKdxB1V43sIct9DRBi5Ui%2FURa61CwSRmyajRogPmCqwx0uM4TQhLgzkjpzUaLYS2wahRjYnkPa4DY7iNx6oVR2fKKJBM4tVeu33zKI6X"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=2.89999989036e-05
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T07:50:00.654134Z
+X-Request-Id: dc5eba06-b3c3-4301-9c8a-3c5aa4c74ff0
+X-Runtime: 0.012934
+X-Xss-Protection: 1; mode=block
+
+4de
+["friendica.myportal.social","kudabiverse.com","bergstrasse.social","redeyes.club","friendica.mschmidt-et.de","steampunk.social","mastodon.online","friendica.offsite.guru","fri.aethercom.de","urbanists.social","friendica.philipp.info","fosstodon.org","nerdculture.de","fed.sonnenmulde.at","friendica.eskimo.com","mastodon.matrix.org","social.badabam.net","floss.social","nerdica.net","functional.cafe","anonsys.net","qoto.org","pztrn.online","hofra.rocks","social.chadwaltercummings.me","friend.geoffray-levasseur.org","social.dev-wiki.de","social.dorf-post.de","social.tchncs.de","friendica.ingram-braun.net","witter.cz","xn--trt-tna.sebtobie.de","f.freinetz.ch","talkabout.cf","mastodon.coffee","g1zm0.social","social.jmueller.eu","tech.lgbt","toot.wales","frnd.nanoscopic.de","social.outsourcedmath.com","t2.thotsofa304.club","mastodon.social","keybored.me","mastodon.gamedev.place","friendica.kommune4.de","scl.clttr.info","aus.social","friendica.hellquist.eu","pirati.ca","toot.community","soc.schuerz.at","mstdn.social","noc.social","f.kretschmann.social","friendica.retronerd.at","quitter.pl","petroskowo.pl","social.johnassel.de","space.rick.gr","scicomm.xyz","mastodon.scot","mas.to","friendica.me","convenient.email","friendica.ucy.de"]
+0
+

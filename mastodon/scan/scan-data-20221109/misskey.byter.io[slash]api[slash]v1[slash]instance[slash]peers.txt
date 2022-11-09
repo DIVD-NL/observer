@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 17
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d535f8783c6-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:56 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MUD98P%2BQJNG4vz6xnepFAmkgH%2BfGmx%2BN9f0os5oS0LHnSyL96vo38jx9rpUL6K5%2BXyuvQ%2FcHRXZlFvba5tS%2BeQX0%2Bm6OyzvZuo5a%2BaxVuQST9l%2FxqoKMWRXTY2GqxTSyRt1T"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+["fosstodon.org"]

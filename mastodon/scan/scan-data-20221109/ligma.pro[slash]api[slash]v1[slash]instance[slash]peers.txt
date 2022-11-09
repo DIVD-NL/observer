@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677790978dcb9a8-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ligma.pro; img-src 'self' https: data: blob: https://ligma.pro; style-src 'self' https://ligma.pro 'nonce-LVsim8WK3jrjAMQcGlL4MQ=='; media-src 'self' https: data: https://ligma.pro; frame-src 'self' https:; manifest-src 'self' https://ligma.pro; connect-src 'self' data: blob: https://ligma.pro https://ligma.pro wss://ligma.pro; script-src 'self' https://ligma.pro; child-src 'self' blob: https://ligma.pro; worker-src 'self' blob: https://ligma.pro
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:01 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Hw5w%2FUn3xyXANRgK5x3LWWBSovmg300iC1yjIz7evEHr%2Fk1zJzyMoErI0Mo3ybRhxsowj0%2Fn1VIg8oomHw6I%2F0hpt%2BS5%2FfUTw%2B1lhJODqZ6q3uWp0eb2DxqsY1A%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.632033Z
+X-Request-Id: 51ab4abf-b83e-48fd-9f4a-d26be0e8cf20
+X-Runtime: 0.006043
+X-Xss-Protection: 0
+
+0
+

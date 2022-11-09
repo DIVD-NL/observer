@@ -1,0 +1,270 @@
+HTTP/1.1 503 System zur Wartung abgeschaltet
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:25 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache/2.4.29 (Ubuntu)
+Set-Cookie: PHPSESSID=nkg1d0j7mhmb309bipjqeim0fu; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=15768000
+Upgrade: h2
+X-Account-Management-Status: none
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Friendica-Version: 2022.06
+X-Permitted-Cross-Domain-Policies: none
+X-Response-Type: html
+X-Xss-Protection: 1; mode=block
+
+2939
+<!DOCTYPE html >
+<html itemscope itemtype="http://schema.org/Blog" lang="de">
+<head>
+  <title>Friendica Social Network | Api</title>
+  <script>var baseurl="https://friendica.testitfor.me";</script>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<base href="https://friendica.testitfor.me/" />
+<meta name="generator" content="Friendica 2022.06" />
+<link rel="stylesheet" href="view/global.css?v=2022.06" type="text/css" media="all" />
+<link rel="stylesheet" href="view/asset/jquery-colorbox/example5/colorbox.css?v=2022.06" type="text/css" media="screen" />
+<link rel="stylesheet" href="view/asset/jgrowl/jquery.jgrowl.min.css?v=2022.06" type="text/css" media="screen" />
+<link rel="stylesheet" href="view/asset/jquery-datetimepicker/build/jquery.datetimepicker.min.css?v=2022.06" type="text/css" media="screen" />
+<link rel="stylesheet" href="view/asset/perfect-scrollbar/dist/css/perfect-scrollbar.min.css?v=2022.06" type="text/css" media="screen" />
+
+	<link rel="stylesheet" href="view/theme/vier/style.pcss?v=2022.06" type="text/css" media="screen" />
+
+<link rel="icon" href="images/friendica.svg" />
+<link rel="apple-touch-icon" href="images/friendica-192.png"/>
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="manifest" href="https://friendica.testitfor.me/manifest" />
+<script>
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+// Prevents links to switch to Safari in a home screen app - see https://gist.github.com/irae/1042167
+(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(chref=d.href).replace("https://friendica.testitfor.me/", "").replace(e.href,"").indexOf("#")&&(!/^[a-z\+\.\-]+:/i.test(chref)||chref.indexOf(e.protocol+"//"+e.host)===0)&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone");
+// |license-end
+</script>
+
+<link rel="search"
+         href="https://friendica.testitfor.me/opensearch"
+         type="application/opensearchdescription+xml"
+         title="Search in Friendica" />
+
+<!--[if IE]>
+<script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js?v=2022.06"></script>
+<![endif]-->
+<script type="text/javascript" src="view/js/modernizr.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/jquery/dist/jquery.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/js/jquery.textinputs.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/textcomplete/dist/textcomplete.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/js/autocomplete.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/jquery-colorbox/jquery.colorbox-min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/jgrowl/jquery.jgrowl.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/jquery-datetimepicker/build/jquery.datetimepicker.full.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/imagesloaded/imagesloaded.pkgd.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/base64/base64.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/asset/dompurify/dist/purify.min.js?v=2022.06"></script>
+<script type="text/javascript" src="view/js/main.js?v=2022.06"></script>
+<script>
+
+	// Lifted from https://css-tricks.com/snippets/jquery/move-cursor-to-end-of-textarea-or-input/
+    jQuery.fn.putCursorAtEnd = function() {
+        return this.each(function() {
+            // Cache references
+            var $el = $(this),
+                el = this;
+
+            // Only focus if input isn't already
+            if (!$el.is(":focus")) {
+                $el.focus();
+            }
+
+            // If this function exists... (IE 9+)
+            if (el.setSelectionRange) {
+                // Double the length because Opera is inconsistent about whether a carriage return is one character or two.
+                var len = $el.val().length * 2;
+
+                // Timeout seems to be required for Blink
+                setTimeout(function() {
+                    el.setSelectionRange(len, len);
+                }, 1);
+            } else {
+                // As a fallback, replace the contents with itself
+                // Doesn't work in Chrome, but Chrome supports setSelectionRange
+                $el.val($el.val());
+            }
+
+            // Scroll to the bottom, in case we're in a tall textarea
+            // (Necessary for Firefox and Chrome)
+            this.scrollTop = 999999;
+        });
+    };
+
+    var updateInterval = 40000;
+	var localUser = false;
+
+	function confirmDelete() { return confirm("Diesen Beitrag löschen?"); }
+	function commentExpand(id) {
+		$("#comment-edit-text-" + id).putCursorAtEnd();
+		$("#comment-edit-text-" + id).addClass("comment-edit-text-full");
+		$("#comment-edit-text-" + id).removeClass("comment-edit-text-empty");
+		$("#mod-cmnt-wrap-" + id).show();
+		openMenu("comment-edit-submit-wrapper-" + id);
+		return true;
+	}
+	function commentOpen(obj,id) {
+		if (obj.value == "") {
+			$("#comment-edit-text-" + id).addClass("comment-edit-text-full");
+			$("#comment-edit-text-" + id).removeClass("comment-edit-text-empty");
+			$("#mod-cmnt-wrap-" + id).show();
+			openMenu("comment-edit-submit-wrapper-" + id);
+			return true;
+		}
+		return false;
+	}
+	function commentClose(obj,id) {
+		if (obj.value == "") {
+			$("#comment-edit-text-" + id).removeClass("comment-edit-text-full");
+			$("#comment-edit-text-" + id).addClass("comment-edit-text-empty");
+			$("#mod-cmnt-wrap-" + id).hide();
+			closeMenu("comment-edit-submit-wrapper-" + id);
+			return true;
+		}
+		return false;
+	}
+
+
+	function commentInsert(obj,id) {
+		var tmpStr = $("#comment-edit-text-" + id).val();
+		if (tmpStr == "") {
+			$("#comment-edit-text-" + id).addClass("comment-edit-text-full");
+			$("#comment-edit-text-" + id).removeClass("comment-edit-text-empty");
+			openMenu("comment-edit-submit-wrapper-" + id);
+		}
+		var ins = $(obj).html();
+		ins = ins.replace("&lt;","<");
+		ins = ins.replace("&gt;",">");
+		ins = ins.replace("&amp;","&");
+		ins = ins.replace("&quot;","\"");
+		$("#comment-edit-text-" + id).val(tmpStr + ins);
+	}
+
+	function showHideCommentBox(id) {
+		if ($("#comment-edit-form-" + id).is(":visible")) {
+			$("#comment-edit-form-" + id).hide();
+		} else {
+			$("#comment-edit-form-" + id).show();
+		}
+	}
+
+
+</script>
+
+
+<link rel='stylesheet' type='text/css' href='view/theme/vier/narrow.css' media='screen and (max-width: 1100px)' />
+<script type="text/javascript">
+function showThread(id) {
+	$("#collapsed-comments-" + id).show()
+	$("#collapsed-comments-" + id + " .collapsed-comments").show()
+}
+function hideThread(id) {
+	$("#collapsed-comments-" + id).hide()
+	$("#collapsed-comments-" + id + " .collapsed-comments").hide()
+}
+
+function cmtBbOpen(id) {
+	$("#comment-edit-bb-" + id).show();
+}
+function cmtBbClose(id) {
+	$("#comment-edit-bb-" + id).hide();
+}
+</script><script>
+$(document).ready(function() {
+	$("#nav-search-text").search_autocomplete(baseurl + '/search/acl');
+});
+</script>
+</head>
+<body>
+	<div id="panel" style="display: none;"></div><header>
+	
+	<div id="site-location">friendica.testitfor.me</div>
+	<div id="banner"><a href="https://friendi.ca"><img id="logo-img" src="images/friendica-32.png" alt="logo" /></a><span id="logo-text"><a href="https://friendi.ca">Friendica</a></span></div>
+</header>
+<nav role="menubar">
+	<ul>
+		<li class="mobile-aside-toggle" style="display:none;">
+			<a href="#">
+				<i class="icons icon-reorder"></i>
+			</a>
+		</li>
+					<li role="menuitem" id="nav-home-link" class="nav-menu ">
+				<a accesskey="p" class="" href="" title="Homepage">
+					<span class="desktop-view">Pinnwand</span>
+					<i class="icon s22 icon-home mobile-view"><span class="sr-only">Pinnwand</span></i>
+					<span id="home-update" class="nav-notification"></span>
+				</a>
+			</li>
+											<li role="menuitem" id="nav-community-link" class="nav-menu ">
+				<a accesskey="c" class=" desktop-view" href="community" title="Unterhaltungen auf diesem und anderen Servern">Gemeinschaft</a>
+				<a class=" mobile-view" href="community" title="Unterhaltungen auf diesem und anderen Servern"><i class="icon s22 icon-bullseye"></i></a>
+			</li>
+		
+		<li role="menu" aria-haspopup="true" id="nav-site-linkmenu" class="nav-menu-icon"><a><span class="icon s22 icon-question"><span class="sr-only">Hilfe und Dokumentation</span></span></a>
+			<ul id="nav-site-menu" class="menu-popup">
+				 <li role="menuitem"><a class="" href="help" title="Hilfe und Dokumentation">Hilfe</a></li>				<li role="menuitem"><a class="" href="friendica" title="Informationen zu dieser Friendica-Instanz">Information</a></li>
+				<a class="" href="tos" title="Die Nutzungsbedingungen dieser Friendica-Instanz">Nutzungsbedingungen</a></li>				<li role="menuitem"><a class="" href="directory" title="Nutzerverzeichnis">Verzeichnis</a></li>
+			</ul>
+		</li>
+
+		
+
+		
+		
+					<li role="menuitem" id="nav-login-link" class="nav-menu">
+				<a class="" href="login" title="Anmelden">Anmeldung</a>
+			</li>
+				
+					<li role="search" id="nav-search-box">
+				<form method="get" action="search">
+					<input accesskey="s" id="nav-search-text" class="nav-menu-search" type="text" value="" name="q" placeholder=" @name, !forum, #tags, content">
+					<select name="search-option">
+						<option value="fulltext">Volltext</option>
+						<option value="tags">Tags</option>
+						<option value="contacts">Kontakte</option>
+											</select>
+				</form>
+			</li>
+		
+		
+			</ul>
+
+</nav>
+
+<!--
+<div class="icon-flag" style="position: fixed; bottom: 10px; left: 20px; z-index:9;"></div>
+-->
+	<aside></aside>
+	<section>
+		<div id="exception" class="generic-page-wrapper">
+    <img class="hare" src="images/friendica-404_svg_flexy-o-hare.png"/>
+    <h1>System zur Wartung abgeschaltet</h1>
+    <p>Diese Friendica Instanz befindet sich derzeit im Wartungsmodus, entweder aufgrund von automatischen Updateprozessen oder weil die Administratoren der Instanz den Wartungsmodus aktiviert haben. Dies sollte ein vorübergehender Zustand sein. Bitte versuche es in ein paar Minuten erneut.</p>
+</div>
+		<div id="pause"></div> <!-- The pause/resume Ajax indicator -->
+		<div id="page-footer"></div>
+	</section>
+	<right_aside></right_aside>
+	<footer></footer>
+</body>
+</html>
+
+0
+

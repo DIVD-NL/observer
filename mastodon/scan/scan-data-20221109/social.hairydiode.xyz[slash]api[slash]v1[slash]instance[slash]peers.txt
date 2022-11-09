@@ -1,0 +1,34 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Content-Length: 805
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:18:32 GMT
+Vary: Origin
+X-Request-Id: e50599fd-ef82-4448-866f-915da92e2f1e
+X-Runtime: 0.004305
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/css/common-3b6f0848.css" />
+<link rel="stylesheet" media="all" href="/packs/css/default-e8d94dfe.chunk.css" />
+<script src="/packs/js/common-bb9ae0a28263209667db.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-597ab7e4337275b9c6a5.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>Lakuretoria!
+</h1>
+</div>
+</div>
+</body>
+</html>

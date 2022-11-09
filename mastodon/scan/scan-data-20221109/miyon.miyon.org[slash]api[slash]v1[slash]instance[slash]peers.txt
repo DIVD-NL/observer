@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://miyon.miyon.org; img-src 'self' https: data: blob: https://miyon.miyon.org; style-src 'self' https://miyon.miyon.org 'nonce-0cJAjBNRN+oJKfwgDTDioQ=='; media-src 'self' https: data: https://miyon.miyon.org; frame-src 'self' https:; manifest-src 'self' https://miyon.miyon.org; connect-src 'self' data: blob: https://miyon.miyon.org https://cdn.masto.host wss://miyon.miyon.org; script-src 'self' https://miyon.miyon.org; child-src 'self' blob: https://miyon.miyon.org; worker-src 'self' blob: https://miyon.miyon.org
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:06 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.826957Z
+X-Request-Id: b37e9e98-139c-4221-990c-f93bb165aed0
+X-Runtime: 0.006657
+X-Xss-Protection: 0
+
+0
+

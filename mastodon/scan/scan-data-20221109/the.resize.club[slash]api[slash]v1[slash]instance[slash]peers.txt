@@ -1,0 +1,39 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:47 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: 169fd355-df09-4190-bea2-b37ecb835012
+X-Runtime: 0.005564
+X-Xss-Protection: 1; mode=block
+
+272
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>The page you were looking for doesn&#39;t exist.
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/common-4bc00768d762d6cbabd9.css" />
+<link rel="stylesheet" media="all" href="/packs/default-4bc00768d762d6cbabd9.css" />
+</head>
+<body class='error'>
+<div class='dialog'>
+<img alt='Mastodon' src='/oops.gif'>
+<div>
+<h1>The page you were looking for doesn&#39;t exist.
+</h1>
+</div>
+</div>
+</body>
+</html>
+
+0
+

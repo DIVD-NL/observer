@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.selfmade4u.de; img-src 'self' https: data: blob: https://mastodon.selfmade4u.de; style-src 'self' https://mastodon.selfmade4u.de 'nonce-RzwhP0DySzDJW4DssZVveg=='; media-src 'self' https: data: https://mastodon.selfmade4u.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.selfmade4u.de; connect-src 'self' data: blob: https://mastodon.selfmade4u.de https://mastodon.selfmade4u.de wss://mastodon.selfmade4u.de; script-src 'self' https://mastodon.selfmade4u.de 'unsafe-eval'; child-src 'self' blob: https://mastodon.selfmade4u.de; worker-src 'self' blob: https://mastodon.selfmade4u.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:12 GMT
+Etag: W/"4f53cda18c2baa0c0354bb5f9a3ecbe5"
+Permissions-Policy: interest-cohort=()
+Server: istio-envoy
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 29
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 245
+X-Ratelimit-Reset: 2022-11-09T15:15:00.715676Z
+X-Request-Id: deefcc80-bf27-4155-95ea-90bfedcfb18c
+X-Runtime: 0.025645
+X-Xss-Protection: 0
+
+2
+[]
+0
+

@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d3b4fa183cf-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://mimicaw.dinoleaf.com wss://mimicaw.dinoleaf.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:53 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KkigT%2BqlNpEAkRcPIIygvFPZraZ6m9HrHJJm9oWZD3fQt845rX3L%2F5gRF4tjq7IqVqhdricm7Mu8YaERONQqss4%2Btugk2w3LmayuIG1wTPQZVc2ZV2IXO3qKlzQuE6UFiFpi8eizoQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzUpngGlPENYkAA2kx
+X-Xss-Protection: 1; mode=block
+
+6d6
+["friendica.utzer.de","cybre.space","toot.site","amicable.social","quitter.pl","linuxrocks.online","mastodon.social","friendica.jb-net.us","mastodon.memclash.com","mamot.fr","mastodon.grin.hu","mastodon.la","social.tchncs.de","mastodon.zaclys.com","lor.sh","social.softmetz.de","aus.social","pirati.ca","floss.social","social.isurf.ca","libranet.de","social.broers.me","mastodon.tedomum.net","f.freinetz.ch","mastodon.lt","eeeeeeeee.eu","mastodon.art","squeet.me","friendica.eskimo.com","ieji.de","mastodon.anzui.dev","nrw.social","social.cybre.town","social.kjv.online","diaspodon.fr","friendica.ellih.eu","friendica.gidikroon.eu","framapiaf.org","mastodon.technology","troet.cafe","noovi.org","masto.1146.nohost.me","social.linux.pizza","masto.nobigtech.es","koyu.space","gamedev.lgbt","pztrn.online","bitcoinhackers.org","bsd.network","liberdon.com","dis-le.de","friendica.vrije-mens.org","wintermute.fr.to","nerdica.net","mastodon.ml","social.trom.tf","mastodon.desmu.fr","friendica.argentwolf.org","mas.to","the.shitposting.network","etiketi.de","mastodon.uno","baraag.net","mastodon.online","friendica.verya.pe","mstdn.io","social.librem.one","social.cool110.xyz","mastodon.sdf.org","friendica.bdeshi.space","mast.aaron.place","chaos.social","eattherich.club","friendica.xyz","canic.us","tech.lgbt","unmedicated.schizoid.social","shitposting.army","venera.social","tilde.zone","mastodontech.de","sneed.network","relay.schizoid.social","cathode.church","mastodont.cat","mastodon.bida.im","gazette.live","hunk.city","g1zm0.social","libertalia.world","f.haeder.net","mastodon.linuxbox.ninja","mastodon.gamedev.place","mstdn.social","fosstodon.org","friendica.hubup.pro","freeradical.zone","social.saarland","anonsys.net","social.yl.ms","mstdn.mx"]
+0
+

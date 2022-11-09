@@ -1,0 +1,24 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://gillooly.masto.host; img-src 'self' https: data: blob: https://gillooly.masto.host; style-src 'self' https://gillooly.masto.host 'nonce-qq+UeWuwezfhlmK0DnO8Ig=='; media-src 'self' https: data: https://gillooly.masto.host; frame-src 'self' https:; manifest-src 'self' https://gillooly.masto.host; connect-src 'self' data: blob: https://gillooly.masto.host https://cdn.masto.host wss://gillooly.masto.host; script-src 'self' https://gillooly.masto.host; child-src 'self' blob: https://gillooly.masto.host; worker-src 'self' blob: https://gillooly.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:02:45 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.718236Z
+X-Request-Id: a4e2ac22-1e33-47a7-aafe-ca5ea6502d33
+X-Runtime: 0.005676
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

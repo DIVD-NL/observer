@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:46 GMT
+Etag: W/"2a3207c8af47205cec427d084111e033"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:10:00.786738Z
+X-Request-Id: 26fbfc4b-43f3-4ede-b353-4c7e8b08db91
+X-Runtime: 0.014562
+X-Xss-Protection: 1; mode=block
+
+155
+["mastodon.ie","fosstodon.org","nerdculture.de","tilde.zone","toot.cafe","mastodon.online","writing.exchange","mastodon.social","johnholdun.com","kolektiva.social","phpc.social","mastodon.gamedev.place","oslo.town","mas.to","masthead.social","mastodonapp.uk","mastodon.cloud","mastodon.lol","ravenation.club","toot.community","mstdn.social"]
+0
+

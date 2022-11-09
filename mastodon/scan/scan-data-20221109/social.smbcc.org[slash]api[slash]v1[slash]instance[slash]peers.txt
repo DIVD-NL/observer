@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.smbcc.org; img-src 'self' https: data: blob: https://social.smbcc.org; style-src 'self' https://social.smbcc.org 'nonce-ixYUarDQN9+Lkfy66/kdgQ=='; media-src 'self' https: data: https://social.smbcc.org; frame-src 'self' https:; manifest-src 'self' https://social.smbcc.org; connect-src 'self' data: blob: https://social.smbcc.org https://social.smbcc.org wss://social.smbcc.org; script-src 'self' https://social.smbcc.org; child-src 'self' blob: https://social.smbcc.org; worker-src 'self' blob: https://social.smbcc.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:35 GMT
+Etag: W/"e38524e41501af4e565daad96af95748"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:05:00.761642Z
+X-Request-Id: dae991f6-3cc2-41ff-8f99-da81f5e53825
+X-Runtime: 0.024835
+X-Xss-Protection: 0
+
+14
+["infosec.exchange"]
+0
+

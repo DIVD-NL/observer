@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.stellj.es; img-src 'self' https: data: blob: https://mastodon.stellj.es; style-src 'self' https://mastodon.stellj.es 'nonce-QVxZb3O8JHRSRKQ2vuYXng=='; media-src 'self' https: data: https://mastodon.stellj.es; frame-src 'self' https:; manifest-src 'self' https://mastodon.stellj.es; connect-src 'self' data: blob: https://mastodon.stellj.es https://mastodon.stellj.es wss://mastodon.stellj.es; script-src 'self' https://mastodon.stellj.es; child-src 'self' blob: https://mastodon.stellj.es; worker-src 'self' blob: https://mastodon.stellj.es
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:19 GMT
+Etag: W/"f931a7c2e603ab811f345cf01f3edda5"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T17:40:00.190562Z
+X-Request-Id: f28084a8-5240-4213-a2e5-19225c3b2a27
+X-Runtime: 0.008080
+X-Xss-Protection: 0
+
+1d6
+["oliphant.social","masthead.social","ioc.exchange","mastodon.radio","nerdculture.de","henshaw.org","counter.social","hachyderm.io","anticapitalist.party","mastodon.sdf.org","shaktzu.org","mstdn.jp","todon.eu","mastodon.lol","mastodon.nu","kolektiva.social","infosec.exchange","manyworlds.fit","mas.to","aleph.land","aus.social","mastodon.online","mstdn.social","mastodon.social","journa.host","indieweb.social","social.lol","toot.community","mastodon.cloud","masto.ai"]
+0
+

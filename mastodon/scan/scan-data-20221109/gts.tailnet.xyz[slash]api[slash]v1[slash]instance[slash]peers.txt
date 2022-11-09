@@ -1,0 +1,72 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767772bd9e7b2e4a-BRU
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:05:43 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tWTP%2BXQ5QqQ9HZ0vByNAXgtFvTURN2OCWhywGxaftt9TOxgCABk6Wllchwh065q4QHCjQBqGlv50xiWTGWMxZw1rSp0kAXcUkEw0%2BMwJTrR1ngEizgoNYTUuOZzpA3fHqUo%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 956
+X-Ratelimit-Reset: 1668006412
+
+546
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex, nofollow">
+	<link rel="shortcut icon" href="https://gts.tailnet.xyz/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>Tailnet - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="https://gts.tailnet.xyz/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						Tailnet
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.1-SNAPSHOT git-ad08c6c</span>
+				</a>
+			</div>
+			 
+				<div id="contact">
+					Contact: <a href="https://gts.tailnet.xyz/@bq" class="nounderline">bq</a><br>
+				</div>
+			
+			
+		</footer>
+	</div>
+	
+</body>
+</html>
+0
+

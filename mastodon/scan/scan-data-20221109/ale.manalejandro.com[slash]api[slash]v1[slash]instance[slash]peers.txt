@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, PUT, POST, OPTIONS
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src https: wss: 'unsafe-inline' 'unsafe-eval'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' *; img-src 'self' data: https: http:; font-src 'self' data:; object-src 'none'; media-src 'self' data: https:;frame-ancestors 'self' *
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Location: https://manalejandro.com
+Permissions-Policy: autoplay=*, camera=*, display-capture=*, fullscreen=*, microphone=*, picture-in-picture=*
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload; always;
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

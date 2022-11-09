@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.winter.ink; img-src 'self' https: data: blob: https://social.winter.ink; style-src 'self' https://social.winter.ink 'nonce-LwkhQ+piDGpqmTFab9AaQg=='; media-src 'self' https: data: https://social.winter.ink; frame-src 'self' https:; manifest-src 'self' https://social.winter.ink; connect-src 'self' data: blob: https://social.winter.ink https://cdn.masto.host wss://social.winter.ink; script-src 'self' https://social.winter.ink; child-src 'self' blob: https://social.winter.ink; worker-src 'self' blob: https://social.winter.ink
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:57 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.362085Z
+X-Request-Id: 386177ca-d8aa-4aa2-86cc-8d3c91d0e292
+X-Runtime: 0.006857
+X-Xss-Protection: 0
+
+0
+

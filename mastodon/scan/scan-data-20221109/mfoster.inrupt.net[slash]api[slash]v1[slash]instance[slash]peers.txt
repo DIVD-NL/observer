@@ -1,0 +1,16 @@
+HTTP/1.1 401 Unauthenticated
+Connection: close
+Content-Length: 518
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: Authorization, User, Location, Link, Vary, Last-Modified, ETag, Accept-Patch, Accept-Post, Updates-Via, Allow, WAC-Allow, Content-Length, WWW-Authenticate, MS-Author-Via, X-Powered-By
+Allow: OPTIONS, HEAD, GET, PATCH, POST, PUT, DELETE
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:46 GMT
+Etag: W/"206-xCiV93Ib7zZMvlx2QrYqI4/HGWc"
+Vary: Accept, Authorization, Origin
+Www-Authenticate: Bearer realm="https://inrupt.net", scope="openid webid"
+X-Powered-By: solid-server/5.7.3
+
+<!doctype html><html><head><meta charset="utf-8"/><title>SolidOS Web App</title><script>document.addEventListener('DOMContentLoaded', function() {
+        panes.runDataBrowser()
+      })</script><script defer="defer" src="/mashlib.min.js"></script><link href="/mash.css" rel="stylesheet"></head><body id="PageBody"><header id="PageHeader"></header><div class="TabulatorOutline" id="DummyUUID" role="main"><table id="outline"></table><div id="GlobalDashboard"></div></div><footer id="PageFooter"></footer></body></html>

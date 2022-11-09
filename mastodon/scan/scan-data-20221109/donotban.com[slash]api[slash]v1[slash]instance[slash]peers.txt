@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://donotban.com; img-src 'self' https: data: blob: https://donotban.com; style-src 'self' https://donotban.com; media-src 'self' https: data: https://donotban.com; frame-src 'self' https:; manifest-src 'self' https://donotban.com; connect-src 'self' data: blob: https://donotban.com https://s3-ap-southeast-1.amazonaws.com wss://donotban.com; script-src 'self' https://donotban.com; child-src 'self' blob: https://donotban.com; worker-src 'self' blob: https://donotban.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:42 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T15:00:00.803616Z
+X-Request-Id: 675095d6-55f6-46c6-bc2a-f43fa8b0d3ee
+X-Runtime: 0.020794
+X-Xss-Protection: 1; mode=block
+
+0
+

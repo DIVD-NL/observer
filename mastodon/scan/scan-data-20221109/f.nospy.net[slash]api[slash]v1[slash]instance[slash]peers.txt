@@ -1,0 +1,61 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: data: blob: ; object-src https: data: 'unsafe-inline'; style-src https: data: 'unsafe-inline' ; script-src https: data: 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Permissions-Policy: interest-cohort=()
+Server: openresty
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+560
+<!DOCTYPE html>
+<!-- Request ID: Y0ASRHf4 -->
+<html>
+  <head>
+    <title>Page not found</title>
+    <style>
+      a img {
+        border: 0;
+      }
+      body {
+        background-color: #caecf6;
+      }
+      #noraptor {
+        left: 0%;
+        position: fixed;
+        top: 60%;
+      }
+      #notfound {
+        background: url(/mojo/notfound.png);
+        height: 62px;
+        left: 50%;
+        margin-left: -153px;
+        margin-top: -31px;
+        position:absolute;
+        top: 50%;
+        width: 306px;
+      }
+    </style>
+  <script type="text/javascript" src="/ynh_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynh_overlay.css"><script type="text/javascript" src="/ynhtheme/custom_portal.js"></script><link type="text/css" rel="stylesheet" href="/ynhtheme/custom_overlay.css"></head>
+  <body>
+    <a href="https://f.nospy.net">
+      <img alt="Bye!" id="noraptor" src="/mojo/noraptor.png">
+</a>    <div id="notfound"></div>
+  </body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+0
+

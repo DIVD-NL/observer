@@ -1,0 +1,30 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766fdcad7b9ab-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:43 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=O8nC67Qdlu0QCERqWLP%2FdjT5q8%2B8O9CEu9GzsuHXEKML1rZrktNv7xT%2BeMJmDBd66hm%2BwWwUaot0E%2BMjv7CT5GJ%2BjiCTwIjZ%2F7fpQdZ7KfS2m6ozFbaqvut2G2BduaQ6HsweBPp9KQ10"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+fb
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <title>410 Gone (サ終)</title>
+</head>
+
+<body style='text-align: center;'>
+  <img src='410.svg' alt='410 Gone' style='height: 20rem;'>
+  <hr>ﾆﾝｼﾞﾝｴｷｽ/47.47.0
+</body>
+
+</html>
+
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sygil.org; img-src 'self' https: data: blob: https://mastodon.sygil.org; style-src 'self' https://mastodon.sygil.org 'nonce-SNL7aLjNbb3KqkvBNLashg=='; media-src 'self' https: data: https://mastodon.sygil.org; frame-src 'self' https:; manifest-src 'self' https://mastodon.sygil.org; connect-src 'self' data: blob: https://mastodon.sygil.org https://mastodon.sygil.org wss://mastodon.sygil.org; script-src 'self' https://mastodon.sygil.org; child-src 'self' blob: https://mastodon.sygil.org; worker-src 'self' blob: https://mastodon.sygil.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:18 GMT
+Etag: W/"07362c227e6d3d0e97a27fe11db8f04d"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T01:10:00.190401Z
+X-Request-Id: afb42bf7-1a91-4908-ba2b-d18622f99575
+X-Runtime: 0.005110
+X-Xss-Protection: 0
+
+35f
+["overheard.social","social.shorkpit.xyz","social.satan-speaks.com","relay.fedibird.com","mamot.fr","mastodon.iriseden.eu","misskey.cf","illuminada.io","mastodon.crazynewworld.net","mastodon.uy","misskey.na2na.dev","kanoa.de","mastodon.social","mstdn.ca","social.cologne","mastodon.kitchen","fedibird.com","toot.blue","borg.social","koyu.space","drdr.club","yellowmustard.club","mastodon.holeyfox.co","mastouille.fr","mastodonmusic.social","mastodon.top","g0v.social","mk.shatteredpalisa.de","lizards.live","eurovision.social","mastodonapp.uk","misskey.io","hackers.town","nangang.travnewmatic.com","lipsia.casa","mk.lei202.com","mastodon.bloonface.com","msky.h3z.jp","frennet.xyz","simkey.net","mastodon.trueten.de","mk2.mstdn.life","kokonect.link","mk.f72u.net","miss.mouse.services","berserker.town","storo.social","social.hispabot.freemyip.com","skynate.net"]
+0
+

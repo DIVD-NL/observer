@@ -1,0 +1,144 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Age: 325537
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: public, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777893fa7783e7-BRU
+Content-Disposition: inline; filename="index.html"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:42 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=62Zq%2FUYDUCrdT8UgWib0b5rqtNlnqrONTDBTmjZRYG3HfMOzHXZ35%2B%2B2aJgOxjaTz6EWt2U5ZDpgU86t2uJm2vvZlDvcamBxJox6PgJsFrCEuFINyHC0huW2NUyTwCTw0A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000
+X-Vercel-Cache: HIT
+X-Vercel-Id: cdg1:cdg1::xkrmq-1668006582433-4db092f2ac1c
+
+3462
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="generator" content="Astro v1.5.0">
+<title>Joshua David Thomas</title>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<script defer data-domain="joshthomas.dev" data-api="/bloodhound/api/event" src="https://joshthomas.dev/bloodhound/js/script.js"></script>
+<script>
+    let mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+
+    function updateTheme(savedTheme) {
+      let theme = "system";
+      try {
+        if (!savedTheme) {
+          savedTheme = window.localStorage.theme;
+        }
+        if (savedTheme === "dark") {
+          theme = "dark";
+          document.documentElement.classList.add("dark");
+        } else if (savedTheme === "light") {
+          theme = "light";
+          document.documentElement.classList.remove("dark");
+        } else if (mediaQuery.matches) {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.remove("dark");
+        }
+      } catch {
+        theme = "light";
+        document.documentElement.classList.remove("dark");
+      }
+      return theme;
+    }
+
+    function updateThemeWithoutTransitions(savedTheme) {
+      updateTheme(savedTheme);
+      document.documentElement.classList.add("[&_*]:!transition-none");
+      window.setTimeout(() => {
+        document.documentElement.classList.remove("[&_*]:!transition-none");
+      }, 0);
+    }
+
+    document.documentElement.setAttribute("data-theme", updateTheme());
+
+    new MutationObserver(([{ oldValue }]) => {
+      let newValue = document.documentElement.getAttribute("data-theme");
+      if (newValue !== oldValue) {
+        try {
+          window.localStorage.setItem("theme", newValue);
+        } catch {}
+        updateThemeWithoutTransitions(newValue);
+      }
+    }).observe(document.documentElement, {
+      attributeFilter: ["data-theme"],
+      attributeOldValue: true,
+    });
+
+    mediaQuery.addEventListener("change", updateThemeWithoutTransitions);
+    window.addEventListener("storage", updateThemeWithoutTransitions);
+    console.log(
+      "Layout theme",
+      document.documentElement.getAttribute("data-theme")
+    );
+  </script>
+<link rel="stylesheet" href="/assets/index.aa147cc9.css" /><script type="module" src="/page.3aa82516.js"></script></head>
+<body class="container max-w-4xl mx-auto text-gray-800 dark:text-gray-100 bg-gray-50 dark:bg-gray-800">
+<header class="flex items-center justify-between px-4 pt-6 text-lg font-semibold">
+<nav>
+<div class="items-center hidden space-x-4 text-sm sm:flex">
+<a href="/" class="uppercase hover:underline">
+home
+</a><a href="/snippets" class="uppercase hover:underline">
+snippets
+</a>
+</div>
+<style>astro-island,astro-slot{display:contents}</style><script>(self.Astro=self.Astro||{}).visible=(s,c,n)=>{const r=async()=>{await(await s())()};let i=new IntersectionObserver(e=>{for(const t of e)if(!!t.isIntersecting){i.disconnect(),r();break}});for(let e=0;e<n.children.length;e++){const t=n.children[e];i.observe(t)}},window.dispatchEvent(new Event("astro:visible"));var l;{const c={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,s)=>{if(t===""||!Array.isArray(s))return s;const[e,n]=s;return e in c?c[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(l=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{if(!this.hydrator||this.parentElement&&this.parentElement.closest("astro-island[ssr]"))return;const s=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(const r of n){const i=r.closest(this.tagName);!i||!i.isSameNode(this)||(e[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(const r of s){const i=r.closest(this.tagName);!i||!i.isSameNode(this)||(e[r.getAttribute("name")||"default"]=r.innerHTML)}const a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((s,e)=>{e.disconnect(),this.childrenConnectedCallback()}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let s=this.getAttribute("before-hydration-url");s&&await import(s),this.start()}start(){const s=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{const n=this.getAttribute("renderer-url"),[a,{default:r}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),i=this.getAttribute("component-export")||"default";if(!i.includes("."))this.Component=a[i];else{this.Component=a;for(const d of i.split("."))this.Component=this.Component[d]}return this.hydrator=r,this.hydrate},s,this)}attributeChangedCallback(){this.hydrator&&this.hydrate()}},l.observedAttributes=["props"],l))}</script><astro-island uid="ZXxciV" component-url="/MenuMobile.8e786bc3.js" component-export="default" renderer-url="/client.8eb24749.js" props="{}" ssr="" client="visible" opts="{&quot;name&quot;:&quot;MobileMenu&quot;,&quot;value&quot;:true}" await-children=""><div data-headlessui-state=""><div class="sm:hidden"><button class="border-gray-50/60 bg-gray-700/40 text-gray-100 backdrop-blur-sm relative z-50 flex items-center border p-2 text-xs font-medium uppercase lg:hidden" id="headlessui-popover-button-:R0:" type="button" aria-expanded="false" data-headlessui-state=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-6 h-6 mr-2"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg><span>Menu</span></button></div></div></astro-island>
+</nav>
+<div class="flex items-center space-x-10">
+<div class="items-center hidden space-x-4 sm:flex">
+<a rel="me" href="https://social.joshthomas.dev/@josh">
+<svg class="h-6 w-6 hover:text-gray-800 dark:hover:text-gray-300 text-[#2b90d9]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.4144 232.00976"><path fill="currentColor" d="M211.80734 139.0875c-3.18125 16.36625-28.4925 34.2775-57.5625 37.74875-15.15875 1.80875-30.08375 3.47125-45.99875 2.74125-26.0275-1.1925-46.565-6.2125-46.565-6.2125 0 2.53375.15625 4.94625.46875 7.2025 3.38375 25.68625 25.47 27.225 46.39125 27.9425 21.11625.7225 39.91875-5.20625 39.91875-5.20625l.8675 19.09s-14.77 7.93125-41.08125 9.39c-14.50875.7975-32.52375-.365-53.50625-5.91875C9.23234 213.82 1.40609 165.31125.20859 116.09125c-.365-14.61375-.14-28.39375-.14-39.91875 0-50.33 32.97625-65.0825 32.97625-65.0825C49.67234 3.45375 78.20359.2425 107.86484 0h.72875c29.66125.2425 58.21125 3.45375 74.8375 11.09 0 0 32.975 14.7525 32.975 65.0825 0 0 .41375 37.13375-4.59875 62.915"></path><path class="text-gray-50 dark:text-gray-800" fill="currentColor" d="M177.50984 80.077v60.94125h-24.14375v-59.15c0-12.46875-5.24625-18.7975-15.74-18.7975-11.6025 0-17.4175 7.5075-17.4175 22.3525v32.37625H96.20734V85.42325c0-14.845-5.81625-22.3525-17.41875-22.3525-10.49375 0-15.74 6.32875-15.74 18.7975v59.15H38.90484V80.077c0-12.455 3.17125-22.3525 9.54125-29.675 6.56875-7.3225 15.17125-11.07625 25.85-11.07625 12.355 0 21.71125 4.74875 27.8975 14.2475l6.01375 10.08125 6.015-10.08125c6.185-9.49875 15.54125-14.2475 27.8975-14.2475 10.6775 0 19.28 3.75375 25.85 11.07625 6.36875 7.3225 9.54 17.22 9.54 29.675"></path></svg>
+</a>
+<a href="https://github.com/joshuadavidthomas" class="hover:underline">
+<svg class="h-6 w-6 hover:text-gray-800 dark:hover:text-gray-300 text-[#6e5494]" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.58 0 0 3.582 0 8c0 3.535 2.292 6.533 5.47 7.59.4.075.547-.172.547-.385 0-.19-.007-.693-.01-1.36-2.226.483-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.725-.496.056-.486.056-.486.803.056 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.278-.87.507-1.07-1.777-.2-3.644-.888-3.644-3.953 0-.873.31-1.587.823-2.147-.083-.202-.358-1.015.077-2.117 0 0 .672-.215 2.2.82.638-.178 1.323-.266 2.003-.27.68.004 1.364.092 2.003.27 1.527-1.035 2.198-.82 2.198-.82.437 1.102.163 1.915.08 2.117.513.56.823 1.274.823 2.147 0 3.073-1.87 3.75-3.653 3.947.287.246.543.735.543 1.48 0 1.07-.01 1.933-.01 2.195 0 .215.144.463.55.385C13.71 14.53 16 11.534 16 8c0-4.418-3.582-8-8-8"></path></svg>
+</a>
+<a href="https://www.linkedin.com/in/joshua-thomas-b1745a16/" class="hover:underline">
+<svg class="h-6 w-6 hover:text-gray-800 dark:hover:text-gray-300 text-[#0077b5]" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51V7.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"></path></svg>
+</a>
+</div>
+<div class="flex items-center">
+<astro-island uid="165pxF" component-url="/DarkModeToggle.9bcb690b.js" component-export="default" renderer-url="/client.8eb24749.js" props="{}" ssr="" client="visible" opts="{&quot;name&quot;:&quot;DarkModeToggle&quot;,&quot;value&quot;:true}" await-children=""><button class="bg-gray-200 relative inline-flex shrink-0 h-6 w-11 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500" id="headlessui-switch-:R0:" role="switch" type="button" tabindex="0" aria-checked="false" data-headlessui-state=""><span class="sr-only">Use setting</span><span class="translate-x-5 pointer-events-none shadow relative inline-block h-5 w-5 rounded-full bg-white dark:bg-gray-100 ring-0 transition ease-in-out duration-200"><span class="opacity-0 ease-out duration-100 absolute inset-0 h-full w-full flex items-center justify-center transition-opacity" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-3 h-3 text-indigo-500"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg></span><span class="opacity-100 ease-in duration-200 absolute inset-0 h-full w-full flex items-center justify-center transition-opacity" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-3 h-3 text-orange-400"><path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd"></path></svg></span></span></button></astro-island>
+</div>
+</div>
+</header>
+<main>
+<link rel="stylesheet" href="/assets/index.aa147cc9.css" /><script type="module" src="/page.3aa82516.js"></script><section class="container max-w-xl px-3 pb-10 mx-auto md:max-w-2xl sm:pt-10 sm:pb-40">
+<div class="flex items-center justify-center py-10">
+<img src="/me.png" width="250" height="250" alt="A picture of Josh" class="rounded-full shadow-md">
+</div>
+<h1 class="text-3xl md:text-5xl leading-tighter">
+👋<span class="pl-2 font-bold tracking-wide">Hi, my name is Josh.</span>
+</h1>
+<div class="max-w-md mx-auto md:max-w-xl">
+<p class="pt-2 text-lg font-medium md:pt-4 md:text-2xl">
+I am a web developer in Tuscaloosa, AL.
+</p>
+<div class="pt-4 space-y-1 md:text-lg">
+<p>I make things on the web.</p>
+<p>
+If you want, you can say ✉ <a class="hover:text-[#050] font-semibold underline" href="/cdn-cgi/l/email-protection#ee868b828281ae84819d869b8f8a8f98878a9a8681838f9dc08d8183">hello
+</a>.
+</p>
+</div>
+</div>
+</section>
+</main>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body></html>
+0
+

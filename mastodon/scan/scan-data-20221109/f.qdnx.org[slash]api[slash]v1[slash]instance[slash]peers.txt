@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 13:49:10 GMT
+Referrer-Policy: 
+Server: nginx/1.10.3
+X-Account-Management-Status: none
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+29a
+["noagendasocial.com","liberdon.com","mastodon.cloud","bsd.network","baraag.net","mstdn.io","nerdica.net","nerdculture.de","friendica.kommune4.de","hub.libranet.de","friendica.mrpetovan.com","friendica.dszdw.net","f.haeder.net","social.taurix.net","friendica.minecloud.ro","friendica.exon.name","friendica.xanderwharts.us","social.cool110.xyz","stammtisch.tupambae.org","friendica.misc.x10host.com","friendica.vrije-mens.org","letus.inspiredlife.fun","friendica.visionel.de","anarchydica.net","friendica.knowbility.nl","friendica.hubup.pro","mastodon.org.uk","motley.club","boardgames.social","nicoban.one","friendica.eskimo.com","lastfree.space","steampunk.social"]
+0
+

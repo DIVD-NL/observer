@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.linuxpedia.pl; img-src 'self' https: data: blob: https://mastodon.linuxpedia.pl; style-src 'self' https://mastodon.linuxpedia.pl 'nonce-TJTKWUSv48MM8NJlZF7sUw=='; media-src 'self' https: data: https://mastodon.linuxpedia.pl; frame-src 'self' https:; manifest-src 'self' https://mastodon.linuxpedia.pl; connect-src 'self' data: blob: https://mastodon.linuxpedia.pl https://mastodon.linuxpedia.pl wss://mastodon.linuxpedia.pl; script-src 'self' https://mastodon.linuxpedia.pl; child-src 'self' blob: https://mastodon.linuxpedia.pl; worker-src 'self' blob: https://mastodon.linuxpedia.pl
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:45 GMT
+Etag: W/"044c5abfd4ed6f9ad39294acf0b4ec19"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.092680Z
+X-Request-Id: 319dcb5a-65c7-46e7-b8b3-2515d63c6bec
+X-Runtime: 0.011137
+X-Xss-Protection: 0
+
+282
+["mastodon.social","poliverso.org","kudabiverse.com","friendica.mschmidt-et.de","friend.geoffray-levasseur.org","redeyes.club","quitter.pl","friendica.togart.de","herzbu.de","f.kretschmann.social","fri.aethercom.de","t2.thotsofa304.club","social.tromdienste.de","friendica.offsite.guru","friendica.ucy.de","f.freinetz.ch","fr.readthefinemanual.net","friendica.mifritscher.de","follow.schmaller.de","petroskowo.pl","friendica.daniel-siepmann.de","anarchydica.net","friendica.hashy-net.de","friendica.ambag.es","friendica.myportal.social","friendica.opencloud.lu","f.iroiro.party","pztrn.online","friendica.ironbug.org","friendica.kommune4.de"]
+0
+

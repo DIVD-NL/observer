@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777e01e86c2e50-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:25 GMT
+Location: https://mastodon.online/@bougiekitty
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d6i0Q7fZi3ZIhKPC3ZxicLdsMfLlkBeYglNysd%2FYjminulPLopYDyzjzVVT84UjIeqKMBxrUrp1pRAvgKHEfYAEpPMDKh8BNIBkqiUVog85PkauvG1R%2B%2F3S3UwFUpVaz8Ch96uVsDIQ%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=0; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+
+a6
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+0
+

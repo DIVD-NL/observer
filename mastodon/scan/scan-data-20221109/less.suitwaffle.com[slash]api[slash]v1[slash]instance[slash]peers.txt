@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:58 GMT
+Etag: W/"1e76300e87c8acedd62ec67f8eb18441"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000;
+Vary: Origin
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.456293Z
+X-Request-Id: 0c3ba502-24fb-4f9a-ae14-1542452ad39f
+X-Robots-Tag: none
+X-Runtime: 0.005980
+X-Xss-Protection: 1; mode=block
+
+3cf
+["toot.fedilab.app","mas.to","sigmoid.social","social.coop","mstdn.jp","mastodon.lol","social.network.europa.eu","tube.network.europa.eu","social.artemai.art","dair-community.social","mastodon.online","pixel.artemai.art","schykle.com","infosec.exchange","assemblag.es","octodon.social","mastodon.world","federated.press","hachyderm.io","universeodon.com","fosstodon.org","scholar.social","anicelittle.network","mastodon.nz","mastodon.mit.edu","goblin.technology","social.masto.host","mastodon.cloud","mastodon.gamedev.place","ruhr.social","mastodon.neilzone.co.uk","mastodon.social","mstdn.social","functional.cafe","mastodon.bida.im","toot.community","hobbies.social","mamot.fr","mastodon.me.uk","dreamers-guild.net","mastodonapp.uk","digitalcourage.social","mastodon.green","bonn.social","journa.host","c.im","eupolicy.social","mstdn.fr","mastodon.zaclys.com","hci.social","fediscience.org","a.gup.pe","indieweb.social","social.lol","someone.elses.computer","chaos.social"]
+0
+

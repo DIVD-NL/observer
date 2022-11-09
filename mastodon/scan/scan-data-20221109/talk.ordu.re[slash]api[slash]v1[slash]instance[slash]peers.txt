@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://talk.ordu.re; img-src 'self' https: data: blob: https://talk.ordu.re; style-src 'self' https://talk.ordu.re 'nonce-i7QQuV8B+ruNeAirk4YBLw=='; media-src 'self' https: data: https://talk.ordu.re; frame-src 'self' https:; manifest-src 'self' https://talk.ordu.re; connect-src 'self' data: blob: https://talk.ordu.re https://talk.ordu.re wss://talk.ordu.re; script-src 'self' https://talk.ordu.re; child-src 'self' blob: https://talk.ordu.re; worker-src 'self' blob: https://talk.ordu.re
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:28 GMT
+Etag: W/"2de19f8dbd92c2bca4a900ca3a8afaae"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.269621Z
+X-Request-Id: 8f1fbe11-460b-4205-baf5-0df500192a59
+X-Runtime: 0.009751
+X-Xss-Protection: 0
+
+225
+["plero.antopie.org","petroskowo.pl","quitter.pl","anarchydica.net","gorf.pub","fr.readthefinemanual.net","oc.todon.fr","h4.io","redeyes.club","t2.thotsofa304.club","friendica.kommune4.de","f.kretschmann.social","fri.aethercom.de","f.freinetz.ch","friendica.togart.de","friendica.hashy-net.de","mamot.fr","f.iroiro.party","friendica.ucy.de","friendica.mifritscher.de","octodon.social","mastodon.ie","piaille.fr","mastodon.social","a.gup.pe","eldritch.cafe","friendica.daniel-siepmann.de","friendica.ambag.es","friendica.opencloud.lu","mastodon.art"]
+0
+

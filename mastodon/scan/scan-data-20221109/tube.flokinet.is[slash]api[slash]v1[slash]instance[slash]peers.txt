@@ -1,0 +1,20 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Security-Policy: default-src 'none';connect-src * data:;media-src 'self' https: blob:;font-src 'self' data:;img-src 'self' data: blob:;script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:;style-src 'self' 'unsafe-inline';object-src 'none';form-action 'self';frame-ancestors 'none';base-uri 'self';manifest-src 'self';frame-src 'self';worker-src 'self' blob:;upgrade-insecure-requests;block-all-mixed-content;script-src-attr 'none'
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:18 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomain; preload
+Tk: N
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668007285
+
+0
+

@@ -1,0 +1,15 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:14:22 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: o2switch-PowerBoost-v3
+Set-Cookie: PHPSESSID=d3a2560fc501f73a7252ea38b42021b4; path=/; secure; HttpOnly
+
+1b
+{"error":"not implemented"}
+0
+

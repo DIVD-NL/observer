@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://masto.oyl.ink; img-src 'self' https: data: blob: https://masto.oyl.ink; style-src 'self' https://masto.oyl.ink 'nonce-WKrPHonPGziRgx1m23LldA=='; media-src 'self' https: data: https://masto.oyl.ink; frame-src 'self' https:; manifest-src 'self' https://masto.oyl.ink; connect-src 'self' data: blob: https://masto.oyl.ink https://masto.oyl.ink wss://masto.oyl.ink; script-src 'self' https://masto.oyl.ink; child-src 'self' blob: https://masto.oyl.ink; worker-src 'self' blob: https://masto.oyl.ink
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:46 GMT
+Etag: W/"e194cb9102fc8b6c25f26b9858e6108b"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T13:45:00.594826Z
+X-Request-Id: 57495bb5-cd81-40b3-9891-632f1f2a48e2
+X-Runtime: 0.029571
+X-Xss-Protection: 0
+
+63
+["mas.to","o3o.ca","c.im","ieji.de","screamshitter.club","mastodon.doufen.org","wxw.moe","bgme.me"]
+0
+

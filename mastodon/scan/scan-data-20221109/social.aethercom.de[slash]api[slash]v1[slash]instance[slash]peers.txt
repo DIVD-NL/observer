@@ -1,0 +1,16 @@
+HTTP/1.1 423 Locked
+Connection: close
+Content-Length: 277
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:17:46 GMT
+Server: Apache
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>423 Locked</title>
+</head><body>
+<h1>Locked</h1>
+<p>The requested resource is currently locked.
+The lock must be released or proper identification
+given before the method can be applied.</p>
+</body></html>

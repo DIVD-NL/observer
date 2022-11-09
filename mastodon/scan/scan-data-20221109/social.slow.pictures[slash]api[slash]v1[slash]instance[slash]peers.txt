@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.slow.pictures; img-src 'self' https: data: blob: https://social.slow.pictures; style-src 'self' https://social.slow.pictures 'nonce-Yx4EgrRs//mt05CRMhfd0Q=='; media-src 'self' https: data: https://social.slow.pictures; frame-src 'self' https:; manifest-src 'self' https://social.slow.pictures; connect-src 'self' data: blob: https://social.slow.pictures https://social.slow.pictures wss://social.slow.pictures; script-src 'self' https://social.slow.pictures; child-src 'self' blob: https://social.slow.pictures; worker-src 'self' blob: https://social.slow.pictures
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:39 GMT
+Etag: W/"024d09057a7cae704ca1f511a22266b7"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:40:00.804757Z
+X-Request-Id: 61fc89b6-5acb-4947-81d1-0d1ac6ac2a05
+X-Runtime: 0.007218
+X-Xss-Protection: 0
+
+b9
+["troet.cafe","norden.social","social.tchncs.de","anonsys.net","literatur.social","mastodon.social","chaos.social","legal.social","podcasts.social","socialwagrien.de","mastodontech.de"]
+0
+

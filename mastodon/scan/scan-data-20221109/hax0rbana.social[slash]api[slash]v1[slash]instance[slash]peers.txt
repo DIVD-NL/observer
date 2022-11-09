@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://hax0rbana.social; img-src 'self' https: data: blob: https://hax0rbana.social; style-src 'self' https://hax0rbana.social 'nonce-xZaYeJ2su/kdP7VpQetovA=='; media-src 'self' https: data: https://hax0rbana.social; frame-src 'self' https:; manifest-src 'self' https://hax0rbana.social; connect-src 'self' data: blob: https://hax0rbana.social https://hax0rbana.social wss://hax0rbana.social; script-src 'self' https://hax0rbana.social; child-src 'self' blob: https://hax0rbana.social; worker-src 'self' blob: https://hax0rbana.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:07:42 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.244115Z
+X-Request-Id: 7cf82c34-1d2b-4f2e-bfab-48a8fc507883
+X-Runtime: 0.007464
+X-Xss-Protection: 0
+
+0
+

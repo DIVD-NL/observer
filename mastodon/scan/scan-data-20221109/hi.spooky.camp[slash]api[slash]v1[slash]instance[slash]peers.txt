@@ -1,0 +1,27 @@
+HTTP/1.0 404 Not Found
+Content-Length: 494
+Connection: close
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:11 GMT
+Server: OpenBSD httpd
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>404 Not Found</title>
+<style type="text/css"><!--
+body { background-color: white; color: black; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; }
+hr { border: 0; border-bottom: 1px dashed; }
+@media (prefers-color-scheme: dark) {
+body { background-color: #1E1F21; color: #EEEFF1; }
+a { color: #BAD7FF; }
+}
+--></style>
+</head>
+<body>
+<h1>404 Not Found</h1>
+<hr>
+<address>OpenBSD httpd</address>
+</body>
+</html>

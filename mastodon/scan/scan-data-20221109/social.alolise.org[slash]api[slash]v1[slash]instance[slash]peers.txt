@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1219
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: default-src 'none'; base-uri 'self'; frame-ancestors 'none'; img-src 'self' data: https:; media-src 'self' https:; style-src 'self' 'unsafe-inline'; font-src 'self'; manifest-src 'self'; connect-src 'self' https://social.alolise.org wss://social.alolise.org; script-src 'self'; upgrade-insecure-requests;
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:47 GMT
+Referrer-Policy: same-origin
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzlzOotGbbUNwAlGjB
+X-Xss-Protection: 1; mode=block
+
+["activism.openworlds.info","social.bim.land","toot.site","ludosphere.fr","mastodon.libre-entreprise.com","pachyder.me","venera.social","nerdica.net","icedtux.no","pleroma.xundeenergie.at","framapiaf.org","mastodon.tetaneutral.net","mastodon.art","oc.todon.fr","social.masto.host","a.rathersafe.space","eeeeeeeee.eu","pleroma.gegeweb.eu","mamot.fr","m.g3l.org","wintermute.fr.to","mastodon.cc","social.weho.st","tooting.ch","tutut.delire.party","unmedicated.schizoid.social","mstdn.io","pouet.april.org","nerdculture.de","hunk.city","friendica.eskimo.com","diaspodon.fr","mastodon.etalab.gouv.fr","toot.fedilab.app","pouet.chapril.org","squeet.me","mastodon.underworld.fr","mastodon.online","anonsys.net","masto.svnet.fr","relay.schizoid.social","mastodon.tedomum.net","h.kher.nl","hostux.social","octodon.social","friendica.xyz","mastodon.social","floss.social","mastodon.xyz","mathstodon.xyz","biscuit.town","mammouth.inframed.net","social.nomagic.uk","fosstodon.org","shelter.moe","video.lemediatv.fr","point.community","mastodon.roflcopter.fr","pouet.panglossoft.fr","social.logilab.org","hentai.baby","social.zdx.fr","mastodon.zaclys.com","mastodon.indie.host","troet.cafe","pouet.couchet.org","toot.aquilenet.fr"]

@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 477
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Etag: "5ef7f892-1dd"
+Server: nginx/1.22.1
+Strict-Transport-Security: max-age=31536000
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>076エラー - 未検出</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <div style="text-align: center;">
+            <h1>【４０４】未検出</h1>
+            <img src="/image/404.png" />
+            <hr />
+            <p>076グループのウェブサイト又はサービスの顧客様です。<br /><a href="https://www.076.ne.jp">https://www.076.ne.jp</a></p>
+        </div>
+    </body>
+</html>

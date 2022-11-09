@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://glitch.zowi.ee; font-src 'self' https://glitch.zowi.ee; img-src 'self' data: blob: https://glitch.zowi.ee; style-src 'self' https://glitch.zowi.ee 'nonce-klTZ5VC52D84rmAogztz1Q=='; media-src 'self' data: https://glitch.zowi.ee; frame-src 'self' https:; child-src 'self' blob: https://glitch.zowi.ee; worker-src 'self' blob: https://glitch.zowi.ee; connect-src 'self' blob: data: wss://glitch.zowi.ee https://glitch.zowi.ee; manifest-src 'self' https://glitch.zowi.ee
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:03:18 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Caddy
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.136948Z
+X-Request-Id: 61e61b98-b685-40f4-9c6a-2e7368f3281d
+X-Runtime: 0.009529
+X-Xss-Protection: 0
+
+0
+

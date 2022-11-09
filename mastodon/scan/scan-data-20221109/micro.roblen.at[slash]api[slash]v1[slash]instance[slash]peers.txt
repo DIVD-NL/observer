@@ -1,0 +1,149 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 4702
+Accept-Ranges: bytes
+Age: 0
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:50 GMT
+Etag: "125e-5d67af49d158a"
+Last-Modified: Wed, 26 Jan 2022 12:01:01 GMT
+Permissions-Policy: interest-cohort=()
+Server: Apache
+Strict-Transport-Security: max-age=15768000
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>easyname | Verboten</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="easyname.com 404 error">
+    <meta name="robots" content="nofollow">
+    <link rel="shortcut icon" href="https://static.easyname.com/images/favicons/favicon.ico" type="image/x-icon">
+    <style>
+        @media (min-width: 500px) {
+            .wrapper {
+                margin: 0 auto;
+                max-width: 770px;
+            }
+        }
+        body {
+            margin: 0;
+            font: normal 1rem/1.2rem verdana, arial, sans-serif;
+        }
+
+        .wrapper {
+            display: -webkit-flex;
+            display: flex;
+            flex-flow: row wrap;
+            padding: 0 10px;
+            text-align: center;
+        }
+        .wrapper > * {
+            /* padding: 10px; */
+            flex: 1 100%;
+        }
+
+        header a {
+            display: block;
+            height: 100px;
+        }
+        header img {
+            width: 200px;
+            height: 36px;
+            margin: 32px auto;
+        }
+
+        footer {
+            color: rgba(68, 68, 68, 0.829);
+            font-size: 0.8rem;
+            text-align: center;
+            height: 60px;
+        }
+        footer p {
+            margin-top: 0;
+        }
+        footer a {
+            color: rgba(68, 68, 68, 0.829);
+        }
+        footer a:hover {
+            color: #489ABF;
+            text-decoration: none;
+        }
+        section {
+            height: calc(100vh - 160px);
+        }
+        section h1 {
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        section h3 {
+            font-weight: normal;
+            font-size: 1rem;
+            margin-top: 25px;
+        }
+        section p {
+            font-size: 0.8rem;
+            line-height: 1.4rem;
+            margin-top: 90px;
+            /* text-align: left; */
+        }
+        section a {
+            color: #489ABF;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <a href="https://www.easyname.com?utm_medium=Errorpages&utm_campaign=Error404&utm_source=" title="easyname GmbH">
+                <img src="https://static.easyname.com/images/svg/singles/logos/easyname/easyname_logo_default.svg" alt="easyname GmbH">
+            </a>
+        </header>
+
+        <section>
+            <article>
+                <h1>Fehler 404</h1>
+                <h3>Seite nicht gefunden</h3>
+                <p>Die von dir angeforderte Seite konnte nicht gefunden werden.
+                    <br>Mögliche Ursachen für diese Fehlermeldung findest du in den <a href="http://www.easyname.com/de/support/hosting/158-was-bedeuten-die-http-fehlercodes-401-403-404-und-500?utm_medium=Errorpages&utm_campaign=Error404&utm_source=" target="_blank">easyname FAQ</a>
+            </article>
+        </section>
+
+        <footer>
+		    <p>Diese Domain wird von <a rel="noopener noreferrer" href="http://www.easyname.com/?utm_medium=Errorpages&utm_campaign=Error404&utm_source=" target="_blank">easyname.com</a> verwaltet.</p>
+        </footer>
+    </div>
+
+    <script>
+        var translation = {
+            en: {
+                title_head: 'easyname | Page not found',
+                title: 'Error 404',
+                subtitle: 'Page not found',
+                controlpanel:
+                    'The page you requested cannot be found. <br />Possible reasons for this error message can be found in the <a href="http://www.easyname.com/en/support/hosting/158-what-do-the-http-status-codes-401-403-404-and-500-mean?utm_medium=Errorpages&utm_campaign=Error404&utm_source=" target="_blank">easyname FAQ</a>.',
+                footer:
+                    '<p>This domain is managed by <a rel="noopener noreferrer" href="http://www.easyname.com/?utm_medium=Errorpages&utm_campaign=Error404&utm_source=" target="_blank">easyname.com</a>.</p>',
+            },
+        }
+
+        var userLanguage = navigator.language || navigator.userLanguage
+
+        if (userLanguage.match(/^de/) === null) {
+            document.documentElement.lang = "en"
+            document.title = translation.en.title_head
+            document.querySelector('article h1').innerHTML =
+                translation.en.title
+            document.querySelector('article h3').innerHTML =
+                translation.en.subtitle
+            document.querySelector('article p').innerHTML =
+                translation.en.controlpanel
+            document.querySelector('footer').innerHTML =
+                translation.en.footer
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://pouet.it; img-src 'self' https: data: blob: https://pouet.it; style-src 'self' https://pouet.it 'nonce-0aLDGqxJ1XRF5xzhsXbU2g=='; media-src 'self' https: data: https://pouet.it; frame-src 'self' https:; manifest-src 'self' https://pouet.it; connect-src 'self' data: blob: https://pouet.it https://paul.pouet.it wss://pouet.it; script-src 'self' https://pouet.it 'unsafe-eval'; child-src 'self' blob: https://pouet.it; worker-src 'self' blob: https://pouet.it
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:38 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.192871Z
+X-Request-Id: b82ca59a-6c87-4edc-b120-1f91711bfa78
+X-Runtime: 0.010253
+X-Xss-Protection: 0
+
+0
+

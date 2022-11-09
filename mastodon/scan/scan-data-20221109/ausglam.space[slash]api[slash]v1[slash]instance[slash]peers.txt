@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ausglam.space; img-src 'self' https: data: blob: https://ausglam.space; style-src 'self' https://ausglam.space 'nonce-RsrypetmYB9tTdLVT3O3Gg=='; media-src 'self' https: data: https://ausglam.space; frame-src 'self' https:; manifest-src 'self' https://ausglam.space; connect-src 'self' data: blob: https://ausglam.space https://ausglam.space wss://ausglam.space; script-src 'self' https://ausglam.space; child-src 'self' blob: https://ausglam.space; worker-src 'self' blob: https://ausglam.space
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:04 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.990491Z
+X-Request-Id: 5f18365e-b96e-4e53-ba0e-7d08b5e37d6e
+X-Runtime: 0.010728
+X-Xss-Protection: 0
+
+0
+

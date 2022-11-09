@@ -1,0 +1,74 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 1067
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:08 GMT
+Etag: "62b0c687-42b"
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>server got borken</title>
+	</head>
+	<body>
+		<img src="https://enby.space/media/crie.gif" alt="crie" height=192 />
+		<div class="content">
+			<h2>oh no something happened</h2>
+			<p>
+				the website is down for some reason <br />
+				it might've crashed<br /><br />
+				<a href="https://cronut.cafe/~sfr">let sfr know</a> if they don't already
+			</p>
+			<footer>
+				<hr />
+				<code>502 bad gateway</code>
+				<a style="float: right;" href="https://enby.space">enby.space</a>
+			</footer>
+		</div>
+	</body>
+</html>
+<style>
+html {
+	margin: auto 1em;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+body {
+	display: flex;
+	margin: auto;
+	max-width: 720px;
+	font-family: sans-serif;
+	color: #2e2e2e;
+}
+
+img {
+	margin-right: 1em;
+}
+
+.content {
+	flex-grow: 1;
+}
+
+a {
+	text-decoration: none;
+	color: #9a59cf;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h2 {
+	margin: 0;
+}
+
+footer {
+	align-self: flex-end;
+}
+</style>

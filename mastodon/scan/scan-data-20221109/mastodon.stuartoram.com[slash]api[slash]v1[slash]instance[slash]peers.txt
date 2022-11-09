@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.stuartoram.com; img-src 'self' https: data: blob: https://mastodon.stuartoram.com; style-src 'self' https://mastodon.stuartoram.com 'nonce-SQoV8TKiLK3atMDX6+qfog=='; media-src 'self' https: data: https://mastodon.stuartoram.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.stuartoram.com; connect-src 'self' data: blob: https://mastodon.stuartoram.com https://mastodon.stuartoram.com wss://mastodon.stuartoram.com; script-src 'self' https://mastodon.stuartoram.com; child-src 'self' blob: https://mastodon.stuartoram.com; worker-src 'self' blob: https://mastodon.stuartoram.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:21 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.498244Z
+X-Request-Id: ed680516-fa72-4f74-be85-7ae1c7af4bca
+X-Runtime: 0.004343
+X-Xss-Protection: 0
+
+0
+

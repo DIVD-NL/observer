@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.tarmil.fr; img-src 'self' https: data: blob: https://mastodon.tarmil.fr; style-src 'self' https://mastodon.tarmil.fr 'nonce-M/qO5ZRE94bf4s9zZTza8A=='; media-src 'self' https: data: https://mastodon.tarmil.fr; frame-src 'self' https:; manifest-src 'self' https://mastodon.tarmil.fr; connect-src 'self' data: blob: https://mastodon.tarmil.fr https://mastodon.tarmil.fr wss://mastodon.tarmil.fr; script-src 'self' https://mastodon.tarmil.fr 'unsafe-eval'; child-src 'self' blob: https://mastodon.tarmil.fr; worker-src 'self' blob: https://mastodon.tarmil.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:19 GMT
+Etag: W/"1c9b606b46631979488775c29b0a9fed"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-08T18:00:00.553551Z
+X-Request-Id: d2c0aa7e-d26e-4114-8508-0f3242700b83
+X-Runtime: 0.009156
+X-Xss-Protection: 0
+
+13
+["mastodon.social"]
+0
+

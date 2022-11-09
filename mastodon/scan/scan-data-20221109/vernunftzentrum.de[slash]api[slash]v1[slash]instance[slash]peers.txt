@@ -1,0 +1,36 @@
+HTTP/1.0 302 Found
+Content-Length: 486
+Connection: close
+Content-Security-Policy: default-src 'none'; base-uri 'self'; form-action 'self'; img-src 'self' data: https:; media-src 'self' https:; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self'; connect-src 'self' wss://vernunftzentrum.de; upgrade-insecure-requests;
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:45 GMT
+Location: https://vernunftzentrum.de/api/v1/instance/peers
+Referrer-Policy: same-origin
+Server: OpenBSD httpd
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>302 Found</title>
+<style type="text/css"><!--
+body { background-color: white; color: black; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; }
+hr { border: 0; border-bottom: 1px dashed; }
+@media (prefers-color-scheme: dark) {
+body { background-color: #1E1F21; color: #EEEFF1; }
+a { color: #BAD7FF; }
+}
+--></style>
+</head>
+<body>
+<h1>302 Found</h1>
+<hr>
+<address>OpenBSD httpd</address>
+</body>
+</html>

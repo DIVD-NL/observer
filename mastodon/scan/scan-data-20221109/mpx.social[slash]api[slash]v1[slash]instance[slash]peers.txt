@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 316
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:13:20 GMT
+Location: https://eurovision.social/api/v1/instance/peers
+Server: nginx
+X-Powered-By: PleskLin
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://eurovision.social/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache Server at mpx.social Port 443</address>
+</body></html>

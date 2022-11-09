@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778588697ad4b4-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:18:33 GMT
+Location: https://www.possumtech.com/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yXkm1glanYjf8QTacrUpXWQbsZ%2FVpm0LVJ%2BQ6oqiteqdrixyV1tkqpqEtay6Ux%2FEcTylZkKdXGRL9GCT4PGssrAwbVw%2BAWfhNJuSMaezfqNwTJ%2B6D8QUjQ69E4znUPx4E%2FAXlJQvGw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+a2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

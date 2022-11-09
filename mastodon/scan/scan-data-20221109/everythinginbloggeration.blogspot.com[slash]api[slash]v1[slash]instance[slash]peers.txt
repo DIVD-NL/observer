@@ -1,0 +1,3835 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Server: GSE
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+
+20267
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://everythinginbloggeration.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://everythinginbloggeration.blogspot.com//api/v1/instance/peers' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Everything in Bloggeration - Atom" href="https://everythinginbloggeration.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Everything in Bloggeration - RSS" href="https://everythinginbloggeration.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Everything in Bloggeration - Atom" href="https://www.blogger.com/feeds/8677090665910376229/posts/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='Influence Motivation Purpose Action Community Trust Everything in Bloggeration covers politics sports freedom liberty bible media blog #tcot america' name='description'/>
+<meta content='http://everythinginbloggeration.blogspot.com//api/v1/instance/peers' property='og:url'/>
+<meta content='Everything in Bloggeration' property='og:title'/>
+<meta content='Influence Motivation Purpose Action Community Trust Everything in Bloggeration covers politics sports freedom liberty bible media blog #tcot america' property='og:description'/>
+<title>Everything in Bloggeration</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+* Tekka
+* style modified from glish: http://www.glish.com/css/
+*
+* Updated by Blogger Team
+*/
+body {
+margin-top:0px;
+margin-right:0px;
+margin-bottom:0px;
+margin-left:0px;
+font-size: small;
+background-color: #f5f5f5;
+color: #000000;
+}
+#content-wrapper {
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0;
+margin-left: 5px;
+}
+h1 {
+font-size:400%;
+padding-left:15px;
+text-transform:uppercase;
+}
+h1 a, h1 a:link, h1 a:visited {
+text-decoration:none;
+color: #000000;
+}
+.description {
+text-align: center;
+padding-top:10px;
+}
+h2.date-header {
+border-bottom:none;
+font-size: 130%;
+text-align:left;
+margin-top:20px;
+margin-bottom:14px;
+padding:1px;
+padding-left:17px;
+color: #808080;
+font-weight: normal;
+font-family: Trebuchet MS, Verdana, Sans-serif;
+}
+.post h3 {
+font-size: 150%;
+font-weight:bold;
+}
+.post h3 a,
+.post h3 a:visited {
+color: #000000;
+}
+.post {
+padding-left:20px;
+margin-bottom:20px;
+text-indent:10px;
+padding-right:20px;
+line-height:22px;
+}
+.post-footer {
+margin-bottom:15px;
+margin-left:0px;
+font-size: 87%;
+}
+#comments {
+margin-left: 20px;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+margin-left: 20px;
+}
+#blog-pager-newer-link {
+float: left;
+margin-left: 20px;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+#main {
+float:left;
+padding-bottom:20px;
+padding:0px;
+width:67%;
+font: normal bold 120% Verdana, sans-serif;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+.sidebar h2 {
+font-weight:bold;
+font-size: 150%;
+color: #000000;
+}
+a {
+text-decoration:none
+}
+a:hover {
+border-bottom:dashed 1px red;
+}
+a img {
+border: 0;
+}
+a {
+color: #0000ff;
+}
+a:hover,
+a:visited {
+color: #800080;
+}
+#sidebar a {
+color: #0000ff;
+}
+#sidebar a:hover,
+#sidebar a:visited {
+color: #800080;
+}
+#sidebar {
+text-transform:none;
+background-color: #ffffff;
+color: #000000;
+padding-left: 20px;
+width: 30%;
+float: right;
+font: normal bold 120% Verdana, sans-serif;
+border-left:2px dashed #000000;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+.sidebar .widget {
+padding-top: 4px;
+padding-right: 8px;
+padding-bottom: 0;
+padding-left: 0;
+}
+.profile-textblock {
+clear: both;
+margin-left: 0;
+}
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+}
+.clear {
+clear: both;
+}
+.comment-footer {
+padding-bottom: 1em;
+}
+
+--></style>
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-44951730-1', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8677090665910376229&amp;zx=f0a87a05-4048-4208-a79b-5fe473e451d2' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8677090665910376229&amp;zx=f0a87a05-4048-4208-a79b-5fe473e451d2' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<!-- data-ad-client=ca-pub-6054295605488145 -->
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d8677090665910376229\x26blogName\x3dEverything+in+Bloggeration\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://everythinginbloggeration.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://everythinginbloggeration.blogspot.com/\x26vt\x3d6564044117694603830',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol no-items section' id='crosscol'></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='https://everythinginbloggeration.blogspot.com/'>
+Everything in Bloggeration
+</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Influence Motivation Purpose Action Community Trust</span></p>
+</div>
+</div>
+</div><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Pages</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='https://everythinginbloggeration.blogspot.com/'>Home</a>
+</li>
+<li>
+<a href='https://everythinginbloggeration.blogspot.com/p/blog-page.html'>The ShareCare Store</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<div class='status-msg-wrap'>
+<div class='status-msg-body'>
+Sorry, the page you were looking for in this blog does not exist.
+</div>
+<div class='status-msg-border'>
+<div class='status-msg-bg'>
+<div class='status-msg-hidden'>Sorry, the page you were looking for in this blog does not exist.</div>
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='https://everythinginbloggeration.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://everythinginbloggeration.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'>
+<div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- wideside -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-6054295605488145"
+     data-ad-slot="7208646516"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<span id="st_finder"></span><script type="text/javascript" src="//w.sharethis.com/widget/stblogger2.js"></script><script type="text/javascript">var switchTo5x= true;stBlogger2.init("http://w.sharethis.com/button/buttons.js",{"facebook":["hcount","Facebook",""],"twitter":["hcount","Tweet",""],"googleplus":["hcount","Google  ",""],"pinterest":["hcount","Pinterest",""],"buffer":["hcount","Buffer",""],"delicious":["hcount","Delicious",""],"digg":["hcount","Digg",""],"reddit":["hcount","Reddit",""],"stumbleupon":["hcount","StumbleUpon",""],"tumblr":["hcount","Tumblr",""],"linkedin":["hcount","LinkedIn",""],"evernote":["hcount","Evernote",""],"sharethis":["hcount","ShareThis",""],"email":["hcount","Email",""]}, "9084e8da-f74d-45dc-8edd-a50d39497b25");var f = document.getElementById("st_finder");var c = f.parentNode.parentNode.childNodes;for (i=0;i<c.length;i++) { try { c[i].style.display = "none"; } catch(err) {}}</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44951730-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div>
+<div class='clear'></div>
+</div>
+<div class='widget Text' data-version='1' id='Text1'>
+<h2 class='title'>EVERYTHING IN BLOGGERATION</h2>
+<div class='widget-content'>
+<b style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">EVERYTHING <i>YOU</i> NEED TO <i>KNOW</i> ABOUT <i>SOMETHING</i>.</b>
+</div>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text2'>
+<h2 class='title'>Donate</h2>
+<div class='widget-content'>
+<span style="font-family:Georgia, serif;">@ paypal.me/amishman</span>
+</div>
+<div class='clear'></div>
+</div>
+<div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2021/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='https://everythinginbloggeration.blogspot.com/2021/02/the-department-of-rantology-one.html'>The Department of Rantology: One</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2021/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2020/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2017/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2017/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2016/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2015/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2015/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2015/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2015/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2014/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2013/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2013/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2013/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2013/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2012/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2011/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2011/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2011/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2009/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2008/'>
+2008
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2008/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2008/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2008/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://everythinginbloggeration.blogspot.com/2008/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Popular Posts This Month</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://everythinginbloggeration.blogspot.com/2016/11/future-thoughts-on-present-events.html' target='_blank'>
+<img alt='' border='0' src='https://4.bp.blogspot.com/-msGE9m_jDr8/WCi3R34v25I/AAAAAAAAA3I/I7ubHeSRQ0AnoJ-8b5ua46JTxHyAviXZgCLcB/w72-h72-p-k-no-nu/camping-isolation.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://everythinginbloggeration.blogspot.com/2016/11/future-thoughts-on-present-events.html'>Future Thoughts on Present Events</a></div>
+<div class='item-snippet'>More from Facebook:   &#160; &#160; &#160;History is written from the future. At present, this is the present. If we are proven to be wrong at some point i...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://everythinginbloggeration.blogspot.com/2014/02/small-voices-sunshine-choppers-blood.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3D0vfkXHTKj78l6LPLVkEnHYzGSd2e82YvKQFZgxQzWUCuGPIiSMT5u9fJUnL9rtlzxdwEnSCXbhUI-UWqiDDHDN1am640uXM236J5feI79doiRfDcWUS1_lTGlXprKBBq8mgWQdrHkMeth_D2HvY=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://everythinginbloggeration.blogspot.com/2014/02/small-voices-sunshine-choppers-blood.html'>Small Voices, Sunshine Choppers, Blood Moons and the Language Behind It All</a></div>
+<div class='item-snippet'>   Pontypool (2009)       Gord had some things to say, too...   Is this actually happening?  Why is it that babies may actually need to be e...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://everythinginbloggeration.blogspot.com/2017/04/trumper-thumper.html' target='_blank'>
+<img alt='' border='0' src='https://3.bp.blogspot.com/--shHaKdnnDY/WOfpeFo9QXI/AAAAAAAAA7w/df7hr7Mip0cmkQiBgH2mghogxWjBkjfAACLcB/w72-h72-p-k-no-nu/79368206582%2B-%2Bpsaaok%2Bbong%2Bthe%2Bmarvel%2Bfamily%2Bvol%2B2%2Bno.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://everythinginbloggeration.blogspot.com/2017/04/trumper-thumper.html'>Trumper Thumper</a></div>
+<div class='item-snippet'>What does Syria have that we want?   Russia&#39;s only legit friendly naval port in the Mediterranean. It would be difficult, though not imp...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://everythinginbloggeration.blogspot.com/2013/11/the-zombie-message-of-11242013.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1jNACrEKo2u5CeOxdg3j2GNIzVxVxBQov8_ZVizZO_2bvE93F9LBXnYqJiFAeZ5X37JseeoBOlcpeYLDKqtGE3y8lbv79Z1V6RohfeJwHep36nz8GwvrxZ54APV5_ADjbKzh3P_Bd5aEpZIksCOA=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://everythinginbloggeration.blogspot.com/2013/11/the-zombie-message-of-11242013.html'>The Zombie Message of 11.24.2013</a></div>
+<div class='item-snippet'>The #Zombie Message   Be ALIVE. SHUN the PROGRAMMING.   &#8207;@b4_zod be alive, shun the programming is fair advice; for the actual amish. @amish...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://everythinginbloggeration.blogspot.com/2011/09/eib-tidbit-9102011-egypt.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1_e8SStCEasJnrQoLOm462sCeHKG360isa863SGfA6_LagAsfKi7blykIj7czwr-9s7NdNj54DmCVfsrTdCI23DKttXSBQCBwQespfP4l7Tg9m=w72-h72-n-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://everythinginbloggeration.blogspot.com/2011/09/eib-tidbit-9102011-egypt.html'>EIB Update: Egypt and Middle East Tensions 9.10.2011</a></div>
+<div class='item-snippet'>It seems the Israeli embassy was invaded and ransacked by a mob of anti-Israeli&#39;s.  This should not be surprising. More information soon...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>Twitter</h2>
+<div class='widget-content'>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/amish_man" data-widget-id="347150836939489284">Tweets by @amish_man</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class='clear'></div>
+</div><div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>Blogathon (Knowledge)</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0wvaNLMcTmuZ5sFBsVF13lN2ZYqMyN-CxMNrlcIYeGBvCFgLcWNxUXQufU9Hi2eBiUdeYu45r8tVX9PWA8bbb7KXQoY9g5=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://instapundit.com' target='_blank'>
+Instapundit</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://instapundit.com/553149/' target='_blank'>
+THE MARGIN OF CHEATING: &#8216;Illegal Electioneering&#8217; for John Fetterman, Josh Shapiro Caught on Video&#8230;.
+</a>
+</span>
+<div class='item-time'>
+1 hour ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2E72U_rniTpSXrWAt4SO9M60o2wnFuj32mU7Gx-hMBFA9CXNoziaiElHgox_PL2YrfAoW1M7WGFsmbQR1WX79oAMPCH6My=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://moonbattery.com' target='_blank'>
+Moonbattery</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://moonbattery.com/threat-to-democracy-talking-point-did-not-resonate/' target='_blank'>
+Threat to Democracy Talking Point Did Not Resonate
+</a>
+</span>
+<div class='item-time'>
+1 hour ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1fIAfyp5FC6R_AM-VlkU80aQlJVOCA7o2Ts9D87LYkoFV7SZKwPHzOHNinWqxDCRq0wLTFHnEBkkyqb52HIbT2mzQ3bX7N2w6eEw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.openculture.com/' target='_blank'>
+Open Culture</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.openculture.com/2022/11/the-fiske-reading-machine-the-1920s-precursor-to-the-kindle.html' target='_blank'>
+The Fiske Reading Machine: The 1920s Precursor to the Kindle
+</a>
+</span>
+<div class='item-time'>
+2 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3Sr5FN7R8SZBPuAHbFF-YPVZObzZVwSQ30TVm-EXjVkS3LbAjgJchLeVlNKBPnyGWBK7dSAxkrbXMxmbLQ4uoc0t1CrfbWuh2vZDYkXhVU6-jnGbFazbDDfBwTZr9Gz1M=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://reaganiterepublicanresistance.blogspot.com/' target='_blank'>
+Reaganite</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://reaganiterepublicanresistance.blogspot.com/2022/11/trumpmaga-boneheads-screw-up-another.html' target='_blank'>
+TRUMP/MAGA Boneheads Screw-Up Another Election for Republicans&#8212; and NOW They&#8217;re Stuck with Him Running for President Again
+</a>
+</span>
+<div class='item-time'>
+4 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0cvZWpJhH1x1ZwDdWM5x3Dd5c_GeAC1cYe_M4WByy81-l1cVnOfOlRs-TT7BiTC9u97LMjHd1k-QHuGD7ikqkw0oEuhD_3ksg9_rdwJA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.westernjournal.com' target='_blank'>
+Western Journalism</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.westernjournal.com/breaking-winner-decided-pennsylvania-senate-race/' target='_blank'>
+Breaking: Winner Decided in Pennsylvania Senate Race
+</a>
+</span>
+<div class='item-time'>
+7 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1EGNBv7P45qSOehkjxzph6FIAQOOEvSaEQBHhbVt4_t4wbMtX_SwRrRBYRhzze3gYJ1x8gwxEZ-5t4fY-lUirD8Fp-6uOYWBTlAOep9IrXNtbUCw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://theacidsweatlodge.blogspot.com/' target='_blank'>
+The Acid Sweat Lodge</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://theacidsweatlodge.blogspot.com/2022/11/slogans-continued.html' target='_blank'>
+Slogans Continued
+</a>
+</span>
+<div class='item-time'>
+8 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0ojkhI5DmV4PuJ_6NiBprdVMEGTn8z8HWqNA0je-kow49y_6vfxczLFVCj5TUgILdoBFTnc9dkBMwHWwdgtlzjqREsIBlbYQfI_Ao=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://loonpond.blogspot.com/' target='_blank'>
+loon pond</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://loonpond.blogspot.com/2022/11/an-afternoon-delight-for-ned-everest.html' target='_blank'>
+An afternoon delight for "Ned" Everest climbers ...
+</a>
+</span>
+<div class='item-time'>
+9 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3AbDeLIAS6x2COu9wRKKUzvlY71UccEEvWCSdqgsg0_6omZ8-ulakSggdP38_ib1VDlpS9HITfWuByg4Zkk5Xq-7bqh2j_I5pEQpI=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://pencilink.blogspot.com/' target='_blank'>
+Pencil Ink comic book artists blog 1950s 1960s 1970s 1980s</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://pencilink.blogspot.com/2022/07/chuck-norris-3-steve-ditko-art-sky.html' target='_blank'>
+Chuck Norris #3 - Steve Ditko art
+</a>
+</span>
+<div class='item-time'>
+9 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2cGG7JAfw4MTQs9jytR3ca5O-6YQwWz1JAxE6awkxl2tF_PUtHWeP3rbxRZFxVzN-aJWNS6ufn9woSKOekKgW3-pSjHtQaxtkX=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://theothermccain.com' target='_blank'>
+The Other McCain</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://theothermccain.com/2022/11/09/in-the-mailbox-11-08-22/' target='_blank'>
+In The Mailbox: 11.08.22
+</a>
+</span>
+<div class='item-time'>
+10 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1DYa9uJXCjZMdpmmP8STAwQ_dpgcmTOiEO5E6ojRk85zubWQ_neOhKEejTSvu0JgqEVgxPO7u1BlomMWLpao2-dHeGFWh93noP-ynVAP7aWrMgV7ScWVk=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://andeverythingelsetoo.blogspot.com/' target='_blank'>
+and everything else too</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://andeverythingelsetoo.blogspot.com/2022/11/meeting-lance-kerwin-making-mr-barlow.html' target='_blank'>
+Meeting Lance Kerwin / Making Mr. Barlow PT. 1
+</a>
+</span>
+<div class='item-time'>
+13 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha14428MKiDjEC70zLKLdZcJ1Z4MsNu23oa_MrCO_veebg6YMNB1NW5rEbne87rMTWceHzuwObpije0E0wFJdpcIA7H1wJkUKg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://forgotten-ny.com/' target='_blank'>
+Forgotten New York</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://forgotten-ny.com/2022/11/magic-bus-midtown/' target='_blank'>
+MAGIC BUS, Midtown
+</a>
+</span>
+<div class='item-time'>
+14 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2wWjoUOSul69qY1skKkXOKRCaMl7X0qIxdzOErlrMhzpRxntURsYft6wF1fq0aVFt_SfH-aj6Jf9z40RUTN9nYpRzb7wquEhNu14oh4H8=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.danielgreenfield.org/' target='_blank'>
+Sultan Knish</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.danielgreenfield.org/2022/11/a-chinese-influence-operation-promoted.html' target='_blank'>
+A Chinese Influence Operation Promoted an Anti-Trump PAC for the Midterms
+</a>
+</span>
+<div class='item-time'>
+16 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha23XxSfn6SpQ-grpKLBdyYXLSBB5AjCzyw_mW4JKqWyhCMzjAxqcQQnjlh7jp3yKzaJ8B3mlAaKVR6Pp8okECWhwp6sRt0uhNTM2sYXQI-U8jPqTA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://americanelephant.wordpress.com' target='_blank'>
+American Elephants</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://americanelephant.wordpress.com/2022/11/08/what-shall-we-do-about-our-fossil-fuel-addiction/' target='_blank'>
+What Shall We Do About &#8220;Our Fossil Fuel Addiction&#8221;?
+</a>
+</span>
+<div class='item-time'>
+17 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0g2CAhe-FWzu1UolWYYuOTW8W_QMeZuB7XKf29t-6bzwlVQW8TRoRqfoVl4nGHBE-7TSjf_nG4ndDaewhR8O_baRry5iuTq97p8nhbbw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.artofmanliness.com/' target='_blank'>
+The Art of Manliness</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.artofmanliness.com/health-fitness/fitness/how-to-bench-press/' target='_blank'>
+Bro Basics: How to Bench Press
+</a>
+</span>
+<div class='item-time'>
+21 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1QzyxHlq5Ho7b2PkhyftvJ8cVDyDxiVQmKr6OragzuN9xx8yLlsn_N7ar88E42FXKirNV5egvJGfw4aU4ZQPCuqQYsmmvflPyRIBfwL9s=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.incidentalcomics.com/' target='_blank'>
+INCIDENTAL COMICS</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.incidentalcomics.com/2022/11/lonely-cloud.html' target='_blank'>
+Lonely Cloud
+</a>
+</span>
+<div class='item-time'>
+23 hours ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha24LMTvHjv8kZ8i2M4OfVagupM8sZsEZFMtTXmhJcdXdj-YfQb3KXJ0XtalVo44Qh66ikmVsitwXQ8zVVL4LgNm9iCNqS-AxoQVrZj6vzRx8H4iMLs=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://thehorrorsofitall.blogspot.com/' target='_blank'>
+THE HORRORS OF IT ALL</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://thehorrorsofitall.blogspot.com/2022/11/the-secret-of-moaning-ghosts.html' target='_blank'>
+The Secret of the Moaning Ghosts
+</a>
+</span>
+<div class='item-time'>
+1 day ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3DXOm34g3JOkEKwqIhtBaj1sODm_wKZrSwI2-jVx8myiWIdLD1ciQOrhGeeXzI-HPLt91fN3O9xXQ-8p_KYR6zA3ZGmh6V8zD_DrjRlbSLIJB17zI=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://americanpowerblog.blogspot.com/' target='_blank'>
+American Power</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://americanpowerblog.blogspot.com/2022/11/larry-sabatos-final-forecast-for.html' target='_blank'>
+Larry Sabato's Final Forecast for Election 2022
+</a>
+</span>
+<div class='item-time'>
+1 day ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3HzfhJel7btnwtTQOa6Phjay-0-vyUt_-oL68Cjrjr0azr_vGYGTIXM5HhtVd7oxp8BzAcCwBQ9k-aWsZkmbIS20PmheWHfctcscPm66vBaQjLReU=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://horror-movie-a-day.blogspot.com/' target='_blank'>
+Horror Movie A Day</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://horror-movie-a-day.blogspot.com/2022/11/the-piper.html' target='_blank'>
+The Piper (2015)
+</a>
+</span>
+<div class='item-time'>
+1 day ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1SX3O0jqOHNFd10opKifI5xxH_SH8oNQtnFQf_EvliQUpmEtjoUA-5BysORilzlI9HzeFJdIkzgzlkq7DpvEYPZqA3ZXgsC7yVO4J7TKSfc0N4mEB8Nk8g5GCE=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://unthoughtofthoughsomehow.blogspot.com/' target='_blank'>
+Unthought of, though, somehow</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://unthoughtofthoughsomehow.blogspot.com/2022/11/mimi-parker.html' target='_blank'>
+Mimi Parker
+</a>
+</span>
+<div class='item-time'>
+2 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2dHZKj5o_H4oEg2LFKRlZt9-USMMuHOuB5FIlR9YATyFwZ4fVQgTQuv4mr3_cL94y5ceZvBfKrxv6NvZQ2OgwG3nNoKdCAcBg0gpfuIDDISQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://frugalchariot.blogspot.com/' target='_blank'>
+The   Frugal   Chariot</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://frugalchariot.blogspot.com/2022/11/strange-boy.html' target='_blank'>
+Strange Boy
+</a>
+</span>
+<div class='item-time'>
+3 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3ceqwj1bq0-1kV04OWcFROFLUZrFWSvrGhRDHM-k2_-EegJjpmIhDwt4bv3vz7WLH04JhR6KyjIOkUIA9lJ_W9lRsWL07IBLac9ljThAX7Y9zN5YQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://wendylovesjesus.wordpress.com' target='_blank'>
+Seeker of Truth</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://wendylovesjesus.wordpress.com/2022/11/06/rescue-me/' target='_blank'>
+Rescue Me
+</a>
+</span>
+<div class='item-time'>
+3 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha233aCsfRv_oKPc3HpYlpHo4692hleFkAlY_a0_2X6Wr7L1CXIEABzGjc3PQ-f7gmDX1FjxIg7560t-bpsD53HskuniNVrDhM5eT_dkdA5AKNI=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.expandedperspectives.com' target='_blank'>
+Expanded Perspectives</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.expandedperspectives.com/the-aquatic-ape-theory-and-more/' target='_blank'>
+The Aquatic Ape Theory and More
+</a>
+</span>
+<div class='item-time'>
+4 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3eCtGA7YKpBWgFdMYPI582Z4VkY97uXm0ZtuYbkXn0ZZnNule4T3TcbpDWfDec_zyaHk_83eB5hpzW2YZmW5_1InwwCN4s9P2IaBhjj2A=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://scarlett156.blogspot.com/' target='_blank'>
+Just another day in You-Know-Where (Scarlett_156's blog)</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://scarlett156.blogspot.com/2022/11/i-started-working-on-this-today.html' target='_blank'>
+I started working on this today....
+</a>
+</span>
+<div class='item-time'>
+5 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha074wYCFiPIs6AjIQPh0Lk8dEheU5AtY6H1SaiE0udDzPleb4_aGwWcM5Z84P2Xq5nj8SuJLDFAbyHxgTtFNbSKopxvF173egyI7Oc5NA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://secretsun.blogspot.com/' target='_blank'>
+The Secret Sun</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://secretsun.blogspot.com/2022/11/nothing-is-ever-quite-as-it-memes.html' target='_blank'>
+Nothing is Ever Quite as it Memes
+</a>
+</span>
+<div class='item-time'>
+5 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2wahRtd3lr4Iw1PT4NdYa1u8wFTAA-kt7ZBWuLwlYexuFfbg-GcHj4p36U7QFvHI_iQpYWw-cDApMrtMcZ7AkDkQ8U4efPBglaxv0=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://mjbanks.blogspot.com/' target='_blank'>
+M.J. Banks</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://mjbanks.blogspot.com/2022/11/sebaceans.html' target='_blank'>
+Sebaceans
+</a>
+</span>
+<div class='item-time'>
+1 week ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0cj3agk_oCrGXso8keUiCo0I1yfpWi-0RisIix4045Rs9VFg5yuCgTfCZvGLYv-YB03Brm_MQDBUVxxPlC6O4Ma_DPaJf92A=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.theospark.net/' target='_blank'>
+Theo Spark</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.theospark.net/2022/10/leather-laptop-messenger-bag-vintage.html' target='_blank'>
+Leather Laptop Messenger Bag Vintage Briefcase Satchel
+</a>
+</span>
+<div class='item-time'>
+1 week ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0dsr3cdxZyIda0EyhHqO-D5xwWdrMYCehHrNjY4-XGzQ37E1-o7tD65dn4IYG6nRAjXTrGV1Qo79ddBRS0uz02ec5oDOrk4eg_=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://radiomisterioso.com' target='_blank'>
+Radio Misterioso</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://radiomisterioso.com/2022/10/25/jeff-kripal-the-superhumanities/' target='_blank'>
+Jeff Kripal &#8211; The Superhumanities
+</a>
+</span>
+<div class='item-time'>
+2 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3s8_uRj2nd46iXXK85nNGM721LbH790xaiNPGBkYhdfeISzKoRXi1H5J56ZqwB_aE3HfJNgX8g91gmx9OyQaC8BEsPAFe7W0TQPH9I0AnPZo1EWjE9-Q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://wordcount-richmonde.blogspot.com/' target='_blank'>
+The Art of Words</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://wordcount-richmonde.blogspot.com/2022/10/writing-tips-subject-verb-object.html' target='_blank'>
+Writing Tips: Subject, Verb, Object
+</a>
+</span>
+<div class='item-time'>
+2 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3zW7n42P2Qa7SUQ3Zvv0snKxgW_PRbqair4Qaoi8UWdgUHBzqMaKbt6DC99kjH8xbBeDbo-9Rrjjb4Op2bi6L7YfnKZ4I_y5In5ZzU=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://politicalfireball.com' target='_blank'>
+Political Fireball</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://politicalfireball.com/2022/10/19/vote-early-bring-a-friend/' target='_blank'>
+Vote Early, Bring a Friend
+</a>
+</span>
+<div class='item-time'>
+2 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0FkA7VCwoyZDhCuqH24-5-JboEMfQ52V3n5-fWHKcjYYtTB_oRik_FheOk1w_ei4bQkIIvhxUuOtMiEnoKkv-Wv0ayED8RnqliC_-lyTIB0ni0=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://hiddenexperience.blogspot.com/' target='_blank'>
+hidden experience</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://hiddenexperience.blogspot.com/2022/10/great-horned-owl-on-little-league.html' target='_blank'>
+great-horned owl on the little league backstop
+</a>
+</span>
+<div class='item-time'>
+4 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0j31JYOR889Vbb1Fxd2CQOawV61aeJomLl1U8oydBq3VzYO9r0Pki76EKkSYd29y6-FNRwti5p2VrHBR9SK-i-bJQGTnDjnw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://mountaincomics.com' target='_blank'>
+Mountain Time</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://mountaincomics.com/comic/mt1122/?utm_source=rss&utm_medium=rss&utm_campaign=mt1122' target='_blank'>
+Red Barked Trees
+</a>
+</span>
+<div class='item-time'>
+4 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0jOCZs6kdX7HhlyFsCNYe7bAbP7k0pO5ptrn2vGLZJ4YaixXRsAhUHqAi-eb7T_2ST0lqx7YNPT25nuGFCVVUELfDM1Trd0JwOhQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://blogofthecourtier.com' target='_blank'>
+Blog of the Courtier</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://blogofthecourtier.com/2022/kamal-haasan-hits-on-aha.html' target='_blank'>
+Kamal Haasan Hits on Aha
+</a>
+</span>
+<div class='item-time'>
+5 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0aP_K5npjj8Ld7T9tmfK6MN8L9UsmqGj2ltf4iFgmc0r4-TeD5fzZjkHScJexVnJBwjXG9Wj3L4UTfNyXUAsTkEBKO_5rHp_x2WTkYTJej0FEKnw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://dulltooldimbulb.blogspot.com/' target='_blank'>
+Dull Tool Dim Bulb</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://dulltooldimbulb.blogspot.com/2022/09/antique-american-folk-art-drawings-by.html' target='_blank'>
+Antique American Folk Art Drawings by Mantie Throckmorton c.1925 in a homemade portfolio
+</a>
+</span>
+<div class='item-time'>
+1 month ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3KTJdaPZdsicG_c4ocHqAmoyr1aRk7q5-mdDpE0JQI-ycwUU84PpKiNrji7IxQnd8npAujPjbO_-tsHq8mjwuL5A=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://50watts.com' target='_blank'>
+50 Watts</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://50watts.com/Kozo-Yokoi' target='_blank'>
+Kozo Yokoi
+</a>
+</span>
+<div class='item-time'>
+1 month ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha31G9vL-Eks0efWMbZD4Z_qYqrJstQ2gsvYN1-ErL4zGFlV8iOFdTOFFv8UGhfWlvNDDVe3RoGOUUAWSMPb4E86jV3z7lQR_YwEX5tBb8qJxjby1b11T-jVe4w=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://fpdorchakrealitycheck.wordpress.com' target='_blank'>
+Reality Check</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://fpdorchakrealitycheck.wordpress.com/2022/09/02/a-beautiful-voice-in-my-head/' target='_blank'>
+A Beautiful Voice&#8230;In My Head
+</a>
+</span>
+<div class='item-time'>
+2 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0gOmYLljpc73Lv9wFbdN3FKGlb7FTjjVtFGDA8mz1yfmOI4bPb9GnCHwrsvhhC6eawrVKmltIy93aw30Fbt--AeuqlnQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://danlacich.com' target='_blank'>
+Provocative Christian Living</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://danlacich.com/2022/08/31/a-fresh-look-at-a-familiar-story/' target='_blank'>
+A Fresh Look at a Familiar Story
+</a>
+</span>
+<div class='item-time'>
+2 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3WDkNvI8mc2YmBsdgSPQTZiODvRMBjBXxotGSb4xEpalH9P8Ai0rH-r0UD7IIxehn1myW6C3PbfyKBzPpJOETSUn9ZCRGmpztM6aL-a_QW6w=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://monsterbrains.blogspot.com/' target='_blank'>
+MONSTER BRAINS</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://monsterbrains.blogspot.com/2022/08/osamu-tezuka-1928-1989.html' target='_blank'>
+Osamu Tezuka (1928 - 1989)
+</a>
+</span>
+<div class='item-time'>
+2 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2IXa1iCoC7gYSvoKqBU06Lx9n93iFfdWVHpcCKdsvSicL7JVpwRFFjOr7QDOCdtS4DZqMaBWCsF7AZ2I8l1-zxsD2pMAuPkaAQKJdyMF8=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://kelliejane.wordpress.com' target='_blank'>
+Princess of Swords</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://kelliejane.wordpress.com/2022/06/05/i-have-become-pretty-bad-at-prayer/' target='_blank'>
+I Have Become Pretty Bad at Prayer
+</a>
+</span>
+<div class='item-time'>
+5 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1rIkV7HiIc2VNs0BM8KFZSjvVisuh1nEWt579f-dmtJoUD_gzvX1pdZkij7H2bWkyscGqdV_RFFgcKqHmvoKZ9thiSsox9VgpI1bsxqFOTbA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://dreamtraining.blogspot.com/' target='_blank'>
+Dream Interpretation: Everything about Dreams</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://dreamtraining.blogspot.com/2022/06/epidemic-forces-indians-to-leave-cities.html' target='_blank'>
+Epidemic Forces Indians to Leave Cities Seeking Clean Water
+</a>
+</span>
+<div class='item-time'>
+5 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2E_eyE0YT35YXK3SlasnDboNLYYDQkMuLvIEWp_TREXBPE8FY-NY1kYDDMWjGg-3DKmn6uIUOHU0khvYpm4U4OrB7JncOBpCsdFpydyxBT=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://conversationalreading.com' target='_blank'>
+Conversational Reading</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://conversationalreading.com/2022/04/26/hello-world/' target='_blank'>
+Hello world!
+</a>
+</span>
+<div class='item-time'>
+6 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3KNZQN5TIkqGWDVdDAeKo7zo11ViufK0uU8dDPpKVKZGMWA1lVOIS_s01p5c7CRfCsn6aEOGTc6N3MbUpSiTwUK25cSfwyMP6UKIZdW1KFz8ch9LFZAw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://moleculardispersion.blogspot.com/' target='_blank'>
+Molecular dispersion beyond the integrity point</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://moleculardispersion.blogspot.com/2022/04/din-rail-mount-dc-voltmeter.html' target='_blank'>
+DIN Rail Mount DC Voltmeter
+</a>
+</span>
+<div class='item-time'>
+6 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3v61Okc6L8yAJfzHuHnWG4MjcQS7XXWDaDlJg3zMbJ3mOESq3ZAVcLhID33gJZ48E7EkVtT-P8o1pU5_DXZqi0OzSjjiEZSrugpa-b5szrZg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://brickbatbooks.blogspot.com/' target='_blank'>
+Brickbat Books</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://brickbatbooks.blogspot.com/2022/03/events-calendar-march-2022-and-beyond.html' target='_blank'>
+Events Calendar March 2022 and beyond!
+</a>
+</span>
+<div class='item-time'>
+7 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha29pO_losLMP9kT142T7A8AINfSsg_FaOCir3JFZ7fB-dXcAg_2zPISCf6fz3TLSVIjC8zXRKDC3paOTytxr8UzT_eOx39sQSoO_L_eUNy3xGZwBk0=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://ageofuncertainty.blogspot.com/' target='_blank'>
+The Age of Uncertainty</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://ageofuncertainty.blogspot.com/2022/02/cold-comfort-farms.html' target='_blank'>
+Cold Comfort Farms
+</a>
+</span>
+<div class='item-time'>
+8 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0uLyEmc6KpwMJURAAkJtxmVM0PmTgIbRqwQjmmoV6BwkybpijGolPL191uCcoli3DwYWz7dQptMIWpIr8hD8DnhH1g_f04dzxQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.threedonia.com' target='_blank'>
+threedonia.com</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.threedonia.com/agen-judi-live-slot-online-mudah-menang-ratusan-juta-rupiah/' target='_blank'>
+Agen Judi Live slot Online Mudah Menang Ratusan Juta Rupiah&#160;
+</a>
+</span>
+<div class='item-time'>
+9 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha03AEFzx9Wiz0MPngf40BuKTwKSXsGaIf6k1TUG0iUdCNUsbQWAkiqBhC_n0ZX13PVDWlyRqPouQjt_WK7STQdqDI1sVqk7hnZMPC345crg-QQDlw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://pappysgoldenage.blogspot.com/' target='_blank'>
+Pappy's Golden Age Comics Blogzine</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://pappysgoldenage.blogspot.com/2022/01/number-2599-when-madam-fatal-could-have.html' target='_blank'>
+Number 2597: When Madam Fatal could have been arrested
+</a>
+</span>
+<div class='item-time'>
+9 months ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha16G8-Ohx7WBoqc7ZFVKOPKtd-59Afqd5QiB140k1JnTqDuXiyTCVLpb5a90vGu8TMFlyCtLi3zSi7xSmJhkYJtm0j9t-xXTXqF8dU6UNIcZNfXAquFylTltYw_=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://thewildernessofmirrors.wordpress.com' target='_blank'>
+The Wilderness of Mirrors</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://thewildernessofmirrors.wordpress.com/2021/03/06/rise-of-the-fourth-reich/' target='_blank'>
+Rise of the Fourth Reich
+</a>
+</span>
+<div class='item-time'>
+1 year ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha27S0-UB5-7vFSBydyltXSivhPBZSbMiBjfJOlciuNSMr6ALL7KZ_ITtbSaOTT1kCU2YXaENwXGPsJzmhYawb6cbEwdilxTHJpdW800vTv2_zM8Lg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://barracudabrigade.blogspot.com/' target='_blank'>
+#BB4SP</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://barracudabrigade.blogspot.com/2021/01/biden-kills-trump-order-expanding.html' target='_blank'>
+Biden KILLS Trump Order Expanding Access To Opioid Abuse Treatment
+</a>
+</span>
+<div class='item-time'>
+1 year ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0qQb2xXgxvc23WLO_2nwgsJFEbfDh6hAEqwxG-tl9uOaxnYFPKpe56V8qdoYspfspcB9TpPYqVP8ieK6rQ7Yqd_fv_it0bo8HYRQVGbLSNGSHyksQg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://thefunhousejournal.blogspot.com/' target='_blank'>
+The Funhouse Journal</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://thefunhousejournal.blogspot.com/2021/01/music-2020.html' target='_blank'>
+Music 2020
+</a>
+</span>
+<div class='item-time'>
+1 year ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3kuFO30jh_sKJUeBqDpyJbLrHVmNXVe0R4QiG6dK5v1p6Dm-P-KzRzQ3y6ypnKgz6InYtIQUry4Na3ZBvur2az4Q1ehFDFsLdJUGnB8BA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://lizziefiles.blogspot.com/' target='_blank'>
+The Lizzie Files</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://lizziefiles.blogspot.com/2020/11/life-is-like-writing.html' target='_blank'>
+Life is like writing
+</a>
+</span>
+<div class='item-time'>
+1 year ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3jqyq-oCqFwQGk7k0rNVOgyjOXgcp90xN2jmq_vMv7YKIqxtEamFNoS1HjJGQ_DBJ9H4OM3-ndZnqRdbVPP-5saWEgY38OPpgRU6inxbE=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://fantasy-ink.blogspot.com/' target='_blank'>
+Fantasy Ink</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://fantasy-ink.blogspot.com/2020/09/coloring-bernie-wrightson-coloring-book.html' target='_blank'>
+Coloring the Bernie Wrightson Coloring Book
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1oq-Cs8_PLUTxaWK9TTJTwsYsYjaVTmLXQ4aZqJqLsC-XY7c7DPSWhBJ9MXDC5zKRRLbVQn1nP4B3Aun7Nv3GVGaXqlOQDRDk=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://acommonreader.org' target='_blank'>
+A Common Reader</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://acommonreader.org/bonus-deposit-sportbook/?utm_source=rss&utm_medium=rss&utm_campaign=bonus-deposit-sportbook' target='_blank'>
+Promo Merdeka Judi Bola Online Superbola Mencapai 17 Juta Setiap Harinya!
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3AQghQiUbOkCfWpuQHDpfuJY1d0_JuuzLJ9EQQacoUo4cg6g-MVPYAJRozGo4zTt2g-ExLZJIczUPfUPBS9TA1HNJiCaDdoGSNKT0nh-crOw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://drawandstrike.blogspot.com/' target='_blank'>
+Draw and STRIKE!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://drawandstrike.blogspot.com/2020/04/howto-virtue-signal-your-city-into-slum.html' target='_blank'>
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0LiYCOH1ONAS93-B5C7feGJupcXQxlMVln3BiBP-YRmpHxHoOY1RI7aGbJhNOaqEt2rWi-J7v5dGqCLd54ZB0SLXIk9TF2QzDcl9g=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.redlemonclub.com' target='_blank'>
+Red Lemon Club</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.redlemonclub.com/5minutemeditation/' target='_blank'>
+Using a five-minute meditation to boost my creativity
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2nG2n8dZfoLogQl7bHUyXpypfRic-eSa2DzcNwdMy10dDetPzqGsgtAsFOSLMZ8GkZHpGDDhBWKcrjQuGvMytVS_5scU2T58h7BOFMCveN_No=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://active-listener.blogspot.com/' target='_blank'>
+THE ACTIVE LISTENER</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://active-listener.blogspot.com/2020/04/the-return-of-active-listener-sampler.html' target='_blank'>
+The Return of The Active Listener Sampler
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0Fcw8WyxkFUhdsqERt5XyDUTyai9bKjKbFFu0iXoIx4jo_-9-bQ7HUfJXFMcS05fznkazW4in_WCbCOjU699mjRxP7y_3jNeju22dtPLnyjGtJDPaJF20-1Q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://thepassionatemoviegoer.blogspot.com/' target='_blank'>
+the passionate moviegoer</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://thepassionatemoviegoer.blogspot.com/2020/02/encore-film-that-defines-me.html' target='_blank'>
+encore! the film that defines me
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2cmrqz6KmESWDZW6oBImpz6QBHzKvRJO0OTmH0lL7-3mokuKe4pyczE-W5KrnuigJIl08I5OId64YKCfH7FdV4an0n9vKqg8E5t64XC-wTWNqE=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://betweenchannels.blogspot.com/' target='_blank'>
+Between Channels</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://betweenchannels.blogspot.com/2020/01/smokey-blues-away-and-returned.html' target='_blank'>
+Smokey Blue&#8217;s Away (and returned)
+</a>
+</span>
+<div class='item-time'>
+2 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0g3EocD8d4BqnvVUhVUrCRrY8we93i26mNqs4yXHeiBea92D3xPXn8yO2jZU47GFXmqUb3DN25i96quCEMmGdJe_SK8aLVtU802vlEbg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.terrystarbucker.com' target='_blank'>
+TerryStarbucker.com</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.terrystarbucker.com/2019/08/27/the-3-people-that-stand-in-your-way-of-business-success-and-how-to-move-them-aside/' target='_blank'>
+The 3 People That Stand In Your Way Of Business Success (And How To Move Them Aside)
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha10rC2h5ZU1OgUx8c4QS6ihVgtR6XEm_e_iN1KJnEnLaaCPwPf74xhs15_vCyZD5A=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='' target='_blank'>
+Free Music Archive Blog</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='/member/Danny_KitSplit/blog/20190809100717627' target='_blank'>
+We Crushed Some Bugs!
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0oSO6OSme_gCZwHy42_cMf7qLjtDQWQZrSI8Hdfyf5E2OWh9kluaUo8_A39CApY5qePOu9gbJ4CalwRzxNOU6_GTerMHaBSZM=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.retrospace.org/' target='_blank'>
+Retrospace</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.retrospace.org/2019/07/7-reasons-why-you-should-buy-vintage.html' target='_blank'>
+7 Reasons Why You Should Buy Vintage Clothing
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1JxCG3iXUNhdLgTqUSRevguE6zBNVFK-yxT8v6iNX0v2FNlV1HOblvfveDIhDE3GLX4DRid9iORyDh5eFp0XquC_JE2dxJlMHGB5XY9hF6gJaNpnl0GgLDougBTQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://adventuresintheprinttrade.blogspot.com/' target='_blank'>
+Adventures in the Print Trade</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://adventuresintheprinttrade.blogspot.com/2019/06/the-pre-impressionists-camille-corot.html' target='_blank'>
+The Pre-Impressionists: Camille Corot
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1ieLBBc2_phGtQRXO3dfGr0RwUkyy__tiiTzC_ZjBLzJ_XVYWL855e1aTS-62_5dAjo-4orQJqpXi2XNQ6qZVos0YW-E6-JvYdEGrDjes=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://pg-matuszak.blogspot.com/' target='_blank'>
+Mental Aikido</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://pg-matuszak.blogspot.com/2019/02/a-hard-farewell-in-memory-of-lisa.html' target='_blank'>
+A Hard Farewell -- In Memory of Lisa Michalski
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1Rpp2VQOTwE-rUniv5XCBBWZL6VuBNOvOjY0nVBQF1SkVLHN6P13JAvSByn_yK8S0cZzFUtX545XnGgknVbampkFYm6hiXh19gAwDtIEKo=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://forestgospel.blogspot.com/' target='_blank'>
+Forest Gospel</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://forestgospel.blogspot.com/2019/01/enough-by-anna-mantzaris.html' target='_blank'>
+ENOUGH by Anna Mantzaris
+</a>
+</span>
+<div class='item-time'>
+3 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1BqS_RAO5W-E4GAysFtA8wEFityHc5gSx0zqc-gwv7Gd39sv6FkcQLjnwxBQtlCgGxNlHfU039CFB8mIaACirkntEYtoF7YUECYZZxlY1UW5fEZg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://wordsoffreedom.wordpress.com' target='_blank'>
+Words of Freedom</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://wordsoffreedom.wordpress.com/2018/08/09/d-h-lawrence-on-the-american-soul/' target='_blank'>
+D.H. Lawrence On The American Soul
+</a>
+</span>
+<div class='item-time'>
+4 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1ge9h7_wswHVyq6DFy19N6-0w9Z83Qk91OlAEY6un1LKDqRUtMnX4MCSo2eGEzUtaddogJSVCYDWbAIrkhX3NSlsqpavRXO7m0TLF2oColWa4=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://screwballcomics.blogspot.com/' target='_blank'>
+Screwball Comics</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://screwballcomics.blogspot.com/2018/07/deluxe-new-screwball-comics.html' target='_blank'>
+Deluxe New Screwball Comics Retrospective Coming Soon!
+</a>
+</span>
+<div class='item-time'>
+4 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0Lou3SXxX0Ftc31In2sqtGSgGFeWU8LU27OoaQwL5ychrcOwLM-Nh-S7GM1955OUTIX6FBF3g8aezYQM3CLcDFLvDMIcOomDupT4b8Op7-kg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://inbetweennoise.blogspot.com/' target='_blank'>
+airform archives</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://inbetweennoise.blogspot.com/2018/06/stuff-going-on.html' target='_blank'>
+stuff going on....
+</a>
+</span>
+<div class='item-time'>
+4 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha03EdBOdR5anZVhR-M_ysdRm_yVKuYId5Ir5O-FyrdtUkye4cvubjJs6j-ns9kvHIYnS5ZxfJVQwq67XHY6Jc-4wT69L3pl-b-8-Q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://tsutpen.blogspot.com/' target='_blank'>
+If Charlie Parker Was a Gunslinger,There'd Be a Whole Lot of Dead Copycats</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://tsutpen.blogspot.com/2018/04/facsimile-podcast-32-act-of-seeing.html' target='_blank'>
+Facsimile Podcast #32: The Act of Seeing Series 1, Episode 10: Je vous salue, Marie (Jean-Luc Godard; 1968)
+</a>
+</span>
+<div class='item-time'>
+4 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3FZWwMI4o_JiEAKSE6eDAsxoxEdOeYpSGLua4LaQeAB5_HHsySOAEUGfqmwsw2H4tg5AAz--EV-SrnQLzXseyCUTJmi80t8DS-j8A=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.newsninja2012.com' target='_blank'>
+WayneDupree.com</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://www.waynedupree.com/mia-love-wants-trump-apology/' target='_blank'>
+Haitian-American Mia Love Wants Apology From Trump Over Divisive Comments
+</a>
+</span>
+<div class='item-time'>
+4 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2nP_6b0dHbKTNjpstslKfslwwcMiinuf9k_H93ReJ1OS8JTaXQMdPs8b3w7wcVm79AlYU0BLAf5hS6jxWZi3vtmoPL3GY9101KGCWd8tHwgpw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://ourgodisspeed.blogspot.com/' target='_blank'>
+Our God is Speed</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://ourgodisspeed.blogspot.com/2017/09/cargo-culting.html' target='_blank'>
+Cargo Culting
+</a>
+</span>
+<div class='item-time'>
+5 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha29_MsOwZZDqLDlMb-Mxy9v4HSfRjWwsmDCyc_3Yu5p4uJrHMz2FjnoS13EJegiAHUL_gEDRGk7dbXCSUhAZibgcuXmKaheGw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.1913intel.com' target='_blank'>
+1913 Intel</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.1913intel.com/2017/07/29/watch-out-for-popping-bubbles/' target='_blank'>
+Watch Out for Popping Bubbles
+</a>
+</span>
+<div class='item-time'>
+5 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2BEWlgMwhW7btOMOHBJ4avgu_KA8VScqvr-1PdtPWq6VpaIIWKFwQkLDvth29alK0rsfQNkjr7wCtW0EVWQtY3EiCeE5NC1Fjd3ouOMMmGi8g0J8Fq=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://randomactsofgeekery.blogspot.com/' target='_blank'>
+Jon's Random Acts of Geekery</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://randomactsofgeekery.blogspot.com/2017/06/a-fond-adieu.html' target='_blank'>
+A Fond Adieu...
+</a>
+</span>
+<div class='item-time'>
+5 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1KsDU_ZMdEslvL-cr8nOu2JPln8vuBbqapiTsR2ZrCDP8KMsEwbcLW8LrqLRRktbMaxsp-tNRXm81sNCBAdDfsjRFw0I3Tu2Vck1NEI7wSNN8q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.bluecollarphilosophy.com' target='_blank'>
+Blue Collar Philosophy</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.bluecollarphilosophy.com/social-media-branding-seo/' target='_blank'>
+Social Media For Branding &amp; SEO
+</a>
+</span>
+<div class='item-time'>
+5 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3GegppNiJguNZ4UrkUDnj-Emu5FKa1yex9802yple_zqGnyQq2RHPq96pHn48jp1odptTbOiTwfFrJkAnxineideO-m8Z4ECF7g4ofIqniGAvCxA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://explodingunicorn.blogspot.com/' target='_blank'>
+Exploding Unicorn</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://explodingunicorn.blogspot.com/2016/11/relocated.html' target='_blank'>
+Relocated
+</a>
+</span>
+<div class='item-time'>
+5 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha17wXaB-KBkR62XMOEHIjM74CClUOGl1ybcRsm8RoSkwBFx2TYoTUUQvN9sGeLGz25uHJJLv5g4QxWRQ_qHKQfP27ZYPVQ1lrAlWME3IdjCCSP6e9cO-gJO=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://belburyparishmagazine.blogspot.com/' target='_blank'>
+The Belbury Parish Magazine</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://belburyparishmagazine.blogspot.com/2016/10/the-belbury-parish-magazine-has-moved.html' target='_blank'>
+THE BELBURY PARISH MAGAZINE HAS MOVED
+</a>
+</span>
+<div class='item-time'>
+6 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha107sYfYp-6fYqZ6if6fMhIAQVDUcNg9jESrElIGgn9iktXfOYLtimn_0HiU6_kec8WdatwsjiM4YDmEGHSNwH5Y1mZe5o0HbY=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.letterology.com/' target='_blank'>
+Letterology</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.letterology.com/2016/04/the-natural-history-of-palatino.html' target='_blank'>
+The Natural History of Palatino
+</a>
+</span>
+<div class='item-time'>
+6 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0IgQCzz2ETo9YtBmU5wpi2gJ1bdOFM4hBMftvhnnIFCrzCneZ3pMVL2VstwBUaBRXDtZWkwXRP6sBTW97-MLEX5maSmLX_SEvp8J5Yzbwr=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://retropundit.wordpress.com' target='_blank'>
+Retropundit</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://retropundit.wordpress.com/1913/01/26/laughable-to-build-greek-temple/' target='_blank'>
+&#8220;LAUGHABLE&#8221; TO BUILD A GREEK TEMPLE AS A MEMORIAL TO LINCOLN, says Senate aide &#8212; why not an Egyptian pyramid?
+</a>
+</span>
+<div class='item-time'>
+6 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3iPbNyUVtH5LrBfGp-1cAV5ZKwHTwQEWxWlarcBdrf4mnNhfgvVU_A_3bcUQvdUKptAYT1OzMiznjjjPicN6BfOcGDlhVKMpBzfPjouUBfJCDn=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://moundsandcircles.blogspot.com/' target='_blank'>
+Mounds and Circles</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://moundsandcircles.blogspot.com/2015/10/face-fuzz.html' target='_blank'>
+Face Fuzz
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3DvJ-IRrAMtsLBSVZ5j7FC57Grd7YZhGYA9LQwTzNt0Q2-umh2j06jlCVlDDB5bKkqzrwE7cs1tb7gx8x61mpLiwsvxSbyDzfwpZE1tDamxNleL9Hj=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://freesciencefantasy.blogspot.com/' target='_blank'>
+QuasarDragon</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://freesciencefantasy.blogspot.com/2015/09/the-end.html' target='_blank'>
+The End
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0-Eadd41_ccXvMwOTr4YXLVBSDI57F5wXR0pfJwaZZlbA3vgCYrO5C0csyW4pdoU-Maf9B_9jjoZHQpra-PYikphUDFA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://blog.wfmu.org/freeform/' target='_blank'>
+WFMU's Beware of the Blog</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://blog.wfmu.org/freeform/2015/07/you-no-longer-need-to-beware-of-the-blog.html' target='_blank'>
+You No Longer Need to Beware of the Blog
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3ppGzuPOyS0j_7vQ-FeBWptx8Pc1rO_DWUJGgx-UE-0vp2aN_y9CbVlwDJaAiptOUIX_jOPYQW68m7_Um-6wp8rOlpKPDKvzyxdFPiJzTS8UUPeg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://for-the-republic.blogspot.com/' target='_blank'>
+FOR THE REPUBLIC!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://for-the-republic.blogspot.com/2015/04/iran-yemen-and-us-history-in-middle-east.html' target='_blank'>
+Iran, Yemen, and US History in the Middle East
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha229ou-BRBl4GTH0xBjPgPAzg-XhGgIJ_TkRM641f4vyKq5OWiBWfnq21rixPd6zAnFxuob8pr4htAuW-74gF4bIyWvW4vG1nYtlJoRcvCVbL1c3g=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://toysandtechniques.blogspot.com/' target='_blank'>
+toys and techniques</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://toysandtechniques.blogspot.com/2015/04/re-re-re-up-up-ups_23.html' target='_blank'>
+RE RE RE UP UP UPS
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2d53qKFXcX9X845B2rsLR4qJ4Za2uqRO9aByQSyKOtDtOzXra2SvnG1Wlbp3AldHNjXz-pLkzYnS_o-RiwlJAwIpwl=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://datagarden.org' target='_blank'>
+Data Garden</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://datagarden.org/8532/adult-gardens/?utm_source=rss&utm_medium=rss&utm_campaign=adult-gardens' target='_blank'>
+Protected: ADULT GARDENS &#8211; GUEST MIX BY BRYCE HACKFORD
+</a>
+</span>
+<div class='item-time'>
+7 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3Bsrmlvy3K3_ybP5fA2YROsNkYvmDeNACF55cvS7Gtn8akL7Cb5cqbAVzZ3Ao2zTaxWppJj80FW7XCkIxxf5-VYiMsqg8phWoe7No04rRFq1si=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://wretchedmaniam.wordpress.com' target='_blank'>
+Wretched Man That I Am</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://wretchedmaniam.wordpress.com/2014/09/18/daniel-horowitz-happy-constitution-day/' target='_blank'>
+Daniel Horowitz: Happy Constitution Day
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0sLJe4Zxvg4rO91oMBvoWQ6JQ0QacOFp4603Kk7jA1eNsKctr4NAmeLWzGxRghm-5x0P3K2lkbwB_GD3FMF-NbUsSxc7PtgVA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://resisttyranny.net' target='_blank'>
+Resist Tyranny</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://resisttyranny.net/2014/08/07/parents-sign-online-petition-against-sex-ed-textbook/' target='_blank'>
+Parents sign online petition against sex ed textbook
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2wYG3gjQkCSEeqHPDUYqpa6AYeXUrdrlZgu2lU2dODvttjqu2cwI0me50Rhy7uX_ldyesPO3RtnCsmHclXKJH-LpWWkKkzXjMmL6oCL01MWYvXwkzJRAeN0EesmtfCSQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://ministryofkindredinformation.blogspot.com/' target='_blank'>
+Ministry Of Kindred Information</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://ministryofkindredinformation.blogspot.com/2014/06/cats-death-and-creativity.html' target='_blank'>
+Cats, Death and Creativity
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0am5rRtVLRavIPR8khvZlKcjTP9ILJIMgZTLsNQfsZ1caQxYcN0p_jiDrE2Z4aZ9Ca03cTIbs_iri8M5ttp4mbecZJAdopQNdOMk7K_Z4=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://fingersports.blogspot.com/' target='_blank'>
+A Sound Awareness</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://fingersports.blogspot.com/2014/05/monster-skies-mix.html' target='_blank'>
+Monster Skies Mix
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3rzihyKsRNotdiCvxuTdXmQI5lGCCiiAQX4LA2Me-uvPNhpSiAMNsLHZ4m3fp6ky_LRMNAAkBc4G7hTLUf7QNT6AsihH9JWOTKGFXUpB_mfqE=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://troglopundit.wordpress.com' target='_blank'>
+The TrogloPundit</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://troglopundit.wordpress.com/2014/03/05/want-conservatives-to-support-legal-marijuana-heres-how-you-do-it/' target='_blank'>
+Want conservatives to support legal marijuana?  Here&#8217;s how you do it:
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1SAa-wmzHS6_8AO1AEH-JVhYlRVIaz996rnlEIUGszMoZHlWD1XpfirzYZ3H9kzkj3y95kt6Y-P_c37QAfRwE-QKqudzXSvJY-9lPcv3TskGQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://oddity-archive.blogspot.com/' target='_blank'>
+Oddity Archive</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://oddity-archive.blogspot.com/2014/03/welcome-to-oddity-archive-blogspot.html' target='_blank'>
+Welcome to the Oddity Archive blogspot LEGACY PAGE
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0cvXLtS_puAXo3uIwwdWEn7drStTcc3yRTBCYGczo_toqTFfrgyyXJ9Zb2jyqKKzURGiPD4NS19R7JBDeOaNelzXVvgyS654CmglbjFlI8QD6ftxSw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://accidentalmysteries.blogspot.com/' target='_blank'>
+accidental mysteries</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://accidentalmysteries.blogspot.com/2008/11/snake-handlers-of-harlan-ky.html' target='_blank'>
+The Snake Handlers of Harlan, KY
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1wTE3XvMp8kryugZUmib0xp-a0GCznZO2Pd9SsayNaEIlk195ksN9qT8luWB63dzgOSCpR3RqrBKuK7cJI5hgjiNmPgNw2ilTd5FQYGE0WEA0Czw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://heatherpartridge.blogspot.com/' target='_blank'>
+The Daily Bird</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://heatherpartridge.blogspot.com/2014/01/remaking.html' target='_blank'>
+Remaking
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2H-stjqfZy0847RMb6Lli1BbFgPa9o6VsVKbuem9rg1IkCDXVHeQW3k-o_WmbKY_McSlZuHTayacxIgLKg1J05-Wi_Y-uHeq2fc3Ktrw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://fffreakout.blogspot.com/' target='_blank'>
+Free Form Freakout</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://fffreakout.blogspot.com/2014/01/free-form-freakout-has-moved-to-new.html' target='_blank'>
+Free Form Freakout has moved to a new website
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0BBmoeaiwhnjiyaLLsrF1SZqFdACNAawKS7wk0oMBJq62nfQyNKaAwDP4Azt8t8VqWckIiLWepSuG11LHUwQGtZAaV6EPJVo9lQ3nSkrMbCpHjmH8=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://ellenturningpages.blogspot.com/' target='_blank'>
+turning pages</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://ellenturningpages.blogspot.com/2013/12/bye-bye.html' target='_blank'>
+Bye bye!!
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1decvPxg_Fy_fXlCO_1jcgmP4ZSJntZVSUri9Hi-9vPJDE_wIq6HBKLSoCC5PuMmqQoKixTFg9nMflpIU6UDSxdZK99Bs3hzjcG_UBr0Z4zg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://libertyideas.wordpress.com' target='_blank'>
+Liberty Ideas</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://libertyideas.wordpress.com/2013/11/19/noticing-the-little-obscure-things/' target='_blank'>
+Noticing the little, obscure things&#8230;
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2vz3MQtsuvgpEy9PsHy4O8p1gdYyjKFPwE62QN9QyvOcuWe10lMME41vs0A95Fcn-lulDDcjD6W2zmcSD6BWagKiqEdWapX30K19ljHvwtc3U3=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://likedreamsville.blogspot.com/' target='_blank'>
+likedreamsville</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://likedreamsville.blogspot.com/2013/11/do-conflict-of-interest-rules-prohibit.html' target='_blank'>
+Do Conflict of Interest Rules Prohibit the NFLPA from Representing Both Jonathan Martin and Richie Incognito?
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2122N3RT2UMLECq36dcqEFDM_ZNeIpcqiOf5nzEPcJM_H6NCJF4CGio8V1XyOsajgUkoxsWf_aMi-gPUCNE7xhJ0eRGTjEvYyUTefBVg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://secretknot.blogspot.com/' target='_blank'>
+The Earth is a Secret Knot</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://secretknot.blogspot.com/2013/11/hanged-to-awning.html' target='_blank'>
+Hanged to awning
+</a>
+</span>
+<div class='item-time'>
+8 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0emsnGzxJ-C65OWZnc1SUx6hUr4XxJaUuYvucoYjhJzVvG6eykMzz8MnB_fRghgZ3PBSc8_P4090xBvjL0opELelvzSGGypYL0LNjz4XxMsOkJM4GUrWk=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://downtherabbitholewp.wordpress.com' target='_blank'>
+Down The Rabbit Hole</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://downtherabbitholewp.wordpress.com/2013/11/06/goodbye-blockbuster/' target='_blank'>
+Goodbye Blockbuster
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0xZWu596C-IeQ0JUAyKZe_iwtii28KsZJXPYRjVikhUz23qKwU3ttfD4Og-zuRl7xWKSZ5dS1XKVsloP6LyBO1JT9ozqgSiZbXwGMk4w=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://ohmyangiie.blogspot.com/' target='_blank'>
+Poetry</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://ohmyangiie.blogspot.com/2013/09/a-blue-moon.html' target='_blank'>
+Honest Tides
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1h4u3jw-yFwBqKUAGG6MVAIn0fZVnyX7v3L_9OwLWwKHbyyS_W9lb6xnfdj0Tuf3zid_tMDSDfQ-DNSpx0HR9Dx3277MLQhihpy0bGqYM=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://davetopsgolb.blogspot.com/' target='_blank'>
+A Man Called Dave.</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://davetopsgolb.blogspot.com/2013/09/look-ruse.html' target='_blank'>
+Look! A Ruse.
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3ceTt87l0ImiboHOAlfQ_aWg44SsU1lk_qMH6A8-bPqviVqTuGwfBxlJ3mwngEYtVeCs0tCBXDH64xIKWtD0vBn5qDv3Y4dxnbIkayBgrh4Qr_bLGM7w=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://thirteenthpatriot.wordpress.com' target='_blank'>
+Thirteenth Patriot</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://thirteenthpatriot.wordpress.com/2013/09/09/obama-wants-to-throw-a-missile-party/' target='_blank'>
+Obama Wants To Throw A Missile Party.
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3psVkq72hyoL-Nxzv0Vn2iTgPnatFSsm0ntnlfXzfvh9_vvsT58ZFggv4fRVRu4_1vFNpo37xBTJjcAN-J2hnY2H61oDBChly0t7ZKq8dk1bDVoWW25IX4=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://dreamsoftomorrowtoday.blogspot.com/' target='_blank'>
+Your Future Dreams</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://dreamsoftomorrowtoday.blogspot.com/2013/06/13625.html' target='_blank'>
+13.6.25
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha31GgAXsC1TBAIaxiz-n78I6GxN6ZmigFeYzSZURMw-yQV4sPDclLIzGV1p8nK19B-7Y6791ToQ6CkPI2acLXVrku_HLc-W4sPhplt09laqS1jExA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://porch-philosophy.blogspot.com/' target='_blank'>
+Porch Philosophy</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://porch-philosophy.blogspot.com/2013/06/let-god-rescue-you.html' target='_blank'>
+Let God Rescue You
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1JvWXBxR-JARRvrWBDOvKSQy-khpJ9QpKWNZiubaeGD7OFMryo28SZrLfghqdN1ZubviTH4iRvOojvPT_GQHD8BVuimhkFkr6xuTLQ-WJU20tMcEA=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://writersinbusiness.blogspot.com/' target='_blank'>
+Writers In Business</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://writersinbusiness.blogspot.com/2013/06/great-new-article-by-aipb-when-to-use.html' target='_blank'>
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3q90HSHDLnBLnxylnIdg_tCJEvWy22EDdAGi7bx5_IeKZCTQKpDHodxmb8oj_jKGX3Q4aZqCOe-9Nh1XJT-F2YMEk1Pgh3noxzVn6U7Q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://zombiebrew.blogspot.com/' target='_blank'>
+Zombie Brew (An Adventure in Beer and Zombie Movies)</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://zombiebrew.blogspot.com/2013/05/exit-humanity-and-ninkasi-total.html' target='_blank'>
+Exit Humanity and Ninkasi Total Domination IPA
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0RXEUaiMWH9SCrJQZK6vmdUVyY34qHpoY2UwsMa3kOUCqpKAN46tBF4QDd2b-Cs_yq27kxvYg90axRwghFtQfO7294cQh9tjFtPVRCX9nYrdCxihZXRAbRPw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://faithfulconservative.wordpress.com' target='_blank'>
+Faithful Conservative</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://faithfulconservative.wordpress.com/2013/04/06/chained-cpi-your-pocket-is-going-to-be-picked-again/' target='_blank'>
+Chained CPI- Your Pocket is Going to be Picked Again
+</a>
+</span>
+<div class='item-time'>
+9 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha3smYq-mRr2GEI0Mc6bBO5m4Uap6KYkuo-mQ-FTFZLciIUGfZvCaHzcq8SWXBRssmsu_RalvNmrFHBryXadANLGEaOt1cncROL_ww=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://obamacom.blogspot.com/' target='_blank'>
+ObamaNation Shrugs</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://obamacom.blogspot.com/2012/06/its-time-for-government-to-take-down.html' target='_blank'>
+It's time for the government to take down the bird feeder
+</a>
+</span>
+<div class='item-time'>
+10 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0T_U8LvjINBY333fJ23l-LIgh1vf4vPZwNA1XK2yOSVOVS2SWohPChkR1ItyyNwEneRdUKokIPuyyUHr81_PNNPVjwAy9mJlqcwg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://3jeeps3.blogspot.com/' target='_blank'>
+Thoughts... Only From A Jeep</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://3jeeps3.blogspot.com/2012/03/thoughts-animal-protection-from.html' target='_blank'>
+Thoughts&#8230; Animal Protection From a Conservative.
+</a>
+</span>
+<div class='item-time'>
+10 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1lYL828euQ5AzaoPLa4QMD4t2KumgDUUUKB4a5m8uXw6lYCd-DeAFnOFCe4Tp9y0HglaJhHzYApwzjZQ9aNg=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://pjnet.org' target='_blank'>
+PJNet</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://pjnet.org/post/2517/' target='_blank'>
+Sign Up Now: SoCon12, Social Media and the Brews and News Fun-Raiser
+</a>
+</span>
+<div class='item-time'>
+10 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2LjBtH4otV0slv17UwIaStnvOGcyz6lROsb-KnLB67l6WhU2aOLXaCutmrtaANaChOZtRAlLqFr8CEEAsea8SiEOGOLYTT0Xl3pDnBTOB5M_EyPLL0q5UqpIc=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://thehauntologicalsociety.blogspot.com/' target='_blank'>
+the hauntological society;</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://thehauntologicalsociety.blogspot.com/2011/05/the-films-of-stanley-kubrick.html' target='_blank'>
+The films of Stanley Kubrick
+</a>
+</span>
+<div class='item-time'>
+11 years ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0qfx00wb_Z7cYF0hAfdxO7NEReEsJXH_WLwq28gxlSi0ztYrq39vtpbHBFue15NSUeLuYNkEv7eYRE11nKIq6lcijnZykeklcBv_5hXnlDxaQ=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://beautiflywings.blogspot.com/feeds/posts/default' target='_blank'>
+Human Ink Blot</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha39reuC-GClC9veo3nXSGjFaXdoSFzIAy40kSThtolW9mPRlvNUQj7MKpcXODfSvtrwwddpDw1vaprIP0g1QpYEM9WrAJ8=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.newguards.us/feed/' target='_blank'>
+The NewGuards</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='show-option'>
+<span id='BlogList1_show-n' style='display: none;'>
+<a href='javascript:void(0)' onclick='return false;'>
+Show 25
+</a>
+</span>
+<span id='BlogList1_show-all' style='margin-left: 5px;'>
+<a href='javascript:void(0)' onclick='return false;'>
+Show All
+</a>
+</span>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget Subscribe' data-version='1' id='Subscribe1'>
+<div style='white-space:nowrap'>
+<h2 class='title'>Subscribe To</h2>
+<div class='widget-content'>
+<div class='subscribe-wrapper subscribe-type-POST'>
+<div class='subscribe expanded subscribe-type-POST' id='SW_READER_LIST_Subscribe1POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Feverythinginbloggeration.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Feverythinginbloggeration.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://everythinginbloggeration.blogspot.com/feeds/posts/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div class='subscribe-wrapper subscribe-type-COMMENT'>
+<div class='subscribe expanded subscribe-type-COMMENT' id='SW_READER_LIST_Subscribe1COMMENT' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Feverythinginbloggeration.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Feverythinginbloggeration.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://everythinginbloggeration.blogspot.com/feeds/comments/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1COMMENT' onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div style='clear:both'></div>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/profile/18418936571809295066'><img alt='My photo' class='profile-img' height='80' src='//2.bp.blogspot.com/_0dRb_6HLrPE/Sa8JTwX9fMI/AAAAAAAAABQ/NZx4JMz1OXc/S220-s80/sl_johnjmiller2_copy.jpg' width='80'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/18418936571809295066' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+Tim Munn
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/18418936571809295066' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+</div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Community</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8677090665910376229\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByMwMDAwZmYqByNmNWY1ZjUyByMwMDAwMDA6ByMwMDAwMDBCByMwMDAwZmZKByMwMDAwMDBSByMwMDAwZmZaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://everythinginbloggeration.blogspot.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8677090665910376229\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByMwMDAwZmYqByNmNWY1ZjUyByMwMDAwMDA6ByMwMDAwMDBCByMwMDAwZmZKByMwMDAwMDBSByMwMDAwZmZaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://everythinginbloggeration.blogspot.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+</div></div>
+<!-- end outer-wrapper -->
+<!-- Quantcast Tag -->
+<script type='text/javascript'>
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-37RxVGVK1EDZA"
+});
+</script>
+<noscript>
+<div style='display:none;'>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-37RxVGVK1EDZA.gif' width='1'/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<script src='https://apis.google.com/js/platform.js' type='text/javascript'></script>
+<!--Het is jouw verantwoordelijkheid om je bezoekers te laten weten dat je er op je blog cookies worden gebruikt en gegevens worden verzameld. Blogger stelt een standaardmelding beschikbaar die je op je blog kunt gebruiken. Je kunt de melding naar wens aanpassen of zelf een eigen melding opstellen. Zie http://www.blogger.com/go/cookiechoices voor meer informatie.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Deze site gebruikt cookies van Google om services te leveren en verkeer te analyseren. Je IP-adres en user-agent worden met Google gedeeld, samen met prestatie- en beveiligingsstatistieken om servicekwaliteit te garanderen, gebruiksstatistieken te genereren, misbruik te detecteren en maatregelen te treffen.',
+          (window.cookieOptions && cookieOptions.close) || 'OK',
+          (window.cookieOptions && cookieOptions.learn) || 'Meer informatie',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1514103161-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7TzZmRQYMkZqo76v1HOW4SwVjEhA:1668005868445';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8677090665910376229','//everythinginbloggeration.blogspot.com//api/v1/instance/peers','8677090665910376229');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8677090665910376229', 'title': 'Everything in Bloggeration', 'url': 'https://everythinginbloggeration.blogspot.com//api/v1/instance/peers', 'canonicalUrl': 'http://everythinginbloggeration.blogspot.com//api/v1/instance/peers', 'homepageUrl': 'https://everythinginbloggeration.blogspot.com/', 'searchUrl': 'https://everythinginbloggeration.blogspot.com/search', 'canonicalHomepageUrl': 'http://everythinginbloggeration.blogspot.com/', 'blogspotFaviconUrl': 'https://everythinginbloggeration.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-44951730-1', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Everything in Bloggeration - Atom\x22 href\x3d\x22https://everythinginbloggeration.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Everything in Bloggeration - RSS\x22 href\x3d\x22https://everythinginbloggeration.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Everything in Bloggeration - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8677090665910376229/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6054295605488145', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/e257cb676eb093b3', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'error_page', 'pageName': '', 'pageTitle': 'Everything in Bloggeration', 'metaDescription': 'Influence Motivation Purpose Action Community Trust Everything in Bloggeration covers politics sports freedom liberty bible media blog #tcot america'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Everything in Bloggeration', 'description': 'Influence Motivation Purpose Action Community Trust Everything in Bloggeration covers politics sports freedom liberty bible media blog #tcot america', 'url': 'https://everythinginbloggeration.blogspot.com//api/v1/instance/peers', 'type': 'error', 'isSingleItem': false, 'isMultipleItems': false, 'isError': true, 'isPage': false, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'main', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'main', document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'isCurrentPage': false, 'href': 'https://everythinginbloggeration.blogspot.com/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'https://everythinginbloggeration.blogspot.com/p/blog-page.html', 'id': '5347290504746278108', 'title': 'The ShareCare Store'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'navMessage': 'Sorry, the page you were looking for in this blog does not exist.', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3254633748-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3523451998-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar', document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'sidebar', document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar', document.getElementById('BlogList1'), {'numItemsToShow': 25, 'totalItems': 109}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe1', 'sidebar', document.getElementById('Subscribe1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', document.getElementById('Followers1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
+0
+

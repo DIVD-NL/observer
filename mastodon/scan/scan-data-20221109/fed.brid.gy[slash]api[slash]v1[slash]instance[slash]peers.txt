@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Origin: *
+Cache-Control: private
+Content-Security-Policy: script-src https: localhost:8080 my.dev.com:8080 'unsafe-inline'; frame-ancestors 'self';
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:52 GMT
+Server: Google Frontend
+Strict-Transport-Security: max-age=16070400; preload
+Vary: Accept-Encoding
+X-Cloud-Trace-Context: 2034c2733822ea22dc5e3ad29c11be16;o=1
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+cf
+<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+0
+

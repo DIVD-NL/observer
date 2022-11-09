@@ -1,0 +1,33 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Audit-Id: 455dc40b-3472-4a43-8023-47388b1a1b8d
+Cache-Control: no-cache, private
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778b2dae0a83dd-BRU
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:22:24 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zVkQh21oV4vRKPEbYFeX12Ppde49C3ctZ%2FadIorhqsNYcFXKyVduAd8fUwCX5dFpWx%2FV05KYgBHjb%2FpbdCfA7C2SATuOcY4wfFFfjqKj8hp4MKeNpv8reeBEk5o2ytt0P1pNSKs%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Kubernetes-Pf-Flowschema-Uid: d3ad82a0-3da9-40c7-8cea-67489773362d
+X-Kubernetes-Pf-Prioritylevel-Uid: 88bf3d52-7c1a-4bde-b260-b69aaff29b92
+
+150
+{
+  "kind": "Status",
+  "apiVersion": "v1",
+  "metadata": {},
+  "status": "Failure",
+  "message": "instance \"peers\" is forbidden: User \"system:anonymous\" cannot get resource \"instance\" in API group \"\" at the cluster scope",
+  "reason": "Forbidden",
+  "details": {
+    "name": "peers",
+    "kind": "instance"
+  },
+  "code": 403
+}
+0
+

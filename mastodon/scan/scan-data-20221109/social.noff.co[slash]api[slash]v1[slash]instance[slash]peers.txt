@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778692eb9b2e08-BRU
+Date: Wed, 09 Nov 2022 15:19:16 GMT
+Location: https://social.nofftopia.com
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=llvY5iPTWm%2BrleF1bENdZ6CRTWjH179UdA%2BhWvbzWd34uVnSxMAhH9CKFJuf97nTyvYI6ReIR%2BeMybzXPVV%2BX35GFqa1bIxn8rxDTzKHJ%2FmtO8GWSn5kmiQjorrZGSwDog%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Length: 0
+

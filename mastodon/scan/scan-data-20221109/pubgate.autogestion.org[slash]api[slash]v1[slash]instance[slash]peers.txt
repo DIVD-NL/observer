@@ -1,0 +1,9 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 62
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:16:44 GMT
+Server: nginx/1.10.3 (Ubuntu)
+
+{"error":"Requested URL \/api\/v1\/instance\/peers not found"}

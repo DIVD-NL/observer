@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677799699092e44-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.tansuo.plus; img-src 'self' https: data: blob: https://m.tansuo.plus; style-src 'self' https://m.tansuo.plus 'nonce-zo50sMiDCZnov+wSNZjD4A=='; media-src 'self' https: data: https://m.tansuo.plus; frame-src 'self' https:; manifest-src 'self' https://m.tansuo.plus; connect-src 'self' data: blob: https://m.tansuo.plus https://cf-mastodon.211987.xyz/img wss://m.tansuo.plus; script-src 'self' https://m.tansuo.plus; child-src 'self' blob: https://m.tansuo.plus; worker-src 'self' blob: https://m.tansuo.plus
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:25 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=m4eJVtfOTDHxjYi8peulCByxsYXYpWqnFPs337fiIp7km4kKjVoyrUzdneaOyq%2BGN4PUUsrU6d4Dg6Vv7t6vFAHS2dU2Xk5ALAt1j%2BvCjSnEY91G3vHCxd2MZBC81Noo"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.745707Z
+X-Request-Id: ac1fa36a-dc37-45ad-9668-0bb0d0d7da20
+X-Runtime: 0.004530
+X-Xss-Protection: 0
+
+0
+

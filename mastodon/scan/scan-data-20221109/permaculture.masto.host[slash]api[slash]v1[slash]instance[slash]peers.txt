@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://permaculture.masto.host; img-src 'self' https: data: blob: https://permaculture.masto.host; style-src 'self' https://permaculture.masto.host 'nonce-bbyiLp0k8I5frNP+GDgl4g=='; media-src 'self' https: data: https://permaculture.masto.host; frame-src 'self' https:; manifest-src 'self' https://permaculture.masto.host; connect-src 'self' data: blob: https://permaculture.masto.host https://cdn.masto.host wss://permaculture.masto.host; script-src 'self' https://permaculture.masto.host; child-src 'self' blob: https://permaculture.masto.host; worker-src 'self' blob: https://permaculture.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:12 GMT
+Etag: W/"0759089c3d5585692fba5d648b3bea4a"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.092692Z
+X-Request-Id: 14abc46c-cafa-4890-a21e-84d9305cd56b
+X-Runtime: 0.046629
+X-Xss-Protection: 0
+
+1c
+["mastodon.exitmusic.world"]
+0
+

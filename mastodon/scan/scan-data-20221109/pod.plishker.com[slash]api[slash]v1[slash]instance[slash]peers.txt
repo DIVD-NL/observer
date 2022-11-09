@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:16:29 GMT
+Etag: W/"e0f73b7ac87efc432fb2ee2da06eb452"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:15:00.548601Z
+X-Request-Id: 2a3a6272-09f6-4827-b802-d530984400fc
+X-Runtime: 0.008995
+X-Xss-Protection: 1; mode=block
+
+161
+["mastodon.online","social.lol","fosstodon.org","mastodon.green","vulpine.club","lor.sh","mastodon.sdf.org","bildung.social","mastodon.world","f.freinetz.ch","journa.host","twit.social","mastodon.social","abuzz.social","mastodon.nu","mastodon.lol","sfba.social","noc.social","kolektiva.social","mas.to","mastodonapp.uk","mastodon.art","astrodon.social"]
+0
+

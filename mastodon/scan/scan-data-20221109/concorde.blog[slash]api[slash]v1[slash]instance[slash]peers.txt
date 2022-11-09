@@ -1,0 +1,170 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:30 GMT
+Server: Caddy
+Server: nginx/1.14.2
+
+de4
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width initial-scale=1">
+
+	<title>
+		
+		 Concorde - 404 Page not found 
+		
+	</title>
+
+	<meta name="description" content="">
+	<link rel="shortcut icon" href="https://micro.blog/la/favicon.png" type="image/x-icon" />
+	<link rel="stylesheet" href="/css/style.css?1667588992">
+	<link rel="stylesheet" href="/custom.css?1667588992">
+
+	
+	<link rel="me" href="https://twitter.com/lakerjv" />
+	
+	
+	<link rel="me" href="https://github.com/lakerjv" />
+	
+	
+	<link rel="me" href="https://instagram.com/lakerjv" />
+	
+	<link rel="me" href="https://micro.blog/la" />
+	<link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+	<link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+	<link rel="micropub" href="https://micro.blog/micropub" />
+	<link rel="microsub" href="https://micro.blog/microsub" />
+	<link rel="webmention" href="https://micro.blog/webmention" />
+	<link rel="subscribe" href="https://micro.blog/users/follow" />
+	<link rel="canonical" href="https://concorde.blog/404.html"> 
+	
+	<link rel="stylesheet" href="/assets/css/poststats.css" />
+	
+	<link rel="stylesheet" href="/css/all.min.css" />
+	
+	<link rel="stylesheet" href="/css/photos-grid.css" />
+	
+	
+	
+
+	
+	
+
+	
+	<meta name="twitter:card" content="summary" />
+
+  <meta name="twitter:title" content="404 Page not found" />
+
+<meta name="twitter:description" content="" />
+
+
+	
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,300&display=swap" rel="stylesheet"> 
+</head>
+
+  <body class="not-ready" data-menu="true">
+    <header class="header">
+  
+  <p class="logo">
+    <a class="site-name" href="https://concorde.blog/">Concorde</a><a class="btn-dark"></a>
+  </p>
+  
+
+  <script>
+    let bodyClx = document.body.classList;
+    let btnDark = document.querySelector('.btn-dark');
+    let sysDark = window.matchMedia('(prefers-color-scheme: dark)');
+    let darkVal = localStorage.getItem('dark');
+
+    let setDark = (isDark) => {
+      bodyClx[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark ? 'yes' : 'no');
+    };
+
+    setDark(darkVal ? darkVal === 'yes' : sysDark.matches);
+    requestAnimationFrame(() => bodyClx.remove('not-ready'));
+
+    btnDark.addEventListener('click', () => setDark(!bodyClx.contains('dark')));
+    sysDark.addEventListener('change', (event) => setDark(event.matches));
+  </script>
+
+  
+  
+  
+  <nav class="menu">
+    
+			
+				<a class="" role="presentation" href="/photos/">Photos</a>
+			
+		
+			
+				<a class="" role="presentation" href="/archive/">Archive</a>
+			
+		
+			
+				<a class="" role="presentation" href="/hello/">Hello</a>
+			
+		
+			
+				<a class="" role="presentation" href="/now/">Now</a>
+			
+		
+			
+				<a class="" role="presentation" href="/stats/">Stats</a>
+			
+		
+			
+				<a class="" role="presentation" href="/feeds/">Feeds</a>
+			
+		
+  </nav>
+  
+
+  
+</header>
+
+
+    <main class="main">
+<h1 class="title-404">404</h1>
+</main>
+
+    <footer class="footer">
+  <p>&copy; 2022 <a href="https://concorde.blog/">Laker J.V Turner</a></p>
+  <p>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</p>
+  <p>Hosted by <a href="https://micro.blog/" rel="noopener" target="_blank">Micro.blog</a>
+  </p>
+</footer>
+
+    
+
+    
+      <script src="/js/yall.js"></script>
+    
+  </body>
+</html>
+
+0
+

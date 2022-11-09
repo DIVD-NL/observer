@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://is.aaronbsmith.com; img-src 'self' https: data: blob: https://is.aaronbsmith.com; style-src 'self' https://is.aaronbsmith.com 'nonce-Ms/hAkFgQ57/uNjFvHEGxg=='; media-src 'self' https: data: https://is.aaronbsmith.com; frame-src 'self' https:; manifest-src 'self' https://is.aaronbsmith.com; connect-src 'self' data: blob: https://is.aaronbsmith.com https://cdn.masto.host wss://is.aaronbsmith.com; script-src 'self' https://is.aaronbsmith.com; child-src 'self' blob: https://is.aaronbsmith.com; worker-src 'self' blob: https://is.aaronbsmith.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:39 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:10:00.147772Z
+X-Request-Id: 7a032953-be02-4382-8c93-5945f1e84ebd
+X-Runtime: 0.005851
+X-Xss-Protection: 0
+
+0
+

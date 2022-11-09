@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1004
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:58:17 GMT
+Etag: "3ec-5ce63195701cf"
+Last-Modified: Fri, 15 Oct 2021 12:11:45 GMT
+Server: nginx
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Willkommen auf <kbd>tucana.uberspace.de</kbd>!</h1>
+    <h1>Welcome on <kbd>tucana.uberspace.de</kbd>!</h1>
+    <h2>Diese Domain kennen wir leider nicht.</h2>
+    <h2>Sadly, we do not have this domain in our records.</h2>
+    <h3>
+      Sollte sie dir gehören, kannst du die Domain, wie
+      <a href="https://manual.uberspace.de/en/web-domains.html" target="_blank"
+        >im Manual</a
+      >
+      beschrieben, auf deinen Uberspace aufschalten.
+    </h3>
+    <h3>
+      In case it is yours, take a look at
+      <a href="https://manual.uberspace.de/en/web-domains.html" target="_blank"
+        >the manual</a
+      >
+      to add it to your account.
+    </h3>
+    <img src="asteroid.png" />
+  </body>
+</html>

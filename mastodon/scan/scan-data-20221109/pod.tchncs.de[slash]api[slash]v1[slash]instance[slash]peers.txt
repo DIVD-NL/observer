@@ -1,0 +1,37 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 1738
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:31 GMT
+Etag: "62988ce6-6ca"
+Server: nginx
+
+<html>
+    <title>
+        tchncs [410]
+    </title>
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+    </head>
+<body>
+    <link href="https://assets.tchncs.de/css/infopages.css" rel="stylesheet" type="text/css">
+    <style type="text/css">#big-number{font-size:200px;font-weight:350;webkit-text-stroke-color:#fff;webkit-text-stroke-width:1px;webkit-font-smoothing:antialiased;color:#91B0E6;text-shadow:-1px -1px 1px #fff,1px 1px 1px #266399}</style>
+<style type="text/css">body{background-color: #323232;} 
+                        .alert-warning{background: #f9ee95;max-width: 650px;margin: 0 auto;border-radius: 8px;}
+                        .alert-success{background: #91db7c;color:#3d6635;max-width: 650px;margin: 0 auto;border-radius: 8px;}</style>
+<div class="container">
+<div class="container">
+<div id="banner" class="row content" >
+<h1 style="font-weight:bold;">- 410 : GONE -</h1>
+        <h4><strong>Sorry, this <a href="//diasporafoundation.org" target="_blank">diaspora*</a> pod has been discontinued as of june 2022.</strong></h4>
+	<p>This decision was a hard and hurtful one as diaspora* was one of the very first tchncs services, but your admin had to accept that it was time to move on. You admin is still following the diaspora* development and progress and may re-evaluate this decision down the road, but without any promises as of now.</p>
+
+ </p><br>
+        <hr>
+
+        <a href="//tchncs.de">contact</a> | <a href="//status.tchncs.de" target=_blank><strong>statuspage</strong></a> | <a href="javascript:history.back()">back</a> | <a style="color:#5FB065;" href="//tchncs.de/donate" target="_blank">donate</a></p>
+</div>
+</div>
+</body>
+</html>

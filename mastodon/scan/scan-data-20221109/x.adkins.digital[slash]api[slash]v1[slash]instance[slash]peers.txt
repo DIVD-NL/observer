@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://x.adkins.digital; img-src 'self' https: data: blob: https://x.adkins.digital; style-src 'self' 'unsafe-inline' https://x.adkins.digital; media-src 'self' https: data: https://x.adkins.digital; frame-src 'self' https:; manifest-src 'self' https://x.adkins.digital; connect-src 'self' data: blob: https://x.adkins.digital https://x.adkins.digital wss://x.adkins.digital; script-src 'self' https://x.adkins.digital; child-src 'self' blob: https://x.adkins.digital; worker-src 'self' blob: https://x.adkins.digital
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:49 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.502791Z
+X-Request-Id: 09a02d02-5da6-4f00-ba3e-455052dbe4d6
+X-Runtime: 0.014531
+X-Xss-Protection: 1; mode=block
+
+0
+

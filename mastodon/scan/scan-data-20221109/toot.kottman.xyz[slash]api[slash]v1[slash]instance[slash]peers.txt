@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.kottman.xyz; img-src 'self' https: data: blob: https://toot.kottman.xyz; style-src 'self' https://toot.kottman.xyz 'nonce-cjysminABT3rsTAohF/hwQ=='; media-src 'self' https: data: https://toot.kottman.xyz; frame-src 'self' https:; manifest-src 'self' https://toot.kottman.xyz; connect-src 'self' data: blob: https://toot.kottman.xyz https://toot.kottman.xyz wss://toot.kottman.xyz; script-src 'self' https://toot.kottman.xyz; child-src 'self' blob: https://toot.kottman.xyz; worker-src 'self' blob: https://toot.kottman.xyz
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:57 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.310730Z
+X-Request-Id: 2fcfd703-9dde-4554-8e3b-b405679d1d9c
+X-Runtime: 0.002915
+X-Xss-Protection: 0
+
+0
+

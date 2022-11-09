@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Length,Content-Disposition,Server-Timing,X-Cld-Error
+Cache-Control: private, no-transform, max-age=0, no-cache
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: image/gif
+Date: Wed, 09 Nov 2022 15:17:06 GMT
+Pragma: no-cache
+Server: Cloudinary
+Server-Timing: fastly;dur=85;cpu=1;start=2022-11-09T15:17:06.169Z;desc=hit,rtt;dur=32
+Strict-Transport-Security: max-age=604800
+Timing-Allow-Origin: *
+X-Cld-Error: Resource not found
+Content-Length: 0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.sociopathic.ca; img-src 'self' https: data: blob: https://social.sociopathic.ca; style-src 'self' https://social.sociopathic.ca 'nonce-iRJ5R+M5az+L8LPGI6JYdQ=='; media-src 'self' https: data: https://social.sociopathic.ca; frame-src 'self' https:; manifest-src 'self' https://social.sociopathic.ca; connect-src 'self' data: blob: https://social.sociopathic.ca https://social.sociopathic.ca wss://social.sociopathic.ca; script-src 'self' https://social.sociopathic.ca; child-src 'self' blob: https://social.sociopathic.ca; worker-src 'self' blob: https://social.sociopathic.ca
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:39 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.133523Z
+X-Request-Id: ed46ac17-01dc-492c-91fe-78a69fc5ca06
+X-Runtime: 0.018990
+X-Xss-Protection: 0
+
+0
+

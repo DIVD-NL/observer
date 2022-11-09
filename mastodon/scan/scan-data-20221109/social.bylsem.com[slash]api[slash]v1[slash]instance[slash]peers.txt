@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.bylsem.com; img-src 'self' https: data: blob: https://social.bylsem.com; style-src 'self' https://social.bylsem.com 'nonce-RhhoaTDeBoP6IDrl3gh1NQ=='; media-src 'self' https: data: https://social.bylsem.com; frame-src 'self' https:; manifest-src 'self' https://social.bylsem.com; connect-src 'self' data: blob: https://social.bylsem.com https://cdn.masto.host wss://social.bylsem.com; script-src 'self' https://social.bylsem.com; child-src 'self' blob: https://social.bylsem.com; worker-src 'self' blob: https://social.bylsem.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:59 GMT
+Etag: W/"dbd878bbffe6c0b08b8b4e835e9976aa"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.854646Z
+X-Request-Id: 03b4b530-e979-4620-b7d5-c2b25acdac14
+X-Runtime: 0.013360
+X-Xss-Protection: 0
+
+5f9
+["nonexiste.net","f.kretschmann.social","poliverso.org","follow.schmaller.de","t2.thotsofa304.club","friendica.offsite.guru","quitter.pl","friendica.myportal.social","herzbu.de","friendica.hashy-net.de","friendica.mifritscher.de","v2.ebano.social","kudabiverse.com","friendica.ucy.de","redeyes.club","fri.aethercom.de","social.jmueller.eu","friendica.mschmidt-et.de","friendica.ambag.es","social.tromdienste.de","petroskowo.pl","friendica.togart.de","friend.geoffray-levasseur.org","friendica.ironbug.org","f.iroiro.party","friendica.kommune4.de","fr.readthefinemanual.net","anarchydica.net","social.gl-como.it","friendica.daniel-siepmann.de","friendica.opencloud.lu","mastodon.technology","masto.ashfurrow.com","bsd.network","f.freinetz.ch","mastodon.sdf.org","social.tchncs.de","qoto.org","mastodon.org.uk","freeradical.zone","pleroma.1d4.us","stoopid.club","climatejustice.social","assemblag.es","framapiaf.org","muenchen.social","codatory.com","hachyderm.io","mastodon.world","ravenation.club","ruby.social","social.targaryen.house","piaille.fr","social.linux.pizza","mastodon.bofhers.es","mstdn.social","aus.social","mamot.fr","mastodon.top","linuxrocks.online","social.weho.st","infosec.exchange","scicomm.xyz","social.anoxinon.de","chaos.social","masto.pt","mastodon.lol","mastodon.online","mastodon.green","commiespace.duckdns.org","eeeeeeeee.eu","uncorking.me","port87.social","mastodon.ie","mastodon.nz","mastodon.social","moa.st","toot.community","toot.bike","toot.wales","mastodon.nl","berlin.social","mastodon.scot"]
+0
+

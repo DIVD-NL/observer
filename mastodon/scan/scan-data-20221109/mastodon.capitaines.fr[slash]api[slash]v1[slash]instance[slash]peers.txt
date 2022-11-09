@@ -1,0 +1,40 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 621
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:00 GMT
+Etag: "26d-f4240;f4240
+Server: Apache/2.4.52 (Unix) OpenSSL/1.1.1m
+Upgrade: h2,h2c
+Vary: If-Modified-Since
+
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+    <title>This instance is now closed - Mastodon</title>
+    <style>
+      body {
+        text-align: center;
+        background: #282c37;
+        font-family: sans-serif;
+      }
+      img {
+        max-width: 470px;
+        width: 100%;
+      }
+      h1 {
+        font-size: 20px;
+        font-weight: 400;
+        color: #9baec8;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <img alt='Mastodon' src='/oops.png'>
+      <h1>Sorry, this instance is closed now.</h1>
+    </div>
+  </body>
+</html>

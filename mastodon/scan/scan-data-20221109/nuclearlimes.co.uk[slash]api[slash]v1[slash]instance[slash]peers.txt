@@ -1,0 +1,88 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:19 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+c03
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>YunoHost Portal</title>
+
+  <!-- Responsive -->
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1" />
+
+  <!-- Do not index SSOWat pages -->
+  <meta name="robots" content="noindex, nofollow">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/ynh_portal.css">
+  <link rel="stylesheet" href="assets/themes/default/custom_portal.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/icons/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="assets/icons/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="assets/icons/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="assets/icons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="assets/icons/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="assets/icons/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#41444f">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+</head>
+<body class="ynh-user-portal ">
+
+  <div id="ynh-logo" class="ynh-logo">
+    <span class="element-invisible">Yunohost</span>
+  </div>
+
+  <div class="content">
+
+
+    <div class="wrapper messages info">Please log in to access to this content</div>
+<div class="ynh-wrapper login">
+<form class="login-form" name="input" action="" method="post">
+  <div class="form-group">
+    <label class="icon icon-user" for="user"><span class="element-invisible">Username</span></label>
+    <input id="user" type="text" name="user" placeholder="Username" class="form-text" autocomplete="username" autofocus required>
+  </div>
+  <div class="form-group">
+    <label class="icon icon-lock" for="password"><span class="element-invisible">Password</span></label>
+    <input id="password" type="password" name="password" placeholder="Password" class="form-text" autocomplete="current-password" required>
+  </div>
+  <input type="submit" value="Log in" class="btn classic-btn large-btn">
+</form>
+</div>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/ynh_portal.js"></script>
+  <script src="assets/themes/default/custom_portal.js"></script>
+</body>
+</html>
+
+
+0
+

@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 27
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:14:25 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache/2.4.54 (Debian)
+Set-Cookie: PHPSESSID=0smqrj5suals86ck58gh32fcqd; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: PHPSESSID=p3pn6923fsl08lk08afb2702t6; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: PHPSESSID=p3pn6923fsl08lk08afb2702t6; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=63072000
+Upgrade: h2
+
+{"error":"not implemented"}

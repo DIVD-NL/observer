@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.ynerant.fr; img-src 'self' https: data: blob: https://mastodon.ynerant.fr; style-src 'self' https://mastodon.ynerant.fr 'nonce-UC2u6llzx3A4Y9GiObJ76A=='; media-src 'self' https: data: https://mastodon.ynerant.fr; frame-src 'self' https:; manifest-src 'self' https://mastodon.ynerant.fr; connect-src 'self' data: blob: https://mastodon.ynerant.fr https://mastodon.ynerant.fr wss://mastodon.ynerant.fr; script-src 'self' https://mastodon.ynerant.fr; child-src 'self' blob: https://mastodon.ynerant.fr; worker-src 'self' blob: https://mastodon.ynerant.fr
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:32 GMT
+Etag: W/"891d2b0ea537d84b254ae1632b79d8ee"
+Permissions-Policy: interest-cohort=()
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.080002Z
+X-Request-Id: 2f9091a0-eb4e-4d9e-8daa-44fad4363dbd
+X-Runtime: 0.010864
+X-Xss-Protection: 0
+
+c2d
+["mastodon.cgx.me","mastodon.immae.eu","video.lemediatv.fr","pleroma.chagratt.site","ruby.social","gs.leftic.club","social.taker.fr","instigation.fr","librem.one","beta.birdsite.live","pouet.couchet.org","masthead.social","social.middleearth.fr","nrkn.fr","wandering.shop","mastodon.tedomum.net","mastodon.technology","peertube.stream","tooter.social","mastodon.online","mastodon.mim-libre.fr","sciences.re","glitch.social","mcd.dk","forum.friendi.ca","podlibre.social","floss.social","chat.noelle.codes","bw.diaspodon.fr","social.linux.pizza","la-verite-vaincra.com","social.vincentux.fr","social.zdx.fr","diaspodon.fr","social.linuxine.net","social.secret-wg.org","todon.nl","mastodon.zeteo.me","social.anoxinon.de","mastodon.sdf.org","social.finkhaeuser.de","social.chilliet.eu","darmstadt.social","boitam.eu","transmom.love","urbanists.social","mastodon.opportunis.me","mastodon.scot","hackers.town","mastodon.pirateparty.be","rage.love","elekk.xyz","mastodon.ar.al","fosstodon.org","birb.site","queer.hacktivis.me","pleroma.lord.re","fulda.social","writing.exchange","phpc.social","vmst.io","qoto.org","infosec.exchange","tiny.tilde.website","pewtix.com","imaginair.es","glasgow.social","mamot.fr","sorcie.re","oc.todon.fr","toot.portes-imaginaire.org","tooting.ch","mastodon.green","social.xbm.se","skinnyver.se","jasette.facil.services","pouet.it","fediverse.one","mastodon.bloonface.com","mastodon.parleur.net","social.jmueller.eu","pouet.april.org","nerdculture.de","h4.io","m.g3l.org","video.blast-info.fr","mastodon.mg","social.weho.st","icioulaba.tk","mk.vulpes.one","awscommunity.social","stereophonic.space","brotka.st","mastodon.cipherbliss.com","maly.io","scicomm.xyz","brvt.telent.net","mastodon-pa.sorbonne-universite.fr","ludosphere.fr","udongein.xyz","mstdn.fr","mastodon.adrienlacombe.me","photo.lapineige.fr","toot.fedilab.app","social.namok.be","toot.aquilenet.fr","aleph.land","mastodon.world","pouet.grossard.fr","social.tcit.fr","lou.lt","mast.eu.org","octodon.social","misskey.bubbletea.dev","mastodon.art","metalhead.club","mastodon.xyz","pouet.chapril.org","botsin.space","bsd.network","mastodon.partipirate.org","meta.masto.host","social.tchncs.de","masto.glorious-space.eu","mstdn.sidh.bzh","hcommons.social","social.deadsuperhero.com","amicale.net","sauropods.win","social.coop","eldritch.cafe","mastodon.gougere.fr","halibut.com","mastodon.iriseden.eu","mastodon.tetaneutral.net","mastodon.eole.education","post.lurk.org","hostux.social","slon.yojik.net","framapiaf.org","mastodon.cloud","en.osm.town","mastodon.zaclys.com","mastodon.top","peertube.openstreetmap.fr","tube.grin.hu","toot.community","mastodon.darkou.fr","todon.eu","mastodon.social","birdsite.slashdev.space","social.targaryen.house","mastodon.lol","mstdn.social","piaille.fr","travelpandas.fr","noc.social","climatejustice.social","ioc.exchange","mastouille.fr","mstdn.io","friendica.ironbug.org","mastodon.design","shelter.moe","blah.rako.space","chaos.social","social.network.europa.eu","snabelen.no","mastodon.ie","mas.to","glitterkitten.co.uk","social.tromdienste.de","merveilles.town","cornichon.me","toot.site"]
+0
+

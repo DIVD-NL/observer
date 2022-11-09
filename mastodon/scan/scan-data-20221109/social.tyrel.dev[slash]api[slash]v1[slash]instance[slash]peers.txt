@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.tyrel.dev wss://social.tyrel.dev;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:51 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.22.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXztAb2POFyfO4AA9JR
+X-Xss-Protection: 1; mode=block
+
+297
+["nonexiste.net","masto.ai","fosstodon.org","mastodon.green","graz.social","josh.tel","hachyderm.io","mastodon.rcrowley.org","jorts.horse","hoob.io","socel.net","mastodon.cloud","oldbytes.space","toot.fedilab.app","sfba.social","dan.mastohon.com","commiespace.duckdns.org","ruby.social","eldritch.cafe","mastodon.nz","fedi.simonwillison.net","soylent.green","port87.social","hackers.town","social.synesthesia.co.uk","writing.exchange","status.steren.fr","social.rootaccess.org","pix.tyrel.dev","fiasco.social","mastodon.radio","social.jacklinke.com","uncorking.me","mastodon.social","cloudisland.nz","mastodon.lol","c.im","mas.to","eeeeeeeee.eu","pleroma.1d4.us"]
+0
+

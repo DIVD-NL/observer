@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Connection: close
+Alt-Svc: h3=":443"; ma=86400
+Content-Type: text/html; charset="utf-8"
+Date: Wed, 09 Nov 2022 15:09:51 GMT
+Location: https://www.facebook.com/api/v1/instance/peers
+X-Fb-Debug: hEsSx4vex5HTvxwyNUFnRkvSERKYQwYV9YuINYy/ZLOpIfPIs6yZTdPWh3q3H6lKcvOSvPuHUyeKeUjMicflMg==
+Content-Length: 0
+

@@ -1,0 +1,103 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:23 GMT
+Etag: W/"63468206-e16"
+Last-Modified: Wed, 12 Oct 2022 08:59:50 GMT
+Server: nginx
+Vary: Accept-Encoding
+
+e16
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="robots" content="index, follow">
+
+  <meta name="author" content="hd">
+  <meta name="description" content="random kid on the interewbs">
+  <meta name="keywords" content="zerw, hd, linux, arch, lastfm, github, gay, hdjenkov">
+
+  <meta property="og:site_name" content="hd's garbage can">
+  <meta name="twitter:domain" property="twitter:domain" content="zerw.xyz">
+  <meta name="og:title" property="og:title" content="hd's garbage can">
+  <meta property="og:description" content="random kid on the interwebs">
+  <meta name="twitter:description" property="twitter:description" content="random kid on the interwebs">
+  
+  <meta property="og:url" content="zerw.xyz">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:site" property="twitter:site" content="@yzerwxd">
+  <meta name="twitter:creator" property="twitter:creator" content="@yzerwxd">
+
+  <title>hd's garbage can</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <meta charset="UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="pix/mf.jpg" />
+</head>
+
+<body>
+  <h1>hd's garbage can</h1>
+  <h3>sup, i'm hristo 👋</h3>
+  <code>he/they</code>
+  <p>
+    i'm from bulgaria and i like to do computer stuff lol, mainly linux ig.<br>
+    i like headphones, using old laptops, flashing phones and doing random stuff with tech i find.<br>
+    this site was made on a 1920x1080 monitor and i have no idea if it looks good on mobile</p>
+  <div id="links">
+    <a href="mailto:me@zerw.xyz">mail</a><br>
+    <a href="https://tilde.zone/@hd">mastodon</a><br>
+    <a href="https://github.com/zerw0">github</a><br>
+    <a href="https://matrix.to/#/@hd:chat.voltized.de">matrix</a><br>
+    <a href="https://www.last.fm/user/zerwxd">last.fm</a><br>
+    <a href="0xAD39D182.asc">pgp</a><br>
+    <a href="http://zerw.123Guestbook.com/" target="_self">guestbook for my site</a><br>
+    <a href="https://letterboxd.com/zerw/">letterboxd</a>
+  </div>
+  <h3>current tech 🔌</h3>
+  <p>
+    💻: hp elitebook 8560p<br>
+    📱: xiaomi redmi note 10 running a custom rom<br>
+    ⌨️: hyperx alloy fps pro<br>
+    🎧: over-ear: audio-technica ath-m40x // iems: CCA-CRA, truthear zero
+  </p>
+  <h3>hobbies 🎧</h3>
+  <p>
+    i have a lot of hobbies but my main ones are headphones, mechanical keyboard, music, computers <br>and collecting
+    lighters even tho i don't really do it anymore.<br>i also really like watching movies. you can check what i like in my letterboxd account above. 
+  </p>
+
+  <h3>webrings💍</h3>
+  <div id="webring">
+    <a href="https://hotlinewebring.club/zerw/previous">←</a> hotline webring <a
+      href="https://hotlinewebring.club/zerw/next">→</a><br>
+    <a href="https://webring.dinhe.net/prev/zerw.xyz">←</a> retronaut webring <a
+      href="https://webring.dinhe.net/next/zerw.xyz">→</a>
+  </div>
+
+  <div class="container lastfm">
+    <h3>last song i listened to🎵</h3>
+    <div id="song">
+        Loading
+      <script src="index.js"></script>
+      </div>
+    </div>
+  </div>
+
+  <h3>buttons/banners🖼️</h3>
+  <div id="banners">
+    <img src="pix/piracy.gif"> <img src="pix/Bestviewedwithbox.gif"> <img src="pix/bigfag.gif"> <img
+      src="pix/discord.gif"> <img src="pix/ezgif.com-gif-maker_5.gif"> <a href="https://cobradile.neocities.org/"
+      target="_blank"><img src="https://cobradile.neocities.org/images/buttons/mabutton.png"></a> <img
+      src="pix/35mm.gif"> <img src="pix/seedyourtorrents.gif"> <img src="pix/32.gif">
+  </div>
+
+</body>
+
+</html>
+
+0
+

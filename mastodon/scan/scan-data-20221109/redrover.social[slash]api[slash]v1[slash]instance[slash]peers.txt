@@ -1,0 +1,33 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Content-Length: 846
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:59 GMT
+Etag: "5e89e2ab-34e"
+Server: nginx/1.14.0 (Ubuntu)
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/css/common-e281f04d.css" />
+<link rel="stylesheet" media="all" href="/packs/css/default-016704c8.chunk.css" />
+<script src="/packs/js/common-e558dc786d1e8b72aa75.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-f8d227d411d249ebf642.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>

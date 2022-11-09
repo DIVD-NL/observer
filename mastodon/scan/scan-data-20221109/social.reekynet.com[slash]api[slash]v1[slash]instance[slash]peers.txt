@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:19:25 GMT
+Location: http://ww1.reekynet.com
+Server: Cowboy
+Set-Cookie: sid=e5468c20-6041-11ed-81bd-f29869d478ab; path=/; domain=.reekynet.com; expires=Mon, 27 Nov 2090 18:33:33 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

@@ -1,0 +1,44 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 1291
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:34 GMT
+Etag: "6304bb1a-50b"
+Server: nginx
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+
+        <title>Moodle - Site Missing</title>
+        <meta name="description" content="Moodle - Site Missing">
+ 
+        <link rel="stylesheet" type="text/css" href="style.css" media="all">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+
+    </head>
+
+<body>
+  <article>
+    <img src="/moodle-monster-missing.png" class="testimonial-avatar"/>
+    <div class="testimonial-content">
+      <p class="testimonial-text">Check the address for any typing errors or <br><br>
+return to one of these sites:</p>
+      <a href="https://moodle.com"><p>moodle.com (Moodle HQ website) </p></a>
+		<a href="https://moodle.org/"><p>moodle.org (Moodle community) </p></a>
+		    
+		   <p>See <a href="https://twitter.com/moodlesites">Moodle Site Status (@moodlesites) on Twitter</a> for updates on Moodle HQ sites and services. </p><br>
+		   
+<!--   
+    <div class="add-content">
+		<p>Paul's div</p>
+	</div>
+-->
+	  </div>
+  </article>
+</body>
+</html>

@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778554ed5dd490-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.foxhold.net wss://social.foxhold.net;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:25 GMT
+Expect-Ct: enforce, max-age=2592000
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lmwNdqgBJ06QNnTT94z0bJ40u3ZrfOEu%2BPAn14xG1PxexdrCxuxvZYC2BhHdY0%2FbzFOnSuCaQ%2BsrNf7ic%2Fl0TB%2Bm2Xhx2kriGzsbeOMGmAGonTmpXjmVDsyxa0%2F2ceESQabsqcQ%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzn-ukEjg2gXkACVfi
+X-Xss-Protection: 1; mode=block
+
+496
+["octodon.social","dice.camp","ioc.exchange","raccoon.place","lor.sh","sociale.network","mastodon.coffee","mspsocial.net","chancellor.social","mastodon.cloud","toot.community","mathstodon.xyz","sfba.social","tooting.ch","mastodon.scot","infosec.exchange","mastodon.online","mastodon.xyz","squeet.me","toot.cat","compostintraining.club","mstdn.io","mstdn.science","social.spainco.net","ieji.de","tech.lgbt","mastodon.social","shitposting.army","bigshoulders.city","mstdn.social","venera.social","tilde.zone","queer.party","indieweb.social","icosahedron.website","merveilles.town","fosstodon.org","nerdculture.de","loma.ml","floss.social","fr.readthefinemanual.net","mastodon.sdf.org","mastodon.world","fediweij.nl","counter.social","fediscience.org","trivia.to","sneed.network","masthead.social","mastodon.uy","libranet.de","chickenfan.club","wandering.shop","raggedfeathers.com","podcastindex.social","nerdica.net","social.alesan.io","social.yl.ms","x0r.be","social.tchncs.de","dobbs.town","twit.social","mstdn.ca","sindicato.social","noc.social","digitalcourage.social","social.kabi.tk","mas.to","eeeeeeeee.eu","mastodon.art","beta.birdsite.live","the.shitposting.network"]
+0
+

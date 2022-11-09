@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766204e07b9ab-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://bbs.aerian.icu wss://bbs.aerian.icu;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:07 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=om7%2FFRZv7I9WduY4MYRtQ9RuJxfj4OfaD7rZk5O1YgNe%2FIHwqp%2FWBaRH2WM0FnWJvF%2FJfSCcC6aWwvU9NtUZSJNKAdA2GyJAYC8q%2FNGkLeW3tTopfDsRg%2BGdIEZ7kzcySA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Cache: MISS
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXydmZHZzUwlM8AAjxh
+X-Xss-Protection: 1; mode=block
+
+ab6
+["hates.company","cybre.space","social.illegalpornography.com","mastodon.cloud","mathstodon.xyz","mastodon.se","linuxrocks.online","mastodon.social","social.thisisjoes.site","misskey.m544.net","novoa.nagoya","mamot.fr","bungle.online","my.medic.cafe","booktoot.club","writing.exchange","social.tchncs.de","mastodon.zaclys.com","mastodon.rabalyn.de","lor.sh","donotban.com","moytura.org","mastodon.scot","misskey.wimmer-edv.de","sunbeam.city","schelling.pt","pirati.ca","floss.social","retro.social","www.librepunk.club","social.wideboys.org","masthead.social","mk.absturztau.be","lesbian.energy","dragon.style","friend.camp","misskey.bubbletea.dev","pawoo.net","me.its2.fun","eeeeeeeee.eu","social.gotterfunken.eu","rigcz.club","anarchism.space","noagendasocial.com","blog.fulda.social","b612.me","digipres.club","gingadon.com","meow.social","mstdn.fr","diaspodon.fr","toot.thoughtworks.com","toot.wales","maly.io","social.wake.st","social.targaryen.house","eupublic.social","social.skewed.de","framapiaf.org","mastodon.technology","m.bonzoesc.net","toot.dummy.cafe","pasta.ga","troet.cafe","godforsaken.website","masto.donte.com.br","nonexiste.net","jigglypuff.club","loma.ml","qoto.org","social.linux.pizza","o3o.ca","koyu.space","dasgelobteland.art","hispagatos.space","bitcoinhackers.org","dobbs.town","bgme.me","openbiblio.social","mk.himbeer.me","liberdon.com","octodon.social","m.cmx.im","muenchen.social","mastodon.acc.sunet.se","mindly.social","deadinsi.de","lewd.town","socnet.supes.com","birb.space","wintermute.fr.to","redliberal.com","mastodon.ml","the.shitposting.network","pieville.net","a-mastodon-instance.hosted-at-a.super-fukin.long-ass.fully-qualified.domain.name.bruh.lamp.wtf","mograph.social","microblog.social","balkan.fedive.rs","mastodon.uno","baraag.net","mstdn.io","social.coop","social.pixie.town","tooot.im","mastodon.macsnet.cz","mstdn.jp","mastodon.sdf.org","hostux.social","gameliberty.club","intahnet.co.uk","cutout.media","bolha.us","witches.live","chaos.social","mastodon.top","social.nofftopia.com","devin.masto.host","niscii.xyz","infosec.exchange","toot.cat","layer8.space","the.goofs.space","social.jmueller.eu","tech.lgbt","shitposting.army","whitespashe.uk","dragonscave.space","venera.social","tilde.zone","social.touha.me","mastodontech.de","skoops.social","scholar.social","sneed.network","mastodon.cipherbliss.com","mastodon.bida.im","friendica.oldkid.digital","best-friends.chat","donphan.social","hunk.city","jorts.horse","social.drastical.tech","todon.eu","hackers.town","focal.social","mk.asie.pl","mastodon.gamedev.place","mstdn.social","botsin.space","krefeld.life","fosstodon.org","101010.pl","s.sneak.berlin","keybored.me","freeradical.zone","is.nota.live","social.snopyta.org","qaf.men"]
+0
+

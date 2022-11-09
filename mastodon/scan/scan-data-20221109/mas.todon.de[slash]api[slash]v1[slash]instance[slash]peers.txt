@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mas.todon.de; img-src 'self' https: data: blob: https://mas.todon.de; style-src 'self' https://mas.todon.de 'nonce-OZ+w279K/6xSwbCgxaS1RA=='; media-src 'self' https: data: https://mas.todon.de; frame-src 'self' https:; manifest-src 'self' https://mas.todon.de; connect-src 'self' data: blob: https://mas.todon.de https://media.weingaertner-it.de wss://mas.todon.de; script-src 'self' https://mas.todon.de; child-src 'self' blob: https://mas.todon.de; worker-src 'self' blob: https://mas.todon.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:33 GMT
+Etag: W/"d044ed617ebb64d489f4f76e438d7df5"
+Permissions-Policy: interest-cohort=()
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.837702Z
+X-Request-Id: 906bbb01-3f7c-4e88-ab4c-92d8162dcb29
+X-Runtime: 0.009571
+X-Xss-Protection: 0
+
+ba
+["relay.dresden.network","digitalcourage.social","berserker.town","seal.cafe","mastodontech.de","social.tchncs.de","literatur.social","legal.social","chaos.social","cheeseburger.social"]
+0
+

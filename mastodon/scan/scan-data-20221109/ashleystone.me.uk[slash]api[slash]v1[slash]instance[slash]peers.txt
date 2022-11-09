@@ -1,0 +1,22 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 243
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=600
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766081f65d4b4-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:57:02 GMT
+Expires: Wed, 09 Nov 2022 15:07:02 GMT
+Location: http://uk.linkedin.com/in/stoneashley/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=faigzJ3aeiK1nU1Faj8QcJ1mLRm182RmsHwyNncGU%2FNQypgcGDkLx1JEwP%2BW7s%2FthicQJEfUW2xBXnu8Eo3tt%2BO%2BUQMzS3nSOZyeYS%2Bw3c4DMgEu%2BAw1ph2Q4HBF%2Fqo8VxtRkA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://uk.linkedin.com/in/stoneashley/api/v1/instance/peers">here</a>.</p>
+</body></html>

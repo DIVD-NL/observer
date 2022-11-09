@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://moe.cat; img-src 'self' https: data: blob: https://moe.cat; style-src 'self' https://moe.cat 'nonce-wvVrzppl2ccreuu+Ov9gow=='; media-src 'self' https: data: https://moe.cat; frame-src 'self' https:; manifest-src 'self' https://moe.cat; connect-src 'self' data: blob: https://moe.cat https://oss.moe.cat/mastodon-moe-cat wss://moe.cat; script-src 'self' https://moe.cat; child-src 'self' blob: https://moe.cat; worker-src 'self' blob: https://moe.cat
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:20 GMT
+Permissions-Policy: interest-cohort=()
+Server: Tengine/2.3.4
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.529536Z
+X-Request-Id: 609b7347-209a-409b-b558-c792633c98f0
+X-Runtime: 0.223106
+X-Xss-Protection: 0
+
+0
+

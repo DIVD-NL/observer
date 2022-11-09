@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:18 GMT
+Etag: W/"6004a6b7-1de"
+Last-Modified: Sun, 17 Jan 2021 21:05:59 GMT
+Server: nginx/1.18.0
+
+1de
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+<title>Le peertube du canard réfractaire a changé de nom!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Le peertube du canard réfractaire a changé de nom!</h1>
+
+<p>La nouvelle adresse du serveur est 
+<a href="https://canard.tube/">https://canard.tube/</a><br/>
+
+<p><em>Merci.</em></p>
+</body>
+</html>
+
+
+0
+

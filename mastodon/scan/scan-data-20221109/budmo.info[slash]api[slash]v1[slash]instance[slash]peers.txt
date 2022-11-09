@@ -1,0 +1,7 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Server: Caddy
+Content-Length: 0
+

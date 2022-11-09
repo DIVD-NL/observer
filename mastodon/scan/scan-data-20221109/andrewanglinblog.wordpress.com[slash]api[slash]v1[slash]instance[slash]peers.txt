@@ -1,0 +1,343 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:56:59 GMT
+Host-Header: WordPress.com
+Server: nginx
+Strict-Transport-Security: max-age=15552000
+Vary: Cookie
+X-Ac: 5.ams _dca BYPASS
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+
+6f2a
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" data-placeholder-focus="false"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="HandheldFriendly" content="True">
+
+<link rel="stylesheet" href="https://s1.wp.com/wp-content/mu-plugins/atlas/css/header.css" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet" type="text/css" media="all">
+
+
+	<title>WordPress.com</title>
+
+
+	<link rel="alternate" type="application/rss+xml" title="WordPress.com Blog" href="https://wordpress.com/blog/feed/" />
+
+<meta name="msapplication-TileImage" content="/wp-content/themes/h4/tabs/images/wpcom-logo-144.png"/>
+<meta name="msapplication-TileColor" content="#0074a2"/>
+<meta name="application-name" content="WordPress.com"/>
+<meta name="msApplication-PackageFamilyName" content="AutomatticInc.WordPress.com_9ejavqh8rasr8"/>
+<meta name="msApplication-ID" content="App"/>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<link rel="stylesheet" type="text/css" href="https://s0.wp.com/wp-content/themes/h4/style.css?21" media="screen" />
+<!--[if lt IE 7]>
+<link href="https://s0.wp.com/wp-content/themes/h4/ie6.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<!--[if lt IE 8]>
+	<style type="text/css" media="screen">#front-page ul#topnav,.loggedin ul#topnav{width:525px}ul#topnav li{display:inline}</style>
+<![endif]-->
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1652185836h&ver=6.1-RC2-54694"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyNktFSAyEMRX9IiGvXVh8cvwXYDKYGliHQDn8vrbazVmt9YeYmnHCTAPuk3BwLxgKhqsTVUxTYJzcHJYEY24XSTuQOFtiJ8bVLi9n3TEbYDaMe9T3YSjyB5dm9KyabTW4gpTGeC1F0XCcU2AoEnMggYzgaWojEpmFWjN64pgPF23jPLfU36Lr5o9NeDEsyB8umzbUon2m6sP3vEtkUil5u4G7+wh708KQHJRQSo8q40yuYSMr5hroyvh4Ax0aEnCpvvWf5teXFmg+L6vGQzM9p/YF9/gdrU0YR1c9ANZye7NxreBnW6/XzZnxcbbYfeO3knQ==?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;}body .is-layout-flow > .alignright{float: right;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;}body .is-layout-constrained > .alignright{float: right;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9ju8KwjAMxF/IGgYV9YP4LHWLbTRtxpohe3vDFMU/7Nv9Lnfh4Na7VopiUcij63mMVCq0krNZjumKRvXLWZuzAoIiStauL/E4/P8ZURxLG5SkfIA7c6BhqTrgiSWajPOWN/6UNGG2xclD1YnRcSjdcu6ZgFAmTSYqU4fzmmM+NH6z9363bfzlDs35btA=?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&cssminify=yes' type='text/css' media='all' />
+<script type="text/javascript">
+if ( window.top !== window.self ) {
+	if ( window.top.location.hostname !== window.self.location.hostname || window.top.location.protocol !== window.top.location.protocol ) {
+		window.top.location.href = window.self.location.href;
+	}
+}
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJyNjUsOAiEQRC8kIDPKzngWHFpoAs3IJ8rtxUSTiRtdVar6VZe4r2xJVIGq8EXEdMEArBXI2o6MIV0T92UnBoe0hGagvEB/a5D7W3hE+gmxiDbrClt4s5xDZWtOj/59qw7ieOcOImgySPYzqqlXN3wJaCD/XQNdhuOST6NyjieplJqP07yX/glEl2Kd'></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://andrewanglinblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://andrewanglinblog.wordpress.com/osd.xml" title="Andrew Anglin" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Andrew Anglin" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Letters from Internet Prison" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://andrewanglinblog.wordpress.com/feed/;icon-uri=https://andrewanglinblog.files.wordpress.com/2017/08/cropped-eagle-emoticon.png?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="Letters from Internet Prison" />
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 32x32 48x48" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16" />
+
+<meta name="apple-mobile-web-app-title" content="WP.com">
+
+<link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png" sizes="512x512" />
+
+<link rel="icon" href="https://andrewanglinblog.files.wordpress.com/2017/08/cropped-eagle-emoticon.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://andrewanglinblog.files.wordpress.com/2017/08/cropped-eagle-emoticon.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://andrewanglinblog.files.wordpress.com/2017/08/cropped-eagle-emoticon.png?w=180" />
+<meta name="msapplication-TileImage" content="https://andrewanglinblog.files.wordpress.com/2017/08/cropped-eagle-emoticon.png?w=270" />
+<script type="text/javascript">
+<!--
+function gotoFunction() { window.location.href = document.language.languagesel.options[document.language.languagesel.selectedIndex].value; }
+// -->
+</script>
+
+<link rel="fluid-icon" href="https://s0.wp.com/wp-content/themes/h4/i/fluidicon.png" title="WordPress.com" />
+
+</head>
+
+
+<body id="h4error" class="error410 admin-bar-hidden">
+
+	<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function(){
+			// Fix internal links with fixed header.
+			if ( location.hash ) {
+				setTimeout( function() {
+					jQuery('body').scrollTop( jQuery(location.hash).offset().top - 75 );
+				}, 1000 );
+			}
+		} );
+	</script>
+
+
+
+
+<div id="wrapper" class="en-wrapper">
+
+<div class="page-content">
+
+<h2>andrewanglinblog.wordpress.com is no longer available.</h2><p>This site has been archived or suspended for a violation of our <a href="http://wordpress.com/tos/">Terms of Service</a>.<br />For more information and to contact us please read this <a href="http://en.support.wordpress.com/suspended-blogs/">support document</a>.</p>
+</div><!-- /.page-content -->
+
+<footer class="footer">
+	<a class="footer-wpcom" href="https://wordpress.com/"><img src="//s1.wp.com/wp-content/themes/h4/i/logo-h-rgb.png" alt="WordPress.com" width="180" height="45" /></a>
+</footer>
+
+
+
+<!-- google_ad_section_start(weight=ignore) -->
+<div id="footer" class="no-feedbag">
+			<div class="c0">
+					<h4>Get Started</h4>
+			<a class="button-primary" href="https://wordpress.com/start/?ref=websitebluefooter">Create your own website</a>
+				</div>
+									<div class="c0">
+				<h4>Solutions</h4>
+				<ul>
+																		<li><a href="https://wordpress.com/features/" title="">Features</a></li>
+																								<li><a href="https://wordpress.com/hosting/" title="">WordPress Hosting</a></li>
+																								<li><a href="https://wordpress.com/domains/" title="">Domain Names</a></li>
+																								<li><a href="https://wordpress.com/website-builder/" title="">Website Builder</a></li>
+																								<li><a href="https://wordpress.com/create-blog/" title="">Create a Blog</a></li>
+																								<li><a href="https://wordpress.com/professional-email/" title="">Professional Email</a></li>
+																								<li><a href="https://wordpress.com/ecommerce/" title="">eCommerce</a></li>
+																								<li><a href="https://wpvip.com/" title="">Enterprise Solutions</a></li>
+																								<li><a href="https://wordpress.com/do-it-for-me/" title="">WordPress Website Building Service</a></li>
+															</ul>
+			</div>
+								<div class="c1">
+				<h4>Explore</h4>
+				<ul>
+																		<li><a href="https://wordpress.com/blog/" title="">News</a></li>
+																								<li><a href="https://wordpress.com/go/" title="">Website Building Tips</a></li>
+																								<li><a href="https://discover.wordpress.com/" title="">Discover</a></li>
+																								<li><a href="https://wordpress.com/themes" title="">WordPress Themes</a></li>
+																								<li><a href="https://wordpress.com/install-plugins/" title="">WordPress Plugins</a></li>
+																								<li><a href="https://apps.wordpress.com/mobile/" title="">Apps</a></li>
+																								<li><a href="https://wordpress.com/business-name-generator/" title="">Business Name Generator</a></li>
+															</ul>
+			</div>
+								<div class="c2">
+				<h4>Community</h4>
+				<ul>
+																		<li><a href="https://wordpress.com/support/" title="">WordPress.com Support</a></li>
+																								<li><a href="https://wordpress.com/forums/" title="">WordPress.com Forums</a></li>
+																								<li><a href="https://developer.wordpress.com/" title="">Developers</a></li>
+																								<li><a href="https://wordpress.org/" title="">WordPress.org</a></li>
+															</ul>
+			</div>
+								<div class="c3">
+				<h4>Company</h4>
+				<ul>
+																		<li><a href="https://wordpress.com/about/" title="">About</a></li>
+																								<li><a href="https://wordpress.com/careers/" title="Remote Jobs">Careers</a></li>
+																								<li><a href="https://wordpress.com/partners/" title="">Partners</a></li>
+																								<li><a href="https://automattic.com/press/" title="">Press</a></li>
+																								<li><a href="https://automattic.com/privacy/" title="">Privacy</a></li>
+																								<li id="california-privacy-opt-out" style="display: none;" class="ccpa-link"><a href="https://wordpress.com/advertising-program-optout/" title="">Do Not Sell or Share My Personal Information</a></li>
+																								<li id="california-privacy-notice" style="display: none;" class="ccpa-link"><a href="https://automattic.com/privacy/#california-consumer-privacy-act-ccpa" title="">Privacy Notice for California Users</a></li>
+																								<li><a href="https://wordpress.com/tos/" title="">Terms of Service</a></li>
+															</ul>
+			</div>
+				<div class="spacergif"></div>
+			<p class="automattic">
+		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Invention</span>	</p>
+</div>
+</div>
+
+
+<script type="text/javascript">
+<!--
+addLoadEvent(function(){jQuery('#user_login').focus();});
+// -->
+</script>
+<!-- wpcom_wp_footer -->
+<script type="text/javascript">
+if ( window.top !== window.self ) {
+	if ( window.top.location.hostname !== window.self.location.hostname || window.top.location.protocol !== window.top.location.protocol ) {
+		window.top.location.href = window.self.location.href;
+	}
+}
+</script>
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202245z' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+<script id='comment-like-js-extra'>
+var comment_like_text = {"loading":"Loading...","swipeUrl":"https:\/\/s2.wp.com\/wp-content\/mu-plugins\/comment-likes\/js\/lib\/swipe.js?ver=20131008"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/_static/??-eJx9jcEOwjAMQ3+IEqFuSD0gvqVkEWvXdFWTDT5/7Q04cLPsZxtexeCalbJCFJhoD0jlfY5ygo+IN1PS9gxZAFfmZpkUFpLe+TJ+izoTN2weOinsUxKsRPnPgZ84ZPPwFdiLUm3KaPW49PE73y7X0Vnr3GDjAYpbRZA='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'134595699','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'134595699','v':'wpcom','tz':'0','user_id':'0','subd':'andrewanglinblog'}]);
+_stq.push(['extra', {'crypt':'UE5VRnhUZ2VGQSYvTVglSnBOaVR1Jk9bYn5tNmJ+TXolcGJkYXZKZDJWRkgyaEV6ZlluSiZpYTRhWV9aN0tsb0F1W2tRWg=='}]);
+_stq.push([ 'clickTrackerInit', '134595699', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- google_ad_section_end -->
+</body>
+</html>
+
+0
+

@@ -1,0 +1,20 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:22:17 GMT
+Location: https://vern.cc/
+Onion-Location: http://wf.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/api/v1/instance/peers
+Server: nginx/1.18.0
+
+ab
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body>
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
+
+0
+

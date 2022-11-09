@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://masto.mryardley.com; img-src 'self' https: data: blob: https://masto.mryardley.com; style-src 'self' https://masto.mryardley.com 'nonce-4mydRD96SWMP9yqNaFUA8A=='; media-src 'self' https: data: https://masto.mryardley.com; frame-src 'self' https:; manifest-src 'self' https://masto.mryardley.com; connect-src 'self' data: blob: https://masto.mryardley.com https://cdn.masto.host wss://masto.mryardley.com; script-src 'self' https://masto.mryardley.com; child-src 'self' blob: https://masto.mryardley.com; worker-src 'self' blob: https://masto.mryardley.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:44 GMT
+Etag: W/"90f4dd019e315b9cf088cc31699d5019"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.902585Z
+X-Request-Id: e2b47280-401d-45ed-b25f-18a5aa52daba
+X-Runtime: 0.042547
+X-Xss-Protection: 0
+
+24
+["13bells.com","noagendasocial.com"]
+0
+

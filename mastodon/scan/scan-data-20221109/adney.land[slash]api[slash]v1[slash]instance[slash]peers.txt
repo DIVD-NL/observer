@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://adney.land; img-src 'self' https: data: blob: https://adney.land; style-src 'self' https://adney.land 'nonce-+kYafVDxffqPHwqrAhpeVw=='; media-src 'self' https: data: https://adney.land; frame-src 'self' https:; manifest-src 'self' https://adney.land; connect-src 'self' data: blob: https://adney.land https://media.adney.land wss://adney.land; script-src 'self' https://adney.land 'unsafe-eval'; child-src 'self' blob: https://adney.land; worker-src 'self' blob: https://adney.land
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.479990Z
+X-Request-Id: 12d903f5-b807-4884-85cd-ebda1a3100bd
+X-Runtime: 0.004820
+X-Xss-Protection: 0
+
+0
+

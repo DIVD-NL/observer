@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.homeset.de; img-src 'self' https: data: blob: https://mastodon.homeset.de; style-src 'self' https://mastodon.homeset.de 'nonce-vfgPRUxv0OfjqN8knGvhHA=='; media-src 'self' https: data: https://mastodon.homeset.de; frame-src 'self' https:; manifest-src 'self' https://mastodon.homeset.de; connect-src 'self' data: blob: https://mastodon.homeset.de https://files.example.com wss://mastodon.homeset.de; script-src 'self' https://mastodon.homeset.de; child-src 'self' blob: https://mastodon.homeset.de; worker-src 'self' blob: https://mastodon.homeset.de
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:26 GMT
+Etag: W/"612308984a867868970be2811a934e04"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.454053Z
+X-Request-Id: 58781068-386d-443a-b5ed-468dbf643e6b
+X-Runtime: 0.013013
+X-Xss-Protection: 1; mode=block
+
+992
+["venera.social","social.msitc.de","wiesbaden.social","social.urspringer.de","social.network.europa.eu","dresden.network","mstdn.social","xn--baw-joa.social","friendica.opensocial.space","social.bau-ha.us","rubber.social","bildung.social","social.trom.tf","liberalism.masto.host","anarchydica.net","social.yl.ms","social.tchncs.de","social.cologne","libranet.de","social.jmueller.eu","edi.social","mastodon.popps.org","toot.hoec3.de","oldbytes.space","linuxrocks.online","infosec.exchange","social.softmetz.de","f.freinetz.ch","friendica.xyz","ruhr.social","friendica.oldkid.digital","mastodon.gamedev.place","gruene.social","sasa.uber.space","soc.schuerz.at","octodon.social","osna.social","social.fedinet.de","social.dorf-post.de","darmstadt.social","ursal.zone","toot.wales","friendica.utzer.de","hostsharing.coop","floss.social","librem.one","dis-le.de","digitalcourage.video","f.praschnig.com","friendica.bachgau.social","frnd.nanoscopic.de","beta.birdsite.live","dasnetzundich.de","universeodon.com","freiburg.social","digitalcourage.social","social.tromdienste.de","mas.to","mastodon.f-si.org","social.weho.st","mastodon.xyz","social.krylc.cloud","pouet.chapril.org","video.lemediatv.fr","gs.leftic.club","mstdn.fr","todon.nl","so.fnky.nz","mastodon.online","mastodon.zaclys.com","eldritch.cafe","tooter.social","peertube.stream","mastodon.nl","boitam.eu","fosstodon.org","framapiaf.org","forum.friendi.ca","podlibre.social","troet.cafe","mamot.fr","chat.noelle.codes","mastodon.cloud","elekk.xyz","scl.clttr.info","bonn.social","social.anoxinon.de","die-partei.social","mastodon.world","climatejustice.social","radiosocial.de","nerdculture.de","pirati.ca","moosetodon.com","etiketi.de","bitcoinhackers.org","chaos.social","fediverse.one","home.social","social.linksfraktion.de","climatejustice.global","nerdica.net","mastodon.social","social.bund.de","comm.network","skeptics.social","mastodon.ctseuro.com","fulda.social","mastodon.scot","a.gup.pe","mastodon.ostertag.team","f.3ischn.de","nrw.social","raru.re","mastodon.technology","mastodon.klattgroup.eu","quasselkopf.de","mastodon.digitalsuccess.dev","sueden.social","shorage.de","odenwald.social","rollenspiel.social","social.wildeboer.net","sozen.network","kirche.social","squeet.me","suchtbasis.de","social.agb-web.de","im.allmendenetz.de","loma.ml","anonsys.net","metalhead.club","mastodon.se","toot.berlin","sunbeam.city","fr.readthefinemanual.net","norden.social","mastodontech.de"]
+0
+

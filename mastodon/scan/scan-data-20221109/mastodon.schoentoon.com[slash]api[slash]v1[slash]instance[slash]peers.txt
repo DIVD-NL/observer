@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.schoentoon.com; img-src 'self' https: data: blob: https://mastodon.schoentoon.com; style-src 'self' https://mastodon.schoentoon.com 'nonce-MBfpeTVSIsRRGs/dzBwPZg=='; media-src 'self' https: data: https://mastodon.schoentoon.com; frame-src 'self' https:; manifest-src 'self' https://mastodon.schoentoon.com; connect-src 'self' data: blob: https://mastodon.schoentoon.com https://mastodon.schoentoon.com wss://mastodon.schoentoon.com; script-src 'self' https://mastodon.schoentoon.com; child-src 'self' blob: https://mastodon.schoentoon.com; worker-src 'self' blob: https://mastodon.schoentoon.com
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:12:13 GMT
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.126361Z
+X-Request-Id: 110246b5-9c95-487a-a5be-ac82de50b05f
+X-Runtime: 0.003946
+X-Xss-Protection: 0
+
+0
+

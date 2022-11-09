@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.intoxvs.info; img-src 'self' https: data: blob: https://m.intoxvs.info; style-src 'self' https://m.intoxvs.info 'nonce-XMe4dG6w8c4Fno340mJ6RQ=='; media-src 'self' https: data: https://m.intoxvs.info; frame-src 'self' https:; manifest-src 'self' https://m.intoxvs.info; connect-src 'self' data: blob: https://m.intoxvs.info https://m.intoxvs.info wss://m.intoxvs.info; script-src 'self' https://m.intoxvs.info; child-src 'self' blob: https://m.intoxvs.info; worker-src 'self' blob: https://m.intoxvs.info
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:17 GMT
+Etag: W/"6fdf487006b83cf06a34afd565ea94e7"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T14:25:00.628524Z
+X-Request-Id: abd3bbdc-0f32-4797-9f37-294727dfa8ce
+X-Runtime: 0.009286
+X-Xss-Protection: 1; mode=block
+
+36
+["varishangout.net","misskey.biribiri.dev","akko.wtf"]
+0
+

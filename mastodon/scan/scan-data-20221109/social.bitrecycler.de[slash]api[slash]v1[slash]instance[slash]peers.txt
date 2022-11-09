@@ -1,0 +1,16 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:17:59 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx
+Set-Cookie: PHPSESSID=17eb4ee0203accd5e97500064934e10a; path=/; HttpOnly
+X-Account-Management-Status: none
+
+68
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}
+0
+

@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://go5.dev; img-src 'self' https: data: blob: https://go5.dev; style-src 'self' https://go5.dev 'nonce-AqSQMp/d/bRG1YOAASzF7w=='; media-src 'self' https: data: https://go5.dev; frame-src 'self' https:; manifest-src 'self' https://go5.dev; connect-src 'self' data: blob: https://go5.dev https://media.go5.dev wss://go5.dev; script-src 'self' https://go5.dev; child-src 'self' blob: https://go5.dev; worker-src 'self' blob: https://go5.dev
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:03:58 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 200
+X-Ratelimit-Remaining: 199
+X-Ratelimit-Reset: 2022-11-09T15:05:00.479884Z
+X-Request-Id: 5a2c8df2-9cbe-4348-a295-3f5dbb90e6db
+X-Runtime: 0.095746
+X-Xss-Protection: 0
+
+0
+

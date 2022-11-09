@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:57 GMT
+Etag: W/"6032fd47-aa"
+Last-Modified: Mon, 22 Feb 2021 00:39:35 GMT
+Server: nginx/1.21.4
+Strict-Transport-Security: max-age=63072000
+
+aa
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>erin dot moe</title>
+		<link rel="stylesheet" href="asthetic.css" />
+	</head>
+	<body>
+	</body>
+</html>
+
+0
+

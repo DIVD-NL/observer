@@ -1,0 +1,46 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Etag: W/"6338c115-401"
+Last-Modified: Sat, 01 Oct 2022 22:37:09 GMT
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+401
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <!-- <link rel="icon" href="/favicon.ico" /> -->
+        <link
+            href="https://fonts.googleapis.com/css?family=Merriweather"
+            rel="stylesheet"
+        />
+        <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css"
+            rel="stylesheet"
+        />
+        <title>ForcAD</title>
+        
+      <script type="module" crossorigin src="/assets/index.2e04400c.js"></script>
+      <link rel="stylesheet" href="/assets/index.f37e098d.css">
+    </head>
+    <body>
+        <noscript>
+            <strong
+                >We're sorry but front doesn't work properly without JavaScript
+                enabled. Please enable it to continue.</strong
+            >
+        </noscript>
+        <div id="app"></div>
+    </body>
+</html>
+
+0
+

@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3-29=":443"; h3=":443"; ma=600
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 15:20:48 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Public-Key-Pins: pin-sha256="MEOJ6Lf5A7+AH6t4sIGA26idHwL7/biNS5g5pnTi9Wo="; pin-sha256="Ycr9j5FpzR1NHQ1ITvFMPp+h2QtcNBqpWMFImK+H+so="; max-age=2592000; includeSubDomains
+Server: h2o/2.3.0-DEV
+Set-Cookie: PHPSESSID=b0b6e925e7b71183096b9d6c5ed5d730; path=/; secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+
+1b
+{"error":"not implemented"}
+0
+

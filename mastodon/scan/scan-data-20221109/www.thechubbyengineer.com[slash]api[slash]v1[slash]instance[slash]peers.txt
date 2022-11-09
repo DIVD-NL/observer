@@ -1,0 +1,373 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy: default-src 'unsafe-inline' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.thechubbyengineer.com/  https://*.wp.com/ https://*.wordpress.com/ https://secure.gravatar.com/ https://hcaptcha.com https://newassets.hcaptcha.com; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'self' 'unsafe-inline'; img-src 'self' data: https: static.thechubbyengineer.com *.gravatar.com; font-src 'self' data: https: static.thechubbyengineer.com; connect-src 'self' public-api.wordpress.com; object-src 'self'; frame-src 'self' https://www.thechubbyengineer.com/ https://newassets.hcaptcha.com; frame-ancestors 'self'; form-action 'self'; base-uri 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:47 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Feature-Policy: geolocation 'self'; midi 'none'; notifications 'self'; push 'self'; sync-xhr 'self'; microphone 'none'; camera 'none' ; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'self'; payment 'none';
+Link: <https://www.thechubbyengineer.com/wp-json/>; rel="https://api.w.org/"
+Permissions-Policy: interest-cohort=(), geolocation=(self), midi=(), notifications=(self), push=(self), sync-xhr=(self), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(self), payment=()
+Referrer-Policy: strict-origin
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#7F7FFF"/>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.thechubbyengineer.com/xmlrpc.php">
+	
+<title>Page not found &#8211; The Chubby Engineer</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="The Chubby Engineer &raquo; Feed" href="https://www.thechubbyengineer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Chubby Engineer &raquo; Comments Feed" href="https://www.thechubbyengineer.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thechubbyengineer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=18ae5e977512dd35d908ac6de7c171da"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tortuga-theme-fonts-css' href='https://www.thechubbyengineer.com/wp-content/fonts/b4ddce1cdc4a1b90a47ce061f210fddb.css?ver=20201110' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.thechubbyengineer.com/wp-includes/css/dist/block-library/style.min.css?ver=18ae5e977512dd35d908ac6de7c171da' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.thechubbyengineer.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #dd5533;--wp--preset--color--secondary: #c43c1a;--wp--preset--color--tertiary: #aa2200;--wp--preset--color--accent: #3355dd;--wp--preset--color--highlight: #2bc41a;--wp--preset--color--light-gray: #f0f0f0;--wp--preset--color--gray: #999999;--wp--preset--color--dark-gray: #303030;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='parent-style-css' href='https://www.thechubbyengineer.com/wp-content/themes/tortuga/style.css?ver=18ae5e977512dd35d908ac6de7c171da' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.thechubbyengineer.com/wp-content/themes/tortuga-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tortuga-stylesheet-css' href='https://www.thechubbyengineer.com/wp-content/themes/tortuga-child/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='tortuga-stylesheet-inline-css' type='text/css'>
+.site-title, .site-description { position: absolute; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; overflow: hidden; }
+</style>
+<link rel='stylesheet' id='tortuga-safari-flexbox-fixes-css' href='https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/css/safari-flexbox-fixes.css?ver=20200420' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css' href='https://www.thechubbyengineer.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hcb-style-css' href='https://www.thechubbyengineer.com/wp-content/plugins/highlighting-code-block/build/css/hcb_style.css?ver=1.6.1' type='text/css' media='all' />
+<style id='hcb-style-inline-css' type='text/css'>
+:root{--hcb-font-size: 14px}:root{--hcb-font-size--mobile: 13px}:root{--hcb-font-family:Menlo, Consolas, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;}
+</style>
+<link rel='stylesheet' id='hcb-coloring-css' href='https://www.thechubbyengineer.com/wp-content/plugins/highlighting-code-block/build/css/coloring_dark.css?ver=1.6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/js/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/js/svgxuse.min.js?ver=1.2.6' id='svgxuse-js'></script>
+<link rel="https://api.w.org/" href="https://www.thechubbyengineer.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thechubbyengineer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thechubbyengineer.com/wp-includes/wlwmanifest.xml" />
+
+</head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive post-layout-two-columns post-layout-columns">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	<div id="page" class="hfeed site">
+
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		
+		<header id="masthead" class="site-header clearfix" role="banner">
+
+			<div class="header-main container clearfix">
+
+				<div id="logo" class="site-branding clearfix">
+
+					<a href="https://www.thechubbyengineer.com/" class="custom-logo-link" rel="home"><img width="250" height="87" src="https://www.thechubbyengineer.com/wp-content/uploads/2017/09/cropped-cropped-logo1flat50-Cropped.png" class="custom-logo" alt="The Chubby Engineer" decoding="async" /></a>					
+			<p class="site-title"><a href="https://www.thechubbyengineer.com/" rel="home">The Chubby Engineer</a></p>
+
+							
+			<p class="site-description">Adventures in Technology</p>
+
+			
+				</div><!-- .site-branding -->
+
+				<div class="header-widgets clearfix">
+
+					
+				</div><!-- .header-widgets -->
+
+			</div><!-- .header-main -->
+
+			
+
+	<div id="main-navigation-wrap" class="primary-navigation-wrap">
+
+		<div class="primary-navigation-container container">
+
+			
+			<button class="primary-menu-toggle menu-toggle" aria-controls="primary-menu" aria-expanded="false" >
+				<svg class="icon icon-menu" aria-hidden="true" role="img"> <use xlink:href="https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/icons/genericons-neue.svg#menu"></use> </svg><svg class="icon icon-close" aria-hidden="true" role="img"> <use xlink:href="https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/icons/genericons-neue.svg#close"></use> </svg>				<span class="menu-toggle-text">Menu</span>
+			</button>
+
+			<div class="primary-navigation">
+
+				<nav id="site-navigation" class="main-navigation" role="navigation"  aria-label="Primary Menu">
+
+					<ul id="primary-menu" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-231"><a href="https://www.thechubbyengineer.com/category/computers/">Computers<svg class="icon icon-expand" aria-hidden="true" role="img"> <use xlink:href="https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/icons/genericons-neue.svg#expand"></use> </svg></a>
+<ul class="sub-menu">
+	<li id="menu-item-581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-581"><a href="https://www.thechubbyengineer.com/category/computers/repairs-computers/">Repairs</a></li>
+	<li id="menu-item-582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-582"><a href="https://www.thechubbyengineer.com/category/computers/linux/">Linux</a></li>
+</ul>
+</li>
+<li id="menu-item-234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-234"><a href="https://www.thechubbyengineer.com/category/electronics/">Electronics<svg class="icon icon-expand" aria-hidden="true" role="img"> <use xlink:href="https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/icons/genericons-neue.svg#expand"></use> </svg></a>
+<ul class="sub-menu">
+	<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="https://www.thechubbyengineer.com/category/electronics/repairs/">Repairs</a></li>
+</ul>
+</li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://www.thechubbyengineer.com/contact-me/">Contact Me</a></li>
+</ul>				</nav><!-- #site-navigation -->
+
+			</div><!-- .primary-navigation -->
+
+		</div>
+
+	</div>
+
+
+
+		</header><!-- #masthead -->
+
+		
+		
+		<div id="content" class="site-content container clearfix">
+
+
+	<section id="primary" class="content-single content-area">
+		<main id="main" class="site-main" role="main">
+
+			<div class="error-404 not-found type-page">
+			
+				<header class="entry-header">
+		
+					<h1 class="page-title">404: Page not found</h1>
+					
+				</header><!-- .entry-header -->
+				
+				<div class="entry-content clearfix">
+					<p>It looks like nothing was found at this location. Maybe try a search or one of the links below?</p>
+					
+					
+<form role="search" method="get" class="search-form" action="https://www.thechubbyengineer.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field"
+			placeholder="Search &hellip;"
+			value="" name="s"
+			title="Search for:" />
+	</label>
+	<button type="submit" class="search-submit">
+		<svg class="icon icon-search" aria-hidden="true" role="img"> <use xlink:href="https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/icons/genericons-neue.svg#search"></use> </svg>		<span class="screen-reader-text">Search</span>
+	</button>
+</form>
+
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/linux/bash-script-to-convert-webp-images-to-jpg/">BASh script to convert WebP images to jpg</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/repairs-computers/how-to-replace-the-display-panel-on-an-hp-15-ay014nv-laptop/">How to replace the display panel on an HP 15-ay014nv laptop</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/installing-ssd-hp-14-an013nr-laptop/">Installing an SSD in an HP 14-an013nr laptop</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/electronics/repairs/repairing-50000mah-solar-powerbank/">Repairing a &#8220;50000mAh&#8221; solar powerbank</a>
+									</li>
+					</ul>
+
+		</div>
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://www.thechubbyengineer.com/2020/11/'> November 2020 </option>
+	<option value='https://www.thechubbyengineer.com/2020/04/'> April 2020 </option>
+	<option value='https://www.thechubbyengineer.com/2017/09/'> September 2017 </option>
+	<option value='https://www.thechubbyengineer.com/2017/01/'> January 2017 </option>
+
+		</select>
+
+
+			</div>					
+					<div class="widget widget_categories"><h2 class="widgettitle">Categories</h2><form action="https://www.thechubbyengineer.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="6">Computers</option>
+	<option class="level-0" value="22">Linux</option>
+	<option class="level-0" value="4">Repairs</option>
+	<option class="level-0" value="16">Repairs</option>
+</select>
+</form>
+
+
+			</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://www.thechubbyengineer.com/tag/bash/" class="tag-cloud-link tag-link-24 tag-link-position-1" style="font-size: 8pt;" aria-label="BASh (1 item)">BASh</a>
+<a href="https://www.thechubbyengineer.com/tag/display/" class="tag-cloud-link tag-link-17 tag-link-position-2" style="font-size: 8pt;" aria-label="Display (1 item)">Display</a>
+<a href="https://www.thechubbyengineer.com/tag/hp/" class="tag-cloud-link tag-link-18 tag-link-position-3" style="font-size: 8pt;" aria-label="HP (1 item)">HP</a>
+<a href="https://www.thechubbyengineer.com/tag/laptop/" class="tag-cloud-link tag-link-12 tag-link-position-4" style="font-size: 22pt;" aria-label="Laptop (2 items)">Laptop</a>
+<a href="https://www.thechubbyengineer.com/tag/linux/" class="tag-cloud-link tag-link-23 tag-link-position-5" style="font-size: 8pt;" aria-label="Linux (1 item)">Linux</a>
+<a href="https://www.thechubbyengineer.com/tag/powerbank/" class="tag-cloud-link tag-link-13 tag-link-position-6" style="font-size: 8pt;" aria-label="Powerbank (1 item)">Powerbank</a>
+<a href="https://www.thechubbyengineer.com/tag/repair/" class="tag-cloud-link tag-link-9 tag-link-position-7" style="font-size: 22pt;" aria-label="Repair (2 items)">Repair</a>
+<a href="https://www.thechubbyengineer.com/tag/shell/" class="tag-cloud-link tag-link-25 tag-link-position-8" style="font-size: 8pt;" aria-label="Shell (1 item)">Shell</a>
+<a href="https://www.thechubbyengineer.com/tag/shell-script/" class="tag-cloud-link tag-link-26 tag-link-position-9" style="font-size: 8pt;" aria-label="Shell Script (1 item)">Shell Script</a>
+<a href="https://www.thechubbyengineer.com/tag/ssd/" class="tag-cloud-link tag-link-11 tag-link-position-10" style="font-size: 8pt;" aria-label="SSD (1 item)">SSD</a>
+<a href="https://www.thechubbyengineer.com/tag/upgrade/" class="tag-cloud-link tag-link-10 tag-link-position-11" style="font-size: 8pt;" aria-label="Upgrade (1 item)">Upgrade</a></div>
+</div>					
+					<div class="widget widget_pages"><h2 class="widgettitle">Pages</h2>
+			<ul>
+				<li class="page_item page-item-81"><a href="https://www.thechubbyengineer.com/about-me/">About Me</a></li>
+<li class="page_item page-item-83"><a href="https://www.thechubbyengineer.com/contact-me/">Contact Me</a></li>
+<li class="page_item page-item-256"><a href="https://www.thechubbyengineer.com/privacy-policy/">Privacy Policy</a></li>
+			</ul>
+
+			</div>
+				</div>
+				
+			</div>
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+	
+	
+	<section id="secondary" class="sidebar widget-area clearfix" role="complementary">
+
+		
+		<div class="widget-wrap"><aside id="recent-posts-2" class="widget widget_recent_entries clearfix">
+		<div class="widget-header"><h3 class="widget-title">Recent Posts</h3></div>
+		<ul>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/linux/bash-script-to-convert-webp-images-to-jpg/">BASh script to convert WebP images to jpg</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/repairs-computers/how-to-replace-the-display-panel-on-an-hp-15-ay014nv-laptop/">How to replace the display panel on an HP 15-ay014nv laptop</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/computers/installing-ssd-hp-14-an013nr-laptop/">Installing an SSD in an HP 14-an013nr laptop</a>
+									</li>
+											<li>
+					<a href="https://www.thechubbyengineer.com/electronics/repairs/repairing-50000mah-solar-powerbank/">Repairing a &#8220;50000mAh&#8221; solar powerbank</a>
+									</li>
+					</ul>
+
+		</aside></div><div class="widget-wrap"><aside id="archives-2" class="widget widget_archive clearfix"><div class="widget-header"><h3 class="widget-title">Archives</h3></div>
+			<ul>
+					<li><a href='https://www.thechubbyengineer.com/2020/11/'>November 2020</a></li>
+	<li><a href='https://www.thechubbyengineer.com/2020/04/'>April 2020</a></li>
+	<li><a href='https://www.thechubbyengineer.com/2017/09/'>September 2017</a></li>
+	<li><a href='https://www.thechubbyengineer.com/2017/01/'>January 2017</a></li>
+			</ul>
+
+			</aside></div><div class="widget-wrap"><aside id="categories-2" class="widget widget_categories clearfix"><div class="widget-header"><h3 class="widget-title">Categories</h3></div>
+			<ul>
+					<li class="cat-item cat-item-6"><a href="https://www.thechubbyengineer.com/category/computers/">Computers</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://www.thechubbyengineer.com/category/computers/linux/">Linux</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.thechubbyengineer.com/category/electronics/repairs/">Repairs</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.thechubbyengineer.com/category/computers/repairs-computers/">Repairs</a>
+</li>
+			</ul>
+
+			</aside></div>
+	</section><!-- #secondary -->
+
+
+
+
+
+	</div><!-- #content -->
+
+
+
+	
+
+
+	<div id="footer" class="footer-wrap">
+
+
+
+		<footer id="colophon" class="site-footer container clearfix" role="contentinfo">
+
+
+
+			      <div class="site-info" id="privacy-text">
+        <a href="///www.thechubbyengineer.com/privacy-policy/" target="_blank" alt="opens in new tab/window">Privacy Policy</a>
+      
+      </div>
+
+
+
+			<div id="footer-text" class="site-info">
+
+				
+	<span class="credit-link">
+		WordPress Theme: Tortuga by ThemeZee.	</span>
+
+	
+			</div><!-- .site-info -->
+
+
+
+		</footer><!-- #colophon -->
+
+
+
+	</div>
+
+
+
+</div><!-- #page -->
+
+
+
+<link rel='stylesheet' id='basecss-css' href='https://www.thechubbyengineer.com/wp-content/plugins/eu-cookie-law/css/style.css?ver=18ae5e977512dd35d908ac6de7c171da' type='text/css' media='all' />
+<script type='text/javascript' id='tortuga-navigation-js-extra'>
+/* <![CDATA[ */
+var tortugaScreenReaderText = {"expand":"Expand child menu","collapse":"Collapse child menu","icon":"<svg class=\"icon icon-expand\" aria-hidden=\"true\" role=\"img\"> <use xlink:href=\"https:\/\/www.thechubbyengineer.com\/wp-content\/themes\/tortuga\/assets\/icons\/genericons-neue.svg#expand\"><\/use> <\/svg>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/themes/tortuga/assets/js/navigation.min.js?ver=20220224' id='tortuga-navigation-js'></script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-includes/js/clipboard.min.js?ver=2.0.11' id='clipboard-js'></script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/plugins/highlighting-code-block/assets/js/prism.js?ver=1.6.1' id='hcb-prism-js'></script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/plugins/highlighting-code-block/build/js/hcb_script.js?ver=1.6.1' id='hcb-script-js'></script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='eucookielaw-scripts-js-extra'>
+/* <![CDATA[ */
+var eucookielaw_data = {"euCookieSet":"","autoBlock":"1","expireTimer":"180","scrollConsent":"0","networkShareURL":"domain=thechubbyengineer.com; ","isCookiePage":"","isRefererWebsite":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thechubbyengineer.com/wp-content/plugins/eu-cookie-law/js/scripts.js?ver=3.1.6' id='eucookielaw-scripts-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+<!-- Eu Cookie Law 3.1.6 --><div class="pea_cook_wrapper pea_cook_bottomright" style="color:#FFFFFF;background:rgb(0,0,0);background: rgba(0,0,0,0.85);"><p>By continuing to use the site, you agree to the use of cookies. <a style="color:#FFFFFF;" href="https://www.thechubbyengineer.com/privacy-policy/" id="fom">more information</a> <button id="pea_cook_btn" class="pea_cook_btn">Accept</button></p></div><div class="pea_cook_more_info_popover"><div class="pea_cook_more_info_popover_inner" style="color:#FFFFFF;background-color: rgba(0,0,0,0.9);"><p>The cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this.</p><p><a style="color:#FFFFFF;" href="#" id="pea_close">Close</a></p></div></div>
+
+
+</body>
+
+</html>
+

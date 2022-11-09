@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 356
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Server: AmazonS3
+Via: 1.1 bdbb0d922c29917c00cfed799f55e7c2.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Cnd_YLmTZLXuOA3vZVwKX2nX5fHpKCHd1vc7sXkW8OE8WeKVNrYpyQ==
+X-Amz-Cf-Pop: AMS1-C1
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: api/v1/instance/peers</li>
+<li>RequestId: 6X8ZEV3FDPHKP73E</li>
+<li>HostId: ALA3gN/wWqLo5VK1jwyUfM98ixwzv0XnxQEbfV9ICD18o1NFvZ4s/rRVzbBI0H/BUD2RAEm9FdQ=</li>
+</ul>
+<hr/>
+</body>
+</html>

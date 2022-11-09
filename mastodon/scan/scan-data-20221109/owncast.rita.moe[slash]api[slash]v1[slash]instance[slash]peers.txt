@@ -1,0 +1,86 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Content-Length: 1746
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:14:31 GMT
+Etag: "5ebc2d42-6d2"
+Server: nginx
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>502 | Rita</title>
+  <link rel="icon" href="https://rita.moe/rita-icon.png">
+  <style>
+    body {
+      align-items: center;
+      background: #B63A74;
+      background: -webkit-linear-gradient(135deg, #DF8AAC, #B63A74);
+      background: linear-gradient(135deg, #DF8AAC, #B63A74);
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      min-height: 100vh;
+    }
+
+    a {
+      color: #0074D9;
+      border-bottom: 1px dotted #0074D9;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #0074D9;
+      border-bottom: 1px solid #0074D9;
+      text-decoration: none;
+    }
+
+    .message {
+      align-items: center;
+      display: flex;
+      background-color: rgba(255, 255, 255, 0.8);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      padding: 1rem 2rem 0;
+    }
+
+    .message h1 {
+      margin: 0;
+    }
+
+    .message img {
+      height: 70vh;
+      margin-left: 2rem;
+      max-height: 300px;
+      width: auto;
+    }
+
+    @media screen and (max-width: 646px) {
+      body {
+        display: block;
+        min-height: calc(100vh - 2rem);
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="message">
+    <div>
+      <h1>Bad Gateway</h1>
+      This service isn't available for the moment.<br>
+      Please try again later!<br>
+      <br>
+      <small>
+        <a href="https://www.pixiv.net/en/artworks/78429706">
+          Art by Fukuro袋子</a>
+      </small>
+    </div>
+    <img src="/rita-little.png">
+  </div>
+</body>
+</html>

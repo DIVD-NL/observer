@@ -1,0 +1,21 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 269
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:17:26 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at secure.poppelreuter.de Port 443</address>
+</body></html>

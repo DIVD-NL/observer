@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777e775dc12e08-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.party; img-src 'self' https: data: blob: https://mstdn.party; style-src 'self' https://mstdn.party 'nonce-BxNs1+fG6o6NRMSVrL6l5g=='; media-src 'self' https: data: https://mstdn.party; frame-src 'self' https:; manifest-src 'self' https://mstdn.party; connect-src 'self' data: blob: https://mstdn.party https://files.mstdn.party wss://mstdn.party; script-src 'self' https://mstdn.party; child-src 'self' blob: https://mstdn.party; worker-src 'self' blob: https://mstdn.party
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:43 GMT
+Etag: W/"4ae226502928909064319f9ff80cfa0c"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OsJmDT906H%2FDlReHavJixB14A7iKGfiK%2FGZsyHeBkA1BcU7JrVnM1%2FZsdKs90zwXKTFRgDBuDlUE7jt%2BAKelsHdCglTy%2FgzfJKXMXvWGgi0hboPCsYCyTqNS%2BjEgGA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T22:55:00.036314Z
+X-Request-Id: 9024d18c-7bf6-4ed2-91c6-a7698c53bee6
+X-Runtime: 0.004378
+X-Xss-Protection: 0
+
+58f
+["aragon.sh","wandering.shop","neat.computer","dan.mastohon.com","mastodon.nz","mastodon.art","toot.community","journa.host","shitposter.club","pdx.social","awscommunity.social","mirr0r.city","youjo.love","nrw.social","waifuism.life","federated.press","chaos.social","socl.bz","sciences.social","0sint.social","bungle.online","podcastindex.social","writing.exchange","social.tchncs.de","udongein.xyz","noc.social","misskey.io","friend.camp","mastodon.top","gearlandia.haus","indieweb.social","gleasonator.com","aus.social","poa.st","social.cologne","fediverse.pl","piaille.fr","bae.st","varishangout.net","mstdn.media","fosstodon.org","med-mastodon.com","notacult.social","mastodonapp.uk","social.coop","octodon.social","pleroma.1d4.us","noagendasocial.com","mstdn.ca","mastodon.sdf.org","kopiti.am","mastodon.green","mamot.fr","hci.social","social.blogsofwar.com","mastodon.coffee","hachyderm.io","troet.cafe","mastodon.scot","mastodon.xyz","silverheart.social","lor.sh","xoxo.zone","masthead.social","sciencemastodon.com","mstdn.social","newsie.social","c.im","toot.site","mastodon.lol","sfba.social","code4lib.social","mastodon.online","astrodon.social","mastodon.social","twit.social","mas.to","mastodon.ie","anticapitalist.party","mastodon.world","berlin.social","floss.social","social.handholding.io","infosec.exchange","social.lol","mastodon.cloud","mstdn.io","mastodon.uno","masto.pt","eldritch.cafe","scicomm.xyz"]
+0
+

@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mazzo.masto.host; img-src 'self' https: data: blob: https://mazzo.masto.host; style-src 'self' https://mazzo.masto.host 'nonce-WFGDp0gcDfiAD2FBwzUHEQ=='; media-src 'self' https: data: https://mazzo.masto.host; frame-src 'self' https:; manifest-src 'self' https://mazzo.masto.host; connect-src 'self' data: blob: https://mazzo.masto.host https://cdn.masto.host wss://mazzo.masto.host; script-src 'self' https://mazzo.masto.host; child-src 'self' blob: https://mazzo.masto.host; worker-src 'self' blob: https://mazzo.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:37 GMT
+Etag: W/"9433a738cbd73c97507383c907980de5"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.007158Z
+X-Request-Id: 880f8205-fde2-4644-b6cd-34216dfad298
+X-Runtime: 0.010637
+X-Xss-Protection: 0
+
+400
+["pleroma.fr","mstdn.fujii-yuji.net","mastodon.xyz","pleroma.knzk.me","best-friends.chat","glitch.social","friends.nico","mstdn.itmedia.co.jp","vulpine.club","mstdn-bike.net","toot.yukimochi.jp","ostatus.taiyolab.com","dtp-mstdn.jp","mstdn.guru","social.bluecore.net","abyss.fun","odakyu.app","mastodol.jp","koya.m.to","mstdn.maud.io","theboss.tech","mastodon.social","mental.social","social.homunyan.com","chaosphere.hostdon.jp","elict.net","itabashi.0j0.jp","mastodos.com","music.pawoo.net","vocalodon.net","m.uncate.org","gnusocial.matoken.org","mastodon.mit.edu","podcast.style","yougaku20c.m.to","mstdn.kemono-friends.info","oransns.com","amemiya.work","ketsuben.red","fedibird.com","gorone.xyz","knzk.me","janogdon.net","misskey.io","mstdn.hokkaido.jp","mstdn.sublimer.me","prismo.fedibird.com","mstdn.kwmr.me","kirishima.cloud","mastodon.home.js4.in","mstdn.fm","mstdn.gtn-works.com","mstdn.komittee.net","mstdn.kwmr.info","pleroma.distsn.org","1tp.dpost.jp","mstdn.jp","imastodon.net","kirakiratter.com","pawoo.net"]
+0
+

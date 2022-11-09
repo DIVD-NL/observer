@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.wierenga.net; img-src 'self' https: data: blob: https://social.wierenga.net; style-src 'self' https://social.wierenga.net 'nonce-sOU0hY4lvFuYwyJQLlAxbg=='; media-src 'self' https: data: https://social.wierenga.net; frame-src 'self' https:; manifest-src 'self' https://social.wierenga.net; connect-src 'self' data: blob: https://social.wierenga.net https://social.wierenga.net wss://social.wierenga.net; script-src 'self' https://social.wierenga.net; child-src 'self' blob: https://social.wierenga.net; worker-src 'self' blob: https://social.wierenga.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:56 GMT
+Etag: W/"488768c32de96708a34df8425759889b"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.771079Z
+X-Request-Id: 9b07c21e-b7f2-4fec-b2b5-73a4f09117e4
+X-Runtime: 0.005068
+X-Xss-Protection: 0
+
+4f3
+["friendica.mschmidt-et.de","mastodon.nu","toots.dgplug.org","todon.nl","bae.st","mastodon.ie","friendica.mifritscher.de","mathstodon.xyz","arrakis.se","kudabiverse.com","f.kretschmann.social","friendica.ambag.es","t2.thotsofa304.club","darmstadt.social","redeyes.club","friendica.togart.de","social.linux.pizza","octodon.social","friendica.offsite.guru","quitter.pl","tech.lgbt","friendica.kommune4.de","social.secret-wg.org","aaronparecki.com","freeradical.zone","mastodon.world","robot.rodeo","mastodon.online","mastodon.cloud","writing.exchange","federated.press","infosec.exchange","eldritch.cafe","f.iroiro.party","mastodon.me.uk","friendica.myportal.social","mas.to","sfba.social","ioc.exchange","mstdn.social","social.jmueller.eu","friendica.opencloud.lu","friendica.ucy.de","fosstodon.org","petroskowo.pl","noc.social","follow.schmaller.de","herzbu.de","indiepocalypse.social","nerdculture.de","chaos.social","scholar.social","toot.berlin","piaille.fr","framapiaf.org","social.coop","mastodon.radio","hci.social","mastodon.amaseto.com","mastodon.green","masto.crystal.fish","mastodon.gougere.fr","hachyderm.io","med-mastodon.com","mastodon.technology","social.fellr.net","mastodonapp.uk","mastodon.social","social.tnhh.org","mastodon.scot","hcommons.social"]
+0
+

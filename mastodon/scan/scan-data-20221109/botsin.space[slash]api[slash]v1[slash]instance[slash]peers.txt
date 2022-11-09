@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://botsin.space; img-src 'self' https: data: blob: https://botsin.space; style-src 'self' https://botsin.space 'nonce-meAjr7J0nXi6sfocMtnFrg=='; media-src 'self' https: data: https://botsin.space; frame-src 'self' https:; manifest-src 'self' https://botsin.space; connect-src 'self' data: blob: https://botsin.space https://files.botsin.space wss://botsin.space; script-src 'self' https://botsin.space; child-src 'self' blob: https://botsin.space; worker-src 'self' blob: https://botsin.space
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.221360Z
+X-Request-Id: c1bf85fa-fc87-4e6d-a90c-043c7a7bc91a
+X-Runtime: 0.005710
+X-Xss-Protection: 0
+
+0
+

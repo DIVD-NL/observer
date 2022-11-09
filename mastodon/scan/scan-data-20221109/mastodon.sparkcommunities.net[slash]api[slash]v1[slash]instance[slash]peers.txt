@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.sparkcommunities.net; img-src 'self' https: data: blob: https://mastodon.sparkcommunities.net; style-src 'self' https://mastodon.sparkcommunities.net 'nonce-SMazX7GQcLDudLK/+Et/dw=='; media-src 'self' https: data: https://mastodon.sparkcommunities.net; frame-src 'self' https:; manifest-src 'self' https://mastodon.sparkcommunities.net; connect-src 'self' data: blob: https://mastodon.sparkcommunities.net https://mastodon.sparkcommunities.net wss://mastodon.sparkcommunities.net; script-src 'self' https://mastodon.sparkcommunities.net; child-src 'self' blob: https://mastodon.sparkcommunities.net; worker-src 'self' blob: https://mastodon.sparkcommunities.net
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:12:17 GMT
+Etag: W/"33a1842ffddaa8b7d2bf836d6c665e8b"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.971901Z
+X-Request-Id: 24fc0d8a-59f3-4e1a-a4b2-ce0860c1ffce
+X-Runtime: 0.010209
+X-Xss-Protection: 1; mode=block
+
+7cc
+["graz.social","friendica.hashy-net.de","mastodon.sdf.org","hci.social","friendica.daniel-siepmann.de","anarchydica.net","fri.aethercom.de","friendica.ambag.es","friendica.myportal.social","social.jmueller.eu","econtwitter.net","zirk.us","f.kretschmann.social","poliverso.org","scholar.social","friendica.mschmidt-et.de","friendica.ucy.de","ubiqueros.com","octodon.social","kudabiverse.com","herzbu.de","mastodon.gamedev.place","friendica.offsite.guru","friendica.togart.de","quitter.pl","mastodon.cloud","thedreaming.city","follow.schmaller.de","mindly.social","fr.readthefinemanual.net","friendica.mifritscher.de","pztrn.online","det.social","mk.absturztau.be","indieweb.social","mastodon.uno","journa.host","social.bau-ha.us","f.iroiro.party","mastodon.wurzelmann.at","mastodon.world","fediscience.org","petroskowo.pl","friendica.kommune4.de","dair-community.social","mamot.fr","social.xbm.se","433.world","toki.social","tooot.im","data-folks.masto.host","mastodon.nu","friendica.opencloud.lu","mastodon-belgium.be","idf.social","norden.social","elekk.xyz","framapiaf.org","bitcoinhackers.org","fosstodon.org","mastodon.art","ludosphere.fr","artisan.chat","liberdon.com","social.tchncs.de","osna.social","vmst.io","botsin.space","chaos.social","glitterkitten.co.uk","federate.social","wikis.world","robot.rodeo","eldritch.cafe","glasgow.social","genomic.social","dragon.style","freeradical.zone","liberal.lgbt","wake.st","troet.cafe","gruene.social","030.me","social.tromdienste.de","piaille.fr","social.anoxinon.de","mastodon.scot","aus.social","climatejustice.social","mastodon.online","social.linux.pizza","ursal.zone","wien.rocks","kolektiva.social","hackers.town","mastodon.top","mstdn.social","sfba.social","writing.exchange","todon.nl","mastodon.ie","ostatus.taiyolab.com","social.coop","toot.wales","mas.to","sunbeam.city","laipower.xyz","pixelfed.social","peertube.1312.media","mastodon.green","mstdn.husku.net","mastodon.social","pewtix.com","wandering.shop","digitalcourage.social"]
+0
+

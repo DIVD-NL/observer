@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Access-Control-Allow-Origin: https://webfonts.rkor.info/
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' wss://ejdws.rkor.info; img-src * data:; media-src *; frame-src *; child-src *; report-uri https://utils.rkor.info/csp-report.php
+Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-inline' 'unsafe-eval' wss://ejdws.rkor.info; img-src * data:; media-src *; frame-src *; child-src *; report-uri https://utils.rkor.info/csp-report.php
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Location: https://rkor.info
+Referrer-Policy: no-referrer
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677819dbfe32e1a-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:15:52 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=V2G4WD8Z%2B1A7W0KxqUz%2FeNpzAM2Ra4G7BDfjC7HVG8JZKYGpaHk5KUpTgVln3kEBKAotJI%2FHgl9tlCjYfpt9l8RIP0hvF%2BLXLtCoq%2BKM%2FIgtgsAFHdAXLZdUiRizailBvc1Sgg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+152
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /api/v1/instance/peers was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+0
+

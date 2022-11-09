@@ -1,0 +1,86 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:23 GMT
+Server: Apache
+
+11ba
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <title>Glukose Pixelfed</title>
+    <link rel="manifest" href="/manifest.json">
+
+    <meta property="og:site_name" content="Glukose Pixelfed">
+    <meta property="og:title" content="Glukose Pixelfed">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://pixel.glukose.fr/api/v1/instance/peers">
+    
+    <meta name="medium" content="image">
+    <meta name="theme-color" content="#10c5f8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+    <link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+    <link rel="canonical" href="https://pixel.glukose.fr/api/v1/instance/peers">
+    <link href="/css/app.css?id=77729cabd5c8a0ad09b8" rel="stylesheet" data-stylesheet="light">
+    <script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":false,"uploader":{"max_photo_size":"10000","max_caption_length":"300","album_limit":"15","image_quality":80,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif","enforce_account_limit":true},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":false,"rec":false,"loops":false},"site":{"name":"Glukose Pixelfed","domain":"pixel.glukose.fr","url":"https:\/\/pixel.glukose.fr","description":null},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"mobile_apis":true,"circles":false,"stories":true,"video":false,"import":{"instagram":false,"mastodon":false,"pixelfed":false}}}};</script>
+    </head>
+<body>
+    <nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+    <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="https://pixel.glukose.fr" title="Logo">
+                <img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+                <span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">Glukose Pixelfed</span>
+            </a>
+
+            <div class="collapse navbar-collapse">
+            
+                                
+                <ul class="navbar-nav ml-auto">
+                    <li>
+                        <a class="nav-link font-weight-bold text-primary" href="https://pixel.glukose.fr/login" title="Login">
+                            Login
+                        </a>
+                    </li>
+                                            </ul>
+            </div>
+    </div>
+</nav>
+    <main id="content">
+        <div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+    </main>
+    <footer>
+    <div class="container py-5">
+        <p class="d-flex flex-wrap justify-content-center mb-0 text-uppercase font-weight-bold small text-justify">
+          <a href="https://pixel.glukose.fr/site/about" class="text-primary p-2">About</a>
+                    <a href="https://pixel.glukose.fr/site/help" class="text-primary p-2">Help</a>
+          <a href="https://pixel.glukose.fr/site/terms" class="text-primary p-2">Terms</a>
+          <a href="https://pixel.glukose.fr/site/privacy" class="text-primary p-2">Privacy</a>
+          <a href="https://pixel.glukose.fr/discover/places" class="text-primary p-2">Places</a>
+          <a href="https://pixel.glukose.fr/site/language" class="text-primary p-2">Language</a>
+          <a href="https://pixelfed.org" class="text-muted p-2 ml-md-auto" rel="noopener" title="version 0.10.9" data-toggle="tooltip">Powered by Pixelfed</a>
+        </p>
+    </div>
+  </footer>
+      <script type="text/javascript" src="/js/manifest.js?id=7db827d654313dce4250"></script>
+    <script type="text/javascript" src="/js/vendor.js?id=0b69f538b56102c1b0f9"></script>
+    <script type="text/javascript" src="/js/app.js?id=d1274e1bbd0cccd6089f"></script>
+    <script type="text/javascript" src="/js/components.js?id=88296701f1382d285031"></script>
+    </body>
+</html>
+
+0
+

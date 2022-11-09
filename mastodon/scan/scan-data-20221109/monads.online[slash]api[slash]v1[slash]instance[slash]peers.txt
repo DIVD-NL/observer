@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://monads.online; font-src 'self' https://monads.online; img-src 'self' data: blob: https://monads.online https://media.monads.online; style-src 'self' https://monads.online 'nonce-G0qCMxwK8JVRA55h8RcTBw=='; media-src 'self' data: https://monads.online https://media.monads.online; frame-src 'self' https:; child-src 'self' blob: https://monads.online; worker-src 'self' blob: https://monads.online; connect-src 'self' blob: data: wss://monads.online https://monads.online https://media.monads.online; manifest-src 'self' https://monads.online
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:17 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.348656Z
+X-Request-Id: a2da8184-7436-483a-be8a-a1401e2510ff
+X-Runtime: 0.008490
+X-Xss-Protection: 0
+
+0
+

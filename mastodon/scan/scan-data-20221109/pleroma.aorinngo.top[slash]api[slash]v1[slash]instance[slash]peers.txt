@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://pleroma.aorinngo.top wss://pleroma.aorinngo.top;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:15:46 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: Caddy
+Server: Cowboy
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzew31LezRRXEAVtqB
+X-Xss-Protection: 1; mode=block
+
+["nitiasa.com","mosw.work","mastodon.cloud","minohdon.jp","don.mamemo.online","felesitas.cloud","mstdn.poyo.me","mastodon.social","misskey.m544.net","social.timespiral.co.jp","miss.nem.one","mstdn.nere9.help","the.shitposting.network","kirishima.cloud","mstdn.io","mstdn.ht164.jp","mstdn.jp","mstdn.tamag.org","mastodon.kitchen","waha.work","pawoo.net","itabashi.0j0.jp","meisskey.one","mstdn.vodka","eeeeeeeee.eu","fedibird.com","imastodon.net","tebukuro.xyz","shitposting.army","mstdn.superspeed-fall.com","sneed.network","mstdn-bike.net","raspidon.mamemo.online","iyasaretai.pw","mstdn.love","muknown.jp","don.nzws.me","best-friends.chat","bae.st","mstdn.beer","misskey.io","d-fens.systems","m.tkw.fm","mstdn.fujii-yuji.net","gorone.xyz","kirakiratter.com","mstdn.maud.io","heislandmine.work","x0r.be"]

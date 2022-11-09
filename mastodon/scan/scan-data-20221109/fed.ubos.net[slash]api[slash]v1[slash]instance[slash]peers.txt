@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 213
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:57:56 GMT
+Location: https://mastodon.social/@ubos
+Server: Apache
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://mastodon.social/@ubos">here</a>.</p>
+</body></html>

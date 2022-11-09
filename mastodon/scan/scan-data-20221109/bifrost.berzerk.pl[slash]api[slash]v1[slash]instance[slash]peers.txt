@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://bifrost.berzerk.pl; img-src 'self' https: data: blob: https://bifrost.berzerk.pl; style-src 'self' https://bifrost.berzerk.pl 'nonce-NnWm8Cp+vVEua4o/rukrpA=='; media-src 'self' https: data: https://bifrost.berzerk.pl; frame-src 'self' https:; manifest-src 'self' https://bifrost.berzerk.pl; connect-src 'self' data: blob: https://bifrost.berzerk.pl https://bifrost.berzerk.pl wss://bifrost.berzerk.pl; script-src 'self' https://bifrost.berzerk.pl; child-src 'self' blob: https://bifrost.berzerk.pl; worker-src 'self' blob: https://bifrost.berzerk.pl
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:07 GMT
+Etag: W/"74b39379ba3d8d157f20f2d49fb41848"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T11:55:00.353843Z
+X-Request-Id: eb2a8fe8-4c56-4288-9f31-c83a52819e44
+X-Runtime: 0.024506
+X-Xss-Protection: 1; mode=block
+
+edb
+["ruby.social","social.northernvoice.app","vis.social","climatejustice.rocks","cheeseburger.social","mastodonapp.uk","undernopretext.social","ieji.de","sunbeam.city","djsumdog.com","mastodon.tech","poa.st","indiepocalypse.social","mastodon.insicurezzadigitale.com","zirk.us","fedi.intkos.link","girevik.su","mastodon.nu","climatejustice.social","qoto.org","bitcoinhackers.org","social.cologne","pleroma.soykaf.com","dizl.de","floss.social","social.transsafety.network","mstdn.jp","mastodon.design","social.linux.pizza","tinnies.club","bae.st","woln.eu","bildung.social","zb3.org","botta.social","cysioland.pl","social.deadsuperhero.com","mstdn.media","social.tchncs.de","gleasonator.com","retr0.id","soc.umrath.net","toot.site","ioc.exchange","treehouse.systems","mastodon.scot","blacktwitter.io","linuxrocks.online","toot.cat","circumstances.run","agora.echelon.pl","freespeechextremist.com","lol.camp","eupolicy.social","dogsex.org","rdrama.cc","social.wideboys.org","pol.social","expired.mentality.rip","karab.in","nerdica.net","soc.citizen4.eu","friends.grishka.me","outerheaven.club","pisskey.io","masochi.st","quitter.pl","petroskowo.pl","beckmeyer.us","2a03.party","society.oftrolls.com","a.gup.pe","fed.xnor.in","social.jmueller.eu","neue.city","fairy.id","is-a.cat","eeeeeeeee.eu","friendica.bachgau.social","thebull.app","introvert.social","pooper.social","infosec.exchange","social.xbm.se","oc.todon.fr","forked.io","mastodon.internet-czas-dzialac.pl","tooting.ch","mastodon.fredspieler.com","eldritch.cafe","masto.plus","hci.social","nonexiste.net","red.niboe.info","atx.pub","mastodon.neilzone.co.uk","freeradical.zone","uncorking.me","port87.social","pleroma.1d4.us","counter.social","mastodon.gamedev.place","en.osm.town","digitalcourage.social","graz.social","anarchism.space","efdn.club","f.iroiro.party","mstdn.io","meis.space","fd.inggrismantap.my.id","dummy.cafe","fag.lol","plem.sapphic.site","anonsys.net","mk.mistli.net","appbucket.io","fandom.ink","activism.openworlds.info","mastodon.acc.umu.se","pewtix.com","halibut.com","mastodon.indie.host","rando.social","social.network.europa.eu","mastodon.social","kcmo.social","xn--y9azesw6bu.xn--y9a3aq","aus.social","legal.social","pdx.social","meow.social","nrw.social","yiff.life","social.lol","mastodon.pl","sauropods.win","meowr.me","bolha.us","federated.press","nerdculture.de","venera.social","socel.net","mastodon.art","friendica.togart.de","f.freinetz.ch","mastodon.la","mastodon.world","vulpine.club","mastodontech.de","layer8.space","mstdn.ca","det.social","literatur.social","seal.cafe","spinster.xyz","someone.elses.computer","sfba.social","social.coop","chaos.social","scholar.social","social.cryptography.dog","pixel.gruene.social","hackers.town","mastodon.holeyfox.co","social.fellr.net","aspiechattr.me","mastodon.cloud","na.mastodonie.online","wandering.shop","muenchen.social","c.im","todon.eu","mk.szkod.ovh","toot-lab.reclaim.technology","pleroma.gronkiewicz.dev","linernotes.club","mst3k.interlinked.me","donotsta.re","social.unir.se","commiespace.duckdns.org","mastodontti.fi","mamot.fr","astrodon.social","hub.hubzilla.de","libranet.de","fediverse.pl","selfy.army","social.tadzik.net","toot.community","fediscience.org","mastodon.top","scicomm.xyz","lor.sh","mastodon.sdf.org","firmware.network","journa.host","sciencemastodon.com","mastodon.technology","merveilles.town","mastodon.me.uk","mstdn.social","hachyderm.io","masthead.social","nyaaa.jeder.pl","troet.cafe","glitterkitten.co.uk","bsd.network","mastodon.ie","kolektiva.social","mastodon.lol","bonn.social","toot.wales","xn--baw-joa.social","mastodon.online","wien.rocks","mastodon.green","masto.pt","tfl.net.pl","toot.beza.club","dica.interfel.de","101010.pl","rigcz.club","gruene.social","fosstodon.org","mas.to","herzbu.de","tech.lgbt","queer.party"]
+0
+

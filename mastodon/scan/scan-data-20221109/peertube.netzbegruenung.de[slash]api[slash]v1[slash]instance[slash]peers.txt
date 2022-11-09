@@ -1,0 +1,16 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:14:55 GMT
+Server: nginx/1.19.7
+Tk: N
+X-Ratelimit-Limit: 100
+X-Ratelimit-Remaining: 99
+X-Ratelimit-Reset: 1668006899
+
+0
+

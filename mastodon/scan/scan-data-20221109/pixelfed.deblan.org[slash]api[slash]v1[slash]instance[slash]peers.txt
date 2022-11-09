@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *;frame-ancestors 'self' blob: *;child-src 'self' blob: *;
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:15:24 GMT
+Location: http://www.deblan.fr/404.html
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+
+d5
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://www.deblan.fr/404.html">here</a>.</p>
+</body></html>
+
+0
+

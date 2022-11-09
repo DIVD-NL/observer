@@ -1,0 +1,16 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/xml
+Date: Wed, 09 Nov 2022 15:19:26 GMT
+Server: AmazonS3
+Via: 1.1 a06d82f018833bef3e7f2e9fd230e5ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: TRHFcu9Rga-4hP90zfJxafDV2wRwCfenzMBb93NBo_VPAmeNVCwRbg==
+X-Amz-Cf-Pop: AMS1-C1
+X-Cache: Error from cloudfront
+
+f3
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>9ZQYVZVEVR0SGSBE</RequestId><HostId>BK0miqn5Lz3mtOv3ciR3D5x7eRoswwwAD+jYwiuDQ0toIOCBBbPr1ml0ZUJ1qr/KqU6ODlil6IA=</HostId></Error>
+0
+

@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.geekcloud.cyou; img-src 'self' https: data: blob: https://mastodon.geekcloud.cyou; style-src 'self' https://mastodon.geekcloud.cyou 'nonce-ME0J4DsQ7i/4Dek1ERv8yw=='; media-src 'self' https: data: https://mastodon.geekcloud.cyou; frame-src 'self' https:; manifest-src 'self' https://mastodon.geekcloud.cyou; connect-src 'self' data: blob: https://mastodon.geekcloud.cyou https://mastodon.geekcloud.cyou wss://mastodon.geekcloud.cyou; script-src 'self' https://mastodon.geekcloud.cyou; child-src 'self' blob: https://mastodon.geekcloud.cyou; worker-src 'self' blob: https://mastodon.geekcloud.cyou
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:21 GMT
+Etag: W/"d2367a11142c43bad9c08cb934ea4432"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.164806Z
+X-Request-Id: da747eef-3f5e-4184-b6ff-edc03db8de34
+X-Runtime: 0.007089
+X-Xss-Protection: 1; mode=block
+
+10
+["chaos.social"]
+0
+

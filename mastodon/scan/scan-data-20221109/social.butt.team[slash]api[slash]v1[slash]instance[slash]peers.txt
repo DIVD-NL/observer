@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.butt.team; img-src 'self' https: data: blob: https://social.butt.team; style-src 'self' https://social.butt.team 'nonce-tDVFLE6jEbSYjp4VixD8BA=='; media-src 'self' https: data: https://social.butt.team; frame-src 'self' https:; manifest-src 'self' https://social.butt.team; connect-src 'self' data: blob: https://social.butt.team https://s3.ca-central-1.amazonaws.com wss://social.butt.team; script-src 'self' https://social.butt.team 'unsafe-eval'; child-src 'self' blob: https://social.butt.team; worker-src 'self' blob: https://social.butt.team
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:59 GMT
+Etag: W/"8850191a23ea95dd970241e1eaedee35"
+Fly-Cache-Status: MISS
+Fly-Request-Id: 01GHEFGBRK8464P0Z0Q971DBBB-cdg
+Permissions-Policy: interest-cohort=()
+Server: Fly/be34d0b0 (2022-11-08)
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+Via: 1.1 fly.io
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.831454Z
+X-Request-Id: ba5da0f8-9c6c-43e7-86e6-5e75ded07ee8
+X-Runtime: 0.010600
+X-Xss-Protection: 0
+
+46d
+["tiny.tilde.website","botsin.space","vmst.io","ioc.exchange","mastodon.cc","mastodon.scot","ruby.social","nerdculture.de","xoxo.zone","soylent.green","wandering.shop","floss.social","sfba.social","bananachips.club","glitterkitten.co.uk","openbiblio.social","xantronix.social","mastodon.cloud","mastodon.online","mastodon.lol","linuxrocks.online","indieweb.social","social.linux.pizza","toot.cafe","mastodon.tetaneutral.net","framapiaf.org","aus.social","social.aero","social.coop","social.tchncs.de","misskey.bubbletea.dev","queer.af","toot.cat","loci.onl","scholar.social","lesbian.solutions","chaos.social","solarpunk.moe","vis.social","friend.camp","social.spacebear.ee","mastodon.xyz","tech.lgbt","fediscience.org","scicomm.xyz","mastodon.art","digitalcourage.social","km6g.us","qoto.org","mstdn.social","social.lol","raru.re","mastodon.ie","hachyderm.io","queer.party","writing.exchange","social.bau-ha.us","social.xbm.se","mastodon.gal","journa.host","wue.social","unextro.net","mastodon.gamedev.place","walkah.social","mycelium.garden","layer13.p7.co.nz","fosstodon.org","mastodon.social","octodon.social","infosec.exchange"]
+0
+

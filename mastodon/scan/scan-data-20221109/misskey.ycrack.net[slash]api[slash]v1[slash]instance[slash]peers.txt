@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777d881f7783cb-BRU
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:13:06 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ePz6I1PfhhrgPgLtOgVtL%2BK%2FL6d3cWX23u6Q%2FH0fVOW%2FtgGcplyAPQ8y5OUDiCowTQdrFv%2FXGQGEsTMKr0j9zExdO1kZysrqNvUpVKU3qnRpTsqWHohNVa8t6uHYidrRZX8o9Vw%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+
+85
+["mstdn.nere9.help","friendica.utzer.de","rollenspiel.group","anonsys.net","nerdica.net","mastodon.social","etiketi.de","koyu.space"]
+0
+

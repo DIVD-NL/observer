@@ -1,0 +1,867 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type,*,X-Requested-With
+Access-Control-Allow-Methods: POST,GET,OPTIONS,PUT,DELETE
+Access-Control-Allow-Origin: *
+Age: 0
+Cache-Control: max-age=0
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:31 GMT
+Server: nginx
+Vary: Accept-Encoding, Cookie
+Via: 1.1 varnish-v4
+X-Cache: MISS
+X-Cache-Svr: varnish1-vpc
+X-Varnish: 127011152
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+<link rel="preconnect" href="https://static.blogto.com">
+<link rel="preconnect" href="https://media.blogto.com">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8FQYHZ5SK"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	// function gtag()
+	// gtag('js', new Date());
+	// gtag('config', 'G-Y8FQYHZ5SK');
+</script>
+
+
+
+    
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="msapplication-config" content="https://static.blogto.com/static/img/favicon/browserconfig.xml"/>
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <link rel="alternate" type="application/atom+xml" title='blogTO RSS Feed' href="http://feeds.feedburner.com/blogto">
+    <meta name="format-detection" content="telephone=no">
+
+    
+    
+        <link rel="apple-touch-icon" type="image/png" href="https://static.blogto.com/static/img/favicon/apple-touch-icon.png">
+    
+
+    
+        <link rel="icon" type="image/png" href="https://static.blogto.com/static/img/favicon/favicon-16x16.png" sizes="16x16">
+    
+
+    
+        <link rel="icon" type="image/png" href="https://static.blogto.com/static/img/favicon/favicon-32x32.png" sizes="32x32">
+    
+
+    
+        <link rel="shortcut icon" href="https://static.blogto.com/static/img/favicon/android-chrome-192x192.png" sizes="192x192">
+    
+
+    
+    <title>blogTO</title>
+    <meta name="google-site-verification" content="OnajU0JqaR7GbNn36tIGLItHoCVGBMuABazvl0YTfjY"/>
+    <meta name="description" content="Toronto&#39;s source for local news and culture, restaurant reviews, event listings and the best of the city." />
+    
+	    <meta name="keywords" content="Toronto, Arts, Music, Film, Politics, Restaurants, Bars, Food, Fashion, Blog, Podcasts, Video, Sports, Theatre, Events" />
+    
+    <link rel="canonical" href="https://www.blogto.com/api/v1/instance/peers" />
+    <meta property="fb:app_id" content="100616073343311"/>
+    <meta property="fb:pages" content="30843680008" />
+    <meta property="og:site_name" content="blogTO" />
+    <meta property="og:url" content="https://www.blogto.com/api/v1/instance/peers"/>
+    <meta property="og:title" content="blogTO" />
+    <meta property="og:image" content="https://static.blogto.com/static/img/favicon/blogto-1200x630.jpg"/>
+    
+    <meta property="og:description" content="Toronto&#39;s source for local news and culture, restaurant reviews, event listings and the best of the city.">
+    <meta property="og:type" content="website"/>
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@blogTO"/>
+
+    
+      <meta name="apple-itunes-app" content="app-id=435310228">
+    
+    
+
+    
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+
+
+    <link type="text/css" href="https://static.blogto.com/static/dist/blogto-lib-a2b3819e8e8fb229ce494ccdce73588d.css" rel="stylesheet" />
+    <link type="text/css" href="https://static.blogto.com/static/dist/blogto-app-5648dcb7708ec247c8c46943bf48b630.css" rel="stylesheet" />
+
+    
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+
+
+
+    
+    <script>
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-220979-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+      window.googletag = window.googletag || {cmd: []};
+      googletag.cmd.push(function() {
+      // Refresh targeting keyvalue pairing.
+      var REFRESH_KEY = 'refresh';
+      var REFRESH_VALUE = 'true';
+
+      // The below ad slots are allowed to refresh, as they contain the targeting keys which have been declared for refresh via setTargeting()
+      // googletag.defineSlot('/70671651/blogto/desktop/arts/leaderboard_top', [[970, 250], [970, 90], [728, 90]], 'leaderboard_top').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+      // googletag.defineSlot('/70671651/blogto/desktop/arts/rec_atf', [[300, 600], [300, 250]], 'rec_atf').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+      // googletag.defineSlot('/70671651/blogto/desktop/arts/rec_btf', [300, 250], 'rec_btf').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+      // googletag.defineSlot('/70671651/blogto/desktop/arts/leaderboard_instream', [[970, 90], [728, 90]], 'leaderboard_instream').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+      // googletag.defineSlot('/70671651/blogto/desktop/arts/billboard_instream', [970, 250], 'billboard_instream').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
+      // googletag.defineOutOfPageSlot('/70671651/blogto/desktop/OOP', 'div-gpt-ad-1665342109022-0').addService(googletag.pubads());
+
+      // Number of seconds to wait before refreshing ad slot with new ad requests, only after the slot becomes viewable. Does not require a page refresh.
+
+        var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 45;
+
+        googletag.pubads().addEventListener('impressionViewable', function(event) {
+          var slot = event.slot;
+          if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+            setTimeout(function() {
+              googletag.pubads().refresh([slot]);
+              console.log('refresh', slot);
+            }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+          }
+        });
+
+        // Lazy loading with GAM.
+
+        googletag.pubads().enableLazyLoad({
+
+        // Fetch slots within 5 viewports.
+          fetchMarginPercent: 500,
+
+        // Render slots within 2 viewports.
+          renderMarginPercent: 200,
+
+        // Double the above values on mobile, where viewports are smaller and users tend to scroll faster.
+          mobileScaling: 2.0
+          });
+
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+
+      });
+    </script>
+
+
+
+
+    <script type='text/javascript' src='https://partner.googleadservices.com/gampad/google_service.js'>
+    </script>
+    <script type='text/javascript'>
+    GS_googleAddAdSenseService("ca-pub-3265858257515661");
+    GS_googleEnableAllServices();
+    </script>
+
+    <!-- Begin comScore Tag -->
+    <script>
+      document.write(unescape("%3Cscript src='" +
+    (document.location.protocol == "https:" ? "https://sb" : "https://b") +
+    ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    </script>
+    <script>
+    COMSCORE.beacon({
+      c1:2,
+      c2:7517117,
+      c3:"",
+      c4:"",
+      c5:"",
+      c6:"",
+      c15:""
+    });
+    </script>
+    <noscript>
+        <img src="https://b.scorecardresearch.com/p?c1=2&c2=7517117&c3=&c4=&c5=&c6=&c15=&cj=1"/>
+    </noscript>
+
+    
+    <script type="text/javascript">
+        window.freshDaily = {
+            "initializers": [],
+            "preProcessors": [],
+            "deferredAdvertMap": {},
+            "advertMap": {},
+            "staticRoot": "https://static.blogto.com/static/",
+            "mediaRoot": "https://static.blogto.com/"
+        };
+    </script>
+
+    <script>
+        function onRelatedVideoPlay(videoId, youtubeCode) {
+            const previouslyOpenedVideos = Array.from(document.querySelectorAll(".related-video"));
+
+            previouslyOpenedVideos.map(video => {
+              const youtubeIframe = video.querySelectorAll("iframe");
+
+              if (youtubeIframe) {
+                video.querySelectorAll(".related-video-wrapper")[0].innerHTML = "";
+                video.className = "related-video";
+              }
+            });
+
+            if (youtubeCode) {
+                const customPlayVideoEvent = new CustomEvent("playButtonClick");
+
+                window.dispatchEvent(customPlayVideoEvent);
+
+                document.querySelectorAll(`.related-video[data-video-id="${videoId}"]`)[0].className += " video-active";
+                document.querySelectorAll(`.related-video[data-video-id="${videoId}"] .related-video-wrapper`)[0].innerHTML =
+                    `<iframe width="337"
+                             height="337"
+                             src="https://www.youtube.com/embed/${youtubeCode}?autoplay=1&rel=0"
+                             frameBorder="0"
+                             controls="0"
+                             allow="autoplay"
+                             allowFullScreen/>`;
+            }
+        }
+    </script>
+
+    <script>
+      function sleep(ms) {
+          return new Promise(resolve => setTimeout(resolve, ms));
+      }
+    </script>
+
+    <script>
+        function kebabCaseToCamelCase(string) {
+          return string.replace(/-([a-z])/g, function (g) { return g[1].toUpperCase(); });
+        }
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1129511487248605');
+      fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=1129511487248605&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    
+      <!-- OneSignal Code -->
+      <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+      <script>
+        window.OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: "b9950f9f-a70d-41ac-8bbf-38890d6ca4d7"
+          });
+        });
+      </script>
+      <!-- End OneSignal Code -->
+    
+
+
+     <!-- chartbeat tracking code -->
+     <script type="text/javascript">
+
+       function chartbeatFunction() {
+
+        /** CONFIGURATION START **/
+        var chartbeat_data={uid:40495,domain:"blogto.com",useCanonical:true};
+        var section_value = ''
+        var author_value = ''
+
+
+        var section_data = document.getElementsByClassName("current_section_value");
+        var author_data = document.getElementsByClassName("current_author_value");
+
+
+          
+        if(section_data.length > 0){
+          section_value = section_data[0].innerText;
+        }
+
+        
+        if(author_data.length > 0){
+          author_value = author_data[0].innerText;
+        }
+
+
+
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = chartbeat_data.uid;
+        _sf_async_config.domain = chartbeat_data.domain; //CHANGE THIS TO THE ROOT DOMAIN
+        _sf_async_config.flickerControl = false;
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.sections = section_value; // CHANGE THIS TO YOUR SECTION NAME(s)
+        _sf_async_config.authors = author_value; // CHANGE THIS TO YOUR AUTHOR NAME(s)
+        /** CONFIGURATION END **/
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';;
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+
+       }
+
+      chartbeatFunction();
+      document.addEventListener('DOMContentLoaded', (event) => {
+        chartbeatFunction();
+      });
+    </script>
+    <script async src="//static.chartbeat.com/js/chartbeat_mab.js" ></script>
+    <!-- end chartbeat code -->   
+
+</head>
+<body class="site blogto 
+not-found-page error-page
+"
+      
+>
+  
+<input type="hidden" id="site_information" value=""  />
+
+<script type="text/javascript">
+    var conf_dict_list = {};
+    
+      conf_dict_list["name"] = "blogTO";
+    
+      conf_dict_list["city"] = "Toronto";
+    
+      conf_dict_list["slug"] = "toronto";
+    
+      conf_dict_list["site_name"] = "blogto";
+    
+      conf_dict_list["title"] = "blogTO";
+    
+      conf_dict_list["description"] = "Toronto&#39;s source for local news and culture, restaurant reviews, event listings and the best of the city.";
+    
+      conf_dict_list["site_color"] = "#F61600";
+    
+      conf_dict_list["domain_name"] = "blogto";
+    
+      conf_dict_list["city_lowercase"] = "toronto";
+    
+      conf_dict_list["city_uppercase"] = "TORONTO";
+    
+      conf_dict_list["country_name"] = "Canada";
+    
+      conf_dict_list["country_code"] = "CA";
+    
+      conf_dict_list["email_domain"] = "blogto.com";
+    
+      conf_dict_list["apple_app_id"] = "app-id=435310228";
+    
+      conf_dict_list["brand_logo_image_name"] = "logo-blogTO.svg";
+    
+      conf_dict_list["logo_png"] = "logo-blogTO.png";
+    
+      conf_dict_list["logo_kp"] = "blogto-kp.jpg";
+    
+      conf_dict_list["favicon16"] = "favicon-16x16.png";
+    
+      conf_dict_list["favicon32"] = "favicon-32x32.png";
+    
+      conf_dict_list["android_chrome_icon192"] = "android-chrome-192x192.png";
+    
+      conf_dict_list["android_chrome_icon512"] = "android-chrome-512x512.png";
+    
+      conf_dict_list["og_image_favicon"] = "blogto-1200x630.jpg";
+    
+      conf_dict_list["apple_touch_icon"] = "apple-touch-icon.png";
+    
+      conf_dict_list["twitter_ios_app_id"] = "435310228";
+    
+      conf_dict_list["twitter_ios_app_url"] = "https://itunes.apple.com/ca/app/blogto/id435310228?mt=8";
+    
+      conf_dict_list["android_app_url"] = "";
+    
+      conf_dict_list["us_patio_guide_ios_app_url"] = "http://itunes.apple.com/us/app/toronto-patio-guide/id546531562?ls=1&amp;mt=8";
+    
+      conf_dict_list["ca_patio_guide_ios_app_url"] = "https://itunes.apple.com/ca/app/toronto-patio-guide/id546531562?mt=8";
+    
+      conf_dict_list["feedburner"] = "http://feeds.feedburner.com/blogto";
+    
+      conf_dict_list["patio_guide_android_app_url"] = "https://play.google.com/store/apps/details?id=com.blogto.patioguide&amp;feature=nav_result#?t=W251bGwsMSwyLDNd";
+    
+      conf_dict_list["patio_guide_url"] = "http://patios.blogto.com/";
+    
+      conf_dict_list["is_patio_guide_ok"] = "True";
+    
+      conf_dict_list["socket_connection"] = "socket.blogto.com";
+    
+      conf_dict_list["sell_ticket_url"] = "https://sell.universe.com/blogto/";
+    
+      conf_dict_list["editor_mail"] = "mailto:editors@blogto.com";
+    
+      conf_dict_list["coordinates"] = "{&#39;center&#39;: {&#39;x&#39;: -79.3832, &#39;y&#39;: 43.6532}}";
+    
+      conf_dict_list["facebook"] = "https://www.facebook.com/blogto";
+    
+      conf_dict_list["twitter"] = "https://twitter.com/blogTO";
+    
+      conf_dict_list["youtube"] = "https://www.youtube.com/blogto";
+    
+      conf_dict_list["rss"] = "http://feeds.feedburner.com/blogto/";
+    
+      conf_dict_list["instagram"] = "https://www.instagram.com/blogto/";
+    
+      conf_dict_list["snapchat"] = "https://www.snapchat.com/add/blogto";
+    
+      conf_dict_list["pinterest"] = "https://www.pinterest.com/blogto/";
+    
+      conf_dict_list["flickr"] = "https://www.flickr.com/groups/blogto/";
+    
+      conf_dict_list["weChat"] = "https://mp.weixin.qq.com/s/-G8OJWANII6G3aQXNhrkVw";
+    
+      conf_dict_list["weibo"] = "https://weibo.com/blogto";
+    
+      conf_dict_list["podcast"] = "https://podcasts.apple.com/ca/podcast/only-in-toronto/id1393143157";
+    
+      conf_dict_list["linkedin"] = "https://ca.linkedin.com/company/blogto";
+    
+      conf_dict_list["tiktok"] = "https://www.tiktok.com/@blogto";
+    
+      conf_dict_list["masthead"] = "https://www.blogto.com/masthead/";
+    
+      conf_dict_list["sections"] = "{&#39;best_of&#39;: True, &#39;contests&#39;: True, &#39;events&#39;: True, &#39;patio_guide&#39;: True, &#39;listings&#39;: True, &#39;videos&#39;: True}";
+    
+      conf_dict_list["google_analytics_id"] = "UA-220979-1";
+    
+      conf_dict_list["gtag_id"] = "G-Y8FQYHZ5SK";
+    
+      conf_dict_list["pixel_id"] = "1129511487248605";
+    
+      conf_dict_list["google_addsense"] = "ca-pub-3265858257515661";
+    
+      conf_dict_list["fb_page_id"] = "30843680008";
+    
+      conf_dict_list["onesignal_id"] = "b9950f9f-a70d-41ac-8bbf-38890d6ca4d7";
+    
+      conf_dict_list["domain"] = "https://www.blogto.com";
+    
+      conf_dict_list["base_url"] = "https://www.blogto.com";
+    
+      conf_dict_list["contact"] = "https://www.blogto.com/contact/";
+    
+
+    var dom_site_information = document.getElementById("site_information");
+    dom_site_information.value = JSON.stringify(conf_dict_list);
+
+  </script>
+
+
+    
+<!-- <div id="header_ad_content" >  
+    
+<div class="mobile_view_only">
+  
+ 
+</div> 
+</div> -->
+<header class="nav-bar-container"  id="mobile_stickybar">
+    <nav class="nav-bar">
+        <div class="nav-bar-logo">
+            <a class="nav-bar-logo-link" href="/"></a>
+        </div>
+        <div class="nav-bar-content">
+            <div class="nav-bar-menu-container">
+                <div class="nav-bar-menu not-visible">
+                    <button class="nav-bar-menu-close-button"></button>
+                    <ul class="nav-bar-menu-item-list">
+                        <li class="nav-bar-menu-item nav-bar-menu-home-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="/">Home</a></li>
+                    
+                        
+                        <li class="nav-bar-menu-item nav-bar-menu-best-of-item selected">
+                            <a class="nav-bar-menu-item-link"
+                               href="/toronto">Best Of Toronto</a>
+                        </li>
+                        
+                        
+                        <li class="nav-bar-menu-item nav-bar-menu-videos-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="/videos">Videos</a>
+                        </li>
+                        
+                        
+                        <li class="nav-bar-menu-item nav-bar-menu-events-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="/events">Events</a></li>
+                        
+                        
+                        <li class="nav-bar-menu-item nav-bar-menu-contests-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="/contests">Contests</a></li>
+                        
+                        
+                        <li class="nav-bar-menu-item nav-bar-menu-patio-guide-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="http://patios.blogto.com/">Patio Guide</a>
+                        </li>
+                        
+                        
+                        <li class="nav-bar-menu-restaurants-item nav-bar-menu-item">
+                            <a class="nav-bar-menu-item-link"
+                               href="/restaurants">Restaurants</a>
+                        </li>
+                        
+                        <li class="nav-bar-menu-latest-news-item nav-bar-menu-item"><span
+                                class="nav-bar-menu-item-link">Latest News</span>
+                        </li>
+                        
+                        <li class="nav-bar-menu-places-item nav-bar-menu-item"><span
+                                class="nav-bar-menu-item-link">Places</span>
+                        </li>
+                        
+                        
+                        <li class="nav-bar-menu-more-item nav-bar-menu-item"><span
+                                class="nav-bar-menu-item-label">More</span>
+                        </li>
+                        
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <script type="text/javascript">
+        (function () {
+            document.body.classList.add("nav-bar-body");
+        })();
+    </script>
+</header>
+
+
+
+
+    <div class="base-site-content">
+        <section class="not-found-page-section error-page-section">
+            <div class="not-found-content error-page-content">
+                <div class="not-found-content-title error-page-content-title">
+                    <span class="not-found-content-title-text error-page-content-title-text">
+                        What’s this?
+                    </span>
+                </div>
+
+                <p class="not-found-content-message error-page-content-message">
+                    The end of the rainbow, of course - you found it! Sorry there are no special prizes...
+                </p>
+
+                <p class="not-found-content-message error-page-content-message">
+                    Continue your adventure on the <a href="/">home page</a>, or try making a search for something!
+                </p>
+            </div>
+
+            <div class="error-page-content-overlay">
+                <img class="error-page-content-image"
+                     src="https://static.blogto.com/static/img/backgrounds/404.jpg"/>
+            </div>
+
+            <div class="error-page-photo-credit not-found-page-photo-credit">
+                <span class="error-page-photo-credit-text">
+                    Photo by
+                </span>
+                <a class="error-page-photo-credit-link"
+                   href="https://www.flickr.com/photos/1oz/27322831496/in/photolist-9EhJxL-CDryrE-HCqDTE-7QS3jD-iqbyHQ-9kQauM-egak81-nE4zVX-iwuLjU-h91zr8-p48ir6-r6Rpgd-pFrtXp-2L82hm-EuUcuQ-aFkzxo-9RZ1Ag-9UaoRC-99wFkv-9i15iH-bnV8LY-7vj4Qv-5E18oo-94Ai6n-dhRp7y-bnzBX3-2jP4n-7z4AVs-trw6z-rK5UTh-7PFhaZ-69L9m9-879nqb-cBdEnQ-9fSSne-bhEkR4-9qZzcs-8i3dHA-FfJzFo-6JA15t-6JA1Kn-4F9P1E-wCqC5V"
+                   target="_blank">
+                    Nicoli OZ Mathews
+                </a>
+            </div>
+        </section>
+    </div>
+
+
+
+<footer class="footer-container">
+    <nav id="footer">
+        <div class="social">
+            
+            <a class="footer-social-link facebook-link" href="https://www.facebook.com/blogto">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/facebook-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link twitter-link" href="https://twitter.com/blogTO">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/twitter-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link instagram-link" href="https://www.instagram.com/blogto/">
+                <img class="footer-social-icon footer-instagram-icon"
+                     src="https://static.blogto.com/static/img/icons/social/instagram-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link tiktok-link" href="https://www.tiktok.com/@blogto">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/tiktok-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link youtube-link" href="https://www.youtube.com/blogto">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/youtube-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link flickr-link" href="https://www.flickr.com/groups/blogto/">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/flickr-darkgrey-36.svg">
+            </a>
+            
+            
+            <a class="footer-social-link rss-link" href="http://feeds.feedburner.com/blogto/">
+                <img class="footer-social-icon"
+                     src="https://static.blogto.com/static/img/icons/social/rss-darkgrey-36.svg">
+            </a>
+            
+        </div>
+
+        <ul class="footer-nav-container footernav">
+            <li class="footer-nav-item contact-us">
+                <a href="/contact/">Contact Us</a>
+            </li>
+
+            <li class="footer-nav-item advertise">
+                <a href="/contact/?advertise">Advertise</a>
+            </li>
+
+            <li class="footer-nav-item jobs">
+                <a href="/jobs">Jobs</a>
+            </li>
+
+            <li class="footer-nav-item archives">
+                <a href="/archives/">Archives</a>
+            </li>
+
+            <li class="footer-nav-item newsletters">
+                <a href="/newsletters/">Newsletters</a>
+            </li>
+
+            
+            <li class="footer-nav-item masthead">
+                <a href="https://www.blogto.com/masthead/">Masthead</a>
+            </li>
+            
+
+            
+            <li class="footer-nav-item iphone-app">
+                <a href="https://itunes.apple.com/ca/app/blogto/id435310228?mt=8">iPhone App</a>
+            </li>
+            
+
+            
+            <li class="footer-nav-item iphone-app">
+                <a href="/election-ad-registry/">Election Ad Registry</a>
+            </li>
+            
+
+            
+
+            <li class="footer-nav-item terms-of-service">
+                <a href="/termsofservice/">Terms of Service</a>
+            </li>
+
+            <li class="footer-nav-item privacy-policy">
+                <a href="/privacy/">Privacy Policy</a>
+            </li>
+
+            
+            <li class="footer-nav-item mobile-masthead mobile-view">
+                <a href="https://www.blogto.com/masthead/">Masthead</a>
+            </li>
+            
+
+            
+            <li class="footer-nav-item mobile-iphone-app mobile-view">
+                <a href="https://itunes.apple.com/ca/app/blogto/id435310228?mt=8">iPhone App</a>
+            </li>
+            
+
+            
+            <li class="footer-nav-item mobile-iphone-app mobile-view">
+                <a href="/election-ad-registry/">Election Ad Registry</a>
+            </li>
+            
+
+            
+        </ul>
+
+        <ul class="footer-nav-container footersubnav">
+            <li class="footersubnav-item">
+                <a class="footersubnav-item-link"
+                   href="http://www.freshdaily.ca/">
+                    ©2022 Freshdaily Inc.
+                </a>
+            </li>
+
+            <li class="footersubnav-item terms-of-service">
+                <a class="footersubnav-item-link"
+                   href="/termsofservice/">
+                    Terms of Service
+                </a>
+            </li>
+
+            <li class="footersubnav-item privacy-policy">
+                <a class="footersubnav-item-link"
+                   href="/privacy/">
+                    Privacy Policy
+                </a>
+            </li>
+
+            <li class="footersubnav-item designcredit">
+                <a class="footersubnav-item-link"
+                   href="http://studiofunction.com" target="_blank">
+                    Design by Studio Function
+                </a>
+            </li>
+        </ul>
+    </nav>
+</footer>
+
+
+
+
+
+
+    <div id="login-dialog-container"></div>
+
+    <div id="email-login-dialog-container"></div>
+
+    <div id="reset-password-dialog-container"></div>
+
+    <div id="calendar-dialog-container"></div>
+
+    <div id="age-gate-dialog-container"></div>
+
+    
+    
+
+
+<script type="text/javascript" src="https://static.blogto.com/static/dist/commons-chunk-bootstrap-f3898bd5457950e4e754.js" ></script>
+<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-lib-50a8a180fdfb36ac2e34.js" ></script>
+<script type="text/javascript" src="https://static.blogto.com/static/dist/blogto-app-36efb18768d81f02e9a1.js" ></script>
+
+
+    
+
+
+<script type="text/javascript">
+    window.freshDaily.facebookPromise = new Promise(function (resolve, reject) {
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: "100616073343311",
+                xfbml: true,
+                version: "v2.5"
+            });
+
+            resolve();
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    (function(){
+        var navBarData = {"restaurants": [{"id": 16898, "name": "Bar Copa", "share_url": "https://www.blogto.com/restaurants/bar-copa-toronto/", "image_url": "https://media.blogto.com/listings/20221028-BarCopa-2.jpg", "date_published": "2022-11-05T06:00:00", "is_reviewed": true, "date_reviewed": "2022-11-05T06:00:00"}, {"id": 16783, "name": "43 Down", "share_url": "https://www.blogto.com/restaurants/43-down-toronto/", "image_url": "https://media.blogto.com/listings/20221102-43Down-5.jpg", "date_published": "2022-11-03T09:54:41", "is_reviewed": true, "date_reviewed": "2022-11-03T09:54:43"}, {"id": 16866, "name": "Simpl Things", "share_url": "https://www.blogto.com/restaurants/simpl-things-toronto/", "image_url": "https://media.blogto.com/listings/2022.10.21.Simpl_Things-15.jpg", "date_published": "2022-10-21T14:49:58", "is_reviewed": true, "date_reviewed": "2022-10-21T14:49:47"}, {"id": 16870, "name": "Mapo Pocha Soju Bar", "share_url": "https://www.blogto.com/restaurants/mapo-pocha-toronto/", "image_url": "https://media.blogto.com/listings/20221014-MapoPochaSojuBar-14.jpg", "date_published": "2022-10-19T05:19:45", "is_reviewed": true, "date_reviewed": "2022-10-19T05:19:49"}, {"id": 16739, "name": "Spaccio West", "share_url": "https://www.blogto.com/restaurants/spaccio-west-toronto/", "image_url": "https://media.blogto.com/listings/20220902-SpaccioWest-26.jpg", "date_published": "2022-10-14T15:06:10", "is_reviewed": true, "date_reviewed": "2022-10-14T15:06:14"}, {"id": 16868, "name": "Cafe Paradise", "share_url": "https://www.blogto.com/restaurants/cafe-paradise-toronto/", "image_url": "https://media.blogto.com/listings/20220922-ParadiseCafe-1.jpg", "date_published": "2022-10-03T07:35:55", "is_reviewed": true, "date_reviewed": "2022-10-03T07:35:54"}], "places": [{"id": 16920, "name": "Cafe Zuzu", "share_url": "https://www.blogto.com/cafes/cafe-zuzu-toronto/", "image_url": "https://media.blogto.com/listings/20221104-CafeZuzu-2.jpg", "date_published": "2022-11-08T16:20:05", "is_reviewed": true, "date_reviewed": "2022-11-08T16:17:31"}, {"id": 16898, "name": "Bar Copa", "share_url": "https://www.blogto.com/restaurants/bar-copa-toronto/", "image_url": "https://media.blogto.com/listings/20221028-BarCopa-2.jpg", "date_published": "2022-11-05T06:00:00", "is_reviewed": true, "date_reviewed": "2022-11-05T06:00:00"}, {"id": 16867, "name": "Offworld Bar", "share_url": "https://www.blogto.com/bars/offworld-bar-toronto/", "image_url": "https://media.blogto.com/listings/20221028-OffworldBar-12.jpg", "date_published": "2022-11-04T13:28:08", "is_reviewed": true, "date_reviewed": "2022-11-04T13:28:43"}, {"id": 16783, "name": "43 Down", "share_url": "https://www.blogto.com/restaurants/43-down-toronto/", "image_url": "https://media.blogto.com/listings/20221102-43Down-5.jpg", "date_published": "2022-11-03T09:54:41", "is_reviewed": true, "date_reviewed": "2022-11-03T09:54:43"}], "articles": [{"id": 115442, "name": "Massive rental towers and new park to completely transform a Toronto street", "image_url": "https://media.blogto.com/articles/20221109-49-ontario-street-toronto.jpg", "share_url": "https://www.blogto.com/real-estate-toronto/2022/11/49-ontario-street-toronto/", "date_published": "2022-11-09T09:17:45", "is_slideshow": false}, {"id": 115389, "name": "What's open and closed on Remembrance Day in Toronto for 2022", "image_url": "https://media.blogto.com/articles/2022114-remembrance-day-toronto-2022.jpg", "share_url": "https://www.blogto.com/city/2022/11/whats-open-and-closed-remembrance-day-toronto-2022/", "date_published": "2022-11-09T06:58:32", "is_slideshow": false}, {"id": 115435, "name": "Listing for $4 million Toronto mansion reads like it's from the 1950s", "image_url": "https://media.blogto.com/articles/20221108-203-norton-avenue.jpg", "share_url": "https://www.blogto.com/real-estate-toronto/2022/11/233-norton-avenue-toronto/", "date_published": "2022-11-09T06:00:25", "is_slideshow": false}, {"id": 115441, "name": "Toronto man wins millions after playing the same lottery numbers for over a decade", "image_url": "https://media.blogto.com/articles/20221108-lotto-649.jpg", "share_url": "https://www.blogto.com/city/2022/11/toronto-lotto-649-winner/", "date_published": "2022-11-08T17:41:28", "is_slideshow": false}], "listing_types": [{"id": 1, "name": "Restaurants", "sentence_name_plural": "Restaurants", "share_url": "https://www.blogto.com/restaurants/"}, {"id": 2, "name": "Bars", "sentence_name_plural": "bars", "share_url": "https://www.blogto.com/bars/"}, {"id": 3, "name": "Cafes", "sentence_name_plural": "Cafes", "share_url": "https://www.blogto.com/cafes/"}, {"id": 9, "name": "Bakeries", "sentence_name_plural": "Bakeries", "share_url": "https://www.blogto.com/bakery/"}, {"id": 6, "name": "Grocery", "sentence_name_plural": "Grocery", "share_url": "https://www.blogto.com/grocery/"}, {"id": 5, "name": "Fashion", "sentence_name_plural": "Fashion", "share_url": "https://www.blogto.com/fashion/"}, {"id": 4, "name": "Design", "sentence_name_plural": "Design", "share_url": "https://www.blogto.com/design/"}, {"id": 8, "name": "Bookstores", "sentence_name_plural": "Bookstores", "share_url": "https://www.blogto.com/bookstores/"}, {"id": 7, "name": "Galleries", "sentence_name_plural": "Galleries", "share_url": "https://www.blogto.com/gallery/"}, {"id": 10, "name": "Fitness", "sentence_name_plural": "Fitness", "share_url": "https://www.blogto.com/fitness/"}, {"id": 12, "name": "Services", "sentence_name_plural": "Services", "share_url": "https://www.blogto.com/services/"}, {"id": 11, "name": "Hotels", "sentence_name_plural": "Hotels", "share_url": "https://www.blogto.com/hotels/"}], "article_type_bundles": [{"id": 3, "name": "Arts", "share_url": "https://www.blogto.com/arts/"}, {"id": 7, "name": "City", "share_url": "https://www.blogto.com/city/"}, {"id": 9, "name": "Eat & Drink", "share_url": "https://www.blogto.com/eat_drink/"}, {"id": 11, "name": "Fashion & Style", "share_url": "https://www.blogto.com/fashion_style/"}, {"id": 12, "name": "Film", "share_url": "https://www.blogto.com/film/"}, {"id": 16, "name": "Music", "share_url": "https://www.blogto.com/music/"}, {"id": 20, "name": "Radar", "share_url": "https://www.blogto.com/radar/"}, {"id": 25, "name": "Real Estate", "share_url": "https://www.blogto.com/real-estate-toronto/"}, {"id": 21, "name": "Sports & Play", "share_url": "https://www.blogto.com/sports_play/"}, {"id": 22, "name": "Tech", "share_url": "https://www.blogto.com/tech/"}, {"id": 24, "name": "Travel", "share_url": "https://www.blogto.com/travel/"}]}
+        window.freshDaily.navBarData = navBarData;
+    })();
+</script>
+
+<script type="text/javascript">
+    window.freshDaily.twitterPromise = new Promise(function (resolve, reject) {
+        if(!window.twttr){
+            window.twttr = (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                        t = window.twttr || {};
+                if (d.getElementById(id)) return t;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "https://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+
+                t._e = [];
+                t.ready = function (f) {
+                    t._e.push(f);
+                };
+
+                return t;
+            }(document, "script", "twitter-wjs"));
+
+            window.twttr.ready(function (twttr){
+                resolve(twttr);
+            });
+        } else {
+            resolve(window.twttr);
+        }
+    });
+</script>
+
+<script type="text/javascript">
+    window.SIGNUP_URL = '/accounts/newsletter/subscribe/';
+
+    (function () {
+        var AuthManager = window.freshDaily.AuthManager;
+        var sessionPromise = AuthManager.initUserSession(window.freshDaily.sessionLogicList);
+        window.freshDaily.sessionPromise = sessionPromise;
+    })();
+</script>
+
+
+    <script type="text/javascript">
+        (function () {
+            window.freshDaily.createDefaultPageApp();
+        })();
+    </script>
+
+
+
+</body>
+</html>

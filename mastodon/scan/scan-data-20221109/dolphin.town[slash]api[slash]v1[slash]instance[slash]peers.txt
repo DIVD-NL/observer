@@ -1,0 +1,39 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: 48f9740e-fc54-45e0-b933-5f59bcfaa707
+X-Runtime: 0.006260
+X-Xss-Protection: 1; mode=block
+
+274
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>The page you were looking for doesn&#39;t exist.
+ - 🐬 Town</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/common-d24aed49eb55bc45cdf8.css" />
+<link rel="stylesheet" media="all" href="/packs/default-d24aed49eb55bc45cdf8.css" />
+</head>
+<body class='error'>
+<div class='dialog'>
+<img alt='🐬 Town' src='/oops.gif'>
+<div>
+<h1>The page you were looking for doesn&#39;t exist.
+</h1>
+</div>
+</div>
+</body>
+</html>
+
+0
+

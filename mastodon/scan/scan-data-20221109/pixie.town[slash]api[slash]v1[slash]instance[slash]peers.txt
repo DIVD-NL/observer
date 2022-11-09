@@ -1,0 +1,10 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 898
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:15:32 GMT
+Etag: "60c145d6-382"
+Server: nginx
+
+<!DOCTYPE html>
+<html lang="en"><head><meta charSet="UTF-8"/><meta name="viewport" content="width=device-width"/><meta name="description"/><link rel="stylesheet" href="/assets/bundle.css"/><title>404</title></head><body><div class="page"><nav id="nav1"><a href="/" class="nobg"><img id="pixie" alt="a purple pixie, drawn" src="/assets/pixie.png"/></a><h2>Services</h2><a href="/matrix">Matrix</a><a target="_blank" href="https://social.pixie.town">Mastodon</a><a target="_blank" href="https://git.pixie.town">Gitea</a><a href="/mumble">Mumble</a><a target="_blank" href="https://write.pixie.town">Write</a><h2>Other</h2><a href="/about">About</a></nav><h1 class="header">404</h1><main><p>Our pixies looked everywhere, but we can&#x27;t find that page for you</p></main><span id="a">&lt;/div&gt;</span><footer>This site was made with <a href="https://shayu.it">shayu</a></footer></div></body></html>

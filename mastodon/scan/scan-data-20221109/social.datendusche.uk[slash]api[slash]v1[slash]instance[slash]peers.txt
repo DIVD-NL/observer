@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Connection: close
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767784fd3c012e62-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.datendusche.uk; img-src 'self' https: data: blob: https://social.datendusche.uk; style-src 'self' https://social.datendusche.uk 'nonce-XBBaYL7PpRjP0YGDwz6WAQ=='; media-src 'self' https: data: https://social.datendusche.uk; frame-src 'self' https:; manifest-src 'self' https://social.datendusche.uk; connect-src 'self' data: blob: https://social.datendusche.uk https://social.datendusche.uk wss://social.datendusche.uk; script-src 'self' https://social.datendusche.uk; child-src 'self' blob: https://social.datendusche.uk; worker-src 'self' blob: https://social.datendusche.uk
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:10 GMT
+Etag: W/"f80f33d7ad846dc4ab370e91c74f8b28"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=M7zgQq7W5FgdrlzARtnGPgPL2v%2F6zhoPtmGinBjxfj5fIou3vK5qDOtL8ezxz3eTfYXMD4ximkPMye3e2h7WbDq1X6jgXB1%2F%2FlFnGxQHlhliRpG1pP9bQKUapz4kaa%2FKVTKL3Tul8c4%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:10:00.657245Z
+X-Request-Id: a42d2588-b34f-4e0b-89f7-24542e7919b8
+X-Runtime: 0.013171
+X-Xss-Protection: 0
+
+["ruhr.social","dresden.network","pixelfed.social","mstdn.social","hessen.social","mastodon.xyz","nerdculture.de","blahaj.social","indieweb.social","podcasts.social","nrw.social","hub.uckermark.social","beta.birdsite.live","wien.rocks","kirche.social","ostfrie.se","schottkydio.de","pleroma.chaoswit.ch","fedi.home.ctu.cx","piratenpartei.social","selfhosted.social","fedi.yuka.dev","crimew.gay","ak.cafkafk.com","social.dev-wiki.de","ak.kawen.space","ihatebeinga.live","nya.house","expired.mentality.rip","akkos.fritu.re","ak.lightnovel-dungeon.de","kawaii.kitsune.cafe","outerheaven.club","fedi.absturztau.be","vibewave.space","akko.wtf","xyzzy.link","cuties.social","kif.rocks","edi.social","digitalcourage.social","openbiblio.social","social.zwoelfdreifuenfundvierzig.net","fediscience.org","todon.eu","medibubble.org","social.unraidcloud.de","social.adlerweb.info","mastodon.online","graz.social","toot.berlin","the.floof.rocks","a.n0id.space","mastodon.xy-space.de","mastodon.green","social.cologne","climatejustice.social","sueden.social","norden.social","social.saarland","swiss-talk.net","mathstodon.xyz","det.social","mastodon.art","mastodon.flying-snail.de","freiburg.social","literatur.social","mastodontech.de","dizl.de","treehouse.technopagans.de","mastodon.bayern","ioc.exchange","fnordon.de","bayes.club","econtwitter.net","machteburch.social","bitcoinhackers.org","a.gup.pe","social.anoxinon.de","muenchen.social","mastodon.scot","gruene.social","corteximplant.com","radiosocial.de","mastodon.aventer.biz","mastodon.social","mastodon.nu","chaos.social","metalhead.club","social.tchncs.de","bonn.social","en.osm.town","troet.cafe","geraffel.social"]

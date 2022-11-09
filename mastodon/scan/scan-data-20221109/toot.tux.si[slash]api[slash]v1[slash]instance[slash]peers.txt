@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.tux.si; img-src 'self' https: data: blob: https://toot.tux.si; style-src 'self' https://toot.tux.si 'nonce-ATzcFgbcjgYwxKKAXCrEgw=='; media-src 'self' https: data: https://toot.tux.si; frame-src 'self' https:; manifest-src 'self' https://toot.tux.si; connect-src 'self' data: blob: https://toot.tux.si https://s3.toot.tux.si wss://toot.tux.si; script-src 'self' https://toot.tux.si; child-src 'self' blob: https://toot.tux.si; worker-src 'self' blob: https://toot.tux.si
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:03 GMT
+Etag: W/"42f8f8063e305a82980d20e125713f83"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.673512Z
+X-Request-Id: 6cb80547-4c07-4ff2-b754-daaa2113f9b8
+X-Runtime: 0.015302
+X-Xss-Protection: 0
+
+58c
+["robinsmediateam.dev","social.opendesktop.org","social.tchncs.de","helvetica.fm","friendica.mschmidt-et.de","social.jmueller.eu","friendica.kommune4.de","herzbu.de","pony.social","mastodon.gamedev.place","masto.asonix.dog","chitter.xyz","60228.dev","expired.mentality.rip","sociale.network","astrodon.social","friendica.offsite.guru","anarchydica.net","tech.lgbt","mastodon.cloud","cybre.space","social.evotm.com","equestria.social","lor.sh","friendica.mifritscher.de","f.kretschmann.social","friendica.myportal.social","follow.schmaller.de","vtubers.site","friendica.ucy.de","quitter.pl","petroskowo.pl","chaos.social","kudabiverse.com","fri.aethercom.de","friendica.opencloud.lu","mstdn.io","social.coop","retr0.id","mk.chocoflan.net","cybercrusade.xyz","gly.one","chudbuds.lol","beefyboys.win","freespeechextremist.com","sleepy.cafe","djsumdog.com","social.mrhands.horse","poa.st","gleasonator.com","fediverse.pl","mstdn.social","nicecrew.digital","seal.cafe","eveningzoo.club","pl.seahorse.sh","hub.natehiggers.online","nightshift.social","pleroma.jamesp.org","rojogato.com","mk.starnix.network","mastodon.sdf.org","linuxrocks.online","mstdn.starnix.network","leafposter.club","mastodon.social","mk.gabe.rocks","social.anoxinon.de","treehouse.systems","mastodon.technology","mastodon.green","fosstodon.org","floss.social","friendica.daniel-siepmann.de","mastodon.online","redeyes.club","f.freinetz.ch","noc.social"]
+0
+

@@ -1,0 +1,11 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 41
+Content-Encoding: 
+Content-Type: text/plain
+Date: Wed, 09 Nov 2022 14:57:09 GMT
+Set-Cookie: alchemy_sid=4249f5fb7153bc-la9rlr24-987de09e-139948d4923175ce; path=/; secure; httponly
+X-History-Url: /api/v1/instance/peers
+
+404:
+HTTP Error 404: Route was not found

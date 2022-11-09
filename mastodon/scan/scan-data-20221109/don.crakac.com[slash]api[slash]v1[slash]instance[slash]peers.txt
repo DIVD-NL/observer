@@ -1,0 +1,16 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 214
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:41 GMT
+Etag: "62778911-d6"
+Server: nginx
+
+<html>
+<meta charset="utf-8">
+<body>
+don.crakac.comはpostgresqlアップデート中のコマンドミスにより爆発しました。
+<br>
+<a href="https://mstdn.crakac.com">mstdn.crakac.com</a>
+</body>
+</html>

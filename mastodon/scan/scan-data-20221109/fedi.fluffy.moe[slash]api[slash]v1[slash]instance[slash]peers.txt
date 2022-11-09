@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 343
+Cache-Control: private, max-age=0, must-revalidate
+Content-Security-Policy: default-src https: 'unsafe-inline' 'unsafe-eval'; connect-src https: wss:; img-src https: blob: data:; worker-src https: blob:; font-src https: blob: data:; media-src https: blob: data:
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:57 GMT
+Server: nginx/1.23.1
+Strict-Transport-Security: max-age=15552000; preload
+Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
+Vary: Origin
+
+["bae.st","cawfee.club","udongein.xyz","letsalllovela.in","yokai.cafe","p.helene.moe","retr0.id","waifuism.life","society.kalli.st","pl.nulled.red","lonely.town","pl.lain.sh","pleroma.guizzyordi.info","pleroma.skyshanty.xyz","fedi.ruinouspowe.rs","weeaboo.space","shitposter.club","fed.uninsane.org","poa.st","mk.udongein.reisen","pl.gnu.moe"]

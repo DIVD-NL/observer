@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mstdn.sysinfra.info; img-src 'self' https: data: blob: https://mstdn.sysinfra.info; style-src 'self' https://mstdn.sysinfra.info 'nonce-pkoyqwGbRc1e4EpfP2FZkw=='; media-src 'self' https: data: https://mstdn.sysinfra.info; frame-src 'self' https:; manifest-src 'self' https://mstdn.sysinfra.info; connect-src 'self' data: blob: https://mstdn.sysinfra.info https://mstdn.sysinfra.info wss://mstdn.sysinfra.info; script-src 'self' https://mstdn.sysinfra.info; child-src 'self' blob: https://mstdn.sysinfra.info; worker-src 'self' blob: https://mstdn.sysinfra.info
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:13:56 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.620321Z
+X-Request-Id: e411681d-c1ee-454a-92c0-998c4f889b47
+X-Runtime: 0.003303
+X-Xss-Protection: 0
+
+0
+

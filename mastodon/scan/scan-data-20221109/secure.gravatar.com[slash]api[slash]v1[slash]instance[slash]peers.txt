@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy-Report-Only: default-src *.gravatar.com; script-src *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com apis.google.com/js/ 'nonce-8ea98c7bbf36'; style-src 'self' *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-4c6ca9fa0a6a' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' ;font-src data: *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: *.gravatar.com gravatar.files.wordpress.com *.wordpress.com/mshots/ *.wp.com vaultpress.com; media-src https://videos.files.wordpress.com/; frame-src *.gravatar.com widgets.wp.com; connect-src *.gravatar.com *.google-analytics.com https://public-api.wordpress.com/; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/;
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:26 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Wed, 09 Nov 2022 15:17:26 GMT
+P3p: CP="CAO PSA"
+Pragma: no-cache
+Server: nginx
+X-Frame-Options: SAMEORIGIN
+
+20
+unimplimented and or unsupported
+0
+

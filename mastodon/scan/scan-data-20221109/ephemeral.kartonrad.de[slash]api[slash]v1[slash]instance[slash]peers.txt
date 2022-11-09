@@ -1,0 +1,17 @@
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 16
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cf-Ray: 7677671799192e26-BRU
+Content-Type: text/plain; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:46 GMT
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HlKI9vzep7Au%2FIF2nyXVZxtzBzNwYRX3SZas%2F6DXcIx76Io11jJWvOGCqOQrxzGPi%2FR53S0GA4xf2kpqPPeG5RoU3D9dh4OrGxujOIdFMZKgs2wE7seRZTfO3Y15PUsJVmraTDOKGmrk"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+error code: 1010

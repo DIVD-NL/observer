@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.teamx.cc; img-src 'self' https: data: blob: https://social.teamx.cc; style-src 'self' https://social.teamx.cc 'nonce-vrgwEE/nO7sxddg9LZbMIw=='; media-src 'self' https: data: https://social.teamx.cc; frame-src 'self' https:; manifest-src 'self' https://social.teamx.cc; connect-src 'self' data: blob: https://social.teamx.cc https://social.teamx.cc wss://social.teamx.cc; script-src 'self' https://social.teamx.cc; child-src 'self' blob: https://social.teamx.cc; worker-src 'self' blob: https://social.teamx.cc
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:47 GMT
+Etag: W/"e31b7463330c42e48a1bf5fa21f6fc0e"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-08T21:40:00.263285Z
+X-Request-Id: 8066eeb3-c129-4ac8-a9da-591ef0029700
+X-Runtime: 0.006344
+X-Xss-Protection: 0
+
+3dd
+["mastodon.online","edi.social","sueden.social","machteburch.social","talk.mls20.de","wien.rocks","bonn.social","social.cologne","rollenspiel.social","ruhr.social","ebildungslabor.de","pixelfed.de","muenchen.social","hessen.social","wandzeitung.xyz","todon.eu","social.network.europa.eu","nrw.social","mastodon.cloud","todon.nl","social.bund.de","mstdn.jp","mastodon.nu","toot.wales","social.coop","infosec.exchange","digitalcourage.social","mast.eu.org","climatejustice.social","det.social","ioc.exchange","aachen.social","openbiblio.social","photog.social","aus.social","akademienl.social","chaos.social","social.saufpark.tv","dresden.network","troet.cafe","norden.social","fandom.ink","masto.ai","mastodontech.de","sfba.social","mastodon.social","brockha.us","nerdculture.de","social.tchncs.de","f.freinetz.ch","freundica.de","fsociety.social","sasa.uber.space","social.abraum.de","social.fkeinsten.de","social.jayvii.de","social.tromdienste.de","piratenpartei.social","metalhead.club"]
+0
+

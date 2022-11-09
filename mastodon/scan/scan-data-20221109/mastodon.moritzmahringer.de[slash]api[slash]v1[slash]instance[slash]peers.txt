@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 1822
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:51 GMT
+Etag: W/"71e-1tjWFbxTpxz668Yz1ouhmfSVwww"
+Server: nginx/1.21.6
+Set-Cookie: connect.sid=s%3A4rUK5lgxvvEYpptRvQaciU3_ZnEzbakv.h9qimVdAeb7PnEO38FRqWm7jU0sREwD5Bq5IeNASKYw; Path=/; Expires=Fri, 11 Nov 2022 15:11:51 GMT; HttpOnly
+X-Powered-By: Express
+
+<!DOCTYPE html><html><head><title>AStA Semesterticket Rückerstattung</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5"><link rel="stylesheet" href="/css/bootstrap.min.css"><link rel="stylesheet" href="/bootstrap-datepicker.min.css"><link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/kunden.css"><noscript><style>.hidden.noscript-unhide-block {
+	display: block !important;
+}
+
+.noscript-hidden {
+	display: none !important;
+}
+</style></noscript></head><body><div class="jumbotron"><div class="container"><table id="header_table"><tr><td><h1 id="header_text">Semesterticket Rückerstattung</h1><form action="/set_language" method="POST"><input type="hidden" name="csrf_token" value="6Nc2Gf8i-_woIZPm5jP7w8HVaYjCnqFJxH7A"/><button class="language_button" name="locale" value="de"><img src="/Flag_of_Germany.svg"></button><button class="language_button" name="locale" value="en"><img src="/Flag_of_the_United_Kingdom.svg"></button></form></td><td class="text-right"><img src="/logo_blau.png" id="logo"></td></tr></table></div></div><div class="container"><h1>Fehler</h1><p class="lead"></p><p>Oh je! Die angegebene Seite konnte nicht gefunden werden.</p><p class="help-block">Bitte versuchen sie es erneut. Sollte der Fehler weiterhin auftreten können Sie uns per
+		<a href="mailto:technik@asta-jgu-rueckerstattung.de?subject=Fehler:%20Kann%20noch%20nicht%20aufgerufen%20werden&body=Session%20ID:%20"> Mail (technik@asta-jgu-rueckerstattung.de)</a> erreichen.<br></p></div><br><div class="footer text-center"><a class="impressum" href="https://www.blogs.uni-mainz.de/asta/impressum/">Impressum</a></div><script src="/jquery.min.js"></script><script src="/bootstrap.min.js"></script></body></html>

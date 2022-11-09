@@ -1,0 +1,92 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:31 GMT
+Server: Apache/2.4.38 (Debian)
+Upgrade: h2,h2c
+
+1299
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>Pixlfeed</title>
+	<link rel="manifest" href="/manifest.json">
+
+	<meta property="og:site_name" content="Pixlfeed">
+	<meta property="og:title" content="Pixlfeed">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://pixlfeed.theplanet.rocks/api/v1/instance/peers">
+	
+	<meta name="medium" content="image">
+	<meta name="theme-color" content="#10c5f8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="apple-touch-icon" type="image/png" href="/img/favicon.png?v=2">
+	<link rel="canonical" href="https://pixlfeed.theplanet.rocks/api/v1/instance/peers">
+	<link href="/css/app.css?id=140a427d89c3aae4f78e87cf6ec7eef3" rel="stylesheet" data-stylesheet="light">
+	<script type="text/javascript">window._sharedData = {curUser: {}, version: 0}; window.App = {config: {"open_registration":false,"uploader":{"max_photo_size":"15000","max_caption_length":"500","album_limit":"4","image_quality":"95","max_collection_length":100,"optimize_image":true,"optimize_video":true,"media_types":"image\/jpeg,image\/png,image\/gif,image\/webp","enforce_account_limit":true},"activitypub":{"enabled":true,"remote_follow":true},"ab":{"lc":false,"rec":false,"loops":false,"top":false,"polls":false,"cached_public_timeline":false,"gps":false,"spa":true,"emc":true},"site":{"name":"Pixlfeed","domain":"pixlfeed.theplanet.rocks","url":"https:\/\/pixlfeed.theplanet.rocks","description":"Pixlfeed is a photo and image website connected to the Fediverse."},"username":{"remote":{"formats":{"0":"@","1":"from","2":"custom"},"format":"@","custom":null}},"features":{"timelines":{"local":true,"network":true},"mobile_apis":true,"stories":true,"video":false,"import":{"instagram":false,"mastodon":false,"pixelfed":false},"label":{"covid":{"enabled":false,"org":"visit the WHO website","url":"https:\/\/www.who.int\/emergencies\/diseases\/novel-coronavirus-2019\/advice-for-public"}}}}};</script>
+	</head>
+<body>
+	<nav class="navbar navbar-expand navbar-light navbar-laravel shadow-none border-bottom sticky-top py-1">
+	<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="https://pixlfeed.theplanet.rocks" title="Logo">
+				<img src="/img/pixelfed-icon-color.svg" height="30px" class="px-2" loading="eager" alt="Pixelfed logo">
+				<span class="font-weight-bold mb-0 d-none d-sm-block" style="font-size:20px;">Pixlfeed</span>
+			</a>
+
+			<div class="collapse navbar-collapse">
+			
+			
+				<ul class="navbar-nav ml-auto">
+					<li>
+						<a class="nav-link font-weight-bold text-dark" href="/login" title="Login">
+							Login
+						</a>
+					</li>
+											</ul>
+			</div>
+	</div>
+</nav>
+	<main id="content">
+		<div class="container">
+  <div class="error-page py-5 my-5 text-center">
+    <h3 class="font-weight-bold">Sorry, this page isn't available.</h3>
+    <p class="lead">The link you followed may be broken, or the page may have been removed. <a href="/">Go back to Pixelfed.</a></p>
+  </div>
+</div>
+	</main>
+	<footer>
+    <div class="container py-5">
+        <p class="text-center text-uppercase font-weight-bold small text-justify">
+          <a href="https://pixlfeed.theplanet.rocks/site/about" class="text-dark p-2">Over ons</a>
+          <a href="https://pixlfeed.theplanet.rocks/site/help" class="text-dark p-2">Ondersteuning</a>
+          <a href="https://pixlfeed.theplanet.rocks/site/terms" class="text-dark p-2">Voorwaarden</a>
+          <a href="https://pixlfeed.theplanet.rocks/site/privacy" class="text-dark p-2">Privacy</a>
+          <a href="https://pixlfeed.theplanet.rocks/site/language" class="text-dark p-2">Taal</a>
+                  </p>
+        <p class="text-center text-muted small mb-0">
+          <span class="text-muted">© 2022 pixlfeed.theplanet.rocks</span>
+          <span class="mx-2">·</span>
+          <a href="https://pixelfed.org" class="text-muted font-weight-bold" rel="noopener">Powered by Pixelfed</a>
+          <span class="mx-2">·</span>
+          <span class="text-muted">v0.11.4</span>
+        </p>
+    </div>
+  </footer>
+  	<script type="text/javascript" src="/js/manifest.js?id=cb3be33aeb160e02d6840c16f1fad134"></script>
+	<script type="text/javascript" src="/js/vendor.js?id=54cd37dcfb87097e5a701f4e4c3d9bc3"></script>
+	<script type="text/javascript" src="/js/app.js?id=92f95bbb3a3996d97986f0bae1d19854"></script>
+	<script type="text/javascript" src="/js/components.js?id=a1d4c69ad0670101d7c449f31dfc0234"></script>
+	</body>
+</html>
+
+0
+

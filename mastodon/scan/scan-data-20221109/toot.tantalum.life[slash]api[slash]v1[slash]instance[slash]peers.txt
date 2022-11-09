@@ -1,0 +1,24 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677892f1a6a83e3-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:21:02 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AJHQ%2BIcRtrQ8Uo%2FauGgugBt7Cwgf1FOBYa3DU6w0pGyMfGVHFqnReKJOVF5Q8YS%2FIg8A6v%2F5Xb9dY6m2AjpKFVo0Bw455NqtfAzblbGD%2FNGCZU%2FFulFyZdMDOEFHjYceWKzmB2w%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000
+
+661
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7677892f1a6a83e3',m:'gRJuE6syjE1QwGTuMs1MfTed4eC_Nnd1pTrXZX1s2HI-1668007262-0-AWFtCMaVvtgLtZoKl6yW8xlYdOr06T95MiUSm9f8mrrOdXitmpYWPGibPsLtt4zJ/47F+8zucClzSS7Yce+0wC6GqnJ+iHZMtY+PXm+oUprTqrNOeA2P9yMbbkhgVkJ7QXWMt2hPeI5VSzKPULnOQ0s=',s:[0xa02b77a5e8,0xd020b94959],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+0
+

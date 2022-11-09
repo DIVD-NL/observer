@@ -1,0 +1,58 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Hit: false
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:08 GMT
+Etag: W/"75f-CcZqbuS5oOoGkkbJIwXGhVj51uA"
+Server: openresty
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+75f
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Page not found - Ben Smith</title>
+    <meta name="description" content="Error on Ben Smith">
+    
+    <!-- Begin proprietary meta tags for sharing on social media -->
+    <meta property="og:title" content="Page not found - Ben Smith">
+    <meta property="og:description" content="Error on Ben Smith">
+    <meta property="og:type" content="website">
+    <!-- End proprietary meta tags for sharing on social media -->
+
+    <link rel="alternate" type="application/rss+xml" title="Ben Smith" href="https://bensmith.uk/feed.rss">
+    <link rel="icon" href="https://blotcdn.com/blog_02e28f3868514c4d8349d63303aaae06/_avatars/7a4b608f-5e1f-4362-9ef7-0d7532723643.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="/style.css?cache=1667980964435&amp;extension=.css">
+        
+</head>  <body>
+<div class="header alignment-justified position-top">
+    <a id="logo" href="/">
+      <!-- 
+      <img class="avatar " src="https:&#x2F;&#x2F;blotcdn.com&#x2F;blog_02e28f3868514c4d8349d63303aaae06&#x2F;_avatars&#x2F;7a4b608f-5e1f-4362-9ef7-0d7532723643.jpg" alt="Ben Smith"/>
+       -->
+      Ben Smith
+    </a>
+
+    <div class="nav">
+      <a href="/about" title="About">About</a>
+      <a href="/tagged/coffee" title="Coffees">Coffees</a>
+      <a href="/tagged/photo" title="Photos">Photos</a>
+      <a href="/tagged/blog-post" title="Blog">Blog</a>
+      <a href="/archives" title="Archive">Archive</a>
+    </div>
+</div>    <div class="container">
+      <div class="main">
+        <h1>Page not found</h1>
+        <p>Something has gone wrong. There is no page with this URL.</p>
+<script src="/script.js?cache=1667980964435&amp;extension=.js" type="text/javascript"></script>
+      </div>
+    </div>
+  </body>
+</html>
+0
+

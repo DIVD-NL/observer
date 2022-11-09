@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://masto.zapchenwellbeing.org; img-src 'self' https: data: blob: https://masto.zapchenwellbeing.org; style-src 'self' https://masto.zapchenwellbeing.org 'nonce-ODhXbrzueHMYmO8exV/xdA=='; media-src 'self' https: data: https://masto.zapchenwellbeing.org; frame-src 'self' https:; manifest-src 'self' https://masto.zapchenwellbeing.org; connect-src 'self' data: blob: https://masto.zapchenwellbeing.org https://cdn.masto.host wss://masto.zapchenwellbeing.org; script-src 'self' https://masto.zapchenwellbeing.org; child-src 'self' blob: https://masto.zapchenwellbeing.org; worker-src 'self' blob: https://masto.zapchenwellbeing.org
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:48 GMT
+Etag: W/"6e742ef9e08b2f1b60072036c2ee2b70"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.883160Z
+X-Request-Id: 7814f3e5-f88c-4871-804f-c7582d535a61
+X-Runtime: 0.004794
+X-Xss-Protection: 0
+
+81b
+["social.coop","mamot.fr","sueden.social","todon.eu","a.gup.pe","mastodon.lol","twtr.plus","edi.social","kolektiva.social","bildung.social","paper.wf","mstdn.io","hostsharing.coop","social.tchncs.de","infosec.exchange","social.digitalcastle.me","herzbu.de","mastodon.me.uk","frnd.nanoscopic.de","social.wxcafe.net","f.kretschmann.social","todon.nl","friend.geoffray-levasseur.org","friendica.nz","mk.absturztau.be","friendica.ambag.es","squeet.me","venera.social","friendica.myportal.social","friendica.ucy.de","talkabout.cf","social.tromdienste.de","f.iroiro.party","social.jmueller.eu","petroskowo.pl","friendica.mifritscher.de","fri.aethercom.de","metalhead.club","friendica.togart.de","anarchydica.net","friendica.hashy-net.de","poliverso.org","quitter.pl","friendica.mschmidt-et.de","friendica.offsite.guru","social.anacreonte.eu","fr.readthefinemanual.net","mastodon.cloud","vran.as","berlin.social","mastodon.online","social.rebellion.global","mstdn.social","medibubble.org","muenchen.social","friendica.ironbug.org","friendica.ingram-braun.net","follow.schmaller.de","f.freinetz.ch","friendica.daniel-siepmann.de","vis.social","nerdculture.de","v2.ebano.social","tech.lgbt","mastodon.freifunk-minden.de","mastodon.scot","scicomm.xyz","mastodon.art","kudabiverse.com","friendica.opencloud.lu","piratenpartei.social","friendica.kommune4.de","pztrn.online","mastodon.xyz","fediscience.org","pirati.ca","social.anon-groups.de","t2.thotsofa304.club","botsin.space","redeyes.club","bitcoinhackers.org","dresden.network","social.anoxinon.de","masthead.social","legal.social","anonsys.net","social.deadsuperhero.com","mastodon.social","nrw.social","mastodon.green","xn--baw-joa.social","social.cologne","fedisabled.social","mastodontech.de","gruene.social","r2.do","social.bund.de","hackers.town","mas.to","m.geraffel.net","climatejustice.social","troet.cafe","subversive.zone","chaos.social","mstdn.science","social.dev-wiki.de","mobilize.berlin","norden.social","det.social","loma.ml","wien.rocks","hci.social","bonn.social","digitalcourage.social","climatejustice.global"]
+0
+

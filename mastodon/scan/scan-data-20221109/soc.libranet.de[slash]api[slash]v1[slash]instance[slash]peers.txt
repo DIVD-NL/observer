@@ -1,0 +1,18 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 278
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:17:41 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Apache/2.4.41 (Ubuntu)
+Strict-Transport-Security: max-age=31536000; preload
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at soc.libranet.de Port 443</address>
+</body></html>

@@ -1,0 +1,29 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76776664cc2db9b3-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:18 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KG5BSxPKPHFJLlG2yK4WAfsD%2F8dZIbdS%2BQZTHggtBJAqAzp66CHcvys5VJv2C%2BXabd5zer0jrDHrC8C%2BOEXJISIuraAu2ygFbiJUcNNU89rGSK03k3ui7yIoODbrb2QudZlo"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+21a
+<html>
+<head><title>410 Gone</title></head>
+<body>
+<center><h1>410 Gone</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+0
+

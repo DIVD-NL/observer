@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.jonahthen.com; img-src 'self' https: data: blob: https://social.jonahthen.com; style-src 'self' https://social.jonahthen.com 'nonce-r3qGlhpTkYu1ZXy8fEKkxQ=='; media-src 'self' https: data: https://social.jonahthen.com; frame-src 'self' https:; manifest-src 'self' https://social.jonahthen.com; connect-src 'self' data: blob: https://social.jonahthen.com https://social.jonahthen.com wss://social.jonahthen.com; script-src 'self' https://social.jonahthen.com; child-src 'self' blob: https://social.jonahthen.com; worker-src 'self' blob: https://social.jonahthen.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:44 GMT
+Etag: W/"d58ad326298e6fef3a47c47f40e6ba90"
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.758311Z
+X-Request-Id: c74ef907-60cb-4eb9-b449-ebd0630424a1
+X-Runtime: 0.013301
+X-Xss-Protection: 1; mode=block
+
+351
+["lor.sh","journa.host","newsie.social","glitterkitten.co.uk","mastodon.online","tech.lgbt","masto.ai","freeradical.zone","astrodon.social","octodon.social","lain.com","outerheaven.club","r2.do","home.social","zirk.us","kolektiva.social","mas.to","sciences.social","infosec.exchange","social.lol","t2.thotsofa304.club","friendica.mschmidt-et.de","friendica.ucy.de","toot-lab.reclaim.technology","linernotes.club","mst3k.interlinked.me","mamot.fr","friendica.offsite.guru","friendica.kommune4.de","mstdn.social","friendica.mifritscher.de","kudabiverse.com","petroskowo.pl","friendica.daniel-siepmann.de","f.kretschmann.social","redeyes.club","f.iroiro.party","social.jmueller.eu","fri.aethercom.de","mastodonapp.uk","quitter.pl","federated.press","friendica.myportal.social","qoto.org","neat.computer","mastodon.social","mstdn.party","fosstodon.org"]
+0
+

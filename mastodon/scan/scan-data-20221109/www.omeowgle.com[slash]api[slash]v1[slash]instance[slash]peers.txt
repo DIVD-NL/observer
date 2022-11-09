@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778ba0fc24f961-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://www.omeowgle.com; img-src 'self' https: data: blob: https://www.omeowgle.com; style-src 'self' https://www.omeowgle.com 'nonce-XLLr3gUj9RTmeWhbRD7dvw=='; media-src 'self' https: data: https://www.omeowgle.com; frame-src 'self' https:; manifest-src 'self' https://www.omeowgle.com; connect-src 'self' data: blob: https://www.omeowgle.com https://www.omeowgle.com wss://www.omeowgle.com; script-src 'self' https://www.omeowgle.com 'unsafe-eval'; child-src 'self' blob: https://www.omeowgle.com; worker-src 'self' blob: https://www.omeowgle.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:22:42 GMT
+Etag: W/"0597387924288b57bd4b78e2eeb8fed0"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BhpVJB%2Bd1Lir91nOXTUbnTmm9D06Z16GW%2Bru%2BrnYGXx9mw9gW9%2BSJR8y87nFyUZtjAxmvgqowQRGhYiWqQ7pi7QHxAOLW9TMlNyYNAumsZpqhsXc3Z%2BcqH3k0m4bgQgTFnvK"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.859020Z
+X-Request-Id: c7ceeeea-6491-4354-824c-c16716cecf3a
+X-Runtime: 0.028563
+X-Xss-Protection: 0
+
+a49
+["mastodon.technology","nerdica.net","friendica.togart.de","soc.schuerz.at","friendica.kommune4.de","g1zm0.social","librenet.co.za","friendica.jb-net.us","social.cool110.xyz","f.praschnig.com","fed.sonnenmulde.at","vicedomini.cloud","friends.wimmer-edv.de","f.xn--7s9hd.ws","friendica.ellih.eu","schmaker.eu","fri.aethercom.de","friendica.ambag.es","herzbu.de","keybored.me","friendica.offsite.guru","friendica.testitfor.me","friendica.multisum.info","f.freinetz.ch","friends.deko.cloud","fr.readthefinemanual.net","f.haeder.net","dehawara.de","friendica.ucy.de","pirati.ca","social.tromdienste.de","letus.inspiredlife.fun","friendica.ru","social.outsourcedmath.com","friendica.hellquist.eu","nsfw.wnymathguy.com","wiesbaden.social","friendica.mschmidt-et.de","rollenspiel.group","social.yl.ms","friendica.mrpetovan.com","social.badabam.net","friendica.mifritscher.de","social.fedinet.de","friendica.hashy-net.de","lastfree.space","philos.fkn-systems.de","friendica.me","quitter.pl","follow.schmaller.de","pztrn.online","social.trom.tf","f.kretschmann.social","friendica.opensocial.space","anonsys.net","social.softmetz.de","friendica.opencloud.lu","friendica.myportal.social","friendica.vrije-mens.org","friendica.bachgau.social","friend.geoffray-levasseur.org","friendica.eskimo.com","talkabout.cf","kudabiverse.com","friendica.wageoffsite.com","poliverso.org","friendica.utzer.de","friendica.a-zwenkau.de","friendica.mathernalproductions.com","scl.clttr.info","frnd.nanoscopic.de","social.cyano.at","friendica.ingram-braun.net","la-verite-vaincra.com","friendicarg.nsupdate.info","mb.neurario.com","anarchydica.net","soc.citizen4.eu","onlinegemein.de","social.thierrytalbert.fr","friendica.philipp.info","f.iroiro.party","convenient.email","friendica.m14xa.ru","friendica.nz","walls.social","bronyfurry.com","rud.life","opensocial.at","friendica.xyz","social.lucentinian.com","social.digitalcastle.me","social.dorf-post.de","space.rick.gr","social.jmueller.eu","social.agb-web.de","friendl.y-y.li","social.gl-como.it","friendica.ironbug.org","piratenpartei.social","social.chadwaltercummings.me","friends.bikegraz.at","friend.pierobosio.info","friendica.oldkid.digital","meld.de","social.johnassel.de","etiketi.de","www.urbanmind.net","friends.sophiade.net","horizin.de","redeyes.club","hullblasters.club","fabler.su","social.anacreonte.eu","t2.thotsofa304.club","social.tyngsboroughma.net","friendica.dezucked.com","v2.ebano.social","friend.snet.blog","friendica.chudzinski.com.de","friendica.daniel-siepmann.de","social.kjv.online","friendica.heikosblog.eu","petroskowo.pl","friendica.mnementh.co.uk","fosstodon.org","toot.cat"]
+0
+

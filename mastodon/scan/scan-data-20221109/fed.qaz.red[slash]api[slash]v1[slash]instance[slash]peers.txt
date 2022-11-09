@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://fed.qaz.red; img-src 'self' https: data: blob: https://fed.qaz.red; style-src 'self' https://fed.qaz.red 'nonce-C+1vkvwmStzu57Rd0z7XOw=='; media-src 'self' https: data: https://fed.qaz.red; frame-src 'self' https:; manifest-src 'self' https://fed.qaz.red; connect-src 'self' data: blob: https://fed.qaz.red https://cdn.masto.host wss://fed.qaz.red; script-src 'self' https://fed.qaz.red; child-src 'self' blob: https://fed.qaz.red; worker-src 'self' blob: https://fed.qaz.red
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:52 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.969585Z
+X-Request-Id: bf87d38e-a6e0-4f48-8e59-6d8b0c3e126c
+X-Runtime: 0.004354
+X-Xss-Protection: 0
+
+0
+

@@ -1,0 +1,272 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=2592000
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:23 GMT
+Etag: W/"5c522851-3163"
+Expires: Fri, 09 Dec 2022 15:11:23 GMT
+Last-Modified: Wed, 30 Jan 2019 22:42:25 GMT
+Server: nginx/1.18.0 (Ubuntu)
+
+3163
+<!DOCTYPE HTML>
+<!--
+    Based on Retrospect by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+    <head>
+        <title>Claire Braboszcz</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+
+        <script src="assets/js/webcomponents-lite.min.js"></script>
+        <link rel="import" href="elements/nav.html">
+        <link rel="import" href="elements/footer.html">
+
+    </head>
+    <body class="landing">
+
+                <!-- Banner -->
+        <section id="banner">
+             <!--<img style="height:5em;width:5em" src="images/electrodes.png" alt="" /> -->
+            <h2>Claire Braboszcz</h2>
+           <!-- <p>Exploring the brain... and beyond !</p> -->
+            <ul class="actions">
+                <li><a href="research.html" class="button special" alt="Overview of my research projects">Research</a></li>
+                <li><a href="#news" class="button alt" alt="My latest news">News</a></li>
+                <li><a href="publications.html" class="button alt" alt="Access all my academic publications">Publications</a></li>
+                <li><a href="links.html" class="button alt" alt="Useful links">Links</a></li>
+               <!-- <li><a href="teaching.html" class="button  alt" alt="Teaching resources & the students I work with">Supervision | Teaching</a></li>-->
+                <li><a href="aboutme.html" class="button" alt="Contact informations and my curriculum">About me</a></li>
+            </ul>
+        </section>
+
+
+  <section id="news" class="wrapper style1">
+            <div class="inner">
+				
+				
+				
+				
+				   <article class="feature left">
+                    <span class="image"><img src="images/bristol_targ.png" alt="" /></span>
+                    <div class="content">
+                        <h2>September 2018</h2>
+                        <p>
+                 I started a Senior Research Associate position in the  <a  href="http://www.bristol.ac.uk/psychology/research/brain/targ/ " alt="targ"> Tobacco and Alcohol Research Group </a> in the department of Psychological Science at Bristol University. 
+                               
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>    
+				
+				
+				
+                            <article class="feature right">
+                    <span class="image"><img src="images/micropheno.png" alt="" /></span>
+                    <div class="content">
+                        <h2>November 2017</h2>
+                        <p>
+                 I am hosting an international workshop on <a  href="https://www.microphenomenology.com/home " alt="micropheno"> micro-phenomenology </a> at Plymouth University. Pioneering researcher Claire Petitmengin will give <a  href="  https://www.plymouth.ac.uk/research/institutes/cognition/micro-phenomenology" alt="seminar"> a seminar  </a> to present micro-phenomenology to Plymouth Cognition Institute !
+                               
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>    
+                         
+                                
+                                
+                               
+                     
+                     		<article class="feature right">
+                    <span class="image"><img src="images/hypno-empathy.png" alt="" /></span>
+                    <div class="content">
+                        <h2>August 2017</h2>
+                        <p>
+                Our  <a  href=" http://rdcu.be/vnJ2" alt="Hypnosis paper"> paper  </a> showing <strong> showing the effect of hypnotic analgesia on empathic brain processes </strong> has been published ! 
+                               
+
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>    
+                     
+                                
+                                
+				<article class="feature left">
+                     <span class="image"><img src="images/old-eeg_medit.png" alt="" /></span>
+                    <div class="content">
+                        <h2>June 2017</h2>
+                        <p>
+                I wrote a  <a  href=" http://intellectica.org/fr/pratiques-mentales-vers-une-convergence-epistemique-de-la-meditation-de-l-hypnose-et-de-l-imagerie" alt="Review Mental practice"> review article  </a> on <strong>the connections between meditation, hypnosis and mental imagery </strong> that appears in the special issue on altered states of consciousness of the french cognitive science journal <a  href=" http://intellectica.org/fr/numeros/les-etats-modifies-de-conscience-en-question-anciennes-limites-et-nouvelles-approches" alt="Intellectica"> Intellectica  </a>. 
+                               
+
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>    
+                                
+                                			
+				
+				<article class="feature right">
+                    <span class="image"><img src="images/topo-gamma.png" alt="" /></span>
+                    <div class="content">
+                        <h2>January 2017</h2>
+                        <p>
+                A good start of the year, <strong> the first  <a  href=" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170647" alt="Papier Gamma Meditation"> paper </a> using the 
+                data we acquiered in India during my PhD is published ! </strong>
+                We are comparing the EEG spectrum activity of practitioners 
+                from three meditation traditions and a control group 
+                and show meditators have higher power in the high gamma 
+                range than controls. We are also analysing activity of 
+                clusters of artefactual independant components to 
+                control the validity of our data.
+                
+               
+
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>              
+               
+                <article class="feature left">
+                    <span class="image"><img src="images/open_bci_2.jpg" alt="" /></span>
+                    <div class="content">
+                        <h2>January 2017</h2>
+                        <p>
+                We printed and assembled the <a 
+                href="http://openbci.com/" alt="OpenBCI"> Open BCI EEG 
+                headset </a> ! I am going to use for outreach 
+                activities in schools and at university
+
+                
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>              
+                
+                
+                
+                
+                
+                <article class="feature right">
+                    <span class="image"><img src="images/Figure2-2_corrected.png" alt="" /></span>
+                    <div class="content">
+                        <h2>November 2016</h2>
+                        <p>
+                An <strong>error has been found</strong> in figure 2 of my 2011 Neuroimage paper <a href="http://dx.doi.org/10.1016/j.neuroimage.2010.10.008" alt="Braboszcz 2011">Lost in thoughts: Neural markers of low alertness during mind wandering </a>. There is a typo in the ERP's legend in the upper panel and as a result the legend is inverted between the mind-wandering and breath focus conditions - pretty amazed that it took 5 years to be noticed ! Thanks to Shoichi Asaoka for pointing it out to me. The journal has been contacted in October 2016 to request a correction, but in the meantime you can download the corrected version of the figure <a href="images/Figure2-2_corrected.pdf" alt="fig 2 corrected"> here ! 
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>              
+               
+               
+               <article class="feature left">
+                    
+                    <div class="content">
+                        <h2>September 2016</h2>
+                        <p>
+                I have been selected to participate in <a href="https://www.nsas.it/" alt="nsas"> the Neuroscience School of Advanced Studies  </a> week-long course on Consciousness !
+                               
+
+                
+                        </p>
+                    </div>
+                </article>
+                
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>    
+               
+
+                <article class="feature right">
+                    <span class="image"><img src="images/plymouth-hoe.jpg" alt="" /></span>
+                    <div class="content">
+                        <h2>March 2016</h2>
+                        <p>
+                After a parental leave I am now back to work with my new project on mental imagery, with Giorgio Ganis at 
+                        the University of Plymouth!
+                        </p>
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>              
+               
+
+                <article class="feature left">
+                    <span class="image"><img src="images/itn.jpg" alt="" /></span>
+                    <div class="content">
+                        <h2>February 2015</h2>
+                        <p>
+                        I've been awarded a <strong>Marie Skłodowska-Curie fellowship</strong> to work on an EEG-TMS project on the neurophenomenology of mental imagery with Giorgio Ganis at the University of Plymouth.
+                        </p>
+
+                    </div>
+                </article>
+                <a href="#banner" class="back-to-top icon fa-level-up"> back to top</a>
+
+
+<!--
+<p>
+<strong>January 2015</strong><br/>
+We've <a href="https://twitter.com/AAAIVideoComp/status/560899473824813056">got awarded the AAAI 2015 Best Video Award</a> for the <a href="http://chili.epfl.ch/cowriter">CoWriter</a> project! Congratulations to Deanna Hood, the Master student who carried out this project!
+<br/>
+<video id="cowriter" class="video-js vjs-default-skin vjs-big-play-centered"
+  controls preload="auto" width="561" height="320"
+  poster="videos/cowriter.jpg"
+  data-setup='{"example_option":true}'>
+ <source src="videos/cowriter-lowres.mp4" type='video/mp4' />
+</video>
+</p>
+
+<p>
+<strong>September 2014</strong><br/>
+I've <a href="http://www.gdr-robotique.org/prix_de_these/?an=2013" alt="Prix de thèse - website GdR Robotique / CNRS">been awarded</a> the <strong>Best PhD in Robotics 2012</strong> award by the French CNRS.
+</p>
+-->
+
+
+
+            </div>
+        </section>
+
+        <my-footer></my-footer>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="assets/js/main.js"></script>
+
+        <script>
+$(function() {
+    $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+            $('html,body').animate({
+                scrollTop: target.offset().top
+            }, 1000);
+            return false;
+        }
+    }
+    });
+});
+        </script>
+
+    </body>
+</html>
+
+0
+

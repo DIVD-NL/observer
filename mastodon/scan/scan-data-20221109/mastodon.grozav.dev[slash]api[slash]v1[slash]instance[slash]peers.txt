@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777b09dc662e02-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.grozav.dev; img-src 'self' https: data: blob: https://mastodon.grozav.dev; style-src 'self' https://mastodon.grozav.dev 'nonce-KEWi/jkLuepuaesU7Va7MA=='; media-src 'self' https: data: https://mastodon.grozav.dev; frame-src 'self' https:; manifest-src 'self' https://mastodon.grozav.dev; connect-src 'self' data: blob: https://mastodon.grozav.dev https://mastodon.grozav.dev wss://mastodon.grozav.dev; script-src 'self' https://mastodon.grozav.dev 'unsafe-eval'; child-src 'self' blob: https://mastodon.grozav.dev; worker-src 'self' blob: https://mastodon.grozav.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:23 GMT
+Etag: W/"5e797b971e278e01fee179df52b33404"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QLHGWYGtxOjieFFtfhUaIFbRlFn%2BAJtUI1FVwgTmRv%2BseRVXc3jUsmidjdq01RSWjZgR3t%2F3zQsGuhAdN97Cj7AwucNyKhS2iNwo9KJBFzt3EqjM5ZmAMIIvkj996j1vduFdohGA"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.326125Z
+X-Request-Id: 97d71d20-b18f-408a-bee2-356e1150ede7
+X-Runtime: 0.004286
+X-Xss-Protection: 0
+
+4d5
+["itdev.social","social.michaelbrooks.co.uk","this.mouse.rocks","kcmo.social","eeeeeeeee.eu","pleroma.1d4.us","uncorking.me","nonexiste.net","mastoid.dev","mastodon.nz","nya.social","social.growyourown.services","mastodont.cat","noblogo.org","freeradical.zone","cybre.space","botsin.space","port87.social","fosstodon.org","commiespace.duckdns.org","mastodon.lol","mastodon.nu","mastodon.uno","peertube.uno","mobilizon.it","mastodon.matrix.org","mastodon.social","aachen.social","indiepocalypse.social","front-end.social","mastodon.chriswiegman.com","fandom.ink","m.markjones.cloud","mastodon.art","geeknews.chat","masto.ai","universeodon.com","infosec.exchange","framapiaf.org","simian.rodeo","kolektiva.social","bbiz.io","aus.social","mastodon.ie","climatejustice.social","c.im","mastodon.green","phpc.social","mastodon.gamedev.place","rheinneckar.social","kakafe.ga","friendica.myportal.social","nerdculture.de","mementomori.social","mastodon.scot","triangletoot.party","extwitriates.com","metalhead.club","unbound.social","social.linux.pizza","mastodonapp.uk","oceanplayground.social","treehouse.systems","tech.lgbt","mstdn.social","social.fellr.net","mastodon.online","bae.st","social.welford.me","gnulinux.social","indieweb.social"]
+0
+

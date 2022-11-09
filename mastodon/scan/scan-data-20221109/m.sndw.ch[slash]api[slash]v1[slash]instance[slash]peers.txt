@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767779a978f4b9a7-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:26 GMT
+Location: https://masto.host/host-server-404/
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vzJSYoxBa1RONHwIAfZ6o0b6sjCsrpCFgGHiAzKt%2F4TJZvPzJgnGWipdiC1QKqk2fhm2FNKu5k%2FLnvunImroLyd7m7%2B0Ue5sVge8KZlHNiKFPHjym%2BWutj4Jk4A%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+a9
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.16.0</center>
+</body>
+</html>
+
+0
+

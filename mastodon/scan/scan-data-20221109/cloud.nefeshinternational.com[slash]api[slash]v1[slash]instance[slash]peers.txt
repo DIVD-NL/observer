@@ -1,0 +1,118 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Connection: Upgrade
+Content-Security-Policy: default-src 'none';base-uri 'none';manifest-src 'self';script-src 'nonce-QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=';style-src 'self' 'unsafe-inline';img-src 'self' data: blob:;font-src 'self' data:;connect-src 'self';media-src 'self';frame-src data:;child-src 'self';frame-ancestors 'self';worker-src 'self' blob:;form-action 'self'
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:27 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Feature-Policy: autoplay 'self';camera 'none';fullscreen 'self';geolocation 'self';microphone 'none';payment 'none'
+Pragma: no-cache
+Referrer-Policy: no-referrer
+Server: Apache/2
+Set-Cookie: oc_sessionPassphrase=xzQIGJ53pnGDxcZoC6uQHu3C93tGwsapJaHUSFL%2FI2ZxYmflUjZ3OYIXi9bfAX%2B%2BFjUWPvfJKbcKacJEBcG%2FOOEMOT%2F1atMNFneSdMZ1J7T0Te1K8s9TZL%2FmWzBLo%2FhW; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ocj2x3e7dtwj=c8acf72730c3ef7cdbef277e3f6637e4; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: __Host-nc_sameSiteCookielax=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: __Host-nc_sameSiteCookiestrict=true; path=/; httponly;secure; expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Powered-By: PHP/7.4.30
+X-Robots-Tag: none
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+	<head
+ data-requesttoken="AdAVpY3H++WgHAClXFYQ9+4fi8DL+pODik5eUhIgYPg=:Ub9WyNmCw4Lre1rwbn1clJRGyIi+veX32xw5OUFsDso=">
+		<meta charset="utf-8">
+		<title>
+		Nefesh Cloud		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+				<meta name="apple-itunes-app" content="app-id=1125420102">
+				<meta name="theme-color" content="#0082c9">
+		<link rel="icon" href="/index.php/apps/theming/favicon?v=14">
+		<link rel="apple-touch-icon" href="/index.php/apps/theming/icon?v=14">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+		<link rel="manifest" href="/index.php/apps/theming/manifest?v=14">
+		<link rel="stylesheet" href="/apps/apporder/css/apporder.css?v=35ff2a10-14">
+<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=4fda350b-14">
+<link rel="stylesheet" href="/core/css/guest.css?v=e05587e3-14">
+		<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/js/dist/main.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/index.php/js/core/merged-template-prepend.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/search/js/search.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/js/backgroundjobs.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/encryption/js/encryption.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/files_sharing/js/dist/main.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/apporder/js/apporder.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/files_videoplayer/js/main.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/apps/rainloop/js/rainloop.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/search/js/searchprovider.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/js/files/fileinfo.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/js/files/client.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=" defer src="/core/js/dist/login.js?v=e05587e3-14"></script>
+<script nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0=">
+var _oc_debug=false;
+var _oc_isadmin=false;
+var backendAllowsPasswordConfirmation=true;
+var oc_dataURL=false;
+var _oc_webroot="";
+var _oc_appswebroots={"accessibility":"/apps/accessibility","activity":"/apps/activity","activitylog":"/apps/activitylog","apporder":"/apps/apporder","bruteforcesettings":"/apps/bruteforcesettings","calendar":"/apps/calendar","cloud_federation_api":"/apps/cloud_federation_api","comments":"/apps/comments","contacts":"/apps/contacts","contactsinteraction":"/apps/contactsinteraction","cookbook":"/apps/cookbook","cospend":"/apps/cospend","dav":"/apps/dav","deck":"/apps/deck","duplicatefinder":"/apps/duplicatefinder","encryption":"/apps/encryption","event_update_notification":"/apps/event_update_notification","external":"/apps/external","federatedfilesharing":"/apps/federatedfilesharing","federation":"/apps/federation","files":"/apps/files","files_antivirus":"/apps/files_antivirus","files_markdown":"/apps/files_markdown","files_mindmap":"/apps/files_mindmap","files_pdfviewer":"/apps/files_pdfviewer","files_rightclick":"/apps/files_rightclick","files_sharing":"/apps/files_sharing","files_trashbin":"/apps/files_trashbin","files_versions":"/apps/files_versions","files_videoplayer":"/apps/files_videoplayer","firstrunwizard":"/apps/firstrunwizard","forms":"/apps/forms","gpgmailer":"/apps/gpgmailer","groupfolders":"/apps/groupfolders","hsts":"/apps/hsts","keeweb":"/apps/keeweb","limit_login_to_ip":"/apps/limit_login_to_ip","listman":"/apps/listman","logreader":"/apps/logreader","lookup_server_connector":"/apps/lookup_server_connector","mail":"/apps/mail","maps":"/apps/maps","metadata":"/apps/metadata","nextcloud_announcements":"/apps/nextcloud_announcements","notes":"/apps/notes","notifications":"/apps/notifications","oauth2":"/apps/oauth2","password_policy":"/apps/password_policy","phonetrack":"/apps/phonetrack","photos":"/apps/photos","printer":"/apps/printer","privacy":"/apps/privacy","provisioning_api":"/apps/provisioning_api","rainloop":"/apps/rainloop","ransomware_protection":"/apps/ransomware_protection","recommendations":"/apps/recommendations","serverinfo":"/apps/serverinfo","settings":"/apps/settings","sharebymail":"/apps/sharebymail","social":"/apps/social","socialsharing_email":"/apps/socialsharing_email","support":"/apps/support","survey_client":"/apps/survey_client","suspicious_login":"/apps/suspicious_login","systemtags":"/apps/systemtags","tasks":"/apps/tasks","text":"/apps/text","theming":"/apps/theming","timemanager":"/apps/timemanager","timetracker":"/apps/timetracker","twofactor_admin":"/apps/twofactor_admin","twofactor_backupcodes":"/apps/twofactor_backupcodes","twofactor_email":"/apps/twofactor_email","twofactor_gateway":"/apps/twofactor_gateway","twofactor_nextcloud_notification":"/apps/twofactor_nextcloud_notification","twofactor_totp":"/apps/twofactor_totp","unsplash":"/apps/unsplash","updatenotification":"/apps/updatenotification","user_external":"/apps/user_external","video_converter":"/apps/video_converter","viewer":"/apps/viewer","w2g2":"/apps/w2g2","weather":"/apps/weather","workflow_ocr":"/apps/workflow_ocr","workflowengine":"/apps/workflowengine"};
+var datepickerFormatDate="M\/d\/yy";
+var nc_lastLogin=0;
+var nc_pageLoad=1668005848;
+var dayNames=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+var dayNamesShort=["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat."];
+var dayNamesMin=["Su","Mo","Tu","We","Th","Fr","Sa"];
+var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var monthNamesShort=["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+var firstDay=0;
+var _oc_config={"session_lifetime":1440,"session_keepalive":true,"auto_logout":false,"version":"19.0.13.1","versionstring":"19.0.13","enable_avatars":true,"lost_password_link":null,"modRewriteWorking":false,"sharing.maxAutocompleteResults":0,"sharing.minSearchStringLength":0,"blacklist_files_regex":"\\.(part|filepart)$"};
+var oc_appconfig={"core":{"defaultExpireDateEnabled":false,"defaultExpireDate":null,"defaultExpireDateEnforced":null,"enforcePasswordForPublicLink":false,"enableLinkPasswordByDefault":false,"sharingDisabledForUser":false,"resharingAllowed":true,"remoteShareAllowed":true,"federatedCloudShareDoc":"https:\/\/docs.nextcloud.com\/server\/19\/go.php?to=user-sharing-federated","allowGroupSharing":true,"defaultInternalExpireDateEnabled":false,"defaultInternalExpireDate":null,"defaultInternalExpireDateEnforced":null,"public_webfinger":"social\/lib\/webfinger.php"},"files":{"max_chunk_size":10485760},"comments":{"maxAutoCompleteResults":10},"shareByMailEnabled":true,"shareByMail":{"enforcePasswordProtection":true}};
+var _theme={"entity":"Nefesh Cloud","name":"Nefesh Cloud","title":"Nefesh Cloud","baseUrl":"https:\/\/nefeshinternational.com\/","syncClientUrl":"https:\/\/nextcloud.com\/install\/#install-clients","docBaseUrl":"https:\/\/docs.nextcloud.com","docPlaceholderUrl":"https:\/\/docs.nextcloud.com\/server\/19\/go.php?to=PLACEHOLDER","slogan":"a safe home for all your data","logoClaim":"","shortFooter":"<a href=\"https:\/\/nefeshinternational.com\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Nefesh Cloud<\/a> \u2013 a safe home for all your data","longFooter":"<a href=\"https:\/\/nefeshinternational.com\/\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"entity-name\">Nefesh Cloud<\/a> \u2013 a safe home for all your data","folder":""};
+var _oc_capabilities={"core":{"pollinterval":60,"webdav-root":"remote.php\/webdav"},"bruteforce":{"delay":0},"password_policy":{"minLength":8,"enforceNonCommonPassword":true,"enforceNumericCharacters":false,"enforceSpecialCharacters":false,"enforceUpperLowerCase":true,"api":{"generate":"https:\/\/cloud.nefeshinternational.com\/ocs\/v2.php\/apps\/password_policy\/api\/v1\/generate","validate":"https:\/\/cloud.nefeshinternational.com\/ocs\/v2.php\/apps\/password_policy\/api\/v1\/validate"}},"files":{"bigfilechunking":true,"blacklisted_files":[".htaccess"],"directEditing":{"url":"https:\/\/cloud.nefeshinternational.com\/ocs\/v2.php\/apps\/files\/api\/v1\/directEditing","etag":"6226ba873373f5e73a3ef504107523f7"},"versioning":true,"undelete":true},"activity":{"apiv2":["filters","filters-api","previews","rich-strings"]},"ocm":{"enabled":true,"apiVersion":"1.0-proposal1","endPoint":"https:\/\/cloud.nefeshinternational.com\/index.php\/ocm","resourceTypes":[{"name":"file","shareTypes":["user","group"],"protocols":{"webdav":"\/public.php\/webdav\/"}}]},"dav":{"chunking":"1.0"},"files_sharing":{"api_enabled":true,"public":{"enabled":true,"password":{"enforced":false,"askForOptionalPassword":false},"expire_date":{"enabled":false},"multiple_links":true,"expire_date_internal":{"enabled":false},"send_mail":false,"upload":true,"upload_files_drop":true},"resharing":true,"user":{"send_mail":false,"expire_date":{"enabled":true}},"group_sharing":true,"group":{"enabled":true,"expire_date":{"enabled":true}},"default_permissions":7,"federation":{"outgoing":true,"incoming":true,"expire_date":{"enabled":true}},"sharee":{"query_lookup_default":false},"sharebymail":{"enabled":true,"upload_files_drop":{"enabled":true},"password":{"enabled":true},"expire_date":{"enabled":true}}},"deck":{"version":"1.2.11","canCreateBoards":true},"notifications":{"ocs-endpoints":["list","get","delete","delete-all","icons","rich-strings","action-web"],"push":["devices","object-data","delete"],"admin-notifications":["ocs","cli"]},"theming":{"name":"Nefesh Cloud","url":"https:\/\/nefeshinternational.com\/","slogan":"a safe home for all your data","color":"#0082c9","color-text":"#ffffff","color-element":"#0082c9","color-element-bright":"#0082c9","color-element-dark":"#0082c9","logo":"https:\/\/cloud.nefeshinternational.com\/index.php\/apps\/theming\/image\/logo?useSvg=1&v=14","background":"#0082c9","background-plain":true,"background-default":true,"logoheader":"https:\/\/cloud.nefeshinternational.com\/index.php\/apps\/theming\/image\/logo?useSvg=1&v=14","favicon":"https:\/\/cloud.nefeshinternational.com\/index.php\/apps\/theming\/image\/logo?useSvg=1&v=14"},"external":{"v1":["sites","device","groups","redirect"]},"notes":{"api_version":["0.2","1.1"],"version":"3.6.4"}};
+
+</script>
+		<link rel="stylesheet" href="/index.php/apps/theming/styles?v=14"/><script defer src="/index.php/apps/theming/js/theming?v=14" nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0="></script><script defer src="/index.php/apps/accessibility/js/accessibility?v=0" nonce="QWRBVnBZM0grK1dnSEFDbFhGWVE5KzRmaThETCtwT0RpazVlVWhJZ1lQZz06VWI5V3lObUN3NExyZTFyd2JuMWNsSlJHeUlpK3ZlWDMyeHc1T1VGc0Rzbz0="></script><meta property="og:title" content="Nefesh Cloud"/><meta property="og:description" content="a safe home for all your data"/><meta property="og:site_name" content="Nefesh Cloud"/><meta property="og:url" content="https://cloud.nefeshinternational.com/"/><meta property="og:type" content="website"/><meta property="og:image" content="https://cloud.nefeshinternational.com/index.php/apps/theming/icon?v=14"/>	</head>
+	<body id="body-login">
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+					<input type="hidden" id="initial-state-core-loginUsername" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginAutocomplete" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-loginThrottleDelay" value="MA==">
+					<input type="hidden" id="initial-state-core-loginResetPasswordLink" value="IiI=">
+					<input type="hidden" id="initial-state-core-loginCanResetPassword" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-webauthn-available" value="dHJ1ZQ==">
+					<input type="hidden" id="initial-state-core-config" value="eyJzZXNzaW9uX2xpZmV0aW1lIjoxNDQwLCJzZXNzaW9uX2tlZXBhbGl2ZSI6dHJ1ZSwiYXV0b19sb2dvdXQiOmZhbHNlLCJ2ZXJzaW9uIjoiMTkuMC4xMy4xIiwidmVyc2lvbnN0cmluZyI6IjE5LjAuMTMiLCJlbmFibGVfYXZhdGFycyI6dHJ1ZSwibG9zdF9wYXNzd29yZF9saW5rIjpudWxsLCJtb2RSZXdyaXRlV29ya2luZyI6ZmFsc2UsInNoYXJpbmcubWF4QXV0b2NvbXBsZXRlUmVzdWx0cyI6MCwic2hhcmluZy5taW5TZWFyY2hTdHJpbmdMZW5ndGgiOjAsImJsYWNrbGlzdF9maWxlc19yZWdleCI6IlxcLihwYXJ0fGZpbGVwYXJ0KSQifQ==">
+				<div class="wrapper">
+			<div class="v-align">
+									<header role="banner">
+						<div id="header">
+							<div class="logo">
+								<h1 class="hidden-visually">
+									Nefesh Cloud								</h1>
+																	<img src="/index.php/apps/theming/image/logo?useSvg=1&amp;v=14"/>
+															</div>
+						</div>
+					</header>
+								<main>
+					
+<div id="login"></div>
+
+				</main>
+			</div>
+		</div>
+		<footer role="contentinfo">
+			<p class="info">
+				<a href="https://nefeshinternational.com/" target="_blank" rel="noreferrer noopener" class="entity-name">Nefesh Cloud</a> – a safe home for all your data			</p>
+		</footer>
+	</body>
+</html>

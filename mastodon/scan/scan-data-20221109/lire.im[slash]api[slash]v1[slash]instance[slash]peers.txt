@@ -1,0 +1,15 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Content-Length: 171
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:06 GMT
+Location: https://re.lire.im/api/v1/instance/peers
+Server: nginx/1.18.0
+
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body>
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>

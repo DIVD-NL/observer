@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://m.danq.me; img-src 'self' https: data: blob: https://m.danq.me; style-src 'self' https://m.danq.me 'nonce-0Ds029s0eWmROVAu+Wqizw=='; media-src 'self' https: data: https://m.danq.me; frame-src 'self' https:; manifest-src 'self' https://m.danq.me; connect-src 'self' data: blob: https://m.danq.me https://m.danq.me wss://m.danq.me; script-src 'self' https://m.danq.me; child-src 'self' blob: https://m.danq.me; worker-src 'self' blob: https://m.danq.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:14 GMT
+Etag: W/"4a00236bfe8a50d199f9b25546f65813"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:10:00.127547Z
+X-Request-Id: 4ed5d6c3-e624-43b0-ac86-55c575aa3c60
+X-Runtime: 0.009277
+X-Xss-Protection: 0
+
+73c
+["lor.sh","lethargic.talkative.fish","mastodon.ie","retr0.id","eigenmagic.net","peoplemaking.games","wandering.shop","chaos.social","friendica.mnementh.co.uk","mastodon.scot","librem.one","tdd.social","ruby.social","infosec.exchange","social.deadsuperhero.com","mastodon.social","aus.social","social.wxcafe.net","mindly.social","a2mi.social","mastodon.world","mastodon.green","med-mastodon.com","treehouse.systems","social.cologne","berlin.social","vulpine.club","md.epiphyte.ie","noc.social","idlethumbs.social","mastodon.online","xoxo.zone","ak.kawen.space","mastodon.ar.al","mstdn.social","pagan.plus","fuckmu.sk","mastodon.nu","icosahedron.website","bv.umbrellix.org","c.im","fosstodon.org","c18.masto.host","bbq.snoot.com","simonwillison.net","mastodon.dias.ie","vis.social","cybre.space","mythago.space","elekk.xyz","mementomori.social","toot.coupou.fr","troet.cafe","inphotos.org","tabletop.social","sua.anarkis.net","odd.blog","polyglot.city","sleeping.town","eeeeeeeee.eu","notiz.blog","social.coop","sfba.social","journa.host","pdx.social","dan.mastohon.com","kanoa.de","hackers.town","ravenation.club","micro.blog","dragonscave.space","mastodon.technology","firmware.network","cloudisland.nz","f.kretschmann.social","mastodon.neilzone.co.uk","bookofadamz.com","mastodon.top","mastodon.art","social.linux.pizza","mastodonapp.uk","wasatchfront.social","ioc.exchange","mastodon.xyz","masthead.social","mathstodon.xyz","pleroma.neuromante.net","indieweb.social","weirder.earth","friendica.ironbug.org","indiepocalypse.social","nerdculture.de","sueden.social","scicomm.xyz","a.gup.pe","socialwagrien.de","mastodon.cloud","friend.camp","toot.community","social.spacebear.ee","writing.exchange","queer.af","octodon.social","toot.cat","mastodon.gamedev.place","social.tchncs.de","toot.party","mstdn.science","eldritch.cafe","markwaters.eu","mas.to"]
+0
+

@@ -1,0 +1,9 @@
+HTTP/1.1 501 Not Implemented
+Connection: close
+Content-Length: 104
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:17 GMT
+Server: Apache/2.4.25 (Debian)
+X-Account-Management-Status: none
+
+{"status":{"error":"Not Implemented","code":"501 Not Implemented","request":"api\/v1\/instance\/peers"}}

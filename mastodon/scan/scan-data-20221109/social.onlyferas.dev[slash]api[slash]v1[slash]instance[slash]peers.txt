@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=0, must-revalidate
+Connection: keep-alive
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:14 GMT
+Fly-Request-Id: 01GHEFJMJC93DFV6RM7EJGZE9E-cdg
+Keep-Alive: timeout=5
+Server: Fly/1e36ee1df (2022-11-09)
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+Via: 1.1 fly.io
+
+145
+["social.publicspaces.net","social.network.europa.eu","layer8.space","chaos.social","floss.social","todon.nl","social.weho.st","mastodon.online","mastodon.xyz","social.gitea.io","social.linux.pizza","social.exozy.me","mastodon.social","framapiaf.org","mas.to","infosec.exchange","sleepycrew.social","glitch.social","toot.si"]
+0
+

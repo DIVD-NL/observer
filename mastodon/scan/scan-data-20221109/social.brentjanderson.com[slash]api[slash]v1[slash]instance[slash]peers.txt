@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767784b20e55b9a7-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.brentjanderson.com wss://social.brentjanderson.com;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:59 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=M6T57jWOwvwzW8A8Sx3kdlOIBN7%2FkmPHOFw3Gm2OAsNOohorQrDH6vI3XkuIlCdhziloGDVe3n%2FwxErpLYX%2B%2FguUrpXdPM6J19Pys2FxUc4frV4j2%2B%2Bv9GH9yxjoRVWuyzQhjjssEcszkDHe"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzmdJb2pRj4FQAAjjR
+X-Served-By: social.brentjanderson.com
+X-Xss-Protection: 1; mode=block
+
+c06
+["octodon.social","cybre.space","toots.meetwoof.com","mastodon.green","mastodontti.fi","indiepocalypse.social","mastodon.cloud","toot.community","m.cmx.im","mstdn.party","fe.disroot.org","queer.hacktivis.me","bantha.tatooine.space","glasgow.social","mastodon.nl","social.cologne","fedi.astrid.tech","linuxrocks.online","depixelated.com","bildung.social","mastodon.social","bikeshed.party","friendica.jb-net.us","mindly.social","fediverse.one","makervine.net","mamot.fr","climatejustice.global","decept.org","mastodon.neat.computer","wikis.world","sudo.cat","kosmos.social","weirder.earth","mastodon.la","neurodifferent.me","crocosmia.ca","todon.nl","social.lol","writing.exchange","beach.city","social.tchncs.de","journa.host","mastodon.nu","noc.social","mas.to","prsm.space","velocipederider.com","pleroma.1d4.us","mastodon.me.uk","masto.ai","mastodon.eus","ajin.la","tilvids.com","graz.social","lor.sh","sociale.network","climatejustice.social","a2mi.social","mastodon.ie","mastodon.uno","connect.takebackourtech.org","social.anji.nl","mastodon.scot","berserker.town","famichiki.jp","mastodon.online","mastodon.lertsenem.com","mastodon.mim-libre.fr","mstdn.io","social.coop","spacey.space","sunbeam.city","home.social","mstdn.ai","plush.city","uncorking.me","social.librem.one","aus.social","bigshoulders.city","mastodonapp.uk","merveilles.town","kitty.town","floss.social","mstdn.jp","mastodon.sdf.org","xoxo.zone","masthead.social","hostux.social","mastodon.nzoss.nz","metalhead.club","tabletop.social","bne.social","mastodon.lol","rollenspiel.social","c.im","jbstans.social","eeeeeeeee.eu","mastodon.art","chaos.social","manyworlds.fit","boing.world","mastodon.top","ioc.exchange","xantronix.social","plnetwork.xyz","northeast.one","sfba.social","commiespace.duckdns.org","mastodon.nz","infosec.exchange","lonely.town","rubber.social","toot.cat","layer8.space","the.goofs.space","ieji.de","tech.lgbt","helvede.net","rogersfam.co","dragonscave.space","tilde.zone","conf.tube","mastodon-belgium.be","nrw.social","conesphere.social","indieweb.social","icosahedron.website","mastodon.indie.host","mastodon.world","mstdn.fr","fandom.ink","mementomori.social","techhub.social","misskey.ai","toot.thoughtworks.com","mstdn.ca","mastodon.bida.im","waferbaby.com","social.michaelbrooks.co.uk","social.esmailelbob.xyz","sonomu.club","heylisten.social","peoplemaking.games","framapiaf.org","jorts.horse","mastodon.coffee","mastodon.technology","tooting.ch","androiddev.social","eldritch.cafe","phpc.social","todon.eu","universeodon.com","mastodon.xyz","hackers.town","troet.cafe","godforsaken.website","lgbt.io","mastodon.gamedev.place","mstdn.social","norden.social","nonexiste.net","swiss-talk.net","botsin.space","glammr.us","akko.disqordia.space","fosstodon.org","nerdculture.de","estrogen.network","post.lurk.org","qoto.org","social.anoxinon.de","hachyderm.io","social.linux.pizza","social.deadsuperhero.com","freeradical.zone","pfalz.social","hessen.social","loci.onl","moa.st","mastouille.fr","wandering.shop","port87.social","mastodon.org.uk","kolektiva.social","sunny.garden"]
+0
+

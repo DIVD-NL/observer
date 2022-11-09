@@ -1,0 +1,10 @@
+HTTP/1.1 502 Bad Gateway
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Date: Wed, 09 Nov 2022 15:17:00 GMT
+Permissions-Policy: interest-cohort=()
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Caddy
+Content-Length: 0
+

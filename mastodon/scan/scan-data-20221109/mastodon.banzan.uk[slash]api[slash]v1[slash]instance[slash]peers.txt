@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.banzan.uk; img-src 'self' https: data: blob: https://mastodon.banzan.uk; style-src 'self' https://mastodon.banzan.uk 'nonce-kS7EeSSeYlXmVhKYirBXVA=='; media-src 'self' https: data: https://mastodon.banzan.uk; frame-src 'self' https:; manifest-src 'self' https://mastodon.banzan.uk; connect-src 'self' data: blob: https://mastodon.banzan.uk https://mastodon.banzan.uk wss://mastodon.banzan.uk; script-src 'self' https://mastodon.banzan.uk; child-src 'self' blob: https://mastodon.banzan.uk; worker-src 'self' blob: https://mastodon.banzan.uk
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:10:57 GMT
+Etag: W/"4d099a7c574c6b7446167e2b38628950"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.763862Z
+X-Request-Id: 23491e1d-6030-4fa8-9f9b-85a2fce920c8
+X-Runtime: 0.012374
+X-Xss-Protection: 0
+
+221
+["sarcasm.stream","earfolds.com","mastodon.matrix.org","social.tchncs.de","suedi.club","libertynode.net","lakedistrict.social","qoto.org","mastodon.world","xn--baw-joa.social","vmst.io","mastodon.green","toot.community","scicomm.xyz","queer.party","bitbang.social","fosstodon.org","sfba.social","mastodon.online","mastodon.social","freespeechextremist.com","mk.chocoflan.net","poa.st","cybercrusade.xyz","chudbuds.lol","mstdn.starnix.network","social.coop","mastodon.scot","mas.to","mastodon.ie","mastodonapp.uk","mstdn.social","mastodon.me.uk"]
+0
+

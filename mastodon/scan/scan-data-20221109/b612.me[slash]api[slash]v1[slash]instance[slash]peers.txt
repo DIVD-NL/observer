@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://b612.me; img-src 'self' https: data: blob: https://b612.me; style-src 'self' https://b612.me 'nonce-1+2+l/0c0XIpP2yQeDyaDQ=='; media-src 'self' https: data: https://b612.me; frame-src 'self' https:; manifest-src 'self' https://b612.me; connect-src 'self' data: blob: https://b612.me https://media.b612.icu wss://b612.icu; script-src 'self' https://b612.me 'unsafe-eval'; child-src 'self' blob: https://b612.me; worker-src 'self' blob: https://b612.me
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:05 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.760055Z
+X-Request-Id: 234557f4-66e1-41ea-afb3-91510b5cec81
+X-Runtime: 0.005007
+X-Xss-Protection: 0
+
+0
+

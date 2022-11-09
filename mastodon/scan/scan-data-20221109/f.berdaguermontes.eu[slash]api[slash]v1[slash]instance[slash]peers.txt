@@ -1,0 +1,10 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 20
+Content-Type: application/octet-stream
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Server: nginx
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+
+This service is gone

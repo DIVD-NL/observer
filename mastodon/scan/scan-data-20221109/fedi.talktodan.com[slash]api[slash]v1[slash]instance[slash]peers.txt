@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://fedi.talktodan.com; img-src 'self' https: data: blob: https://fedi.talktodan.com; style-src 'self' https://fedi.talktodan.com 'nonce-U8lgecgZrJQ9T9V2W0r2pQ=='; media-src 'self' https: data: https://fedi.talktodan.com; frame-src 'self' https:; manifest-src 'self' https://fedi.talktodan.com; connect-src 'self' data: blob: https://fedi.talktodan.com https://fedi.talktodan.com wss://fedi.talktodan.com; script-src 'self' https://fedi.talktodan.com; child-src 'self' blob: https://fedi.talktodan.com; worker-src 'self' blob: https://fedi.talktodan.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:00 GMT
+Etag: W/"f68b9fe3d97c93625079f231536b9914"
+Permissions-Policy: interest-cohort=()
+Server: Caddy
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.598008Z
+X-Request-Id: efc24c22-0ba1-40ce-a951-70b6374fe9ce
+X-Runtime: 0.024525
+X-Xss-Protection: 0
+
+47e
+["hachyderm.io","mastodon.nz","aeracode.org","aus.social","mastodon.online","oc.todon.fr","urbanists.social","mastodon.social","eupolicy.social","sfba.social","mastodon.me.uk","mindly.social","toot.cafe","toot.thedoodleproject.net","layer8.space","mstdn.social","social.lansky.name","tech.lgbt","simonwillison.net","loci.onl","jacobian.org","mastodon.sdf.org","livellosegreto.it","poliverso.org","feddit.it","monogram.org","mastodon.green","mastodon.nzoss.nz","a.gup.pe","mastodon.art","matthewedavis.online","botsin.space","econtwitter.net","chinwag.org","northeast.one","bonn.social","arlington.social","vmst.io","hackers.town","canada.masto.host","linuxrocks.online","noc.social","mstdn.jp","spook.social","oslo.town","mastodon.world","infosec.exchange","masto.ai","tailswish.industries","troet.cafe","writing.exchange","social.coop","mastodon.xyz","social.network.europa.eu","social.weho.st","chaos.social","mamot.fr","pouet.chapril.org","prf.me","mastodon.lol","mastodon.cloud","qoto.org","social.tchncs.de","journa.host","mas.to","mastodon.coffee","scicomm.xyz","awscommunity.social","toot.community","xarxa.cloud","vis.social","fosstodon.org"]
+0
+

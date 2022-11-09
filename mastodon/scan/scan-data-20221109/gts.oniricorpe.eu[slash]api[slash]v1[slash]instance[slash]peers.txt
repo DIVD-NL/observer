@@ -1,0 +1,74 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:05:43 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 989
+X-Ratelimit-Reset: 1668006542
+X-Sso-Wat: You've just been SSOed
+X-Xss-Protection: 1; mode=block
+
+50b
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/assets/logo.png" type="image/png">
+	<link rel="stylesheet" href="/assets/dist/_colors.css">
+	<link rel="stylesheet" href="/assets/dist/base.css">
+	<title>Émy&#39;s Cyberspace - GoToSocial</title>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<a aria-label="instance homepage" href="/" class="nounderline header">
+				<img src="/assets/logo.png" alt="Instance Logo"/>
+				<div>
+					<h1>
+						Émy&#39;s Cyberspace
+					</h1>
+				</div>
+			</a>
+		</header>
+		<div class="content">
+
+    <main>
+        <section class="error">
+          <span>❌</span> <pre>Unauthorized: peers open query requires an authenticated account/user</pre>
+        </section>
+    </main>
+		
+		</div>
+		<footer>
+			<div id="version">
+				<a name="Source code" href="https://github.com/superseriousbusiness/gotosocial">
+					GoToSocial <span class="accent">0.5.2 git-c31f219</span>
+				</a>
+			</div>
+			 
+				<div id="contact">
+					Contact: <a href="https://gts.oniricorpe.eu/@oniricorpe" class="nounderline">oniricorpe</a><br>
+				</div>
+			
+			
+		</footer>
+	</div>
+	
+</body>
+</html>
+0
+

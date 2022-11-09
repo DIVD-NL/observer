@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.whoart.art; img-src 'self' https: data: blob: https://social.whoart.art; style-src 'self' https://social.whoart.art 'nonce-QGFjh6sRyaC/G3JmOdXviQ=='; media-src 'self' https: data: https://social.whoart.art; frame-src 'self' https:; manifest-src 'self' https://social.whoart.art; connect-src 'self' data: blob: https://social.whoart.art https://minio.stor.i234.me wss://social.whoart.art; script-src 'self' https://social.whoart.art; child-src 'self' blob: https://social.whoart.art; worker-src 'self' blob: https://social.whoart.art
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:19:56 GMT
+Permissions-Policy: interest-cohort=()
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.950525Z
+X-Request-Id: 7d883e83-ce12-46a7-a154-d0c2c8f0f445
+X-Runtime: 0.006683
+
+0
+

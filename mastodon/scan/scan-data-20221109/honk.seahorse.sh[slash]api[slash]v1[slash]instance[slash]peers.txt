@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 165
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:09:16 GMT
+Location: https://seahorse.sh/api/v1/instance/peers
+Server: seahorse
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>seahorse</center>
+</body>
+</html>

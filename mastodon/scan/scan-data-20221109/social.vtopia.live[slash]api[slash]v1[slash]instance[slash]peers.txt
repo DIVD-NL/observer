@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 418
+Cache-Control: private, max-age=0, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:57 GMT
+Server: nginx/1.20.1
+Strict-Transport-Security: max-age=15552000; preload
+Vary: Origin
+X-Cache: MISS
+
+["nerdculture.de","birb.space","eldritch.cafe","solarpunk.moe","mk.absturztau.be","misskey.io","relay.vtopia.live","chitter.xyz","is.nota.live","mastodon.ml","vt.social","vtuber.house","watch.kawen.site","social.vtopia.live","vibewave.space","beach.city","ihatebeinga.live","chaos.social","ak.kawen.space","dice.camp","fed.nanao.moe","raru.re","akko.disqordia.space","mastodon.gamedev.place","brotka.st","v2br.social"]

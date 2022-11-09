@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677672a9ff6b9ad-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:49 GMT
+Location: https://den.yt/
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WZPsfi2xVFuC0XlkbxbJbMG5WrJ3U4NYgxUPU6%2FmL2KOYadgWxIYIzFXv52X0X%2FpgvpM%2BdnulgtIjnezdK44OEgxwHNOrSlRTrOW%2FaMHbrWOXdVMYoq%2FZLTn1A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+9b
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

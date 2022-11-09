@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76776713f976d490-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:45 GMT
+Server: cloudflare
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cloud-Trace-Context: ba3b7e3d19e3beeaaf8bfa3858868a36
+X-Content-Type-Options: nosniff
+
+12a
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>404 Not Found</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Not Found</h1>
+<h2>The requested URL <code>/api/v1/instance/peers</code> was not found on this server.</h2>
+<h2></h2>
+</body></html>
+
+0
+

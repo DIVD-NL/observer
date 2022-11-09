@@ -1,0 +1,52 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; form-action 'self'; base-uri 'self'; frame-ancestors wolke.gruener.xyz
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 15:19:51 GMT
+Server: nginx/1.18.0
+X-Content-Type-Options: nosniff
+X-Frame-Options: ALLOW-FROM wolke.gruener.xyz
+X-Xss-Protection: 1; mode=block
+
+439
+<!DOCTYPE html>
+<!-- Request ID: da621c10 -->
+<html>
+  <head>
+    <title>Page not found</title>
+    <style>
+      a img { border: 0 }
+      body { background-color: #caecf6 }
+      #noraptor {
+        left: 0%;
+        position: fixed;
+        top: 60%;
+      }
+      #notfound {
+        background: url(/mojo/notfound.png);
+        height: 62px;
+        left: 50%;
+        margin-left: -153px;
+        margin-top: -31px;
+        position:absolute;
+        top: 50%;
+        width: 306px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="https://social.tikki.cloud">
+      <img alt="Bye!" id="noraptor" src="/mojo/noraptor.png">
+</a>    <div id="notfound"></div>
+  </body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+0
+

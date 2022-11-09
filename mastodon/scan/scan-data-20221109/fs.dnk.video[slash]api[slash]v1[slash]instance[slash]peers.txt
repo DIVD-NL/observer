@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: DELETE,GET,PATCH,POST,PUT,OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:58:32 GMT
+Server: nginx
+Strict-Transport-Security: max-age=15768000
+Vary: Accept-Encoding
+X-Account-Management-Status: none
+X-Powered-By: PHP/8.0.15
+X-Response-Type: json
+
+25
+["tippetarius.ru","steampunk.social"]
+0
+

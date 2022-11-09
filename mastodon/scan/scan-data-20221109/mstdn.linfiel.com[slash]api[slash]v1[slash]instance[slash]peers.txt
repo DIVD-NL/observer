@@ -1,0 +1,44 @@
+HTTP/1.1 500 Internal Server Error
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777e490dbdb9c0-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:13:37 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JueyxTyGMvYRziExia9xGbri8kuJKGixnaw8b4HCO2h%2BeqUws3rbcVlrQv8Jpr%2FoIopZvTOv47rHklJ%2Br9D5LW8mQKeZSf3svlEzWruKXjUY%2BVJHwAEbpaDpADasFgzwHdkfUA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Origin
+X-Request-Id: 3a502c0b-64c2-4e47-ad0e-ca71d1645a99
+X-Runtime: 0.004816
+
+34e
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<title>This page is not correct
+ - Mastodon</title>
+<meta content='width=device-width,initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="/packs/css/common-5ba15463.css" />
+<link rel="stylesheet" media="all" href="/packs/css/default-885a8040.chunk.css" />
+<script src="/packs/js/common-e4d9dbb2194370bd8fb5.js" crossorigin="anonymous"></script>
+<script src="/packs/js/error-7596933267cf9f5b9159.chunk.js" crossorigin="anonymous"></script>
+</head>
+<body class='error'>
+<div class='dialog'>
+<div class='dialog__illustration'>
+<img alt='Mastodon' src='/oops.png'>
+</div>
+<div class='dialog__message'>
+<h1>We&#39;re sorry, but something went wrong on our end.
+</h1>
+</div>
+</div>
+</body>
+</html>
+
+0
+

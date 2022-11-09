@@ -1,0 +1,17 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 318
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:19:46 GMT
+Location: https://tepitus.de/apps/mail/api/v1/instance/peers
+Server: Apache/2.4.52 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://tepitus.de/apps/mail/api/v1/instance/peers">here</a>.</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at social.tepitus.de Port 443</address>
+</body></html>

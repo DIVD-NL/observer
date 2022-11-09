@@ -1,0 +1,26 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 203
+Age: 54860
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 00:01:20 GMT
+Etag: "0c0039394107bbbfbb73c56c29c29cde-ssl"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+X-Nf-Request-Id: 01GHEFC41ZJTHVY0WK6P1828HP
+
+<html>
+
+<head>
+  <title>410 Gone</title>
+
+  <head>
+
+  <body>
+    <h3>410 Gone</h3>
+    <hr />
+    <p>Powered by <a href="https://github.com/cyber-gene/netlify-410">netlify-410</a></p>
+  </body>
+
+</html>

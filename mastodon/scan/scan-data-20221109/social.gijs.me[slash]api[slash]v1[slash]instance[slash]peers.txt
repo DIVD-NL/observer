@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=86400, public
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677856f8a54b9a5-BRU
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.gijs.me; img-src 'self' https: data: blob: https://social.gijs.me; style-src 'self' https://social.gijs.me 'nonce-Ke3iwg5EeoQ0pmVAbqqslQ=='; media-src 'self' https: data: https://social.gijs.me; frame-src 'self' https:; manifest-src 'self' https://social.gijs.me; connect-src 'self' data: blob: https://social.gijs.me https://s3.gijs.me wss://social.gijs.me; script-src 'self' https://social.gijs.me; child-src 'self' blob: https://social.gijs.me; worker-src 'self' blob: https://social.gijs.me
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:29 GMT
+Etag: W/"4dff68cd2570b7bb34c08412e4471ab5"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=26pw5lKaNHkvu2J%2F9GDeCvOem%2F74%2BwDDKXOyAww7Emu4cqqzl4DPgnc944IpAwpkdpDYZCtrlKIPijLv%2FxB8%2BmZI6Q0OULmQDlRFF7yySBCNU%2B4LJ%2B0MAB6pd8geLL7k0A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=7.9999990703072e-06
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.138104Z
+X-Request-Id: 8c0fe7f6-8ea8-480c-b686-60a79fc41a00
+X-Runtime: 0.008545
+X-Served-By: social.gijs.me
+X-Xss-Protection: 0
+
+1c8
+["qoto.org","functional.cafe","mas.to","chaos.social","twit.social","spacey.space","sfba.social","mstdn.ca","masthead.social","toot.community","mastodon.online","toot.cafe","xoxo.zone","mastodon.sdf.org","libertynode.net","mstdn.social","postpandemicparty.org","astrodon.social","noagendasocial.com","mastodon.social","depixelated.com","theinternet.social","indieweb.social","sigmoid.social","masto.social","journa.host","mastodon.cloud","fediscience.org"]
+0
+

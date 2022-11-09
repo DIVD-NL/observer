@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767766617978b9bd-BRU
+Content-Language: en-us
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DE2nLiVQwLh0perNinQQlOwVVruItLaOJAvrCyo2qMUtgMfcB2ajD52AFN5DXU1fpeYD3x2ME5h4JNAfZhciRpRyHvaaySRQjFcHhEyY9Ja3nWRbISA0Gy4kkSFcGgL8tVVQUcwvDfA%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=0
+Vary: Accept-Language, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+591
+["tbh.ihatebeinga.live", "ihatebeinga.live", "bookwyrm.social", "books.badwolfbay.games", "bookwyrm.spaceling.sh", "lire.boitam.eu", "udongein.xyz", "functional.cafe", "mastodon.social", "mstdn.social", "baraag.net", "mastodon.online", "fedibird.com", "raru.re", "mastodon.cloud", "koyu.space", "gameliberty.club", "chaos.social", "bookwyrm.cincodenada.com", "bookwyrm.tardis.pw", "mastodon.sdf.org", "reading.taks.garden", "f.freinetz.ch", "libranet.de", "mamot.fr", "shoko.one", "fosstodon.org", "social.linux.pizza", "anonsys.net", "cybre.space", "mastodon.technology", "friendica.utzer.de", "social.trom.tf", "friendica.bachgau.social", "nerdica.net", "botsin.space", "friendica.xyz", "etiketi.de", "ziurkes.group.lt", "wyrms.de", "loma.ml", "mas.to", "books.solarpunk.moe", "social.tchncs.de", "social.softmetz.de", "mastodon.xyz", "weirder.earth", "friendica.hubup.pro", "meow.social", "todon.nl", "lor.sh", "merveilles.town", "mastodon.bida.im", "rollenspiel.group", "x0r.be", "mastodon.nz", "nsfw.wnymathguy.com", "icosahedron.website", "101010.pl", "kirja.casa", "friendica.eskimo.com", "fedi2.0x7f.one", "books.solarpunkanarchism.org", "tech.lgbt", "book.dansmonorage.blue", "books.mennisch.net", "social.agb-web.de", "toot.site", "otp.akkoma.dev", "social.outsourcedmath.com", "books.underscore.world", "bookrastinating.com", "mastodon.scot", "toot.wales", "glitch.social", "mk.toast.cafe", "misskey.biribiri.dev"]
+0
+

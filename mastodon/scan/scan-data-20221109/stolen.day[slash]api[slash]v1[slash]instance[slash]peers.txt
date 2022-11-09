@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767788197ea6b9c0-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:18 GMT
+Location: https://echoes.stolen.day
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TCi0KT5I8b359XAghht8kWkwA7XFyESuM0yL%2B3YfED9K0vze5u4qSDBuuhkW63%2BYrFT0prTYJgbGy92d7jFak3EUA6teUqVMpLaddN6fikO0aZwqdTAJngFbruQg"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+
+a9
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+0
+

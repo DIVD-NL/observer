@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://federate.me.uk; img-src 'self' https: data: blob: https://federate.me.uk; style-src 'self' https://federate.me.uk 'nonce-A4x5/f2u0ssZ51wIF9BOSw=='; media-src 'self' https: data: https://federate.me.uk; frame-src 'self' https:; manifest-src 'self' https://federate.me.uk; connect-src 'self' data: blob: https://federate.me.uk https://federate.me.uk wss://federate.me.uk; script-src 'self' https://federate.me.uk; child-src 'self' blob: https://federate.me.uk; worker-src 'self' blob: https://federate.me.uk
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:51:38 GMT
+Etag: W/"fa18bc00a7638265d55ece92dc3de66e"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T00:40:00.402564Z
+X-Request-Id: b47d3942-a08b-4603-a861-2afdf7c44043
+X-Runtime: 0.012507
+X-Xss-Protection: 0
+
+226
+["tilde.zone","social.qutic.com","toot.me.uk","nanosector.nl","norden.social","cyrix.matto.nl","mamot.fr","chaos.social","ruby.social","mastodon.cloud","framapiaf.org","mstdn.io","hachyderm.io","mastodon.nz","octodon.social","treehouse.systems","mastodon.gougere.fr","mas.to","fosstodon.org","jawns.club","pleroma.1d4.us","bv.umbrellix.org","commiespace.duckdns.org","eeeeeeeee.eu","mastodon.radio","uncorking.me","mastodon.social","bsd.network","social.linux.pizza","social.perkin.org.uk","hostux.social","infosec.exchange","mastodon.gamedev.place"]
+0
+

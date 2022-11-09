@@ -1,0 +1,349 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: default-src *; connect-src  *; font-src 'self'; frame-src https://* http://* *; img-src https://* http://* * data:; object-src 'self'; script-src 'self' https://* http://* * 'unsafe-inline' 'report-sample'; style-src * https://* http://* * 'unsafe-inline';
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:56:58 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Referrer-Policy: no-referrer-when-downgrade
+Server: Apache/2.4.29 (Ubuntu)
+Set-Cookie: PHPSESSID=ttst4nlo9ge1c8pvdg4schjsj1; path=/; SameSite=Lax
+Set-Cookie: _csrf=a62b4a3a323d614d2e45cf67c7aecf3e729bee9b8beec8f4b5c0e209b15752aea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22_MnUAD5Yk8B03jHs8r81-pWbVTJ3nrpQ%22%3B%7D; path=/; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=31536000
+Upgrade: h2
+Vary: Accept-Encoding
+X-Content-Security-Policy: default-src *; connect-src  *; font-src 'self'; frame-src https://* http://* *; img-src https://* http://* * data:; object-src 'self'; script-src 'self' https://* http://* * 'unsafe-inline' 'report-sample'; style-src * https://* http://* * 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Permitted-Cross-Domain-Policies: master-only
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Login - The Path and Panther</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="theme-color" content="#fe142f">
+<meta name="application-name" content="The Path and Panther">
+<meta name="apple-mobile-web-app-title" content="The Path and Panther">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#fe142f">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="wogx3_lxAymFUsGWjsYp01tjtZWX_ri0Xzq1tGEV2aqdxV-KuDU2cO5qg6a9rGGgYxGNpLqO79YJbv-HD2ep-w==">
+
+<link href="/themes/Path_1_4/css/theme.css?v=1655663427" rel="preload" as="style">
+<link href="/static/js/humhub-app.js?v=1653945584" rel="preload" as="script">
+<link href="/static/css/humhub-app.css?v=1653945584" rel="preload" as="style">
+<link href="/uploads/icon/152x152.png?v=1583402710" rel="apple-touch-icon" sizes="152x152">
+<link href="/uploads/icon/180x180.png?v=1583402710" rel="apple-touch-icon" sizes="180x180">
+<link href="/uploads/icon/167x167.png?v=1583402711" rel="apple-touch-icon" sizes="167x167">
+<link href="/uploads/icon/192x192.png?v=1583402711" rel="icon" sizes="192x192">
+<link href="/uploads/icon/96x96.png?v=1583402711" rel="icon" sizes="96x96">
+<link href="/uploads/icon/32x32.png?v=1583402711" rel="icon" sizes="32x32">
+<link href="/manifest.json" rel="manifest">
+<link href="/static/css/humhub-app.css?v=1653945584" rel="stylesheet">
+<link href="/themes/Path_1_4/css/theme.css?v=1655663427" rel="stylesheet">
+<link href="/assets/7aded4f3/cookieconsent.min.css?v=1655663127" rel="stylesheet">
+<style>img { image-orientation: from-image; }</style>
+<script src="/static/js/humhub-app.js?v=1653945584"></script>
+<script src="/static/js/humhub-bundle.js?v=1653945584" defer="defer"></script>
+<script src="/static/js/humhub/legacy/jquery.loader.js?v=1653945584" defer="defer"></script>        <meta charset="UTF-8">
+</head>
+
+<body class="login-container">
+<script>humhub.modules.ui.view.setState("user", "auth", "login");
+humhub.config.set({"user":{"isGuest":true,"locale":"en-US"},"live":{"client":{"type":"humhub.modules.live.poll.PollClient","options":{"url":"\/live\/poll","initTime":1668005818,"minInterval":15,"maxInterval":45,"idleFactor":0.1,"idleInterval":20}},"isActive":false},"client":{"baseUrl":"https:\/\/path.98degrees.co.uk","reloadableScripts":["https:\/\/platform.twitter.com\/widgets.js"],"text":{"warn.onBeforeLoad":"Unsaved changes will be lost. Do you want to proceed?","warn.onBeforeCloseModal":"Unsaved changes will be lost. Do you want to proceed?"}},"file":{"upload":{"url":"\/file\/file\/upload","deleteUrl":"\/file\/file\/delete"},"url":{"download":"https:\/\/98degrees.co.uk\/file\/file\/download?download=1&guid=-guid-","load":"https:\/\/98degrees.co.uk\/file\/file\/download?guid=-guid-"},"text":{"error.upload":"Some files could not be uploaded:","error.unknown":"An unknown error occurred while uploading.","success.delete":"The file has been deleted."}},"action":{"text":{"actionHandlerNotFound":"An error occurred while handling your last action. (Handler not found)."}},"topic":{"icon":"<i class=\"fa fa-star\"><\/i>"},"ui.modal":{"defaultConfirmHeader":"<strong>Confirm<\/strong> Action","defaultConfirmBody":"Do you really want to perform this action?","defaultConfirmText":"Confirm","defaultCancelText":"Cancel"},"ui.widget":{"text":{"error.unknown":"No error information given.","info.title":"Info:","error.title":"Error:"}},"ui.view":{"useDefaultSwipe":false},"ui.richtext":{"emoji.url":"\/static\/img\/emoji\/","text":{"info.minInput":"Please type at least 3 characters","info.loading":"Loading..."}},"ui.richtext.prosemirror":{"emoji":{"twemoji":{"base":"\/static\/img\/twemoji\/","size":"72x72"}},"oembed":{"max":5},"mention":{"minInput":0,"minInputText":"Please type at least 2 characters"},"text":{"Wrap in block quote":"Wrap in block quote","Wrap in bullet list":"Wrap in bullet list","Toggle code font":"Toggle code font","Change to code block":"Change to code block","Code":"Code","Toggle emphasis":"Toggle emphasis","Change to heading":"Change to heading","Insert horizontal rule":"Insert horizontal rule","Horizontal rule":"Horizontal rule","Insert image":"Insert image","Image":"Image","Location":"Location","Title":"Title","Width":"Width","Height":"Height","Add or remove link":"Add or remove link","Create a link":"Create a link","Link target":"Link target","Wrap in ordered list":"Wrap in ordered list","Change to paragraph":"Change to paragraph","Paragraph":"Paragraph","Toggle strikethrough":"Toggle strikethrough","Toggle strong style":"Toggle strong style","Create table":"Create table","Delete table":"Delete table","Insert table":"Insert table","Rows":"Rows","Columns":"Columns","Insert column before":"Insert column before","Insert column after":"Insert column after","Delete column":"Delete column","Insert row before":"Insert row before","Insert row after":"Insert row after","Delete row":"Delete row","Upload and include a File":"Upload and include a File","Upload File":"Upload File","Insert":"Insert","Type":"Type","people":"People","animals_and_nature":"Animals & Nature","food_and_drink":"Food & Drink","activity":"Activity","travel_and_places":"Travel & Places","objects":"Objects","symbols":"Symbols","flags":"Flags","Heading":"Heading"}},"oembed":{"loadUrl":"\/oembed","displayUrl":"\/oembed\/display"},"0":"ui.markdown","1":{"text":{"Bold":"Bold","Italic":"Italic","Heading":"Heading","URL\/Link":"URL\/Link","Image\/File":"Image\/File","Image":"Image","List":"List","Preview":"Preview","strong text":"strong text","emphasized text":"emphasized text","heading text":"heading text","enter link description here":"enter link description here","Insert Hyperlink":"Insert Hyperlink","enter image description here":"enter image description here","Insert Image Hyperlink":"Insert Image Hyperlink","enter image title here":"enter image title here","list text here":"list text here","Quote":"Quote","quote here":"quote here","Code":"Code","code text here":"code text here","Unordered List":"Unordered List","Ordered List":"Ordered List"}},"log":{"traceLevel":"INFO","text":{"error.default":"An unexpected error occurred. If this keeps happening, please contact a site administrator.","success.saved":"Saved","saved":"Saved","success.edit":"Saved","0":"An unexpected error occurred. If this keeps happening, please contact a site administrator.","403":"You are not allowed to run this action.","404":"The requested resource could not be found.","405":"Error while running your last action (Invalid request method).","500":"An unexpected server error occurred. If this keeps happening, please contact a site administrator."}},"ui.additions":{"text":{"success.clipboard":"Text has been copied to clipboard","error.clipboard":"Text could not be copied to clipboard"}},"ui.status":{"showMore":false,"text":{"showMore":"Show more","showLess":"Show less"}},"ui.picker":{"addImage":"\/themes\/Path_1_4\/img\/picker_add.png","text":{"error.loadingResult":"An unexpected error occurred while loading the search result.","showMore":"Show more","addOption":"Add:"}},"ui.showMore":{"text":{"readMore":"Read more","readLess":"Collapse"}},"ui.panel":{"text":{"expand":"Expand","collapse":"Collapse"},"icon":{"up":"<i class=\"fa fa-minus-square\" aria-hidden=\"true\"><\/i>","down":"<i class=\"fa fa-plus-square\" aria-hidden=\"true\"><\/i>"}},"content":{"modal":{"permalink":{"head":"<strong>Permalink<\/strong> to this post","info":"Copy to clipboard","buttonOpen":"Open","buttonClose":"Close"},"deleteConfirm":{"header":"<strong>Confirm<\/strong> post deletion","body":"Do you really want to delete this post? All likes and comments will be lost!","confirmText":"Delete","cancelText":"Cancel"}},"reloadUrl":"\/content\/content\/reload","deleteUrl":"\/content\/content\/delete-id","adminDeleteModalUrl":"\/content\/content\/get-admin-delete-modal"},"stream":{"horizontalImageScrollOnMobile":"1","defaultSort":"c","text":{"success.archive":"The content has been archived.","success.unarchive":"The content has been unarchived.","success.delete":"The content has been deleted.","info.editCancel":"Your last edit state has been saved!"}},"stream.wall":{"updatesAvailable":"New Updates Available!"},"comment":{"modal":{"delteConfirm":{"header":"<strong>Confirm<\/strong> comment deleting","body":"Do you really want to delete this comment?","confirmText":"Delete","cancelText":"Cancel"}},"text":{"success.delete":"Comment has been deleted"}},"space":{"text":{"success.archived":"The space has been archived.","success.unarchived":"The space has been unarchived."}},"client.pjax":{"active":true,"options":{"pushRedirect":true,"replaceRedirect":true,"cache":false,"timeout":5000}}});</script><div id="layout-content">
+<div class="container" style="text-align: center;">
+    
+            <a href="/dashboard" data-pjax-prevent>
+            <img class="img-rounded" src="/assets/logo/500x250.png?v=1655663923" id="img-logo"
+                 alt="Logo of The Path and Panther"/>
+        </a>
+        <br>
+        <br>
+
+    <div class="panel panel-default animated bounceIn" id="login-form"
+         style="max-width: 300px; margin: 0 auto 20px; text-align: left;">
+
+        <div class="panel-heading"><strong>Please</strong> sign in</div>
+
+        <div class="panel-body">
+
+            
+                                                <p>Please login with your username/email and password.</p>
+                            
+            <form id="account-login-form" action="/user/auth/login" method="post">
+<input type="hidden" name="_csrf" value="wogx3_lxAymFUsGWjsYp01tjtZWX_ri0Xzq1tGEV2aqdxV-KuDU2cO5qg6a9rGGgYxGNpLqO79YJbv-HD2ep-w==">                <div class="form-group field-login_username required">
+
+<input type="text" id="login_username" class="form-control" name="Login[username]" placeholder="username or email" aria-label="username or email" aria-required="true">
+
+<div class="help-block"></div>
+</div>                <div class="form-group field-login_password required">
+
+<input type="password" id="login_password" class="form-control" name="Login[password]" placeholder="password" aria-label="password" aria-required="true">
+
+<div class="help-block"></div>
+</div>                <div class="form-group field-login-rememberme">
+
+<input type="hidden" name="Login[rememberMe]" value="0"><label><input type="checkbox" id="login-rememberme" name="Login[rememberMe]" value="1" checked> Remember me</label>
+
+<div class="help-block"></div>
+</div>
+                <hr>
+                <div class="row">
+                    <div class="col-md-4">
+                        <button type="submit" id="login-button" class="btn btn-large btn-primary" data-ui-loader="">Sign in</button>                    </div>
+                    <div class="col-md-8 text-right">
+                        <small>
+                            <a id="password-recovery-link" href="/user/password-recovery"
+                               data-pjax-prevent><br>Forgot your password?</a>
+                        </small>
+                    </div>
+                </div>
+            </form>        </div>
+    </div>
+
+    <br>
+
+    
+    
+<div class="text text-center animated fadeIn">
+            Choose language: &nbsp;
+        <div class="langSwitcher inline-block">
+            <form id="choose-language-form" action="/user/auth/login" method="post">
+<input type="hidden" name="_csrf" value="wogx3_lxAymFUsGWjsYp01tjtZWX_ri0Xzq1tGEV2aqdxV-KuDU2cO5qg6a9rGGgYxGNpLqO79YJbv-HD2ep-w==">            <div class="form-group field-chooselanguage-language">
+
+<select id="chooselanguage-language" class="form-control" name="ChooseLanguage[language]" data-action-change="ui.form.submit">
+<option value="en-US" selected>English (US)</option>
+<option value="en-GB">English (UK)</option>
+<option value="de">Deutsch</option>
+<option value="fr">Français</option>
+<option value="nl">Nederlands</option>
+<option value="pl">Polski</option>
+<option value="pt">Português</option>
+<option value="pt-BR">Português do Brasil</option>
+<option value="es">Español</option>
+<option value="ca">Català</option>
+<option value="it">Italiano</option>
+<option value="th">ไทย</option>
+<option value="tr">Türkçe</option>
+<option value="ru">Русский</option>
+<option value="uk">українська</option>
+<option value="el">Ελληνικά</option>
+<option value="ja">日本語</option>
+<option value="hu">Magyar</option>
+<option value="nb-NO">Norsk bokmål</option>
+<option value="nn-NO">Nynorsk</option>
+<option value="zh-CN">中文(简体)</option>
+<option value="zh-TW">中文(台灣)</option>
+<option value="an">Aragonés</option>
+<option value="vi">Tiếng Việt</option>
+<option value="sv">Svenska</option>
+<option value="cs">čeština</option>
+<option value="da">dansk</option>
+<option value="uz">Ўзбек</option>
+<option value="fa-IR">فارسی</option>
+<option value="bg">български</option>
+<option value="sk">slovenčina</option>
+<option value="ro">română</option>
+<option value="ar">العربية/عربي‎‎</option>
+<option value="ko">한국어</option>
+<option value="id">Bahasa Indonesia</option>
+<option value="lt">lietuvių kalba</option>
+<option value="ht">Kreyòl ayisyen</option>
+<option value="lv">Latvijas</option>
+<option value="sl">Slovenščina</option>
+<option value="hr">Hrvatski</option>
+<option value="am">አማርኛ</option>
+<option value="fi">suomalainen</option>
+<option value="he">עברית</option>
+<option value="sq">Shqip</option>
+</select>
+
+<p class="help-block help-block-error"></p>
+</div>            </form>        </div>
+    </div>
+</div>
+
+<script >
+    $(function () {
+        // set cursor to login field
+        $('#login_username').focus();
+    });
+
+    // Shake panel after wrong validation
+    
+    // Shake panel after wrong validation
+    
+    
+</script>
+
+
+</div><br />
+
+<div class="text text-center powered">
+        <br/>
+    Powered by <a href="https://humhub.org" target="_blank">HumHub</a></div>
+<div id="globalModal" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.Modal">
+    <!-- Dialog -->
+
+<div id="h493432w0" class="modal-dialog " data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.Modal">    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+        
+                    <!-- Body -->
+            <div class="modal-body">
+                                                    <div  class="loader humhub-ui-loader " >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div>                            </div>
+
+            <!-- Footer -->
+                        </div>
+</div>   
+
+</div><div id="globalModalConfirm" class="modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.ConfirmModal">
+    <!-- Dialog -->
+
+<div id="h493432w1" class="modal-dialog modal-dialog-extra-small animated pulse " data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.Modal">    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+        
+                    <!-- Body -->
+            <div class="modal-body text-center">
+                                                    <div  class="loader humhub-ui-loader " >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div>                            </div>
+
+            <!-- Footer -->
+                            <div class="modal-footer">
+                    <button data-modal-cancel data-modal-close class="btn btn-default"></button><button data-modal-confirm data-modal-close class="btn btn-primary"></button>                </div>
+                        </div>
+</div>   
+
+</div><div id="humhub-ui-loader-default" class="loader humhub-ui-loader "  style="display:none;" >
+    <div class="sk-spinner sk-spinner-three-bounce">
+        <div class="sk-bounce1"></div>
+        <div class="sk-bounce2"></div>
+        <div class="sk-bounce3"></div>
+    </div>
+</div><div id="status-bar" class="clearfix" style="display:none;">
+    <div class="status-bar-body">
+        <div class="status-bar-content"></div>
+    </div>
+</div><div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title">Hidden Gallery</h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+<div class="modal modal-top" id="markdown-modal-file-upload" tabindex="-1" role="dialog" aria-labelledby="addImageModalLabel" style="z-index:99999" aria-hidden="true">
+    <!-- Dialog -->
+
+<div id="h493432w3" class="modal-dialog " data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.Modal">    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+                    <div class="modal-header">
+                                    <button aria-hidden="true" data-dismiss="modal" class="close" type="button" data-action-click="ui.modal.unload">×</button>
+                                                    <h4 class="modal-title">Add image/file</h4>
+                            </div>
+        
+                            <div class="modal-body">
+
+            <div class="uploadForm">
+                
+<span class="btn btn-default btn-sm  fileinput-button" data-placement="bottom" data-action-click="file.upload" data-action-target="#markdown-file-upload">    <i class="fa fa-cloud-upload" aria-hidden="true"></i> &nbsp;Upload    <input type="file" id="markdown-file-upload" name="files[]" multiple="multiple" title="Upload file" data-upload-progress="#markdown-modal-upload-progress" data-upload-submit-name="fileList[]" data-upload-hide-in-stream="1" data-upload-drop-zone="#markdown-modal-file-upload" data-php-max-file-uploads="20" data-php-max-file-uploads-message="Sorry, you can only upload up to 20 files at once." data-ui-widget="file.Upload" data-ui-init style="display:none"></span>            </div>
+
+            <br>
+
+            <div id="markdown-modal-upload-progress" style="display:none"></div>
+
+        </div>
+        <div class="modal-footer">
+            <button type="button" id="h493432w2" class="btn btn-default" data-modal-close="">Close</button>        </div>
+                </div>
+</div></div>
+
+<div class="modal modal-top" id="markdown-modal-add-link" tabindex="-1" role="dialog" style="z-index:99999" aria-labelledby="addLinkModalLabel" aria-hidden="true">
+    <!-- Dialog -->
+
+<div id="h493432w6" class="modal-dialog " data-backdrop="static" data-keyboard="false" data-ui-widget="ui.modal.Modal">    <!-- Content -->
+    <div class="modal-content">
+        <!-- Header -->
+                    <div class="modal-header">
+                                    <button aria-hidden="true" data-dismiss="modal" class="close" type="button" data-action-click="ui.modal.unload">×</button>
+                                                    <h4 class="modal-title">Add link</h4>
+                            </div>
+        
+                            <div class="modal-body">
+            <div class="form-group">
+                <label for="addLinkTitle">Title</label>
+                <input type="text" class="form-control linkTitle"
+                       placeholder="Title of your link">
+            </div>
+            <div class="form-group">
+                <label for="addLinkTarget">Target</label>
+                <input type="text" class="form-control linkTarget"
+                       placeholder="Enter a url (e.g. http://example.com)">
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" id="h493432w4" class="btn btn-default" data-modal-close="">Close</button>            <button type="button" id="h493432w5" class="addLinkButton btn btn-primary">Add link</button>        </div>
+                </div>
+</div></div>
+<div id="ccMessageText" style="display:none">
+    <div style="max-height:300px;overflow:auto">
+        <div id="h493432w7" data-exclude='[]' data-include='[]' data-plugin-options='[]' data-ui-richtext data-ui-widget="ui.richtext.prosemirror.RichText" data-ui-init>This site wont track you in anyway. No third-party cookies are set and the only first-party ones that are used are essential to keep you logged in and to remember personalisation settings like language.</div><div class="richtext-oembed-container" style="display:none"></div>    </div>
+
+</div>
+
+
+<script >
+    window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#fe142f",
+                    "text": "#fff"
+                },
+                "button": {
+                    "background": "#97d271",
+                    "text": "#fff"
+                }
+            },
+            "showLink": false,
+            "theme": "classic",
+            "position": "bottom-right",
+            "content": {
+                "message": $('#ccMessageText').html(),
+                "dismiss": "Got it!"
+            }
+        })
+    });
+</script>
+<script src="/assets/7aded4f3/cookieconsent.min.js?v=1655663127" defer="defer"></script>
+<script>jQuery(function ($) {
+jQuery('#account-login-form').yiiActiveForm([], []);
+jQuery('#choose-language-form').yiiActiveForm([], []);
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/sw.js?v=1667899241', { scope: '/' })
+                    .then(function (registration) {
+                        if (typeof afterServiceWorkerRegistration === "function") {
+                            afterServiceWorkerRegistration(registration);
+                        }
+                    })
+            }
+});</script></body>
+
+</html>

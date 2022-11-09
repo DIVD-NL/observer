@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Age: 0
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.intermittent.network; img-src 'self' https: data: blob: https://social.intermittent.network; style-src 'self' https://social.intermittent.network 'nonce-GTwb630I8Pl4ya/Tsqj0CQ=='; media-src 'self' https: data: https://social.intermittent.network; frame-src 'self' https:; manifest-src 'self' https://social.intermittent.network; connect-src 'self' data: blob: https://social.intermittent.network https://files.social.intermittent.network wss://streaming.social.intermittent.network; script-src 'self' https://social.intermittent.network; child-src 'self' blob: https://social.intermittent.network; worker-src 'self' blob: https://social.intermittent.network
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:18:41 GMT
+Etag: W/"a5ec5a7a112adc71536142d6bee51b56"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+Via: 1.1 varnish
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T07:15:00.815472Z
+X-Request-Id: 922a8863-06bb-499e-8986-06d69c326f25
+X-Runtime: 0.021957
+X-Served-By: cache-bru1480047-BRU
+X-Timer: S1668007120.324409,VS0,VE1282
+X-Xss-Protection: 0
+
+["mystic.lgbt","social.tulsa.ok.us","ozlabs.house","hci.social","botsin.space","mastodon.social","social.kylebronsdon.com","stream.kylebronsdon.com","cathode.church","cloudisland.nz","masto.rocks","tech.lgbt","bitcoinhackers.org","kiwi.fuo.fi","octodon.social","mathstodon.xyz","bne.social","fediscience.org","writing.exchange","climatejustice.social","mastodon.nz","mastodon.sdf.org","c.im","notjustbikes.com","m.trisweb.com","greendragon.pub","indieweb.social","mastodon.art","mastodon.nu","glitterkitten.co.uk","yiff.life","dizl.de","troet.cafe","socel.net","social.tchncs.de","mastodon.la","layer8.space","mstdn.ca","sfba.social","mastodon.holeyfox.co","mastodon.gamedev.place","muenchen.social","mastodontti.fi","astrodon.social","mastodon.green","pdx.social","nrw.social","bolha.us","wien.rocks","mstdn.social","det.social","tooting.ch","literatur.social","masthead.social","toot.wales","fosstodon.org","toot.community","masto.pt","social.northernvoice.app","social.la10cy.net","puto.gspot.lol","mastodonapp.uk","lor.sh","aus.social","undernopretext.social","mastodon.online"]

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://follow.proofgeist.com; img-src 'self' https: data: blob: https://follow.proofgeist.com; style-src 'self' https://follow.proofgeist.com 'nonce-7wPx9Vi8ytyHcnE6b7bbtw=='; media-src 'self' https: data: https://follow.proofgeist.com; frame-src 'self' https:; manifest-src 'self' https://follow.proofgeist.com; connect-src 'self' data: blob: https://follow.proofgeist.com https://follow.proofgeist.com wss://follow.proofgeist.com; script-src 'self' https://follow.proofgeist.com 'unsafe-eval'; child-src 'self' blob: https://follow.proofgeist.com; worker-src 'self' blob: https://follow.proofgeist.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:58:08 GMT
+Etag: W/"b24efe461cb0f411b36f410ee8f295df"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.517921Z
+X-Request-Id: 9c5dbdc8-b85c-490d-99e8-6d4ae88952bd
+X-Runtime: 0.004167
+X-Xss-Protection: 0
+
+1b3
+["social.tchncs.de","mas.to","blacktwitter.io","toot.community","mastodon.cloud","tech.lgbt","fosstodon.org","commiespace.duckdns.org","eeeeeeeee.eu","pleroma.1d4.us","nonexiste.net","uncorking.me","mastodon.art","port87.social","knoxodon.com","selfy.army","awscommunity.social","mastodon.ie","mastodon.gamedev.place","hackers.town","mastodon.online","mastodon.social","ioc.exchange","mstdn.social","infosec.exchange","mastodonapp.uk"]
+0
+

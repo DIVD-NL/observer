@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:16:22 GMT
+Etag: W/"606f5bae-2cc"
+Last-Modified: Thu, 08 Apr 2021 19:38:22 GMT
+Server: nginx/1.18.0
+Vary: Accept-Encoding
+
+2cc
+<html>
+    <head>
+        <meta http-equiv="refresh" content="5">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+<h1>Wartungsarbeiten</h1>
+Am Server sind aktuell Wartungsarbeiten im Gange. Der Service ist hoffentlich in Kürze wieder verfügbar.
+<br>Die Seite wird automatisch alle 5 Sekunden neu geladen und bei Beendigung der Wartungsarbeiten wieder verfügbar sein.
+<p>Bei Rückfragen wenden sie sich bitte an <br>
+<ul>
+    <li>Email: <a href="mailto:admin@schuerz.at">admin@schuerz.at</a></li>
+    <li>Matrix: @jakob:schuerz.at</li>
+    <li>XMPP: jakob@schuerz.at</li>
+    <li>Fediverse (Mastodon, Pleroma): an @jakob@schuerz.at</li>
+</li>
+unter Angabe der nicht erreichten Seite/URL.
+    </body>
+</html>
+
+0
+

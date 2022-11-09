@@ -1,0 +1,24 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://elbmatsch.de; img-src 'self' https: data: blob: https://elbmatsch.de; style-src 'self' https://elbmatsch.de 'nonce-dto31SvO/iwAJN1eLuZn6A=='; media-src 'self' https: data: https://elbmatsch.de; frame-src 'self' https:; manifest-src 'self' https://elbmatsch.de; connect-src 'self' data: blob: https://elbmatsch.de https://elbmatsch.de wss://elbmatsch.de; script-src 'self' https://elbmatsch.de 'unsafe-eval'; child-src 'self' blob: https://elbmatsch.de; worker-src 'self' blob: https://elbmatsch.de
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:57:45 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.271791Z
+X-Request-Id: 4e4224e8-60e7-4ecf-8274-6f978660bace
+X-Runtime: 0.005720
+X-Xss-Protection: 0
+
+0
+

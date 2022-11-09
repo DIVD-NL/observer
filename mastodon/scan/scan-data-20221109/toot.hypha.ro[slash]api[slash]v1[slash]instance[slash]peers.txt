@@ -1,0 +1,15 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 67
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 09 Nov 2022 15:20:57 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Vercel-Cache: MISS
+X-Vercel-Error: DEPLOYMENT_NOT_FOUND
+X-Vercel-Id: fra1::scckf-1668007257975-d0d16641a2ae
+
+The deployment could not be found on Vercel.
+
+DEPLOYMENT_NOT_FOUND

@@ -1,0 +1,30 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: origin, content-type, cache-control, accept, authorization, if-match, destination, overwrite
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, OPTIONS, MOVE, DELETE, COPY, LOCK, UNLOCK
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.netou.info; img-src 'self' https: data: blob: https://mastodon.netou.info; style-src 'self' https://mastodon.netou.info 'nonce-QSFynvdje3nzAGf0uXUrSg=='; media-src 'self' https: data: https://mastodon.netou.info; frame-src 'self' https:; manifest-src 'self' https://mastodon.netou.info; connect-src 'self' data: blob: https://mastodon.netou.info https://mastodon.netou.info wss://mastodon.netou.info; script-src 'self' https://mastodon.netou.info; child-src 'self' blob: https://mastodon.netou.info; worker-src 'self' blob: https://mastodon.netou.info
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:11:55 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding,Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.279848Z
+X-Request-Id: 9dd38cf9-02f2-487e-93de-c4753e57bbfd
+X-Runtime: 0.008362
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

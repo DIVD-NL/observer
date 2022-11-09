@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://toot.liw.fi; img-src 'self' https: data: blob: https://toot.liw.fi; style-src 'self' https://toot.liw.fi 'nonce-KiqbknAddv790MqVcsNxgQ=='; media-src 'self' https: data: https://toot.liw.fi; frame-src 'self' https:; manifest-src 'self' https://toot.liw.fi; connect-src 'self' data: blob: https://toot.liw.fi https://cdn.masto.host wss://toot.liw.fi; script-src 'self' https://toot.liw.fi; child-src 'self' blob: https://toot.liw.fi; worker-src 'self' blob: https://toot.liw.fi
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:20:57 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:25:00.472088Z
+X-Request-Id: 184b64d3-fd8d-4b3d-9669-3d1704413962
+X-Runtime: 0.006678
+X-Xss-Protection: 0
+
+0
+

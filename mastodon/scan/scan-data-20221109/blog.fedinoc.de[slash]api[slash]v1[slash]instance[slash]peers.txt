@@ -1,0 +1,15 @@
+HTTP/1.1 307 Temporary Redirect
+Connection: close
+Content-Length: 249
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 14:57:11 GMT
+Location: https://nocci.xyz/api/v1/instance/peers
+Server: Apache
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>307 Temporary Redirect</title>
+</head><body>
+<h1>Temporary Redirect</h1>
+<p>The document has moved <a href="https://nocci.xyz/api/v1/instance/peers">here</a>.</p>
+</body></html>

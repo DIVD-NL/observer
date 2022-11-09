@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Access-Control-Allow-Headers: Access-Control-Allow-Origin,charset
+Access-Control-Allow-Origin: http://admin.reuters.com
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:22:44 GMT
+Location: http://mobile.reuters.com/do/urlRedirect?URL=http://www.reuters.com/api%2fv1%2finstance%2fpeers
+Server: nginx
+Vary: Accept-Encoding
+Via: 1.1 87714f2c4c5d69d88a49430daf7bbfbc.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Z0eXvi9AYO79ce4g1epXgOxhYWoGyZSMTfdGFuTj3F-gdpKFwEgo9Q==
+X-Amz-Cf-Pop: CDG53-C1
+X-Cache: Miss from cloudfront
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://mobile.reuters.com/do/urlRedirect?URL=http://www.reuters.com/api%2fv1%2finstance%2fpeers">here</a>.</p>
+</body></html>

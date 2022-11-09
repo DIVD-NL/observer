@@ -1,0 +1,26 @@
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; script-src 'self' https://communitycenter.glitchcityart.club; font-src 'self' https://communitycenter.glitchcityart.club; img-src 'self' data: blob: https://communitycenter.glitchcityart.club https://glitchcityart.files.fedi.monster; style-src 'self' https://communitycenter.glitchcityart.club 'nonce-jF9HB9paldgpnpxUIfoAIA=='; media-src 'self' data: https://communitycenter.glitchcityart.club https://glitchcityart.files.fedi.monster; frame-src 'self' https:; child-src 'self' blob: https://communitycenter.glitchcityart.club; worker-src 'self' blob: https://communitycenter.glitchcityart.club; connect-src 'self' blob: data: wss://communitycenter.glitchcityart.club https://communitycenter.glitchcityart.club https://glitchcityart.files.fedi.monster; manifest-src 'self' https://communitycenter.glitchcityart.club
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:29 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Clacks-Overhead: GNU Natalie Nguyen
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.634602Z
+X-Request-Id: 49b608ff-4ff8-4ba1-93f7-e9c13eabb7a2
+X-Runtime: 0.003813
+X-Xss-Protection: 0
+
+36
+{"error":"This method requires an authenticated user"}
+0
+

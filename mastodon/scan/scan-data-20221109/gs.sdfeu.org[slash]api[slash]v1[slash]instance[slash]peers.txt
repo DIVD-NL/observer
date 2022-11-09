@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 314
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:05:13 GMT
+Server: Apache/2.2.32 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.2o
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /index.php was not found on this server.</p>
+<hr>
+<address>Apache/2.2.32 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.2o Server at gs.sdfeu.org Port 443</address>
+</body></html>

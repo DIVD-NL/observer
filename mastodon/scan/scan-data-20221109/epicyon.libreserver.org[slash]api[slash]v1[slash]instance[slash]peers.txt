@@ -1,0 +1,8 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 320
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:46 GMT
+Server: nginx
+
+<html><head><title>400</title></head><body bgcolor="linen" text="black"><div style="font-size: 400px; text-align: center;">400</div><div style="font-size: 128px; text-align: center; font-variant: small-caps;"><p role="alert">Bad Request</p></div><div style="text-align: center;">Better luck next time</div></body></html>

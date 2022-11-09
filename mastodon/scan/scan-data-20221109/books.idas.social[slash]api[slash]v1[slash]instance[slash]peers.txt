@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677666178ac83c6-BRU
+Content-Language: en-us
+Content-Type: application/json
+Date: Wed, 09 Nov 2022 14:57:17 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=g%2BF0WlDI5Al%2FkJLMaG%2FO3hLvrX%2BHM5%2FX1BEd9VeAj5WlvqH7KWb9AbGQZPuHTTKIVNfbmgf52mR65lPGpaMtIj8gf6Qd5rW1K3j3UFp0e8D%2FI6Wvm%2FocFFSLcV%2F0HtodHiG4rg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Language, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+1b8
+["bookwyrm.social", "book.dansmonorage.blue", "wyrms.de", "lire.boitam.eu", "bookwyrm.cincodenada.com", "books.mennisch.net", "shoko.one", "bookrastinating.com", "tankie.ml", "books.underscore.world", "ziurkes.group.lt", "books.solarpunk.moe", "bookwyrm.tardis.pw", "todon.eu", "reading.taks.garden", "books.theunseen.city", "mstdn.social", "mastodon.online", "toot.wales", "mastodon.social", "books.mxhdr.net", "ruhr.social", "aus.social"]
+0
+

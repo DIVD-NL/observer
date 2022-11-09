@@ -1,0 +1,47 @@
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Content-Length: 1823
+Content-Type: text/html; charset=utf-8
+Date: Wed, 09 Nov 2022 15:09:31 GMT
+Server: nginx/1.18.0
+
+<html>
+    <head>
+        <title>⚠ ilyamikcoder.com</title>
+        <meta charset="utf8">
+        <meta name="viewport" content="width=device-width, initial-scale = 1.0">
+        <style>
+            @font-face {
+                font-family: 'Hack';
+                font-weight: normal;
+                font-style: normal;
+                src: url("/static/fonts/Hack/regular.ttf");
+            }
+            body {
+                font-family: 'Hack', monospace;
+                color: #ffffff;
+                font-size: 1rem;
+                padding: 25px;
+                background-color: #0000aa;
+            }
+        </style>
+    </head>
+    <body>
+        <div>A problem has been detected and this page has been shut down to prevent damage to webserver, our cookie vault and your sanity.</div>
+        <br>
+        <div>NOT_FOUND</div>
+        <br>
+        
+<div>There's no page available on given path.</div>
+
+        <br>
+        <div>If this is the first time you've seen this error screen, reload this page. If this screen appears again, follow these steps:</div>
+        <br>
+        <div>Check to make sure requested page exists, and you're authorized to access it. If this is a new installation, ask your system administrator or website holder to double-check their programming abilities.</div>
+        <br>
+        <div>If problems continue, disable or remove any newly installed teapots or cookie boxes. Disable browser memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, please contact ilya.mikheev.coder immediately, as your technical issues are going beyond our understanding.</div>
+        <br>
+        <div>Technical information:</div>
+        <div>*** STOP: 0x00000404 (0x6D757465, 0x64206973, 0x20636F6F, 0x6C000026)</div>
+    </body>
+</html>

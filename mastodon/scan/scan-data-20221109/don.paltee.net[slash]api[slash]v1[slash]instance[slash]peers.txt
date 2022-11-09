@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://don.paltee.net; img-src 'self' https: data: blob: https://don.paltee.net; style-src 'self' https://don.paltee.net 'nonce-ld0aZ3R8p4a84I4PAjY3kg=='; media-src 'self' https: data: https://don.paltee.net; frame-src 'self' https:; manifest-src 'self' https://don.paltee.net; connect-src 'self' data: blob: https://don.paltee.net https://files.example.com wss://don.paltee.net; script-src 'self' https://don.paltee.net; child-src 'self' blob: https://don.paltee.net; worker-src 'self' blob: https://don.paltee.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:42 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.636403Z
+X-Request-Id: 63f20914-f85d-47c5-aabb-e8b92a8735fc
+X-Runtime: 0.005333
+X-Xss-Protection: 0
+
+0
+

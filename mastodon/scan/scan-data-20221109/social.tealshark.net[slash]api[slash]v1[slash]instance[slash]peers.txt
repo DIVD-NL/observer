@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: max-age=0, private, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 7677874ad8fd83dd-BRU
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.tealshark.net wss://social.tealshark.net;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:45 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MUQNTEdyYrldOcNfMSS0BSURb6vTq%2BuE7Ca5l379Hd1ptoaZi%2B0nS%2F0mI1er2yaftNXZ47Pmxk0LOEgt8jWptM%2FNkVrz1Oz8NNRr4%2Bxqx8Bj8nMKmHUfBHDLxryb2T5bzY0WvGTFrA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzsplW7rPfd3EAAhOD
+X-Served-By: social.tealshark.net
+X-Xss-Protection: 1; mode=block
+
+423
+["urbanists.social","nitecrew.rip","toot.community","sfba.social","commiespace.duckdns.org","mastodon.nz","infosec.exchange","mastodon.ar.al","friends.johalla.org","mastodon.social","indieweb.social","mimimi01.masto.host","mamot.fr","mastodon.world","meow.social","cheeseburger.social","twtr.plus","nerdica.net","journa.host","noc.social","mas.to","pleroma.1d4.us","werd.social","masto.ai","steampunk.social","dair-community.social","framapiaf.org","mastodon.coffee","bladerunner.social","thetooniverse.xyz","eldritch.cafe","mastodon.scot","mastodon.online","expired.mentality.rip","sciences.social","universeodon.com","social.coop","social.artemai.art","uncorking.me","mstdn.social","law.builders","mastodonapp.uk","a.gup.pe","nonexiste.net","botsin.space","fosstodon.org","qoto.org","hachyderm.io","freeradical.zone","postpandemicparty.org","federated.press","masthead.social","moa.st","redeyes.club","appdot.net","port87.social","henshaw.social","anonsys.net","twit.social","mastodon.lol","c.im","eeeeeeeee.eu","sunny.garden","mastodon.art","chaos.social"]
+0
+

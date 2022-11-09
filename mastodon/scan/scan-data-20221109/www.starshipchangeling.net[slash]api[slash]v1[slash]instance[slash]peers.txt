@@ -1,0 +1,426 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Age: 0
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:47 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://www.starshipchangeling.net/wp-json/micropub/1.0/media>; rel="micropub_media", <https://www.starshipchangeling.net/wp-json/micropub/1.0/endpoint>; rel="micropub", <https://www.starshipchangeling.net/wp-json/>; rel="https://api.w.org/"
+Server: Apache
+Set-Cookie: mc_session_ids[default]=4a19d2e0a1730cc373b6bf75c4dbc3802f21a933; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure; HttpOnly
+Set-Cookie: mc_session_ids[multi][0]=b8f1cb350f0bd8596d2e743615105947864a382f; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure
+Set-Cookie: mc_session_ids[multi][1]=90f128fb60fcf50bf42a67c9046e2ae341725c3d; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure
+Set-Cookie: mc_session_ids[multi][2]=b419cdd40608e6a65e5b0b81bae193a0fc9fc87a; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure
+Set-Cookie: mc_session_ids[multi][3]=11c8ff86c0fea7171362252f11e3fbf1ce644d38; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure
+Set-Cookie: mc_session_ids[multi][4]=1eefc9b201d8e906f13b14c4110f1547d255d786; expires=Wed, 09-Nov-2022 15:27:47 GMT; Max-Age=300; path=/; secure
+Via: 1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Powered-By: PHP/8.1.0
+
+a0b2
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<!--[if lt IE 9]>
+	<script src="https://www.starshipchangeling.net/wp-content/themes/indieweb-publisher-master/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<title>Page not found &#8211; The Starship Changeling</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="The Starship Changeling &raquo; Feed" href="https://www.starshipchangeling.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Starship Changeling &raquo; Comments Feed" href="https://www.starshipchangeling.net/comments/feed/" />
+<link rel="alternate" type="application/stream+json" title="The Starship Changeling &raquo; Activity-Streams Feed" href="https://www.starshipchangeling.net/feed/as1/" />
+<link rel="alternate" type="application/stream+json" title="The Starship Changeling &raquo; Activity-Streams Comments Feed " href="https://www.starshipchangeling.net/comments/feed/as1/" />
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.starshipchangeling.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/6.0.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://c0.wp.com/c/6.0.3/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://c0.wp.com/c/6.0.3/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='buy-me-a-coffee-css'  href='https://www.starshipchangeling.net/wp-content/plugins/buymeacoffee/public/css/buy-me-a-coffee-public.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rebrandly-domain-redirect-css'  href='https://www.starshipchangeling.net/wp-content/plugins/rebrandly-domain-redirect/public/css/rebrandly-domain-redirect-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='math-captcha-frontend-css'  href='https://www.starshipchangeling.net/wp-content/plugins/wp-math-captcha/css/frontend.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://www.starshipchangeling.net/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container nav ul ul li ul li {font-size: %!important;}
+.ez-toc-container-direction {
+    direction: ltr;
+}
+
+	.ez-toc-counter ul {
+	    counter-reset: item;
+	}
+
+
+	
+	.ez-toc-counter nav ul li a::before {
+	    content: counters(item, ".", decimal) ". ";
+	    display: inline-block;
+	    counter-increment: item;
+        flex-grow: 0;
+        flex-shrink: 0;
+	    margin-right: .2em; 
+
+	    float: left;
+	}
+
+
+.ez-toc-widget-direction {
+    direction: ltr;
+}
+
+	.ez-toc-widget-container ul {
+	    counter-reset: item;
+	}
+
+
+	
+	.ez-toc-widget-container nav ul li a::before {
+	    content: counters(item, ".", decimal) ". ";
+	    display: inline-block;
+	    counter-increment: item;
+        flex-grow: 0;
+        flex-shrink: 0;
+	    margin-right: .2em; 
+
+	    float: left;
+	}
+
+
+</style>
+<link rel='stylesheet' id='indieweb-css'  href='https://www.starshipchangeling.net/wp-content/plugins/indieweb/static/css/indieweb.css?ver=3.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='kind-css'  href='https://www.starshipchangeling.net/wp-content/plugins/indieweb-post-kinds/css/kind.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='semantic-linkbacks-css-css'  href='https://www.starshipchangeling.net/wp-content/plugins/semantic-linkbacks/css/semantic-linkbacks.css?ver=3.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-neue-css'  href='https://www.starshipchangeling.net/wp-content/themes/indieweb-publisher-master/fonts/genericons-neue/Genericons-Neue.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='indieweb-publisher-style-css'  href='https://www.starshipchangeling.net/wp-content/themes/indieweb-publisher-master/css/default.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='customizer-css'  href='https://www.starshipchangeling.net/wp-admin/admin-ajax.php?action=indieweb_publisher_customizer_css&#038;ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='syndication-style-css'  href='https://www.starshipchangeling.net/wp-content/plugins/syndication-links/css/syn-large.min.css?ver=4.3.12' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://www.starshipchangeling.net/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/11.5.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.3/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.3/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' async src='https://www.starshipchangeling.net/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/plugins/buymeacoffee/public/js/buy-me-a-coffee-public.js?ver=3.0' id='buy-me-a-coffee-js'></script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/plugins/rebrandly-domain-redirect/public/js/rebrandly-domain-redirect-public.js?ver=1.0.0' id='rebrandly-domain-redirect-js'></script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/themes/indieweb-publisher-master/js/enhanced-comment-form.js?ver=1.0' id='enhanced-comment-form-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.starshipchangeling.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.starshipchangeling.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.starshipchangeling.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+      <link rel="microsub" href="https://aperture.p3k.io/microsub/220">
+              <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="ChangelingMx" data-description="" data-message="" data-color="#FF813F" data-position="right" data-x_margin="" data-y_margin="">
+        </script>
+<link rel="alternate" type="application/feed+json" title="The Starship Changeling &raquo; JSON Feed" href="https://www.starshipchangeling.net/feed/json/" />
+	<style>img#wpstats{display:none}</style>
+					<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="micropub_media" href="https://www.starshipchangeling.net/wp-json/micropub/1.0/media" />
+<link rel="micropub" href="https://www.starshipchangeling.net/wp-json/micropub/1.0/endpoint" />
+</head>
+
+<body class="error404 h-feed" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+
+<div id="page" class="site">
+	<header id="masthead" class="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<div class="site-header-info">
+													<a href="https://www.starshipchangeling.net/" class="custom-logo-link" rel="home" itemprop="url"><img alt='' src='https://secure.gravatar.com/avatar/793d166ac0581fa8efbccaad694e688f?s=100&#038;d=404&#038;r=g' srcset='https://secure.gravatar.com/avatar/793d166ac0581fa8efbccaad694e688f?s=200&#038;d=404&#038;r=g 2x' class='avatar avatar-100 photo custom-logo u-photo' height='100' width='100' loading='lazy'/></a>		
+		<div class="site-title">
+			<a href="https://www.starshipchangeling.net/" title="The Starship Changeling" rel="home">The Starship Changeling</a>
+		</div>
+		<div class="site-description">Navigating Life Among Humans</div>
+							</div>
+
+							<nav role="navigation" class="site-navigation main-navigation">
+				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+
+													<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-583"><a href="https://www.starshipchangeling.net/">Home</a></li>
+<li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href="https://www.starshipchangeling.net/finding-your-way/">Finding Your Way Around the Starship</a></li>
+<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="https://www.starshipchangeling.net/policy-of-operation/">Policy of Operation</a></li>
+<li id="menu-item-1191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1191"><a href="https://www.starshipchangeling.net/discord/">Changeling’s Guide to Discord for Screen Reader Users</a></li>
+<li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-584"><a href="https://www.starshipchangeling.net/blog/">Blog</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="https://www.starshipchangeling.net/contact/">Contact</a></li>
+</ul></div>				
+			</nav><!-- .site-navigation .main-navigation -->
+		
+			</header>
+	<!-- #masthead .site-header -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<main id="content" class="site-content" role="main">
+
+			<section class="error-404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>
+				</header>
+				<!-- .entry-header -->
+
+				<div>
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form method="get" id="searchform" action="https://www.starshipchangeling.net/" role="search">
+	<label for="s" class="screen-reader-text">Search</label>
+	<input type="text" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+
+					<form method="get" id="originalofform" action="https://www.starshipchangeling.net/" role="search">
+	<label for="s" class="screen-reader-text">Search</label>
+	<input type="text" class="field" name="original-of" value="" id="original-of" placeholder="Original Of &hellip;" />
+	<input type="submit" class="submit" id="originalofsubmit" value="Lookup Original" />
+</form>
+
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.starshipchangeling.net/the-hatchling/">The Hatchling</a>
+									</li>
+											<li>
+					<a href="https://www.starshipchangeling.net/changeling-chronicles-ep-8-another-room-another-character-behaves-strangely/">Changeling Chronicles Ep. 8: Another Room, Another Character Behaves strangely</a>
+									</li>
+											<li>
+					<a href="https://www.starshipchangeling.net/changeling-chronicles-ep-7-changeling-paige-and-genie/">Changeling Chronicles Ep. 7: Changeling, Paige and Genie</a>
+									</li>
+											<li>
+					<a href="https://www.starshipchangeling.net/changeling-chronicles-ep-6-genie-and-paige-in-that-order/">Changeling Chronicles Ep. 6: Genie and Paige in That Order</a>
+									</li>
+											<li>
+					<a href="https://www.starshipchangeling.net/invisible/">Invisible</a>
+									</li>
+					</ul>
+
+		</div>
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://www.starshipchangeling.net/2022/11/'> November 2022 </option>
+	<option value='https://www.starshipchangeling.net/2022/10/'> October 2022 </option>
+	<option value='https://www.starshipchangeling.net/2022/09/'> September 2022 </option>
+	<option value='https://www.starshipchangeling.net/2022/08/'> August 2022 </option>
+	<option value='https://www.starshipchangeling.net/2022/04/'> April 2022 </option>
+	<option value='https://www.starshipchangeling.net/2021/12/'> December 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/11/'> November 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/10/'> October 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/09/'> September 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/08/'> August 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/07/'> July 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/06/'> June 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/05/'> May 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/04/'> April 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/03/'> March 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/02/'> February 2021 </option>
+	<option value='https://www.starshipchangeling.net/2021/01/'> January 2021 </option>
+	<option value='https://www.starshipchangeling.net/2020/12/'> December 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/11/'> November 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/10/'> October 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/09/'> September 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/08/'> August 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/07/'> July 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/06/'> June 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/05/'> May 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/04/'> April 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/03/'> March 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/02/'> February 2020 </option>
+	<option value='https://www.starshipchangeling.net/2020/01/'> January 2020 </option>
+	<option value='https://www.starshipchangeling.net/2019/12/'> December 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/11/'> November 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/10/'> October 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/09/'> September 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/08/'> August 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/07/'> July 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/06/'> June 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/05/'> May 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/04/'> April 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/03/'> March 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/02/'> February 2019 </option>
+	<option value='https://www.starshipchangeling.net/2019/01/'> January 2019 </option>
+	<option value='https://www.starshipchangeling.net/2018/12/'> December 2018 </option>
+	<option value='https://www.starshipchangeling.net/2018/11/'> November 2018 </option>
+	<option value='https://www.starshipchangeling.net/2018/10/'> October 2018 </option>
+	<option value='https://www.starshipchangeling.net/2018/09/'> September 2018 </option>
+	<option value='https://www.starshipchangeling.net/2017/03/'> March 2017 </option>
+	<option value='https://www.starshipchangeling.net/2017/01/'> January 2017 </option>
+	<option value='https://www.starshipchangeling.net/2016/12/'> December 2016 </option>
+	<option value='https://www.starshipchangeling.net/2016/11/'> November 2016 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://www.starshipchangeling.net/tag/404/" class="tag-cloud-link tag-link-234 tag-link-position-1" style="font-size: 8pt;" aria-label="404 (3 items)">404</a>
+<a href="https://www.starshipchangeling.net/tag/a11y/" class="tag-cloud-link tag-link-187 tag-link-position-2" style="font-size: 22pt;" aria-label="A11y (34 items)">A11y</a>
+<a href="https://www.starshipchangeling.net/tag/access-technology/" class="tag-cloud-link tag-link-227 tag-link-position-3" style="font-size: 11.723404255319pt;" aria-label="Access Technology (6 items)">Access Technology</a>
+<a href="https://www.starshipchangeling.net/tag/ada-compliance/" class="tag-cloud-link tag-link-212 tag-link-position-4" style="font-size: 8pt;" aria-label="ADA Compliance (3 items)">ADA Compliance</a>
+<a href="https://www.starshipchangeling.net/tag/ai/" class="tag-cloud-link tag-link-31 tag-link-position-5" style="font-size: 8pt;" aria-label="AI (3 items)">AI</a>
+<a href="https://www.starshipchangeling.net/tag/alttext/" class="tag-cloud-link tag-link-157 tag-link-position-6" style="font-size: 9.4893617021277pt;" aria-label="altText (4 items)">altText</a>
+<a href="https://www.starshipchangeling.net/tag/alt-text/" class="tag-cloud-link tag-link-32 tag-link-position-7" style="font-size: 8pt;" aria-label="alt text (3 items)">alt text</a>
+<a href="https://www.starshipchangeling.net/tag/audio-games/" class="tag-cloud-link tag-link-298 tag-link-position-8" style="font-size: 8pt;" aria-label="audio games (3 items)">audio games</a>
+<a href="https://www.starshipchangeling.net/tag/blindness/" class="tag-cloud-link tag-link-38 tag-link-position-9" style="font-size: 17.829787234043pt;" aria-label="blindness (17 items)">blindness</a>
+<a href="https://www.starshipchangeling.net/tag/blind-photography/" class="tag-cloud-link tag-link-37 tag-link-position-10" style="font-size: 9.4893617021277pt;" aria-label="Blind Photography (4 items)">Blind Photography</a>
+<a href="https://www.starshipchangeling.net/tag/changelingwakeupsong/" class="tag-cloud-link tag-link-360 tag-link-position-11" style="font-size: 8pt;" aria-label="ChangelingWakeUpSong (3 items)">ChangelingWakeUpSong</a>
+<a href="https://www.starshipchangeling.net/tag/crazy-party/" class="tag-cloud-link tag-link-311 tag-link-position-12" style="font-size: 10.68085106383pt;" aria-label="crazy party (5 items)">crazy party</a>
+<a href="https://www.starshipchangeling.net/tag/disability/" class="tag-cloud-link tag-link-214 tag-link-position-13" style="font-size: 13.212765957447pt;" aria-label="disability (8 items)">disability</a>
+<a href="https://www.starshipchangeling.net/tag/discord/" class="tag-cloud-link tag-link-289 tag-link-position-14" style="font-size: 17.829787234043pt;" aria-label="Discord (17 items)">Discord</a>
+<a href="https://www.starshipchangeling.net/tag/facebookdown/" class="tag-cloud-link tag-link-374 tag-link-position-15" style="font-size: 8pt;" aria-label="FacebookDown (3 items)">FacebookDown</a>
+<a href="https://www.starshipchangeling.net/tag/games/" class="tag-cloud-link tag-link-303 tag-link-position-16" style="font-size: 18.425531914894pt;" aria-label="Games (19 items)">Games</a>
+<a href="https://www.starshipchangeling.net/tag/gaming/" class="tag-cloud-link tag-link-55 tag-link-position-17" style="font-size: 8pt;" aria-label="Gaming (3 items)">Gaming</a>
+<a href="https://www.starshipchangeling.net/tag/guides/" class="tag-cloud-link tag-link-196 tag-link-position-18" style="font-size: 12.468085106383pt;" aria-label="Guides (7 items)">Guides</a>
+<a href="https://www.starshipchangeling.net/tag/home/" class="tag-cloud-link tag-link-209 tag-link-position-19" style="font-size: 9.4893617021277pt;" aria-label="home (4 items)">home</a>
+<a href="https://www.starshipchangeling.net/tag/inclusion/" class="tag-cloud-link tag-link-62 tag-link-position-20" style="font-size: 8pt;" aria-label="inclusion (3 items)">inclusion</a>
+<a href="https://www.starshipchangeling.net/tag/indieweb/" class="tag-cloud-link tag-link-64 tag-link-position-21" style="font-size: 15.595744680851pt;" aria-label="IndieWeb (12 items)">IndieWeb</a>
+<a href="https://www.starshipchangeling.net/tag/internet/" class="tag-cloud-link tag-link-208 tag-link-position-22" style="font-size: 10.68085106383pt;" aria-label="Internet (5 items)">Internet</a>
+<a href="https://www.starshipchangeling.net/tag/ios/" class="tag-cloud-link tag-link-184 tag-link-position-23" style="font-size: 13.212765957447pt;" aria-label="iOS (8 items)">iOS</a>
+<a href="https://www.starshipchangeling.net/tag/iphone/" class="tag-cloud-link tag-link-66 tag-link-position-24" style="font-size: 14.553191489362pt;" aria-label="iPhone (10 items)">iPhone</a>
+<a href="https://www.starshipchangeling.net/tag/jaws/" class="tag-cloud-link tag-link-202 tag-link-position-25" style="font-size: 8pt;" aria-label="JAWS (3 items)">JAWS</a>
+<a href="https://www.starshipchangeling.net/tag/mastodon/" class="tag-cloud-link tag-link-72 tag-link-position-26" style="font-size: 19.617021276596pt;" aria-label="Mastodon (23 items)">Mastodon</a>
+<a href="https://www.starshipchangeling.net/tag/microfiction/" class="tag-cloud-link tag-link-378 tag-link-position-27" style="font-size: 16.936170212766pt;" aria-label="MicroFiction (15 items)">MicroFiction</a>
+<a href="https://www.starshipchangeling.net/tag/mortal-kombat-11/" class="tag-cloud-link tag-link-330 tag-link-position-28" style="font-size: 9.4893617021277pt;" aria-label="Mortal Kombat 11 (4 items)">Mortal Kombat 11</a>
+<a href="https://www.starshipchangeling.net/tag/note-to-self/" class="tag-cloud-link tag-link-235 tag-link-position-29" style="font-size: 8pt;" aria-label="note to self (3 items)">note to self</a>
+<a href="https://www.starshipchangeling.net/tag/nvda/" class="tag-cloud-link tag-link-204 tag-link-position-30" style="font-size: 10.68085106383pt;" aria-label="NVDA (5 items)">NVDA</a>
+<a href="https://www.starshipchangeling.net/tag/owning-space/" class="tag-cloud-link tag-link-211 tag-link-position-31" style="font-size: 9.4893617021277pt;" aria-label="owning space (4 items)">owning space</a>
+<a href="https://www.starshipchangeling.net/tag/permalinks/" class="tag-cloud-link tag-link-233 tag-link-position-32" style="font-size: 8pt;" aria-label="permalinks (3 items)">permalinks</a>
+<a href="https://www.starshipchangeling.net/tag/renting-space/" class="tag-cloud-link tag-link-210 tag-link-position-33" style="font-size: 9.4893617021277pt;" aria-label="renting space (4 items)">renting space</a>
+<a href="https://www.starshipchangeling.net/tag/screen-reader/" class="tag-cloud-link tag-link-199 tag-link-position-34" style="font-size: 10.68085106383pt;" aria-label="Screen Reader (5 items)">Screen Reader</a>
+<a href="https://www.starshipchangeling.net/tag/screen-readers/" class="tag-cloud-link tag-link-188 tag-link-position-35" style="font-size: 20.063829787234pt;" aria-label="screen readers (25 items)">screen readers</a>
+<a href="https://www.starshipchangeling.net/tag/screen-reader-users/" class="tag-cloud-link tag-link-170 tag-link-position-36" style="font-size: 14.553191489362pt;" aria-label="Screen Reader users (10 items)">Screen Reader users</a>
+<a href="https://www.starshipchangeling.net/tag/seeing-ai/" class="tag-cloud-link tag-link-334 tag-link-position-37" style="font-size: 21.851063829787pt;" aria-label="Seeing AI (33 items)">Seeing AI</a>
+<a href="https://www.starshipchangeling.net/tag/shortcuts/" class="tag-cloud-link tag-link-96 tag-link-position-38" style="font-size: 9.4893617021277pt;" aria-label="shortcuts (4 items)">shortcuts</a>
+<a href="https://www.starshipchangeling.net/tag/social-networks/" class="tag-cloud-link tag-link-99 tag-link-position-39" style="font-size: 16.191489361702pt;" aria-label="Social Networks (13 items)">Social Networks</a>
+<a href="https://www.starshipchangeling.net/tag/technology/" class="tag-cloud-link tag-link-106 tag-link-position-40" style="font-size: 13.212765957447pt;" aria-label="technology (8 items)">technology</a>
+<a href="https://www.starshipchangeling.net/tag/title-508/" class="tag-cloud-link tag-link-213 tag-link-position-41" style="font-size: 8pt;" aria-label="Title 508 (3 items)">Title 508</a>
+<a href="https://www.starshipchangeling.net/tag/twitter/" class="tag-cloud-link tag-link-109 tag-link-position-42" style="font-size: 11.723404255319pt;" aria-label="Twitter (6 items)">Twitter</a>
+<a href="https://www.starshipchangeling.net/tag/useful-tools/" class="tag-cloud-link tag-link-111 tag-link-position-43" style="font-size: 10.68085106383pt;" aria-label="Useful tools (5 items)">Useful tools</a>
+<a href="https://www.starshipchangeling.net/tag/voiceover/" class="tag-cloud-link tag-link-114 tag-link-position-44" style="font-size: 16.191489361702pt;" aria-label="VoiceOver (13 items)">VoiceOver</a>
+<a href="https://www.starshipchangeling.net/tag/wordpress/" class="tag-cloud-link tag-link-117 tag-link-position-45" style="font-size: 12.468085106383pt;" aria-label="WordPress (7 items)">WordPress</a></div>
+</div>
+				</div>
+			</div>
+			<!-- .error-404 -->
+
+		</main>
+		<!-- #main -->
+	</div><!-- #primary .content-area -->
+
+
+</div><!-- #main .site-main -->
+
+<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+							<div class="footer-widget">
+											<div class="widget-area">
+							<aside id="block-6" class="widget widget_block"><script type="text/javascript"><!-- 
+iDevAffiliate_BoxWidth = "300";
+iDevAffiliate_OutlineColor = "#CCCCCC";
+iDevAffiliate_TitleTextColor = "#333";
+iDevAffiliate_TitleTextBackgroundColor = "#EFEFEF";
+iDevAffiliate_LinkColor = "#0033CC";
+iDevAffiliate_TextColor = "#000000";
+iDevAffiliate_TextBackgroundColor = "#F7F7F7";
+/*-->*/
+</script>
+<script language="JavaScript" type="text/javascript" src="https://plainjane.idevaffiliate.com/530-textad-2-38.html"></script></aside>						</div><!-- .widget-area -->
+									</div><!-- .footer-widgets -->
+	<div class="site-info">
+		<a href="http://independentpublisher.me" rel="designer" title="Indieweb Publisher: A beautiful reader-focused WordPress theme, for you.">Indieweb Publisher</a> empowered by <a href="http://wordpress.org/" rel="generator" title="WordPress: A free open-source publishing platform">WordPress</a>			</div>
+	<!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+</div><!-- #page .site -->
+
+	<div style="display:none">
+			<div class="grofile-hash-map-793d166ac0581fa8efbccaad694e688f">
+		</div>
+		</div>
+		<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.5.1/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202245' id='grofiles-cards-js'></script>
+<script type='text/javascript' id='wpgroho-js-extra'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.5.1/modules/wpgroho.js' id='wpgroho-js'></script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/themes/indieweb-publisher-master/js/skip-link-focus-fix.js?ver=20130115' id='indieweb-publisher-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=83ec8aa758f883d6da14' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.starshipchangeling.net/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=8767d0da914b289bd862' id='jetpack-lazy-images-js'></script>
+	<script src='https://stats.wp.com/e-202245.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'151625294',post:'0',tz:'-5',srv:'www.starshipchangeling.net',j:'1:11.5.1'} ]);
+		_stq.push([ 'clickTrackerInit', '151625294', '0' ]);
+	</script>
+</body>
+</html>
+
+0
+

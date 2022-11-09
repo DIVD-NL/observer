@@ -1,0 +1,31 @@
+HTTP/1.1 410 Gone
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Ray: 767766f59c6bb9ba-BRU
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 09 Nov 2022 14:57:40 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=n9%2BA9WtygI8vKlDzlmmm8%2FczHueiFSMIXF6FjttffrRq5lzDN26fNvK63btRFDhqxNCS%2BdFAQZQ2oEKUi94X7UHXRFwOzA7637XqvD03pA8Ikh%2FRTR96NHd%2FY3Rpi%2B8%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Server-Timing: cf-q-config;dur=4.000001354143e-06
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+
+313
+<!DOCTYPE html><html>
+<head>
+  <meta charset="UTF-8">
+  <title>410 Gone</title>
+  <meta http-equiv="refresh" content="1; url=https://kuropen.org/">
+</head>
+<body>
+  <h1>410 Gone</h1>
+  <p>The resource you requested is no longer available.</p>
+  <p>Redirecting to Kuropen's current website. 
+  If not, manually move onto <a href="https://kuropen.org/">Kuropen's current website</a>.</p>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"767766f59c6bb9ba","version":"2022.11.0","r":1,"token":"8d36a5e9c2574c598bf7d4df81b6e40a","si":100}' crossorigin="anonymous"></script>
+</body></html>
+0
+

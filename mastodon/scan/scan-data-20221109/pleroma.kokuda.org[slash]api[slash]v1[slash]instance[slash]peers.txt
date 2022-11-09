@@ -1,0 +1,22 @@
+HTTP/1.1 410 Gone
+Connection: close
+Content-Length: 310
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:16:05 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Upgrade: h2
+
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>pleroma.kokuda.org</title>
+	</head>
+	<body>
+	<div id="body">
+	<h1>Pleroma.kokuda.org has been closed.</h1>
+	contact: <a href="https://social.mikutter.hachune.net/@akkiesoft">akkiesoft@social.mikutter.hachune.net</a>
+	</body>
+</html>
+
+

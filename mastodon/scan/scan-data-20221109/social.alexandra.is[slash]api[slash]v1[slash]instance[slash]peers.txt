@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link,X-RateLimit-Reset,X-RateLimit-Limit,X-RateLimit-Remaining,X-Request-Id,Idempotency-Key
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: upgrade-insecure-requests;script-src 'self';connect-src 'self' blob: https://social.alexandra.is wss://social.alexandra.is;media-src 'self' https:;img-src 'self' data: blob: https:;default-src 'none';base-uri 'self';frame-ancestors 'none';style-src 'self' 'unsafe-inline';font-src 'self';manifest-src 'self';
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:17:51 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: same-origin
+Server: nginx/1.18.0 (Ubuntu)
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzmB7c8nZVT04A7Cix
+X-Xss-Protection: 1; mode=block
+
+bd9
+["nitiasa.com","cybre.space","mstdn.schoolidol.club","sts.lqt.moe","2nd.slum.cloud","mochiwasadon.com","mstdn.klamath.jp","libera.tokyo","melilot.icu","mstdn.delmulin.com","minohdon.jp","mstdn.f72u.net","osomatsu.mastportal.info","ne.akarinext.org","pao.moe","mstdn.cute2d.website","toot.blue","august-don.site","abyss.fun","twiddon.com","gamingjp.org","pleroma.io","mstdn.poyo.me","layer8.space","pleroma.atsuchan.page","mstdn.hyogo.jp","pleroma.levome-dol.com","pl.secretsealing.club","tgragnato.it","mastodon.tojo.tokyo","mastodon.brodi.space","uwu.social","backyard.cloud","mastodon.social","vapers.jp","tiny.tilde.website","don.m2hq.net","machikadon.online","nemushee.net","sgp.hostdon.ne.jp","sin.tyaku.com","m.eula.dev","misskey.noellabo.jp","mstdn.a-tak.com","mstdn.yamaken.jp","mstdn.tsukiyono.blue","digitan.ga","kanina.be","mstdn.ryanak.xyz","dogwhipping.day","mast.moe","animal-crossing.mastportal.info","udon.red","drizzle-damp.net","m.moriya.faith","mstdn.b-shock.org","mstdn-bike.net","junkhub.org","mastodon.potproject.net","social.4f9e1738.ignorelist.com","kr.akirin.xyz","mastodon.ef67daisuki.club","relay.schizoid.social","chaosphere.hostdon.jp","line.yamanote.tokyo.jp","wintermute.fr.to","mofmof.coffee","mstdn.bmw-and-more.info","qnmd.info","iyasaretai.pw","ma.fono.jp","mstdn.love","kemoner-don.tokyo","yysk.icu","social.azure.icu","pcgamer.social","mastodon.nagoya","mstdn.kmdkuk.com","ykzts.technology","toot.yukimochi.jp","sumanko.ml","mstdn.kessai-otaku.club","mastodon.chotto.moe","chillout.chat","social.k1ppl.com","ting.cm","hakodon.cf","d.c-cha.cc","social.lohn.in","nightly.fedibird.com","mulmeyun.church","pokemon.mastportal.info","gensokyo.town","sleeping.town","mstdn.dgm.pw","p.oshiteku.app","mastodon.white-void.net","mstdn.kurosuke.org","hunk.city","mstdn-jp.site","testingmstdn.abcang.net","setl.ist","social.0ko.me","tomitodon.huideyeren.info","miyon.miyon.org","mastodon.someotherguy.xyz","mstdn.yaesu-eas.tokyo","s-shinjuku-rail.hostdon.ne.jp","mstdn.gunma.jp","pleroma.noellabo.jp","cipioshouse.xyz","catgram.jp","mstdn.haun.jp","mastodon.juggler.jp","real-escape.jp","orenoshiro.site","discorporea.com","one.telmina.com","fedi.nullob.si","pr.shc.kanagawa.jp","social.homunyan.com","mastodon.exp0.ml","mstdn.fujii-yuji.net","makimaki.jp","md.korako.me","yakumo.foundation","fet.bar","mstdn.plusminus.io","neko.ci","dtp-mstdn.jp","mastodon.matcha-soft.com","pleroma.sembei.net","mastodon.astrr.ru","don.gomasy.jp","kancolle.social","mstdn.unasuke.com","mustardon.tokyo","mk.nixnet.social","conoha.cf","precure.ml","chiffonexperiment.hostdon.ne.jp","comm.cx","mstdn.asterism.xyz","social.cosnomi.com","1m.cutls.com","m.aqr.af","mastodon.crazynewworld.net","interact.bluecore.net","mofu.kemo.no","popon.pptdn.jp","pl.thj.no","misskey.bubbletea.dev","kiritan.work","mstdn.ikebuku.ro","mstdn.gots9713.xyz","club.elephantus.moe","meisskey.one","mstdn.vodka","tribefeed.online","jitakurack.chotto.moe","occult-zuki.com","crimew.gay","watadon.com","fedibird.com","blue.skye.cx","okadon.masto.host"]
+0
+

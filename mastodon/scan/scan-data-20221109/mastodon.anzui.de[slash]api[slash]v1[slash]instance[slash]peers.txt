@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76777a68ebe02dd2-BRU
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:10:57 GMT
+Location: https://anzui.de/api/v1/instance/peers
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rkq%2FgG9h9A%2BMAJxs%2FN93GedkIkukreJ%2FavcbaPS%2BkXWZHyclH%2FoowNYmGQPuOSCrFMQGiVXC3JDs39%2F8RJlZh2iFl6mdrUMDeECqyPvSJ1Pakkrox84K9%2FmF9Yb1jRLGHZBKxg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ghost.cafe; img-src 'self' https: data: blob: https://ghost.cafe; style-src 'self' https://ghost.cafe 'nonce-9NZXN+RRg+bcC/zR10WTNQ=='; media-src 'self' https: data: https://ghost.cafe; frame-src 'self' https:; manifest-src 'self' https://ghost.cafe; connect-src 'self' data: blob: https://ghost.cafe https://cdn.masto.host wss://ghost.cafe; script-src 'self' https://ghost.cafe; child-src 'self' blob: https://ghost.cafe; worker-src 'self' blob: https://ghost.cafe
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:02:40 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.548913Z
+X-Request-Id: 301148c1-a057-4831-90d7-c0be95dae6f9
+X-Runtime: 0.004712
+X-Xss-Protection: 0
+
+0
+

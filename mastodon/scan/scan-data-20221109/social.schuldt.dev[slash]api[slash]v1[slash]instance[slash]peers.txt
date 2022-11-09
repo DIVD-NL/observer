@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://social.schuldt.dev; img-src 'self' https: data: blob: https://social.schuldt.dev; style-src 'self' https://social.schuldt.dev 'nonce-jyb2mIjXqcjKJlpG+QToqw=='; media-src 'self' https: data: https://social.schuldt.dev; frame-src 'self' https:; manifest-src 'self' https://social.schuldt.dev; connect-src 'self' data: blob: https://social.schuldt.dev https://social.schuldt.dev wss://social.schuldt.dev; script-src 'self' https://social.schuldt.dev; child-src 'self' blob: https://social.schuldt.dev; worker-src 'self' blob: https://social.schuldt.dev
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:30 GMT
+Etag: W/"f244b17bb1b205baaed0a974d444d962"
+Permissions-Policy: interest-cohort=()
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Cached: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.565364Z
+X-Request-Id: 0df5388c-3896-43ec-8a9a-688d7455ce46
+X-Runtime: 0.008449
+X-Xss-Protection: 0
+
+13
+["mastodon.social"]
+0
+

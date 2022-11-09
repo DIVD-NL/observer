@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://genart.social; img-src 'self' https: data: blob: https://genart.social; style-src 'self' https://genart.social 'nonce-Siv1/i1IFzA8XP7AjGcv/w=='; media-src 'self' https: data: https://genart.social; frame-src 'self' https:; manifest-src 'self' https://genart.social; connect-src 'self' data: blob: https://genart.social https://files.genart.social wss://genart.social; script-src 'self' https://genart.social; child-src 'self' blob: https://genart.social; worker-src 'self' blob: https://genart.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:01:59 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.574588Z
+X-Request-Id: 53911d1a-fc89-40d4-83ee-2af2d2bb7cac
+X-Runtime: 0.003271
+X-Xss-Protection: 0
+
+0
+

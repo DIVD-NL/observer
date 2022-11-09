@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://eumkkili.theyouthandeum.com; img-src 'self' https: data: blob: https://eumkkili.theyouthandeum.com; style-src 'self' https://eumkkili.theyouthandeum.com 'nonce-yoW59Tee9Y9MkPv6k+4TaQ=='; media-src 'self' https: data: https://eumkkili.theyouthandeum.com; frame-src 'self' https:; manifest-src 'self' https://eumkkili.theyouthandeum.com; connect-src 'self' data: blob: https://eumkkili.theyouthandeum.com https://eumkkili.theyouthandeum.com wss://eumkkili.theyouthandeum.com; script-src 'self' https://eumkkili.theyouthandeum.com; child-src 'self' blob: https://eumkkili.theyouthandeum.com; worker-src 'self' blob: https://eumkkili.theyouthandeum.com
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:47 GMT
+Etag: W/"7ae7fee7aff66865746db8d5b84ad479"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 298
+X-Ratelimit-Reset: 2022-11-09T12:00:00.478678Z
+X-Request-Id: d5404a2d-8e58-46b3-9f58-1c8af2601141
+X-Runtime: 0.006198
+X-Xss-Protection: 0
+
+3b2
+["don.naru.cafe","jmm.kr","k.lapy.link","ak.kawen.space","madost.one","stella.ocellaris.dev","kawen.space","pm.ernix.jp","social.wideboys.org","mast.sftblw.moe","qdon.space","kurry.social","nonexiste.net","mstdn.life","eeeeeeeee.eu","anonsys.net","poliverso.org","friendica.togart.de","friendica.myportal.social","herzbu.de","fri.aethercom.de","kudabiverse.com","friendica.ambag.es","friendica.mifritscher.de","friendica.ucy.de","social.jmueller.eu","mstdn.nere9.help","social.tromdienste.de","imastodon.net","friendica.offsite.guru","fr.readthefinemanual.net","social.anacreonte.eu","petroskowo.pl","f.kretschmann.social","friend.geoffray-levasseur.org","redeyes.club","quitter.pl","friendica.hashy-net.de","friendica.mschmidt-et.de","talkabout.cf","anarchydica.net","friendica.daniel-siepmann.de","f.freinetz.ch","follow.schmaller.de","friendica.opencloud.lu","social.tyngsboroughma.net","friendica.kommune4.de","mastodon.social","twingyeo.kr"]
+0
+

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:19:39 GMT
+Etag: W/"6bbbebf04778361bebf0b8fef22ee1d7"
+Server: Mastodon
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Cached: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T10:20:00.461572Z
+X-Request-Id: 8833ab65-513d-4f4f-9287-dbf085dd3e81
+X-Runtime: 0.041174
+X-Xss-Protection: 1; mode=block
+
+2a
+["social.ctsollars.com","sharebright.net"]
+0
+

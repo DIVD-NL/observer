@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400, public
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://babelbabel.masto.host; img-src 'self' https: data: blob: https://babelbabel.masto.host; style-src 'self' https://babelbabel.masto.host 'nonce-A8QikXlByqbuerfHD84oDQ=='; media-src 'self' https: data: https://babelbabel.masto.host; frame-src 'self' https:; manifest-src 'self' https://babelbabel.masto.host; connect-src 'self' data: blob: https://babelbabel.masto.host https://cdn.masto.host wss://babelbabel.masto.host; script-src 'self' https://babelbabel.masto.host; child-src 'self' blob: https://babelbabel.masto.host; worker-src 'self' blob: https://babelbabel.masto.host
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 14:57:05 GMT
+Etag: W/"c8debd48cbe244dc7f0ee1d71e3578db"
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:00:00.613796Z
+X-Request-Id: 7999b014-9be4-4d32-91aa-db2d3c0fb27a
+X-Runtime: 0.005335
+X-Xss-Protection: 0
+
+45b
+["hcommons.social","econtwitter.net","lor.sh","mastodon.scot","mastodon.nz","mastodontti.fi","eldritch.cafe","jaesharp.social","sfba.social","dice.camp","mastodon.cloud","infosec.exchange","nerdculture.de","yharnam.singles","octodon.social","mastodon.world","ieji.de","eupolicy.social","mastodon.ie","mstdn.social","toot.community","mastodon.com.tr","pleroma.jamesp.org","theres.life","mindly.social","1210.nl","hachyderm.io","mastodon.radio","mk.chocoflan.net","cybercrusade.xyz","gly.one","ravenation.club","djsumdog.com","kcmo.social","freespeechextremist.com","genomic.social","rojogato.com","social.mrhands.horse","data-folks.masto.host","chaos.social","eveningzoo.club","pl.seahorse.sh","hub.natehiggers.online","nightshift.social","linuxrocks.online","chudbuds.lol","mk.starnix.network","noc.social","sleepy.cafe","seal.cafe","mastodonapp.uk","mas.to","nicecrew.digital","mastodon.sdf.org","social.anoxinon.de","mstdn.starnix.network","mastodon.social","floss.social","mastodon.technology","fosstodon.org","a.gup.pe","beefyboys.win","mastodon.lol","gleasonator.com","mastodon.online","poa.st","fediverse.pl"]
+0
+

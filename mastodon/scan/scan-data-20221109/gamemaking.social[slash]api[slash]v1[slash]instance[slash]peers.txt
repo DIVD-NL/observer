@@ -1,0 +1,22 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://gamemaking.social; img-src 'self' https: data: blob: https://gamemaking.social; style-src 'self' https://gamemaking.social 'nonce-FME4O4z1d6rTNBjAS8PblQ=='; media-src 'self' https: data: https://gamemaking.social; frame-src 'self' https:; manifest-src 'self' https://gamemaking.social; connect-src 'self' data: blob: https://gamemaking.social https://cdn.masto.host wss://gamemaking.social; script-src 'self' https://gamemaking.social; child-src 'self' blob: https://gamemaking.social; worker-src 'self' blob: https://gamemaking.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:01:07 GMT
+Permissions-Policy: interest-cohort=()
+Server: Mastodon
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:05:00.924752Z
+X-Request-Id: b7b4c5b8-a2fe-4b27-9a82-5606bca0a5a0
+X-Runtime: 0.005255
+X-Xss-Protection: 0
+
+0
+

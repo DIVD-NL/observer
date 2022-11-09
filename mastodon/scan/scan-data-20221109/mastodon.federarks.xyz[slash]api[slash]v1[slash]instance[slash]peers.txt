@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://mastodon.federarks.xyz; img-src 'self' https: data: blob: https://mastodon.federarks.xyz; style-src 'self' https://mastodon.federarks.xyz 'nonce-p3CNlePjbCgKFD5KMi23og=='; media-src 'self' https: data: https://mastodon.federarks.xyz; frame-src 'self' https:; manifest-src 'self' https://mastodon.federarks.xyz; connect-src 'self' data: blob: https://mastodon.federarks.xyz https://mastodon.federarks.xyz wss://mastodon.federarks.xyz; script-src 'self' https://mastodon.federarks.xyz; child-src 'self' blob: https://mastodon.federarks.xyz; worker-src 'self' blob: https://mastodon.federarks.xyz
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:11:19 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:15:00.754302Z
+X-Request-Id: ab79415d-94fa-450c-85aa-83c76028374d
+X-Runtime: 0.006576
+X-Xss-Protection: 1; mode=block
+
+0
+

@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000
+Date: Wed, 09 Nov 2022 14:57:07 GMT
+Location: https://jae.fi/pages/minetest/
+Server: dn0magik
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: something
+Content-Length: 0
+

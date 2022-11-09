@@ -1,0 +1,579 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cache-Control: no-cache, must-revalidate, max-age=0
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 76778bce89bcd494-BRU
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:22:50 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Link: <https://www.urdumediamonitor.com/wp-json/>; rel="https://api.w.org/"
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=U3uMfreqVKAgFqiQs7FgtxZLbuIbi2aU6G8d%2BYx26ZlLOkCBude%2BsQKlFUaiqBv3f4gtM4ltUcq1mpKYiSmYEmWCt%2Bv9jgVGih3vfSiVqivxZmwDYejpLfB8D394E4bjfoCh9LSPsigcj0A%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Cache: MISS
+X-Cacheable: NO:Not Cacheable
+X-Content-Type-Options: nosniff
+
+d881
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta name='robots' content='noindex, follow' />
+
+<title>Page not found - Urdu Media Monitor</title>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:title" content="Page not found - Urdu Media Monitor" />
+<meta property="og:site_name" content="Urdu Media Monitor" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.urdumediamonitor.com/#organization","name":"Urdu Media Monitor","url":"https://www.urdumediamonitor.com/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://www.urdumediamonitor.com/#/schema/logo/image/","url":"https://www.urdumediamonitor.com/wp-content/uploads/2018/10/ummlogo.png","contentUrl":"https://www.urdumediamonitor.com/wp-content/uploads/2018/10/ummlogo.png","width":300,"height":122,"caption":"Urdu Media Monitor"},"image":{"@id":"https://www.urdumediamonitor.com/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://www.urdumediamonitor.com/#website","url":"https://www.urdumediamonitor.com/","name":"Urdu Media Monitor","description":"","publisher":{"@id":"https://www.urdumediamonitor.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.urdumediamonitor.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Urdu Media Monitor &raquo; Feed" href="https://www.urdumediamonitor.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Urdu Media Monitor &raquo; Comments Feed" href="https://www.urdumediamonitor.com/comments/feed/" />
+<link rel="alternate" type="application/stream+json" title="Urdu Media Monitor &raquo; Activity-Streams Feed" href="https://www.urdumediamonitor.com/feed/as1/" />
+<link rel="alternate" type="application/stream+json" title="Urdu Media Monitor &raquo; Activity-Streams Comments Feed " href="https://www.urdumediamonitor.com/comments/feed/as1/" />
+
+<script src="//www.googletagmanager.com/gtag/js?id=UA-38798601-1" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.7.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-38798601-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if ( mi_track_user ) {
+					function __gtagDataLayer() {
+						dataLayer.push( arguments );
+					}
+
+					function __gtagTracker( type, name, parameters ) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply( null, arguments );
+							return;
+						}
+
+						if ( type === 'event' ) {
+							
+															parameters.send_to = monsterinsights_frontend.ua;
+								__gtagDataLayer( type, name, parameters );
+													} else {
+							__gtagDataLayer.apply( null, arguments );
+						}
+					}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+											} );
+															__gtagTracker( 'config', 'UA-38798601-1', {"forceSSL":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+										window.gtag = __gtagTracker;											(function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						})();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.urdumediamonitor.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.urdumediamonitor.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.urdumediamonitor.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://www.urdumediamonitor.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_style-css' href='https://www.urdumediamonitor.com/wp-content/themes/colormag/style.css?ver=2.1.3' type='text/css' media='all' />
+<style id='colormag_style-inline-css' type='text/css'>
+.colormag-button,blockquote,button,input[type=reset],input[type=button],input[type=submit],#masthead.colormag-header-clean #site-navigation.main-small-navigation .menu-toggle,.fa.search-top:hover,#masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle,.main-navigation ul li.focus > a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.focus > a,.home-icon.front_page_on,.main-navigation a:hover,.main-navigation ul li ul li a:hover,.main-navigation ul li ul li:hover>a,.main-navigation ul li.current-menu-ancestor>a,.main-navigation ul li.current-menu-item ul li a:hover,.main-navigation ul li.current-menu-item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current_page_item>a,.main-navigation ul li:hover>a,.main-small-navigation li a:hover,.site-header .menu-toggle:hover,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover > a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor > a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item > a,#masthead .main-small-navigation li:hover > a,#masthead .main-small-navigation li.current-page-ancestor > a,#masthead .main-small-navigation li.current-menu-ancestor > a,#masthead .main-small-navigation li.current-page-item > a,#masthead .main-small-navigation li.current-menu-item > a,.main-small-navigation .current-menu-item>a,.main-small-navigation .current_page_item > a,.promo-button-area a:hover,#content .wp-pagenavi .current,#content .wp-pagenavi a:hover,.format-link .entry-content a,.pagination span,.comments-area .comment-author-link span,#secondary .widget-title span,.footer-widgets-area .widget-title span,.colormag-footer--classic .footer-widgets-area .widget-title span::before,.advertisement_above_footer .widget-title span,#content .post .article-content .above-entry-meta .cat-links a,.page-header .page-title span,.entry-meta .post-format i,.more-link,.no-post-thumbnail,.widget_featured_slider .slide-content .above-entry-meta .cat-links a,.widget_highlighted_posts .article-content .above-entry-meta .cat-links a,.widget_featured_posts .article-content .above-entry-meta .cat-links a,.widget_featured_posts .widget-title span,.widget_slider_area .widget-title span,.widget_beside_slider .widget-title span,.wp-block-quote,.wp-block-quote.is-style-large,.wp-block-quote.has-text-align-right{background-color:#9b2f2f;}#site-title a,.next a:hover,.previous a:hover,.social-links i.fa:hover,a,#masthead.colormag-header-clean .social-links li:hover i.fa,#masthead.colormag-header-classic .social-links li:hover i.fa,#masthead.colormag-header-clean .breaking-news .newsticker a:hover,#masthead.colormag-header-classic .breaking-news .newsticker a:hover,#masthead.colormag-header-classic #site-navigation .fa.search-top:hover,#masthead.colormag-header-classic #site-navigation.main-navigation .random-post a:hover .fa-random,.dark-skin #masthead.colormag-header-classic #site-navigation.main-navigation .home-icon:hover .fa,#masthead .main-small-navigation li:hover > .sub-toggle i,.better-responsive-menu #masthead .main-small-navigation .sub-toggle.active .fa,#masthead.colormag-header-classic .main-navigation .home-icon a:hover .fa,.pagination a span:hover,#content .comments-area a.comment-edit-link:hover,#content .comments-area a.comment-permalink:hover,#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover,.comment .comment-reply-link:hover,.nav-next a,.nav-previous a,.footer-widgets-area a:hover,a#scroll-up i,#content .post .article-content .entry-title a:hover,.entry-meta .byline i,.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover,.search .entry-title a:hover,.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,.entry-meta .tag-links a:hover,.single #content .tags a:hover,.post-box .entry-meta .cat-links a:hover,.post-box .entry-meta .posted-on a:hover,.post.post-box .entry-title a:hover,.widget_featured_slider .slide-content .below-entry-meta .byline a:hover,.widget_featured_slider .slide-content .below-entry-meta .comments a:hover,.widget_featured_slider .slide-content .below-entry-meta .posted-on a:hover,.widget_featured_slider .slide-content .entry-title a:hover,.byline a:hover,.comments a:hover,.edit-link a:hover,.posted-on a:hover,.tag-links a:hover,.widget_highlighted_posts .article-content .below-entry-meta .byline a:hover,.widget_highlighted_posts .article-content .below-entry-meta .comments a:hover,.widget_highlighted_posts .article-content .below-entry-meta .posted-on a:hover,.widget_highlighted_posts .article-content .entry-title a:hover,.widget_featured_posts .article-content .entry-title a:hover,.related-posts-main-title .fa,.single-related-posts .article-content .entry-title a:hover{color:#9b2f2f;}#site-navigation{border-top-color:#9b2f2f;}#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item,#masthead.colormag-header-classic #site-navigation .menu-toggle,#masthead.colormag-header-classic #site-navigation .menu-toggle:hover,#masthead.colormag-header-classic .main-navigation ul > li:hover > a,#masthead.colormag-header-classic .main-navigation ul > li.current-menu-item > a,#masthead.colormag-header-classic .main-navigation ul > li.current-menu-ancestor > a,#masthead.colormag-header-classic .main-navigation ul li.focus > a,.promo-button-area a:hover,.pagination a span:hover{border-color:#9b2f2f;}#secondary .widget-title,.footer-widgets-area .widget-title,.advertisement_above_footer .widget-title,.page-header .page-title,.widget_featured_posts .widget-title,.widget_slider_area .widget-title,.widget_beside_slider .widget-title{border-bottom-color:#9b2f2f;}@media (max-width:768px){.better-responsive-menu .sub-toggle{background-color:#7d1111;}}
+</style>
+<link rel='stylesheet' id='colormag-featured-image-popup-css-css' href='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/magnific-popup/magnific-popup.min.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-fontawesome-css' href='https://www.urdumediamonitor.com/wp-content/themes/colormag/fontawesome/css/font-awesome.min.css?ver=2.1.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=8.7.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.urdumediamonitor.com","hash_tracking":"false","ua":"UA-38798601-1","v4_id":""};/* ]]> */
+</script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.urdumediamonitor.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.urdumediamonitor.com\/wp-json\/wordpress-popular-posts","ID":0,"token":"e97488fa67","lang":0,"debug":1}
+</script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.0.2' id='wpp-js-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/html5shiv.min.js?ver=2.1.3' id='html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.urdumediamonitor.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.urdumediamonitor.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.urdumediamonitor.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.0.1" />
+<meta name="generator" content="Site Kit by Google 1.78.0" /> <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://www.urdumediamonitor.com/wp-content/uploads/2017/10/favicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.urdumediamonitor.com/wp-content/uploads/2017/10/favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.urdumediamonitor.com/wp-content/uploads/2017/10/favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.urdumediamonitor.com/wp-content/uploads/2017/10/favicon-300x300.png" />
+<style type="text/css" id="wp-custom-css">
+			@import url(//fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+@import url("https://fontlibrary.org/face/metropolis");
+html {
+	width: 100%;
+	overflow-x: hidden;
+}
+h1, h2, h3, h4, h5, h6,
+body,
+button,
+input,
+select,
+textarea,
+p {
+	font-family: "MetropolisRegular", sans-serif;
+	font-weight: 400;
+	font-size: 1.05em;
+	line-height: 1.75;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+		font-family: "MetropolisBold", sans-serif;
+}
+
+.category-articles-in-urdu [dir=rtl] {
+font-family: 'Noto Nastaliq Urdu Draft', serif;
+	font-size: 1em;
+	line-height: 2.5em;
+	text-align: right;
+}
+.category-articles-in-urdu .entry-header,
+.category-articles-in-urdu .above-entry-meta,
+.category-articles-in-urdu .below-entry-meta {
+	text-align: right;
+}
+/*
+.alignfull {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    max-width: 100vw;
+		margin: 1em -50vw 1.5em;
+}*/
+.alignfull * {
+	width: 100%;
+}
+.alignwide figure * {
+	width: 100%;
+}
+.wp-block-columns .wp-block-column {
+	padding: 15px;
+}
+.wp-block-columns .wp-block-column:first-of-type {
+	padding-left: 0px;
+}.wp-block-columns .wp-block-column:last-of-type {
+	padding-right: 0px;
+}
+.wp-block-gallery.alignwide {
+	margin: 0 auto;
+}
+.wp-block-embed-youtube.alignfull iframe {
+	width: 100%!important;
+	height: 100%!important;
+}
+cite {
+	font-size: small;
+	font-style: normal;
+	text-transform: uppercase;
+}
+.single #content .post, #content .post {
+	box-shadow: none;
+}		</style>
+</head>
+<body class="error404 wp-custom-logo wp-embed-responsive right-sidebar wide better-responsive-menu">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg> <div id="page" class="hfeed site">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<header id="masthead" class="site-header clearfix ">
+<div id="header-text-nav-container" class="clearfix">
+<div class="news-bar">
+<div class="inner-wrap clearfix">
+<div class="breaking-news">
+<strong class="breaking-news-latest">Latest:</strong>
+<ul class="newsticker">
+<li>
+<a href="https://www.urdumediamonitor.com/2021/09/20/gujarat-police-kills-yet-another-muslim-in-custody/" title="Gujarat Police Kills Yet Another Muslim in Custody">
+Gujarat Police Kills Yet Another Muslim in Custody </a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2021/07/27/not-a-single-house-stands-on-its-foundation-no-shop-has-survived-mahar-looks-like-a-scourged-city/" title="Not a Single House stands on its Foundation, No Shop Has Survived, Mahad Looks Like a Scourged City">
+Not a Single House stands on its Foundation, No Shop Has Survived, Mahad Looks Like a Scourged City </a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2021/03/15/mufti-yasir-nadeem-al-wajidi-rejects-casteism-as-un-islamic-mischief-mongers-react-with-profanity/" title="Mufti Yasir Nadeem al Wajidi Rejects Casteism as Un-Islamic, Mischief Mongers React with Profanity">
+Mufti Yasir Nadeem al Wajidi Rejects Casteism as Un-Islamic, Mischief Mongers React with Profanity </a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2020/11/14/bjp-supporters-rejoicing-bihar-victory-attack-mosque-injure-attendees/" title="BJP Supporters Rejoicing Bihar Victory Attack Mosque, Injure Attendees">
+BJP Supporters Rejoicing Bihar Victory Attack Mosque, Injure Attendees </a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2020/09/10/the-government-demanding-compensation-for-damage-to-public-property-must-pay-to-civilians-for-ruining-their-lives/" title="The Government Demanding Compensation for Damage to Public Property Must Pay to Civilians for Ruining Their Lives">
+The Government Demanding Compensation for Damage to Public Property Must Pay to Civilians for Ruining Their Lives </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="inner-wrap">
+<div id="header-text-nav-wrap" class="clearfix">
+<div id="header-left-section">
+<div id="header-logo-image">
+<a href="https://www.urdumediamonitor.com/" class="custom-logo-link" rel="home"><img width="300" height="122" src="https://www.urdumediamonitor.com/wp-content/uploads/2018/10/ummlogo.png" class="custom-logo" alt="Urdu Media Monitor" /></a> </div>
+<div id="header-text" class="screen-reader-text">
+<h3 id="site-title">
+<a href="https://www.urdumediamonitor.com/" title="Urdu Media Monitor" rel="home">Urdu Media Monitor</a>
+</h3>
+</div>
+</div>
+<div id="header-right-section">
+<div id="header-right-sidebar" class="clearfix">
+<aside id="search-6" class="widget widget_search clearfix">
+<form action="https://www.urdumediamonitor.com/" class="search-form searchform clearfix" method="get" role="search">
+<div class="search-wrap">
+<input type="search" class="s field" name="s" value="" placeholder="Search" />
+<button class="search-icon" type="submit"></button>
+</div>
+</form>
+</aside> </div>
+</div>
+</div>
+</div>
+<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+<div class="inner-wrap clearfix">
+<div class="search-random-icons-container">
+<div class="top-search-wrap">
+<i class="fa fa-search search-top"></i>
+<div class="search-form-top">
+<form action="https://www.urdumediamonitor.com/" class="search-form searchform clearfix" method="get" role="search">
+<div class="search-wrap">
+<input type="search" class="s field" name="s" value="" placeholder="Search" />
+<button class="search-icon" type="submit"></button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<p class="menu-toggle"></p>
+<div class="menu-primary-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-2182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2182"><a href="https://www.urdumediamonitor.com/category/articles/">Articles</a>
+<ul class="sub-menu">
+<li id="menu-item-2187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2187"><a href="https://www.urdumediamonitor.com/category/historypersonalities/">History/Personalities</a></li>
+</ul>
+</li>
+<li id="menu-item-2188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2188"><a href="https://www.urdumediamonitor.com/category/reports/">News Reports</a></li>
+<li id="menu-item-2186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2186"><a href="https://www.urdumediamonitor.com/category/excerpts-from-urdu-books/">Book Excerpts</a></li>
+<li id="menu-item-2184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2184"><a href="https://www.urdumediamonitor.com/category/books/">Book Reviews</a></li>
+<li id="menu-item-3686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3686"><a href="https://www.ghazalikhan.com/">Editor&#8217;s Blog</a></li>
+<li id="menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2190"><a href="https://www.urdumediamonitor.com/about-us/">About Us</a></li>
+<li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2455"><a href="https://www.urdumediamonitor.com/contact-us/">Contact Us</a></li>
+</ul></div>
+</div>
+</nav>
+</div>
+</header>
+<div id="main" class="clearfix">
+<div class="inner-wrap clearfix">
+<div id="primary">
+<div id="content" class="clearfix">
+<section class="error-404 not-found">
+<div class="page-content">
+<header class="page-header">
+<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+</header>
+<p>It looks like nothing was found at this location. Try the search below.</p>
+<form action="https://www.urdumediamonitor.com/" class="search-form searchform clearfix" method="get" role="search">
+<div class="search-wrap">
+<input type="search" class="s field" name="s" value="" placeholder="Search" />
+<button class="search-icon" type="submit"></button>
+</div>
+</form>
+</div>
+</section>
+</div>
+</div>
+<div id="secondary">
+<aside id="wpp-15" class="widget popular-posts clearfix">
+<h3 class="widget-title"><span>Popular 24 hours</span></h3> <div class="wpp-widget-placeholder" data-widget-id="wpp-15"></div>
+</aside>
+<aside id="recent-posts-7" class="widget widget_recent_entries clearfix">
+<h3 class="widget-title"><span>Recent Posts</span></h3>
+<ul>
+<li>
+<a href="https://www.urdumediamonitor.com/2021/09/20/gujarat-police-kills-yet-another-muslim-in-custody/">Gujarat Police Kills Yet Another Muslim in Custody</a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2021/07/27/not-a-single-house-stands-on-its-foundation-no-shop-has-survived-mahar-looks-like-a-scourged-city/">Not a Single House stands on its Foundation, No Shop Has Survived, Mahad Looks Like a Scourged City</a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2021/03/15/mufti-yasir-nadeem-al-wajidi-rejects-casteism-as-un-islamic-mischief-mongers-react-with-profanity/">Mufti Yasir Nadeem al Wajidi Rejects Casteism as Un-Islamic, Mischief Mongers React with Profanity</a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2020/11/14/bjp-supporters-rejoicing-bihar-victory-attack-mosque-injure-attendees/">BJP Supporters Rejoicing Bihar Victory Attack Mosque, Injure Attendees</a>
+</li>
+<li>
+<a href="https://www.urdumediamonitor.com/2020/09/10/the-government-demanding-compensation-for-damage-to-public-property-must-pay-to-civilians-for-ruining-their-lives/">The Government Demanding Compensation for Damage to Public Property Must Pay to Civilians for Ruining Their Lives</a>
+</li>
+</ul>
+</aside><aside id="recent-comments-5" class="widget widget_recent_comments clearfix"><h3 class="widget-title"><span>Recent Comments</span></h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Arshad</span> on <a href="https://www.urdumediamonitor.com/2016/02/10/sectarian-hatred-a-menace-spread-by-the-anti-muslim-intelligence-agencies/#comment-463757">Sectarian Hatred: A Menace Spread by the Anti-Muslim intelligence Agencies</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://qindeelonline.com' rel='external nofollow ugc' class='url'>Abdul Bari</a></span> on <a href="https://www.urdumediamonitor.com/2020/07/30/hundreds-of-goats-forced-to-die-of-thirst-hunger-and-suffocation-traders-left-at-the-mercy-of-police/#comment-463754">Hundreds of Goats Forced to Die of Thirst, Hunger and Suffocation, Traders Left at the Mercy of Police</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://india.shafaqna.com/EN/muhammad%ef%b7%ba-the-world-leader/' rel='external nofollow ugc' class='url'>Muhammadﷺ: The World Leader - Shafaqna India | Indian Shia News Agency</a></span> on <a href="https://www.urdumediamonitor.com/2020/07/08/muhammad%ef%b7%ba-the-world-leader/#comment-463753">Muhammadﷺ: The World Leader</a></li><li class="recentcomments"><span class="comment-author-link">Shihab</span> on <a href="https://www.urdumediamonitor.com/2020/05/26/your-eid-greetings-not-acceptable-to-us-mr-kejriwal/#comment-463750">Your Eid Greetings Not Acceptable to Us, Mr Kejriwal</a></li><li class="recentcomments"><span class="comment-author-link">Shihab</span> on <a href="https://www.urdumediamonitor.com/2020/05/26/your-eid-greetings-not-acceptable-to-us-mr-kejriwal/#comment-463746">Your Eid Greetings Not Acceptable to Us, Mr Kejriwal</a></li></ul></aside>
+</div>
+</div>
+</div>
+<footer id="colophon" class="clearfix colormag-footer--classic">
+<div class="footer-widgets-wrapper">
+<div class="inner-wrap">
+<div class="footer-widgets-area clearfix">
+<div class="tg-footer-main-widget">
+<div class="tg-first-footer-widget">
+<aside id="text-10" class="widget widget_text clearfix"><h3 class="widget-title"><span>Permission to Reproduce</span></h3> <div class="textwidget"><aside id="text-8" class="widget widget_text">
+<div class="textwidget">
+<p>Any item from this site may be reproduced with acknowledgement to original source and <a href="https://urdumediamonitor.com/">urdumediamonitor.com</a></p>
+</div>
+</aside>
+</div>
+</aside><aside id="categories-11" class="widget widget_categories clearfix"><h3 class="widget-title"><span>Categories</span></h3>
+<ul>
+<li class="cat-item cat-item-3"><a href="https://www.urdumediamonitor.com/category/articles/">Articles</a>
+</li>
+<li class="cat-item cat-item-431"><a href="https://www.urdumediamonitor.com/category/articles-in-urdu/">Articles in Urdu</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://www.urdumediamonitor.com/category/books/">Books</a>
+</li>
+<li class="cat-item cat-item-245"><a href="https://www.urdumediamonitor.com/category/excerpts-from-urdu-books/">Excerpts from Urdu books</a>
+</li>
+<li class="cat-item cat-item-388"><a href="https://www.urdumediamonitor.com/category/historypersonalities/">History/Personalities</a>
+</li>
+<li class="cat-item cat-item-138"><a href="https://www.urdumediamonitor.com/category/reports/">Reports</a>
+</li>
+</ul>
+</aside> </div>
+</div>
+<div class="tg-footer-other-widgets">
+<div class="tg-second-footer-widget">
+</div>
+<div class="tg-third-footer-widget">
+</div>
+<div class="tg-fourth-footer-widget">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-socket-wrapper clearfix">
+<div class="inner-wrap">
+<div class="footer-socket-area">
+<div class="footer-socket-right-section">
+<div class="social-links clearfix">
+<ul>
+<li><a href="https://www.facebook.com/urdumediamonitor/" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/urdu_media" target="_blank"><i class="fa fa-twitter"></i></a></li> </ul>
+</div>
+</div>
+<div class="footer-socket-left-section">
+<div class="copyright">Copyright &copy; 2022 <a href="https://www.urdumediamonitor.com/" title="Urdu Media Monitor"><span>Urdu Media Monitor</span></a>. All rights reserved.<br>Theme: <a href="https://themegrill.com/themes/colormag" target="_blank" title="ColorMag" rel="nofollow"><span>ColorMag</span></a> by ThemeGrill. Powered by <a href="https://wordpress.org" target="_blank" title="WordPress" rel="nofollow"><span>WordPress</span></a>.</div> </div>
+</div>
+</div>
+</div>
+</footer>
+<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+</div>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.urdumediamonitor.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/jquery.bxslider.min.js?ver=2.1.3' id='colormag-bxslider-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/news-ticker/jquery.newsTicker.min.js?ver=2.1.3' id='colormag-news-ticker-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/magnific-popup/jquery.magnific-popup.min.js?ver=2.1.3' id='colormag-featured-image-popup-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/navigation.min.js?ver=2.1.3' id='colormag-navigation-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/fitvids/jquery.fitvids.min.js?ver=2.1.3' id='colormag-fitvids-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/skip-link-focus-fix.min.js?ver=2.1.3' id='colormag-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.urdumediamonitor.com/wp-content/themes/colormag/js/colormag-custom.min.js?ver=2.1.3' id='colormag-custom-js'></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'76778bce89bcd494',m:'9m.1U8lwtoGnGSugzb84leh8bCPZjqaQmYZcpvA0jPQ-1668007370-0-ATsy0pXCTlSWlNWWO6aOue+5q+4O6U08fxKN5KCh5Us9xcsIGWVh8Ge550z5CQCAkNRFntoYh/Tm4DL5+rU62jY8pE2yoS6ZmWeQDpMZV5gU5o/VOxftZDxpNkt9fd3+nnrqnmpJaTU7cMTPh5L4i7g=',s:[0x4251d38fa1,0x2eb5af7b45],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
+
+0
+

@@ -1,0 +1,27 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 09 Nov 2022 15:15:31 GMT
+Etag: W/"624a143c-20a"
+Server: nginx/1.18.0 (Ubuntu)
+
+20a
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<title>Tomasino (dot) Org</title>
+	</head>
+	<body> 
+		<div id="error" style="text-align: center; margin-top: 40px;">
+			<div id="message" style="font-size: 60px;">404</div>
+			<div id="message" style="font-size: 24px;"><a href="/">Home</a></div>
+		</div> 
+	</body>
+</html>
+
+0
+

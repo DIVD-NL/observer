@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 11
+Cache-Control: max-age=0, private, must-revalidate
+Date: Wed, 09 Nov 2022 15:20:52 GMT
+Location: http://ww1.canberrasocial.net
+Server: Cowboy
+Set-Cookie: sid=193d932a-6042-11ed-b632-7d869900d943; path=/; domain=.canberrasocial.net; expires=Mon, 27 Nov 2090 18:34:59 GMT; max-age=2147483647; secure; HttpOnly
+
+Redirecting

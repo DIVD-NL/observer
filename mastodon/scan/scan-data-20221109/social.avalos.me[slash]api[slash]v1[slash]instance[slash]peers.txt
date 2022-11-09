@@ -1,0 +1,17 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 279
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:17:53 GMT
+Onion-Location: http://4hebgytoglz5paicfhx2ltrrjc7y37tjndk2prrahw3x5df5u4gfogad.onion/api/v1/instance/peers
+Server: Apache/2.4.54 (Debian)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.54 (Debian) Server at social.avalos.me Port 443</address>
+</body></html>

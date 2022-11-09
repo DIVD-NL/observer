@@ -1,0 +1,19 @@
+HTTP/1.1 400 Bad Request
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Nov 2022 15:21:21 GMT
+Expect-Ct: enforce, max-age=81000, report-uri=""
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture 'self' ; speaker 'self'; sync-xhr 'self'; usb 'self'; vr 'self'
+Referrer-Policy: no-referrer
+Server: Apache/2.4.54 (Ubuntu)
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Tk: N
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 50
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1668007285
+Content-Length: 0
+

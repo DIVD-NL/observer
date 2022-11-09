@@ -1,0 +1,20 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Security-Policy: base-uri 'none'; default-src 'none'; frame-ancestors 'none'; font-src 'self' https://ryan.ourfamily.social; img-src 'self' https: data: blob: https://ryan.ourfamily.social; style-src 'self' 'unsafe-inline' https://ryan.ourfamily.social; media-src 'self' https: data: https://ryan.ourfamily.social; frame-src 'self' https:; manifest-src 'self' https://ryan.ourfamily.social; connect-src 'self' data: blob: https://ryan.ourfamily.social https://ryan.ourfamily.social wss://ryan.ourfamily.social; script-src 'self' https://ryan.ourfamily.social; child-src 'self' blob: https://ryan.ourfamily.social; worker-src 'self' blob: https://ryan.ourfamily.social
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 15:17:14 GMT
+Server: Mastodon
+Vary: Accept-Encoding, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 2022-11-09T15:20:00.812369Z
+X-Request-Id: 21a2994e-1918-4427-8256-4f459d1a5694
+X-Runtime: 0.020077
+X-Xss-Protection: 1; mode=block
+
+0
+

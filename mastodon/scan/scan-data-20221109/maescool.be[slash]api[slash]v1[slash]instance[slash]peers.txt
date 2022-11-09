@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 767779c1dc5f83dd-BRU
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 09 Nov 2022 15:10:30 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SQ21M5sgfOWDFAn6YJKKK6HCt%2FY6MgO0aciUhrNr2WWvf5Fx421JiVx3QNTWTWgVIFhHaROoTRu%2FK2JRzaDxBRFTtd%2FpBBxqKjqYiQ%2BqrYFk6m%2FsnKH%2FyoI3qX5Aug%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+
+102
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at maescool.be Port 443</address>
+</body></html>
+
+0
+

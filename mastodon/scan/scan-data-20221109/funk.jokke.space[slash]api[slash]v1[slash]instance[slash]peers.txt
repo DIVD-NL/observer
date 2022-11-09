@@ -1,0 +1,25 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 179
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/html
+Date: Wed, 09 Nov 2022 14:58:45 GMT
+Referrer-Policy: same-origin
+Server: Caddy
+Server: nginx/1.23.2
+Vary: Cookie, Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Not Found</title>
+</head>
+<body>
+  <h1>Not Found</h1><p>The requested resource was not found on this server.</p>
+</body>
+</html>

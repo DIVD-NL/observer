@@ -1,0 +1,43 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: 
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Window-Policy: deny
+Date: Wed, 09 Nov 2022 15:21:43 GMT
+Server: nginx/1.18.0 (Ubuntu)
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: FyXzzh_qbpTLZ30AAkER
+X-Xss-Protection: 1; mode=block
+
+432
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="A lightweight, non-intrusive alternative to Google Analytics."/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icon/plausible_favicon-9ba4fc88116ddbefd69681d7c1985553.png?vsn=d">
+    <title>Plausible · Web analytics</title>
+    <link rel="stylesheet" href="/css/app-8dd1761ddb71dcad979d9f6a6f55d741.css?vsn=d"/>
+    <script type="text/javascript" data-pref="" src="/js/applyTheme-4258f90e1dad263b05620ffcdcb10429.js?vsn=d"></script>
+
+  </head>
+  <body class="flex flex-col h-full bg-gray-100 dark:bg-gray-900">
+    <div class="container text-center mt-24">
+      <h1 class="text-5xl font-black dark:text-gray-100">404</h1>
+      <div class="my-4 text-xl dark:text-gray-100">Oops! There&#39;s nothing here</div>
+<a class="button mt-4" href="/">Go to the homepage</a>
+    </div>
+  </body>
+</html>
+
+0
+
